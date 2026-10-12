@@ -1,18 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <defs>
-    <radialGradient id="g" cx="50%" cy="38%" r="70%">
-      <stop offset="0" stop-color="#1b2640"/>
-      <stop offset="1" stop-color="#0b111d"/>
-    </radialGradient>
-  </defs>
-  <rect width="512" height="512" fill="url(#g)"/>
-  <circle cx="256" cy="236" r="132" fill="none" stroke="#d3ad62" stroke-width="12"/>
-  <circle cx="256" cy="236" r="112" fill="none" stroke="#d3ad62" stroke-opacity="0.35" stroke-width="3"/>
-  <g stroke="#d3ad62" stroke-width="6" stroke-linecap="round" opacity="0.8">
-    <line x1="256" y1="114" x2="256" y2="132"/><line x1="256" y1="340" x2="256" y2="358"/>
-    <line x1="134" y1="236" x2="152" y2="236"/><line x1="360" y1="236" x2="378" y2="236"/>
-  </g>
-  <path d="M256 152v84l58 38" fill="none" stroke="#ece5d6" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="256" cy="236" r="12" fill="#d3ad62"/>
-  <text x="256" y="440" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="58" letter-spacing="14" fill="#ece5d6">CHRONOS</text>
-</svg>
+  <defs><radialGradient id="g" cx="50%" cy="36%" r="75%"><stop offset="0" stop-color="#1d2944"/><stop offset="1" stop-color="#0a101c"/></radialGradient>
+<linearGradient id="au" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e6c785"/><stop offset="1" stop-color="#b98f45"/></linearGradient></defs>
+
+<rect width="512" height="512" fill="url(#g)"/>
+<path d="M150 252 A106 106 0 0 1 362 252" fill="none" stroke="url(#au)" stroke-width="10" stroke-linecap="round"/>
+<path d="M190 252 A66 66 0 0 1 322 252 Z" fill="url(#au)"/>
+<g stroke="#d3ad62" stroke-width="6" stroke-linecap="round" opacity="0.85">
+<line x1="256" y1="98" x2="256" y2="122"/><line x1="160" y1="138" x2="176" y2="154"/><line x1="352" y1="138" x2="336" y2="154"/>
+</g>
+<path d="M256 300 C214 270 160 268 112 282 L112 396 C160 382 214 384 256 414 Z" fill="#ece5d6"/>
+<path d="M256 300 C298 270 352 268 400 282 L400 396 C352 382 298 384 256 414 Z" fill="#d9d1bf"/>
+<path d="M256 300 L256 414" stroke="#0a101c" stroke-width="4"/></svg>

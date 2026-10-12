@@ -20,9 +20,9 @@ function Brand() {
   return (
     <Link to="/" className="brand flex items-center gap-2" aria-label="CHRONOS – zur Startseite">
       <svg viewBox="0 0 32 32" width="22" height="22" aria-hidden className="brand-mark">
-        <circle cx="16" cy="16" r="13.5" fill="none" stroke="currentColor" strokeWidth="1.6" />
-        <path d="M16 7v9l6 4" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" />
-        <circle cx="16" cy="16" r="1.6" fill="currentColor" />
+        <path d="M7 15.5a9 9 0 0 1 18 0" fill="none" stroke="currentColor" strokeWidth="1.7" strokeLinecap="round" />
+        <path d="M11.5 15.5a4.5 4.5 0 0 1 9 0z" fill="currentColor" />
+        <path d="M15.3 18.2c-2.6-1.5-6.4-1.6-10.3-.6v8.2c3.9-1 7.7-.9 10.3.7zM16.7 18.2c2.6-1.5 6.4-1.6 10.3-.6v8.2c-3.9-1-7.7-.9-10.3.7z" fill="currentColor" />
       </svg>
       CHRONOS
     </Link>
