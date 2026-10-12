@@ -17,7 +17,7 @@ const SHOTS = shotsIdx > 0 ? process.argv[shotsIdx + 1] : null
 if (SHOTS && !existsSync(SHOTS)) mkdirSync(SHOTS, { recursive: true })
 const executablePath = process.env.CHROMIUM_PATH ?? (existsSync('/opt/pw-browsers/chromium-1194/chrome-linux/chrome') ? '/opt/pw-browsers/chromium-1194/chrome-linux/chrome' : undefined)
 
-const server = spawn(process.execPath, ['node_modules/vite/bin/vite.js', 'preview', '--port', String(PORT), '--strictPort'], { stdio: 'pipe' })
+const server = spawn(process.execPath, ['scripts/serve-dist.ts', '--port', String(PORT)], { stdio: 'pipe' })
 await new Promise<void>((resolve, reject) => {
   const timer = setTimeout(() => reject(new Error('Vorschau-Server startet nicht')), 15000)
   server.stdout.on('data', (d) => {
@@ -40,6 +40,7 @@ try {
   const page = await context.newPage()
   const errors: string[] = []
   page.on('console', (msg) => msg.type() === 'error' && errors.push(msg.text()))
+  // Verstöße gegen die Content-Security-Policy erscheinen als Konsolenfehler und lassen den Test scheitern
   page.on('pageerror', (err) => errors.push(String(err)))
 
   const visit = async (path: string, name: string, p: Page = page) => {
@@ -76,6 +77,14 @@ try {
   await visit('/einstellungen', 'einstellungen')
   await visit('/info', 'info')
   await visit('/gibt-es-nicht', 'nicht-gefunden')
+  await visit('/artikel/qin-und-han', 'artikel-bild')
+  check((await page.locator('figure img').count()) > 0, 'Artikel zeigt Abbildung mit Bildnachweis')
+  await visit('/atlas?staat=roemisches-kaiserreich', 'atlas-reich')
+  await visit('/route/seidenstrasse', 'route')
+  const res = await page.request.get(`${BASE}/sw.js`)
+  check(res.headers()['cache-control'] === 'no-cache', 'sw.js wird nicht gecacht (Cache-Control: no-cache)')
+  const html = await page.request.get(`${BASE}/`)
+  check((html.headers()['content-security-policy'] ?? '').includes("script-src 'self'"), 'Content-Security-Policy ist gesetzt')
 
   // Lesezeichen setzen und nach Neuladen prüfen
   await page.goto(`${BASE}/artikel/julius-caesar`, { waitUntil: 'networkidle' })

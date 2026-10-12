@@ -40,7 +40,7 @@ function serviceWorkerPlugin(): Plugin {
         hash.update(url).update(readFileSync(file))
         if (url.startsWith('/data/a/') || url.startsWith('/media/')) continue
         if (url === '/data/manifest.json') continue
-        if (url.endsWith('.woff') || url.endsWith('.map') || url === '/_redirects' || url === '/_headers') continue
+        if (url.endsWith('.woff') || url.endsWith('.map') || url === '/_redirects' || url === '/_headers' || url === '/robots.txt') continue
         // Schriften nur für lateinische Schrift vorab speichern (andere Zeichensätze lädt der Browser bei Bedarf)
         if (url.endsWith('.woff2') && /(cyrillic|greek|vietnamese)/.test(url)) continue
         if (url.startsWith('/icons/') && url.endsWith('.svg') && url !== '/icons/favicon.svg') continue

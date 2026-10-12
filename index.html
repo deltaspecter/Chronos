@@ -15,17 +15,7 @@
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-title" content="CHRONOS" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-    <script>
-      // Theme vor dem ersten Rendern setzen (kein Aufblitzen)
-      try {
-        var s = JSON.parse(localStorage.getItem('chronos-settings') || '{}').state || {}
-        var t = s.theme || 'dark'
-        if (t === 'system') t = matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark'
-        document.documentElement.dataset.theme = t
-        if (s.fontScale) document.documentElement.style.setProperty('--font-scale', s.fontScale)
-        if (s.lineHeight) document.documentElement.style.setProperty('--reading-leading', s.lineHeight)
-      } catch (e) {}
-    </script>
+    <script src="/theme-init.js"></script>
   </head>
   <body>
     <div id="root"></div>

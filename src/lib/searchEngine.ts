@@ -40,7 +40,7 @@ export interface SearchOutcome {
   relaxed: boolean
 }
 
-interface Engine {
+export interface Engine {
   mini: MiniSearch<SearchDoc>
   synonyms: Map<string, string[]>
   docs: Map<string, Hit>
@@ -48,16 +48,19 @@ interface Engine {
 
 let enginePromise: Promise<Engine> | null = null
 
+/** Baut die Suchmaschine aus der vorberechneten Indexdatei (auch für Tests nutzbar) */
+export function createEngine({ index, synonyms }: { index: object; synonyms: string[][] }): Engine {
+  const mini = MiniSearch.loadJS<SearchDoc>(index as never, MINISEARCH_OPTIONS)
+  const map = new Map<string, string[]>()
+  for (const group of synonyms) for (const term of group) map.set(normalize(term), group.filter((t) => t !== term))
+  const docs = new Map<string, Hit>()
+  // Alle gespeicherten Felder einmal abrufen (für Zeitraum-Suchen ohne Text)
+  for (const r of mini.search(MiniSearch.wildcard)) docs.set(String(r.id), toHit(r))
+  return { mini, synonyms: map, docs }
+}
+
 export function loadSearch(): Promise<Engine> {
-  enginePromise ??= fetchJson<{ index: object; synonyms: string[][] }>(manifest.files.search).then(({ index, synonyms }) => {
-    const mini = MiniSearch.loadJS<SearchDoc>(index as never, MINISEARCH_OPTIONS)
-    const map = new Map<string, string[]>()
-    for (const group of synonyms) for (const term of group) map.set(normalize(term), group.filter((t) => t !== term))
-    const docs = new Map<string, Hit>()
-    // Alle gespeicherten Felder einmal abrufen (für Zeitraum-Suchen ohne Text)
-    for (const r of mini.search(MiniSearch.wildcard)) docs.set(String(r.id), toHit(r))
-    return { mini, synonyms: map, docs }
-  })
+  enginePromise ??= fetchJson<{ index: object; synonyms: string[][] }>(manifest.files.search).then(createEngine)
   enginePromise.catch(() => (enginePromise = null))
   return enginePromise
 }
