@@ -78,3 +78,87 @@
   aliases: [Tribunizische Gewalt]
   definition: Die Rechte eines Volkstribunen (Unverletzlichkeit, Veto, Gesetzesinitiative), die Augustus seit 23 v. Chr. auf Lebenszeit besaß, ohne das Amt selbst zu bekleiden; Grundlage der Kaisermacht.
   themes: [verfassung-recht]
+- id: stadtstaat
+  name: Stadtstaat
+  aliases: [Polis, Stadtstaaten]
+  definition: Ein politisch selbstständiges Gemeinwesen, das aus einer Stadt und dem von ihr kontrollierten Umland besteht – etwa in Sumer, im antiken Griechenland, bei den Maya oder im Italien der Renaissance.
+  themes: [politik]
+- id: zikkurat
+  name: Zikkurat
+  aliases: [Ziqqurat, Stufentempel, Tempelturm]
+  definition: Gestufter Tempelturm aus Lehmziegeln in Mesopotamien, auf dessen Spitze ein Heiligtum stand. Die Zikkurat von Ur (um 2100 v. Chr.) ist eine der am besten erhaltenen.
+  themes: [religion, kultur-kunst]
+- id: keilschrift
+  name: Keilschrift
+  aliases: [Cuneiform]
+  definition: Schriftsystem Mesopotamiens, dessen Zeichen mit einem Griffel keilförmig in Ton gedrückt wurden; um 3300 v. Chr. in Uruk entstanden, über 3000 Jahre lang für zahlreiche Sprachen verwendet und im 19. Jh. entziffert.
+  themes: [schrift-medien]
+- id: pharao
+  name: Pharao
+  aliases: [Per-aa]
+  definition: Bezeichnung des ägyptischen Königs, von ägyptisch per-aa („großes Haus“, ursprünglich der Palast); erst seit dem Neuen Reich für die Person des Herrschers gebraucht.
+  themes: [politik, religion]
+- id: maat
+  name: Maat
+  aliases: [Ma'at]
+  definition: Ägyptischer Begriff für die richtige Ordnung der Welt – Wahrheit, Gerechtigkeit und kosmisches Gleichgewicht; ihre Erhaltung war die zentrale Aufgabe des Königs.
+  themes: [religion]
+- id: mastaba
+  name: Mastaba
+  definition: Rechteckiger ägyptischer Grabbau mit flachem Dach und geneigten Wänden über einem unterirdischen Grabschacht; Vorläufer der Pyramide.
+  themes: [kultur-kunst, archaeologie]
+- id: hieroglyphen
+  name: Hieroglyphen
+  aliases: [Hieroglyphenschrift]
+  definition: Bilderschrift des alten Ägypten mit Laut-, Wort- und Deutzeichen, verwendet von etwa 3200 v. Chr. bis 394 n. Chr.; 1822 von Jean-François Champollion entziffert.
+  themes: [schrift-medien]
+- id: kandake
+  name: Kandake
+  aliases: [Kdke, Candace]
+  definition: Titel der Königin oder Königinmutter im Reich von Meroe; mehrere Kandaken regierten als Alleinherrscherinnen.
+  themes: [politik]
+- id: meroitische-schrift
+  name: Meroitische Schrift
+  aliases: [Meroitisch]
+  definition: Eigene Schrift des Reiches von Meroe (ab dem 2. Jh. v. Chr.) in hieroglyphischer und kursiver Form; seit 1909–1911 lesbar, die Sprache ist aber nur in Ansätzen verstanden.
+  themes: [schrift-medien]
+- id: satrapie
+  name: Satrapie
+  aliases: [Satrap, Satrapen]
+  definition: Provinz des Perserreiches unter einem Statthalter (Satrap), der Abgaben einzog, Truppen stellte und Recht sprach; später auch in hellenistischen Reichen verwendet.
+  themes: [imperien, verfassung-recht]
+- id: grosskoenig
+  name: Großkönig
+  aliases: [König der Könige, Schahanschah]
+  definition: Titel der persischen Herrscher („König der Könige“), der ihre Stellung über unterworfenen Königen und Völkern ausdrückte.
+  themes: [politik]
+- id: dhamma
+  name: Dhamma (Ashoka)
+  aliases: [Dharma, Dhamma-Politik]
+  definition: In den Inschriften Ashokas eine allgemeine Ethik von Gewaltlosigkeit, Toleranz, Freigebigkeit und Fürsorge, die der König im ganzen Reich verkündete; nicht gleichbedeutend mit einer bestimmten Religion.
+  themes: [religion, politik]
+- id: brahmi
+  name: Brahmi-Schrift
+  aliases: [Brahmi]
+  definition: Älteste gut belegte Schrift Südasiens, verwendet in den Inschriften Ashokas; Vorläuferin zahlreicher südasiatischer und südostasiatischer Schriften. 1837 von James Prinsep entziffert.
+  themes: [schrift-medien]
+- id: legalismus
+  name: Legalismus
+  aliases: [Fajia, Schule der Gesetze]
+  definition: Spätere Sammelbezeichnung für chinesische Staatstheoretiker wie Shang Yang und Han Feizi, die Ordnung durch strenge, für alle geltende Gesetze, Belohnung und Strafe sichern wollten; prägend für den Staat Qin.
+  themes: [politik, verfassung-recht]
+- id: konfuzianismus
+  name: Konfuzianismus
+  aliases: [Rujia, Konfuzius, Kongzi]
+  definition: Auf Konfuzius (551–479 v. Chr. nach der Überlieferung) zurückgehende Lehre, die Ordnung durch Bildung, Rituale, moralisches Vorbild und richtige Beziehungen in Familie und Staat anstrebt; seit der Han-Zeit Grundlage der Beamtenausbildung.
+  themes: [religion, politik]
+- id: mandat-des-himmels
+  name: Mandat des Himmels
+  aliases: [Tianming, Himmelsmandat]
+  definition: Chinesische Vorstellung, dass der Himmel einem gerechten Herrscher das Recht zur Herrschaft verleiht und es einem unfähigen oder tyrannischen Herrscher wieder entziehen kann; Rechtfertigung für Dynastiewechsel.
+  themes: [politik, religion]
+- id: kommandantur-kreis-system
+  name: Kommandantur-Kreis-System
+  aliases: [Junxian-System, Kommandanturen]
+  definition: Gliederung des chinesischen Reiches in Kommandanturen (jun) und Kreise (xian) unter ernannten, absetzbaren Beamten statt erblicher Lehnsherren; unter Qin reichsweit eingeführt.
+  themes: [verfassung-recht, imperien]

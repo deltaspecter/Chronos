@@ -1,0 +1,121 @@
+- id: goebekli-tepe
+  name: Göbekli Tepe
+  aliases: [Goebekli Tepe, Gobekli Tepe]
+  coords: [38.9224, 37.2233]
+  categories: [fundstaette, heiligtum]
+  start: "~-9600"
+  end: "~-8200"
+  modernName: bei Şanlıurfa (Türkei)
+  summary: Fundort in Südostanatolien mit monumentalen Rundanlagen und T-förmigen Steinpfeilern aus dem 10. und 9. Jahrtausend v. Chr.; UNESCO-Welterbe.
+  regions: [anatolien]
+  themes: [archaeologie, religion]
+- id: catalhoeyuek
+  name: Çatalhöyük
+  aliases: [Catalhöyük, Catal Hüyük, Çatal Höyük]
+  coords: [32.8283, 37.6667]
+  categories: [fundstaette, stadt]
+  start: "~-7100"
+  end: "~-6000"
+  modernName: bei Konya (Türkei)
+  summary: Große jungsteinzeitliche Siedlung in Zentralanatolien mit dicht gedrängten, über das Dach betretenen Häusern und Wandmalereien.
+  regions: [anatolien]
+  themes: [archaeologie, gesellschaft]
+- id: jericho
+  name: Jericho
+  aliases: [Tell es-Sultan, Ariha]
+  coords: [35.4440, 31.8710]
+  categories: [fundstaette, stadt]
+  start: "~-9600"
+  summary: Siedlungshügel im Jordantal mit einer der ältesten befestigten Siedlungen der Welt; der Steinturm stammt aus dem präkeramischen Neolithikum.
+  regions: [levante]
+  themes: [archaeologie]
+- id: ain-ghazal
+  name: ʿAin Ghazal
+  aliases: [Ain Ghazal]
+  coords: [35.9800, 31.9900]
+  location: ungefaehr
+  categories: [fundstaette]
+  summary: Große jungsteinzeitliche Siedlung bei Amman (Jordanien), bekannt für ihre Figuren aus Kalkputz.
+  regions: [levante]
+  themes: [archaeologie, kultur-kunst]
+- id: jarmo
+  name: Jarmo
+  aliases: [Qal'at Jarmo]
+  coords: [44.95, 35.55]
+  location: ungefaehr
+  categories: [fundstaette]
+  summary: Frühes Bauerndorf im Zagros-Vorland (Nordirak), dessen Ausgrabung durch Robert Braidwood ab 1948 die Erforschung der Neolithisierung prägte.
+  regions: [mesopotamien]
+  themes: [archaeologie, landwirtschaft]
+- id: uruk
+  name: Uruk
+  aliases: [Warka, Erech, Unug]
+  coords: [45.6361, 31.3242]
+  categories: [stadt, fundstaette, kulturzentrum]
+  start: "~-4500"
+  summary: Bedeutendste Stadt des 4. Jahrtausends v. Chr. im Süden Mesopotamiens, Fundort der ältesten Schrifttafeln; seit 1912/13 von deutschen Archäologen erforscht.
+  regions: [mesopotamien]
+  themes: [archaeologie, schrift-medien]
+- id: ur
+  name: Ur
+  aliases: [Tell el-Muqayyar]
+  coords: [46.1036, 30.9625]
+  categories: [stadt, fundstaette, hauptstadt]
+  summary: Sumerische Stadt im Südirak mit dem Königsfriedhof (um 2600–2500 v. Chr.) und der Zikkurat der Dritten Dynastie von Ur.
+  regions: [mesopotamien]
+  themes: [archaeologie]
+- id: eridu
+  name: Eridu
+  aliases: [Abu Shahrain]
+  coords: [45.9960, 30.8160]
+  categories: [stadt, fundstaette, heiligtum]
+  summary: Eine der ältesten Siedlungen im Süden Mesopotamiens mit einem über viele Bauphasen erneuerten Tempel; nach der Königsliste die erste Stadt des Königtums.
+  regions: [mesopotamien]
+  themes: [archaeologie, religion]
+- id: nippur
+  name: Nippur
+  coords: [45.2310, 32.1270]
+  categories: [stadt, heiligtum, kulturzentrum]
+  summary: Religiöses Zentrum Sumers mit dem Tempel des Gottes Enlil; Fundort zahlreicher literarischer Keilschrifttexte.
+  regions: [mesopotamien]
+  themes: [religion]
+- id: lagasch
+  name: Lagasch
+  aliases: [Lagash, al-Hiba]
+  coords: [46.4000, 31.4100]
+  location: ungefaehr
+  categories: [stadt, fundstaette]
+  summary: Sumerischer Stadtstaat, dessen Grenzkonflikt mit Umma über Generationen in Inschriften überliefert ist.
+  regions: [mesopotamien]
+- id: umma
+  name: Umma
+  aliases: [Tell Jokha]
+  coords: [45.8900, 31.6700]
+  location: ungefaehr
+  categories: [stadt]
+  summary: Sumerischer Stadtstaat und langjähriger Rivale von Lagasch.
+  regions: [mesopotamien]
+- id: kisch
+  name: Kisch
+  aliases: [Kish]
+  coords: [44.6000, 32.5400]
+  location: ungefaehr
+  categories: [stadt]
+  summary: Frühe Stadt im nördlichen Babylonien; der Titel „König von Kisch“ stand später für Herrschaft über ganz Mesopotamien.
+  regions: [mesopotamien]
+- id: babylon
+  name: Babylon
+  aliases: [Babel, Bābili]
+  coords: [44.4209, 32.5364]
+  categories: [stadt, hauptstadt, kulturzentrum]
+  summary: Stadt am Euphrat, unter Hammurapi und erneut im 6. Jh. v. Chr. Zentrum großer Reiche; 539 v. Chr. von Kyros II. eingenommen.
+  regions: [mesopotamien]
+  themes: [politik]
+- id: habuba-kabira
+  name: Habuba Kabira
+  coords: [38.0500, 36.1500]
+  location: ungefaehr
+  categories: [fundstaette, stadt]
+  summary: Planmäßig angelegte Stadt der Uruk-Zeit am syrischen Euphrat, heute vom Assad-Stausee überflutet.
+  regions: [levante]
+  themes: [archaeologie]

@@ -1,0 +1,60 @@
+- id: jebel-irhoud
+  name: Jebel Irhoud
+  aliases: [Djebel Irhoud]
+  coords: [-8.872, 31.855]
+  categories: [fundstaette]
+  summary: Höhlenfundstelle in Marokko mit den ältesten bekannten Fossilien des Homo sapiens (rund 300.000 Jahre).
+  regions: [nordafrika]
+  themes: [archaeologie]
+- id: omo-kibish
+  name: Omo Kibish
+  aliases: [Omo I, Kibish-Formation]
+  coords: [35.95, 5.40]
+  location: ungefaehr
+  categories: [fundstaette]
+  summary: Fundgebiet am Omo-Fluss in Südäthiopien mit frühen Fossilien des Homo sapiens, mindestens etwa 230.000 Jahre alt.
+  regions: [nordostafrika]
+  themes: [archaeologie]
+- id: misliya
+  name: Misliya-Höhle
+  aliases: [Misliya Cave]
+  coords: [34.98, 32.73]
+  location: ungefaehr
+  categories: [fundstaette]
+  summary: Höhle am Karmel-Gebirge (Israel); ein dort gefundener Oberkiefer gilt als einer der ältesten Belege für Homo sapiens außerhalb Afrikas.
+  regions: [levante]
+  themes: [archaeologie]
+- id: madjedbebe
+  name: Madjedbebe
+  aliases: [Malakunanja II]
+  coords: [132.90, -12.50]
+  location: ungefaehr
+  categories: [fundstaette]
+  summary: Felsüberhang im Arnhemland (Nordaustralien), dessen älteste Schichten auf mindestens 65.000 Jahre datiert wurden – das älteste vorgeschlagene Datum für die Besiedlung Australiens.
+  regions: [ozeanien]
+  themes: [archaeologie, migration]
+- id: monte-verde
+  name: Monte Verde
+  coords: [-73.20, -41.50]
+  location: ungefaehr
+  categories: [fundstaette]
+  summary: Fundstelle in Südchile, die eine menschliche Besiedlung Südamerikas vor etwa 14.500 Jahren belegt.
+  regions: [suedamerika]
+  themes: [archaeologie, migration]
+- id: white-sands
+  name: White Sands
+  aliases: [White-Sands-Nationalpark]
+  coords: [-106.17, 32.78]
+  location: ungefaehr
+  categories: [fundstaette]
+  summary: Fundstelle menschlicher Fußspuren in New Mexico (USA), die auf 23.000 bis 21.000 Jahre datiert wurden; die Datierung wird diskutiert.
+  regions: [nordamerika]
+  themes: [archaeologie, migration]
+- id: blombos
+  name: Blombos-Höhle
+  aliases: [Blombos Cave]
+  coords: [21.22, -34.41]
+  categories: [fundstaette]
+  summary: Höhle an der Südküste Südafrikas mit gravierten Ockerstücken und Muschelperlen aus der Zeit vor etwa 100.000 bis 70.000 Jahren.
+  regions: [suedliches-afrika]
+  themes: [archaeologie, kultur-kunst]

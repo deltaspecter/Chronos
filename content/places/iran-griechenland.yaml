@@ -1,0 +1,72 @@
+- id: pasargadae
+  name: Pasargadae
+  aliases: [Pasargad]
+  coords: [53.1670, 30.1940]
+  categories: [hauptstadt, fundstaette]
+  summary: Residenz Kyros' II. in der Persis mit seinem Grabbau; UNESCO-Welterbe.
+  regions: [iran]
+  themes: [archaeologie]
+- id: persepolis
+  name: Persepolis
+  aliases: [Parsa, Takht-e Jamshid]
+  coords: [52.8910, 29.9350]
+  categories: [hauptstadt, fundstaette, kulturzentrum]
+  start: "~-518"
+  end: "-330"
+  summary: Von Dareios I. ab etwa 518 v. Chr. errichtete Palastanlage in der Persis; 330 v. Chr. von Alexander niedergebrannt. Fundort der Verwaltungsarchive des Reiches.
+  regions: [iran]
+  themes: [archaeologie, politik]
+- id: susa
+  name: Susa
+  aliases: [Schusch, Šušan]
+  coords: [48.2570, 32.1890]
+  categories: [stadt, hauptstadt]
+  summary: Alte elamische Stadt und eine der Hauptresidenzen der Achämeniden; Endpunkt der Königsstraße.
+  regions: [iran]
+  themes: [politik]
+- id: ekbatana
+  name: Ekbatana
+  aliases: [Hamadan, Hagmatana]
+  coords: [48.5150, 34.7990]
+  categories: [stadt, hauptstadt]
+  summary: Hauptstadt der Meder und Sommerresidenz der Achämeniden, heute Hamadan.
+  regions: [iran]
+- id: sardes
+  name: Sardes
+  aliases: [Sardis]
+  coords: [28.0400, 38.4880]
+  categories: [stadt, hauptstadt]
+  summary: Hauptstadt des Lydischen Reiches und später persischer Satrapensitz; Ausgangspunkt der Königsstraße.
+  regions: [anatolien]
+- id: bisotun
+  name: Bisotun
+  aliases: [Behistun, Bisutun]
+  coords: [47.4360, 34.3890]
+  categories: [fundstaette]
+  summary: Felswand an der Straße nach Ekbatana mit der dreisprachigen Inschrift Dareios' I.; UNESCO-Welterbe.
+  regions: [iran]
+  themes: [schrift-medien, geschichtsschreibung]
+- id: marathon
+  name: Marathon
+  coords: [23.9700, 38.1500]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  summary: Ebene in Attika, in der 490 v. Chr. ein athenisches Heer eine persische Landungstruppe zurückschlug.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+- id: salamis
+  name: Salamis
+  coords: [23.5500, 37.9500]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  summary: Insel vor Athen; in der Meerenge besiegte 480 v. Chr. die griechische Flotte die persische.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+- id: gaugamela
+  name: Gaugamela
+  coords: [43.4500, 36.5600]
+  location: umstritten
+  categories: [schlachtfeld]
+  summary: Ort im nördlichen Mesopotamien (Irak), bei dem Alexander 331 v. Chr. Dareios III. entscheidend besiegte; die genaue Lage ist nicht gesichert.
+  regions: [mesopotamien]
+  themes: [krieg-militaer]

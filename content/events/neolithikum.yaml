@@ -1,0 +1,42 @@
+- id: natufien
+  title: Natufien-Kultur in der Levante
+  start: "~-12500"
+  end: "~-9700"
+  certainty: wahrscheinlich
+  weight: 2
+  kind: entwicklung
+  summary: Jäger und Sammler leben in dauerhaften Siedlungen und ernten wilde Getreide – eine „Schwelle“ zur Landwirtschaft.
+  regions: [levante]
+  themes: [landwirtschaft, gesellschaft]
+- id: goebekli-tepe-bau
+  title: Monumentalbauten am Göbekli Tepe
+  start: "~-9600"
+  end: "~-8200"
+  certainty: wahrscheinlich
+  weight: 2
+  kind: entwicklung
+  summary: In Südostanatolien entstehen monumentale Rundanlagen mit reliefverzierten Steinpfeilern – Jahrhunderte vor domestizierten Pflanzen.
+  regions: [anatolien]
+  themes: [religion, archaeologie]
+  places: [goebekli-tepe]
+- id: domestikation-getreide
+  title: Domestikation von Getreide und Haustieren im Fruchtbaren Halbmond
+  start: "~-9000"
+  end: "~-7500"
+  certainty: wahrscheinlich
+  dateNote: Ein langer Prozess; Anbau wilder Formen begann schon im 10. Jahrtausend v. Chr.
+  weight: 1
+  kind: entwicklung
+  summary: Einkorn, Emmer, Gerste, Hülsenfrüchte, Ziege, Schaf, Rind und Schwein werden zu Kulturpflanzen und Haustieren.
+  regions: [westasien]
+  themes: [landwirtschaft]
+  places: [jericho, jarmo]
+- id: ausbreitung-landwirtschaft-europa
+  title: Ausbreitung der Landwirtschaft nach Europa
+  start: "~-6500"
+  end: "~-4000"
+  weight: 2
+  kind: entwicklung
+  summary: Bauern aus Anatolien gelangen über die Ägäis nach Südost- und Mitteleuropa; um 5500 v. Chr. entsteht die Linearbandkeramik.
+  regions: [europa]
+  themes: [landwirtschaft, migration]

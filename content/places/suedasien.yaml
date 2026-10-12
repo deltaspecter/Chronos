@@ -1,0 +1,60 @@
+- id: pataliputra
+  name: Pataliputra
+  aliases: [Palibothra, Patna]
+  coords: [85.1400, 25.6100]
+  categories: [stadt, hauptstadt]
+  summary: Hauptstadt des Maurya-Reiches am Ganges, eine der größten Städte der antiken Welt; liegt unter dem heutigen Patna.
+  regions: [suedasien]
+  themes: [politik]
+- id: dhauli
+  name: Dhauli
+  coords: [85.8400, 20.1900]
+  categories: [fundstaette]
+  summary: Ort bei Bhubaneswar (Odisha) mit Felsedikten Ashokas im ehemaligen Kalinga, darunter die Sonderedikte zur gerechten Verwaltung.
+  regions: [suedasien]
+  themes: [schrift-medien]
+- id: sarnath
+  name: Sarnath
+  coords: [83.0240, 25.3810]
+  categories: [heiligtum, fundstaette]
+  summary: Ort bei Varanasi, an dem der Buddha nach der Überlieferung erstmals lehrte; Fundort des Löwenkapitells Ashokas, heute Staatswappen Indiens.
+  regions: [suedasien]
+  themes: [religion]
+- id: lumbini
+  name: Lumbini
+  aliases: [Rummindei]
+  coords: [83.2760, 27.4690]
+  categories: [heiligtum]
+  modernName: Lumbini (Nepal)
+  summary: Geburtsort des Buddha nach der Überlieferung; eine Säuleninschrift Ashokas bezeugt seinen Besuch.
+  regions: [suedasien]
+  themes: [religion]
+- id: kandahar
+  name: Kandahar
+  aliases: [Alexandria Arachosia]
+  coords: [65.7100, 31.6100]
+  categories: [stadt]
+  summary: Stadt in Afghanistan, Fundort einer zweisprachigen griechisch-aramäischen Inschrift Ashokas.
+  regions: [zentralasien, suedasien]
+- id: junagadh
+  name: Junagadh (Girnar)
+  aliases: [Girnar, Junagarh]
+  coords: [70.4700, 21.5200]
+  categories: [fundstaette]
+  summary: Felsen am Fuß des Girnar (Gujarat) mit einem Felsedikt Ashokas und der Inschrift Rudradamans über den Sudarshana-Stausee.
+  regions: [suedasien]
+  themes: [schrift-medien]
+- id: sanchi
+  name: Sanchi
+  coords: [77.7390, 23.4790]
+  categories: [heiligtum, fundstaette]
+  summary: Buddhistisches Heiligtum in Zentralindien, dessen Großer Stupa unter Ashoka begonnen wurde; UNESCO-Welterbe.
+  regions: [suedasien]
+  themes: [religion, kultur-kunst]
+- id: shravanabelagola
+  name: Shravanabelagola
+  coords: [76.4840, 12.8590]
+  categories: [heiligtum]
+  summary: Jainistisches Pilgerzentrum in Karnataka; nach der Überlieferung starb hier Chandragupta Maurya als Mönch.
+  regions: [suedasien]
+  themes: [religion]

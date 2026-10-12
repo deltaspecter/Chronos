@@ -1,0 +1,35 @@
+- id: reich-von-akkad
+  name: Reich von Akkad
+  aliases: [Akkadisches Reich, Akkad]
+  start: "~-2334"
+  end: "~-2154"
+  spanNote: Daten nach der Mittleren Chronologie.
+  summary: Erstes Reich, das ganz Mesopotamien unter einer Herrschaft vereinte; von Sargon begründet, Hauptstadt Akkade (Lage unbekannt).
+  regions: [mesopotamien]
+  themes: [imperien]
+  successors: [ur-iii-reich]
+  weight: 2
+- id: ur-iii-reich
+  name: Dritte Dynastie von Ur
+  aliases: [Ur III, Neusumerisches Reich]
+  start: "~-2112"
+  end: "~-2004"
+  capital: ur
+  summary: Bürokratisch straff organisierter Staat mit Zentrum in Ur, der große Teile Mesopotamiens beherrschte.
+  regions: [mesopotamien]
+  themes: [imperien, verfassung-recht]
+  predecessors: [reich-von-akkad]
+  successors: [altbabylonisches-reich]
+  weight: 2
+- id: altbabylonisches-reich
+  name: Altbabylonisches Reich
+  aliases: [Babylonien, Erste Dynastie von Babylon]
+  start: "~-1894"
+  end: "~-1595"
+  spanNote: Ende mit der Plünderung Babylons durch die Hethiter; Daten nach der Mittleren Chronologie.
+  capital: babylon
+  summary: Unter Hammurapi zur Vormacht Mesopotamiens aufgestiegenes Reich mit Babylon als Hauptstadt.
+  regions: [mesopotamien]
+  themes: [imperien]
+  predecessors: [ur-iii-reich]
+  weight: 2

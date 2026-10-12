@@ -1,0 +1,14 @@
+- id: natufien-kultur
+  name: Natufien
+  aliases: [Natufian, Natufische Kultur]
+  start: "~-12500"
+  end: "~-9700"
+  summary: Spätaltsteinzeitliche Kultur der Levante mit ersten dauerhaften Siedlungen von Jägern und Sammlern und intensiver Nutzung wilder Getreide.
+  regions: [levante]
+- id: linearbandkeramik
+  name: Linearbandkeramische Kultur
+  aliases: [Bandkeramik, LBK]
+  start: "~-5500"
+  end: "~-4900"
+  summary: Erste bäuerliche Kultur Mitteleuropas, benannt nach den Bandmustern ihrer Keramik; typisch sind große Langhäuser.
+  regions: [mitteleuropa, westeuropa, osteuropa]

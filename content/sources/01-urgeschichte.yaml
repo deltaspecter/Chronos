@@ -172,3 +172,51 @@
   volume: "536"
   year: 2016
   pages: 419–424
+- id: vidal-2022
+  kind: sekundaer
+  authors: ["Vidal, Céline M.", "u. a."]
+  title: Age of the oldest known Homo sapiens from eastern Africa
+  container: Nature
+  volume: "601"
+  year: 2022
+  pages: 579–583
+- id: white-2003
+  kind: sekundaer
+  authors: ["White, Tim D.", "u. a."]
+  title: Pleistocene Homo sapiens from Middle Awash, Ethiopia
+  container: Nature
+  volume: "423"
+  year: 2003
+  pages: 742–747
+- id: hershkovitz-2018
+  kind: sekundaer
+  authors: ["Hershkovitz, Israel", "u. a."]
+  title: The earliest modern humans outside Africa
+  container: Science
+  volume: "359"
+  year: 2018
+  pages: 456–459
+- id: higham-2014
+  kind: sekundaer
+  authors: ["Higham, Tom", "u. a."]
+  title: The timing and spatiotemporal patterning of Neanderthal disappearance
+  container: Nature
+  volume: "512"
+  year: 2014
+  pages: 306–309
+- id: mcbrearty-brooks-2000
+  kind: sekundaer
+  authors: ["McBrearty, Sally", "Brooks, Alison S."]
+  title: "The revolution that wasn't: a new interpretation of the origin of modern human behavior"
+  container: Journal of Human Evolution
+  volume: "39"
+  year: 2000
+  pages: 453–563
+- id: cauvin-1994
+  kind: sekundaer
+  authors: ["Cauvin, Jacques"]
+  title: Naissance des divinités, naissance de l'agriculture
+  subtitle: La révolution des symboles au Néolithique
+  place: Paris
+  publisher: CNRS Éditions
+  year: 1994

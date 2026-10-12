@@ -1,0 +1,119 @@
+- id: shang-yang-reformen
+  title: Reformen des Shang Yang in Qin
+  date: "~-356"
+  certainty: wahrscheinlich
+  weight: 3
+  kind: gesetz
+  summary: Qin führt Haushaltsregister, Kollektivhaftung, Ränge für militärische Verdienste und einheitliche Maße ein.
+  regions: [china]
+  themes: [verfassung-recht, politik]
+  persons: [shang-yang]
+  polities: [qin-dynastie]
+- id: reichseinigung-qin
+  title: Reichseinigung Chinas durch Qin
+  date: "-221"
+  weight: 1
+  kind: gruendung
+  summary: Der König von Qin besiegt den letzten rivalisierenden Staat und nennt sich „Erster Kaiser“; Schrift, Maße und Münzen werden vereinheitlicht.
+  regions: [china]
+  themes: [imperien, politik]
+  places: [xianyang]
+  persons: [qin-shihuangdi, li-si]
+  polities: [qin-dynastie]
+- id: buecherverbrennung
+  title: Bücherverbrennung unter dem Ersten Kaiser
+  date: "-213"
+  certainty: umstritten
+  dateNote: Überliefert von Sima Qian rund ein Jahrhundert später; Ausmaß und Einzelheiten werden diskutiert.
+  weight: 3
+  kind: ereignis
+  summary: Nach Sima Qian werden private Abschriften von Geschichtswerken und Klassikern verbrannt.
+  regions: [china]
+  themes: [schrift-medien, politik]
+  persons: [qin-shihuangdi, li-si]
+  polities: [qin-dynastie]
+- id: tod-qin-shihuangdi
+  title: Tod des Ersten Kaisers
+  date: "-210"
+  weight: 3
+  kind: herrschaft
+  summary: Der Erste Kaiser stirbt auf einer Inspektionsreise; bald darauf brechen Aufstände aus, die Qin-Dynastie endet 207/206 v. Chr.
+  regions: [china]
+  themes: [politik]
+  places: [mausoleum-qin-shihuangdi]
+  persons: [qin-shihuangdi]
+  polities: [qin-dynastie]
+- id: gruendung-han-dynastie
+  title: Gründung der Han-Dynastie
+  date: "-202"
+  weight: 2
+  kind: gruendung
+  summary: Liu Bang setzt sich im Bürgerkrieg nach dem Fall der Qin durch und begründet die Han-Dynastie mit der Hauptstadt Chang'an.
+  regions: [china]
+  themes: [politik]
+  places: [changan]
+  persons: [liu-bang]
+  polities: [han-dynastie]
+- id: mission-zhang-qian
+  title: Gesandtschaftsreise des Zhang Qian
+  start: "~-138"
+  end: "~-126"
+  certainty: wahrscheinlich
+  weight: 2
+  kind: entdeckung
+  summary: Der Han-Gesandte reist durch Zentralasien bis Baktrien; seine Berichte leiten regelmäßige Kontakte entlang der späteren Seidenstraßen ein.
+  regions: [china, zentralasien]
+  themes: [handelsnetze]
+  places: [dunhuang]
+  persons: [zhang-qian, han-wudi]
+  polities: [han-dynastie, xiongnu]
+- id: salz-eisen-monopol
+  title: Staatsmonopole für Salz und Eisen
+  date: "-117"
+  certainty: wahrscheinlich
+  weight: 3
+  kind: gesetz
+  summary: Kaiser Wu verstaatlicht Herstellung und Handel von Salz und Eisen, um seine Kriege zu finanzieren; 81 v. Chr. wird darüber am Hof debattiert.
+  regions: [china]
+  themes: [wirtschaft-handel]
+  persons: [han-wudi]
+  polities: [han-dynastie]
+- id: volkszaehlung-han
+  title: Volkszählung im Han-Reich
+  date: "2"
+  weight: 3
+  kind: ereignis
+  summary: Die Zählung ergibt rund 57,7 Millionen Menschen in etwa 12,2 Millionen Haushalten – eine der frühesten überlieferten Volkszählungen eines Großreichs.
+  regions: [china]
+  themes: [gesellschaft, verfassung-recht]
+  polities: [han-dynastie]
+- id: xin-dynastie
+  title: Xin-Dynastie des Wang Mang
+  start: "9"
+  end: "23"
+  weight: 3
+  kind: herrschaft
+  summary: Der Regent Wang Mang setzt die Han ab; seine Reformen scheitern, Aufstände führen zu seinem Sturz.
+  regions: [china]
+  themes: [politik]
+  persons: [wang-mang]
+  polities: [han-dynastie]
+- id: aufstand-gelbe-turbane
+  title: Aufstand der Gelben Turbane
+  date: "184"
+  weight: 3
+  kind: revolution
+  summary: Eine religiös inspirierte Massenbewegung erhebt sich gegen die Han-Regierung; ihre Niederschlagung stärkt die Heerführer.
+  regions: [china]
+  themes: [religion, gesellschaft]
+  polities: [han-dynastie]
+- id: ende-han-dynastie
+  title: Ende der Han-Dynastie
+  date: "220"
+  weight: 2
+  kind: herrschaft
+  summary: Der letzte Han-Kaiser dankt ab; es beginnt die Zeit der Drei Reiche.
+  regions: [china]
+  themes: [politik]
+  places: [luoyang]
+  polities: [han-dynastie]

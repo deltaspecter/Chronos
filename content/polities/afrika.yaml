@@ -1,0 +1,35 @@
+- id: pharaonisches-aegypten
+  name: Pharaonisches Ägypten
+  aliases: [Altes Ägypten, Ägypten der Pharaonen]
+  start: "~-3000"
+  end: "-30"
+  spanNote: Über rund drei Jahrtausende mit Phasen politischer Zersplitterung (Zwischenzeiten) und Fremdherrschaft (u. a. Perser, makedonische Ptolemäer).
+  capital: memphis
+  summary: Der Staat der ägyptischen Könige von der Reichseinigung bis zur Eingliederung in das Römische Reich.
+  regions: [aegypten]
+  themes: [imperien, religion]
+  successors: [ptolemaeerreich]
+  weight: 1
+- id: kerma-reich
+  name: Reich von Kerma
+  aliases: [Kusch (Kerma-Zeit)]
+  start: "~-2500"
+  end: "~-1500"
+  capital: kerma
+  summary: Nubisches Königreich am mittleren Nil, einer der ältesten Staaten Afrikas südlich Ägyptens und zeitweise Rivale der Pharaonen.
+  regions: [nubien]
+  themes: [imperien]
+  successors: [kusch]
+  weight: 2
+- id: kusch
+  name: Reich von Kusch (Napata und Meroe)
+  aliases: [Kusch, Kush, Napata, Meroe, Meroitisches Reich]
+  start: "~-850"
+  end: "~350"
+  capital: meroe
+  spanNote: Zentrum zunächst Napata, ab dem 6.–3. Jh. v. Chr. zunehmend Meroe.
+  summary: Nubisches Königreich, das im 8. und 7. Jh. v. Chr. als 25. Dynastie über Ägypten herrschte und in der Meroe-Zeit eine eigene Schrift entwickelte.
+  regions: [nubien]
+  themes: [imperien, religion]
+  predecessors: [kerma-reich]
+  weight: 2

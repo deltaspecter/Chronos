@@ -1,0 +1,30 @@
+- id: homininen
+  name: Homininen
+  aliases: [Hominini, Hominine]
+  definition: Die Menschen und alle ausgestorbenen Arten, die nach der Trennung von der Linie der Schimpansen vor etwa sechs bis sieben Millionen Jahren näher mit dem Menschen verwandt sind.
+  themes: [archaeologie]
+- id: alte-dna
+  name: Alte DNA
+  aliases: [aDNA, Paläogenetik, ancient DNA]
+  definition: Erbgut aus archäologischen und paläontologischen Funden. Seit etwa 2010 lassen sich ganze Genome aus zehntausende Jahre alten Knochen gewinnen; die Methode hat das Wissen über Wanderungen und Vermischungen grundlegend verändert.
+  themes: [archaeologie, wissenschaft-technik]
+- id: radiokarbondatierung
+  name: Radiokarbondatierung
+  aliases: [C14-Methode, Radiokohlenstoffdatierung, C-14]
+  definition: Naturwissenschaftliche Altersbestimmung organischer Reste über den Zerfall des Kohlenstoffisotops C-14; anwendbar bis etwa 50.000 Jahre. Rohdaten müssen „kalibriert“ werden, um Kalenderjahre zu erhalten.
+  themes: [archaeologie, wissenschaft-technik]
+- id: neolithikum
+  name: Neolithikum
+  aliases: [Jungsteinzeit]
+  definition: Die Epoche, in der Menschen zu Ackerbau und Viehhaltung übergingen; ursprünglich nach geschliffenen Steinwerkzeugen benannt. Beginn und Ende sind regional sehr verschieden.
+  themes: [landwirtschaft, archaeologie]
+- id: domestikation
+  name: Domestikation
+  aliases: [Haustierwerdung, Kulturpflanze]
+  definition: Die genetische Veränderung von Pflanzen und Tieren durch menschliche Auslese über viele Generationen, bis sie sich von ihren Wildformen unterscheiden und oft auf den Menschen angewiesen sind.
+  themes: [landwirtschaft]
+- id: fruchtbarer-halbmond
+  name: Fruchtbarer Halbmond
+  aliases: [Fertile Crescent]
+  definition: Ein bogenförmiges Gebiet von der Levante über Südostanatolien und Nordmesopotamien bis zum Zagros-Gebirge, in dem Wildformen von Getreide und Hülsenfrüchten vorkamen. Der Begriff wurde 1916 von dem Archäologen James Henry Breasted geprägt.
+  themes: [landwirtschaft]

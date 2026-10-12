@@ -1,0 +1,60 @@
+- id: chandragupta-maurya
+  name: Chandragupta Maurya
+  aliases: [Candragupta, Sandrokottos, Sandrakottos]
+  born: "~-350?"
+  died: "~-297"
+  roles: [König, Reichsgründer]
+  summary: Begründer des Maurya-Reiches (um 321 v. Chr.), der die Nanda-Dynastie stürzte und mit Seleukos I. einen Vertrag schloss.
+  regions: [suedasien]
+  themes: [imperien, politik]
+  places: [pataliputra, shravanabelagola]
+  related: [kautilya, seleukos-i, megasthenes, bindusara]
+- id: bindusara
+  name: Bindusara
+  aliases: [Amitrochates]
+  died: "~-273"
+  roles: [König]
+  summary: Sohn Chandraguptas und Vater Ashokas, regierte etwa 297–273 v. Chr.
+  regions: [suedasien]
+  themes: [politik]
+  related: [chandragupta-maurya, ashoka]
+- id: ashoka
+  name: Ashoka
+  aliases: [Aśoka, Asoka, Devanampiya Piyadasi, Piyadassi]
+  born: "~-304?"
+  died: "~-232"
+  roles: [König]
+  summary: Maurya-Herrscher (um 268–232 v. Chr.), der nach dem Krieg gegen Kalinga in zahlreichen Inschriften eine Ethik der Gewaltlosigkeit und Toleranz (Dhamma) verkündete und den Buddhismus förderte.
+  regions: [suedasien]
+  themes: [religion, politik, verfassung-recht]
+  places: [pataliputra, dhauli, sarnath, lumbini, kandahar, sanchi]
+  related: [bindusara]
+- id: kautilya
+  name: Kautilya
+  aliases: [Chanakya, Vishnugupta, Cāṇakya]
+  born: "~-370?"
+  roles: [Minister (Überlieferung), Staatstheoretiker]
+  certainty: unsicher
+  summary: Nach der Überlieferung Brahmane und Berater Chandraguptas, dem das Arthashastra zugeschrieben wird; Historizität und Verfasserschaft sind umstritten.
+  regions: [suedasien]
+  themes: [politik, verfassung-recht]
+  related: [chandragupta-maurya]
+- id: seleukos-i
+  name: Seleukos I. Nikator
+  aliases: [Seleukos, Seleucus I.]
+  born: "~-358"
+  died: "-281"
+  roles: [Feldherr, König]
+  summary: Feldherr Alexanders und Begründer des Seleukidenreiches; schloss um 303 v. Chr. einen Vertrag mit Chandragupta Maurya.
+  regions: [westasien, iran]
+  themes: [imperien]
+  related: [chandragupta-maurya, alexander-der-grosse]
+- id: megasthenes
+  name: Megasthenes
+  born: "~-350?"
+  died: "~-290?"
+  roles: [Gesandter, Geograf]
+  summary: Seleukidischer Gesandter am Hof Chandraguptas, dessen nur in Auszügen erhaltene „Indika“ eine der wichtigsten griechischen Quellen über das antike Indien ist.
+  regions: [suedasien, griechenland]
+  themes: [geschichtsschreibung]
+  places: [pataliputra]

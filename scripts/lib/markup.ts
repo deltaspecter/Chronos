@@ -4,7 +4,7 @@
  * Erweiterungen:
  *   [[artikel-id]]  [[artikel-id|Linktext]]       Querverweis auf einen Artikel
  *   [[person:id|Text]]  [[ort:id]]  [[ereignis:id]]  [[staat:id]]  [[kultur:id]]
- *   [[begriff:id]]  [[epoche:id]]  [[thema:id]]  [[quelle:id]]      Verweis auf Wissensnetz-Einträge
+ *   [[begriff:id]]  [[epoche:id]]  [[thema:id]]  [[quelle:id]]  [[route:id]]   Verweis auf Wissensnetz-Einträge
  *   [@quelle-id]  [@a; @b, Buch 6]                Beleg (nummerierte Fußnote zur Literaturliste)
  *   ![[medien-id]]                                Abbildung mit Bildunterschrift und Lizenz
  *   :::befund Titel … :::                         Gesicherter Forschungsbefund
@@ -26,6 +26,7 @@ export const LINK_PREFIXES = {
   epoche: 'epoch',
   thema: 'theme',
   quelle: 'source',
+  route: 'route',
 } as const
 
 export type LinkKind = (typeof LINK_PREFIXES)[keyof typeof LINK_PREFIXES] | 'article'

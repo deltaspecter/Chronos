@@ -248,3 +248,47 @@
   title: Tarikh al-Sudan
   written: um 1655
   note: Chronik aus Timbuktu zur Geschichte des westlichen Sudan, besonders des Songhai-Reiches.
+- id: brosius-1996
+  kind: sekundaer
+  authors: ["Brosius, Maria"]
+  title: Women in Ancient Persia, 559–331 BC
+  place: Oxford
+  publisher: Clarendon Press
+  year: 1996
+- id: q-aischylos-perser
+  kind: primaer
+  authors: ["Aischylos"]
+  title: Die Perser
+  written: 472 v. Chr.
+  note: Tragödie, aufgeführt in Athen acht Jahre nach der Schlacht bei Salamis, aus der Perspektive des persischen Hofes – eine griechische Imagination persischer Trauer.
+- id: q-esra
+  kind: primaer
+  title: Buch Esra (Hebräische Bibel)
+  written: Endfassung vermutlich 4. Jh. v. Chr.
+  note: Berichtet von der Erlaubnis des Kyros zur Rückkehr der Judäer aus dem babylonischen Exil und zum Wiederaufbau des Tempels in Jerusalem.
+- id: q-junagadh
+  kind: primaer
+  authors: ["Rudradaman I."]
+  title: Felsinschrift von Junagadh (Girnar)
+  written: um 150 n. Chr.
+  note: Sanskrit-Inschrift eines westindischen Herrschers über die Wiederherstellung des Sudarshana-Stausees; sie erwähnt, dass der See unter Chandragupta Maurya angelegt und unter Ashoka ausgebaut worden war – ein unabhängiges Zeugnis für die Maurya-Verwaltung.
+- id: q-strabon
+  kind: primaer
+  authors: ["Strabon"]
+  title: Geographika
+  written: um Christi Geburt
+  note: Griechisches Erdbeschreibungswerk; Buch 15 behandelt Indien und Persien und bewahrt Auszüge aus Megasthenes, Buch 17 Ägypten und Nubien.
+- id: scheidel-2009
+  kind: sekundaer
+  editors: ["Scheidel, Walter"]
+  title: Rome and China
+  subtitle: Comparative Perspectives on Ancient World Empires
+  place: Oxford / New York
+  publisher: Oxford University Press
+  year: 2009
+- id: q-yantie-lun
+  kind: primaer
+  authors: ["Huan Kuan"]
+  title: Yantie lun (Debatten über Salz und Eisen)
+  written: 1. Jh. v. Chr.
+  note: Literarische Fassung einer Hofdebatte des Jahres 81 v. Chr. zwischen Regierungsbeamten und konfuzianischen Gelehrten über die staatlichen Monopole und die Grundsätze guter Herrschaft.

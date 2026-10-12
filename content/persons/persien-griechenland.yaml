@@ -1,0 +1,73 @@
+- id: kyros-ii
+  name: Kyros II.
+  aliases: [Kyros der Große, Cyrus, Kurusch]
+  born: "~-590?"
+  died: "-530"
+  roles: [Großkönig, Reichsgründer]
+  summary: Begründer des Achämenidenreiches; besiegte die Meder, eroberte Lydien und 539 v. Chr. Babylon. Sein Grab steht in Pasargadae.
+  regions: [iran, westasien]
+  themes: [imperien, politik]
+  places: [pasargadae, babylon, sardes]
+  related: [kambyses-ii]
+- id: kambyses-ii
+  name: Kambyses II.
+  aliases: [Cambyses]
+  died: "-522"
+  roles: [Großkönig]
+  summary: Sohn Kyros' II., eroberte 525 v. Chr. Ägypten für das Perserreich.
+  regions: [iran, aegypten]
+  themes: [imperien]
+  related: [kyros-ii, dareios-i]
+- id: dareios-i
+  name: Dareios I.
+  aliases: [Darius I., Dareios der Große, Dārayavauš]
+  born: "~-550"
+  died: "-486"
+  roles: [Großkönig]
+  summary: Großkönig von 522 bis 486 v. Chr., der das Achämenidenreich auf seine größte Ausdehnung brachte, es in Satrapien ordnete und Persepolis gründete; Verfasser der Inschrift von Bisotun.
+  regions: [iran, westasien]
+  themes: [imperien, verfassung-recht]
+  places: [persepolis, susa, bisotun]
+  related: [kambyses-ii, xerxes-i]
+- id: xerxes-i
+  name: Xerxes I.
+  aliases: [Xšayāršā, Ahasveros]
+  born: "~-518"
+  died: "-465"
+  roles: [Großkönig]
+  summary: Sohn Dareios' I., Großkönig 486–465 v. Chr.; sein Feldzug gegen Griechenland scheiterte 480/479 v. Chr. bei Salamis und Plataiai.
+  regions: [iran, griechenland]
+  themes: [imperien, krieg-militaer]
+  places: [persepolis, salamis]
+  related: [dareios-i]
+- id: dareios-iii
+  name: Dareios III.
+  aliases: [Darius III., Kodomannos]
+  born: "~-380"
+  died: "-330"
+  roles: [Großkönig]
+  summary: Letzter Großkönig der Achämeniden (336–330 v. Chr.), unterlag Alexander bei Issos und Gaugamela und wurde auf der Flucht getötet.
+  regions: [iran]
+  themes: [imperien]
+  places: [gaugamela]
+  related: [alexander-der-grosse]
+- id: alexander-der-grosse
+  name: Alexander der Große
+  aliases: [Alexander III. von Makedonien, Iskandar, Alexandros]
+  born: "-356"
+  died: "-323"
+  roles: [König von Makedonien, Eroberer]
+  summary: Makedonischer König, der zwischen 334 und 325 v. Chr. das Perserreich eroberte und bis an den Indus vordrang; seine Herrschaft eröffnete die Epoche des Hellenismus.
+  regions: [griechenland, westasien, iran, aegypten, zentralasien, suedasien]
+  themes: [imperien, krieg-militaer]
+  places: [gaugamela, persepolis, babylon, alexandria]
+  related: [dareios-iii]
+- id: herodot
+  name: Herodot von Halikarnassos
+  aliases: [Herodot, Herodotos, Herodotus]
+  born: "~-484"
+  died: "~-425"
+  roles: [Geschichtsschreiber]
+  summary: Griechischer Geschichtsschreiber, dessen „Historien“ die Perserkriege und die Völker des Perserreiches beschreiben; gilt seit Cicero als „Vater der Geschichtsschreibung“.
+  regions: [griechenland, anatolien]
+  themes: [geschichtsschreibung]

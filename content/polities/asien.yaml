@@ -1,0 +1,79 @@
+- id: achaemenidenreich
+  name: Achämenidenreich
+  aliases: [Perserreich, Persisches Reich, Achaimenidenreich]
+  start: "~-550"
+  end: "-330"
+  capital: persepolis
+  spanNote: Mehrere Residenzen (Susa, Persepolis, Ekbatana, Babylon); der Hof zog zwischen ihnen umher.
+  summary: Erstes Großreich, das den Vorderen Orient, Ägypten, Kleinasien, Iran, Zentralasien und das Industal vereinte; von Kyros II. begründet, von Alexander erobert.
+  regions: [iran, westasien, aegypten, anatolien, zentralasien, suedasien]
+  themes: [imperien]
+  predecessors: [altbabylonisches-reich]
+  successors: [alexanderreich]
+  weight: 1
+- id: alexanderreich
+  name: Reich Alexanders des Großen
+  aliases: [Alexanderreich, Makedonisches Reich]
+  start: "-336"
+  end: "-323"
+  capital: babylon
+  summary: Das von Alexander von Makedonien eroberte Reich vom Balkan bis zum Indus; nach seinem Tod unter seinen Feldherren (Diadochen) aufgeteilt.
+  regions: [griechenland, westasien, aegypten, iran, zentralasien]
+  themes: [imperien]
+  predecessors: [achaemenidenreich]
+  successors: [ptolemaeerreich]
+  weight: 2
+- id: maurya-reich-staat
+  name: Maurya-Reich
+  aliases: [Mauryareich, Maurya-Dynastie]
+  start: "~-321"
+  end: "~-185"
+  capital: pataliputra
+  summary: Erstes Großreich Südasiens, das von Magadha aus fast den ganzen Subkontinent beherrschte; unter Ashoka auf dem Höhepunkt.
+  regions: [suedasien]
+  themes: [imperien]
+  weight: 1
+- id: seleukidenreich
+  name: Seleukidenreich
+  aliases: [Seleukiden]
+  start: "-312"
+  end: "-63"
+  summary: Hellenistisches Königreich, von Seleukos I. aus den östlichen Teilen des Alexanderreiches gebildet; 63 v. Chr. von Rom aufgelöst.
+  regions: [westasien, iran, levante]
+  themes: [imperien]
+  predecessors: [alexanderreich]
+  weight: 2
+- id: qin-dynastie
+  name: Qin-Dynastie
+  aliases: [Qin, Ch'in]
+  start: "-221"
+  end: "-206"
+  spanNote: Als Staat Qin bestand es seit dem 9. Jh. v. Chr.; als Kaiserreich nur 221–206 v. Chr.
+  capital: xianyang
+  summary: Erstes einheitliches chinesisches Kaiserreich unter dem Ersten Kaiser, berühmt für seine Vereinheitlichungen und seine Härte.
+  regions: [china]
+  themes: [imperien]
+  successors: [han-dynastie]
+  weight: 1
+- id: han-dynastie
+  name: Han-Dynastie
+  aliases: [Han-Reich, Westliche Han, Östliche Han]
+  start: "-202"
+  end: "220"
+  spanNote: Unterbrochen durch die Xin-Dynastie des Wang Mang (9–23 n. Chr.).
+  capital: changan
+  summary: Chinesisches Kaiserreich, das die Verwaltung der Qin mit konfuzianischen Werten verband und sich bis nach Zentralasien, Korea und Vietnam ausdehnte.
+  regions: [china, zentralasien]
+  themes: [imperien]
+  predecessors: [qin-dynastie]
+  weight: 1
+- id: xiongnu
+  name: Xiongnu
+  aliases: [Xiongnu-Konföderation, Hsiung-nu]
+  start: "~-209"
+  end: "~150"
+  spanNote: Die Konföderation spaltete sich im 1. Jh. n. Chr. und verlor danach an Bedeutung.
+  summary: Konföderation von Reiternomaden in der Mongolei und angrenzenden Steppen, über Jahrhunderte Gegner und Vertragspartner der Han.
+  regions: [zentralasien]
+  themes: [imperien]
+  weight: 2

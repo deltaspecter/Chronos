@@ -1,0 +1,56 @@
+- id: jebel-irhoud-fossilien
+  title: Älteste bekannte Fossilien des Homo sapiens (Jebel Irhoud)
+  date: "~-300000"
+  certainty: wahrscheinlich
+  dateNote: Thermolumineszenz-Datierung, Mittelwert rund 315.000 Jahre mit einer Spanne von etwa ±34.000 Jahren.
+  weight: 2
+  kind: entdeckung
+  summary: Schädel und Kiefer aus Marokko verbinden ein modernes Gesicht mit einer archaischen Hirnschale und stützen eine „panafrikanische“ Entstehung des modernen Menschen.
+  regions: [nordafrika, afrika]
+  themes: [archaeologie]
+  places: [jebel-irhoud]
+- id: ausbreitung-aus-afrika
+  title: Ausbreitung des Homo sapiens aus Afrika
+  start: "~-70000"
+  end: "~-50000"
+  certainty: wahrscheinlich
+  dateNote: Nach genetischen Schätzungen; frühere, nicht dauerhafte Vorstöße sind seit etwa 200.000 Jahren belegt.
+  weight: 1
+  kind: entwicklung
+  summary: Die Vorfahren aller heutigen Menschen außerhalb Afrikas verlassen den Kontinent und breiten sich über Asien, Europa und Australien aus.
+  regions: [welt]
+  themes: [migration]
+  places: [misliya]
+- id: besiedlung-australiens
+  title: Besiedlung Australiens
+  start: "~-65000"
+  end: "~-50000"
+  certainty: umstritten
+  dateNote: Das Datum von 65.000 Jahren (Madjedbebe) ist umstritten; als gesichert gilt eine Besiedlung vor mindestens rund 50.000 Jahren.
+  weight: 2
+  kind: entwicklung
+  summary: Menschen überqueren das Meer zwischen Südostasien und Sahul und besiedeln Australien und Neuguinea.
+  regions: [ozeanien]
+  themes: [migration]
+  places: [madjedbebe]
+- id: aussterben-neandertaler
+  title: Verschwinden der Neandertaler
+  date: "~-39000"
+  certainty: wahrscheinlich
+  dateNote: Nach Radiokarbondatierungen vor etwa 41.000 bis 39.000 Jahren an vielen Fundstellen.
+  weight: 2
+  kind: entwicklung
+  summary: Die Neandertaler verschwinden aus dem archäologischen Befund; ein kleiner Teil ihres Erbguts lebt in heutigen Menschen fort.
+  regions: [europa, westasien]
+  themes: [archaeologie]
+- id: besiedlung-amerikas
+  title: Besiedlung der Amerikas
+  date: "~-12500"
+  certainty: umstritten
+  dateNote: Gesicherte Fundstellen wie Monte Verde reichen etwa 14.500 Jahre zurück (um 12.500 v. Chr.); ältere Befunde wie die Fußspuren von White Sands werden diskutiert.
+  weight: 1
+  kind: entwicklung
+  summary: Menschen gelangen über Beringia nach Amerika und erreichen innerhalb weniger Jahrtausende den Süden des Doppelkontinents.
+  regions: [amerika]
+  themes: [migration]
+  places: [monte-verde, white-sands]

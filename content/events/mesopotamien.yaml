@@ -1,0 +1,66 @@
+- id: uruk-zeit
+  title: Uruk-Zeit – Entstehung der ersten Städte
+  start: "~-4000"
+  end: "~-3100"
+  certainty: wahrscheinlich
+  weight: 2
+  kind: entwicklung
+  summary: Im Süden Mesopotamiens wachsen Siedlungen zu Städten heran; Uruk wird mit rund 250 Hektar die größte Siedlung der Welt.
+  regions: [mesopotamien]
+  themes: [gesellschaft, wirtschaft-handel]
+  places: [uruk, habuba-kabira]
+- id: erfindung-keilschrift
+  title: Erfindung der Schrift in Uruk
+  date: "~-3300"
+  certainty: wahrscheinlich
+  weight: 1
+  kind: entdeckung
+  summary: In Uruk entstehen die ältesten bekannten Schrifttafeln – überwiegend Verwaltungsaufzeichnungen, aus denen sich die Keilschrift entwickelt.
+  regions: [mesopotamien]
+  themes: [schrift-medien]
+  places: [uruk]
+- id: fruehdynastische-zeit
+  title: Frühdynastische Zeit – Sumerische Stadtstaaten
+  start: "~-2900"
+  end: "~-2350"
+  certainty: wahrscheinlich
+  weight: 2
+  kind: entwicklung
+  summary: Ur, Uruk, Lagasch, Umma, Kisch und andere Stadtstaaten rivalisieren um Wasser, Land und Vorrang.
+  regions: [mesopotamien]
+  themes: [politik]
+  places: [ur, lagasch, umma, kisch, nippur]
+- id: koenigsfriedhof-ur
+  title: Königsgräber von Ur
+  date: "~-2550"
+  certainty: wahrscheinlich
+  weight: 3
+  kind: ereignis
+  summary: Prunkbestattungen mit Beigaben aus Gold, Silber und Lapislazuli – Zeugnis weitreichender Handelsbeziehungen bis Afghanistan und ins Industal.
+  regions: [mesopotamien]
+  themes: [archaeologie, handelsnetze]
+  places: [ur]
+- id: codex-ur-namma
+  title: Rechtssammlung des Ur-Namma
+  date: "~-2100"
+  certainty: wahrscheinlich
+  weight: 3
+  kind: gesetz
+  summary: Älteste bekannte Rechtssammlung, dem Begründer der Dritten Dynastie von Ur zugeschrieben.
+  regions: [mesopotamien]
+  themes: [verfassung-recht]
+  persons: [ur-namma]
+  polities: [ur-iii-reich]
+- id: codex-hammurapi-erlass
+  title: Codex Hammurapi
+  date: "~-1754"
+  certainty: wahrscheinlich
+  dateNote: Gegen Ende der Regierungszeit Hammurapis; Datierung nach der Mittleren Chronologie.
+  weight: 2
+  kind: gesetz
+  summary: Hammurapi von Babylon lässt eine Sammlung von rund 280 Rechtssätzen auf einer Stele veröffentlichen.
+  regions: [mesopotamien]
+  themes: [verfassung-recht]
+  places: [babylon]
+  persons: [hammurapi]
+  polities: [altbabylonisches-reich]

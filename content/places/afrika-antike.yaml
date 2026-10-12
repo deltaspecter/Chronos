@@ -1,0 +1,131 @@
+- id: gizeh
+  name: Gizeh
+  aliases: [Giza, Pyramiden von Gizeh]
+  coords: [31.1342, 29.9792]
+  categories: [fundstaette, heiligtum]
+  summary: Nekropole mit den Pyramiden der Könige Cheops, Chephren und Mykerinos sowie dem Großen Sphinx (4. Dynastie).
+  regions: [aegypten]
+  themes: [archaeologie, kultur-kunst]
+- id: sakkara
+  name: Sakkara
+  aliases: [Saqqara]
+  coords: [31.2165, 29.8711]
+  categories: [fundstaette, heiligtum]
+  summary: Nekropole von Memphis mit der Stufenpyramide des Djoser und den Pyramiden mit Pyramidentexten.
+  regions: [aegypten]
+  themes: [archaeologie, religion]
+- id: dahschur
+  name: Dahschur
+  aliases: [Dahshur]
+  coords: [31.2060, 29.7900]
+  categories: [fundstaette]
+  summary: Nekropole mit der Knickpyramide und der Roten Pyramide des Snofru (4. Dynastie).
+  regions: [aegypten]
+  themes: [archaeologie]
+- id: memphis
+  name: Memphis
+  aliases: [Mennefer, Inbu-hedj]
+  coords: [31.2550, 29.8450]
+  categories: [stadt, hauptstadt]
+  summary: Hauptstadt Ägyptens im Alten Reich am Übergang von Niltal und Delta, südlich des heutigen Kairo.
+  regions: [aegypten]
+  themes: [politik]
+- id: abydos
+  name: Abydos
+  coords: [31.9190, 26.1850]
+  categories: [fundstaette, heiligtum]
+  summary: Begräbnisort der frühesten Könige Ägyptens (Umm el-Qaab) und später Hauptkultort des Osiris.
+  regions: [aegypten]
+  themes: [archaeologie, religion]
+- id: hierakonpolis
+  name: Hierakonpolis
+  aliases: [Nechen]
+  coords: [32.7800, 25.1000]
+  location: ungefaehr
+  categories: [stadt, fundstaette]
+  summary: Frühes Zentrum Oberägyptens, Fundort der Narmer-Palette.
+  regions: [aegypten]
+  themes: [archaeologie]
+- id: heliopolis
+  name: Heliopolis
+  aliases: [Iunu, On]
+  coords: [31.3070, 30.1290]
+  categories: [heiligtum, kulturzentrum]
+  summary: Hauptkultort des Sonnengottes Re im Nordosten des heutigen Kairo.
+  regions: [aegypten]
+  themes: [religion]
+- id: wadi-al-jarf
+  name: Wadi al-Jarf
+  aliases: [Wadi el-Jarf]
+  coords: [32.6300, 29.0300]
+  location: ungefaehr
+  categories: [hafen, fundstaette]
+  summary: Hafen der 4. Dynastie am Golf von Suez, Fundort der ältesten beschrifteten Papyri (Tagebuch des Merer, 2013 entdeckt).
+  regions: [aegypten]
+  themes: [archaeologie, schrift-medien]
+- id: elephantine
+  name: Elephantine
+  aliases: [Abu, Assuan]
+  coords: [32.8860, 24.0850]
+  categories: [stadt, hafen]
+  summary: Nilinsel bei Assuan am ersten Katarakt, Südgrenze Ägyptens und Ausgangspunkt der Expeditionen nach Nubien.
+  regions: [aegypten]
+  themes: [handelsnetze]
+- id: kerma
+  name: Kerma
+  coords: [30.4000, 19.6000]
+  categories: [stadt, hauptstadt, fundstaette]
+  start: "~-2500"
+  end: "~-1500"
+  summary: Hauptstadt des gleichnamigen nubischen Reiches oberhalb des dritten Katarakts, mit dem Lehmziegeltempel der westlichen Deffufa und großen Königsgrabhügeln.
+  regions: [nubien]
+  themes: [archaeologie, politik]
+- id: gebel-barkal
+  name: Gebel Barkal und Napata
+  aliases: [Napata, Jebel Barkal]
+  coords: [31.8280, 18.5370]
+  categories: [heiligtum, hauptstadt, fundstaette]
+  summary: Heiliger Tafelberg mit dem Tempel des Amun; das benachbarte Napata war Zentrum des kuschitischen Reiches im 8. und 7. Jh. v. Chr.
+  regions: [nubien]
+  themes: [religion, politik]
+- id: el-kurru
+  name: el-Kurru
+  coords: [31.7700, 18.4100]
+  categories: [fundstaette]
+  summary: Königsfriedhof der frühen Napata-Zeit mit den Pyramiden Piyes und anderer Herrscher der 25. Dynastie.
+  regions: [nubien]
+  themes: [archaeologie]
+- id: nuri
+  name: Nuri
+  coords: [31.9200, 18.5600]
+  categories: [fundstaette]
+  summary: Königsfriedhof mit der Pyramide des Taharqa und weiterer Herrscher von Napata.
+  regions: [nubien]
+  themes: [archaeologie]
+- id: meroe
+  name: Meroe
+  aliases: [Meroë, Begrawiya]
+  coords: [33.7500, 16.9400]
+  categories: [stadt, hauptstadt, fundstaette]
+  start: "~-600"
+  end: "~350"
+  summary: Hauptstadt des Reiches von Kusch in seiner Spätzeit, mit rund 200 Pyramiden und Zeugnissen umfangreicher Eisenverhüttung; UNESCO-Welterbe.
+  regions: [nubien]
+  themes: [archaeologie, politik]
+- id: naqa
+  name: Naqa
+  aliases: [Naga]
+  coords: [33.2700, 16.2700]
+  location: ungefaehr
+  categories: [heiligtum, fundstaette]
+  summary: Meroitische Stadt mit dem Löwentempel des Gottes Apedemak.
+  regions: [nubien]
+  themes: [religion, kultur-kunst]
+- id: buhen
+  name: Buhen
+  coords: [31.3300, 21.9200]
+  location: ungefaehr
+  categories: [fundstaette]
+  summary: Große ägyptische Festung des Mittleren Reiches am zweiten Katarakt; heute im Nasser-Stausee überflutet.
+  regions: [nubien]
+  themes: [krieg-militaer]

@@ -1,0 +1,139 @@
+- id: reichseinigung-aegypten
+  title: Reichseinigung Ägyptens
+  date: "~-3000"
+  certainty: wahrscheinlich
+  dateNote: Ein längerer Prozess, traditionell mit Narmer bzw. Menes verbunden.
+  weight: 1
+  kind: gruendung
+  summary: Ober- und Unterägypten werden unter einem König vereint – Beginn des pharaonischen Staates.
+  regions: [aegypten]
+  themes: [politik]
+  places: [hierakonpolis, abydos]
+  persons: [narmer]
+  polities: [pharaonisches-aegypten]
+- id: stufenpyramide-djoser
+  title: Stufenpyramide des Djoser
+  date: "~-2650"
+  certainty: wahrscheinlich
+  weight: 2
+  kind: ereignis
+  summary: In Sakkara entsteht die erste Pyramide und das älteste große Steinbauwerk der Welt.
+  regions: [aegypten]
+  themes: [kultur-kunst]
+  places: [sakkara]
+  persons: [djoser, imhotep]
+  polities: [pharaonisches-aegypten]
+- id: cheops-pyramide
+  title: Bau der Cheops-Pyramide
+  date: "~-2560"
+  certainty: wahrscheinlich
+  weight: 1
+  kind: ereignis
+  summary: In Gizeh entsteht die größte Pyramide Ägyptens, rund 146 Meter hoch – bis ins Mittelalter das höchste Bauwerk der Welt.
+  regions: [aegypten]
+  themes: [kultur-kunst, wirtschaft-handel]
+  places: [gizeh, wadi-al-jarf]
+  persons: [cheops]
+  polities: [pharaonisches-aegypten]
+- id: pyramidentexte-unas
+  title: Erste Pyramidentexte (Unas)
+  date: "~-2350"
+  certainty: wahrscheinlich
+  weight: 3
+  kind: ereignis
+  summary: In der Grabkammer des Königs Unas werden erstmals religiöse Sprüche eingemeißelt – die ältesten religiösen Texte Ägyptens.
+  regions: [aegypten]
+  themes: [religion, schrift-medien]
+  places: [sakkara]
+  polities: [pharaonisches-aegypten]
+- id: erste-zwischenzeit
+  title: Erste Zwischenzeit in Ägypten
+  start: "~-2160"
+  end: "~-2055"
+  certainty: wahrscheinlich
+  weight: 3
+  kind: entwicklung
+  summary: Nach dem Ende des Alten Reiches regieren konkurrierende Dynastien in Herakleopolis und Theben.
+  regions: [aegypten]
+  themes: [politik]
+  polities: [pharaonisches-aegypten]
+- id: kerma-bluete
+  title: Blütezeit des Reiches von Kerma
+  start: "~-1750"
+  end: "~-1500"
+  certainty: wahrscheinlich
+  weight: 2
+  kind: herrschaft
+  summary: Das nubische Reich von Kerma beherrscht das mittlere Niltal und dringt zeitweise tief nach Oberägypten vor.
+  regions: [nubien]
+  themes: [imperien]
+  places: [kerma]
+  polities: [kerma-reich]
+- id: eroberung-kermas
+  title: Ägyptische Eroberung Kermas
+  date: "~-1500"
+  certainty: wahrscheinlich
+  weight: 3
+  kind: krieg
+  summary: Die Könige des Neuen Reiches, besonders Thutmosis I., erobern Kerma; Nubien wird für rund 450 Jahre ägyptisch beherrscht.
+  regions: [nubien, aegypten]
+  themes: [krieg-militaer, imperien]
+  places: [kerma]
+  polities: [kerma-reich, pharaonisches-aegypten]
+- id: piye-feldzug
+  title: Piye erobert Ägypten – Beginn der 25. Dynastie
+  date: "~-728"
+  certainty: wahrscheinlich
+  weight: 2
+  kind: krieg
+  summary: Der kuschitische König Piye unterwirft die ägyptischen Kleinkönigtümer; Könige aus Napata herrschen über das gesamte Niltal.
+  regions: [nubien, aegypten]
+  themes: [imperien, krieg-militaer]
+  places: [gebel-barkal, memphis]
+  persons: [piye]
+  polities: [kusch, pharaonisches-aegypten]
+- id: assyrische-eroberung-aegyptens
+  title: Assyrische Eroberung Ägyptens
+  start: "-671"
+  end: "-663"
+  weight: 3
+  kind: krieg
+  summary: Asarhaddon erobert Memphis, Assurbanipals Truppen plündern Theben; die kuschitischen Könige ziehen sich nach Napata zurück.
+  regions: [aegypten, mesopotamien]
+  themes: [krieg-militaer]
+  places: [memphis]
+  persons: [taharqa]
+  polities: [kusch]
+- id: feldzug-psammetich-ii
+  title: Feldzug Psammetichs II. nach Napata
+  date: "-593"
+  weight: 3
+  kind: krieg
+  summary: Ein ägyptisches Heer dringt bis Napata vor; in der Folge verlagert sich das Zentrum Kuschs nach Meroe.
+  regions: [nubien, aegypten]
+  themes: [krieg-militaer]
+  places: [gebel-barkal]
+  polities: [kusch, pharaonisches-aegypten]
+- id: krieg-meroe-rom
+  title: Krieg zwischen Meroe und Rom
+  start: "-25"
+  end: "-21"
+  weight: 3
+  kind: krieg
+  summary: Meroitische Truppen unter der Kandake Amanirenas greifen das römische Ägypten an; der Frieden von 21/20 v. Chr. fällt für Meroe günstig aus.
+  regions: [nubien, aegypten]
+  themes: [krieg-militaer]
+  places: [meroe, elephantine]
+  persons: [amanirenas, augustus]
+  polities: [kusch, roemisches-kaiserreich]
+- id: ende-von-meroe
+  title: Ende des Reiches von Meroe
+  date: "~350"
+  certainty: wahrscheinlich
+  weight: 3
+  kind: ereignis
+  summary: Die Herrschaft der Könige von Meroe endet; eine Inschrift des aksumitischen Königs Ezana berichtet von einem Feldzug an den Nil.
+  regions: [nubien]
+  themes: [politik]
+  places: [meroe]
+  polities: [kusch]

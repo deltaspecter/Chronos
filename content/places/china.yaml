@@ -1,0 +1,45 @@
+- id: xianyang
+  name: Xianyang
+  coords: [108.7000, 34.3300]
+  location: ungefaehr
+  categories: [hauptstadt]
+  summary: Hauptstadt des Staates und Reiches Qin am Wei-Fluss, nordwestlich des heutigen Xi'an.
+  regions: [china]
+- id: mausoleum-qin-shihuangdi
+  name: Mausoleum des Ersten Kaisers und Terrakotta-Armee
+  aliases: [Terrakotta-Armee, Lintong, Bingmayong]
+  coords: [109.2730, 34.3850]
+  categories: [fundstaette]
+  summary: Grabanlage des Ersten Kaisers bei Lintong (Xi'an) mit Gruben voller lebensgroßer Tonsoldaten; 1974 entdeckt, UNESCO-Welterbe.
+  regions: [china]
+  themes: [archaeologie, kultur-kunst]
+- id: changan
+  name: Chang'an
+  aliases: [Chang'an (Han), Xi'an]
+  coords: [108.8800, 34.3200]
+  location: ungefaehr
+  categories: [hauptstadt, stadt]
+  summary: Hauptstadt der Westlichen Han nordwestlich des heutigen Xi'an; später erneut Hauptstadt unter Sui und Tang.
+  regions: [china]
+  themes: [politik]
+- id: luoyang
+  name: Luoyang
+  coords: [112.4500, 34.6200]
+  categories: [hauptstadt, stadt]
+  summary: Hauptstadt der Östlichen Han-Dynastie am Luo-Fluss.
+  regions: [china]
+- id: dunhuang
+  name: Dunhuang
+  coords: [94.6600, 40.1400]
+  categories: [stadt, kulturzentrum]
+  summary: Oasenstadt am westlichen Ende des Hexi-Korridors, Tor Chinas zu den Seidenstraßen; später berühmt für die buddhistischen Mogao-Grotten.
+  regions: [china, zentralasien]
+  themes: [handelsnetze, religion]
+- id: shuihudi
+  name: Shuihudi
+  coords: [113.7500, 31.0600]
+  location: ungefaehr
+  categories: [fundstaette]
+  summary: Fundort in Hubei, wo 1975 in einem Beamtengrab Bambusstreifen mit Qin-Gesetzen gefunden wurden.
+  regions: [china]
+  themes: [archaeologie, verfassung-recht]

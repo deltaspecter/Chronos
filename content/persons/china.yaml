@@ -1,0 +1,92 @@
+- id: shang-yang
+  name: Shang Yang
+  aliases: [Gongsun Yang, Wei Yang, Lord Shang]
+  born: "~-390"
+  died: "-338"
+  roles: [Minister, Reformer]
+  summary: Minister des Staates Qin, dessen Reformen Mitte des 4. Jh. v. Chr. Qin zum schlagkräftigsten Staat der Streitenden Reiche machten; gilt als Vertreter des Legalismus.
+  regions: [china]
+  themes: [politik, verfassung-recht]
+- id: qin-shihuangdi
+  name: Qin Shihuangdi
+  aliases: [Erster Kaiser, Ying Zheng, Qin Shi Huang, Shi Huangdi]
+  born: "-259"
+  died: "-210"
+  roles: [König von Qin, Kaiser]
+  summary: König von Qin, der 221 v. Chr. China einte und sich als Erster den Kaisertitel gab; bekannt durch Vereinheitlichungen und sein Grab mit der Terrakotta-Armee.
+  regions: [china]
+  themes: [imperien, politik]
+  places: [xianyang, mausoleum-qin-shihuangdi]
+  related: [li-si]
+- id: li-si
+  name: Li Si
+  born: "~-280"
+  died: "-208"
+  roles: [Kanzler]
+  summary: Kanzler des Ersten Kaisers und Architekt der Vereinheitlichung von Schrift und Verwaltung; nach dem Tod des Kaisers hingerichtet.
+  regions: [china]
+  themes: [politik]
+  related: [qin-shihuangdi]
+- id: liu-bang
+  name: Liu Bang
+  aliases: [Han Gaozu, Gaozu]
+  born: "~-256"
+  died: "-195"
+  roles: [Kaiser, Dynastiegründer]
+  summary: Aufständischer aus einfachen Verhältnissen, der nach dem Fall der Qin 202 v. Chr. die Han-Dynastie gründete.
+  regions: [china]
+  themes: [politik]
+  places: [changan]
+- id: han-wudi
+  name: Kaiser Wu von Han
+  aliases: [Han Wudi, Liu Che]
+  born: "-156"
+  died: "-87"
+  roles: [Kaiser]
+  summary: Han-Kaiser (141–87 v. Chr.), der das Reich durch Kriege gegen die Xiongnu und nach Süden ausdehnte, den Konfuzianismus förderte und Salz und Eisen verstaatlichte.
+  regions: [china, zentralasien]
+  themes: [imperien, politik]
+  places: [changan]
+  related: [zhang-qian, sima-qian]
+- id: zhang-qian
+  name: Zhang Qian
+  died: "-113"
+  roles: [Gesandter, Entdecker]
+  summary: Han-Gesandter, der um 138–126 v. Chr. bis nach Baktrien reiste; seine Berichte eröffneten regelmäßige Beziehungen nach Zentralasien.
+  regions: [china, zentralasien]
+  themes: [handelsnetze]
+  places: [dunhuang]
+  related: [han-wudi]
+- id: sima-qian
+  name: Sima Qian
+  born: "~-145"
+  died: "~-86"
+  roles: [Geschichtsschreiber, Hofastrologe]
+  summary: Verfasser der „Aufzeichnungen des Historikers“ (Shiji), der ersten Universalgeschichte Chinas.
+  regions: [china]
+  themes: [geschichtsschreibung]
+  related: [han-wudi]
+- id: wang-mang
+  name: Wang Mang
+  born: "-45"
+  died: "23"
+  roles: [Regent, Kaiser]
+  summary: Regent, der 9 n. Chr. die Han-Dynastie absetzte und die Xin-Dynastie gründete; seine Reformen scheiterten.
+  regions: [china]
+  themes: [politik]
+- id: ban-zhao
+  name: Ban Zhao
+  born: "~45"
+  died: "~117"
+  roles: [Historikerin, Gelehrte]
+  summary: Gelehrte am Han-Hof, die die „Geschichte der Han-Dynastie“ vollendete und die „Lehren für Frauen“ verfasste.
+  regions: [china]
+  themes: [geschichtsschreibung, gesellschaft]
+- id: cai-lun
+  name: Cai Lun
+  born: "~50"
+  died: "121"
+  roles: [Hofbeamter]
+  summary: Eunuch am Han-Hof, der 105 n. Chr. ein verbessertes Verfahren der Papierherstellung meldete; Papier war jedoch bereits zuvor bekannt.
+  regions: [china]
+  themes: [wissenschaft-technik, schrift-medien]

@@ -190,3 +190,33 @@
   title: Siegesstele des Piye
   written: um 728 v. Chr.
   note: Granitstele aus dem Amun-Tempel am Gebel Barkal (heute Ägyptisches Museum Kairo); ausführlicher Bericht über den Feldzug des kuschitischen Königs nach Unterägypten.
+- id: jacobsen-adams-1958
+  kind: sekundaer
+  authors: ["Jacobsen, Thorkild", "Adams, Robert McC."]
+  title: Salt and Silt in Ancient Mesopotamian Agriculture
+  container: Science
+  volume: "128"
+  year: 1958
+  pages: 1251–1258
+- id: crawford-2004
+  kind: sekundaer
+  authors: ["Crawford, Harriet"]
+  title: Sumer and the Sumerians
+  edition: 2. Aufl.
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2004
+- id: dreyer-1998
+  kind: sekundaer
+  authors: ["Dreyer, Günter"]
+  title: "Umm el-Qaab I: Das prädynastische Königsgrab U-j und seine frühen Schriftzeugnisse"
+  series: Archäologische Veröffentlichungen des Deutschen Archäologischen Instituts, Abteilung Kairo 86
+  place: Mainz
+  publisher: Philipp von Zabern
+  year: 1998
+- id: q-harchuf
+  kind: primaer
+  authors: ["Harchuf"]
+  title: Grabinschrift des Harchuf in Assuan (Qubbet el-Hawa)
+  written: 6. Dynastie (um 2250 v. Chr.)
+  note: Lebensbericht eines Expeditionsleiters über vier Reisen in das südliche Land „Jam“; enthält den Brief des jungen Königs Pepi II., der sich über einen mitgebrachten tanzenden Zwerg freut.

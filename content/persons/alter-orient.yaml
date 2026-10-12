@@ -1,0 +1,49 @@
+- id: gilgamesch
+  name: Gilgamesch
+  aliases: [Gilgamesh, Bilgames]
+  born: "~-2700"
+  roles: [König von Uruk (Überlieferung), Sagengestalt]
+  certainty: unsicher
+  summary: Legendärer König von Uruk und Held des Gilgamesch-Epos. Ob ihm ein historischer Herrscher des frühen 3. Jahrtausends v. Chr. zugrunde liegt, ist ungewiss.
+  regions: [mesopotamien]
+  themes: [kultur-kunst, religion]
+  places: [uruk]
+- id: sargon-von-akkad
+  name: Sargon von Akkad
+  aliases: [Šarru-kīn, Sargon der Große]
+  born: "~-2350?"
+  died: "~-2279"
+  roles: [König, Reichsgründer]
+  summary: Begründer des Reiches von Akkad, das um 2334 v. Chr. erstmals ganz Mesopotamien unter einer Herrschaft vereinte.
+  regions: [mesopotamien]
+  themes: [politik, imperien]
+  related: [enheduanna]
+- id: enheduanna
+  name: Enheduanna
+  aliases: [En-hedu-ana]
+  born: "~-2300?"
+  roles: [Hohepriesterin, Dichterin]
+  summary: Tochter Sargons von Akkad und Hohepriesterin des Mondgottes in Ur; ihr werden Hymnen an Inanna zugeschrieben – sie gilt als erste namentlich bekannte Autorin.
+  regions: [mesopotamien]
+  themes: [religion, kultur-kunst]
+  places: [ur]
+  related: [sargon-von-akkad]
+- id: ur-namma
+  name: Ur-Namma
+  aliases: [Ur-Nammu]
+  died: "~-2095"
+  roles: [König]
+  summary: Begründer der Dritten Dynastie von Ur (um 2112 v. Chr.), Bauherr der Zikkurat von Ur; ihm wird die älteste bekannte Rechtssammlung zugeschrieben.
+  regions: [mesopotamien]
+  themes: [politik, verfassung-recht]
+  places: [ur]
+- id: hammurapi
+  name: Hammurapi
+  aliases: [Hammurabi, Ḫammurapi]
+  born: "~-1810"
+  died: "-1750"
+  roles: [König von Babylon]
+  summary: König von Babylon (1792–1750 v. Chr. nach der Mittleren Chronologie), der große Teile Mesopotamiens vereinte; bekannt durch seine auf einer Stele überlieferte Rechtssammlung.
+  regions: [mesopotamien]
+  themes: [politik, verfassung-recht]
+  places: [babylon]

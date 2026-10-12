@@ -1,0 +1,99 @@
+- id: kyros-sieg-meder
+  title: Kyros II. besiegt die Meder
+  date: "~-550"
+  certainty: wahrscheinlich
+  weight: 2
+  kind: gruendung
+  summary: Der persische König Kyros übernimmt das Reich der Meder – Beginn des Achämenidenreiches.
+  regions: [iran]
+  themes: [imperien]
+  places: [ekbatana, pasargadae]
+  persons: [kyros-ii]
+  polities: [achaemenidenreich]
+- id: eroberung-babylons-539
+  title: Kyros II. erobert Babylon
+  date: "-539-10"
+  weight: 2
+  kind: ereignis
+  summary: Nach einem Sieg bei Opis zieht Kyros kampflos in Babylon ein; das Neubabylonische Reich endet.
+  regions: [mesopotamien]
+  themes: [imperien]
+  places: [babylon]
+  persons: [kyros-ii]
+  polities: [achaemenidenreich]
+- id: eroberung-aegyptens-525
+  title: Kambyses II. erobert Ägypten
+  date: "-525"
+  weight: 3
+  kind: krieg
+  summary: Nach der Schlacht bei Pelusion wird Ägypten Teil des Perserreiches.
+  regions: [aegypten]
+  themes: [imperien, krieg-militaer]
+  persons: [kambyses-ii]
+  polities: [achaemenidenreich, pharaonisches-aegypten]
+- id: dareios-machtuebernahme
+  title: Machtübernahme Dareios' I. und Inschrift von Bisotun
+  date: "-522"
+  weight: 2
+  kind: herrschaft
+  summary: Dareios ergreift nach dem Tod des Kambyses die Macht, schlägt Aufstände nieder und lässt seine Darstellung in die Felswand von Bisotun meißeln.
+  regions: [iran]
+  themes: [politik]
+  places: [bisotun]
+  persons: [dareios-i]
+  polities: [achaemenidenreich]
+- id: ionischer-aufstand
+  title: Ionischer Aufstand
+  start: "-499"
+  end: "-494"
+  weight: 3
+  kind: krieg
+  summary: Die griechischen Städte Kleinasiens erheben sich gegen die persische Herrschaft; der Aufstand wird niedergeschlagen.
+  regions: [anatolien, griechenland]
+  themes: [krieg-militaer]
+  places: [sardes]
+  polities: [achaemenidenreich]
+- id: schlacht-bei-marathon
+  title: Schlacht bei Marathon
+  date: "-490"
+  weight: 2
+  kind: schlacht
+  summary: Ein athenisches Heer schlägt eine persische Landungstruppe zurück.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+  places: [marathon]
+  persons: [dareios-i]
+  polities: [achaemenidenreich]
+- id: schlacht-bei-salamis
+  title: Seeschlacht bei Salamis
+  date: "-480"
+  weight: 2
+  kind: schlacht
+  summary: Die griechische Flotte besiegt die Flotte des Xerxes; im folgenden Jahr scheitert der persische Feldzug bei Plataiai.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+  places: [salamis]
+  persons: [xerxes-i]
+  polities: [achaemenidenreich]
+- id: schlacht-bei-gaugamela
+  title: Schlacht bei Gaugamela
+  date: "-331-10-01"
+  weight: 2
+  kind: schlacht
+  summary: Alexander besiegt Dareios III. entscheidend; Babylon, Susa und Persepolis fallen in seine Hand.
+  regions: [mesopotamien]
+  themes: [krieg-militaer]
+  places: [gaugamela]
+  persons: [alexander-der-grosse, dareios-iii]
+  polities: [achaemenidenreich, alexanderreich]
+- id: brand-von-persepolis
+  title: Brand von Persepolis und Ende der Achämeniden
+  date: "-330"
+  weight: 3
+  kind: katastrophe
+  summary: Der Palast von Persepolis geht in Flammen auf; Dareios III. wird auf der Flucht getötet.
+  regions: [iran]
+  themes: [krieg-militaer]
+  places: [persepolis]
+  persons: [alexander-der-grosse, dareios-iii]
+  polities: [achaemenidenreich, alexanderreich]

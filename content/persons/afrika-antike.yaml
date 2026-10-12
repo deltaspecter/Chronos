@@ -1,0 +1,90 @@
+- id: narmer
+  name: Narmer
+  born: "~-3100?"
+  roles: [König]
+  certainty: unsicher
+  summary: Früher ägyptischer König um 3000 v. Chr., der auf der Narmer-Palette mit den Kronen Ober- und Unterägyptens dargestellt ist; gilt als einer der Herrscher der Reichseinigung.
+  regions: [aegypten]
+  themes: [politik]
+  places: [hierakonpolis, abydos]
+- id: djoser
+  name: Djoser
+  aliases: [Netjerichet, Zoser]
+  born: "~-2690?"
+  died: "~-2648"
+  roles: [König]
+  summary: König der 3. Dynastie (um 2667–2648 v. Chr.), für den die Stufenpyramide von Sakkara errichtet wurde – die erste Pyramide Ägyptens.
+  regions: [aegypten]
+  themes: [politik, kultur-kunst]
+  places: [sakkara]
+  related: [imhotep]
+- id: imhotep
+  name: Imhotep
+  aliases: [Imouthes]
+  born: "~-2690?"
+  roles: [Beamter, Baumeister (Überlieferung)]
+  summary: Hoher Beamter unter Djoser; die spätere Überlieferung schrieb ihm den Entwurf der Stufenpyramide zu und verehrte ihn als Gott der Weisheit und Heilkunst.
+  regions: [aegypten]
+  themes: [wissenschaft-technik]
+  places: [sakkara]
+  related: [djoser]
+- id: cheops
+  name: Cheops
+  aliases: [Chufu, Khufu]
+  born: "~-2610?"
+  died: "~-2566"
+  roles: [König]
+  summary: König der 4. Dynastie (um 2589–2566 v. Chr.), Bauherr der Großen Pyramide von Gizeh.
+  regions: [aegypten]
+  themes: [politik, kultur-kunst]
+  places: [gizeh, wadi-al-jarf]
+- id: pepi-ii
+  name: Pepi II.
+  aliases: [Neferkare]
+  died: "~-2184"
+  roles: [König]
+  summary: König der 6. Dynastie mit einer außergewöhnlich langen Regierungszeit; nach seinem Tod zerfiel die zentrale Macht des Alten Reiches.
+  regions: [aegypten]
+  themes: [politik]
+  related: [harchuf]
+- id: harchuf
+  name: Harchuf
+  aliases: [Harkhuf]
+  born: "~-2300?"
+  roles: [Expeditionsleiter, Gaufürst]
+  summary: Ägyptischer Beamter der 6. Dynastie aus Elephantine, dessen Grabinschrift von vier Expeditionen in das südliche Land Jam berichtet.
+  regions: [aegypten, nubien]
+  themes: [handelsnetze]
+  places: [elephantine]
+  related: [pepi-ii]
+- id: piye
+  name: Piye
+  aliases: [Pianchi, Pi'ankhy]
+  born: "~-760?"
+  died: "~-716"
+  roles: [König von Kusch, Pharao]
+  summary: Kuschitischer König aus Napata, der um 728 v. Chr. Ägypten eroberte und die 25. Dynastie begründete; bekannt durch seine Siegesstele.
+  regions: [nubien, aegypten]
+  themes: [politik, imperien]
+  places: [gebel-barkal, el-kurru]
+  related: [taharqa]
+- id: taharqa
+  name: Taharqa
+  aliases: [Taharka, Tirhaka]
+  died: "-664"
+  roles: [König von Kusch, Pharao]
+  summary: König der 25. Dynastie (690–664 v. Chr.), großer Bauherr in Ägypten und Nubien; unterlag dem Neuassyrischen Reich und wurde in einer Pyramide in Nuri bestattet.
+  regions: [nubien, aegypten]
+  themes: [politik, kultur-kunst]
+  places: [nuri, gebel-barkal]
+  related: [piye]
+- id: amanirenas
+  name: Amanirenas
+  born: "~-60?"
+  died: "~-10?"
+  roles: [Kandake, Königin von Meroe]
+  summary: Königin (Kandake) von Meroe, die um 25 v. Chr. gegen das römische Ägypten Krieg führte und 21/20 v. Chr. einen günstigen Frieden mit Augustus erreichte.
+  regions: [nubien]
+  themes: [politik, krieg-militaer]
+  places: [meroe]
+  related: [augustus]

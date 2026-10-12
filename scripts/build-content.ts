@@ -193,7 +193,7 @@ const polityMap = uniqueMap(politiesRaw, 'polities')
 const cultureMap = uniqueMap(culturesRaw, 'cultures')
 const termMap = uniqueMap(termsRaw, 'terms')
 const sourceMap = uniqueMap(sourcesRaw, 'sources')
-uniqueMap(routesRaw, 'routes')
+const routeMap = uniqueMap(routesRaw, 'routes')
 uniqueMap(territoriesRaw, 'territories')
 const mediaMap = uniqueMap(mediaRaw, 'media')
 const articleMap = uniqueMap(
@@ -302,6 +302,7 @@ const labelOf: Record<LinkKind, (id: string) => string | undefined> = {
   epoch: (id) => epochMap.get(id)?.title,
   theme: (id) => themeMap.get(id)?.title,
   source: (id) => sourceMap.get(id)?.title,
+  route: (id) => routeMap.get(id)?.name,
 }
 
 function formatSource(s: z.infer<typeof S.sourceSchema>): string {
@@ -399,6 +400,7 @@ const rel2 = {
   cultureArticles: new Map<string, Set<string>>(),
   termArticles: new Map<string, Set<string>>(),
   sourceArticles: new Map<string, Set<string>>(),
+  routeArticles: new Map<string, Set<string>>(),
   backlinks: new Map<string, Set<string>>(),
   personEvents: new Map<string, Set<string>>(),
   placeEvents: new Map<string, Set<string>>(),
@@ -432,6 +434,7 @@ for (const r of rendered) {
     if (link.kind === 'culture') sets.cultures.add(link.id)
     if (link.kind === 'term') sets.terms.add(link.id)
     if (link.kind === 'source') sets.sources.add(link.id)
+    if (link.kind === 'route') add(rel2.routeArticles, link.id, f.id)
     if (link.kind === 'article' && link.id !== f.id) add(rel2.backlinks, link.id, f.id)
   }
   for (const target of f.related) add(rel2.backlinks, target, f.id)
@@ -693,7 +696,7 @@ const routes: Route[] = routesRaw.map((r) => ({
   path: r.path,
   schematic: r.schematic,
   summary: r.summary,
-  articles: [],
+  articles: list(rel2.routeArticles, r.id),
   themes: r.themes,
   regions: r.regions,
 }))

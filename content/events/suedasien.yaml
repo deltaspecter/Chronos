@@ -1,0 +1,71 @@
+- id: alexander-am-indus
+  title: Alexander der Große am Indus
+  date: "-326"
+  weight: 2
+  kind: krieg
+  summary: Alexander besiegt am Hydaspes den König Poros; seine Soldaten verweigern den Weitermarsch nach Osten.
+  regions: [suedasien]
+  themes: [krieg-militaer]
+  persons: [alexander-der-grosse]
+  polities: [alexanderreich]
+- id: gruendung-maurya-reich
+  title: Gründung des Maurya-Reiches
+  date: "~-321"
+  certainty: wahrscheinlich
+  dateNote: In der Forschung zwischen etwa 324 und 317 v. Chr. angesetzt.
+  weight: 1
+  kind: gruendung
+  summary: Chandragupta Maurya stürzt die Nanda-Dynastie und macht Pataliputra zur Hauptstadt eines neuen Reiches.
+  regions: [suedasien]
+  themes: [imperien]
+  places: [pataliputra]
+  persons: [chandragupta-maurya, kautilya]
+  polities: [maurya-reich-staat]
+- id: vertrag-seleukos-chandragupta
+  title: Vertrag zwischen Seleukos I. und Chandragupta
+  date: "~-303"
+  certainty: wahrscheinlich
+  weight: 3
+  kind: vertrag
+  summary: Seleukos tritt Gebiete im heutigen Afghanistan und Pakistan ab und erhält 500 Kriegselefanten.
+  regions: [suedasien, zentralasien]
+  themes: [politik]
+  persons: [seleukos-i, chandragupta-maurya, megasthenes]
+  polities: [maurya-reich-staat, seleukidenreich]
+- id: kalinga-krieg
+  title: Krieg gegen Kalinga
+  date: "~-260"
+  certainty: wahrscheinlich
+  dateNote: Nach Ashokas Inschriften im achten Jahr nach seiner Krönung.
+  weight: 2
+  kind: krieg
+  summary: Ashoka erobert das Königreich Kalinga an der Ostküste; nach eigener Aussage werden 100.000 Menschen getötet und 150.000 verschleppt.
+  regions: [suedasien]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [dhauli]
+  persons: [ashoka]
+  polities: [maurya-reich-staat]
+- id: ashoka-edikte
+  title: Edikte des Ashoka
+  start: "~-260"
+  end: "~-235"
+  certainty: wahrscheinlich
+  weight: 2
+  kind: ereignis
+  summary: Ashoka lässt im ganzen Reich Inschriften auf Felsen und Säulen anbringen, die sein Dhamma der Gewaltlosigkeit und Toleranz verkünden.
+  regions: [suedasien]
+  themes: [religion, schrift-medien, verfassung-recht]
+  places: [dhauli, sarnath, lumbini, kandahar, junagadh]
+  persons: [ashoka]
+  polities: [maurya-reich-staat]
+- id: ende-maurya-reich
+  title: Ende der Maurya-Dynastie
+  date: "~-185"
+  certainty: wahrscheinlich
+  weight: 3
+  kind: herrschaft
+  summary: Der Heerführer Pushyamitra Shunga tötet den letzten Maurya-König Brihadratha und begründet die Shunga-Dynastie.
+  regions: [suedasien]
+  themes: [politik]
+  places: [pataliputra]
+  polities: [maurya-reich-staat]
