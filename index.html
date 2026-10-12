@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="de" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>CHRONOS – Enzyklopädie der Menschheitsgeschichte</title>
+    <meta name="description" content="CHRONOS ist eine frei lesbare, quellenbasierte Enzyklopädie der Menschheitsgeschichte – von der Urgeschichte bis zur Gegenwart, mit Zeitleiste, historischem Atlas und Wissensnetz." />
+    <meta name="theme-color" content="#0d1320" media="(prefers-color-scheme: dark)" />
+    <meta name="theme-color" content="#f6f1e6" media="(prefers-color-scheme: light)" />
+    <meta name="color-scheme" content="dark light" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="icon" href="/icons/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="CHRONOS" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <script>
+      // Theme vor dem ersten Rendern setzen (kein Aufblitzen)
+      try {
+        var s = JSON.parse(localStorage.getItem('chronos-settings') || '{}').state || {}
+        var t = s.theme || 'dark'
+        if (t === 'system') t = matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark'
+        document.documentElement.dataset.theme = t
+        if (s.fontScale) document.documentElement.style.setProperty('--font-scale', s.fontScale)
+        if (s.lineHeight) document.documentElement.style.setProperty('--reading-leading', s.lineHeight)
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript>CHRONOS benötigt JavaScript.</noscript>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

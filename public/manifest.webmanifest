@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "CHRONOS – Enzyklopädie der Menschheitsgeschichte",
+  "short_name": "CHRONOS",
+  "description": "Quellenbasierte Enzyklopädie der Menschheitsgeschichte mit Zeitleiste, historischem Atlas und Wissensnetz.",
+  "lang": "de",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#0d1320",
+  "theme_color": "#0d1320",
+  "categories": ["education", "books", "reference"],
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Suche", "url": "/suche", "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Zeitleiste", "url": "/zeitleiste", "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Lesezeichen", "url": "/lesezeichen", "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }] }
+  ]
+}

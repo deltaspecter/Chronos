@@ -1,0 +1,286 @@
+- id: polybios
+  name: Polybios
+  aliases: [Polybius]
+  born: "~-200"
+  died: "~-120"
+  roles: [Geschichtsschreiber, Politiker]
+  summary: Griechischer Politiker aus Megalopolis, kam 167 v. Chr. als Geisel nach Rom und wurde Vertrauter Scipio Aemilianus'. Seine „Historien“ erklären den Aufstieg Roms zur Weltmacht und sind die wichtigste Quelle für die Punischen Kriege.
+  regions: [griechenland, italien]
+  themes: [geschichtsschreibung]
+  places: [rom, karthago]
+  related: [scipio-aemilianus]
+- id: hamilkar-barkas
+  name: Hamilkar Barkas
+  aliases: [Hamilcar Barca]
+  died: "-229?"
+  roles: [Feldherr]
+  summary: Karthagischer Feldherr im Ersten Punischen Krieg auf Sizilien und Begründer der karthagischen Herrschaft in Spanien; Vater Hannibals.
+  regions: [nordafrika, iberische-halbinsel]
+  themes: [krieg-militaer]
+  places: [karthago]
+  related: [hannibal, hasdrubal-barkas]
+- id: hannibal
+  name: Hannibal
+  aliases: [Hannibal Barkas, Hannibal Barca]
+  born: "-247"
+  died: "~-183"
+  roles: [Feldherr, Sufet]
+  summary: Karthagischer Feldherr, der im Zweiten Punischen Krieg die Alpen überquerte und Rom bei Cannae die schwerste Niederlage seiner Geschichte beibrachte; 202 v. Chr. bei Zama geschlagen.
+  regions: [nordafrika, iberische-halbinsel, italien]
+  themes: [krieg-militaer]
+  places: [karthago, sagunt, cannae, trasimenischer-see, zama]
+  related: [hamilkar-barkas, hasdrubal-barkas, scipio-africanus, fabius-maximus]
+- id: hasdrubal-barkas
+  name: Hasdrubal Barkas
+  aliases: [Hasdrubal Barca]
+  died: "-207"
+  roles: [Feldherr]
+  summary: Bruder Hannibals; führte den Krieg in Spanien und fiel 207 v. Chr. am Metaurus, als er Hannibal in Italien Verstärkung bringen wollte.
+  regions: [iberische-halbinsel, italien]
+  themes: [krieg-militaer]
+  related: [hannibal]
+- id: scipio-africanus
+  name: Publius Cornelius Scipio Africanus
+  aliases: [Scipio Africanus, Scipio der Ältere]
+  born: "-236"
+  died: "~-183"
+  roles: [Feldherr, Konsul]
+  summary: Römischer Feldherr, der Karthago in Spanien besiegte, 204 v. Chr. in Afrika landete und Hannibal 202 v. Chr. bei Zama schlug.
+  regions: [italien, iberische-halbinsel, nordafrika]
+  themes: [krieg-militaer, politik]
+  places: [neukarthago, zama]
+  related: [hannibal, scipio-aemilianus]
+- id: fabius-maximus
+  name: Quintus Fabius Maximus Verrucosus
+  aliases: [Fabius Cunctator, Cunctator]
+  born: "~-280"
+  died: "-203"
+  roles: [Diktator, Konsul]
+  summary: Römischer Diktator 217 v. Chr., dessen Strategie der Schlachtvermeidung gegen Hannibal ihm den Beinamen „der Zögerer“ eintrug.
+  regions: [italien]
+  themes: [krieg-militaer]
+  related: [hannibal]
+- id: masinissa
+  name: Masinissa
+  aliases: [Massinissa]
+  born: "~-238"
+  died: "-148"
+  roles: [König]
+  summary: König der Numider, kämpfte erst für Karthago, dann für Rom; seine Reiterei trug zum Sieg bei Zama bei. Seine Gebietsansprüche gegen Karthago führten zum Dritten Punischen Krieg.
+  regions: [nordafrika]
+  themes: [politik, krieg-militaer]
+  related: [scipio-africanus]
+- id: cato-der-aeltere
+  name: Marcus Porcius Cato (der Ältere)
+  aliases: [Cato Censorius, Cato der Ältere, Cato Maior]
+  born: "-234"
+  died: "-149"
+  roles: [Politiker, Zensor, Schriftsteller]
+  summary: Römischer Politiker und Aufsteiger (homo novus), Zensor 184 v. Chr., Verfechter altrömischer Sitten und der Zerstörung Karthagos; Verfasser der ältesten erhaltenen lateinischen Prosaschrift über die Landwirtschaft.
+  regions: [italien]
+  themes: [politik, landwirtschaft]
+  places: [rom, karthago]
+- id: scipio-aemilianus
+  name: Publius Cornelius Scipio Aemilianus
+  aliases: [Scipio Africanus der Jüngere, Scipio Aemilianus]
+  born: "~-185"
+  died: "-129"
+  roles: [Feldherr, Konsul]
+  summary: Sohn des Aemilius Paullus, Adoptivenkel des älteren Scipio; eroberte und zerstörte 146 v. Chr. Karthago und 133 v. Chr. das spanische Numantia.
+  regions: [italien, nordafrika]
+  themes: [krieg-militaer]
+  places: [karthago]
+  related: [polybios, scipio-africanus]
+- id: archimedes
+  name: Archimedes von Syrakus
+  aliases: [Archimedes]
+  born: "~-287"
+  died: "-212"
+  roles: [Mathematiker, Ingenieur]
+  summary: Griechischer Mathematiker und Ingenieur; nach der Überlieferung bei der römischen Eroberung von Syrakus getötet.
+  regions: [italien, mittelmeer]
+  themes: [wissenschaft-technik]
+  places: [syrakus]
+- id: tiberius-gracchus
+  name: Tiberius Sempronius Gracchus
+  aliases: [Tiberius Gracchus, Gracchen]
+  born: "~-163"
+  died: "-133"
+  roles: [Volkstribun]
+  summary: Volkstribun 133 v. Chr., der mit einem Ackergesetz Land an besitzlose Bürger verteilen wollte und von Senatoren erschlagen wurde.
+  regions: [italien]
+  themes: [politik, landwirtschaft]
+  places: [rom]
+  related: [gaius-gracchus]
+- id: gaius-gracchus
+  name: Gaius Sempronius Gracchus
+  aliases: [Gaius Gracchus, Gracchen]
+  born: "~-154"
+  died: "-121"
+  roles: [Volkstribun]
+  summary: Jüngerer Bruder des Tiberius, Volkstribun 123 und 122 v. Chr. mit einem weitreichenden Reformprogramm; 121 v. Chr. nach Ausrufung des Notstands getötet.
+  regions: [italien]
+  themes: [politik]
+  places: [rom]
+  related: [tiberius-gracchus]
+- id: marius
+  name: Gaius Marius
+  aliases: [Marius]
+  born: "~-157"
+  died: "-86"
+  roles: [Feldherr, Konsul]
+  summary: Aufsteiger aus Arpinum, siebenmal Konsul; siegte über Jugurtha, Kimbern und Teutonen und öffnete das Heer für Besitzlose. Später Gegenspieler Sullas im Bürgerkrieg.
+  regions: [italien]
+  themes: [krieg-militaer, politik]
+  places: [rom]
+  related: [sulla, caesar]
+- id: sulla
+  name: Lucius Cornelius Sulla Felix
+  aliases: [Sulla]
+  born: "-138"
+  died: "-78"
+  roles: [Feldherr, Diktator]
+  summary: Römischer Feldherr, der 88 v. Chr. als Erster mit einem Heer gegen Rom marschierte, den Bürgerkrieg gewann und als Diktator mit Proskriptionen und Reformen die Senatsherrschaft zu sichern versuchte.
+  regions: [italien]
+  themes: [politik, krieg-militaer]
+  places: [rom]
+  related: [marius, pompeius]
+- id: pompeius
+  name: Gnaeus Pompeius Magnus
+  aliases: [Pompeius, Pompejus, Pompey]
+  born: "-106"
+  died: "-48"
+  roles: [Feldherr, Konsul]
+  summary: Römischer Feldherr mit außerordentlichen Kommanden gegen Seeräuber und Mithridates, Partner und später Gegner Caesars; nach Pharsalos in Ägypten ermordet.
+  regions: [italien, mittelmeer, westasien]
+  themes: [krieg-militaer, politik]
+  places: [rom, pharsalos]
+  related: [caesar, crassus, sulla]
+- id: crassus
+  name: Marcus Licinius Crassus
+  aliases: [Crassus]
+  born: "~-115"
+  died: "-53"
+  roles: [Politiker, Feldherr]
+  summary: Einer der reichsten Römer seiner Zeit, besiegte Spartacus und gehörte dem Bündnis mit Pompeius und Caesar an; fiel 53 v. Chr. bei Carrhae gegen die Parther.
+  regions: [italien, westasien]
+  themes: [politik, wirtschaft-handel]
+  related: [caesar, pompeius]
+- id: cicero
+  name: Marcus Tullius Cicero
+  aliases: [Cicero, Tullius]
+  born: "-106-01-03"
+  died: "-43-12-07"
+  roles: [Redner, Politiker, Philosoph, Schriftsteller]
+  summary: Römischer Redner, Konsul 63 v. Chr. und bedeutendster lateinischer Prosaautor; seine Reden und Briefe sind die wichtigste zeitgenössische Quelle der späten Republik. Den Proskriptionen des Zweiten Triumvirats fiel er zum Opfer.
+  regions: [italien]
+  themes: [politik, kultur-kunst]
+  places: [rom]
+  related: [caesar, catilina, augustus, marcus-antonius]
+- id: catilina
+  name: Lucius Sergius Catilina
+  aliases: [Catilina, Catiline]
+  born: "-108"
+  died: "-62"
+  roles: [Politiker]
+  summary: Römischer Aristokrat, der nach gescheiterten Konsulatsbewerbungen 63 v. Chr. einen Umsturz plante; fiel 62 v. Chr. in der Schlacht bei Pistoria.
+  regions: [italien]
+  themes: [politik]
+  related: [cicero]
+- id: caesar
+  name: Gaius Iulius Caesar
+  aliases: [Caesar, Cäsar, Julius Caesar, Julius Cäsar]
+  born: "-100"
+  died: "-44-03-15"
+  roles: [Feldherr, Politiker, Diktator, Schriftsteller]
+  summary: Römischer Feldherr und Politiker, Eroberer Galliens, Sieger im Bürgerkrieg gegen Pompeius und Diktator auf Lebenszeit; an den Iden des März 44 v. Chr. ermordet.
+  regions: [italien, frankreich, mittelmeer]
+  themes: [politik, krieg-militaer]
+  places: [rom, alesia, rubikon, pharsalos, alexandria]
+  related: [pompeius, crassus, augustus, kleopatra, marcus-antonius, brutus]
+- id: vercingetorix
+  name: Vercingetorix
+  aliases: [Vercingétorix]
+  born: "~-82"
+  died: "-46"
+  roles: [Heerführer]
+  summary: Fürst der Arverner, der 52 v. Chr. den gallischen Aufstand gegen Caesar anführte; ergab sich in Alesia und wurde nach Caesars Triumph 46 v. Chr. hingerichtet.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+  places: [alesia]
+  related: [caesar]
+- id: kleopatra
+  name: Kleopatra VII.
+  aliases: [Kleopatra, Cleopatra]
+  born: "-69"
+  died: "-30"
+  roles: [Königin]
+  summary: Letzte Herrscherin des ptolemäischen Ägypten; Verbündete und Partnerin zuerst Caesars, dann des Marcus Antonius. Nach der Niederlage bei Actium und der Einnahme Alexandrias nahm sie sich das Leben.
+  regions: [aegypten]
+  themes: [politik]
+  places: [alexandria]
+  related: [caesar, marcus-antonius, augustus]
+- id: marcus-antonius
+  name: Marcus Antonius
+  aliases: [Mark Anton, Antonius]
+  born: "~-83"
+  died: "-30"
+  roles: [Feldherr, Triumvir]
+  summary: Caesars Gefolgsmann und Konsul 44 v. Chr., Triumvir mit Octavian und Lepidus; unterlag Octavian bei Actium und nahm sich in Alexandria das Leben.
+  regions: [italien, mittelmeer, aegypten]
+  themes: [politik, krieg-militaer]
+  places: [philippi, actium, alexandria]
+  related: [caesar, kleopatra, augustus]
+- id: brutus
+  name: Marcus Iunius Brutus
+  aliases: [Brutus]
+  born: "~-85"
+  died: "-42"
+  roles: [Politiker]
+  summary: Römischer Senator, von Caesar begnadigt und gefördert; einer der Anführer der Verschwörung gegen ihn. Nach der Niederlage bei Philippi nahm er sich das Leben.
+  regions: [italien]
+  themes: [politik]
+  places: [philippi]
+  related: [caesar]
+- id: augustus
+  name: Augustus
+  aliases: [Octavian, Octavianus, Gaius Octavius, Imperator Caesar Augustus]
+  born: "-63-09-23"
+  died: "14-08-19"
+  roles: [Princeps, Kaiser, Triumvir]
+  summary: Adoptivsohn Caesars, Sieger der Bürgerkriege und Begründer des Prinzipats; herrschte als erster römischer Kaiser von 27 v. Chr. bis 14 n. Chr.
+  regions: [italien, mittelmeer]
+  themes: [politik, imperien]
+  places: [rom, actium, philippi, ankyra]
+  related: [caesar, marcus-antonius, agrippa, livia, tiberius]
+- id: agrippa
+  name: Marcus Vipsanius Agrippa
+  aliases: [Agrippa]
+  born: "~-63"
+  died: "-12"
+  roles: [Feldherr, Bauherr]
+  summary: Engster Vertrauter des Augustus, Sieger von Actium, Bauherr zahlreicher Anlagen in Rom und Schwiegersohn des Princeps.
+  regions: [italien]
+  themes: [krieg-militaer, kultur-kunst]
+  places: [actium, rom]
+  related: [augustus]
+- id: livia
+  name: Livia Drusilla
+  aliases: [Livia, Iulia Augusta]
+  born: "-58"
+  died: "29"
+  roles: [Ehefrau des Augustus]
+  summary: Ehefrau des Augustus seit 38 v. Chr. und Mutter des Tiberius; eine der einflussreichsten Frauen der römischen Geschichte.
+  regions: [italien]
+  themes: [politik, gesellschaft]
+  related: [augustus, tiberius]
+- id: tiberius
+  name: Tiberius
+  aliases: [Tiberius Iulius Caesar Augustus]
+  born: "-42"
+  died: "37"
+  roles: [Kaiser]
+  summary: Sohn der Livia, Adoptivsohn und Nachfolger des Augustus; römischer Kaiser von 14 bis 37 n. Chr.
+  regions: [italien]
+  themes: [politik]
+  related: [augustus, livia]

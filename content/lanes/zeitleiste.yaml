@@ -1,0 +1,23 @@
+# Spuren der Zeitleiste (Reihenfolge = Anzeige). Jede Spur fasst Regionen zusammen,
+# damit parallele Entwicklungen in verschiedenen Weltregionen nebeneinander sichtbar werden.
+- id: global
+  name: Weltweit
+  regions: [welt]
+- id: afrika
+  name: Afrika
+  regions: [afrika]
+- id: westasien
+  name: Westasien
+  regions: [westasien]
+- id: europa
+  name: Europa & Mittelmeer
+  regions: [europa, mittelmeer]
+- id: zentral-suedasien
+  name: Zentral- & Südasien
+  regions: [zentralasien, suedasien]
+- id: ostasien
+  name: Ost- & Südostasien
+  regions: [ostasien, suedostasien]
+- id: amerika
+  name: Amerikas & Ozeanien
+  regions: [amerika, ozeanien]

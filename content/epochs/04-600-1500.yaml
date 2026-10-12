@@ -1,0 +1,164 @@
+- id: welt-600-1500
+  title: Die Welt zwischen 600 und 1500
+  order: 4
+  start: "~600"
+  end: "~1500"
+  spanNote: In der europäischen Geschichtsschreibung entspricht dieser Zeitraum dem „Mittelalter“. Für andere Weltregionen ist der Begriff irreführend – die Tang- und Song-Zeit in China oder die Abbasidenzeit gelten dort als Blütezeiten, nicht als „mittleres“ Zeitalter.
+  regions: [welt]
+  summary: Byzanz, die islamischen Kalifate, das lateinische Europa, die Reiche der westafrikanischen Sahelzone, das China der Tang und Song, das Mongolenreich – eine Epoche dichter Verflechtungen.
+  body: |
+    Zwischen dem 7. und dem 15. Jahrhundert wuchsen die Verbindungen zwischen den Weltregionen. Die Ausbreitung des Islam schuf einen Kultur- und Wirtschaftsraum von der Iberischen Halbinsel bis nach Zentralasien; Karawanenrouten durch die Sahara verbanden Westafrika mit dem Mittelmeer; im Indischen Ozean handelten Kaufleute aus Arabien, Persien, Indien, Ostafrika und Südostasien; die Mongolen schufen im 13. Jahrhundert das größte zusammenhängende Landreich der Geschichte.
+
+    Den Begriff „Mittelalter“ prägten italienische Humanisten des 15. und 16. Jahrhunderts, die ihre eigene Zeit als Wiedergeburt der Antike verstanden und die Zeit dazwischen abwerteten. CHRONOS verwendet ihn nur für das lateinische Europa.
+  planned: []
+
+- id: byzanz
+  title: Byzantinisches Reich
+  parent: welt-600-1500
+  order: 1
+  start: "330"
+  end: "1453"
+  spanNote: „Byzantinisch“ ist eine Bezeichnung der Neuzeit. Die Bewohner verstanden sich als Römer (Rhomaioi); 330 (Einweihung Konstantinopels) und 395 (Reichsteilung) sind übliche, aber konventionelle Anfangsdaten.
+  regions: [suedosteuropa, anatolien, mittelmeer]
+  summary: Das christlich geprägte, griechischsprachige Oströmische Reich mit der Hauptstadt Konstantinopel bestand bis zur osmanischen Eroberung 1453.
+  body: |
+    Das Oströmische Reich überdauerte das Ende des weströmischen Kaisertums um fast tausend Jahre. Es bewahrte römisches Recht und griechische Literatur, prägte die orthodoxe Christenheit Osteuropas und war über Jahrhunderte die bedeutendste Macht des östlichen Mittelmeers.
+  planned:
+    - Justinian I. und das Corpus iuris civilis
+    - Der Bilderstreit
+    - Der Vierte Kreuzzug und die Eroberung Konstantinopels 1204
+    - Die Eroberung Konstantinopels 1453
+
+- id: islamische-welt
+  title: Islamische Geschichte
+  parent: welt-600-1500
+  order: 2
+  start: "~610"
+  end: "~1500"
+  regions: [westasien, arabische-halbinsel, nordafrika, iberische-halbinsel, zentralasien, suedasien]
+  summary: Von der Verkündigung des Propheten Muhammad über die Kalifate der Umayyaden und Abbasiden bis zu den Regionalreichen des Spätmittelalters.
+  body: |
+    Innerhalb eines Jahrhunderts nach dem Tod Muhammads 632 reichte das Kalifat vom Atlantik bis an den Indus. Die Abbasidenzeit (ab 750) mit dem Zentrum Bagdad gilt als Blütezeit von Wissenschaft, Philosophie und Literatur. Die frühislamische Geschichte ist Gegenstand intensiver quellenkritischer Debatten, weil viele erzählende Quellen erst ein bis zwei Jahrhunderte nach den Ereignissen niedergeschrieben wurden.
+  planned:
+    - Muhammad und die Entstehung des Islam
+    - Die arabisch-islamischen Eroberungen
+    - Das Kalifat der Umayyaden
+    - Bagdad und die Abbasiden
+    - Al-Andalus
+    - Das Osmanische Reich bis 1453
+
+- id: europaeisches-mittelalter
+  title: Europäisches Mittelalter
+  parent: welt-600-1500
+  order: 3
+  start: "~500"
+  end: "~1500"
+  regions: [europa]
+  summary: Das lateinisch-christliche Europa vom Frankenreich bis zum Ende des 15. Jahrhunderts – Königtum, Kirche, Grundherrschaft, Städte und Universitäten.
+  body: |
+    Die Mediävistik gliedert das europäische Mittelalter meist in Früh-, Hoch- und Spätmittelalter. Das ältere Bild eines „finsteren“ Zeitalters gilt als überholt: In diese Zeit fallen die Entstehung der Universitäten, ein starkes Städtewachstum, die gotische Architektur und die Herausbildung vieler bis heute bestehender Staaten.
+  planned:
+    - Das Frankenreich und Karl der Große
+    - Das Heilige Römische Reich
+    - Investiturstreit
+    - Die Kreuzzüge
+    - Die Hanse
+    - Der Schwarze Tod (1347–1351)
+
+- id: afrikanische-reiche
+  title: Afrikanische Königreiche und Handelsnetze
+  parent: welt-600-1500
+  order: 4
+  start: "~700"
+  end: "~1600"
+  regions: [westafrika, ostafrika, suedliches-afrika, nordostafrika]
+  summary: Ghana, Mali und Songhai in der Sahelzone, die Swahili-Städte, Groß-Simbabwe und das christliche Äthiopien – Reiche, die über Sahara und Indischen Ozean mit der Welt verbunden waren.
+  body: |
+    Die Geschichte Afrikas zwischen 700 und 1600 wird aus sehr unterschiedlichen Quellen rekonstruiert: Berichte arabischsprachiger Geografen und Reisender, örtliche Chroniken (etwa aus Timbuktu), mündliche Überlieferungen wie das Sunjata-Epos und vor allem archäologische Befunde. Jede dieser Quellengattungen hat eigene Stärken und blinde Flecken.
+  planned:
+    - Das Reich von Ghana (Wagadu)
+    - Das Songhai-Reich
+    - Groß-Simbabwe
+    - Die Swahili-Küste
+    - Das Königreich Äthiopien und Lalibela
+    - Timbuktu als Gelehrtenzentrum
+
+- id: china-tang-ming
+  title: China von der Tang- bis zur Ming-Zeit
+  parent: welt-600-1500
+  order: 5
+  start: "618"
+  end: "1644"
+  regions: [china]
+  summary: Tang, Song, Yuan und Ming – eine Epoche der Beamtenprüfungen, des Buchdrucks, der Handelsrevolution und der mongolischen Herrschaft.
+  body: |
+    Unter der Song-Dynastie (960–1279) erlebte China tiefgreifende wirtschaftliche Veränderungen: Papiergeld, ein dichtes Netz von Märkten, Fortschritte im Reisanbau und eine schnell wachsende Bevölkerung. Manche Historiker sprechen von einer „mittelalterlichen Wirtschaftsrevolution“; die Reichweite dieser These ist umstritten.
+  planned:
+    - Die Tang-Dynastie
+    - Die Song-Dynastie
+    - Die Yuan-Dynastie
+    - Die Flottenexpeditionen des Zheng He
+
+- id: japan-korea
+  title: Japan und Korea
+  parent: welt-600-1500
+  order: 6
+  start: "~300"
+  end: "~1600"
+  regions: [japan, korea]
+  summary: Vom Yamato-Staat und der Heian-Zeit bis zu den Shogunaten in Japan; von den Drei Reichen über Silla und Goryeo bis zur Joseon-Dynastie in Korea.
+  body: |
+    Japan und Korea übernahmen Schrift, Buddhismus und Verwaltungsmodelle aus China, formten sie aber zu eigenständigen Traditionen um. In Korea entstand 1443/1446 mit dem Hangeul ein eigenes Alphabet; in Japan bildete sich ab dem späten 12. Jahrhundert eine Kriegerherrschaft (Shogunat) neben dem Kaiserhof heraus.
+  planned:
+    - Die Heian-Zeit
+    - Das Kamakura-Shogunat
+    - Die Joseon-Dynastie und das Hangeul
+
+- id: suedostasien-geschichte
+  title: Südostasien
+  parent: welt-600-1500
+  order: 7
+  start: "~600"
+  end: "~1600"
+  regions: [suedostasien]
+  summary: Srivijaya, Angkor, Pagan, Majapahit und Malakka – Reiche zwischen Indischem Ozean und Südchinesischem Meer.
+  body: |
+    Südostasiatische Reiche verbanden indische, chinesische und lokale Traditionen. Die Tempelanlagen von Angkor gehören zu den größten religiösen Bauwerken der Welt; die Seemacht Srivijaya kontrollierte über Jahrhunderte die Straße von Malakka.
+  planned:
+    - Angkor und das Khmer-Reich
+    - Srivijaya
+    - Das Sultanat Malakka
+
+- id: zentralasien-mongolen
+  title: Zentralasien und das Mongolenreich
+  parent: welt-600-1500
+  order: 8
+  start: "~550"
+  end: "~1500"
+  regions: [zentralasien]
+  summary: Türkische Reiche, Seidenstraßenstädte wie Samarkand und Buchara und das Weltreich der Mongolen.
+  body: |
+    Zentralasien war kein „Durchgangsraum“, sondern ein Zentrum eigener Reichsbildungen. Das Mongolenreich, von Dschingis Khan ab 1206 begründet, verband für etwa ein Jahrhundert Ostasien, Iran, Russland und Teile Osteuropas.
+  planned:
+    - Das Mongolenreich
+    - Timur und die Timuriden
+    - Samarkand
+
+- id: amerika-vor-1492
+  title: Amerika vor der europäischen Kolonisierung
+  order: 5
+  start: "~-15000"
+  end: "~1550"
+  spanNote: Der Beginn der Besiedlung der Amerikas ist umstritten; gesichert sind Fundstellen ab etwa 14.000 v. Chr., einige Befunde deuten auf deutlich frühere Anwesenheit hin.
+  regions: [amerika]
+  summary: Von der ersten Besiedlung über die Olmeken, Maya, Teotihuacan und die Andenkulturen bis zu den Reichen der Azteken (Mexica) und Inka.
+  body: |
+    Die Geschichte der Amerikas folgt einer eigenen Chronologie, die mit der europäischen Epochengliederung nichts zu tun hat. Die Mesoamerika-Forschung unterscheidet etwa eine präklassische, klassische und postklassische Periode; im Andenraum spricht man von „Horizonten“ und „Zwischenperioden“. Landwirtschaft (Mais, Kartoffel, Bohnen, Kürbis), Städte, Monumentalbauten und – in Mesoamerika – mehrere Schriftsysteme entstanden hier unabhängig von Eurasien.
+  planned:
+    - Die Besiedlung der Amerikas
+    - Die Olmeken
+    - Teotihuacan
+    - Die Maya der Klassik
+    - Das Reich der Mexica (Azteken)
+    - Das Inka-Reich (Tawantinsuyu)
+    - Cahokia und die Mississippi-Kultur

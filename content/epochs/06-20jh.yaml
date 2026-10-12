@@ -1,0 +1,171 @@
+- id: zeitalter-weltkriege
+  title: Zeitalter der Weltkriege
+  order: 8
+  start: "1914"
+  end: "1945"
+  regions: [welt]
+  summary: Zwei Weltkriege, die Russische Revolution, die Weltwirtschaftskrise, faschistische und kommunistische Diktaturen und der Holocaust.
+  body: |
+    Zwischen 1914 und 1945 wurden die Gesellschaften Europas und großer Teile der Welt durch Krieg, Revolution und Massengewalt erschüttert. Manche Historiker fassen die Jahre 1914 bis 1945 in Anlehnung an den Krieg von 1618 bis 1648 als „zweiten Dreißigjährigen Krieg“ zusammen; diese Deutung ist umstritten, weil sie die Unterschiede zwischen beiden Weltkriegen und die eigenständigen Ursachen der Zwischenkriegskrisen verwischen kann.
+  planned:
+    - Die Weimarer Republik
+    - Die Weltwirtschaftskrise
+    - Der Faschismus in Italien
+    - Der Stalinismus
+
+- id: erster-weltkrieg-epoche
+  title: Erster Weltkrieg
+  parent: zeitalter-weltkriege
+  order: 1
+  start: "1914-07-28"
+  end: "1918-11-11"
+  regions: [europa, westasien, afrika, welt]
+  summary: Der erste industrialisierte Massenkrieg – je nach Zählweise mit 15 bis 20 Millionen Toten –, der das europäische Staatensystem zerstörte.
+  body: ""
+  planned:
+    - Der Völkermord an den Armeniern
+    - Die Schlacht von Verdun
+    - Der Versailler Vertrag
+    - Kolonialtruppen im Ersten Weltkrieg
+
+- id: russische-revolution
+  title: Russische Revolution
+  parent: zeitalter-weltkriege
+  order: 2
+  start: "1917"
+  end: "1922"
+  regions: [russland]
+  summary: Februarrevolution, Machtübernahme der Bolschewiki im Oktober 1917, Bürgerkrieg und Gründung der Sowjetunion.
+  body: |
+    Nach dem in Russland bis 1918 gültigen julianischen Kalender fanden die beiden Revolutionen im Februar und Oktober 1917 statt, nach dem gregorianischen Kalender im März und November. In CHRONOS werden Daten nach dem gregorianischen Kalender angegeben.
+  planned:
+    - Die Februarrevolution 1917
+    - Die Oktoberrevolution
+    - Der Russische Bürgerkrieg
+    - Lenin
+
+- id: nationalsozialismus
+  title: Nationalsozialismus und Holocaust
+  parent: zeitalter-weltkriege
+  order: 3
+  start: "1933-01-30"
+  end: "1945-05-08"
+  regions: [deutschland, europa]
+  summary: Die nationalsozialistische Diktatur in Deutschland, die Verfolgung politischer Gegner und Minderheiten und der Völkermord an den europäischen Juden.
+  body: ""
+  planned:
+    - Die „Machtergreifung“ 1933
+    - Die Novemberpogrome 1938
+    - Der Völkermord an den Sinti und Roma (Porajmos)
+    - Widerstand gegen den Nationalsozialismus
+
+- id: zweiter-weltkrieg
+  title: Zweiter Weltkrieg
+  parent: zeitalter-weltkriege
+  order: 4
+  start: "1939-09-01"
+  end: "1945-09-02"
+  spanNote: In Ostasien begann der Krieg mit dem japanischen Angriff auf China bereits 1937; er endete mit der Kapitulation Japans am 2. September 1945.
+  regions: [welt]
+  summary: Der verlustreichste Krieg der Geschichte, nach gängigen Schätzungen mit 60 bis über 70 Millionen Toten, darunter eine Mehrheit Zivilisten.
+  body: ""
+  planned:
+    - Der Japanisch-Chinesische Krieg 1937–1945
+    - Der deutsche Vernichtungskrieg gegen die Sowjetunion
+    - Die Belagerung Leningrads
+    - Der Krieg im Pazifik
+    - Hiroshima und Nagasaki
+    - Die Nürnberger Prozesse
+
+- id: nachkriegszeit
+  title: Kalter Krieg und Dekolonisierung
+  order: 9
+  start: "1945"
+  end: "1991"
+  regions: [welt]
+  summary: Die Konfrontation zwischen den USA und der Sowjetunion, die Unabhängigkeit von über hundert neuen Staaten, die deutsche Teilung und die europäische Integration.
+  body: |
+    Aus europäischer Sicht wird die Zeit nach 1945 häufig als „Kalter Krieg“ beschrieben, weil die direkte militärische Konfrontation der Supermächte ausblieb. In weiten Teilen Asiens, Afrikas und Lateinamerikas war sie jedoch eine Zeit heißer Kriege – in Korea, Vietnam, Angola, Afghanistan und vielen anderen Ländern. Zugleich erlangten zwischen 1945 und 1975 die meisten Kolonien ihre Unabhängigkeit.
+  planned: []
+
+- id: kalter-krieg
+  title: Kalter Krieg
+  parent: nachkriegszeit
+  order: 1
+  start: "1947"
+  end: "1991"
+  regions: [welt]
+  summary: Die globale Systemkonkurrenz zwischen den USA und der Sowjetunion und ihren Verbündeten.
+  body: ""
+  planned:
+    - Die Berliner Blockade
+    - Der Koreakrieg
+    - Die Kubakrise
+    - Der Vietnamkrieg
+    - Die Entspannungspolitik
+
+- id: dekolonisierung
+  title: Dekolonisierung
+  parent: nachkriegszeit
+  order: 2
+  start: "1945"
+  end: "1975"
+  regions: [afrika, suedasien, suedostasien, westasien]
+  summary: Die Unabhängigkeit Indiens, Indonesiens und der meisten afrikanischen Staaten – auf friedlichem Weg oder in langen Befreiungskriegen.
+  body: ""
+  planned:
+    - Die Unabhängigkeit und Teilung Indiens 1947
+    - Der Algerienkrieg
+    - Das „Afrikanische Jahr“ 1960
+    - Die Bandung-Konferenz 1955
+
+- id: deutschland-1945-1990
+  title: Deutschland 1945–1990
+  parent: nachkriegszeit
+  order: 3
+  start: "1945"
+  end: "1990-10-03"
+  regions: [deutschland]
+  summary: Besatzungszeit, die Gründung von Bundesrepublik und DDR, die Geschichte zweier deutscher Staaten und die Wiedervereinigung.
+  body: |
+    1949 entstanden auf dem Gebiet der drei westlichen Besatzungszonen die Bundesrepublik Deutschland und auf dem Gebiet der sowjetischen Besatzungszone die Deutsche Demokratische Republik. Beide Staaten entwickelten sich in entgegengesetzten politischen und wirtschaftlichen Systemen, blieben aber durch Familien, Geschichte und die offene „deutsche Frage“ aufeinander bezogen. Siehe [[deutsche-wiedervereinigung]].
+  planned:
+    - Die Gründung der Bundesrepublik und das Grundgesetz
+    - Die Gründung der DDR
+    - Der Volksaufstand vom 17. Juni 1953
+    - Der Bau der Berliner Mauer 1961
+    - Die Neue Ostpolitik
+    - Die Staatssicherheit (Stasi)
+
+- id: europaeische-integration
+  title: Europäische Integration
+  parent: nachkriegszeit
+  order: 4
+  start: "1950-05-09"
+  end: "2026"
+  regions: [europa]
+  summary: Von der Montanunion über die Europäischen Gemeinschaften zur Europäischen Union.
+  body: |
+    Am 9. Mai 1950 schlug der französische Außenminister Robert Schuman vor, die Kohle- und Stahlproduktion Frankreichs und Deutschlands einer gemeinsamen Behörde zu unterstellen. Daraus ging 1951 die Europäische Gemeinschaft für Kohle und Stahl hervor, 1957 folgten mit den Römischen Verträgen die Europäische Wirtschaftsgemeinschaft und Euratom. Der Vertrag von Maastricht (1992) begründete die Europäische Union.
+  planned:
+    - Die Römischen Verträge 1957
+    - Der Vertrag von Maastricht
+    - Die Osterweiterung 2004
+
+- id: gegenwart
+  title: Zeitgeschichte seit 1990
+  order: 10
+  start: "1989"
+  end: "2026"
+  regions: [welt]
+  summary: Das Ende des Kalten Krieges, Globalisierung, Digitalisierung, die Anschläge vom 11. September 2001, Finanzkrisen, Klimawandel und neue geopolitische Konflikte.
+  body: |
+    Für die jüngste Vergangenheit sind viele Archive noch gesperrt, und die Deutung der Ereignisse ist im Fluss. CHRONOS kennzeichnet bei zeitgeschichtlichen Themen besonders deutlich, was gesichert ist und was als vorläufige Einschätzung gelten muss.
+  planned:
+    - Der Zerfall der Sowjetunion
+    - Der Völkermord in Ruanda 1994
+    - Die Jugoslawienkriege
+    - Die Anschläge vom 11. September 2001
+    - Die globale Finanzkrise 2007/08
+    - Die COVID-19-Pandemie
+    - Der russische Angriffskrieg gegen die Ukraine

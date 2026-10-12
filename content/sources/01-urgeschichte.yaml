@@ -1,0 +1,174 @@
+- id: hublin-2017
+  kind: sekundaer
+  authors: ["Hublin, Jean-Jacques", "u. a."]
+  title: New fossils from Jebel Irhoud, Morocco and the pan-African origin of Homo sapiens
+  container: Nature
+  volume: "546"
+  year: 2017
+  pages: 289–292
+- id: richter-2017
+  kind: sekundaer
+  authors: ["Richter, Daniel", "u. a."]
+  title: The age of the hominin fossils from Jebel Irhoud, Morocco, and the origins of the Middle Stone Age
+  container: Nature
+  volume: "546"
+  year: 2017
+  pages: 293–296
+- id: green-2010
+  kind: sekundaer
+  authors: ["Green, Richard E.", "u. a."]
+  title: A Draft Sequence of the Neandertal Genome
+  container: Science
+  volume: "328"
+  year: 2010
+  pages: 710–722
+- id: krause-2010
+  kind: sekundaer
+  authors: ["Krause, Johannes", "u. a."]
+  title: The complete mitochondrial DNA genome of an unknown hominin from southern Siberia
+  container: Nature
+  volume: "464"
+  year: 2010
+  pages: 894–897
+- id: reich-2010
+  kind: sekundaer
+  authors: ["Reich, David", "u. a."]
+  title: Genetic history of an archaic hominin group from Denisova Cave in Siberia
+  container: Nature
+  volume: "468"
+  year: 2010
+  pages: 1053–1060
+- id: reich-2018
+  kind: sekundaer
+  authors: ["Reich, David"]
+  title: Who We Are and How We Got Here
+  subtitle: Ancient DNA and the New Science of the Human Past
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2018
+- id: stringer-2011
+  kind: sekundaer
+  authors: ["Stringer, Chris"]
+  title: The Origin of Our Species
+  place: London
+  publisher: Allen Lane
+  year: 2011
+- id: krause-trappe-2019
+  kind: sekundaer
+  authors: ["Krause, Johannes", "Trappe, Thomas"]
+  title: Die Reise unserer Gene
+  subtitle: Eine Geschichte über uns und unsere Vorfahren
+  place: Berlin
+  publisher: Propyläen
+  year: 2019
+- id: clarkson-2017
+  kind: sekundaer
+  authors: ["Clarkson, Chris", "u. a."]
+  title: Human occupation of northern Australia by 65,000 years ago
+  container: Nature
+  volume: "547"
+  year: 2017
+  pages: 306–310
+- id: harvati-2019
+  kind: sekundaer
+  authors: ["Harvati, Katerina", "u. a."]
+  title: Apidima Cave fossils provide earliest evidence of Homo sapiens in Eurasia
+  container: Nature
+  volume: "571"
+  year: 2019
+  pages: 500–504
+- id: bennett-2021
+  kind: sekundaer
+  authors: ["Bennett, Matthew R.", "u. a."]
+  title: Evidence of humans in North America during the Last Glacial Maximum
+  container: Science
+  volume: "373"
+  year: 2021
+  pages: 1528–1531
+- id: dillehay-2008
+  kind: sekundaer
+  authors: ["Dillehay, Tom D.", "u. a."]
+  title: "Monte Verde: Seaweed, Food, Medicine, and the Peopling of South America"
+  container: Science
+  volume: "320"
+  year: 2008
+  pages: 784–786
+- id: childe-1936
+  kind: sekundaer
+  authors: ["Childe, V. Gordon"]
+  title: Man Makes Himself
+  place: London
+  publisher: Watts
+  year: 1936
+- id: bar-yosef-1998
+  kind: sekundaer
+  authors: ["Bar-Yosef, Ofer"]
+  title: The Natufian Culture in the Levant, Threshold to the Origins of Agriculture
+  container: Evolutionary Anthropology
+  volume: "6"
+  year: 1998
+  pages: 159–177
+- id: zeder-2011
+  kind: sekundaer
+  authors: ["Zeder, Melinda A."]
+  title: The Origins of Agriculture in the Near East
+  container: Current Anthropology
+  volume: 52, Supplement 4
+  year: 2011
+  pages: S221–S235
+- id: bellwood-2005
+  kind: sekundaer
+  authors: ["Bellwood, Peter"]
+  title: First Farmers
+  subtitle: The Origins of Agricultural Societies
+  place: Malden, MA
+  publisher: Blackwell
+  year: 2005
+- id: schmidt-2006
+  kind: sekundaer
+  authors: ["Schmidt, Klaus"]
+  title: Sie bauten die ersten Tempel
+  subtitle: Das rätselhafte Heiligtum der Steinzeitjäger. Die archäologische Entdeckung am Göbekli Tepe
+  place: München
+  publisher: C.H. Beck
+  year: 2006
+- id: scott-2017
+  kind: sekundaer
+  authors: ["Scott, James C."]
+  title: Against the Grain
+  subtitle: A Deep History of the Earliest States
+  place: New Haven
+  publisher: Yale University Press
+  year: 2017
+- id: hodder-2006
+  kind: sekundaer
+  authors: ["Hodder, Ian"]
+  title: The Leopard's Tale
+  subtitle: Revealing the Mysteries of Çatalhöyük
+  place: London
+  publisher: Thames & Hudson
+  year: 2006
+- id: weiss-2006
+  kind: sekundaer
+  authors: ["Weiss, Ehud", "Kislev, Mordechai E.", "Hartmann, Anat"]
+  title: Autonomous Cultivation Before Domestication
+  container: Science
+  volume: "312"
+  year: 2006
+  pages: 1608–1610
+- id: larson-2014
+  kind: sekundaer
+  authors: ["Larson, Greger", "u. a."]
+  title: Current perspectives and the future of domestication studies
+  container: Proceedings of the National Academy of Sciences
+  volume: "111"
+  year: 2014
+  pages: 6139–6146
+- id: lazaridis-2016
+  kind: sekundaer
+  authors: ["Lazaridis, Iosif", "u. a."]
+  title: Genomic insights into the origin of farming in the ancient Near East
+  container: Nature
+  volume: "536"
+  year: 2016
+  pages: 419–424

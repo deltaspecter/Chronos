@@ -1,0 +1,80 @@
+- id: senat
+  name: Senat
+  aliases: [Senatus]
+  definition: In der Römischen Republik der Rat der ehemaligen Magistrate (meist um 300, nach Sulla etwa 600 Mitglieder). Er beriet formal nur, lenkte aber faktisch Außenpolitik, Finanzen und Provinzverwaltung.
+  themes: [verfassung-recht]
+- id: konsul
+  name: Konsul
+  aliases: [Consul, Konsulat]
+  definition: Höchstes jährlich gewähltes Amt der Römischen Republik, stets mit zwei Inhabern besetzt; die Konsuln führten die Heere, beriefen Senat und Volksversammlungen und gaben dem Jahr ihren Namen.
+  themes: [verfassung-recht]
+- id: volkstribun
+  name: Volkstribun
+  aliases: [Tribunus plebis, Tribunat]
+  definition: Zehn jährlich von der Plebs gewählte Amtsträger, die als unverletzlich galten und mit ihrem Einspruch (intercessio) Handlungen anderer Magistrate blockieren konnten.
+  themes: [verfassung-recht]
+- id: nobilitaet
+  name: Nobilität
+  aliases: [Nobilitas, Nobiles]
+  definition: Die Führungsschicht der Römischen Republik seit dem 4. Jh. v. Chr., bestehend aus patrizischen und plebejischen Familien, die bereits Konsuln gestellt hatten.
+  themes: [gesellschaft, politik]
+- id: klientel
+  name: Klientel
+  aliases: [Patronat, Clientela, Klient, Patron]
+  definition: In Rom ein dauerhaftes Verhältnis gegenseitiger Verpflichtung zwischen einem mächtigen Patron und abhängigen Klienten – Schutz und Hilfe gegen Loyalität und Unterstützung.
+  themes: [gesellschaft]
+- id: cursus-honorum
+  name: Cursus honorum
+  aliases: [Ämterlaufbahn]
+  definition: Die festgelegte Reihenfolge der römischen Ämter (Quästur, Ädilität, Prätur, Konsulat) mit Mindestaltern und Pausen, gesetzlich seit 180 v. Chr. geregelt.
+  themes: [verfassung-recht]
+- id: imperium
+  name: Imperium
+  aliases: [Befehlsgewalt]
+  definition: Die Befehls- und Zwangsgewalt höherer römischer Magistrate (Konsuln, Prätoren, Diktatoren) und Statthalter, insbesondere über Truppen. Später auch Bezeichnung für den römischen Herrschaftsbereich.
+  themes: [verfassung-recht, imperien]
+- id: patrizier-plebejer
+  name: Patrizier und Plebejer
+  aliases: [Patrizier, Plebejer, Plebs, Ständekämpfe]
+  definition: Die beiden Stände der frühen römischen Bürgerschaft. Die Patrizier – eine kleine Gruppe alter Familien – beanspruchten anfangs Ämter und Priesterschaften für sich; die Plebejer erkämpften bis 287 v. Chr. die politische Gleichberechtigung.
+  themes: [gesellschaft, politik]
+- id: mischverfassung
+  name: Mischverfassung
+  aliases: [Gemischte Verfassung, Politeia mikte]
+  definition: Staatstheoretisches Modell, nach dem eine Verbindung monarchischer, aristokratischer und demokratischer Elemente die stabilste Ordnung bildet; von Polybios auf Rom angewandt und für die Verfassungsdebatten der Neuzeit einflussreich.
+  themes: [verfassung-recht]
+- id: provinz
+  name: Provinz
+  aliases: [Provincia]
+  definition: Ursprünglich der Aufgabenbereich eines römischen Magistrats, seit dem 3. Jh. v. Chr. ein dauerhaft von einem Statthalter verwaltetes, abgabepflichtiges Gebiet außerhalb Italiens. Sizilien wurde 241 v. Chr. die erste Provinz.
+  themes: [imperien]
+- id: optimaten-popularen
+  name: Optimaten und Popularen
+  aliases: [Optimaten, Popularen, Optimates, Populares]
+  definition: Bezeichnungen der späten Römischen Republik für zwei politische Methoden – Berufung auf die Autorität des Senats bzw. Durchsetzung von Anliegen über die Volksversammlung. Es handelte sich nicht um Parteien.
+  themes: [politik]
+- id: senatus-consultum-ultimum
+  name: Senatus consultum ultimum
+  aliases: [Notstandsbeschluss, SCU]
+  definition: „Äußerster Senatsbeschluss“, mit dem der Senat seit 121 v. Chr. die Magistrate aufforderte, dafür zu sorgen, dass der Staat keinen Schaden nehme – faktisch eine Ermächtigung zur Gewaltanwendung gegen Bürger.
+  themes: [verfassung-recht]
+- id: proskription
+  name: Proskription
+  aliases: [Proscriptio, Ächtung]
+  definition: Öffentliche Ächtung politischer Gegner durch ausgehängte Listen, deren Erfassten getötet werden durften und deren Vermögen eingezogen wurde; unter Sulla (82 v. Chr.) und dem Zweiten Triumvirat (43 v. Chr.).
+  themes: [politik, gewalt-genozid]
+- id: diktator
+  name: Diktator (Rom)
+  aliases: [Dictator, Diktatur]
+  definition: In der Römischen Republik ein außerordentlicher Oberbeamter, der in Notlagen für höchstens sechs Monate ernannt wurde. Sulla und Caesar übernahmen das Amt ohne zeitliche Begrenzung.
+  themes: [verfassung-recht]
+- id: prinzipat
+  name: Prinzipat
+  aliases: [Principatus, Princeps]
+  definition: Die von Augustus begründete Herrschaftsform der frühen und hohen römischen Kaiserzeit, in der der Herrscher als „erster Bürger“ (princeps) auftrat und seine Macht auf aus republikanischen Ämtern abgeleitete Befugnisse stützte.
+  themes: [verfassung-recht, politik]
+- id: tribunicia-potestas
+  name: Tribunicia potestas
+  aliases: [Tribunizische Gewalt]
+  definition: Die Rechte eines Volkstribunen (Unverletzlichkeit, Veto, Gesetzesinitiative), die Augustus seit 23 v. Chr. auf Lebenszeit besaß, ohne das Amt selbst zu bekleiden; Grundlage der Kaisermacht.
+  themes: [verfassung-recht]

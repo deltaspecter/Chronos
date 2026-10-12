@@ -1,0 +1,155 @@
+- id: rom
+  name: Rom
+  aliases: [Roma, Urbs]
+  coords: [12.4853, 41.8925]
+  categories: [stadt, hauptstadt, kulturzentrum]
+  start: "~-800"
+  summary: Stadt am Tiber, Zentrum der Römischen Republik und des Römischen Reiches. Die Koordinate bezeichnet das Forum Romanum.
+  regions: [italien]
+  themes: [politik]
+- id: karthago
+  name: Karthago
+  aliases: [Carthago, Qart-hadascht, Carthage]
+  coords: [10.3233, 36.8528]
+  categories: [stadt, hauptstadt, hafen]
+  start: "~-814"
+  modernName: Kartāǧ bei Tunis (Tunesien)
+  summary: Phönizische Gründung und Hauptstadt einer See- und Handelsmacht im westlichen Mittelmeer; 146 v. Chr. von Rom zerstört, später als römische Kolonie neu gegründet.
+  regions: [nordafrika]
+  themes: [wirtschaft-handel]
+- id: korinth
+  name: Korinth
+  aliases: [Korinthos, Corinth]
+  coords: [22.8806, 37.9058]
+  categories: [stadt, hafen]
+  summary: Bedeutende griechische Handelsstadt am Isthmus; 146 v. Chr. von Rom zerstört, unter Caesar als Kolonie neu gegründet.
+  regions: [griechenland]
+- id: sagunt
+  name: Sagunt
+  aliases: [Saguntum, Sagunto]
+  coords: [-0.2667, 39.6797]
+  categories: [stadt]
+  modernName: Sagunto (Spanien)
+  summary: Iberische Stadt, deren Eroberung durch Hannibal 219 v. Chr. zum Auslöser des Zweiten Punischen Krieges wurde.
+  regions: [iberische-halbinsel]
+- id: neukarthago
+  name: Neukarthago
+  aliases: [Carthago Nova, Cartagena, Qart Hadascht]
+  coords: [-0.9861, 37.6000]
+  categories: [stadt, hafen]
+  modernName: Cartagena (Spanien)
+  summary: Um 227 v. Chr. von Hasdrubal gegründetes Zentrum der karthagischen Herrschaft in Spanien; 209 v. Chr. von Scipio erobert.
+  regions: [iberische-halbinsel]
+- id: cannae
+  name: Cannae
+  aliases: [Canne, Cannä]
+  coords: [16.1325, 41.3064]
+  categories: [schlachtfeld]
+  location: ungefaehr
+  summary: Ort in Apulien, bei dem Hannibal 216 v. Chr. ein römisches Heer vernichtete. Die genaue Lage des Schlachtfeldes am Fluss Aufidus ist umstritten.
+  regions: [italien]
+  themes: [krieg-militaer]
+- id: trasimenischer-see
+  name: Trasimenischer See
+  aliases: [Lacus Trasimenus, Lago Trasimeno]
+  coords: [12.0800, 43.1900]
+  categories: [schlachtfeld]
+  location: ungefaehr
+  summary: See in Umbrien, an dessen Nordufer Hannibal 217 v. Chr. ein römisches Heer in einen Hinterhalt lockte.
+  regions: [italien]
+  themes: [krieg-militaer]
+- id: zama
+  name: Zama
+  aliases: [Zama Regia]
+  coords: [9.4500, 36.0700]
+  location: umstritten
+  categories: [schlachtfeld]
+  summary: Ort im heutigen Tunesien, nach dem die Entscheidungsschlacht des Zweiten Punischen Krieges (202 v. Chr.) benannt ist. Die genaue Lage des Schlachtfeldes ist unbekannt.
+  regions: [nordafrika]
+  themes: [krieg-militaer]
+- id: syrakus
+  name: Syrakus
+  aliases: [Syrakusai, Siracusa, Syracuse]
+  coords: [15.2875, 37.0755]
+  categories: [stadt, hafen]
+  summary: Mächtigste griechische Stadt Siziliens; im Zweiten Punischen Krieg 212/211 v. Chr. von Rom erobert.
+  regions: [italien]
+- id: aegatische-inseln
+  name: Ägatische Inseln
+  aliases: [Aegates, Isole Egadi]
+  coords: [12.2000, 37.9500]
+  categories: [schlachtfeld]
+  location: ungefaehr
+  summary: Inselgruppe vor der Westspitze Siziliens; Ort der Seeschlacht von 241 v. Chr., die den Ersten Punischen Krieg entschied. Unterwasserarchäologen haben dort seit 2005 zahlreiche bronzene Rammsporne geborgen.
+  regions: [italien]
+  themes: [krieg-militaer, archaeologie]
+- id: alesia
+  name: Alesia
+  aliases: [Alise-Sainte-Reine]
+  coords: [4.5000, 47.5370]
+  categories: [schlachtfeld, stadt]
+  modernName: Alise-Sainte-Reine (Burgund, Frankreich)
+  summary: Gallisches Oppidum, in dem Caesar 52 v. Chr. Vercingetorix belagerte und zur Kapitulation zwang.
+  regions: [frankreich]
+  themes: [krieg-militaer, archaeologie]
+- id: rubikon
+  name: Rubikon
+  aliases: [Rubico, Rubicone]
+  coords: [12.4000, 44.1000]
+  location: umstritten
+  categories: [region]
+  summary: Kleiner Fluss an der Adria, Grenze zwischen Italien und der Provinz Gallia Cisalpina. Welcher heutige Fluss dem antiken Rubikon entspricht, ist umstritten.
+  regions: [italien]
+- id: pharsalos
+  name: Pharsalos
+  aliases: [Pharsalus, Farsala]
+  coords: [22.3800, 39.3000]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  summary: Ort in Thessalien, bei dem Caesar 48 v. Chr. Pompeius besiegte.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+- id: philippi
+  name: Philippi
+  aliases: [Philippoi]
+  coords: [24.2860, 41.0130]
+  categories: [schlachtfeld, stadt]
+  summary: Stadt in Makedonien, bei der 42 v. Chr. Antonius und Octavian die Caesarmörder Brutus und Cassius besiegten.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+- id: actium
+  name: Actium
+  aliases: [Aktion]
+  coords: [20.7700, 38.9500]
+  categories: [schlachtfeld]
+  location: ungefaehr
+  summary: Vorgebirge am Golf von Ambrakia (Westgriechenland); hier siegte 31 v. Chr. die Flotte Octavians über Antonius und Kleopatra.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+- id: alexandria
+  name: Alexandria
+  aliases: [Alexandreia, Alexandrien]
+  coords: [29.9187, 31.2001]
+  categories: [stadt, hauptstadt, hafen, kulturzentrum]
+  start: "-331"
+  summary: Von Alexander dem Großen gegründete Hauptstadt des Ptolemäerreiches; mit Bibliothek und Museion eines der größten Wissenszentren der Antike.
+  regions: [aegypten]
+  themes: [wissenschaft-technik, wirtschaft-handel]
+- id: ankyra
+  name: Ankyra
+  aliases: [Ancyra, Ankara]
+  coords: [32.8618, 39.9445]
+  categories: [stadt]
+  modernName: Ankara (Türkei)
+  summary: Hauptort der römischen Provinz Galatia; am Tempel für Roma und Augustus ist der Tatenbericht des Augustus („Monumentum Ancyranum“) zweisprachig erhalten.
+  regions: [anatolien]
+  themes: [geschichtsschreibung]
+- id: kalkriese
+  name: Kalkriese
+  aliases: [Varusschlacht-Fundplatz]
+  coords: [8.1300, 52.4100]
+  location: umstritten
+  categories: [schlachtfeld, fundstaette]
+  summary: Fundplatz bei Bramsche im Osnabrücker Land mit zahlreichen römischen Militärfunden; wird von vielen Forschenden mit der Varusschlacht 9 n. Chr. verbunden, die Zuordnung ist aber nicht unumstritten.
+  regions: [deutschland]
+  themes: [archaeologie, krieg-militaer]

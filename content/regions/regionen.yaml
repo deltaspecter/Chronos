@@ -1,0 +1,160 @@
+# Geografische Regionen. Bewusst neutral benannt (keine eurozentrischen Sammelbegriffe wie „Orient“).
+# parent bildet eine Hierarchie für Filter: Ein Filter auf „afrika“ umfasst auch „nordostafrika“.
+- id: welt
+  name: Weltweit
+- id: afrika
+  name: Afrika
+  parent: welt
+- id: nordafrika
+  name: Nordafrika und Maghreb
+  parent: afrika
+- id: nordostafrika
+  name: Nordostafrika (Niltal, Horn von Afrika)
+  parent: afrika
+  aliases: [Niltal]
+- id: aegypten
+  name: Ägypten
+  parent: nordostafrika
+- id: nubien
+  name: Nubien (mittleres Niltal)
+  parent: nordostafrika
+  aliases: [Sudan, Kusch]
+- id: westafrika
+  name: Westafrika und Sahelzone
+  parent: afrika
+  aliases: [Sahel, Westsudan]
+- id: ostafrika
+  name: Ostafrika und Swahili-Küste
+  parent: afrika
+- id: zentralafrika
+  name: Zentralafrika
+  parent: afrika
+- id: suedliches-afrika
+  name: Südliches Afrika
+  parent: afrika
+- id: westasien
+  name: Westasien (Vorderer Orient)
+  parent: welt
+  aliases: [Naher Osten, Vorderasien, Nahost]
+- id: mesopotamien
+  name: Mesopotamien
+  parent: westasien
+  aliases: [Zweistromland, Irak]
+- id: levante
+  name: Levante
+  parent: westasien
+  aliases: [Syrien-Palästina]
+- id: anatolien
+  name: Anatolien
+  parent: westasien
+  aliases: [Kleinasien]
+- id: iran
+  name: Iran
+  parent: westasien
+  aliases: [Persien]
+- id: arabische-halbinsel
+  name: Arabische Halbinsel
+  parent: westasien
+- id: europa
+  name: Europa
+  parent: welt
+- id: mittelmeer
+  name: Mittelmeerraum
+  parent: welt
+- id: suedosteuropa
+  name: Südosteuropa und Ägäis
+  parent: europa
+  aliases: [Balkan]
+- id: griechenland
+  name: Griechenland
+  parent: suedosteuropa
+  aliases: [Hellas]
+- id: italien
+  name: Italien
+  parent: europa
+- id: westeuropa
+  name: Westeuropa
+  parent: europa
+- id: frankreich
+  name: Frankreich
+  parent: westeuropa
+  aliases: [Gallien]
+- id: iberische-halbinsel
+  name: Iberische Halbinsel
+  parent: westeuropa
+  aliases: [Hispanien, Spanien, Portugal]
+- id: britische-inseln
+  name: Britische Inseln
+  parent: westeuropa
+  aliases: [Britannien, England]
+- id: mitteleuropa
+  name: Mitteleuropa
+  parent: europa
+- id: deutschland
+  name: Deutschland
+  parent: mitteleuropa
+  aliases: [Germanien]
+- id: osteuropa
+  name: Osteuropa
+  parent: europa
+- id: russland
+  name: Russland
+  parent: osteuropa
+- id: nordeuropa
+  name: Nordeuropa
+  parent: europa
+  aliases: [Skandinavien]
+- id: zentralasien
+  name: Zentralasien und Steppenraum
+  parent: welt
+  aliases: [Innerasien, Eurasische Steppe]
+- id: suedasien
+  name: Südasien
+  parent: welt
+  aliases: [Indischer Subkontinent, Indien]
+- id: ostasien
+  name: Ostasien
+  parent: welt
+- id: china
+  name: China
+  parent: ostasien
+- id: japan
+  name: Japan
+  parent: ostasien
+- id: korea
+  name: Korea
+  parent: ostasien
+- id: suedostasien
+  name: Südostasien
+  parent: welt
+- id: amerika
+  name: Amerikas
+  parent: welt
+  aliases: [Amerika]
+- id: nordamerika
+  name: Nordamerika
+  parent: amerika
+- id: mesoamerika
+  name: Mesoamerika
+  parent: amerika
+  aliases: [Mittelamerika, Mexiko]
+- id: andenraum
+  name: Andenraum
+  parent: amerika
+  aliases: [Anden, Peru]
+- id: suedamerika
+  name: Südamerika
+  parent: amerika
+- id: karibik
+  name: Karibik
+  parent: amerika
+- id: ozeanien
+  name: Ozeanien
+  parent: welt
+  aliases: [Pazifik, Australien]
+- id: atlantik
+  name: Atlantischer Raum
+  parent: welt
+- id: indischer-ozean
+  name: Indischer Ozean
+  parent: welt

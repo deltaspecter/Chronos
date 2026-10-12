@@ -1,0 +1,7 @@
+node_modules
+dist
+public/data
+.vite
+*.tsbuildinfo
+test-results
+src/generated

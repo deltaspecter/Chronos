@@ -1,0 +1,192 @@
+- id: van-de-mieroop-2016
+  kind: sekundaer
+  authors: ["Van De Mieroop, Marc"]
+  title: A History of the Ancient Near East, ca. 3000–323 BC
+  edition: 3. Aufl.
+  place: Chichester
+  publisher: Wiley-Blackwell
+  year: 2016
+- id: nissen-2012
+  kind: sekundaer
+  authors: ["Nissen, Hans J."]
+  title: Geschichte Alt-Vorderasiens
+  edition: 2. Aufl.
+  series: Oldenbourg Grundriss der Geschichte 25
+  place: München
+  publisher: Oldenbourg
+  year: 2012
+- id: algaze-2008
+  kind: sekundaer
+  authors: ["Algaze, Guillermo"]
+  title: Ancient Mesopotamia at the Dawn of Civilization
+  subtitle: The Evolution of an Urban Landscape
+  place: Chicago
+  publisher: University of Chicago Press
+  year: 2008
+- id: schmandt-besserat-1992
+  kind: sekundaer
+  authors: ["Schmandt-Besserat, Denise"]
+  title: Before Writing
+  subtitle: "Bd. 1: From Counting to Cuneiform"
+  place: Austin
+  publisher: University of Texas Press
+  year: 1992
+- id: nissen-damerow-englund-1993
+  kind: sekundaer
+  authors: ["Nissen, Hans J.", "Damerow, Peter", "Englund, Robert K."]
+  title: Archaic Bookkeeping
+  subtitle: Early Writing and Techniques of Economic Administration in the Ancient Near East
+  place: Chicago
+  publisher: University of Chicago Press
+  year: 1993
+- id: selz-2005
+  kind: sekundaer
+  authors: ["Selz, Gebhard J."]
+  title: Sumerer und Akkader
+  subtitle: Geschichte, Gesellschaft, Kultur
+  series: Beck'sche Reihe Wissen
+  place: München
+  publisher: C.H. Beck
+  year: 2005
+- id: q-sumerische-koenigsliste
+  kind: primaer
+  title: Sumerische Königsliste
+  written: überliefert in Abschriften vor allem des frühen 2. Jahrtausends v. Chr.
+  note: Liste von Königen und Städten von der „Herabkunft des Königtums vom Himmel“ bis zur Isin-Dynastie; für die Frühzeit legendär, mit teils Zehntausende Jahre langen Regierungen. Text in Übersetzung im ETCSL (Nr. 2.1.1).
+- id: q-gilgamesch
+  kind: primaer
+  title: Gilgamesch-Epos
+  written: sumerische Einzeldichtungen ab ca. 2100 v. Chr.; „Standardfassung“ (Zwölftafelepos) des 1. Jahrtausends v. Chr.
+  note: Dichtung um den legendären König von Uruk; Hinweis auf die Stadtmauer Uruks.
+- id: q-codex-hammurapi
+  kind: primaer
+  title: Codex Hammurapi
+  written: um 1750 v. Chr.
+  note: Rechtssammlung des babylonischen Königs Hammurapi, überliefert v. a. auf einer Dioritstele (heute Louvre, Paris).
+- id: shaw-2000
+  kind: sekundaer
+  editors: ["Shaw, Ian"]
+  title: The Oxford History of Ancient Egypt
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2000
+- id: hornung-krauss-warburton-2006
+  kind: sekundaer
+  editors: ["Hornung, Erik", "Krauss, Rolf", "Warburton, David A."]
+  title: Ancient Egyptian Chronology
+  series: Handbook of Oriental Studies
+  place: Leiden
+  publisher: Brill
+  year: 2006
+- id: bronk-ramsey-2010
+  kind: sekundaer
+  authors: ["Bronk Ramsey, Christopher", "u. a."]
+  title: Radiocarbon-Based Chronology for Dynastic Egypt
+  container: Science
+  volume: "328"
+  year: 2010
+  pages: 1554–1557
+- id: assmann-1996
+  kind: sekundaer
+  authors: ["Assmann, Jan"]
+  title: Ägypten
+  subtitle: Eine Sinngeschichte
+  place: München
+  publisher: Hanser
+  year: 1996
+- id: lehner-1997
+  kind: sekundaer
+  authors: ["Lehner, Mark"]
+  title: The Complete Pyramids
+  place: London
+  publisher: Thames & Hudson
+  year: 1997
+- id: tallet-2017
+  kind: edition
+  authors: ["Tallet, Pierre"]
+  title: Les papyrus de la mer Rouge I
+  subtitle: Le « journal de Merer » (Papyrus Jarf A et B)
+  place: Kairo
+  publisher: Institut français d'archéologie orientale
+  year: 2017
+- id: wilkinson-1999
+  kind: sekundaer
+  authors: ["Wilkinson, Toby A. H."]
+  title: Early Dynastic Egypt
+  place: London
+  publisher: Routledge
+  year: 1999
+- id: schloegl-2006
+  kind: sekundaer
+  authors: ["Schlögl, Hermann A."]
+  title: Das Alte Ägypten
+  subtitle: Geschichte und Kultur von der Frühzeit bis zu Kleopatra
+  place: München
+  publisher: C.H. Beck
+  year: 2006
+- id: q-pyramidentexte
+  kind: primaer
+  title: Pyramidentexte
+  written: ab der späten 5. Dynastie (Unas, um 2350 v. Chr.)
+  note: Älteste religiöse Textsammlung Ägyptens; Sprüche für das Fortleben des Königs, in den Grabkammern der Pyramiden von Sakkara eingemeißelt.
+- id: q-palermostein
+  kind: primaer
+  title: Palermostein (Annalenstein)
+  written: 5. Dynastie (um 2400 v. Chr.)
+  note: Fragment einer Königsannale mit Jahresereignissen und Nilhochwasserständen von der Frühzeit bis in die 5. Dynastie; das größte Fragment befindet sich in Palermo.
+- id: q-manetho
+  kind: primaer
+  authors: ["Manetho"]
+  title: Aigyptiaka
+  written: 3. Jh. v. Chr.
+  note: Ägyptische Geschichte eines Priesters aus Sebennytos in griechischer Sprache; nur in Auszügen späterer Autoren (Iosephus, Iulius Africanus, Eusebios) erhalten. Grundlage der bis heute verwendeten Dynastienzählung.
+- id: q-herodot
+  kind: primaer
+  authors: ["Herodot"]
+  title: Historien
+  written: um 430 v. Chr.
+  note: Buch 2 behandelt Ägypten, die Bücher 1 und 3–9 u. a. das Perserreich und die Perserkriege. Herodot stützt sich auf eigene Reisen und mündliche Berichte; die Glaubwürdigkeit einzelner Angaben ist im Einzelfall zu prüfen.
+- id: torok-1997
+  kind: sekundaer
+  authors: ["Török, László"]
+  title: The Kingdom of Kush
+  subtitle: Handbook of the Napatan-Meroitic Civilization
+  series: Handbuch der Orientalistik
+  place: Leiden
+  publisher: Brill
+  year: 1997
+- id: welsby-1996
+  kind: sekundaer
+  authors: ["Welsby, Derek A."]
+  title: The Kingdom of Kush
+  subtitle: The Napatan and Meroitic Empires
+  place: London
+  publisher: British Museum Press
+  year: 1996
+- id: emberling-williams-2021
+  kind: sekundaer
+  editors: ["Emberling, Geoff", "Williams, Bruce Beyer"]
+  title: The Oxford Handbook of Ancient Nubia
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2021
+- id: bonnet-valbelle-2006
+  kind: sekundaer
+  authors: ["Bonnet, Charles", "Valbelle, Dominique"]
+  title: The Nubian Pharaohs
+  subtitle: Black Kings on the Nile
+  place: Kairo
+  publisher: American University in Cairo Press
+  year: 2006
+- id: rilly-2010
+  kind: sekundaer
+  authors: ["Rilly, Claude"]
+  title: Le méroïtique et sa famille linguistique
+  place: Louvain
+  publisher: Peeters
+  year: 2010
+- id: q-piye-stele
+  kind: primaer
+  title: Siegesstele des Piye
+  written: um 728 v. Chr.
+  note: Granitstele aus dem Amun-Tempel am Gebel Barkal (heute Ägyptisches Museum Kairo); ausführlicher Bericht über den Feldzug des kuschitischen Königs nach Unterägypten.

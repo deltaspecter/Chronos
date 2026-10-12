@@ -1,0 +1,92 @@
+# Institutionen, Datenbanken und digitale Quellensammlungen (kind: institution)
+- id: dai
+  kind: institution
+  title: Deutsches Archäologisches Institut
+  url: https://www.dainst.org/
+  note: Forschungseinrichtung des Auswärtigen Amts; u. a. Ausgrabungen am Göbekli Tepe.
+- id: etcsl
+  kind: institution
+  title: The Electronic Text Corpus of Sumerian Literature (ETCSL)
+  publisher: University of Oxford
+  url: https://etcsl.orinst.ox.ac.uk/
+  note: Sumerische literarische Texte in Umschrift und englischer Übersetzung, darunter die Sumerische Königsliste.
+- id: cdli
+  kind: institution
+  title: Cuneiform Digital Library Initiative (CDLI)
+  url: https://cdli.mpiwg-berlin.mpg.de/
+  note: Fotografien und Umschriften von Keilschrifttafeln aus Sammlungen weltweit.
+- id: perseus
+  kind: institution
+  title: Perseus Digital Library
+  publisher: Tufts University
+  url: https://www.perseus.tufts.edu/
+  note: Griechische und lateinische Texte mit englischen Übersetzungen (u. a. Polybios, Livius, Plutarch, Sueton).
+- id: lacus-curtius
+  kind: institution
+  title: LacusCurtius – Into the Roman World
+  authors: ["Thayer, Bill"]
+  url: https://penelope.uchicago.edu/Thayer/E/Roman/home.html
+  note: Lateinische und griechische Quellentexte zur römischen Geschichte mit englischen Übersetzungen, darunter die Res Gestae Divi Augusti.
+- id: slavevoyages
+  kind: institution
+  title: SlaveVoyages – Trans-Atlantic Slave Trade Database
+  url: https://www.slavevoyages.org/
+  note: Datenbank zu über 36.000 Sklavenschiffsreisen; Grundlage der gängigen Schätzungen zum transatlantischen Sklavenhandel.
+- id: encyclopedia-1914-1918
+  kind: institution
+  title: 1914-1918-online. International Encyclopedia of the First World War
+  publisher: Freie Universität Berlin
+  url: https://encyclopedia.1914-1918-online.net/
+  note: Begutachtete, frei zugängliche Online-Enzyklopädie mit Beiträgen aus über 50 Ländern.
+- id: yad-vashem
+  kind: institution
+  title: Yad Vashem – The World Holocaust Remembrance Center
+  place: Jerusalem
+  url: https://www.yadvashem.org/
+  note: Gedenk- und Forschungsstätte; u. a. Zentrale Datenbank der Namen der Holocaustopfer.
+- id: ushmm
+  kind: institution
+  title: United States Holocaust Memorial Museum – Holocaust Encyclopedia
+  place: Washington, D.C.
+  url: https://encyclopedia.ushmm.org/
+- id: ghwk
+  kind: institution
+  title: Haus der Wannsee-Konferenz – Gedenk- und Bildungsstätte
+  place: Berlin
+  url: https://www.ghwk.de/
+  note: Bietet das Protokoll der Besprechung vom 20. Januar 1942 als Faksimile und Transkription.
+- id: arolsen
+  kind: institution
+  title: Arolsen Archives – International Center on Nazi Persecution
+  place: Bad Arolsen
+  url: https://arolsen-archives.org/
+- id: bpb
+  kind: institution
+  title: Bundeszentrale für politische Bildung
+  place: Bonn
+  url: https://www.bpb.de/
+- id: bundesstiftung-aufarbeitung
+  kind: institution
+  title: Bundesstiftung zur Aufarbeitung der SED-Diktatur
+  place: Berlin
+  url: https://www.bundesstiftung-aufarbeitung.de/
+- id: stasi-unterlagen-archiv
+  kind: institution
+  title: Stasi-Unterlagen-Archiv im Bundesarchiv
+  url: https://www.stasi-unterlagen-archiv.de/
+- id: chronik-der-mauer
+  kind: institution
+  title: Chronik der Mauer
+  publisher: Bundeszentrale für politische Bildung / Deutschlandradio / Zentrum für Zeithistorische Forschung Potsdam
+  url: https://www.chronik-der-mauer.de/
+- id: british-museum
+  kind: institution
+  title: The British Museum – Collection Online
+  place: London
+  url: https://www.britishmuseum.org/collection
+  note: Sammlungsdatenbank, u. a. mit dem Kyros-Zylinder.
+- id: sudan-archaeology-mission-kerma
+  kind: institution
+  title: Mission archéologique suisse-franco-soudanaise de Kerma
+  url: https://www.kerma.ch/
+  note: Seit 1965 laufende Ausgrabungen in Kerma (zunächst unter Charles Bonnet).

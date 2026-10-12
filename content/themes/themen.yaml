@@ -1,0 +1,82 @@
+- id: politik
+  title: Politik und Herrschaft
+  icon: landmark
+  summary: Staaten, Verfassungen, Herrschaftsformen, Verwaltung und politische Ideen.
+  body: |
+    Wie wurde Macht gewonnen, ausgeübt, begrenzt und legitimiert? Die Beiträge dieses Themenbereichs reichen von Stadtstaaten und Königtum über Imperien bis zu Demokratien und Diktaturen der Moderne.
+- id: verfassung-recht
+  title: Verfassung und Recht
+  parent: politik
+  summary: Rechtsordnungen, Gesetzessammlungen, Institutionen und Verfassungen.
+- id: imperien
+  title: Reiche und Imperien
+  parent: politik
+  summary: Großreiche und ihre Techniken der Herrschaft über Räume, Völker und Religionen.
+- id: revolutionen
+  title: Revolutionen und Umbrüche
+  parent: politik
+  summary: Schnelle und tiefgreifende Veränderungen politischer und sozialer Ordnungen.
+- id: krieg-militaer
+  title: Krieg und Militär
+  icon: swords
+  summary: Kriege, Schlachten, Heeresorganisation, Militärtechnik und die Erfahrung von Gewalt.
+  body: |
+    Militärgeschichte untersucht heute nicht nur Feldzüge und Schlachten, sondern auch, wie Kriege Gesellschaften, Wirtschaft und Erinnerung prägten – und wie Soldaten und Zivilisten sie erlebten.
+- id: wirtschaft-handel
+  title: Wirtschaft und Handel
+  icon: coins
+  summary: Landwirtschaft, Handwerk, Handel, Geld, Arbeit und wirtschaftlicher Wandel.
+- id: handelsnetze
+  title: Handelsnetze und Austausch
+  parent: wirtschaft-handel
+  summary: Fernhandel zu Land und zur See, Märkte und der Austausch von Waren, Ideen und Krankheiten.
+- id: landwirtschaft
+  title: Landwirtschaft und Ernährung
+  parent: wirtschaft-handel
+  summary: Domestikation, Agrartechnik, Landbesitz und Hungerkrisen.
+- id: religion
+  title: Religion und Weltanschauungen
+  icon: sparkles
+  summary: Religionen, Kulte, Kirchen, religiöse Bewegungen und Philosophien.
+- id: gesellschaft
+  title: Gesellschaft und Alltag
+  icon: users
+  summary: Familie, soziale Gruppen, Geschlechterverhältnisse, Lebensbedingungen und Alltagserfahrungen.
+- id: sklaverei-unfreiheit
+  title: Sklaverei und Unfreiheit
+  parent: gesellschaft
+  summary: Formen der Sklaverei und erzwungenen Arbeit in verschiedenen Gesellschaften.
+- id: migration
+  title: Migration und Mobilität
+  parent: gesellschaft
+  summary: Wanderungen, Flucht, Vertreibung und Diaspora.
+- id: wissenschaft-technik
+  title: Wissenschaft und Technik
+  icon: compass
+  summary: Erfindungen, Wissenstraditionen, Schrift, Medizin und technischer Wandel.
+- id: schrift-medien
+  title: Schrift, Buch und Medien
+  parent: wissenschaft-technik
+  summary: Die Entstehung von Schriftsystemen, Buchdruck, Presse und Massenmedien.
+- id: kultur-kunst
+  title: Kultur und Kunst
+  icon: palette
+  summary: Architektur, bildende Kunst, Literatur, Musik und Erinnerungskultur.
+- id: umwelt-klima
+  title: Umwelt und Klima
+  icon: leaf
+  summary: Klimawandel in der Vergangenheit, Epidemien, Naturkatastrophen und der Umgang des Menschen mit seiner Umwelt.
+- id: gewalt-genozid
+  title: Massengewalt und Genozid
+  icon: flame
+  summary: Völkermorde, Verfolgung und Massenverbrechen – ihre Voraussetzungen, Täter, Opfer und Aufarbeitung.
+  body: |
+    Die Darstellung von Völkermorden verlangt besondere Sorgfalt: Sie stützt sich auf Täterdokumente, Zeugnisse von Überlebenden und die Ergebnisse von Gerichtsverfahren und Forschung. CHRONOS stellt die Perspektive und die Namen der Opfer, wo möglich, gleichberechtigt neben die Analyse der Täter.
+- id: archaeologie
+  title: Archäologie und Fundstätten
+  icon: shovel
+  summary: Ausgrabungen, Fundorte und naturwissenschaftliche Methoden der Geschichtsforschung.
+- id: geschichtsschreibung
+  title: Geschichtsschreibung und Quellenkunde
+  icon: scroll
+  summary: Wie wir über Vergangenheit wissen – Quellen, Methoden, Kontroversen und Geschichtsbilder.

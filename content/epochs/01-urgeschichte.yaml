@@ -1,0 +1,88 @@
+- id: urgeschichte
+  title: Urgeschichte
+  order: 1
+  start: "~-3300000"
+  end: "~-3000"
+  spanNote: Das Ende der Urgeschichte ist regional verschieden – es wird meist mit dem Einsetzen schriftlicher Überlieferung gleichgesetzt, in Mesopotamien und Ägypten um 3200 v. Chr., in vielen Weltregionen erst Jahrtausende später.
+  regions: [welt]
+  summary: Die mit Abstand längste Phase der Menschheitsgeschichte – von den ältesten Steinwerkzeugen vor über drei Millionen Jahren bis zur Entstehung der Schrift.
+  body: |
+    Die Urgeschichte (auch Ur- und Frühgeschichte oder Prähistorie) umfasst den Zeitraum, für den keine schriftlichen Quellen existieren. Unser Wissen stammt aus der Archäologie, der Paläoanthropologie, der Geologie und zunehmend aus der Analyse alter DNA. Datierungen beruhen auf naturwissenschaftlichen Methoden wie der Radiokarbon-, der Lumineszenz- oder der Argon-Argon-Datierung; sie sind mit Spannweiten verbunden, die in CHRONOS als „um“ oder „ca.“ gekennzeichnet werden.
+
+    Die klassische Gliederung in Stein-, Bronze- und Eisenzeit geht auf das „Dreiperiodensystem“ zurück, das der dänische Altertumsforscher Christian Jürgensen Thomsen im frühen 19. Jahrhundert für skandinavische Funde entwickelte. Für Europa und Westasien ist sie bis heute nützlich, lässt sich aber nicht auf die ganze Welt übertragen: In weiten Teilen Afrikas südlich der Sahara folgte zum Beispiel auf die Steinzeit unmittelbar die Eisenverarbeitung, ohne ausgeprägte Bronzezeit; in den Amerikas entstanden komplexe Gesellschaften und Staaten ohne Eisenwerkzeuge.
+
+    Die Übergänge – zur Sesshaftigkeit, zur Landwirtschaft, zur Metallverarbeitung – vollzogen sich in verschiedenen Regionen unabhängig voneinander und zu sehr unterschiedlichen Zeiten. CHRONOS ordnet sie deshalb regional ein.
+  planned:
+    - Die ältesten Steinwerkzeuge (Lomekwi und Oldowan)
+    - Homo erectus und die erste Ausbreitung aus Afrika
+    - Neandertaler
+    - Höhlenkunst der Altsteinzeit
+    - Die Besiedlung Australiens
+    - Die Besiedlung der Amerikas
+
+- id: evolution-des-menschen
+  title: Evolution des Menschen
+  parent: urgeschichte
+  order: 1
+  start: "~-7000000"
+  end: "~-40000"
+  regions: [welt, afrika]
+  summary: Von den frühesten Homininen in Afrika über die Gattung Homo bis zum anatomisch modernen Menschen und seinen ausgestorbenen Verwandten.
+  body: |
+    Die Linie, die zum heutigen Menschen führt, trennte sich nach genetischen und fossilen Befunden vor etwa sechs bis sieben Millionen Jahren von der Linie der Schimpansen. Fast die gesamte frühe Evolution spielte sich in Afrika ab. Erst Vertreter der Gattung *Homo* breiteten sich vor rund zwei Millionen Jahren nach Eurasien aus.
+
+    Die Forschung ist hier besonders dynamisch: Neue Fossilfunde und vor allem die Analyse alter DNA haben das Bild in den letzten zwei Jahrzehnten stark verändert. Statt einer einfachen Abfolge von Arten zeigt sich ein verzweigter Stammbaum mit mehreren gleichzeitig lebenden Menschenformen, die sich teilweise miteinander vermischten.
+  planned:
+    - Australopithecinen
+    - Homo erectus
+    - Neandertaler und Denisova-Menschen
+
+- id: altsteinzeit
+  title: Altsteinzeit (Paläolithikum)
+  parent: urgeschichte
+  order: 2
+  start: "~-3300000"
+  end: "~-10000"
+  spanNote: Das Ende der Altsteinzeit fällt mit dem Ende der letzten Eiszeit zusammen (um 9700 v. Chr.); in vielen Regionen gehen Lebensweisen der Jäger und Sammler bruchlos weiter.
+  regions: [welt]
+  summary: Die Epoche der Jäger- und Sammlergesellschaften, der Steinwerkzeuge, der Beherrschung des Feuers und der ersten Bild- und Musikkunst.
+  body: |
+    Während der Altsteinzeit lebten alle Menschen als Jäger, Sammler und Fischer. Die Werkzeugtechnik entwickelte sich von einfachen Geröllgeräten zu standardisierten Klingen- und Knochenwerkzeugen. Aus der jüngeren Phase stammen die ältesten bekannten figürlichen Kunstwerke und Musikinstrumente, etwa aus den Höhlen der Schwäbischen Alb.
+  planned:
+    - Lebensweise der Jäger und Sammler
+    - Eiszeitkunst der Schwäbischen Alb
+    - Die Höhle von Lascaux
+
+- id: neolithisierung
+  title: Sesshaftigkeit und Landwirtschaft (Neolithisierung)
+  parent: urgeschichte
+  order: 3
+  start: "~-10000"
+  end: "~-2000"
+  spanNote: Landwirtschaft entstand unabhängig in mehreren Zentren und zu verschiedenen Zeiten – im Vorderen Orient ab ca. 9500 v. Chr., in China ab ca. 7000 v. Chr., in Mesoamerika, Neuguinea, den Anden und im östlichen Nordamerika in jeweils eigenen Zeitfenstern.
+  regions: [welt]
+  summary: Der Übergang von der aneignenden zur produzierenden Wirtschaftsweise – eine der folgenreichsten Veränderungen der Menschheitsgeschichte.
+  body: |
+    Der Begriff „Neolithische Revolution“ stammt von dem Archäologen V. Gordon Childe. Heute betont die Forschung, dass es sich nicht um einen plötzlichen Umbruch, sondern um einen über Jahrtausende verlaufenden Prozess handelte, der in mehreren Weltregionen unabhängig voneinander begann. Ausführlich behandelt der Artikel [[neolithisierung-vorderer-orient]] das am besten erforschte Zentrum.
+  planned:
+    - Landwirtschaft in China (Reis und Hirse)
+    - Domestikation in Mesoamerika (Mais)
+    - Çatalhöyük
+    - Die Ausbreitung der Landwirtschaft nach Europa
+
+- id: metallzeiten
+  title: Metallzeiten
+  parent: urgeschichte
+  order: 4
+  start: "~-5000"
+  end: "~-1"
+  spanNote: Kupfer-, Bronze- und Eisenzeit sind regional sehr unterschiedlich datiert; in Mitteleuropa beginnt die Eisenzeit um 800 v. Chr., in Anatolien deutlich früher.
+  regions: [europa, westasien, afrika]
+  summary: Kupfer-, Bronze- und Eisenzeit – neue Werkstoffe, weiträumiger Austausch von Rohstoffen und wachsende soziale Unterschiede.
+  body: |
+    Die Verarbeitung von Metallen veränderte Handwerk, Kriegsführung und Handel. Weil Zinn und Kupfer nur an wenigen Orten zusammen vorkommen, setzte die Bronzeherstellung Fernhandelsnetze voraus. In Westafrika ist Eisenverhüttung spätestens im ersten Jahrtausend v. Chr. belegt; Ursprung und Ausbreitung dieser Technik werden in der Forschung diskutiert.
+  planned:
+    - Die Himmelsscheibe von Nebra
+    - Der Mann aus dem Eis („Ötzi“)
+    - Kelten der Hallstatt- und Latènezeit
+    - Die Nok-Kultur

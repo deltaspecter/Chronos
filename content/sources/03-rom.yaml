@@ -1,0 +1,335 @@
+- id: bringmann-2002
+  kind: sekundaer
+  authors: ["Bringmann, Klaus"]
+  title: Geschichte der römischen Republik
+  subtitle: Von den Anfängen bis Augustus
+  place: München
+  publisher: C.H. Beck
+  year: 2002
+- id: bleicken-verfassung
+  kind: sekundaer
+  authors: ["Bleicken, Jochen"]
+  title: Die Verfassung der Römischen Republik
+  subtitle: Grundlagen und Entwicklung
+  series: UTB
+  place: Paderborn
+  publisher: Schöningh
+  year: 1975
+  note: Standardeinführung, zahlreiche überarbeitete Neuauflagen.
+- id: beard-2015
+  kind: sekundaer
+  authors: ["Beard, Mary"]
+  title: SPQR
+  subtitle: A History of Ancient Rome
+  place: London
+  publisher: Profile Books
+  year: 2015
+- id: lintott-1999
+  kind: sekundaer
+  authors: ["Lintott, Andrew"]
+  title: The Constitution of the Roman Republic
+  place: Oxford
+  publisher: Clarendon Press
+  year: 1999
+- id: flower-2010
+  kind: sekundaer
+  authors: ["Flower, Harriet I."]
+  title: Roman Republics
+  place: Princeton
+  publisher: Princeton University Press
+  year: 2010
+- id: millar-1998
+  kind: sekundaer
+  authors: ["Millar, Fergus"]
+  title: The Crowd in Rome in the Late Republic
+  place: Ann Arbor
+  publisher: University of Michigan Press
+  year: 1998
+- id: hoelkeskamp-2004
+  kind: sekundaer
+  authors: ["Hölkeskamp, Karl-Joachim"]
+  title: Rekonstruktionen einer Republik
+  subtitle: Die politische Kultur des antiken Rom und die Forschung der letzten Jahrzehnte
+  series: Historische Zeitschrift, Beiheft 38
+  place: München
+  publisher: Oldenbourg
+  year: 2004
+- id: meier-1966
+  kind: sekundaer
+  authors: ["Meier, Christian"]
+  title: Res publica amissa
+  subtitle: Eine Studie zu Verfassung und Geschichte der späten römischen Republik
+  place: Wiesbaden
+  publisher: Steiner
+  year: 1966
+- id: gelzer-1912
+  kind: sekundaer
+  authors: ["Gelzer, Matthias"]
+  title: Die Nobilität der römischen Republik
+  place: Leipzig
+  publisher: Teubner
+  year: 1912
+- id: brunt-1971
+  kind: sekundaer
+  authors: ["Brunt, Peter A."]
+  title: Social Conflicts in the Roman Republic
+  place: London
+  publisher: Chatto & Windus
+  year: 1971
+- id: gruen-1974
+  kind: sekundaer
+  authors: ["Gruen, Erich S."]
+  title: The Last Generation of the Roman Republic
+  place: Berkeley
+  publisher: University of California Press
+  year: 1974
+- id: linke-2005
+  kind: sekundaer
+  authors: ["Linke, Bernhard"]
+  title: Die römische Republik von den Gracchen bis Sulla
+  series: Geschichte kompakt
+  place: Darmstadt
+  publisher: Wissenschaftliche Buchgesellschaft
+  year: 2005
+- id: morstein-marx-2021
+  kind: sekundaer
+  authors: ["Morstein-Marx, Robert"]
+  title: Julius Caesar and the Roman People
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2021
+- id: hoyos-2011
+  kind: sekundaer
+  editors: ["Hoyos, Dexter"]
+  title: A Companion to the Punic Wars
+  place: Chichester
+  publisher: Wiley-Blackwell
+  year: 2011
+- id: goldsworthy-2000
+  kind: sekundaer
+  authors: ["Goldsworthy, Adrian"]
+  title: The Punic Wars
+  place: London
+  publisher: Cassell
+  year: 2000
+- id: zimmermann-2005
+  kind: sekundaer
+  authors: ["Zimmermann, Klaus"]
+  title: Rom und Karthago
+  place: Darmstadt
+  publisher: Wissenschaftliche Buchgesellschaft
+  year: 2005
+- id: huss-1985
+  kind: sekundaer
+  authors: ["Huß, Werner"]
+  title: Geschichte der Karthager
+  series: Handbuch der Altertumswissenschaft III.8
+  place: München
+  publisher: C.H. Beck
+  year: 1985
+- id: miles-2010
+  kind: sekundaer
+  authors: ["Miles, Richard"]
+  title: Carthage Must Be Destroyed
+  subtitle: The Rise and Fall of an Ancient Civilization
+  place: London
+  publisher: Allen Lane
+  year: 2010
+- id: seibert-1993
+  kind: sekundaer
+  authors: ["Seibert, Jakob"]
+  title: Hannibal
+  place: Darmstadt
+  publisher: Wissenschaftliche Buchgesellschaft
+  year: 1993
+- id: gelzer-1921
+  kind: sekundaer
+  authors: ["Gelzer, Matthias"]
+  title: Caesar
+  subtitle: Der Politiker und Staatsmann
+  place: Stuttgart / Berlin
+  publisher: Deutsche Verlags-Anstalt
+  year: 1921
+  note: Klassische Caesar-Biografie; spätere Auflagen bei Steiner, Wiesbaden.
+- id: meier-1982
+  kind: sekundaer
+  authors: ["Meier, Christian"]
+  title: Caesar
+  place: Berlin
+  publisher: Severin und Siedler
+  year: 1982
+- id: jehne-1997
+  kind: sekundaer
+  authors: ["Jehne, Martin"]
+  title: Caesar
+  series: Beck'sche Reihe Wissen
+  place: München
+  publisher: C.H. Beck
+  year: 1997
+- id: goldsworthy-2006
+  kind: sekundaer
+  authors: ["Goldsworthy, Adrian"]
+  title: Caesar
+  subtitle: Life of a Colossus
+  place: New Haven
+  publisher: Yale University Press
+  year: 2006
+- id: will-1992
+  kind: sekundaer
+  authors: ["Will, Wolfgang"]
+  title: Julius Caesar
+  subtitle: Eine Bilanz
+  place: Stuttgart
+  publisher: Kohlhammer
+  year: 1992
+- id: syme-1939
+  kind: sekundaer
+  authors: ["Syme, Ronald"]
+  title: The Roman Revolution
+  place: Oxford
+  publisher: Clarendon Press
+  year: 1939
+- id: zanker-1987
+  kind: sekundaer
+  authors: ["Zanker, Paul"]
+  title: Augustus und die Macht der Bilder
+  place: München
+  publisher: C.H. Beck
+  year: 1987
+- id: kienast-1982
+  kind: sekundaer
+  authors: ["Kienast, Dietmar"]
+  title: Augustus
+  subtitle: Prinzeps und Monarch
+  place: Darmstadt
+  publisher: Wissenschaftliche Buchgesellschaft
+  year: 1982
+- id: eck-1998
+  kind: sekundaer
+  authors: ["Eck, Werner"]
+  title: Augustus und seine Zeit
+  series: Beck'sche Reihe Wissen
+  place: München
+  publisher: C.H. Beck
+  year: 1998
+- id: bleicken-1998
+  kind: sekundaer
+  authors: ["Bleicken, Jochen"]
+  title: Augustus
+  subtitle: Eine Biographie
+  place: Berlin
+  publisher: Alexander Fest
+  year: 1998
+- id: galinsky-1996
+  kind: sekundaer
+  authors: ["Galinsky, Karl"]
+  title: Augustan Culture
+  subtitle: An Interpretive Introduction
+  place: Princeton
+  publisher: Princeton University Press
+  year: 1996
+- id: cooley-2009
+  kind: edition
+  authors: ["Cooley, Alison E."]
+  title: Res Gestae Divi Augusti
+  subtitle: Text, Translation, and Commentary
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2009
+- id: q-polybios
+  kind: primaer
+  authors: ["Polybios"]
+  title: Historien
+  written: 2. Jh. v. Chr.
+  note: Griechischer Geschichtsschreiber und Zeitgenosse des Dritten Punischen Krieges; Buch 6 enthält die berühmte Analyse der römischen Verfassung als „Mischverfassung“. Von 40 Büchern sind die Bücher 1–5 vollständig erhalten, die übrigen in Auszügen.
+- id: q-livius
+  kind: primaer
+  authors: ["Livius, Titus"]
+  title: Ab urbe condita
+  written: ca. 27 v. Chr. – 17 n. Chr.
+  note: Römische Geschichte von der Gründung an in 142 Büchern, erhalten sind die Bücher 1–10 und 21–45. Für die Frühzeit stark von späterer Überlieferung und Deutung geprägt.
+- id: q-sallust
+  kind: primaer
+  authors: ["Sallustius Crispus, Gaius"]
+  title: De coniuratione Catilinae / Bellum Iugurthinum
+  written: ca. 42–40 v. Chr.
+  note: Monografien eines Zeitgenossen, der den Verfall der Republik moralisch deutet (Ehrgeiz und Habgier der Nobilität).
+- id: q-plutarch
+  kind: primaer
+  authors: ["Plutarch"]
+  title: Parallelbiographien (Vitae parallelae)
+  written: um 100 n. Chr.
+  note: Biografien griechischer und römischer Staatsmänner, u. a. der Gracchen, des Marius, Sulla, Pompeius, Caesar, Cato und Antonius. Plutarch zielt auf moralische Charakterbilder, nicht auf vollständige Ereignisgeschichte.
+- id: q-appian
+  kind: primaer
+  authors: ["Appian von Alexandria"]
+  title: Römische Geschichte (Bürgerkriege; Libyké)
+  written: 2. Jh. n. Chr.
+  note: Die Bücher über die Bürgerkriege sind die wichtigste zusammenhängende Darstellung der Zeit von den Gracchen bis 35 v. Chr.; die Libyké behandelt die Kriege gegen Karthago.
+- id: q-caesar-bg
+  kind: primaer
+  authors: ["Caesar, Gaius Iulius"]
+  title: Commentarii de bello Gallico / de bello civili
+  written: 58–ca. 45 v. Chr.
+  note: Caesars eigene Berichte über den Gallischen Krieg und den Bürgerkrieg – unverzichtbare, aber parteiische Quellen, die auch der Selbstdarstellung dienten.
+- id: q-sueton
+  kind: primaer
+  authors: ["Suetonius Tranquillus, Gaius"]
+  title: De vita Caesarum (Kaiserviten)
+  written: um 120 n. Chr.
+  note: Biografien Caesars und der Kaiser bis Domitian; Sueton hatte als kaiserlicher Sekretär Zugang zu Archiven, sammelte aber auch Anekdoten und Gerüchte.
+- id: q-cicero-briefe
+  kind: primaer
+  authors: ["Cicero, Marcus Tullius"]
+  title: Briefe (Ad Atticum, Ad familiares u. a.) und Reden
+  written: 68–43 v. Chr.
+  note: Über 900 Briefe von und an Cicero geben einen einzigartigen, zeitgenössischen Einblick in die Politik der späten Republik.
+- id: q-res-gestae
+  kind: primaer
+  authors: ["Augustus"]
+  title: Res Gestae Divi Augusti
+  written: 14 n. Chr. (letzte Fassung)
+  note: Tatenbericht des Augustus, ursprünglich auf Bronzetafeln vor seinem Mausoleum in Rom; erhalten vor allem durch die zweisprachige Inschrift am Tempel der Roma und des Augustus in Ankyra (Ankara), das „Monumentum Ancyranum“.
+- id: q-cassius-dio
+  kind: primaer
+  authors: ["Cassius Dio"]
+  title: Römische Geschichte
+  written: frühes 3. Jh. n. Chr.
+  note: Griechisch verfasste Gesamtgeschichte Roms; für die späte Republik und Augustus (Bücher 36–56) weitgehend erhalten.
+- id: q-tacitus-annalen
+  kind: primaer
+  authors: ["Tacitus, Publius Cornelius"]
+  title: Annalen
+  written: um 110–120 n. Chr.
+  note: Geschichte der julisch-claudischen Kaiser; das erste Buch enthält eine kritische Rückschau auf die Herrschaft des Augustus.
+- id: harris-1979
+  kind: sekundaer
+  authors: ["Harris, William V."]
+  title: War and Imperialism in Republican Rome, 327–70 B.C.
+  place: Oxford
+  publisher: Clarendon Press
+  year: 1979
+- id: ridley-1986
+  kind: sekundaer
+  authors: ["Ridley, Ronald T."]
+  title: "To Be Taken with a Pinch of Salt: The Destruction of Carthage"
+  container: Classical Philology
+  volume: "81"
+  year: 1986
+  pages: 140–146
+- id: schwartz-2010
+  kind: sekundaer
+  authors: ["Schwartz, Jeffrey H.", "Houghton, Frank", "Macchiarelli, Roberto", "Bondioli, Luca"]
+  title: Skeletal Remains from Punic Carthage Do Not Support Systematic Sacrifice of Infants
+  container: PLoS ONE
+  volume: "5 (2)"
+  year: 2010
+  pages: e9177
+- id: xella-2013
+  kind: sekundaer
+  authors: ["Xella, Paolo", "Quinn, Josephine", "Melchiorri, Valentina", "van Dommelen, Peter"]
+  title: Phoenician bones of contention
+  container: Antiquity
+  volume: "87"
+  year: 2013
+  pages: 1199–1207

@@ -1,0 +1,129 @@
+- id: fruehe-neuzeit
+  title: Frühe Neuzeit und globale Verflechtung
+  order: 6
+  start: "~1450"
+  end: "~1800"
+  regions: [welt]
+  summary: Buchdruck, Renaissance und Reformation in Europa; die großen Reiche der Osmanen, Safawiden, Moguln und Qing; europäische Expansion, Kolonialismus und der transatlantische Sklavenhandel.
+  body: |
+    Ab dem späten 15. Jahrhundert entstanden erstmals Handelsbeziehungen, die alle bewohnten Kontinente miteinander verbanden. Für Europa war dies eine Zeit des Aufbruchs; für die indigenen Bevölkerungen der Amerikas bedeutete sie Eroberung, Epidemien und einen dramatischen Bevölkerungseinbruch, für Millionen Afrikanerinnen und Afrikaner Verschleppung und Versklavung.
+
+    Zugleich ist die Vorstellung eines von Europa dominierten Zeitalters für die Frühe Neuzeit nicht haltbar: Das Osmanische Reich, das Safawidenreich, das Mogulreich und China unter Ming und Qing gehörten zu den bevölkerungsreichsten und wirtschaftlich stärksten Staaten der Welt.
+  planned:
+    - Der Buchdruck mit beweglichen Lettern
+    - Das Osmanische Reich auf dem Höhepunkt
+    - Das Mogulreich
+    - Die Qing-Dynastie
+    - Japan unter den Tokugawa
+    - Der Dreißigjährige Krieg
+
+- id: renaissance-reformation
+  title: Renaissance und Reformation
+  parent: fruehe-neuzeit
+  order: 1
+  start: "~1400"
+  end: "1648"
+  regions: [europa]
+  summary: Die Wiederentdeckung antiker Texte im Humanismus, die Kunst der Renaissance und die Spaltung der lateinischen Christenheit.
+  body: ""
+  planned:
+    - Humanismus
+    - Die Renaissance in Florenz
+    - Johannes Calvin und der reformierte Protestantismus
+    - Das Konzil von Trient
+    - Der Westfälische Frieden
+
+- id: globale-handelsnetze
+  title: Frühneuzeitliche Handelsnetze
+  parent: fruehe-neuzeit
+  order: 2
+  start: "~1450"
+  end: "~1800"
+  regions: [welt, indischer-ozean, atlantik]
+  summary: Silber aus Amerika, Gewürze aus Südostasien, Textilien aus Indien, Porzellan und Tee aus China – die Entstehung globaler Märkte.
+  body: ""
+  planned:
+    - Vasco da Gama und der Seeweg nach Indien
+    - Die Manila-Galeonen
+    - Die Niederländische Ostindien-Kompanie (VOC)
+
+- id: kolonialismus-versklavung
+  title: Kolonialismus und Versklavung
+  parent: fruehe-neuzeit
+  order: 3
+  start: "1492"
+  end: "1888"
+  spanNote: 1888 schaffte Brasilien als letzter Staat der Amerikas die Sklaverei ab.
+  regions: [atlantik, amerika, afrika]
+  summary: Die europäische Eroberung der Amerikas und der transatlantische Sklavenhandel, durch den über zwölf Millionen Menschen aus Afrika verschleppt wurden.
+  body: |
+    Die Datenbank *Slave Voyages* (Trans-Atlantic Slave Trade Database) schätzt auf Grundlage von Schiffsregistern, dass zwischen dem 16. und dem 19. Jahrhundert rund 12,5 Millionen Menschen aus Afrika eingeschifft wurden, von denen etwa 10,7 Millionen die Amerikas lebend erreichten. Hinter diesen Zahlen stehen individuelle Schicksale, die nur selten in eigenen Zeugnissen überliefert sind.
+  planned:
+    - Die Eroberung des Aztekenreiches
+    - Die Eroberung des Inkareiches
+    - Der transatlantische Sklavenhandel
+    - Die Haitianische Revolution
+    - Abolitionismus
+
+- id: aufklaerung-revolutionen
+  title: Aufklärung und Revolutionen
+  parent: fruehe-neuzeit
+  order: 4
+  start: "~1680"
+  end: "~1830"
+  regions: [europa, amerika, karibik]
+  summary: Die Aufklärung, die Amerikanische, die Französische und die Haitianische Revolution sowie die Unabhängigkeitsbewegungen in Lateinamerika.
+  body: |
+    Im späten 18. Jahrhundert verbanden sich Ideen der Aufklärung – Volkssouveränität, Menschenrechte, Gewaltenteilung – mit sozialen und finanziellen Krisen zu einer Welle von Revolutionen im atlantischen Raum. Die Haitianische Revolution (1791–1804) war die erste erfolgreiche Erhebung versklavter Menschen, die zur Gründung eines unabhängigen Staates führte.
+  planned:
+    - Die Aufklärung
+    - Die Amerikanische Revolution
+    - Die Haitianische Revolution
+    - Napoleon Bonaparte
+    - Die Unabhängigkeit Lateinamerikas
+
+- id: langes-19-jahrhundert
+  title: Das lange 19. Jahrhundert
+  order: 7
+  start: "1789"
+  end: "1914"
+  spanNote: Den Begriff „langes 19. Jahrhundert“ prägte der Historiker Eric Hobsbawm für die Zeit von der Französischen Revolution bis zum Ersten Weltkrieg.
+  regions: [welt]
+  summary: Industrialisierung, Nationalstaaten, Massenmigration und die Aufteilung großer Teile der Welt unter europäische Kolonialmächte.
+  body: |
+    Im 19. Jahrhundert wuchs die Weltbevölkerung, Dampfmaschine, Eisenbahn und Telegraf verdichteten Raum und Zeit, und die wirtschaftliche Kluft zwischen Westeuropa und Nordamerika einerseits und großen Teilen Asiens und Afrikas andererseits vergrößerte sich stark. Die Frage nach den Ursachen dieser „Great Divergence“ gehört zu den großen Debatten der Wirtschaftsgeschichte.
+  planned:
+    - Die Revolutionen von 1848/49
+    - Die deutsche Reichsgründung 1871
+    - Die Meiji-Restauration in Japan
+    - Die Opiumkriege
+    - Der Amerikanische Bürgerkrieg
+
+- id: industrialisierung
+  title: Industrialisierung
+  parent: langes-19-jahrhundert
+  order: 1
+  start: "~1760"
+  end: "~1914"
+  regions: [britische-inseln, europa, nordamerika, japan]
+  summary: Von der mechanisierten Textilproduktion in Großbritannien zur weltweiten Industriegesellschaft – mit tiefgreifenden Folgen für Arbeit, Umwelt und soziale Ordnung.
+  body: ""
+  planned:
+    - Die Industrielle Revolution in Großbritannien
+    - Die soziale Frage und die Arbeiterbewegung
+    - Industrialisierung in Deutschland
+
+- id: imperialismus
+  title: Imperialismus
+  parent: langes-19-jahrhundert
+  order: 2
+  start: "~1870"
+  end: "1914"
+  regions: [welt, afrika, suedasien, suedostasien]
+  summary: Die Zeit des Hochimperialismus, in der europäische Mächte, die USA und Japan große Teile Afrikas, Asiens und Ozeaniens unter ihre Herrschaft brachten.
+  body: ""
+  planned:
+    - Die Berliner Afrika-Konferenz 1884/85
+    - Der Völkermord an den Herero und Nama
+    - Britische Herrschaft in Indien
+    - Der Kongo-Freistaat

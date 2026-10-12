@@ -1,0 +1,46 @@
+- id: roemische-republik
+  name: Römische Republik
+  aliases: [Res publica, SPQR]
+  start: "-509"
+  end: "-27"
+  spanNote: Beginn nach antiker Überlieferung.
+  capital: rom
+  summary: Römisches Gemeinwesen unter jährlich gewählten Magistraten, Senat und Volksversammlungen; wuchs vom Stadtstaat zur Vormacht des Mittelmeerraums.
+  regions: [italien, mittelmeer]
+  themes: [politik]
+  successors: [roemisches-kaiserreich]
+  weight: 1
+- id: roemisches-kaiserreich
+  name: Römisches Kaiserreich
+  aliases: [Imperium Romanum, Römisches Reich, Prinzipat]
+  start: "-27"
+  end: "476"
+  spanNote: 476 bezeichnet das Ende des weströmischen Kaisertums; im Osten bestand das Reich bis 1453 fort (Byzantinisches Reich).
+  capital: rom
+  summary: Monarchisch regiertes Römisches Reich von Augustus bis zum Ende des weströmischen Kaisertums; auf dem Höhepunkt um 117 n. Chr. vom Atlantik bis Mesopotamien.
+  regions: [mittelmeer, europa, westasien, nordafrika]
+  themes: [imperien]
+  predecessors: [roemische-republik]
+  weight: 1
+- id: karthago-staat
+  name: Karthago
+  aliases: [Karthagisches Reich, Punier, Karthager]
+  start: "~-814"
+  end: "-146"
+  spanNote: Gründungsdatum nach antiker Überlieferung.
+  capital: karthago
+  summary: Phönizische Stadt in Nordafrika, die ein Netz von Besitzungen und Handelsstützpunkten im westlichen Mittelmeer beherrschte; in drei Kriegen von Rom besiegt.
+  regions: [nordafrika, mittelmeer, iberische-halbinsel]
+  themes: [wirtschaft-handel, handelsnetze]
+  weight: 2
+- id: ptolemaeerreich
+  name: Ptolemäerreich
+  aliases: [Ptolemäisches Ägypten, Lagiden]
+  start: "-305"
+  end: "-30"
+  capital: alexandria
+  summary: Hellenistisches Königreich in Ägypten, begründet von Alexanders Feldherrn Ptolemaios I.; endete mit dem Tod Kleopatras VII.
+  regions: [aegypten]
+  themes: [imperien]
+  successors: [roemisches-kaiserreich]
+  weight: 2

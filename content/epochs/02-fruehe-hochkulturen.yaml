@@ -1,0 +1,68 @@
+- id: fruehe-hochkulturen
+  title: Frühe Staaten und Schriftkulturen
+  order: 2
+  start: "~-3500"
+  end: "~-1000"
+  spanNote: Sammelbezeichnung für die ersten Staaten mit Städten, Verwaltung und (meist) Schrift. Der ältere Begriff „Hochkultur“ ist wegen seiner wertenden Gegenüberstellung zu „niederen“ Kulturen umstritten.
+  regions: [westasien, afrika, suedasien, ostasien, mittelmeer]
+  summary: In Mesopotamien, Ägypten, Nubien, im Industal und in China entstanden Städte, Staaten und Schriftsysteme – auf unterschiedlichen Wegen und weitgehend unabhängig voneinander.
+  body: |
+    Zwischen dem 4. und dem 2. Jahrtausend v. Chr. entstanden an mehreren Orten der Welt die ersten Staaten: politische Einheiten mit Herrschaftszentren, spezialisierten Verwaltungen, sozialer Schichtung und der Fähigkeit, Abgaben und Arbeit über größere Räume zu organisieren. In Mesopotamien und Ägypten wurde in dieser Zeit die Schrift erfunden, in China (Shang-Zeit) wenig später; die Schrift der Industal-Kultur ist bis heute nicht entziffert.
+
+    Die ältere Forschung sprach von „Hochkulturen“ und unterstellte eine einheitliche Entwicklung „von der Jagd zum Staat“. Heute betont man die Vielfalt der Wege: Die Industal-Städte etwa zeigen keine eindeutigen Paläste oder Herrscherbilder, und in Nubien entstand mit Kerma ein mächtiges Reich, das lange Zeit nur aus der Perspektive seiner ägyptischen Gegner betrachtet wurde.
+  planned:
+    - Die Industal-Kultur (Harappa-Kultur)
+    - Die Shang-Dynastie
+    - Minoisches Kreta und mykenisches Griechenland
+    - Das Hethiterreich
+    - Der Zusammenbruch der Spätbronzezeit um 1200 v. Chr.
+
+- id: mesopotamien
+  title: Mesopotamien
+  parent: fruehe-hochkulturen
+  order: 1
+  start: "~-5000"
+  end: "-539"
+  regions: [mesopotamien]
+  summary: Das Land „zwischen den Strömen“ Euphrat und Tigris – Schauplatz der frühesten Städte, der Keilschrift und einer Abfolge von Stadtstaaten und Großreichen.
+  body: |
+    Vom Aufstieg Uruks im 4. Jahrtausend v. Chr. bis zur Eroberung Babylons durch den Perserkönig Kyros II. 539 v. Chr. bildet Mesopotamien einen über drei Jahrtausende überlieferten Kulturraum. Hunderttausende Keilschrifttafeln machen ihn zu einer der am dichtesten dokumentierten Regionen der Alten Welt.
+  planned:
+    - Das Reich von Akkad
+    - Die Dritte Dynastie von Ur
+    - Hammurapi und das altbabylonische Reich
+    - Das Neuassyrische Reich
+    - Das Neubabylonische Reich
+
+- id: altes-aegypten
+  title: Altes Ägypten
+  parent: fruehe-hochkulturen
+  order: 2
+  start: "~-3200"
+  end: "-30"
+  spanNote: Die Gliederung in „Reiche“ und „Zwischenzeiten“ ist eine moderne Konvention, die auf der Dynastienzählung des Priesters Manetho (3. Jh. v. Chr.) aufbaut.
+  regions: [aegypten]
+  summary: Ein über dreitausend Jahre bestehender Staat am Nil, von der Reichseinigung um 3000 v. Chr. bis zum Ende der Ptolemäerherrschaft 30 v. Chr.
+  body: |
+    Die ägyptische Geschichte wird traditionell nach den Königsdynastien gegliedert, die Manetho überliefert. Die moderne Forschung fasst sie zu Altem, Mittlerem und Neuem Reich zusammen, unterbrochen von „Zwischenzeiten“ politischer Zersplitterung. Absolute Jahreszahlen sind besonders für die frühen Perioden um Jahrzehnte unsicher.
+  planned:
+    - Das Mittlere Reich
+    - Das Neue Reich
+    - Echnaton und die Amarna-Zeit
+    - Ramses II. und die Schlacht von Kadesch
+    - Das Ptolemäerreich
+
+- id: nubien-kusch
+  title: Nubien und Kusch
+  parent: fruehe-hochkulturen
+  order: 3
+  start: "~-2500"
+  end: "~350"
+  regions: [nubien]
+  summary: Das mittlere Niltal im heutigen Sudan war Heimat eigenständiger Staaten – Kerma, Napata und Meroe –, die Ägypten nicht nur Nachbarn, sondern zeitweise auch Herrscher waren.
+  body: |
+    Nubien wurde lange vor allem aus ägyptischer Sicht beschrieben, als Lieferant von Gold, Elfenbein und Söldnern. Archäologische Forschungen seit dem frühen 20. Jahrhundert, besonders in Kerma, haben gezeigt, dass hier eigenständige, mächtige Staaten mit eigenen religiösen und künstlerischen Traditionen bestanden. Siehe [[reich-von-kusch]].
+  planned:
+    - Kerma
+    - Die 25. Dynastie („Schwarze Pharaonen“)
+    - Meroitische Schrift

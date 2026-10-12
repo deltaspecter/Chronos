@@ -1,0 +1,197 @@
+- id: kaufmann-2009
+  kind: sekundaer
+  authors: ["Kaufmann, Thomas"]
+  title: Geschichte der Reformation
+  place: Frankfurt am Main / Leipzig
+  publisher: Verlag der Weltreligionen
+  year: 2009
+- id: schilling-2012
+  kind: sekundaer
+  authors: ["Schilling, Heinz"]
+  title: Martin Luther
+  subtitle: Rebell in einer Zeit des Umbruchs
+  place: München
+  publisher: C.H. Beck
+  year: 2012
+- id: maccculloch-2003
+  kind: sekundaer
+  authors: ["MacCulloch, Diarmaid"]
+  title: Reformation
+  subtitle: Europe's House Divided 1490–1700
+  place: London
+  publisher: Allen Lane
+  year: 2003
+- id: roper-2016
+  kind: sekundaer
+  authors: ["Roper, Lyndal"]
+  title: Martin Luther
+  subtitle: Renegade and Prophet
+  place: London
+  publisher: The Bodley Head
+  year: 2016
+- id: moeller-1962
+  kind: sekundaer
+  authors: ["Moeller, Bernd"]
+  title: Reichsstadt und Reformation
+  place: Gütersloh
+  publisher: Gerd Mohn
+  year: 1962
+- id: blickle-1975
+  kind: sekundaer
+  authors: ["Blickle, Peter"]
+  title: Die Revolution von 1525
+  place: München
+  publisher: Oldenbourg
+  year: 1975
+- id: pettegree-2015
+  kind: sekundaer
+  authors: ["Pettegree, Andrew"]
+  title: Brand Luther
+  subtitle: 1517, Printing, and the Making of the Reformation
+  place: New York
+  publisher: Penguin Press
+  year: 2015
+- id: schilling-1988
+  kind: sekundaer
+  authors: ["Schilling, Heinz"]
+  title: Aufbruch und Krise
+  subtitle: Deutschland 1517–1648
+  place: Berlin
+  publisher: Siedler
+  year: 1988
+- id: iserloh-1962
+  kind: sekundaer
+  authors: ["Iserloh, Erwin"]
+  title: Luthers Thesenanschlag
+  subtitle: Tatsache oder Legende?
+  place: Wiesbaden
+  publisher: Steiner
+  year: 1962
+- id: q-95-thesen
+  kind: primaer
+  authors: ["Luther, Martin"]
+  title: Disputatio pro declaratione virtutis indulgentiarum (95 Thesen)
+  written: 1517
+  note: Lateinische Thesen zur Disputation über die Wirksamkeit des Ablasses; am 31. Oktober 1517 mit einem Brief an Erzbischof Albrecht von Mainz geschickt.
+- id: q-luther-1520
+  kind: primaer
+  authors: ["Luther, Martin"]
+  title: Reformatorische Hauptschriften von 1520
+  written: 1520
+  note: „An den christlichen Adel deutscher Nation von des christlichen Standes Besserung“, „De captivitate Babylonica ecclesiae“, „Von der Freiheit eines Christenmenschen“.
+- id: q-weimarer-ausgabe
+  kind: edition
+  authors: ["Luther, Martin"]
+  title: D. Martin Luthers Werke
+  subtitle: Kritische Gesamtausgabe („Weimarer Ausgabe“)
+  place: Weimar
+  publisher: Böhlau
+  year: 1883–2009
+- id: q-zwoelf-artikel
+  kind: primaer
+  title: Die Zwölf Artikel der Bauernschaft in Schwaben
+  written: März 1525, Memmingen
+  note: Programmschrift der aufständischen Bauern, verfasst vermutlich von Sebastian Lotzer und Christoph Schappeler; binnen weniger Wochen in zahlreichen Drucken im ganzen Reich verbreitet.
+- id: q-augsburger-religionsfriede
+  kind: primaer
+  title: Augsburger Religionsfrieden
+  written: 25. September 1555
+  note: Reichsgesetz, das den lutherischen Reichsständen Bestandsschutz gewährte; die Reformierten blieben ausgeschlossen.
+- id: schulin-1988
+  kind: sekundaer
+  authors: ["Schulin, Ernst"]
+  title: Die Französische Revolution
+  place: München
+  publisher: C.H. Beck
+  year: 1988
+- id: furet-richet-1965
+  kind: sekundaer
+  authors: ["Furet, François", "Richet, Denis"]
+  title: La Révolution française
+  place: Paris
+  publisher: Hachette
+  year: 1965
+- id: soboul-1962
+  kind: sekundaer
+  authors: ["Soboul, Albert"]
+  title: Précis d'histoire de la Révolution française
+  place: Paris
+  publisher: Éditions sociales
+  year: 1962
+- id: doyle-1989
+  kind: sekundaer
+  authors: ["Doyle, William"]
+  title: The Oxford History of the French Revolution
+  place: Oxford
+  publisher: Clarendon Press
+  year: 1989
+- id: mcphee-2016
+  kind: sekundaer
+  authors: ["McPhee, Peter"]
+  title: Liberty or Death
+  subtitle: The French Revolution
+  place: New Haven
+  publisher: Yale University Press
+  year: 2016
+- id: tackett-2015
+  kind: sekundaer
+  authors: ["Tackett, Timothy"]
+  title: The Coming of the Terror in the French Revolution
+  place: Cambridge, MA
+  publisher: Belknap Press of Harvard University Press
+  year: 2015
+- id: hunt-1984
+  kind: sekundaer
+  authors: ["Hunt, Lynn"]
+  title: Politics, Culture, and Class in the French Revolution
+  place: Berkeley
+  publisher: University of California Press
+  year: 1984
+- id: reichardt-1998
+  kind: sekundaer
+  authors: ["Reichardt, Rolf"]
+  title: Das Blut der Freiheit
+  subtitle: Französische Revolution und demokratische Kultur
+  place: Frankfurt am Main
+  publisher: Fischer
+  year: 1998
+- id: greer-1935
+  kind: sekundaer
+  authors: ["Greer, Donald"]
+  title: The Incidence of the Terror during the French Revolution
+  subtitle: A Statistical Interpretation
+  place: Cambridge, MA
+  publisher: Harvard University Press
+  year: 1935
+- id: martin-1987
+  kind: sekundaer
+  authors: ["Martin, Jean-Clément"]
+  title: La Vendée et la France
+  place: Paris
+  publisher: Seuil
+  year: 1987
+- id: dubois-2004
+  kind: sekundaer
+  authors: ["Dubois, Laurent"]
+  title: Avengers of the New World
+  subtitle: The Story of the Haitian Revolution
+  place: Cambridge, MA
+  publisher: Belknap Press of Harvard University Press
+  year: 2004
+- id: q-sieyes
+  kind: primaer
+  authors: ["Sieyès, Emmanuel Joseph"]
+  title: Qu'est-ce que le Tiers-État?
+  written: Januar 1789
+  note: Flugschrift, die den Dritten Stand als eigentliche Nation bestimmte („Was ist der Dritte Stand? Alles.“).
+- id: q-menschenrechtserklaerung
+  kind: primaer
+  title: Déclaration des droits de l'homme et du citoyen
+  written: 26. August 1789
+  note: Erklärung der Menschen- und Bürgerrechte der Nationalversammlung; später der Verfassung von 1791 vorangestellt.
+- id: q-de-gouges
+  kind: primaer
+  authors: ["Gouges, Olympe de"]
+  title: Déclaration des droits de la femme et de la citoyenne
+  written: September 1791
+  note: Gegenentwurf zur Menschenrechtserklärung von 1789, der die Gleichberechtigung der Frauen fordert.

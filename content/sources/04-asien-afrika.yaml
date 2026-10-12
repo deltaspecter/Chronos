@@ -1,0 +1,250 @@
+- id: briant-2002
+  kind: sekundaer
+  authors: ["Briant, Pierre"]
+  title: From Cyrus to Alexander
+  subtitle: A History of the Persian Empire
+  place: Winona Lake
+  publisher: Eisenbrauns
+  year: 2002
+  note: Englische Übersetzung der französischen Ausgabe „Histoire de l'empire perse“ (Paris 1996).
+- id: wiesehoefer-1993
+  kind: sekundaer
+  authors: ["Wiesehöfer, Josef"]
+  title: Das antike Persien
+  subtitle: Von 550 v. Chr. bis 650 n. Chr.
+  place: München / Zürich
+  publisher: Artemis & Winkler
+  year: 1993
+- id: kuhrt-2007
+  kind: edition
+  authors: ["Kuhrt, Amélie"]
+  title: The Persian Empire
+  subtitle: A Corpus of Sources from the Achaemenid Period
+  place: London
+  publisher: Routledge
+  year: 2007
+- id: allen-2005
+  kind: sekundaer
+  authors: ["Allen, Lindsay"]
+  title: The Persian Empire
+  subtitle: A History
+  place: London
+  publisher: British Museum Press
+  year: 2005
+- id: henkelman-2008
+  kind: sekundaer
+  authors: ["Henkelman, Wouter F. M."]
+  title: The Other Gods Who Are
+  subtitle: Studies in Elamite-Iranian Acculturation Based on the Persepolis Fortification Texts
+  series: Achaemenid History XIV
+  place: Leiden
+  publisher: Nederlands Instituut voor het Nabije Oosten
+  year: 2008
+- id: q-behistun
+  kind: primaer
+  authors: ["Dareios I."]
+  title: Inschrift von Bisotun (Behistun)
+  written: um 520 v. Chr.
+  note: Dreisprachige Felsinschrift (Altpersisch, Elamisch, Babylonisch) an einer Felswand im Westiran, in der Dareios I. seinen Weg zur Herrschaft schildert. Schlüssel zur Entzifferung der Keilschrift im 19. Jahrhundert.
+- id: q-kyros-zylinder
+  kind: primaer
+  authors: ["Kyros II."]
+  title: Kyros-Zylinder
+  written: nach 539 v. Chr.
+  note: Tonzylinder mit babylonischer Keilschrift über die Einnahme Babylons, im Stil babylonischer Königsinschriften; British Museum, London.
+- id: q-persepolis-taefelchen
+  kind: primaer
+  title: Persepolis-Befestigungstäfelchen (Persepolis Fortification Archive)
+  written: 509–493 v. Chr.
+  note: Zehntausende Verwaltungstexte, überwiegend auf Elamisch, über Lebensmittelrationen, Reisen und Arbeitskräfte; 1933/34 bei Ausgrabungen in Persepolis gefunden.
+- id: thapar-1961
+  kind: sekundaer
+  authors: ["Thapar, Romila"]
+  title: Aśoka and the Decline of the Mauryas
+  place: Oxford
+  publisher: Oxford University Press
+  year: 1961
+- id: thapar-2002
+  kind: sekundaer
+  authors: ["Thapar, Romila"]
+  title: Early India
+  subtitle: From the Origins to AD 1300
+  place: London
+  publisher: Allen Lane
+  year: 2002
+- id: singh-2008
+  kind: sekundaer
+  authors: ["Singh, Upinder"]
+  title: A History of Ancient and Early Medieval India
+  subtitle: From the Stone Age to the 12th Century
+  place: New Delhi
+  publisher: Pearson Longman
+  year: 2008
+- id: kulke-2005
+  kind: sekundaer
+  authors: ["Kulke, Hermann"]
+  title: Indische Geschichte bis 1750
+  series: Oldenbourg Grundriss der Geschichte 34
+  place: München
+  publisher: Oldenbourg
+  year: 2005
+- id: olivelle-2013
+  kind: edition
+  authors: ["Olivelle, Patrick"]
+  title: King, Governance, and Law in Ancient India
+  subtitle: Kauṭilya's Arthaśāstra. A New Annotated Translation
+  place: New York
+  publisher: Oxford University Press
+  year: 2013
+- id: trautmann-1971
+  kind: sekundaer
+  authors: ["Trautmann, Thomas R."]
+  title: Kauṭilya and the Arthaśāstra
+  subtitle: A Statistical Investigation of the Authorship and Evolution of the Text
+  place: Leiden
+  publisher: Brill
+  year: 1971
+- id: q-ashoka-edikte
+  kind: primaer
+  authors: ["Ashoka (Devanampiya Piyadasi)"]
+  title: Fels- und Säulenedikte
+  written: ca. 260–235 v. Chr.
+  note: Über dreißig Inschriften auf Felsen und Säulen von Afghanistan bis Südindien, meist in Prakrit und Brahmi-Schrift, im Nordwesten auch in Kharoshthi, Griechisch und Aramäisch. Älteste datierbare schriftliche Zeugnisse Südasiens in größerem Umfang.
+- id: q-megasthenes
+  kind: primaer
+  authors: ["Megasthenes"]
+  title: Indika
+  written: um 300 v. Chr.
+  note: Bericht eines seleukidischen Gesandten am Hof Chandraguptas; nur in Auszügen bei Strabon, Arrian und Diodor erhalten.
+- id: q-arthashastra
+  kind: primaer
+  authors: ["Kautilya (zugeschrieben)"]
+  title: Arthashastra
+  written: Kern vermutlich zwischen dem 1. Jh. v. Chr. und dem 3. Jh. n. Chr. redigiert
+  note: Lehrbuch der Staatskunst; die Tradition schreibt es Chandraguptas Minister Kautilya (Chanakya) zu. Datierung und Verfasserschaft sind umstritten.
+- id: lewis-2007
+  kind: sekundaer
+  authors: ["Lewis, Mark Edward"]
+  title: The Early Chinese Empires
+  subtitle: Qin and Han
+  place: Cambridge, MA
+  publisher: Belknap Press of Harvard University Press
+  year: 2007
+- id: twitchett-loewe-1986
+  kind: sekundaer
+  editors: ["Twitchett, Denis", "Loewe, Michael"]
+  title: "The Cambridge History of China. Bd. 1: The Ch'in and Han Empires, 221 B.C. – A.D. 220"
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1986
+- id: loewe-2006
+  kind: sekundaer
+  authors: ["Loewe, Michael"]
+  title: The Government of the Qin and Han Empires, 221 BCE – 220 CE
+  place: Indianapolis
+  publisher: Hackett
+  year: 2006
+- id: vogelsang-2012
+  kind: sekundaer
+  authors: ["Vogelsang, Kai"]
+  title: Geschichte Chinas
+  place: Stuttgart
+  publisher: Reclam
+  year: 2012
+- id: schmidt-glintzer-1995
+  kind: sekundaer
+  authors: ["Schmidt-Glintzer, Helwig"]
+  title: Das alte China
+  subtitle: Von den Anfängen bis zum 19. Jahrhundert
+  series: Beck'sche Reihe Wissen
+  place: München
+  publisher: C.H. Beck
+  year: 1995
+- id: shelach-lavi-2015
+  kind: sekundaer
+  authors: ["Shelach-Lavi, Gideon"]
+  title: The Archaeology of Early China
+  subtitle: From Prehistory to the Han Dynasty
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2015
+- id: q-shiji
+  kind: primaer
+  authors: ["Sima Qian"]
+  title: Shiji (Aufzeichnungen des Historikers)
+  written: um 90 v. Chr. abgeschlossen
+  note: Erste Universalgeschichte Chinas, begonnen von Sima Tan, vollendet von seinem Sohn Sima Qian, Hofastrologe unter Kaiser Wu von Han. Vorbild aller späteren Dynastiegeschichten.
+- id: q-hanshu
+  kind: primaer
+  authors: ["Ban Gu"]
+  title: Hanshu (Geschichte der Han-Dynastie)
+  written: 1. Jh. n. Chr.
+  note: Geschichte der Westlichen Han; enthält u. a. die Bevölkerungszählung des Jahres 2 n. Chr.
+- id: q-shuihudi
+  kind: primaer
+  title: Bambustexte von Shuihudi
+  written: spätes 3. Jh. v. Chr.
+  note: 1975 in einem Beamtengrab in Hubei gefundene Bambusstreifen mit Auszügen aus Qin-Gesetzen und Verwaltungsvorschriften – zeitgenössische Zeugnisse, die das Bild des Qin-Staates stark verändert haben.
+- id: levtzion-1973
+  kind: sekundaer
+  authors: ["Levtzion, Nehemia"]
+  title: Ancient Ghana and Mali
+  place: London
+  publisher: Methuen
+  year: 1973
+- id: levtzion-hopkins-1981
+  kind: edition
+  editors: ["Levtzion, Nehemia", "Hopkins, J. F. P."]
+  title: Corpus of Early Arabic Sources for West African History
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1981
+- id: gomez-2018
+  kind: sekundaer
+  authors: ["Gomez, Michael A."]
+  title: African Dominion
+  subtitle: A New History of Empire in Early and Medieval West Africa
+  place: Princeton
+  publisher: Princeton University Press
+  year: 2018
+- id: fauvelle-2013
+  kind: sekundaer
+  authors: ["Fauvelle-Aymar, François-Xavier"]
+  title: Le rhinocéros d'or
+  subtitle: Histoires du Moyen Âge africain
+  place: Paris
+  publisher: Alma
+  year: 2013
+- id: niane-1960
+  kind: edition
+  authors: ["Niane, Djibril Tamsir"]
+  title: Soundjata ou l'épopée mandingue
+  place: Paris
+  publisher: Présence Africaine
+  year: 1960
+- id: conrad-2004
+  kind: edition
+  editors: ["Conrad, David C."]
+  title: "Sunjata: A West African Epic of the Mande Peoples"
+  note: Erzählt von Djanka Tassey Condé.
+  place: Indianapolis
+  publisher: Hackett
+  year: 2004
+- id: q-ibn-battuta
+  kind: primaer
+  authors: ["Ibn Battuta"]
+  title: Rihla (Reisebericht)
+  written: 1355/56 aufgezeichnet von Ibn Dschuzayy
+  note: Der marokkanische Reisende besuchte das Reich Mali 1352/53 und beschreibt Hof, Rechtsprechung und Alltag – mit dem Blick eines gelehrten Muslims aus dem Maghreb.
+- id: q-al-umari
+  kind: primaer
+  authors: ["Ibn Fadlallah al-Umari"]
+  title: Masalik al-absar fi mamalik al-amsar
+  written: um 1340
+  note: Enzyklopädisches Werk eines Kanzleibeamten in Kairo; enthält Berichte von Zeitzeugen über den Aufenthalt Mansa Musas in Kairo 1324.
+- id: q-tarikh-al-sudan
+  kind: primaer
+  authors: ["Abd al-Rahman al-Sadi"]
+  title: Tarikh al-Sudan
+  written: um 1655
+  note: Chronik aus Timbuktu zur Geschichte des westlichen Sudan, besonders des Songhai-Reiches.

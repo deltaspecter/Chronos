@@ -1,0 +1,276 @@
+- id: clark-2012
+  kind: sekundaer
+  authors: ["Clark, Christopher"]
+  title: The Sleepwalkers
+  subtitle: How Europe Went to War in 1914
+  place: London
+  publisher: Allen Lane
+  year: 2012
+  note: Deutsch als „Die Schlafwandler. Wie Europa in den Ersten Weltkrieg zog“, München 2013.
+- id: fischer-1961
+  kind: sekundaer
+  authors: ["Fischer, Fritz"]
+  title: Griff nach der Weltmacht
+  subtitle: Die Kriegszielpolitik des kaiserlichen Deutschland 1914/18
+  place: Düsseldorf
+  publisher: Droste
+  year: 1961
+- id: leonhard-2014
+  kind: sekundaer
+  authors: ["Leonhard, Jörn"]
+  title: Die Büchse der Pandora
+  subtitle: Geschichte des Ersten Weltkriegs
+  place: München
+  publisher: C.H. Beck
+  year: 2014
+- id: muenkler-2013
+  kind: sekundaer
+  authors: ["Münkler, Herfried"]
+  title: Der Große Krieg
+  subtitle: Die Welt 1914 bis 1918
+  place: Berlin
+  publisher: Rowohlt Berlin
+  year: 2013
+- id: strachan-2001
+  kind: sekundaer
+  authors: ["Strachan, Hew"]
+  title: "The First World War. Bd. 1: To Arms"
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2001
+- id: winter-2014
+  kind: sekundaer
+  editors: ["Winter, Jay"]
+  title: The Cambridge History of the First World War
+  subtitle: 3 Bände
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2014
+- id: gerwarth-2016
+  kind: sekundaer
+  authors: ["Gerwarth, Robert"]
+  title: The Vanquished
+  subtitle: Why the First World War Failed to End, 1917–1923
+  place: London
+  publisher: Allen Lane
+  year: 2016
+- id: mommsen-2002
+  kind: sekundaer
+  authors: ["Mommsen, Wolfgang J."]
+  title: Die Urkatastrophe Deutschlands
+  subtitle: Der Erste Weltkrieg 1914–1918
+  series: Gebhardt. Handbuch der deutschen Geschichte, 10. Aufl., Bd. 17
+  place: Stuttgart
+  publisher: Klett-Cotta
+  year: 2002
+- id: krumeich-2014
+  kind: sekundaer
+  authors: ["Krumeich, Gerd"]
+  title: Juli 1914
+  subtitle: Eine Bilanz
+  place: Paderborn
+  publisher: Schöningh
+  year: 2014
+- id: kramer-2007
+  kind: sekundaer
+  authors: ["Kramer, Alan"]
+  title: Dynamic of Destruction
+  subtitle: Culture and Mass Killing in the First World War
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2007
+- id: kevorkian-2011
+  kind: sekundaer
+  authors: ["Kévorkian, Raymond"]
+  title: The Armenian Genocide
+  subtitle: A Complete History
+  place: London
+  publisher: I.B. Tauris
+  year: 2011
+- id: q-vertrag-versailles
+  kind: primaer
+  title: Friedensvertrag von Versailles
+  written: unterzeichnet am 28. Juni 1919
+  note: Artikel 231 schrieb Deutschland und seinen Verbündeten die Verantwortung für die Kriegsschäden zu („Kriegsschuldartikel“).
+- id: q-vierzehn-punkte
+  kind: primaer
+  authors: ["Wilson, Woodrow"]
+  title: Vierzehn Punkte
+  written: 8. Januar 1918
+  note: Programm des US-Präsidenten für eine Nachkriegsordnung, vorgetragen vor dem Kongress.
+- id: hilberg-1961
+  kind: sekundaer
+  authors: ["Hilberg, Raul"]
+  title: The Destruction of the European Jews
+  place: Chicago
+  publisher: Quadrangle Books
+  year: 1961
+  note: Deutsch als „Die Vernichtung der europäischen Juden“ (erweiterte Ausgabe Frankfurt am Main 1990).
+- id: friedlaender-1998-2006
+  kind: sekundaer
+  authors: ["Friedländer, Saul"]
+  title: Das Dritte Reich und die Juden
+  subtitle: "Bd. 1: Die Jahre der Verfolgung 1933–1939; Bd. 2: Die Jahre der Vernichtung 1939–1945"
+  place: München
+  publisher: C.H. Beck
+  year: 1998–2006
+- id: longerich-1998
+  kind: sekundaer
+  authors: ["Longerich, Peter"]
+  title: Politik der Vernichtung
+  subtitle: Eine Gesamtdarstellung der nationalsozialistischen Judenverfolgung
+  place: München
+  publisher: Piper
+  year: 1998
+- id: browning-1992
+  kind: sekundaer
+  authors: ["Browning, Christopher R."]
+  title: Ordinary Men
+  subtitle: Reserve Police Battalion 101 and the Final Solution in Poland
+  place: New York
+  publisher: HarperCollins
+  year: 1992
+- id: browning-2004
+  kind: sekundaer
+  authors: ["Browning, Christopher R."]
+  title: The Origins of the Final Solution
+  subtitle: The Evolution of Nazi Jewish Policy, September 1939 – March 1942
+  note: Mit Beiträgen von Jürgen Matthäus.
+  place: Lincoln / Jerusalem
+  publisher: University of Nebraska Press / Yad Vashem
+  year: 2004
+- id: benz-1991
+  kind: sekundaer
+  editors: ["Benz, Wolfgang"]
+  title: Dimension des Völkermords
+  subtitle: Die Zahl der jüdischen Opfer des Nationalsozialismus
+  place: München
+  publisher: Oldenbourg
+  year: 1991
+- id: herbert-1998
+  kind: sekundaer
+  editors: ["Herbert, Ulrich"]
+  title: Nationalsozialistische Vernichtungspolitik 1939–1945
+  subtitle: Neue Forschungen und Kontroversen
+  place: Frankfurt am Main
+  publisher: Fischer
+  year: 1998
+- id: goldhagen-1996
+  kind: sekundaer
+  authors: ["Goldhagen, Daniel Jonah"]
+  title: Hitler's Willing Executioners
+  subtitle: Ordinary Germans and the Holocaust
+  place: New York
+  publisher: Knopf
+  year: 1996
+- id: snyder-2010
+  kind: sekundaer
+  authors: ["Snyder, Timothy"]
+  title: Bloodlands
+  subtitle: Europe Between Hitler and Stalin
+  place: New York
+  publisher: Basic Books
+  year: 2010
+- id: vej
+  kind: edition
+  title: Die Verfolgung und Ermordung der europäischen Juden durch das nationalsozialistische Deutschland 1933–1945
+  subtitle: Quellenedition in 16 Bänden
+  note: Herausgegeben im Auftrag des Bundesarchivs, des Instituts für Zeitgeschichte und des Lehrstuhls für Neuere und Neueste Geschichte an der Albert-Ludwigs-Universität Freiburg.
+  place: München / Berlin
+  publisher: Oldenbourg / De Gruyter
+  year: 2008–2021
+- id: q-wannsee-protokoll
+  kind: primaer
+  title: Besprechungsprotokoll der Konferenz am Großen Wannsee
+  written: 20. Januar 1942
+  note: Von Adolf Eichmann verfasstes Ergebnisprotokoll; von 30 Ausfertigungen ist nur die 16. erhalten (1947 im Auswärtigen Amt gefunden).
+- id: q-nuernberger-gesetze
+  kind: primaer
+  title: Reichsbürgergesetz und „Gesetz zum Schutze des deutschen Blutes und der deutschen Ehre“
+  written: 15. September 1935
+- id: q-ringelblum
+  kind: primaer
+  title: Untergrundarchiv des Warschauer Ghettos (Ringelblum-Archiv, „Oneg Schabbat“)
+  written: 1940–1943
+  note: Von dem Historiker Emanuel Ringelblum und seinen Mitarbeitern angelegtes Archiv mit Tausenden Dokumenten über das Leben und Sterben im Ghetto; in Milchkannen und Blechkisten vergraben, Teile 1946 und 1950 geborgen. UNESCO-Weltdokumentenerbe.
+- id: roedder-2009
+  kind: sekundaer
+  authors: ["Rödder, Andreas"]
+  title: Deutschland einig Vaterland
+  subtitle: Die Geschichte der Wiedervereinigung
+  place: München
+  publisher: C.H. Beck
+  year: 2009
+- id: kowalczuk-2009
+  kind: sekundaer
+  authors: ["Kowalczuk, Ilko-Sascha"]
+  title: Endspiel
+  subtitle: Die Revolution von 1989 in der DDR
+  place: München
+  publisher: C.H. Beck
+  year: 2009
+- id: kowalczuk-2019
+  kind: sekundaer
+  authors: ["Kowalczuk, Ilko-Sascha"]
+  title: Die Übernahme
+  subtitle: Wie Ostdeutschland Teil der Bundesrepublik wurde
+  place: München
+  publisher: C.H. Beck
+  year: 2019
+- id: sarotte-2014
+  kind: sekundaer
+  authors: ["Sarotte, Mary Elise"]
+  title: The Collapse
+  subtitle: The Accidental Opening of the Berlin Wall
+  place: New York
+  publisher: Basic Books
+  year: 2014
+- id: sarotte-2009
+  kind: sekundaer
+  authors: ["Sarotte, Mary Elise"]
+  title: "1989"
+  subtitle: The Struggle to Create Post-Cold War Europe
+  place: Princeton
+  publisher: Princeton University Press
+  year: 2009
+- id: wolfrum-2006
+  kind: sekundaer
+  authors: ["Wolfrum, Edgar"]
+  title: Die geglückte Demokratie
+  subtitle: Geschichte der Bundesrepublik Deutschland von ihren Anfängen bis zur Gegenwart
+  place: Stuttgart
+  publisher: Klett-Cotta
+  year: 2006
+- id: weber-2012
+  kind: sekundaer
+  authors: ["Weber, Hermann"]
+  title: Die DDR 1945–1990
+  edition: 5. Aufl.
+  series: Oldenbourg Grundriss der Geschichte 20
+  place: München
+  publisher: Oldenbourg
+  year: 2012
+- id: mau-2019
+  kind: sekundaer
+  authors: ["Mau, Steffen"]
+  title: Lütten Klein
+  subtitle: Leben in der ostdeutschen Transformationsgesellschaft
+  place: Berlin
+  publisher: Suhrkamp
+  year: 2019
+- id: boeick-2018
+  kind: sekundaer
+  authors: ["Böick, Marcus"]
+  title: Die Treuhand
+  subtitle: Idee – Praxis – Erfahrung 1990–1994
+  place: Göttingen
+  publisher: Wallstein
+  year: 2018
+- id: q-zwei-plus-vier
+  kind: primaer
+  title: Vertrag über die abschließende Regelung in bezug auf Deutschland („Zwei-plus-Vier-Vertrag“)
+  written: unterzeichnet am 12. September 1990 in Moskau
+- id: q-einigungsvertrag
+  kind: primaer
+  title: Vertrag zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik über die Herstellung der Einheit Deutschlands (Einigungsvertrag)
+  written: unterzeichnet am 31. August 1990 in Berlin

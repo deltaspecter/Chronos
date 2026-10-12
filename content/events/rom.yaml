@@ -1,0 +1,389 @@
+- id: gruendung-roms
+  title: Gründung Roms (Überlieferung)
+  date: "-753-04-21"
+  certainty: unsicher
+  dateNote: Traditionelles Datum nach dem Gelehrten Varro (1. Jh. v. Chr.); archäologisch ist eine allmähliche Stadtwerdung im 8.–6. Jh. v. Chr. belegt.
+  weight: 3
+  kind: gruendung
+  summary: Nach der römischen Überlieferung gründete Romulus die Stadt am 21. April 753 v. Chr.
+  regions: [italien]
+  themes: [politik]
+  places: [rom]
+- id: beginn-der-republik
+  title: Beginn der Römischen Republik
+  date: "-509"
+  certainty: umstritten
+  dateNote: Datum der antiken Überlieferung; der Übergang kann sich über einen längeren Zeitraum erstreckt haben.
+  weight: 2
+  kind: revolution
+  summary: Nach der Vertreibung des letzten Königs Tarquinius Superbus treten zwei jährlich gewählte Oberbeamte an die Spitze Roms.
+  regions: [italien]
+  themes: [politik, verfassung-recht]
+  places: [rom]
+  polities: [roemische-republik]
+- id: zwoelftafelgesetz
+  title: Zwölftafelgesetz
+  date: "~-450"
+  certainty: wahrscheinlich
+  weight: 3
+  kind: gesetz
+  summary: Erste schriftliche Aufzeichnung des römischen Rechts durch ein Zehnmännerkollegium (Dezemvirn), nur in Zitaten späterer Autoren erhalten.
+  regions: [italien]
+  themes: [verfassung-recht]
+  places: [rom]
+  polities: [roemische-republik]
+- id: lex-hortensia
+  title: Lex Hortensia
+  date: "-287"
+  weight: 3
+  kind: gesetz
+  summary: Gesetz, nach dem die Beschlüsse der Plebsversammlung für alle Bürger verbindlich sind; gilt als Abschluss der Ständekämpfe.
+  regions: [italien]
+  themes: [verfassung-recht, politik]
+  places: [rom]
+  polities: [roemische-republik]
+- id: erster-punischer-krieg
+  title: Erster Punischer Krieg
+  start: "-264"
+  end: "-241"
+  weight: 2
+  kind: krieg
+  summary: Krieg zwischen Rom und Karthago um Sizilien, der Rom zur Seemacht machte und mit dem Gewinn Siziliens als erster Provinz endete.
+  regions: [italien, nordafrika, mittelmeer]
+  themes: [krieg-militaer]
+  places: [syrakus, aegatische-inseln]
+  persons: [hamilkar-barkas]
+  polities: [roemische-republik, karthago-staat]
+- id: schlacht-aegatische-inseln
+  title: Seeschlacht bei den Ägatischen Inseln
+  date: "-241-03-10"
+  weight: 3
+  kind: schlacht
+  summary: Römischer Seesieg unter Gaius Lutatius Catulus, der den Ersten Punischen Krieg entschied.
+  regions: [italien, mittelmeer]
+  themes: [krieg-militaer]
+  places: [aegatische-inseln]
+  polities: [roemische-republik, karthago-staat]
+- id: zweiter-punischer-krieg
+  title: Zweiter Punischer Krieg (Hannibalkrieg)
+  start: "-218"
+  end: "-201"
+  weight: 1
+  kind: krieg
+  summary: Hannibals Zug nach Italien, Roms Niederlagen am Trasimenischen See und bei Cannae und der Sieg Scipios bei Zama; Rom wird Vormacht im westlichen Mittelmeer.
+  regions: [italien, iberische-halbinsel, nordafrika, mittelmeer]
+  themes: [krieg-militaer]
+  places: [sagunt, cannae, trasimenischer-see, zama, neukarthago, syrakus]
+  persons: [hannibal, scipio-africanus, fabius-maximus, hasdrubal-barkas, masinissa]
+  polities: [roemische-republik, karthago-staat]
+- id: hannibals-alpenueberquerung
+  title: Hannibals Alpenüberquerung
+  date: "-218"
+  weight: 3
+  kind: ereignis
+  summary: Hannibal führt sein Heer mit Kriegselefanten von Spanien über die Alpen nach Oberitalien; die Route ist bis heute umstritten.
+  regions: [europa, italien]
+  themes: [krieg-militaer]
+  persons: [hannibal]
+  polities: [karthago-staat]
+- id: schlacht-am-trasimenischen-see
+  title: Schlacht am Trasimenischen See
+  date: "-217"
+  weight: 3
+  kind: schlacht
+  summary: Hannibal vernichtet ein römisches Heer unter dem Konsul Gaius Flaminius in einem Hinterhalt.
+  regions: [italien]
+  themes: [krieg-militaer]
+  places: [trasimenischer-see]
+  persons: [hannibal]
+  polities: [roemische-republik, karthago-staat]
+- id: schlacht-von-cannae
+  title: Schlacht von Cannae
+  date: "-216-08-02"
+  dateNote: Datum nach dem damaligen römischen Kalender, der nicht mit dem Sonnenjahr übereinstimmte.
+  weight: 2
+  kind: schlacht
+  summary: Hannibal kesselt ein großes römisches Heer ein; eine der verlustreichsten Schlachten der Antike.
+  regions: [italien]
+  themes: [krieg-militaer]
+  places: [cannae]
+  persons: [hannibal]
+  polities: [roemische-republik, karthago-staat]
+- id: schlacht-bei-zama
+  title: Schlacht bei Zama
+  date: "-202"
+  weight: 2
+  kind: schlacht
+  summary: Scipio besiegt Hannibal in Nordafrika und beendet den Zweiten Punischen Krieg.
+  regions: [nordafrika]
+  themes: [krieg-militaer]
+  places: [zama]
+  persons: [hannibal, scipio-africanus, masinissa]
+  polities: [roemische-republik, karthago-staat]
+- id: dritter-punischer-krieg
+  title: Dritter Punischer Krieg
+  start: "-149"
+  end: "-146"
+  weight: 3
+  kind: krieg
+  summary: Rom belagert Karthago drei Jahre lang und zerstört die Stadt 146 v. Chr.
+  regions: [nordafrika]
+  themes: [krieg-militaer]
+  places: [karthago]
+  persons: [scipio-aemilianus, cato-der-aeltere]
+  polities: [roemische-republik, karthago-staat]
+- id: zerstoerung-karthagos
+  title: Zerstörung Karthagos
+  date: "-146"
+  weight: 2
+  kind: katastrophe
+  summary: Scipio Aemilianus erobert Karthago; die Überlebenden werden versklavt, das Gebiet wird zur römischen Provinz Africa.
+  regions: [nordafrika]
+  themes: [krieg-militaer, imperien]
+  places: [karthago]
+  persons: [scipio-aemilianus, polybios]
+  polities: [roemische-republik, karthago-staat]
+- id: zerstoerung-korinths
+  title: Zerstörung Korinths
+  date: "-146"
+  weight: 3
+  kind: katastrophe
+  summary: Nach dem Krieg gegen den Achaiischen Bund zerstört der Konsul Lucius Mummius Korinth.
+  regions: [griechenland]
+  themes: [krieg-militaer, imperien]
+  places: [korinth]
+  polities: [roemische-republik]
+- id: tribunat-tiberius-gracchus
+  title: Tribunat und Tod des Tiberius Gracchus
+  date: "-133"
+  weight: 2
+  kind: ereignis
+  summary: Der Volkstribun Tiberius Gracchus setzt ein Ackergesetz durch und wird von Senatoren erschlagen – Beginn der Krise der Republik.
+  regions: [italien]
+  themes: [politik, landwirtschaft]
+  places: [rom]
+  persons: [tiberius-gracchus]
+  polities: [roemische-republik]
+- id: tribunat-gaius-gracchus
+  title: Reformen und Tod des Gaius Gracchus
+  start: "-123"
+  end: "-121"
+  weight: 3
+  kind: ereignis
+  summary: Gaius Gracchus verfolgt ein umfassendes Reformprogramm; 121 v. Chr. ruft der Senat erstmals den Notstand aus, Gaius und Tausende Anhänger werden getötet.
+  regions: [italien]
+  themes: [politik]
+  places: [rom]
+  persons: [gaius-gracchus]
+  polities: [roemische-republik]
+- id: bundesgenossenkrieg
+  title: Bundesgenossenkrieg
+  start: "-91"
+  end: "-88"
+  weight: 3
+  kind: krieg
+  summary: Aufstand der italischen Bundesgenossen gegen Rom; endet mit der Verleihung des römischen Bürgerrechts an die Gemeinden Italiens südlich des Po.
+  regions: [italien]
+  themes: [krieg-militaer, politik]
+  polities: [roemische-republik]
+- id: sullas-marsch-auf-rom
+  title: Sullas Marsch auf Rom
+  date: "-88"
+  weight: 3
+  kind: ereignis
+  summary: Erstmals marschiert ein römischer Konsul mit seinem Heer gegen die eigene Stadt.
+  regions: [italien]
+  themes: [politik, krieg-militaer]
+  places: [rom]
+  persons: [sulla, marius]
+  polities: [roemische-republik]
+- id: diktatur-sullas
+  title: Diktatur Sullas
+  start: "-82"
+  end: "-79"
+  weight: 3
+  kind: herrschaft
+  summary: Sulla regiert als Diktator, lässt seine Gegner proskribieren und ordnet die Verfassung zugunsten des Senats neu.
+  regions: [italien]
+  themes: [politik, verfassung-recht]
+  places: [rom]
+  persons: [sulla]
+  polities: [roemische-republik]
+- id: spartacus-aufstand
+  title: Aufstand des Spartacus
+  start: "-73"
+  end: "-71"
+  weight: 3
+  kind: ereignis
+  summary: Von Capua ausgehender Aufstand von Gladiatoren und Sklaven, der mehrere römische Heere schlägt und von Crassus niedergeworfen wird.
+  regions: [italien]
+  themes: [sklaverei-unfreiheit, gesellschaft]
+  persons: [crassus]
+  polities: [roemische-republik]
+- id: catilinarische-verschwoerung
+  title: Catilinarische Verschwörung
+  date: "-63"
+  weight: 3
+  kind: ereignis
+  summary: Der Konsul Cicero deckt die Umsturzpläne Catilinas auf und lässt fünf Verschwörer ohne Prozess hinrichten.
+  regions: [italien]
+  themes: [politik]
+  places: [rom]
+  persons: [cicero, catilina, caesar]
+  polities: [roemische-republik]
+- id: erstes-triumvirat
+  title: Bündnis von Caesar, Pompeius und Crassus („Erstes Triumvirat“)
+  date: "-60"
+  weight: 3
+  kind: vertrag
+  summary: Informelles Bündnis der drei mächtigsten Politiker Roms gegen die Senatsmehrheit.
+  regions: [italien]
+  themes: [politik]
+  places: [rom]
+  persons: [caesar, pompeius, crassus]
+  polities: [roemische-republik]
+- id: gallischer-krieg
+  title: Gallischer Krieg
+  start: "-58"
+  end: "-50"
+  weight: 2
+  kind: krieg
+  summary: Caesar unterwirft Gallien bis zum Rhein; der Krieg fordert nach antiken Angaben Hunderttausende Tote.
+  regions: [frankreich, westeuropa]
+  themes: [krieg-militaer, imperien]
+  places: [alesia]
+  persons: [caesar, vercingetorix]
+  polities: [roemische-republik]
+- id: schlacht-um-alesia
+  title: Belagerung von Alesia
+  date: "-52"
+  weight: 3
+  kind: schlacht
+  summary: Caesar schließt Vercingetorix in Alesia ein und wehrt ein gallisches Entsatzheer ab; Ende des großen gallischen Aufstands.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+  places: [alesia]
+  persons: [caesar, vercingetorix]
+  polities: [roemische-republik]
+- id: ueberschreitung-des-rubikon
+  title: Caesar überschreitet den Rubikon
+  date: "-49-01-10"
+  dateNote: Tag nach der modernen Rekonstruktion; der damalige römische Kalender wich vom Sonnenjahr ab.
+  weight: 2
+  kind: ereignis
+  summary: Mit dem Übertritt seines Heeres über die Grenze seiner Provinz beginnt Caesar den Bürgerkrieg gegen Pompeius und die Senatsmehrheit.
+  regions: [italien]
+  themes: [politik, krieg-militaer]
+  places: [rubikon]
+  persons: [caesar, pompeius]
+  polities: [roemische-republik]
+- id: schlacht-bei-pharsalos
+  title: Schlacht bei Pharsalos
+  date: "-48-08-09"
+  weight: 3
+  kind: schlacht
+  summary: Caesar besiegt Pompeius in Thessalien; Pompeius flieht nach Ägypten und wird dort ermordet.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+  places: [pharsalos]
+  persons: [caesar, pompeius]
+  polities: [roemische-republik]
+- id: julianischer-kalender
+  title: Einführung des Julianischen Kalenders
+  date: "-45-01-01"
+  weight: 3
+  kind: gesetz
+  summary: Caesars Kalenderreform mit 365 Tagen und einem Schaltjahr alle vier Jahre tritt in Kraft.
+  regions: [italien, mittelmeer]
+  themes: [wissenschaft-technik]
+  persons: [caesar]
+  polities: [roemische-republik]
+- id: ermordung-caesars
+  title: Ermordung Caesars
+  date: "-44-03-15"
+  weight: 1
+  kind: ereignis
+  summary: An den Iden des März wird der Diktator Caesar von Senatoren unter Führung von Brutus und Cassius erstochen.
+  regions: [italien]
+  themes: [politik]
+  places: [rom]
+  persons: [caesar, brutus, marcus-antonius]
+  polities: [roemische-republik]
+- id: zweites-triumvirat
+  title: Zweites Triumvirat
+  start: "-43-11"
+  end: "-33"
+  weight: 3
+  kind: herrschaft
+  summary: Gesetzlich eingerichtete Dreierherrschaft von Octavian, Antonius und Lepidus; beginnt mit Proskriptionen, denen auch Cicero zum Opfer fällt.
+  regions: [italien]
+  themes: [politik]
+  persons: [augustus, marcus-antonius, cicero]
+  polities: [roemische-republik]
+- id: schlacht-bei-philippi
+  title: Schlacht bei Philippi
+  date: "-42-10"
+  weight: 3
+  kind: schlacht
+  summary: Antonius und Octavian besiegen die Caesarmörder Brutus und Cassius.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+  places: [philippi]
+  persons: [augustus, marcus-antonius, brutus]
+  polities: [roemische-republik]
+- id: schlacht-bei-actium
+  title: Schlacht bei Actium
+  date: "-31-09-02"
+  weight: 2
+  kind: schlacht
+  summary: Die Flotte Octavians unter Agrippa siegt über Antonius und Kleopatra; Wendepunkt zur Alleinherrschaft.
+  regions: [griechenland, mittelmeer]
+  themes: [krieg-militaer]
+  places: [actium]
+  persons: [augustus, agrippa, marcus-antonius, kleopatra]
+  polities: [roemische-republik, ptolemaeerreich]
+- id: eroberung-aegyptens
+  title: Eroberung Ägyptens durch Octavian
+  date: "-30-08-01"
+  weight: 3
+  kind: ereignis
+  summary: Octavian nimmt Alexandria ein, Antonius und Kleopatra nehmen sich das Leben; Ägypten wird römische Provinz – Ende des Ptolemäerreiches.
+  regions: [aegypten]
+  themes: [imperien]
+  places: [alexandria]
+  persons: [augustus, kleopatra, marcus-antonius]
+  polities: [ptolemaeerreich, roemische-republik]
+- id: prinzipat-27
+  title: Begründung des Prinzipats
+  date: "-27-01-16"
+  weight: 1
+  kind: herrschaft
+  summary: Octavian gibt formell die Macht an Senat und Volk zurück, erhält die wichtigsten Provinzen und den Namen Augustus – Beginn der römischen Kaiserzeit.
+  regions: [italien, mittelmeer]
+  themes: [politik, verfassung-recht]
+  places: [rom]
+  persons: [augustus]
+  polities: [roemische-republik, roemisches-kaiserreich]
+- id: varusschlacht
+  title: Varusschlacht
+  date: "9-09"
+  certainty: wahrscheinlich
+  dateNote: Monat nach der Überlieferung; der genaue Ort ist umstritten.
+  weight: 3
+  kind: schlacht
+  summary: Germanische Verbände unter Arminius vernichten drei römische Legionen unter Publius Quinctilius Varus; Rom gibt die Pläne für eine Provinz bis zur Elbe auf.
+  regions: [deutschland]
+  themes: [krieg-militaer]
+  places: [kalkriese]
+  persons: [augustus]
+  polities: [roemisches-kaiserreich]
+- id: tod-des-augustus
+  title: Tod des Augustus
+  date: "14-08-19"
+  weight: 3
+  kind: herrschaft
+  summary: Augustus stirbt in Nola; Tiberius übernimmt die Herrschaft – der Prinzipat wird zur dauerhaften Monarchie.
+  regions: [italien]
+  themes: [politik]
+  persons: [augustus, tiberius]
+  polities: [roemisches-kaiserreich]

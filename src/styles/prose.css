@@ -1,0 +1,303 @@
+@layer components {
+/* Lesetypografie für Artikel und Epochentexte */
+
+.prose {
+  font-family: var(--reading-font);
+  font-size: 1.125rem;
+  line-height: var(--reading-leading);
+  color: var(--text);
+  max-width: var(--measure);
+  font-variant-numeric: oldstyle-nums proportional-nums;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  overflow-wrap: break-word;
+}
+@media (min-width: 768px) {
+  .prose {
+    font-size: 1.1875rem;
+  }
+}
+.prose > * + * {
+  margin-top: 1.05em;
+}
+.prose p {
+  text-wrap: pretty;
+}
+.prose h2 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1.85em;
+  line-height: 1.15;
+  margin-top: 2.1em;
+  margin-bottom: 0.4em;
+  color: var(--text);
+  position: relative;
+  hyphens: manual;
+}
+.prose h3 {
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-size: 1.02em;
+  letter-spacing: 0.01em;
+  margin-top: 1.9em;
+  margin-bottom: 0.2em;
+  color: var(--text);
+  position: relative;
+  hyphens: manual;
+}
+.prose h2 + *,
+.prose h3 + * {
+  margin-top: 0.5em;
+}
+.prose .anchor {
+  position: absolute;
+  left: -1.1em;
+  top: 0;
+  opacity: 0;
+  color: var(--gold-soft);
+  font-family: var(--font-sans);
+  font-size: 0.7em;
+  padding-top: 0.35em;
+  transition: opacity 0.15s;
+}
+.prose h2:hover .anchor,
+.prose h3:hover .anchor {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .prose .anchor {
+    display: none;
+  }
+}
+.prose em {
+  font-style: italic;
+}
+.prose strong {
+  font-weight: 650;
+}
+.prose ul,
+.prose ol {
+  padding-left: 1.3em;
+}
+.prose ul {
+  list-style: none;
+}
+.prose ul > li {
+  position: relative;
+}
+.prose ul > li::before {
+  content: '';
+  position: absolute;
+  left: -0.95em;
+  top: 0.72em;
+  width: 0.32em;
+  height: 0.32em;
+  border-radius: 50%;
+  background: var(--gold-soft);
+}
+.prose ol {
+  list-style: decimal;
+}
+.prose ol > li::marker {
+  color: var(--gold-soft);
+  font-family: var(--font-sans);
+  font-size: 0.85em;
+}
+.prose li + li {
+  margin-top: 0.45em;
+}
+.prose blockquote {
+  border-left: 2px solid var(--gold-soft);
+  padding-left: 1.1em;
+  color: var(--text-soft);
+  font-style: italic;
+}
+.prose a {
+  color: var(--link);
+  text-decoration: underline;
+  text-decoration-color: color-mix(in srgb, var(--link) 30%, transparent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+  transition: text-decoration-color 0.15s;
+}
+.prose a:hover {
+  text-decoration-color: var(--link);
+}
+.prose a.xref-entity {
+  text-decoration-style: dotted;
+}
+.prose a.external::after {
+  content: '↗';
+  font-size: 0.75em;
+  margin-left: 0.1em;
+  font-family: var(--font-sans);
+}
+.prose .cites {
+  font-family: var(--font-sans);
+  font-size: 0.62em;
+  line-height: 0;
+  vertical-align: super;
+  margin-left: 0.08em;
+  white-space: nowrap;
+  font-variant-numeric: lining-nums;
+}
+.prose .cites a {
+  text-decoration: none;
+  color: var(--gold);
+  padding: 0 0.12em;
+}
+.prose .cites a:hover {
+  text-decoration: underline;
+}
+.prose .cite-sep {
+  color: var(--text-muted);
+}
+.prose hr {
+  border: 0;
+  height: 1px;
+  background: var(--line);
+  margin: 2.5em 0;
+}
+
+/* Tabellen */
+.prose .table-wrap {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid var(--line);
+  border-radius: 0.6rem;
+  margin-left: 0;
+  margin-right: 0;
+}
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: var(--font-sans);
+  font-size: 0.82em;
+  line-height: 1.45;
+  font-variant-numeric: lining-nums tabular-nums;
+  hyphens: manual;
+}
+.prose th {
+  text-align: left;
+  font-weight: 600;
+  color: var(--text);
+  background: var(--bg-elev-2);
+  padding: 0.6em 0.8em;
+  white-space: nowrap;
+}
+.prose td {
+  padding: 0.55em 0.8em;
+  border-top: 1px solid var(--line);
+  vertical-align: top;
+  color: var(--text-soft);
+}
+
+/* Kästen: Befund, Deutung, offene Frage, Quelle, Perspektive */
+.prose .callout {
+  --c: var(--gold);
+  font-size: 0.94em;
+  line-height: calc(var(--reading-leading) - 0.05);
+  border: 1px solid color-mix(in srgb, var(--c) 30%, var(--line));
+  border-left: 3px solid var(--c);
+  background: color-mix(in srgb, var(--c) 6%, var(--bg-elev));
+  border-radius: 0.5rem 0.75rem 0.75rem 0.5rem;
+  padding: 1em 1.15em;
+  margin-top: 1.6em;
+  margin-bottom: 1.6em;
+}
+.prose .callout > * + * {
+  margin-top: 0.75em;
+}
+.prose .callout-befund {
+  --c: var(--c-befund);
+}
+.prose .callout-deutung {
+  --c: var(--c-deutung);
+}
+.prose .callout-offen {
+  --c: var(--c-offen);
+}
+.prose .callout-quelle {
+  --c: var(--c-quelle);
+}
+.prose .callout-perspektive {
+  --c: var(--c-perspektive);
+}
+.prose .callout-label {
+  font-family: var(--font-sans);
+  font-size: 0.68rem;
+  font-weight: 650;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--c);
+}
+.prose .callout-title {
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-size: 0.95em;
+  margin-top: 0.15em !important;
+  color: var(--text);
+}
+.prose .callout ul > li::before {
+  background: var(--c);
+}
+
+/* Abbildungen */
+.prose .figure {
+  margin: 2em 0;
+}
+.prose .figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 0.5rem;
+  background: var(--bg-elev-2);
+}
+.prose figcaption {
+  margin-top: 0.6em;
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  line-height: 1.5;
+  color: var(--text-soft);
+  display: flex;
+  flex-direction: column;
+  gap: 0.2em;
+}
+.prose .fig-credit {
+  color: var(--text-muted);
+  font-size: 0.72rem;
+}
+.prose .fig-credit a {
+  color: inherit;
+}
+.prose .fig-badge {
+  align-self: flex-start;
+  font-size: 0.65rem;
+  font-weight: 650;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--c-offen);
+  border: 1px solid currentColor;
+  border-radius: 999px;
+  padding: 0.05em 0.5em;
+}
+
+/* Erster Absatz nach dem Titel leicht hervorgehoben */
+.prose.article-body > p:first-child {
+  font-size: 1.08em;
+  color: var(--text);
+}
+
+/* Hervorhebung des angesprungenen Belegs */
+.ref-target:target {
+  background: var(--gold-faint);
+  border-radius: 0.4rem;
+}
+
+.prose-compact {
+  font-size: 1.04rem;
+}
+.prose-compact > * + * {
+  margin-top: 0.85em;
+}
+
+}
