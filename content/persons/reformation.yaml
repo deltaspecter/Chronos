@@ -1,0 +1,125 @@
+- id: martin-luther
+  name: Martin Luther
+  aliases: [Luther, Martinus Luther]
+  born: "1483-11-10"
+  died: "1546-02-18"
+  roles: [Theologe, Reformator, Bibelübersetzer]
+  summary: Augustinermönch und Wittenberger Theologieprofessor, dessen Kritik am Ablass 1517 die Reformation auslöste; übersetzte die Bibel ins Deutsche.
+  regions: [deutschland]
+  themes: [religion, schrift-medien]
+  places: [wittenberg, worms, wartburg]
+  related: [philipp-melanchthon, katharina-von-bora, friedrich-der-weise, karl-v, thomas-muentzer, huldrych-zwingli]
+- id: jan-hus
+  name: Jan Hus
+  aliases: [Johannes Hus, Johann Huss]
+  born: "~1370"
+  died: "1415-07-06"
+  roles: [Theologe, Prediger]
+  summary: Böhmischer Reformtheologe und Prediger in Prag, der die Autorität des Papstes in Frage stellte; auf dem Konzil von Konstanz als Ketzer verbrannt.
+  regions: [mitteleuropa]
+  themes: [religion]
+  places: [konstanz]
+- id: erasmus
+  name: Erasmus von Rotterdam
+  aliases: [Desiderius Erasmus]
+  born: "~1466"
+  died: "1536-07-12"
+  roles: [Humanist, Theologe]
+  summary: Bedeutendster Humanist seiner Zeit, gab 1516 das griechische Neue Testament heraus; kritisierte kirchliche Missstände, blieb aber katholisch und stritt mit Luther über den freien Willen.
+  regions: [westeuropa, mitteleuropa]
+  themes: [religion, schrift-medien]
+- id: johann-tetzel
+  name: Johann Tetzel
+  born: "~1460"
+  died: "1519"
+  roles: [Dominikaner, Ablassprediger]
+  summary: Dominikaner, der ab 1517 den Petersablass im Auftrag Albrechts von Brandenburg predigte und damit Luthers Kritik auf sich zog.
+  regions: [deutschland]
+  themes: [religion]
+- id: albrecht-von-brandenburg
+  name: Albrecht von Brandenburg
+  born: "1490-06-28"
+  died: "1545-09-24"
+  roles: [Erzbischof, Kurfürst]
+  summary: Erzbischof von Mainz und Magdeburg, der den Petersablass in seinen Gebieten verkünden ließ; Adressat von Luthers Thesenbrief 1517.
+  regions: [deutschland]
+  themes: [religion, politik]
+- id: friedrich-der-weise
+  name: Friedrich der Weise
+  aliases: [Friedrich III. von Sachsen]
+  born: "1463-01-17"
+  died: "1525-05-05"
+  roles: [Kurfürst von Sachsen]
+  summary: Kurfürst von Sachsen und Gründer der Universität Wittenberg, der Luther schützte und auf der Wartburg verbergen ließ.
+  regions: [deutschland]
+  themes: [politik]
+  places: [wittenberg, wartburg]
+- id: karl-v
+  name: Karl V.
+  aliases: [Kaiser Karl V., Carlos I.]
+  born: "1500-02-24"
+  died: "1558-09-21"
+  roles: [Kaiser, König von Spanien]
+  summary: Römisch-deutscher Kaiser und König von Spanien, in dessen Reich „die Sonne nicht unterging“; versuchte vergeblich, die Glaubenseinheit zu bewahren.
+  regions: [deutschland, iberische-halbinsel, europa]
+  themes: [politik, imperien]
+  places: [worms, augsburg]
+- id: philipp-melanchthon
+  name: Philipp Melanchthon
+  aliases: [Philipp Schwartzerdt, Praeceptor Germaniae]
+  born: "1497-02-16"
+  died: "1560-04-19"
+  roles: [Theologe, Humanist]
+  summary: Engster Mitarbeiter Luthers, Verfasser der Confessio Augustana (1530) und Organisator des evangelischen Bildungswesens.
+  regions: [deutschland]
+  themes: [religion]
+  places: [wittenberg, augsburg]
+- id: huldrych-zwingli
+  name: Huldrych Zwingli
+  aliases: [Ulrich Zwingli]
+  born: "1484-01-01"
+  died: "1531-10-11"
+  roles: [Reformator]
+  summary: Reformator in Zürich, dessen Abendmahlslehre sich von Luthers unterschied; fiel 1531 in der Schlacht bei Kappel.
+  regions: [mitteleuropa]
+  themes: [religion]
+  places: [zuerich]
+- id: johannes-calvin
+  name: Johannes Calvin
+  aliases: [Jean Calvin, Jean Cauvin]
+  born: "1509-07-10"
+  died: "1564-05-27"
+  roles: [Reformator, Theologe]
+  summary: Französischer Reformator in Genf, Verfasser der „Institutio Christianae Religionis“; prägte den reformierten Protestantismus in Europa und Nordamerika.
+  regions: [westeuropa, mitteleuropa]
+  themes: [religion]
+  places: [genf]
+- id: thomas-muentzer
+  name: Thomas Müntzer
+  aliases: [Thomas Münzer]
+  born: "~1489"
+  died: "1525-05-27"
+  roles: [Theologe, Prediger]
+  summary: Radikaler Reformator und Gegner Luthers, der den Bauernkrieg in Thüringen mit endzeitlichen Erwartungen verband; nach der Schlacht bei Frankenhausen hingerichtet.
+  regions: [deutschland]
+  themes: [religion, revolutionen]
+  places: [frankenhausen]
+- id: katharina-von-bora
+  name: Katharina von Bora
+  aliases: [Katharina Luther]
+  born: "1499-01-29"
+  died: "1552-12-20"
+  roles: [ehemalige Nonne, Ehefrau Luthers]
+  summary: Ehemalige Zisterzienserinnen-Nonne, die 1525 Martin Luther heiratete und den großen Wittenberger Haushalt führte.
+  regions: [deutschland]
+  themes: [gesellschaft, religion]
+  places: [wittenberg]
+  related: [martin-luther]
+- id: argula-von-grumbach
+  name: Argula von Grumbach
+  born: "~1492"
+  died: "~1568"
+  roles: [Autorin, Adlige]
+  summary: Bayerische Adlige, die 1523 in gedruckten Briefen die Universität Ingolstadt herausforderte – eine der ersten Frauen, die öffentlich für die Reformation schrieben.
+  regions: [deutschland]
+  themes: [religion, gesellschaft]

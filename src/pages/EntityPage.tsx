@@ -158,6 +158,7 @@ function EntityView({ index, info }: { index: Indexed; info: EntityInfo }) {
     case 'route': {
       const r = index.routeById.get(info.id)!
       aliases = r.aliases
+      articles = r.articles
       details.push({ label: 'Zeitraum', value: <DateSpan span={r.span} /> })
       details.push({ label: 'Darstellung', value: r.schematic ? 'Schematischer Verlauf über Hauptstationen – nicht der exakte Wegverlauf' : 'Verlauf nach Quellenlage' })
       mapLink = `/atlas?route=${r.id}`

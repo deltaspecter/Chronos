@@ -1,0 +1,79 @@
+- id: sarajevo
+  name: Sarajevo
+  coords: [18.4131, 43.8563]
+  categories: [stadt]
+  summary: Hauptstadt von Bosnien-Herzegowina; hier wurde am 28. Juni 1914 der österreichisch-ungarische Thronfolger ermordet.
+  regions: [suedosteuropa]
+- id: marne
+  name: Marne
+  coords: [3.5000, 48.9500]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  summary: Fluss östlich von Paris; in der Schlacht an der Marne im September 1914 wurde der deutsche Vormarsch gestoppt.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+- id: ypern
+  name: Ypern
+  aliases: [Ieper, Ypres]
+  coords: [2.8850, 50.8510]
+  categories: [schlachtfeld, stadt]
+  summary: Stadt in Westflandern, Schauplatz mehrerer Schlachten; 1915 erster großer Giftgaseinsatz.
+  regions: [westeuropa]
+  themes: [krieg-militaer]
+- id: verdun
+  name: Verdun
+  coords: [5.3844, 49.1600]
+  categories: [schlachtfeld, stadt]
+  summary: Festungsstadt an der Maas, um die 1916 eine der längsten und verlustreichsten Schlachten des Krieges geführt wurde.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+- id: somme
+  name: Somme (Schlachtfeld)
+  aliases: [Thiepval]
+  coords: [2.6850, 50.0500]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  summary: Gebiet beiderseits der Somme in Nordfrankreich, Schauplatz der britisch-französischen Offensive von Juli bis November 1916.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+- id: tannenberg
+  name: Tannenberg
+  aliases: [Stębark]
+  coords: [20.1300, 53.4900]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  summary: Ort im damaligen Ostpreußen (heute Polen); nach ihm wurde der deutsche Sieg über eine russische Armee Ende August 1914 benannt.
+  regions: [osteuropa]
+  themes: [krieg-militaer]
+- id: gallipoli
+  name: Gallipoli
+  aliases: [Gelibolu, Dardanellen]
+  coords: [26.3000, 40.2500]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  summary: Halbinsel an den Dardanellen, auf der 1915/16 eine alliierte Landungsoperation unter hohen Verlusten scheiterte.
+  regions: [anatolien, suedosteuropa]
+  themes: [krieg-militaer]
+- id: istanbul
+  name: Istanbul
+  aliases: [Konstantinopel, Byzantion]
+  coords: [28.9784, 41.0082]
+  categories: [stadt, hauptstadt, kulturzentrum]
+  summary: Stadt am Bosporus, als Konstantinopel Hauptstadt des Oströmischen und von 1453 bis 1922 des Osmanischen Reiches.
+  regions: [anatolien, suedosteuropa]
+  themes: [politik]
+- id: brest-litowsk
+  name: Brest-Litowsk
+  aliases: [Brest]
+  coords: [23.6900, 52.1000]
+  categories: [stadt]
+  modernName: Brest (Belarus)
+  summary: Stadt, in der Sowjetrussland und die Mittelmächte im März 1918 einen Friedensvertrag schlossen.
+  regions: [osteuropa]
+- id: compiegne
+  name: Compiègne
+  aliases: [Lichtung von Rethondes]
+  coords: [2.9060, 49.4270]
+  categories: [stadt]
+  summary: Wald bei Compiègne nördlich von Paris, in dem am 11. November 1918 der Waffenstillstand unterzeichnet wurde.
+  regions: [frankreich]

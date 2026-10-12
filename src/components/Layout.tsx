@@ -1,6 +1,8 @@
-import { Bookmark, Clock, Compass, Home, Hourglass, Info, Layers, Map, Menu, Search, Settings, WifiOff, X } from 'lucide-react'
+import { Bookmark, Clock, Compass, Home, Hourglass, Info, Layers, Map as MapIcon, Menu, Search, Settings, WifiOff, X } from 'lucide-react'
 import { useEffect, useState } from 'react'
 import { Link, NavLink, Outlet, ScrollRestoration, useLocation } from 'react-router'
+import { useCore } from '@/data/useData.ts'
+import { refreshOffline } from '@/offline/offline.ts'
 import { applyUpdate, useSw } from '@/offline/sw-register.ts'
 import { SearchBox } from './SearchBox.tsx'
 
@@ -9,7 +11,7 @@ export const NAV = [
   { to: '/epochen', label: 'Epochen', icon: Hourglass },
   { to: '/themen', label: 'Themen', icon: Layers },
   { to: '/zeitleiste', label: 'Zeitleiste', icon: Clock },
-  { to: '/atlas', label: 'Atlas', icon: Map },
+  { to: '/atlas', label: 'Atlas', icon: MapIcon },
   { to: '/suche', label: 'Suche', icon: Search },
   { to: '/lesezeichen', label: 'Lesezeichen', icon: Bookmark },
 ] as const
@@ -42,7 +44,7 @@ function MoreSheet({ onClose }: { onClose: () => void }) {
         <nav className="px-3 grid grid-cols-2 gap-2" aria-label="Weitere Bereiche">
           {[
             { to: '/themen', label: 'Themen', icon: Layers, hint: 'Personen, Ereignisse, Orte …' },
-            { to: '/atlas', label: 'Historischer Atlas', icon: Map, hint: 'Orte, Routen, Reiche' },
+            { to: '/atlas', label: 'Historischer Atlas', icon: MapIcon, hint: 'Orte, Routen, Reiche' },
             { to: '/lesezeichen', label: 'Lesezeichen', icon: Bookmark, hint: 'Notizen, Verlauf, Offline' },
             { to: '/verzeichnis', label: 'Verzeichnisse', icon: Compass, hint: 'Alle Einträge A–Z' },
             { to: '/einstellungen', label: 'Einstellungen', icon: Settings, hint: 'Schrift, Theme, Daten' },
@@ -82,10 +84,23 @@ function UpdateToast() {
   )
 }
 
+/** Offline gespeicherte Artikel still auf die aktuelle Fassung bringen, sobald Daten und Netz da sind */
+function useOfflineRefresh() {
+  const core = useCore()
+  const online = useSw((s) => s.online)
+  useEffect(() => {
+    if (core.status !== 'ready' || !online) return
+    const media = new Map(core.data.entities.media.map((m) => [m.id, m]))
+    const timer = setTimeout(() => refreshOffline(core.data.articleById, media).catch(() => {}), 3000)
+    return () => clearTimeout(timer)
+  }, [core, online])
+}
+
 export function Layout() {
   const [moreOpen, setMoreOpen] = useState(false)
   const online = useSw((s) => s.online)
   const location = useLocation()
+  useOfflineRefresh()
 
   useEffect(() => setMoreOpen(false), [location.pathname])
   useEffect(() => {

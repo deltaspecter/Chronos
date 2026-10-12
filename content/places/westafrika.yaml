@@ -1,0 +1,99 @@
+- id: koumbi-saleh
+  name: Koumbi Saleh
+  aliases: [Kumbi Saleh]
+  coords: [-7.9900, 15.7600]
+  location: ungefaehr
+  categories: [fundstaette, stadt]
+  modernName: im Süden Mauretaniens
+  summary: Ruinenstadt im Süden Mauretaniens, die meist mit der Hauptstadt des Reiches Ghana gleichgesetzt wird.
+  regions: [westafrika]
+  themes: [archaeologie]
+- id: niani
+  name: Niani
+  coords: [-8.3800, 11.3800]
+  location: umstritten
+  categories: [stadt]
+  modernName: Niani (Guinea)
+  summary: Ort am Sankarani im heutigen Guinea, traditionell als Hauptstadt des Reiches Mali angesehen; Ausgrabungen haben dies nicht bestätigt.
+  regions: [westafrika]
+- id: kirina
+  name: Kirina
+  coords: [-7.9000, 12.6000]
+  location: umstritten
+  categories: [schlachtfeld]
+  summary: Ort im heutigen Mali, der in der Überlieferung als Schauplatz der Schlacht zwischen Sunjata und Sumanguru gilt.
+  regions: [westafrika]
+  themes: [krieg-militaer]
+- id: timbuktu
+  name: Timbuktu
+  aliases: [Tombouctou, Tumbutu]
+  coords: [-3.0074, 16.7735]
+  categories: [stadt, kulturzentrum, heiligtum]
+  summary: Handels- und Gelehrtenstadt am Rand der Sahara nahe dem Niger, mit Moscheen aus Lehm und berühmten Handschriftensammlungen; UNESCO-Welterbe.
+  regions: [westafrika]
+  themes: [handelsnetze, religion, schrift-medien]
+- id: djenne
+  name: Djenné
+  aliases: [Jenne, Dienné]
+  coords: [-4.5550, 13.9060]
+  categories: [stadt, kulturzentrum]
+  summary: Handelsstadt im Binnendelta des Niger mit der größten Lehmziegelmoschee der Welt (heutiger Bau von 1907); UNESCO-Welterbe.
+  regions: [westafrika]
+  themes: [handelsnetze, religion]
+- id: jenne-jeno
+  name: Jenné-jeno
+  aliases: [Djenné-Djeno]
+  coords: [-4.5300, 13.8900]
+  categories: [fundstaette, stadt]
+  start: "~-250"
+  end: "~1400"
+  summary: Siedlungshügel bei Djenné, der eine eigenständige Stadtentwicklung am Niger ab dem 3. Jh. v. Chr. belegt.
+  regions: [westafrika]
+  themes: [archaeologie]
+- id: gao
+  name: Gao
+  coords: [-0.0444, 16.2717]
+  categories: [stadt, hauptstadt]
+  summary: Stadt am Nigerbogen, zeitweise unter malischer Herrschaft und später Hauptstadt des Songhai-Reiches; Grab des Askia Muhammad.
+  regions: [westafrika]
+- id: walata
+  name: Walata
+  aliases: [Oualata, Iwalatan]
+  coords: [-7.0300, 17.2900]
+  categories: [stadt]
+  summary: Karawanenstadt am Südrand der Sahara im heutigen Mauretanien, erste Station Ibn Battutas im Reich Mali.
+  regions: [westafrika]
+  themes: [handelsnetze]
+- id: taghaza
+  name: Taghaza
+  coords: [-4.9500, 23.6000]
+  location: ungefaehr
+  categories: [fundstaette]
+  summary: Salzminen mitten in der Sahara, deren Steinsalz in den Sahel gehandelt wurde; Ibn Battuta beschreibt Häuser aus Salzblöcken.
+  regions: [westafrika, nordafrika]
+  themes: [handelsnetze, wirtschaft-handel]
+- id: sijilmasa
+  name: Sijilmasa
+  coords: [-4.2700, 31.2800]
+  categories: [stadt]
+  summary: Karawanenstadt am Nordrand der Sahara im heutigen Marokko, Hauptumschlagplatz des Goldhandels mit Westafrika.
+  regions: [nordafrika]
+  themes: [handelsnetze]
+- id: kairo
+  name: Kairo
+  aliases: [al-Qahira, Cairo]
+  coords: [31.2357, 30.0444]
+  categories: [stadt, hauptstadt, kulturzentrum]
+  start: "969"
+  summary: 969 gegründete Hauptstadt Ägyptens, im Spätmittelalter unter den Mamluken eine der größten Städte der Welt.
+  regions: [aegypten]
+  themes: [politik, handelsnetze]
+- id: bambuk
+  name: Bambuk
+  aliases: [Goldfelder von Bambuk]
+  coords: [-11.5000, 13.5000]
+  location: ungefaehr
+  categories: [region]
+  summary: Goldreiche Region zwischen den Flüssen Senegal und Falémé, eine der Hauptquellen des westafrikanischen Goldes.
+  regions: [westafrika]
+  themes: [wirtschaft-handel]

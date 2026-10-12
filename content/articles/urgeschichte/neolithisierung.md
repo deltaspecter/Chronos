@@ -17,6 +17,7 @@ cultures: [natufien-kultur, linearbandkeramik]
 terms: [neolithikum, domestikation, fruchtbarer-halbmond, radiokarbondatierung]
 related: [homo-sapiens, uruk-und-sumer]
 bibliography: [childe-1936, bar-yosef-1998, zeder-2011, bellwood-2005, schmidt-2006, scott-2017, hodder-2006, weiss-2006, larson-2014, lazaridis-2016, cauvin-1994, reich-2018, krause-trappe-2019, dai]
+image: goebekli-tepe-anlage
 status: erstfassung
 version: 1
 updated: 2026-10-12
@@ -93,6 +94,8 @@ Archäologische und genetische Studien zeigen, dass die Domestikation im Fruchtb
 Mit der Landwirtschaft wuchsen die Siedlungen. [[ort:jericho|Jericho]] im Jordantal besaß bereits im PPNA einen über acht Meter hohen Steinturm und eine Mauer, deren Zweck – Schutz vor Überschwemmungen, Verteidigung oder Gemeinschaftsprojekt – diskutiert wird. In [[ort:ain-ghazal|ʿAin Ghazal]] bei Amman wurden lebensgroße Figuren aus Kalkputz gefunden, die zu den ältesten großformatigen Menschendarstellungen gehören.
 
 [[ort:catalhoeyuek|Çatalhöyük]] in Zentralanatolien (etwa 7.100–6.000 v. Chr.) war eine der größten Siedlungen ihrer Zeit, mit mehreren tausend Einwohnern. Die Häuser standen dicht an dicht und wurden über das Dach betreten; Straßen gab es nicht. Wandmalereien, Reliefs und unter den Fußböden bestattete Tote zeigen ein reiches religiöses Leben. Der Ausgräber Ian Hodder betont, dass sich kaum Hinweise auf ausgeprägte soziale Unterschiede finden.[@hodder-2006]
+
+![[catalhoeyuek-grabung]]
 
 ## Warum gerade damals? Theorien zu den Ursachen
 

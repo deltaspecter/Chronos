@@ -18,6 +18,7 @@ polities: [achaemenidenreich, altbabylonisches-reich, pharaonisches-aegypten, al
 terms: [satrapie, grosskoenig, keilschrift]
 related: [uruk-und-sumer, maurya-reich]
 bibliography: [briant-2002, wiesehoefer-1993, kuhrt-2007, allen-2005, henkelman-2008, brosius-1996, q-behistun, q-kyros-zylinder, q-persepolis-taefelchen, q-herodot, q-aischylos-perser, q-esra, british-museum]
+image: persepolis-apadana
 status: erstfassung
 version: 1
 updated: 2026-10-12
@@ -39,6 +40,8 @@ Die Perser waren ein iranischsprachiges Volk, das sich im Lauf des frühen 1. Ja
 Ein Tonzylinder mit babylonischer Keilschrift, gefunden 1879 in Babylon und heute im [[quelle:british-museum|British Museum]], schildert die Einnahme Babylons. Kyros erscheint darin als Erwählter des babylonischen Gottes Marduk, der den frevelhaften König Nabonid ablöst, die Bewohner von „Fronarbeit“ befreit und verschleppte Götterbilder in ihre Heimatheiligtümer zurückbringt.[@q-kyros-zylinder]
 :::
 
+![[kyros-zylinder]]
+
 :::deutung Die „erste Menschenrechtscharta“?
 Im 20. Jahrhundert wurde der Kyros-Zylinder – insbesondere vom letzten Schah des Iran – als „erste Erklärung der Menschenrechte“ bezeichnet. Die Forschung lehnt diese Deutung ab: Der Text folgt dem Muster älterer babylonischer Königsinschriften und rechtfertigt eine Eroberung religiös. Richtig ist, dass die Achämeniden lokale Kulte, Eliten und Traditionen häufig respektierten und für ihre Herrschaft nutzten. Das biblische Buch Esra berichtet entsprechend, Kyros habe den nach Babylon verschleppten Judäern die Rückkehr und den Wiederaufbau des Tempels in Jerusalem erlaubt.[@kuhrt-2007; @q-esra]
 :::
@@ -50,6 +53,8 @@ Kyros' Sohn [[person:kambyses-ii|Kambyses II.]] eroberte 525 v. Chr. Ägypten. N
 :::quelle Die Inschrift von Bisotun
 Seine Version der Ereignisse ließ Dareios hoch über der Straße von Mesopotamien nach Ekbatana in eine Felswand bei [[ort:bisotun|Bisotun]] (Behistun) meißeln – in drei Sprachen: Altpersisch, Elamisch und Babylonisch. Ob die Geschichte vom falschen Bardiya stimmt oder ob Dareios den rechtmäßigen Thronfolger beseitigte, ist bis heute umstritten. Die dreisprachige Inschrift wurde im 19. Jahrhundert zum Schlüssel für die Entzifferung der Keilschrift, ähnlich wie der Stein von Rosette für die Hieroglyphen.[@q-behistun; @briant-2002]
 :::
+
+![[bisotun-relief]]
 
 Unter Dareios erreichte das Reich seine größte Ausdehnung, mit Eroberungen im Industal und in Thrakien. Er gab ihm eine dauerhafte Ordnung (siehe unten) und ließ ab etwa 518 v. Chr. in [[ort:persepolis|Persepolis]] eine monumentale Residenz errichten.
 

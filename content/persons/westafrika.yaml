@@ -1,0 +1,70 @@
+- id: sundiata-keita
+  name: Sunjata Keita
+  aliases: [Sundiata, Soundjata, Sundjata, Mari Djata]
+  born: "~1210?"
+  died: "~1255?"
+  roles: [König, Reichsgründer]
+  certainty: unsicher
+  summary: Nach der mündlichen Überlieferung Begründer des Reiches Mali, der um 1235 bei Kirina den König von Sosso besiegte; Held des Sunjata-Epos.
+  regions: [westafrika]
+  themes: [politik, imperien]
+  places: [kirina, niani]
+- id: mansa-musa
+  name: Mansa Musa
+  aliases: [Musa I. von Mali, Kanku Musa, Musse Melly]
+  died: "~1337"
+  roles: [Mansa (König)]
+  summary: Herrscher von Mali (etwa 1312–1337), dessen Pilgerfahrt nach Mekka 1324 mit großen Mengen Gold Mali in der islamischen Welt und in Europa berühmt machte.
+  regions: [westafrika]
+  themes: [religion, wirtschaft-handel, politik]
+  places: [timbuktu, kairo]
+  related: [mansa-sulayman, abu-ishaq-al-sahili, al-umari]
+- id: mansa-sulayman
+  name: Mansa Sulayman
+  aliases: [Suleyman]
+  died: "~1360"
+  roles: [Mansa (König)]
+  summary: Bruder Mansa Musas und Herrscher Malis (etwa 1341–1360), an dessen Hof Ibn Battuta 1352/53 weilte.
+  regions: [westafrika]
+  themes: [politik]
+  related: [mansa-musa, ibn-battuta]
+- id: ibn-battuta
+  name: Ibn Battuta
+  aliases: [Abu Abdallah Muhammad ibn Battuta]
+  born: "1304"
+  died: "~1368"
+  roles: [Reisender, Rechtsgelehrter]
+  summary: Marokkanischer Gelehrter, der fast drei Jahrzehnte lang die islamische Welt von Westafrika bis China bereiste; sein Bericht (Rihla) enthält die ausführlichste Schilderung Malis.
+  regions: [nordafrika, westafrika, westasien, suedasien, ostasien]
+  themes: [geschichtsschreibung, handelsnetze]
+  places: [walata, timbuktu, taghaza]
+- id: al-umari
+  name: Ibn Fadlallah al-Umari
+  aliases: [al-Umari]
+  born: "1300"
+  died: "1349"
+  roles: [Kanzleibeamter, Gelehrter]
+  summary: Ägyptischer Gelehrter, dessen Enzyklopädie Zeitzeugenberichte über Mansa Musas Aufenthalt in Kairo bewahrt.
+  regions: [aegypten]
+  themes: [geschichtsschreibung]
+  places: [kairo]
+- id: abu-ishaq-al-sahili
+  name: Abu Ishaq al-Sahili
+  aliases: [as-Sahili]
+  born: "~1290"
+  died: "1346"
+  roles: [Dichter, Baumeister]
+  summary: Andalusischer Dichter, der Mansa Musa nach Mali begleitete; die Überlieferung schreibt ihm Bauten in Timbuktu zu.
+  regions: [iberische-halbinsel, westafrika]
+  themes: [kultur-kunst]
+  places: [timbuktu]
+  related: [mansa-musa]
+- id: sunni-ali
+  name: Sunni Ali
+  aliases: [Sonni Ali Ber]
+  died: "1492"
+  roles: [König von Songhai]
+  summary: Herrscher von Songhai (1464–1492), der Timbuktu und Djenné eroberte und Songhai zur Vormacht am Niger machte.
+  regions: [westafrika]
+  themes: [imperien, krieg-militaer]
+  places: [gao, timbuktu, djenne]

@@ -292,3 +292,23 @@
   title: Yantie lun (Debatten über Salz und Eisen)
   written: 1. Jh. v. Chr.
   note: Literarische Fassung einer Hofdebatte des Jahres 81 v. Chr. zwischen Regierungsbeamten und konfuzianischen Gelehrten über die staatlichen Monopole und die Grundsätze guter Herrschaft.
+- id: mcintosh-1998
+  kind: sekundaer
+  authors: ["McIntosh, Roderick J."]
+  title: The Peoples of the Middle Niger
+  subtitle: The Island of Gold
+  place: Oxford
+  publisher: Blackwell
+  year: 1998
+- id: q-al-bakri
+  kind: primaer
+  authors: ["Abu Ubayd al-Bakri"]
+  title: Kitab al-Masalik wa-l-Mamalik
+  written: 1068
+  note: Geografisches Werk eines andalusischen Gelehrten mit der ausführlichsten frühen Beschreibung des Reiches Ghana und seiner Hauptstadt, auf Grundlage von Berichten von Händlern.
+- id: q-ibn-khaldun
+  kind: primaer
+  authors: ["Ibn Khaldun"]
+  title: Kitab al-Ibar
+  written: um 1375–1406
+  note: Universalgeschichte des nordafrikanischen Gelehrten; enthält eine Liste der Könige von Mali nach Berichten von Informanten aus dem Sahel.

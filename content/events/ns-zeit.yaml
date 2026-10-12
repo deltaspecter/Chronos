@@ -1,0 +1,169 @@
+- id: machtuebertragung-1933
+  title: Ernennung Hitlers zum Reichskanzler
+  date: "1933-01-30"
+  weight: 1
+  kind: herrschaft
+  summary: Reichspräsident Hindenburg ernennt Adolf Hitler zum Reichskanzler; innerhalb weniger Monate errichten die Nationalsozialisten eine Diktatur.
+  regions: [deutschland]
+  themes: [politik]
+  places: [berlin]
+  persons: [adolf-hitler, paul-von-hindenburg]
+  polities: [weimarer-republik, ns-staat]
+- id: judenboykott-1933
+  title: Boykott jüdischer Geschäfte
+  date: "1933-04-01"
+  weight: 3
+  kind: ereignis
+  summary: Die NSDAP organisiert reichsweit einen Boykott jüdischer Geschäfte, Arztpraxen und Kanzleien.
+  regions: [deutschland]
+  themes: [gewalt-genozid]
+  polities: [ns-staat]
+- id: nuernberger-gesetze
+  title: Nürnberger Gesetze
+  date: "1935-09-15"
+  weight: 2
+  kind: gesetz
+  summary: Das „Reichsbürgergesetz“ und das „Blutschutzgesetz“ machen Juden zu Staatsangehörigen minderen Rechts und verbieten Ehen mit Nichtjuden.
+  regions: [deutschland]
+  themes: [gewalt-genozid, verfassung-recht]
+  places: [nuernberg]
+  polities: [ns-staat]
+- id: novemberpogrom
+  title: Novemberpogrom
+  start: "1938-11-09"
+  end: "1938-11-10"
+  weight: 2
+  kind: katastrophe
+  summary: Im ganzen Reich werden Synagogen, Geschäfte und Wohnungen zerstört; mindestens 91 Menschen werden ermordet, rund 30.000 jüdische Männer in Konzentrationslager verschleppt.
+  regions: [deutschland]
+  themes: [gewalt-genozid]
+  polities: [ns-staat]
+- id: ueberfall-auf-polen
+  title: Deutscher Überfall auf Polen – Beginn des Zweiten Weltkriegs
+  date: "1939-09-01"
+  weight: 1
+  kind: krieg
+  summary: Deutschland greift Polen an; Großbritannien und Frankreich erklären Deutschland den Krieg. Unter deutscher Besatzung beginnen Massenverbrechen an Jüdinnen, Juden und Polen.
+  regions: [osteuropa, europa]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [warschau]
+  persons: [adolf-hitler]
+  polities: [ns-staat]
+- id: ueberfall-auf-die-sowjetunion
+  title: Überfall auf die Sowjetunion
+  date: "1941-06-22"
+  weight: 1
+  kind: krieg
+  summary: Deutschland beginnt einen rassenideologischen Vernichtungskrieg gegen die Sowjetunion; Einsatzgruppen und andere Einheiten beginnen mit Massenerschießungen von Jüdinnen und Juden.
+  regions: [osteuropa, russland]
+  themes: [krieg-militaer, gewalt-genozid]
+  persons: [adolf-hitler]
+  polities: [ns-staat]
+- id: massaker-babyn-jar
+  title: Massaker von Babyn Jar
+  start: "1941-09-29"
+  end: "1941-09-30"
+  weight: 2
+  kind: katastrophe
+  summary: In einer Schlucht bei Kiew erschießen deutsche Einheiten innerhalb von zwei Tagen 33.771 Jüdinnen und Juden.
+  regions: [osteuropa]
+  themes: [gewalt-genozid]
+  places: [babyn-jar]
+  polities: [ns-staat]
+- id: wannsee-konferenz
+  title: Wannsee-Konferenz
+  date: "1942-01-20"
+  weight: 2
+  kind: ereignis
+  summary: Hohe Vertreter von Ministerien, Partei und SS besprechen unter Heydrichs Vorsitz die Organisation der Ermordung der europäischen Juden.
+  regions: [deutschland]
+  themes: [gewalt-genozid]
+  places: [wannsee]
+  persons: [reinhard-heydrich, adolf-eichmann]
+  polities: [ns-staat]
+- id: aktion-reinhardt
+  title: „Aktion Reinhardt“
+  start: "1942-03"
+  end: "1943-11"
+  weight: 2
+  kind: katastrophe
+  summary: In den Vernichtungslagern Bełżec, Sobibór und Treblinka werden rund 1,7 Millionen Menschen ermordet, vor allem polnische Jüdinnen und Juden.
+  regions: [osteuropa]
+  themes: [gewalt-genozid]
+  places: [belzec, sobibor, treblinka]
+  persons: [heinrich-himmler]
+  polities: [ns-staat]
+- id: aufstand-warschauer-ghetto
+  title: Aufstand im Warschauer Ghetto
+  start: "1943-04-19"
+  end: "1943-05-16"
+  weight: 2
+  kind: ereignis
+  summary: Jüdische Kämpferinnen und Kämpfer leisten wochenlang bewaffneten Widerstand gegen die Räumung des Ghettos.
+  regions: [osteuropa]
+  themes: [gewalt-genozid]
+  places: [warschau]
+  persons: [mordechaj-anielewicz]
+  polities: [ns-staat]
+- id: deportation-ungarischer-juden
+  title: Deportation der ungarischen Jüdinnen und Juden
+  start: "1944-05-15"
+  end: "1944-07-09"
+  weight: 3
+  kind: katastrophe
+  summary: Innerhalb weniger Wochen werden rund 437.000 Menschen aus Ungarn deportiert, die meisten nach Auschwitz, wo die Mehrheit sofort ermordet wird.
+  regions: [mitteleuropa, osteuropa]
+  themes: [gewalt-genozid]
+  places: [auschwitz]
+  persons: [adolf-eichmann]
+  polities: [ns-staat]
+- id: befreiung-auschwitz
+  title: Befreiung von Auschwitz
+  date: "1945-01-27"
+  weight: 2
+  kind: ereignis
+  summary: Soldaten der Roten Armee erreichen den Lagerkomplex Auschwitz und finden rund 7.000 kranke und entkräftete Häftlinge vor; heute internationaler Holocaust-Gedenktag.
+  regions: [osteuropa]
+  themes: [gewalt-genozid]
+  places: [auschwitz]
+  polities: [ns-staat]
+- id: kriegsende-europa
+  title: Kriegsende in Europa
+  date: "1945-05-08"
+  weight: 1
+  kind: krieg
+  summary: Mit der bedingungslosen Kapitulation der Wehrmacht endet der Zweite Weltkrieg in Europa; im Pazifik kapituliert Japan am 2. September 1945.
+  regions: [europa, deutschland]
+  themes: [krieg-militaer]
+  places: [berlin]
+  polities: [ns-staat]
+- id: nuernberger-prozess
+  title: Nürnberger Prozess gegen die Hauptkriegsverbrecher
+  start: "1945-11-20"
+  end: "1946-10-01"
+  weight: 2
+  kind: ereignis
+  summary: Ein internationaler Militärgerichtshof verhandelt erstmals Verbrechen gegen den Frieden, Kriegsverbrechen und Verbrechen gegen die Menschlichkeit.
+  regions: [deutschland]
+  themes: [verfassung-recht]
+  places: [nuernberg]
+- id: eichmann-prozess
+  title: Eichmann-Prozess in Jerusalem
+  start: "1961-04-11"
+  end: "1961-12-15"
+  weight: 3
+  kind: ereignis
+  summary: Der Prozess gegen den Organisator der Deportationen macht durch die Aussagen zahlreicher Überlebender den Holocaust weltweit bekannt.
+  regions: [levante]
+  themes: [verfassung-recht, gewalt-genozid]
+  persons: [adolf-eichmann]
+- id: frankfurter-auschwitz-prozess
+  title: Frankfurter Auschwitz-Prozess
+  start: "1963-12-20"
+  end: "1965-08-19"
+  weight: 3
+  kind: ereignis
+  summary: Vor dem Landgericht Frankfurt am Main werden Angehörige der Lagermannschaft von Auschwitz angeklagt – ein Wendepunkt der Auseinandersetzung mit den NS-Verbrechen in der Bundesrepublik.
+  regions: [deutschland]
+  themes: [verfassung-recht, gewalt-genozid]
+  persons: [fritz-bauer]

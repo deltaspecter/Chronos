@@ -1,0 +1,74 @@
+- id: adolf-hitler
+  name: Adolf Hitler
+  born: "1889-04-20"
+  died: "1945-04-30"
+  roles: [Diktator, „Führer“ der NSDAP, Reichskanzler]
+  summary: Vorsitzender der NSDAP, ab 1933 Reichskanzler und ab 1934 Diktator des nationalsozialistischen Deutschland; Hauptverantwortlicher für den Zweiten Weltkrieg und den Holocaust.
+  regions: [deutschland]
+  themes: [politik, gewalt-genozid]
+  places: [berlin]
+- id: heinrich-himmler
+  name: Heinrich Himmler
+  born: "1900-10-07"
+  died: "1945-05-23"
+  roles: [Reichsführer SS, Chef der deutschen Polizei]
+  summary: Reichsführer SS und Chef der deutschen Polizei, zentraler Organisator des Holocaust und des Systems der Konzentrationslager.
+  regions: [deutschland]
+  themes: [gewalt-genozid]
+  related: [reinhard-heydrich]
+- id: reinhard-heydrich
+  name: Reinhard Heydrich
+  born: "1904-03-07"
+  died: "1942-06-04"
+  roles: [Chef des Reichssicherheitshauptamts]
+  summary: Chef des Reichssicherheitshauptamts, Organisator der Einsatzgruppen und Vorsitzender der Wannsee-Konferenz; starb an den Folgen eines Attentats tschechoslowakischer Widerstandskämpfer.
+  regions: [deutschland]
+  themes: [gewalt-genozid]
+  places: [wannsee]
+  related: [heinrich-himmler, adolf-eichmann]
+- id: adolf-eichmann
+  name: Adolf Eichmann
+  born: "1906-03-19"
+  died: "1962-06-01"
+  roles: [SS-Obersturmbannführer, Leiter des „Judenreferats“ im RSHA]
+  summary: Organisator der Deportationen der europäischen Juden; 1960 in Argentinien vom israelischen Geheimdienst gefasst, 1961 in Jerusalem verurteilt und 1962 hingerichtet.
+  regions: [deutschland]
+  themes: [gewalt-genozid]
+  places: [wannsee]
+  related: [reinhard-heydrich]
+- id: emanuel-ringelblum
+  name: Emanuel Ringelblum
+  born: "1900-11-21"
+  died: "1944-03"
+  roles: [Historiker, Archivar]
+  summary: Polnisch-jüdischer Historiker, der im Warschauer Ghetto das Untergrundarchiv „Oneg Schabbat“ aufbaute; 1944 mit seiner Familie ermordet.
+  regions: [osteuropa]
+  themes: [geschichtsschreibung, gewalt-genozid]
+  places: [warschau]
+- id: mordechaj-anielewicz
+  name: Mordechaj Anielewicz
+  born: "1919"
+  died: "1943-05-08"
+  roles: [Widerstandskämpfer]
+  summary: Kommandant der Jüdischen Kampforganisation im Aufstand des Warschauer Ghettos 1943; kam im Kampf ums Leben.
+  regions: [osteuropa]
+  themes: [gewalt-genozid]
+  places: [warschau]
+- id: anne-frank
+  name: Anne Frank
+  aliases: [Annelies Marie Frank]
+  born: "1929-06-12"
+  died: "1945-03?"
+  roles: [Tagebuchautorin]
+  summary: In Frankfurt geborenes jüdisches Mädchen, das mit seiner Familie in Amsterdam untertauchte und ein weltberühmtes Tagebuch hinterließ; starb 1945 im KZ Bergen-Belsen.
+  regions: [westeuropa, deutschland]
+  themes: [gewalt-genozid]
+  places: [bergen-belsen, auschwitz]
+- id: fritz-bauer
+  name: Fritz Bauer
+  born: "1903-07-16"
+  died: "1968-07-01"
+  roles: [Jurist, Generalstaatsanwalt]
+  summary: Hessischer Generalstaatsanwalt, der die Frankfurter Auschwitz-Prozesse in Gang brachte und entscheidende Hinweise zur Ergreifung Eichmanns gab.
+  regions: [deutschland]
+  themes: [verfassung-recht]

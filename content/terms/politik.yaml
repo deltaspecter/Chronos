@@ -162,3 +162,116 @@
   aliases: [Junxian-System, Kommandanturen]
   definition: Gliederung des chinesischen Reiches in Kommandanturen (jun) und Kreise (xian) unter ernannten, absetzbaren Beamten statt erblicher Lehnsherren; unter Qin reichsweit eingeführt.
   themes: [verfassung-recht, imperien]
+- id: mansa
+  name: Mansa
+  definition: Herrschertitel im Reich Mali („König“, „Herrscher“), etwa Mansa Musa oder Mansa Sulayman.
+  themes: [politik]
+- id: griot
+  name: Griot
+  aliases: [Jeli, Djeli, Griots]
+  definition: In westafrikanischen Gesellschaften der Mande und benachbarter Völker Angehörige einer erblichen Berufsgruppe, die als Erzähler, Musiker, Genealogen und Berater die Geschichte mündlich bewahren und vortragen.
+  themes: [kultur-kunst, gesellschaft, geschichtsschreibung]
+- id: transsahara-handel
+  name: Transsahara-Handel
+  aliases: [Saharahandel, Karawanenhandel]
+  definition: Fernhandel mit Kamelkarawanen durch die Sahara zwischen Nord- und Westafrika, vor allem Gold, Salz, Textilien, Bücher und versklavte Menschen; besonders bedeutend vom 8. bis 16. Jh.
+  themes: [handelsnetze, wirtschaft-handel]
+- id: ablass
+  name: Ablass
+  aliases: [Ablasshandel, Indulgenz]
+  definition: Nach katholischer Lehre der Erlass zeitlicher Sündenstrafen, auch für Verstorbene im Fegefeuer; im Spätmittelalter oft gegen Geldspenden gewährt und Anlass von Luthers Kritik 1517.
+  themes: [religion]
+- id: konfessionalisierung
+  name: Konfessionalisierung
+  aliases: [Konfessionelles Zeitalter]
+  definition: Von Heinz Schilling und Wolfgang Reinhard geprägtes Forschungskonzept für die Zeit etwa 1550–1650, in der katholische, lutherische und reformierte Obrigkeiten Bekenntnisse festlegten, Untertanen disziplinierten und so den frühmodernen Staat stärkten.
+  themes: [religion, politik, geschichtsschreibung]
+- id: buchdruck
+  name: Buchdruck mit beweglichen Lettern
+  aliases: [Buchdruck, Gutenberg, Druckerpresse]
+  definition: Um 1450 von Johannes Gutenberg in Mainz entwickeltes Druckverfahren mit wiederverwendbaren Metallbuchstaben; in Ostasien gab es bewegliche Lettern bereits früher (China, Korea).
+  themes: [schrift-medien, wissenschaft-technik]
+- id: ancien-regime
+  name: Ancien Régime
+  aliases: [Alte Ordnung]
+  definition: Rückblickende Bezeichnung für die vorrevolutionäre Ordnung Frankreichs (und Europas) mit absoluter Monarchie, ständischer Gesellschaft und Privilegien von Adel und Geistlichkeit.
+  themes: [politik, gesellschaft]
+- id: generalstaende
+  name: Generalstände
+  aliases: [États généraux]
+  definition: Versammlung der Vertreter der drei Stände Frankreichs (Geistlichkeit, Adel, Dritter Stand), vom König einberufen; tagte 1789 erstmals seit 1614.
+  themes: [verfassung-recht]
+- id: jakobiner
+  name: Jakobiner
+  aliases: [Jakobinerklub, Club des Jacobins]
+  definition: Politischer Klub der Französischen Revolution, benannt nach seinem Versammlungsort im Pariser Kloster der Dominikaner (Jakobiner); 1793/94 Träger der radikalen Revolutionsregierung.
+  themes: [politik, revolutionen]
+- id: sansculotten
+  name: Sansculotten
+  aliases: [Sans-culottes]
+  definition: Pariser Handwerker, Ladenbesitzer und Arbeiter, die als radikale Volksbewegung die Französische Revolution 1792–1794 mitprägten; benannt nach ihren langen Hosen statt der adligen Kniebundhosen (culottes).
+  themes: [revolutionen, gesellschaft]
+- id: totaler-krieg
+  name: Totaler Krieg
+  definition: Kriegführung, die alle Ressourcen einer Gesellschaft – Wirtschaft, Arbeitskraft, Wissenschaft, Propaganda – mobilisiert und die Grenze zwischen Front und Heimat sowie zwischen Kombattanten und Zivilisten verwischt.
+  themes: [krieg-militaer]
+- id: grabenkrieg
+  name: Grabenkrieg
+  aliases: [Stellungskrieg, Schützengraben]
+  definition: Kriegführung aus befestigten Schützengräben, typisch für die Westfront des Ersten Weltkriegs, wo sich beide Seiten jahrelang auf engem Raum gegenüberlagen.
+  themes: [krieg-militaer]
+- id: kriegsschuldfrage
+  name: Kriegsschuldfrage
+  aliases: [Fischer-Kontroverse, Kriegsschuldlüge]
+  definition: Die Debatte über die Verantwortung für den Ausbruch des Ersten Weltkriegs, von Artikel 231 des Versailler Vertrags über die Fischer-Kontroverse der 1960er Jahre bis zu den Diskussionen um Christopher Clarks „Schlafwandler“.
+  themes: [krieg-militaer, geschichtsschreibung]
+- id: antisemitismus
+  name: Antisemitismus
+  aliases: [Judenfeindschaft, Judenhass, Antijudaismus]
+  definition: Feindschaft gegen Jüdinnen und Juden als Gruppe. Der Begriff entstand um 1879 für eine neue, „rassisch“ argumentierende Judenfeindschaft; er wird heute für alle Formen von Judenhass verwendet, auch den älteren religiösen Antijudaismus.
+  themes: [gewalt-genozid, religion]
+- id: shoah-begriff
+  name: Shoah
+  aliases: [Schoah, Holocaust]
+  definition: Hebräisch „Katastrophe“, „Zerstörung“; Bezeichnung für den Völkermord an den europäischen Jüdinnen und Juden, die viele dem aus dem Griechischen stammenden Wort „Holocaust“ („Brandopfer“) vorziehen.
+  themes: [gewalt-genozid]
+- id: einsatzgruppen
+  name: Einsatzgruppen
+  aliases: [Einsatzgruppen der Sicherheitspolizei und des SD]
+  definition: Mobile Mordeinheiten der Sicherheitspolizei und des SD, die hinter der Front in Polen und vor allem in der Sowjetunion Massenerschießungen von Jüdinnen und Juden, Roma, Kommunisten und anderen durchführten.
+  themes: [gewalt-genozid]
+- id: vernichtungslager
+  name: Vernichtungslager
+  aliases: [Todeslager]
+  definition: Lager, deren Hauptzweck die sofortige Ermordung der Deportierten war – Chełmno, Bełżec, Sobibór, Treblinka sowie die Vernichtungsbereiche von Auschwitz-Birkenau und Majdanek; zu unterscheiden von Konzentrations- und Arbeitslagern.
+  themes: [gewalt-genozid]
+- id: gerechte-unter-den-voelkern
+  name: Gerechte unter den Völkern
+  aliases: [Righteous Among the Nations, Chassidei Umot HaOlam]
+  definition: Ehrentitel, den die Gedenkstätte Yad Vashem nichtjüdischen Menschen verleiht, die unter Lebensgefahr Jüdinnen und Juden vor dem Holocaust retteten.
+  themes: [gewalt-genozid, gesellschaft]
+- id: ghetto
+  name: Ghetto
+  aliases: [Ghettos]
+  definition: Ursprünglich Bezeichnung für das jüdische Viertel Venedigs (1516); im Zweiten Weltkrieg von den deutschen Besatzern abgeriegelte Stadtviertel, in die Jüdinnen und Juden gezwungen wurden, als Vorstufe der Deportation und Ermordung.
+  themes: [gewalt-genozid, gesellschaft]
+- id: friedliche-revolution
+  name: Friedliche Revolution
+  aliases: [Wende, Herbst 1989]
+  definition: Bezeichnung für den gewaltfreien Sturz der SED-Herrschaft in der DDR im Herbst 1989 durch Massenproteste und Fluchtbewegung; viele Beteiligte ziehen sie dem von Egon Krenz geprägten Begriff „Wende“ vor.
+  themes: [revolutionen]
+- id: treuhandanstalt
+  name: Treuhandanstalt
+  aliases: [Treuhand]
+  definition: 1990 gegründete Anstalt, die bis 1994 die volkseigenen Betriebe der DDR privatisierte, sanierte oder stilllegte; bis heute ein Symbol der umstrittenen Transformation Ostdeutschlands.
+  themes: [wirtschaft-handel]
+- id: staatssicherheit
+  name: Ministerium für Staatssicherheit
+  aliases: [Stasi, MfS]
+  definition: Geheimpolizei und Nachrichtendienst der DDR („Schild und Schwert der Partei“), der die Bevölkerung mit einem dichten Netz hauptamtlicher und inoffizieller Mitarbeiter überwachte.
+  themes: [politik]
+- id: sed
+  name: SED
+  aliases: [Sozialistische Einheitspartei Deutschlands]
+  definition: 1946 durch die Zwangsvereinigung von KPD und SPD in der sowjetischen Zone gegründete Staatspartei der DDR, die ihren Führungsanspruch in der Verfassung verankerte.
+  themes: [politik]

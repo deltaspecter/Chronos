@@ -1,0 +1,56 @@
+- id: schlacht-von-kirina
+  title: Schlacht von Kirina
+  date: "~1235"
+  certainty: unsicher
+  dateNote: Datierung nach mündlicher Überlieferung und späteren arabischen Angaben.
+  weight: 2
+  kind: schlacht
+  summary: Nach der Überlieferung besiegt Sunjata Keita den König Sumanguru von Sosso und begründet das Reich Mali.
+  regions: [westafrika]
+  themes: [krieg-militaer, imperien]
+  places: [kirina]
+  persons: [sundiata-keita]
+  polities: [mali-reich]
+- id: pilgerfahrt-mansa-musa
+  title: Pilgerfahrt des Mansa Musa
+  date: "1324"
+  weight: 1
+  kind: ereignis
+  summary: Der Herrscher von Mali reist mit großem Gefolge und viel Gold über Kairo nach Mekka; Mali wird in der islamischen Welt und in Europa berühmt.
+  regions: [westafrika, aegypten, arabische-halbinsel]
+  themes: [religion, handelsnetze]
+  places: [kairo, timbuktu]
+  persons: [mansa-musa, al-umari, abu-ishaq-al-sahili]
+  polities: [mali-reich]
+- id: ibn-battuta-in-mali
+  title: Ibn Battuta besucht Mali
+  start: "1352"
+  end: "1353"
+  weight: 3
+  kind: ereignis
+  summary: Der marokkanische Reisende verbringt mehrere Monate im Reich Mali und hinterlässt die ausführlichste Augenzeugenschilderung.
+  regions: [westafrika]
+  themes: [geschichtsschreibung]
+  places: [walata, taghaza, timbuktu]
+  persons: [ibn-battuta, mansa-sulayman]
+  polities: [mali-reich]
+- id: katalanischer-atlas
+  title: Katalanischer Weltatlas
+  date: "~1375"
+  weight: 3
+  kind: ereignis
+  summary: Auf Mallorca entsteht eine Weltkarte, die Mansa Musa mit einem Goldklumpen zeigt – Ausdruck des Bildes von Mali als „Land des Goldes“.
+  regions: [iberische-halbinsel, westafrika]
+  themes: [wissenschaft-technik, kultur-kunst]
+  persons: [mansa-musa]
+- id: songhai-erobert-timbuktu
+  title: Songhai erobert Timbuktu
+  date: "1468"
+  weight: 2
+  kind: krieg
+  summary: Sunni Ali von Songhai nimmt Timbuktu ein; Songhai löst Mali als Vormacht am Niger ab.
+  regions: [westafrika]
+  themes: [krieg-militaer, imperien]
+  places: [timbuktu]
+  persons: [sunni-ali]
+  polities: [songhai-reich, mali-reich]

@@ -1,0 +1,86 @@
+- id: helmut-kohl
+  name: Helmut Kohl
+  born: "1930-04-03"
+  died: "2017-06-16"
+  roles: [Bundeskanzler]
+  summary: Bundeskanzler 1982–1998 (CDU), der nach dem Mauerfall die schnelle Vereinigung vorantrieb.
+  regions: [deutschland]
+  themes: [politik]
+  places: [bonn, berlin]
+  related: [michail-gorbatschow, hans-dietrich-genscher, wolfgang-schaeuble]
+- id: michail-gorbatschow
+  name: Michail Gorbatschow
+  aliases: [Michail Sergejewitsch Gorbatschow, Gorbi]
+  born: "1931-03-02"
+  died: "2022-08-30"
+  roles: [Generalsekretär der KPdSU, Präsident der Sowjetunion]
+  summary: Sowjetischer Parteichef ab 1985, dessen Reformpolitik (Perestroika, Glasnost) und Verzicht auf militärisches Eingreifen die Umbrüche von 1989 ermöglichten; Friedensnobelpreis 1990.
+  regions: [russland]
+  themes: [politik]
+  places: [moskau]
+  related: [helmut-kohl, george-h-w-bush]
+- id: erich-honecker
+  name: Erich Honecker
+  born: "1912-08-25"
+  died: "1994-05-29"
+  roles: [Generalsekretär der SED, Staatsratsvorsitzender]
+  summary: Führender SED-Politiker, 1971–1989 Partei- und ab 1976 auch Staatschef der DDR; trat am 18. Oktober 1989 zurück.
+  regions: [deutschland]
+  themes: [politik]
+  places: [berlin]
+- id: egon-krenz
+  name: Egon Krenz
+  born: "1937-03-19"
+  roles: [Generalsekretär der SED]
+  summary: Nachfolger Honeckers im Oktober 1989, der eine „Wende“ ankündigte; trat im Dezember 1989 zurück.
+  regions: [deutschland]
+  themes: [politik]
+- id: guenter-schabowski
+  name: Günter Schabowski
+  born: "1929-01-04"
+  died: "2015-11-01"
+  roles: [SED-Politbüromitglied]
+  summary: Mitglied des SED-Politbüros, dessen Pressekonferenz am 9. November 1989 die Öffnung der Mauer auslöste.
+  regions: [deutschland]
+  themes: [politik]
+  places: [berlin]
+- id: hans-dietrich-genscher
+  name: Hans-Dietrich Genscher
+  born: "1927-03-21"
+  died: "2016-04-01"
+  roles: [Bundesaußenminister]
+  summary: Bundesaußenminister 1974–1992 (FDP), verkündete am 30. September 1989 in Prag die Ausreise der Botschaftsflüchtlinge und verhandelte den Zwei-plus-Vier-Vertrag.
+  regions: [deutschland]
+  themes: [politik]
+  places: [prag-botschaft]
+- id: baerbel-bohley
+  name: Bärbel Bohley
+  born: "1945-05-24"
+  died: "2010-09-11"
+  roles: [Malerin, Bürgerrechtlerin]
+  summary: DDR-Bürgerrechtlerin und Mitbegründerin des Neuen Forums 1989.
+  regions: [deutschland]
+  themes: [politik, revolutionen]
+- id: lothar-de-maiziere
+  name: Lothar de Maizière
+  born: "1940-03-02"
+  roles: [Ministerpräsident der DDR]
+  summary: Letzter Ministerpräsident der DDR (April bis Oktober 1990), der mit der Bundesregierung die Vereinigung aushandelte.
+  regions: [deutschland]
+  themes: [politik]
+- id: wolfgang-schaeuble
+  name: Wolfgang Schäuble
+  born: "1942-09-18"
+  died: "2023-12-26"
+  roles: [Bundesinnenminister]
+  summary: Bundesinnenminister 1989–1991 (CDU), Verhandlungsführer der Bundesrepublik beim Einigungsvertrag.
+  regions: [deutschland]
+  themes: [politik, verfassung-recht]
+- id: george-h-w-bush
+  name: George H. W. Bush
+  born: "1924-06-12"
+  died: "2018-11-30"
+  roles: [Präsident der USA]
+  summary: Präsident der Vereinigten Staaten 1989–1993, der die deutsche Einheit unter der Bedingung der NATO-Mitgliedschaft unterstützte.
+  regions: [nordamerika]
+  themes: [politik]

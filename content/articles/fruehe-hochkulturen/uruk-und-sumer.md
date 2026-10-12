@@ -18,6 +18,7 @@ polities: [reich-von-akkad, ur-iii-reich, altbabylonisches-reich]
 terms: [keilschrift, stadtstaat, zikkurat]
 related: [neolithisierung-vorderer-orient, altes-reich-aegypten, achaemenidenreich]
 bibliography: [van-de-mieroop-2016, nissen-2012, algaze-2008, schmandt-besserat-1992, nissen-damerow-englund-1993, selz-2005, crawford-2004, jacobsen-adams-1958, q-sumerische-koenigsliste, q-gilgamesch, q-codex-hammurapi, etcsl, cdli]
+image: proto-keilschrift
 status: erstfassung
 version: 1
 updated: 2026-10-12
@@ -86,6 +87,8 @@ Sargons Enkel Naram-Sin ließ sich als Gott verehren. Das Reich zerfiel im 22. J
 ## Die Dritte Dynastie von Ur (ca. 2112–2004 v. Chr.)
 
 Unter [[person:ur-namma|Ur-Namma]] und seinem Sohn Schulgi entstand ein neues Reich mit Zentrum in Ur, die [[staat:ur-iii-reich|Dritte Dynastie von Ur]]. Ur-Namma ließ die monumentale [[begriff:zikkurat|Zikkurat]] von Ur errichten, deren Reste bis heute stehen, und ihm wird die älteste bekannte Rechtssammlung zugeschrieben. Der Staat verwaltete Landwirtschaft, Viehhaltung und Werkstätten mit einer beispiellosen Bürokratie; Zehntausende Verwaltungstexte dieser Zeit sind erhalten.[@van-de-mieroop-2016] Um 2004 v. Chr. eroberten Elamer aus dem Südwestiran die Stadt Ur.
+
+![[zikkurat-ur]]
 
 ## Gesellschaft und Wirtschaft
 

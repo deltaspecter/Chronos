@@ -1,0 +1,105 @@
+- id: hus-hinrichtung
+  title: Hinrichtung des Jan Hus
+  date: "1415-07-06"
+  weight: 3
+  kind: ereignis
+  summary: Der böhmische Reformer wird auf dem Konzil von Konstanz trotz Zusicherung freien Geleits als Ketzer verbrannt.
+  regions: [mitteleuropa]
+  themes: [religion]
+  places: [konstanz]
+  persons: [jan-hus]
+- id: thesen-gegen-den-ablass
+  title: Luthers 95 Thesen gegen den Ablass
+  date: "1517-10-31"
+  weight: 1
+  kind: ereignis
+  summary: Luther schickt Erzbischof Albrecht von Mainz 95 Thesen zur Disputation über den Ablass – Beginn der Reformation.
+  regions: [deutschland]
+  themes: [religion]
+  places: [wittenberg]
+  persons: [martin-luther, albrecht-von-brandenburg, johann-tetzel]
+  polities: [heiliges-roemisches-reich]
+- id: reichstag-zu-worms
+  title: Luther auf dem Reichstag zu Worms
+  date: "1521-04-18"
+  weight: 2
+  kind: ereignis
+  summary: Luther verweigert vor Kaiser Karl V. den Widerruf; das Wormser Edikt verhängt die Reichsacht über ihn.
+  regions: [deutschland]
+  themes: [religion, politik]
+  places: [worms]
+  persons: [martin-luther, karl-v, friedrich-der-weise]
+  polities: [heiliges-roemisches-reich]
+- id: septembertestament
+  title: Luthers Übersetzung des Neuen Testaments („Septembertestament“)
+  date: "1522-09"
+  weight: 3
+  kind: ereignis
+  summary: Die auf der Wartburg entstandene Übersetzung erscheint im Druck und prägt die deutsche Schriftsprache.
+  regions: [deutschland]
+  themes: [schrift-medien, religion]
+  places: [wartburg, wittenberg]
+  persons: [martin-luther]
+- id: bauernkrieg
+  title: Deutscher Bauernkrieg
+  start: "1524"
+  end: "1526"
+  weight: 2
+  kind: revolution
+  summary: Aufstände von Bauern, Bergleuten und Städtern in Süd- und Mitteldeutschland, begründet mit dem Evangelium; blutig niedergeschlagen.
+  regions: [deutschland, mitteleuropa]
+  themes: [revolutionen, gesellschaft, religion]
+  places: [frankenhausen]
+  persons: [thomas-muentzer, martin-luther]
+  polities: [heiliges-roemisches-reich]
+- id: schlacht-bei-frankenhausen
+  title: Schlacht bei Frankenhausen
+  date: "1525-05-15"
+  weight: 3
+  kind: schlacht
+  summary: Fürstliche Truppen vernichten das thüringische Bauernheer; Thomas Müntzer wird gefangen und hingerichtet.
+  regions: [deutschland]
+  themes: [krieg-militaer, revolutionen]
+  places: [frankenhausen]
+  persons: [thomas-muentzer]
+- id: protestation-speyer
+  title: Protestation von Speyer
+  date: "1529-04-19"
+  weight: 3
+  kind: ereignis
+  summary: Evangelische Fürsten und Städte protestieren gegen einen Reichstagsbeschluss – Ursprung der Bezeichnung „Protestanten“.
+  regions: [deutschland]
+  themes: [religion, politik]
+  places: [speyer]
+  polities: [heiliges-roemisches-reich]
+- id: confessio-augustana
+  title: Confessio Augustana
+  date: "1530-06-25"
+  weight: 3
+  kind: ereignis
+  summary: Die evangelischen Stände legen dem Reichstag in Augsburg ihr von Melanchthon verfasstes Bekenntnis vor.
+  regions: [deutschland]
+  themes: [religion]
+  places: [augsburg]
+  persons: [philipp-melanchthon, karl-v]
+  polities: [heiliges-roemisches-reich]
+- id: konzil-von-trient
+  title: Konzil von Trient
+  start: "1545-12-13"
+  end: "1563-12-04"
+  weight: 2
+  kind: ereignis
+  summary: Das Konzil klärt die katholische Lehre in Abgrenzung zur Reformation und leitet innere Reformen der Kirche ein.
+  regions: [italien, europa]
+  themes: [religion]
+  places: [trient]
+- id: augsburger-religionsfrieden
+  title: Augsburger Religionsfrieden
+  date: "1555-09-25"
+  weight: 2
+  kind: vertrag
+  summary: Das Reich erkennt das lutherische Bekenntnis an; die Landesherren bestimmen die Konfession ihrer Untertanen.
+  regions: [deutschland]
+  themes: [religion, verfassung-recht]
+  places: [augsburg]
+  polities: [heiliges-roemisches-reich]

@@ -160,7 +160,6 @@ function Atlas({ index }: { index: Indexed }) {
       }
     }, 50)
     return () => clearTimeout(t)
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [params, projection])
 
   // Zeitfilter: Fenster abhängig von der Dichte der Epoche

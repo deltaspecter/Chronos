@@ -1,0 +1,53 @@
+- id: paris
+  name: Paris
+  coords: [2.3522, 48.8566]
+  categories: [stadt, hauptstadt, kulturzentrum]
+  summary: Hauptstadt Frankreichs und Zentrum der Französischen Revolution.
+  regions: [frankreich]
+  themes: [politik]
+- id: versailles
+  name: Versailles
+  coords: [2.1204, 48.8049]
+  categories: [stadt, hauptstadt]
+  summary: Residenz der französischen Könige seit Ludwig XIV.; Tagungsort der Generalstände 1789.
+  regions: [frankreich]
+  themes: [politik, kultur-kunst]
+- id: bastille
+  name: Bastille
+  coords: [2.3691, 48.8532]
+  categories: [stadt]
+  start: "1370"
+  end: "1789"
+  summary: Festung und Staatsgefängnis in Paris, am 14. Juli 1789 gestürmt und anschließend abgerissen; heute Place de la Bastille.
+  regions: [frankreich]
+  themes: [revolutionen]
+- id: varennes
+  name: Varennes-en-Argonne
+  aliases: [Varennes]
+  coords: [5.0350, 49.2256]
+  categories: [stadt]
+  summary: Kleinstadt in Lothringen, in der die fliehende Königsfamilie im Juni 1791 erkannt und festgehalten wurde.
+  regions: [frankreich]
+- id: valmy
+  name: Valmy
+  coords: [4.7650, 49.0800]
+  categories: [schlachtfeld]
+  summary: Dorf in der Champagne, bei dem am 20. September 1792 die französische Revolutionsarmee den Vormarsch der Preußen aufhielt.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+- id: vendee
+  name: Vendée
+  coords: [-1.3000, 46.7000]
+  location: ungefaehr
+  categories: [region]
+  summary: Region im Westen Frankreichs, in der 1793 ein Aufstand gegen die Revolution ausbrach, der in einem verheerenden Bürgerkrieg niedergeschlagen wurde.
+  regions: [frankreich]
+  themes: [gewalt-genozid, krieg-militaer]
+- id: cap-francais
+  name: Cap-Français
+  aliases: [Cap-Haïtien, Le Cap]
+  coords: [-72.2000, 19.7600]
+  categories: [stadt, hafen]
+  summary: Wichtigste Hafenstadt der französischen Kolonie Saint-Domingue, Zentrum der Haitianischen Revolution; heute Cap-Haïtien.
+  regions: [karibik]
+  themes: [sklaverei-unfreiheit, revolutionen]

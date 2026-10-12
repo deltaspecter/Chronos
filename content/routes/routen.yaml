@@ -20,3 +20,24 @@
   summary: Netz von Karawanenwegen zwischen China und dem Mittelmeer über Zentralasien und Iran; der Begriff stammt von Ferdinand von Richthofen (1877). Dargestellt ist eine schematische Hauptroute von Chang'an über Dunhuang, Kaschgar, Samarkand und Merw nach Antiochia – tatsächlich gab es viele, sich wandelnde Wege.
   themes: [handelsnetze]
   regions: [china, zentralasien, iran, westasien]
+- id: transsahara-westroute
+  name: Westliche Transsahara-Route
+  aliases: [Karawanenweg Timbuktu–Sijilmasa, Salzstraße]
+  start: "~800"
+  end: "~1600"
+  kind: handel
+  schematic: true
+  path: [[-3.0074, 16.7735], [-4.0, 19.5], [-4.95, 23.6], [-5.5, 27.0], [-4.27, 31.28]]
+  summary: Karawanenweg zwischen Timbuktu, den Salzminen von Taghaza und Sijilmasa am Nordrand der Sahara; über ihn gelangte westafrikanisches Gold in den Mittelmeerraum. Schematischer Verlauf über Hauptstationen.
+  themes: [handelsnetze]
+  regions: [westafrika, nordafrika]
+- id: pilgerweg-mansa-musa
+  name: Pilgerweg des Mansa Musa (1324)
+  start: "1324"
+  end: "1325"
+  kind: pilger
+  schematic: true
+  path: [[-8.38, 11.38], [-7.03, 17.29], [0.2, 27.9], [10.0, 26.0], [20.0, 27.0], [31.24, 30.04], [34.0, 28.0], [39.83, 21.42]]
+  summary: Ungefährer Weg der Pilgerfahrt Mansa Musas über die Sahara nach Kairo und Mekka. Der genaue Verlauf ist nicht überliefert; die Darstellung ist eine grobe Annäherung über wahrscheinliche Stationen (Walata, Tuat, Kairo).
+  themes: [religion]
+  regions: [westafrika, nordafrika, aegypten, arabische-halbinsel]

@@ -1,0 +1,74 @@
+- id: wittenberg
+  name: Wittenberg
+  aliases: [Lutherstadt Wittenberg]
+  coords: [12.6484, 51.8664]
+  categories: [stadt, kulturzentrum]
+  summary: Universitätsstadt an der Elbe, Wirkungsort Luthers und Melanchthons und Ausgangspunkt der Reformation; UNESCO-Welterbe (Luthergedenkstätten).
+  regions: [deutschland]
+  themes: [religion]
+- id: worms
+  name: Worms
+  coords: [8.3620, 49.6320]
+  categories: [stadt]
+  summary: Reichsstadt am Rhein, in der Luther 1521 vor Kaiser und Reichstag den Widerruf verweigerte.
+  regions: [deutschland]
+  themes: [politik]
+- id: wartburg
+  name: Wartburg
+  coords: [10.3070, 50.9660]
+  categories: [kulturzentrum]
+  modernName: bei Eisenach
+  summary: Burg bei Eisenach, auf der Luther 1521/22 versteckt lebte und das Neue Testament übersetzte; UNESCO-Welterbe.
+  regions: [deutschland]
+  themes: [schrift-medien]
+- id: augsburg
+  name: Augsburg
+  coords: [10.8978, 48.3705]
+  categories: [stadt]
+  summary: Reichsstadt, Sitz der Fugger; Ort der Confessio Augustana (1530) und des Augsburger Religionsfriedens (1555).
+  regions: [deutschland]
+  themes: [wirtschaft-handel, religion]
+- id: zuerich
+  name: Zürich
+  coords: [8.5417, 47.3769]
+  categories: [stadt]
+  summary: Stadt, in der Huldrych Zwingli ab 1519 die Reformation einführte.
+  regions: [mitteleuropa]
+  themes: [religion]
+- id: genf
+  name: Genf
+  aliases: [Genève, Geneva]
+  coords: [6.1432, 46.2044]
+  categories: [stadt, kulturzentrum]
+  summary: Stadt, in der Johannes Calvin eine reformierte Kirchenordnung aufbaute; „protestantisches Rom“.
+  regions: [mitteleuropa]
+  themes: [religion]
+- id: frankenhausen
+  name: Bad Frankenhausen
+  aliases: [Frankenhausen]
+  coords: [11.1000, 51.3560]
+  categories: [schlachtfeld]
+  summary: Ort in Thüringen, bei dem am 15. Mai 1525 ein Bauernheer vernichtend geschlagen wurde.
+  regions: [deutschland]
+  themes: [krieg-militaer]
+- id: speyer
+  name: Speyer
+  coords: [8.4310, 49.3170]
+  categories: [stadt]
+  summary: Reichsstadt am Rhein; auf dem Reichstag 1529 protestierten evangelische Stände gegen die Mehrheit – Ursprung des Namens „Protestanten“.
+  regions: [deutschland]
+- id: trient
+  name: Trient
+  aliases: [Trento, Tridentum]
+  coords: [11.1217, 46.0679]
+  categories: [stadt]
+  summary: Stadt in Norditalien, Tagungsort des Konzils von Trient (1545–1563).
+  regions: [italien]
+  themes: [religion]
+- id: konstanz
+  name: Konstanz
+  coords: [9.1750, 47.6600]
+  categories: [stadt]
+  summary: Stadt am Bodensee, Tagungsort des Konzils von Konstanz (1414–1418), auf dem Jan Hus verbrannt wurde.
+  regions: [deutschland]
+  themes: [religion]

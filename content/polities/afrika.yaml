@@ -33,3 +33,40 @@
   themes: [imperien, religion]
   predecessors: [kerma-reich]
   weight: 2
+- id: ghana-reich
+  name: Reich Ghana (Wagadu)
+  aliases: [Ghana, Wagadu, Altes Ghana]
+  start: "~700"
+  end: "~1200"
+  spanNote: Erste Erwähnung in arabischen Quellen im 8. Jh.; die Anfänge reichen vermutlich weiter zurück.
+  capital: koumbi-saleh
+  summary: Reich der Soninke in der westlichen Sahelzone, das den Goldhandel durch die Sahara kontrollierte; nicht identisch mit dem heutigen Staat Ghana.
+  regions: [westafrika]
+  themes: [imperien, handelsnetze]
+  successors: [mali-reich]
+  weight: 2
+- id: mali-reich
+  name: Reich Mali
+  aliases: [Mali-Reich, Malireich, Manden]
+  start: "~1235"
+  end: "~1600"
+  spanNote: Höhepunkt im 14. Jh.; ab dem 15. Jh. auf ein kleineres Gebiet beschränkt.
+  capital: niani
+  summary: Westafrikanisches Großreich der Mande, von Sunjata begründet, unter Mansa Musa auf dem Höhepunkt; kontrollierte den Goldhandel durch die Sahara.
+  regions: [westafrika]
+  themes: [imperien, handelsnetze, religion]
+  predecessors: [ghana-reich]
+  successors: [songhai-reich]
+  weight: 1
+- id: songhai-reich
+  name: Songhai-Reich
+  aliases: [Songhay, Songhai]
+  start: "~1464"
+  end: "1591"
+  spanNote: Ende nach der Niederlage gegen ein marokkanisches Heer bei Tondibi 1591.
+  capital: gao
+  summary: Westafrikanisches Großreich mit Zentrum in Gao, das im 15. und 16. Jh. Mali als Vormacht am Niger ablöste.
+  regions: [westafrika]
+  themes: [imperien]
+  predecessors: [mali-reich]
+  weight: 2

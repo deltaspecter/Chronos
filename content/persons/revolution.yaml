@@ -1,0 +1,99 @@
+- id: ludwig-xvi
+  name: Ludwig XVI.
+  aliases: [Louis XVI, Louis Capet]
+  born: "1754-08-23"
+  died: "1793-01-21"
+  roles: [König von Frankreich]
+  summary: König von Frankreich seit 1774; berief 1789 die Generalstände ein, wurde 1792 abgesetzt und im Januar 1793 hingerichtet.
+  regions: [frankreich]
+  themes: [politik]
+  places: [versailles, paris, varennes]
+  related: [marie-antoinette]
+- id: marie-antoinette
+  name: Marie-Antoinette
+  aliases: [Maria Antonia von Österreich]
+  born: "1755-11-02"
+  died: "1793-10-16"
+  roles: [Königin von Frankreich]
+  summary: Tochter Maria Theresias und Ehefrau Ludwigs XVI.; Zielscheibe heftiger Propaganda, im Oktober 1793 hingerichtet.
+  regions: [frankreich]
+  themes: [politik]
+  places: [versailles, paris]
+  related: [ludwig-xvi]
+- id: sieyes
+  name: Emmanuel Joseph Sieyès
+  aliases: [Abbé Sieyès]
+  born: "1748-05-03"
+  died: "1836-06-20"
+  roles: [Geistlicher, Politiker, Theoretiker]
+  summary: Verfasser der Flugschrift „Was ist der Dritte Stand?“ (1789), Abgeordneter der Nationalversammlung und Mitorganisator des Staatsstreichs von 1799.
+  regions: [frankreich]
+  themes: [politik, verfassung-recht]
+  related: [napoleon-bonaparte]
+- id: mirabeau
+  name: Honoré-Gabriel de Riqueti, Graf von Mirabeau
+  aliases: [Mirabeau]
+  born: "1749-03-09"
+  died: "1791-04-02"
+  roles: [Politiker, Redner]
+  summary: Adliger Abgeordneter des Dritten Standes und einflussreichster Redner der Nationalversammlung in der ersten Phase der Revolution.
+  regions: [frankreich]
+  themes: [politik]
+- id: lafayette
+  name: Gilbert du Motier, Marquis de La Fayette
+  aliases: [Lafayette, La Fayette]
+  born: "1757-09-06"
+  died: "1834-05-20"
+  roles: [General, Politiker]
+  summary: Veteran der Amerikanischen Revolution, Kommandant der Pariser Nationalgarde und Mitverfasser der Menschenrechtserklärung von 1789.
+  regions: [frankreich, nordamerika]
+  themes: [politik, revolutionen]
+- id: robespierre
+  name: Maximilien de Robespierre
+  aliases: [Robespierre, „der Unbestechliche“]
+  born: "1758-05-06"
+  died: "1794-07-28"
+  roles: [Rechtsanwalt, Politiker]
+  summary: Jakobiner und führendes Mitglied des Wohlfahrtsausschusses während der Terreur; im Juli 1794 gestürzt und hingerichtet.
+  regions: [frankreich]
+  themes: [politik, revolutionen]
+  places: [paris]
+  related: [danton]
+- id: danton
+  name: Georges Danton
+  born: "1759-10-26"
+  died: "1794-04-05"
+  roles: [Rechtsanwalt, Politiker]
+  summary: Wortführer der Pariser Revolutionäre, Justizminister 1792 und Mitglied des ersten Wohlfahrtsausschusses; im April 1794 hingerichtet.
+  regions: [frankreich]
+  themes: [politik, revolutionen]
+  related: [robespierre]
+- id: olympe-de-gouges
+  name: Olympe de Gouges
+  aliases: [Marie Gouze]
+  born: "1748-05-07"
+  died: "1793-11-03"
+  roles: [Schriftstellerin, Frauenrechtlerin]
+  summary: Verfasserin der „Erklärung der Rechte der Frau und Bürgerin“ (1791); als Gegnerin der Jakobiner hingerichtet.
+  regions: [frankreich]
+  themes: [gesellschaft, verfassung-recht]
+- id: toussaint-louverture
+  name: Toussaint Louverture
+  aliases: [Toussaint L'Ouverture, François-Dominique Toussaint]
+  born: "~1743"
+  died: "1803-04-07"
+  roles: [Revolutionsführer, General]
+  summary: Ehemals versklavter Anführer der Haitianischen Revolution und Gouverneur von Saint-Domingue; starb in französischer Haft.
+  regions: [karibik]
+  themes: [revolutionen, sklaverei-unfreiheit]
+  places: [cap-francais]
+- id: napoleon-bonaparte
+  name: Napoleon Bonaparte
+  aliases: [Napoleon I., Napoléon]
+  born: "1769-08-15"
+  died: "1821-05-05"
+  roles: [General, Erster Konsul, Kaiser der Franzosen]
+  summary: Korsischer General, der 1799 durch einen Staatsstreich die Macht übernahm, sich 1804 zum Kaiser krönte und große Teile Europas eroberte; 1815 endgültig besiegt.
+  regions: [frankreich, europa]
+  themes: [politik, krieg-militaer, imperien]
+  places: [paris]

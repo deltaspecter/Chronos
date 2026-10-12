@@ -1,0 +1,131 @@
+- id: heiliges-roemisches-reich
+  name: Heiliges Römisches Reich
+  aliases: [Heiliges Römisches Reich Deutscher Nation, Altes Reich, Reich]
+  start: "962"
+  end: "1806"
+  spanNote: 962 (Kaiserkrönung Ottos I.) ist ein übliches, aber konventionelles Anfangsdatum; 1806 legte Franz II. die Kaiserkrone nieder.
+  summary: Übernationaler Herrschaftsverband in Mitteleuropa unter einem gewählten Kaiser, bestehend aus Hunderten Fürstentümern, geistlichen Territorien und Reichsstädten.
+  regions: [mitteleuropa, deutschland, italien]
+  themes: [politik, verfassung-recht]
+  weight: 1
+- id: koenigreich-frankreich
+  name: Königreich Frankreich
+  aliases: [Ancien Régime, Französische Monarchie]
+  start: "987"
+  end: "1792"
+  spanNote: 987 bezeichnet den Herrschaftsantritt Hugo Capets; 1792 wurde die Monarchie abgeschafft (Wiederherstellung 1814/15–1848).
+  capital: paris
+  summary: Französische Monarchie unter den Kapetingern, Valois und Bourbonen bis zur Abschaffung des Königtums in der Revolution.
+  regions: [frankreich]
+  themes: [politik]
+  successors: [erste-franzoesische-republik]
+  weight: 2
+- id: erste-franzoesische-republik
+  name: Erste Französische Republik
+  aliases: [Französische Republik 1792]
+  start: "1792-09-21"
+  end: "1804-05-18"
+  spanNote: Endet formal mit der Proklamation des Kaiserreichs; ab 1799 faktisch Herrschaft Napoleons.
+  capital: paris
+  summary: Die nach Abschaffung der Monarchie ausgerufene Republik – mit Nationalkonvent, Direktorium und Konsulat.
+  regions: [frankreich]
+  themes: [politik, revolutionen]
+  predecessors: [koenigreich-frankreich]
+  weight: 2
+- id: deutsches-kaiserreich
+  name: Deutsches Kaiserreich
+  aliases: [Deutsches Reich (1871–1918), Kaiserreich]
+  start: "1871-01-18"
+  end: "1918-11-09"
+  summary: Bundesstaat unter preußischer Führung mit einem erblichen Kaiser, gegründet nach dem Deutsch-Französischen Krieg; endete mit der Novemberrevolution.
+  regions: [deutschland]
+  themes: [politik, imperien]
+  predecessors: [heiliges-roemisches-reich]
+  successors: [weimarer-republik]
+  weight: 1
+- id: oesterreich-ungarn
+  name: Österreich-Ungarn
+  aliases: [Habsburgermonarchie, Donaumonarchie, k. u. k. Monarchie]
+  start: "1867"
+  end: "1918-11"
+  summary: Vielvölkerstaat der Habsburger, seit dem Ausgleich von 1867 eine Doppelmonarchie; zerfiel im Herbst 1918 in Nationalstaaten.
+  regions: [mitteleuropa, suedosteuropa, osteuropa]
+  themes: [imperien]
+  weight: 1
+- id: russisches-kaiserreich
+  name: Russisches Kaiserreich
+  aliases: [Zarenreich, Russisches Reich]
+  start: "1721"
+  end: "1917"
+  summary: Von den Romanows regiertes Reich von Osteuropa bis zum Pazifik; endete mit den Revolutionen von 1917.
+  regions: [russland, osteuropa, zentralasien]
+  themes: [imperien]
+  weight: 1
+- id: osmanisches-reich
+  name: Osmanisches Reich
+  aliases: [Osmanen, Türkenreich]
+  start: "~1300"
+  end: "1922"
+  capital: istanbul
+  spanNote: Hauptstadt seit 1453 Konstantinopel (Istanbul); das Sultanat wurde 1922 abgeschafft, 1923 die Republik Türkei gegründet.
+  summary: Großreich, das über sechs Jahrhunderte Teile Südosteuropas, Westasiens und Nordafrikas beherrschte.
+  regions: [anatolien, suedosteuropa, westasien, nordafrika]
+  themes: [imperien]
+  weight: 1
+- id: weimarer-republik
+  name: Weimarer Republik
+  aliases: [Deutsches Reich (1918–1933)]
+  start: "1918-11-09"
+  end: "1933-01-30"
+  summary: Erste parlamentarische Demokratie in Deutschland, benannt nach dem Tagungsort der Nationalversammlung 1919; endete mit der Machtübertragung an Hitler.
+  regions: [deutschland]
+  themes: [politik]
+  predecessors: [deutsches-kaiserreich]
+  successors: [ns-staat]
+  weight: 2
+- id: ns-staat
+  name: Nationalsozialistisches Deutschland
+  aliases: [NS-Staat, „Drittes Reich“, Deutsches Reich (1933–1945), NS-Diktatur]
+  start: "1933-01-30"
+  end: "1945-05-08"
+  capital: berlin
+  summary: Diktatur der NSDAP unter Adolf Hitler, verantwortlich für den Zweiten Weltkrieg in Europa, den Holocaust und zahlreiche weitere Massenverbrechen.
+  regions: [deutschland, europa]
+  themes: [politik, gewalt-genozid]
+  predecessors: [weimarer-republik]
+  successors: [bundesrepublik-deutschland, ddr]
+  weight: 1
+- id: bundesrepublik-deutschland
+  name: Bundesrepublik Deutschland
+  aliases: [BRD, Bundesrepublik, Westdeutschland]
+  start: "1949-05-23"
+  capital: berlin
+  spanNote: Regierungssitz bis 1999 Bonn; seit dem Beitritt der DDR am 3. Oktober 1990 das vereinte Deutschland.
+  summary: Parlamentarisch-demokratischer Bundesstaat, 1949 aus den westlichen Besatzungszonen gegründet und seit 1990 der Staat des vereinten Deutschland.
+  regions: [deutschland]
+  themes: [politik, verfassung-recht]
+  predecessors: [ns-staat]
+  weight: 1
+- id: ddr
+  name: Deutsche Demokratische Republik
+  aliases: [DDR, Ostdeutschland]
+  start: "1949-10-07"
+  end: "1990-10-03"
+  capital: berlin
+  summary: Von der SED beherrschter Staat in der ehemaligen sowjetischen Besatzungszone; trat 1990 der Bundesrepublik bei.
+  regions: [deutschland]
+  themes: [politik]
+  predecessors: [ns-staat]
+  successors: [bundesrepublik-deutschland]
+  weight: 1
+- id: sowjetunion
+  name: Sowjetunion
+  aliases: [UdSSR, Union der Sozialistischen Sowjetrepubliken]
+  start: "1922-12-30"
+  end: "1991-12-26"
+  capital: moskau
+  summary: Von der Kommunistischen Partei beherrschter Bundesstaat, Supermacht im Kalten Krieg; 1991 aufgelöst.
+  regions: [russland, osteuropa, zentralasien]
+  themes: [politik, imperien]
+  predecessors: [russisches-kaiserreich]
+  weight: 1

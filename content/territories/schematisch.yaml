@@ -1,0 +1,55 @@
+# Schematische Herrschaftsgebiete für den Atlas.
+# WICHTIG: Grob vereinfachte Umrisse zu einem Stichjahr, redaktionell nach allgemein publizierten
+# Übersichtskarten gezeichnet. Keine Grenzen im modernen Sinn; Kontrolle in Randgebieten war oft
+# lose oder umstritten. Für Detailfragen ist Fachliteratur heranzuziehen.
+- id: imperium-romanum-117
+  polity: roemisches-kaiserreich
+  name: Römisches Reich um 117 n. Chr.
+  start: "117"
+  end: "117"
+  certainty: wahrscheinlich
+  basis: Redaktionelle Vereinfachung nach gängigen Übersichtskarten zur größten Ausdehnung unter Trajan (vgl. die Literatur im Artikel zu Augustus).
+  note: Schematischer Umriss einschließlich der nur 116–117 bestehenden Provinzen Armenia, Mesopotamia und Assyria, die Hadrian wieder aufgab. Das Mittelmeer ist als römisch beherrschter Raum eingeschlossen.
+  rings:
+    - [[-8.9, 43.3], [-9.4, 39.0], [-8.9, 37.0], [-6.0, 36.0], [-6.8, 34.0], [-5.5, 33.8], [-3.0, 34.8], [-1.5, 34.7], [2.0, 35.0], [5.5, 35.0], [7.0, 34.6], [9.0, 33.5], [11.5, 32.5], [14.0, 31.5], [16.5, 31.0], [19.5, 30.4], [20.5, 31.0], [24.0, 31.5], [29.0, 30.5], [30.5, 27.0], [32.6, 24.0], [32.7, 23.0], [33.5, 24.5], [34.0, 27.0], [35.0, 28.0], [36.5, 27.5], [37.9, 26.8], [38.5, 29.5], [38.0, 31.5], [39.0, 33.5], [40.5, 34.5], [44.0, 32.0], [47.5, 30.5], [46.5, 32.5], [45.0, 35.5], [44.5, 37.2], [46.5, 39.5], [45.0, 41.0], [41.5, 41.5], [37.0, 41.2], [33.0, 42.0], [28.5, 41.2], [28.7, 43.5], [29.6, 45.3], [28.2, 45.8], [27.0, 46.8], [25.5, 47.8], [23.5, 48.0], [21.5, 47.0], [20.4, 44.8], [18.9, 46.0], [19.0, 47.5], [17.0, 48.1], [14.3, 48.3], [12.1, 49.0], [10.8, 49.0], [9.4, 49.3], [9.0, 50.1], [8.5, 50.5], [7.6, 50.4], [6.9, 51.0], [6.0, 51.8], [4.5, 52.2], [2.5, 51.1], [1.6, 50.0], [-1.6, 49.7], [-4.7, 48.4], [-2.2, 47.0], [-1.2, 45.0], [-1.8, 43.4], [-4.0, 43.5], [-8.0, 43.7]]
+    - [[-5.7, 50.0], [1.4, 51.1], [1.7, 52.7], [0.0, 53.5], [-1.5, 55.0], [-3.0, 55.0], [-3.2, 54.0], [-4.7, 53.3], [-5.1, 51.7]]
+- id: achaemenidenreich-500
+  polity: achaemenidenreich
+  name: Achämenidenreich um 500 v. Chr.
+  start: "-500"
+  end: "-500"
+  certainty: wahrscheinlich
+  basis: Redaktionelle Vereinfachung nach gängigen Übersichtskarten (vgl. Briant 2002, Wiesehöfer 1993); entspricht grob den in den Inschriften Dareios' I. genannten Ländern.
+  note: Schematischer Umriss ohne die zeitweise kontrollierten Gebiete in Thrakien und Makedonien. In den Randgebieten (Arabien, Zentralasien, Industal) war die Herrschaft teils lose.
+  rings:
+    - [[26.0, 40.5], [30.0, 41.2], [35.0, 42.0], [39.0, 41.0], [41.5, 41.5], [44.5, 42.5], [48.0, 42.0], [49.0, 38.0], [54.0, 37.0], [58.0, 42.5], [61.0, 43.5], [66.0, 43.0], [69.5, 42.0], [72.0, 40.5], [71.5, 37.0], [73.0, 35.5], [74.5, 33.0], [72.0, 28.0], [68.0, 24.0], [61.5, 25.2], [57.5, 25.7], [56.3, 27.0], [51.0, 28.5], [48.5, 30.0], [44.0, 31.5], [40.0, 33.5], [36.5, 31.0], [34.5, 29.5], [32.6, 29.9], [33.0, 26.5], [33.2, 24.0], [32.6, 24.0], [31.0, 26.5], [29.5, 29.0], [25.0, 31.0], [20.0, 30.8], [20.0, 32.5], [24.0, 32.8], [29.0, 31.0], [32.0, 31.2], [34.2, 31.3], [35.0, 33.0], [35.9, 35.5], [36.0, 36.6], [33.0, 36.1], [30.5, 36.5], [28.0, 36.7], [27.2, 37.8], [26.5, 39.0]]
+- id: maurya-reich-250
+  polity: maurya-reich-staat
+  name: Maurya-Reich um 250 v. Chr.
+  start: "-250"
+  end: "-250"
+  certainty: unsicher
+  basis: Redaktionelle Vereinfachung nach der Verbreitung der Inschriften Ashokas und gängigen Übersichtskarten (vgl. Thapar 2002, Singh 2008).
+  note: Die Ausdehnung beruht vor allem auf den Fundorten der Ashoka-Inschriften. Wie stark die Kontrolle in den Randgebieten und im Dekkan war, ist umstritten; die tamilischen Königreiche im Süden waren unabhängig.
+  rings:
+    - [[62.0, 31.5], [65.5, 35.0], [69.5, 35.5], [71.5, 36.0], [74.5, 34.5], [76.0, 32.5], [78.5, 30.5], [81.0, 28.8], [84.0, 27.3], [88.0, 26.5], [90.0, 25.0], [89.5, 22.0], [87.0, 21.5], [85.8, 19.8], [83.0, 17.8], [80.5, 15.5], [80.0, 13.5], [78.5, 13.0], [76.5, 13.5], [75.0, 14.5], [74.0, 15.0], [72.8, 19.0], [72.6, 21.5], [70.0, 21.0], [68.5, 23.5], [67.0, 24.8], [64.0, 25.5], [61.5, 25.5], [61.0, 29.0]]
+- id: han-reich-100
+  polity: han-dynastie
+  name: Han-Reich um 100 v. Chr.
+  start: "-100"
+  end: "-100"
+  certainty: unsicher
+  basis: Redaktionelle Vereinfachung nach gängigen Übersichtskarten zur Zeit Kaiser Wus (vgl. Lewis 2007).
+  note: Schematischer Umriss nach den Eroberungen Kaiser Wus (Hexi-Korridor, Nanyue, Nordvietnam, Nordkorea). Ohne das Tarimbecken, das erst ab 60 v. Chr. unter ein Protektorat kam; in vielen Randgebieten bestanden nur Garnisonen und Kommandanturen.
+  rings:
+    - [[126.0, 41.5], [127.5, 39.0], [126.5, 37.5], [125.0, 38.0], [121.5, 39.0], [122.5, 37.0], [120.0, 35.0], [121.5, 32.0], [121.5, 28.0], [119.5, 25.5], [116.0, 22.8], [113.5, 22.2], [110.0, 20.5], [108.0, 21.5], [106.5, 20.0], [107.0, 16.5], [106.0, 16.0], [104.0, 21.5], [100.5, 25.0], [102.0, 27.5], [102.0, 30.0], [103.0, 32.5], [102.5, 35.0], [100.0, 38.0], [97.5, 39.5], [94.5, 40.0], [93.5, 40.5], [97.5, 40.8], [100.5, 39.8], [104.0, 39.6], [106.5, 40.5], [109.5, 41.0], [112.0, 41.0], [115.0, 41.0], [118.5, 41.5], [121.0, 42.0], [124.0, 42.5]]
+- id: mali-reich-1340
+  polity: mali-reich
+  name: Reich Mali um 1340
+  start: "1340"
+  end: "1340"
+  certainty: unsicher
+  basis: Redaktionelle Vereinfachung nach gängigen Übersichtskarten (vgl. Levtzion 1973, Gomez 2018).
+  note: Die Ausdehnung beruht auf arabischen Berichten und mündlicher Überlieferung. Viele Gebiete waren abhängige Königreiche mit eigener Herrschaft; die Grenzen zur Wüste im Norden und zum Waldland im Süden waren offen.
+  rings:
+    - [[-17.4, 14.7], [-16.5, 16.5], [-14.0, 16.8], [-11.5, 17.5], [-7.0, 17.3], [-5.0, 17.0], [-3.0, 17.2], [-1.0, 16.8], [0.5, 16.3], [0.5, 15.5], [-1.5, 14.5], [-3.5, 13.0], [-5.0, 12.0], [-7.0, 10.5], [-8.5, 10.0], [-10.5, 10.5], [-12.5, 11.5], [-15.0, 12.0], [-16.8, 13.4], [-17.0, 14.2]]

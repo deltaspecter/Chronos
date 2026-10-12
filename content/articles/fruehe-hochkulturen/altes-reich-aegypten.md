@@ -18,6 +18,7 @@ polities: [pharaonisches-aegypten]
 terms: [pharao, maat, mastaba, hieroglyphen]
 related: [uruk-und-sumer, reich-von-kusch]
 bibliography: [shaw-2000, hornung-krauss-warburton-2006, bronk-ramsey-2010, assmann-1996, lehner-1997, tallet-2017, wilkinson-1999, schloegl-2006, dreyer-1998, q-pyramidentexte, q-palermostein, q-manetho, q-herodot, q-harchuf]
+image: cheops-pyramide
 status: erstfassung
 version: 1
 updated: 2026-10-12
@@ -34,6 +35,8 @@ Die Pyramiden von Gizeh sind das bekannteste Bauwerk der Antike und das einzige 
 ### Die Reichseinigung
 
 Im 4. Jahrtausend v. Chr. entstanden im Niltal Häuptlingstümer und kleine Königreiche, archäologisch fassbar in der sogenannten Naqada-Kultur. Zentren wie [[ort:hierakonpolis|Hierakonpolis]] und [[ort:abydos|Abydos]] in Oberägypten gewannen an Bedeutung. Um 3000 v. Chr. wurde das ganze Land unter einer Herrschaft vereint. Die Schminkpalette des Königs [[person:narmer|Narmer]], gefunden in Hierakonpolis, zeigt den König mit den Kronen Ober- und Unterägyptens beim Erschlagen eines Feindes – ein Bildmotiv, das ägyptische Könige drei Jahrtausende lang verwendeten.[@wilkinson-1999]
+
+![[narmer-palette]]
 
 :::befund Frühe Schrift in Ägypten
 Im Grab U-j in Abydos, das in die Zeit um 3200 v. Chr. datiert wird, fand ein Team des Deutschen Archäologischen Instituts unter Günter Dreyer Ende der 1980er Jahre kleine Täfelchen aus Knochen und Elfenbein mit Zeichen, die als frühe Hieroglyphen gedeutet werden. Damit ist die Schrift in Ägypten etwa so alt wie in Mesopotamien. Ob sie unabhängig entstand oder durch Kontakte angeregt wurde, ist umstritten.[@dreyer-1998]

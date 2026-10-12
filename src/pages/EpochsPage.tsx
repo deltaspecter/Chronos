@@ -155,7 +155,6 @@ function EpochView({ index, epoch }: { index: Indexed; epoch: EpochNode }) {
         .sort((a, b) => a.weight - b.weight || astro(a.span.start) - astro(b.span.start))
         .slice(0, 12)
         .sort((a, b) => astro(a.span.start) - astro(b.span.start)),
-    // eslint-disable-next-line react-hooks/exhaustive-deps
     [epoch.id],
   )
   const polities = index.entities.polities.filter((p) => overlaps(p.span, from, to) && inScope(p.regions)).sort((a, b) => astro(a.span.start) - astro(b.span.start))

@@ -330,7 +330,7 @@ function mediaHtml(id: string): { html: string } | null {
   const lock = mediaLock[id]
   if (!m || !lock) return null
   const recon = m.reconstruction ? '<span class="fig-badge">Rekonstruktion</span>' : ''
-  const credit = `${escapeHtml(lock.author)} · <a href="${escapeHtml(lock.sourceUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(lock.license)}</a>`
+  const credit = `${escapeHtml(lock.author)} · <a href="${escapeHtml(lock.sourceUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(lock.license)}</a> · Wikimedia Commons, für die Anzeige verkleinert`
   return {
     html:
       `<figure class="figure" data-media="${id}"><img src="/media/${lock.file}" width="${lock.width}" height="${lock.height}" alt="${escapeHtml(m.alt)}" loading="lazy" decoding="async">` +
@@ -543,9 +543,13 @@ for (const e of [...epochsRaw].sort((a, b) => a.order - b.order)) if (e.parent) 
 const epochArticles = new Map<string, Set<string>>()
 for (const a of articleMeta) for (const e of a.epochs) add(epochArticles, e, a.id)
 
+/** Quellen, auf die Epochen- und Themenseiten verweisen (zählen als verwendet) */
+const sourcesInTaxonomy = new Set<string>()
+
 const epochs: EpochNode[] = epochsRaw.map((e) => {
   const r = renderArticle(e.body, resolver, `epochs/${e.id}`)
   errors.push(...r.errors)
+  r.links.filter((l) => l.kind === 'source').forEach((l) => sourcesInTaxonomy.add(l.id))
   return {
     id: e.id,
     title: e.title,
@@ -585,6 +589,7 @@ for (const a of articleMeta) for (const t of a.themes) add(themeArticles, t, a.i
 const themes: ThemeNode[] = themesRaw.map((t) => {
   const r = renderArticle(t.body, resolver, `themes/${t.id}`)
   errors.push(...r.errors)
+  r.links.filter((l) => l.kind === 'source').forEach((l) => sourcesInTaxonomy.add(l.id))
   return {
     id: t.id,
     title: t.title,
@@ -685,7 +690,7 @@ const sources: Source[] = sourcesRaw.map((s) => ({
   articles: list(rel2.sourceArticles, s.id),
   formatted: formatSource(s),
 }))
-for (const s of sources) if (s.articles.length === 0) warnings.push(`sources/${s.id}: wird in keinem Artikel verwendet`)
+for (const s of sources) if (s.articles.length === 0 && !sourcesInTaxonomy.has(s.id)) warnings.push(`sources/${s.id}: wird in keinem Artikel verwendet`)
 
 const routes: Route[] = routesRaw.map((r) => ({
   id: r.id,

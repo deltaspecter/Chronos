@@ -2,6 +2,7 @@ import { Bookmark, BookmarkCheck, ChevronLeft, ChevronRight, CloudDownload, Clou
 import { useCallback, useEffect, useMemo, useRef, useState, type MouseEvent } from 'react'
 import { Link, Navigate, useLocation, useNavigate, useParams } from 'react-router'
 import { EntityChip } from '@/components/cards.tsx'
+import { Figure } from '@/components/Figure.tsx'
 import { KnowledgeGraph } from '@/components/KnowledgeGraph.tsx'
 import { NotesPanel } from '@/components/NotesPanel.tsx'
 import { Bibliography, Citations } from '@/components/Sources.tsx'
@@ -55,6 +56,7 @@ function ArticleView({ index, meta }: { index: Indexed; meta: ArticleMeta }) {
     visit({ kind: 'article', id: meta.id, title: meta.title })
   }, [meta.id, meta.title, visit])
 
+  const headerImage = meta.image ? index.entities.media.find((m) => m.id === meta.image) : undefined
   const primaryEpoch = meta.epochs[0]
   const crumbs = [
     { label: 'Epochen', to: '/epochen' },
@@ -69,6 +71,7 @@ function ArticleView({ index, meta }: { index: Indexed; meta: ArticleMeta }) {
           <div>
             <Breadcrumbs items={crumbs} />
             <ArticleHeader meta={meta} index={index} />
+            {headerImage && <Figure media={headerImage} priority className="mb-8" />}
           </div>
         </div>
       </PageContainer>

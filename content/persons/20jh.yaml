@@ -1,0 +1,89 @@
+- id: franz-ferdinand
+  name: Franz Ferdinand von Österreich-Este
+  aliases: [Franz Ferdinand, Erzherzog Franz Ferdinand]
+  born: "1863-12-18"
+  died: "1914-06-28"
+  roles: [Thronfolger]
+  summary: Thronfolger Österreich-Ungarns, am 28. Juni 1914 in Sarajevo mit seiner Frau Sophie ermordet – Auslöser der Julikrise.
+  regions: [mitteleuropa, suedosteuropa]
+  themes: [politik]
+  places: [sarajevo]
+- id: gavrilo-princip
+  name: Gavrilo Princip
+  born: "1894-07-25"
+  died: "1918-04-28"
+  roles: [Attentäter]
+  summary: Bosnisch-serbischer Nationalist, der 1914 Franz Ferdinand erschoss; starb in österreichischer Haft an Tuberkulose.
+  regions: [suedosteuropa]
+  themes: [politik]
+  places: [sarajevo]
+- id: wilhelm-ii
+  name: Wilhelm II.
+  aliases: [Kaiser Wilhelm II.]
+  born: "1859-01-27"
+  died: "1941-06-04"
+  roles: [Deutscher Kaiser, König von Preußen]
+  summary: Deutscher Kaiser 1888–1918, dessen sprunghafte Politik zu den Spannungen vor 1914 beitrug; ging nach der Novemberrevolution ins Exil in die Niederlande.
+  regions: [deutschland]
+  themes: [politik]
+- id: franz-joseph-i
+  name: Franz Joseph I.
+  aliases: [Kaiser Franz Joseph]
+  born: "1830-08-18"
+  died: "1916-11-21"
+  roles: [Kaiser von Österreich, König von Ungarn]
+  summary: Herrscher der Habsburgermonarchie von 1848 bis 1916, unter dem Österreich-Ungarn 1914 Serbien den Krieg erklärte.
+  regions: [mitteleuropa]
+  themes: [politik]
+- id: nikolaus-ii
+  name: Nikolaus II.
+  aliases: [Zar Nikolaus II.]
+  born: "1868-05-18"
+  died: "1918-07-17"
+  roles: [Zar von Russland]
+  summary: Letzter russischer Zar (1894–1917); nach der Februarrevolution abgesetzt und 1918 mit seiner Familie von Bolschewiki ermordet.
+  regions: [russland]
+  themes: [politik]
+- id: bethmann-hollweg
+  name: Theobald von Bethmann Hollweg
+  born: "1856-11-29"
+  died: "1921-01-02"
+  roles: [Reichskanzler]
+  summary: Deutscher Reichskanzler 1909–1917, verantwortlich für die deutsche Politik in der Julikrise.
+  regions: [deutschland]
+  themes: [politik]
+- id: paul-von-hindenburg
+  name: Paul von Hindenburg
+  born: "1847-10-02"
+  died: "1934-08-02"
+  roles: [Generalfeldmarschall, Reichspräsident]
+  summary: Chef der Obersten Heeresleitung ab 1916, später Reichspräsident der Weimarer Republik, der 1933 Hitler zum Reichskanzler ernannte.
+  regions: [deutschland]
+  themes: [krieg-militaer, politik]
+  places: [tannenberg]
+  related: [erich-ludendorff]
+- id: erich-ludendorff
+  name: Erich Ludendorff
+  born: "1865-04-09"
+  died: "1937-12-20"
+  roles: [General]
+  summary: Erster Generalquartiermeister der Obersten Heeresleitung und faktisch führender Kopf der deutschen Kriegführung 1916–1918; später Mitverbreiter der Dolchstoßlegende.
+  regions: [deutschland]
+  themes: [krieg-militaer]
+  related: [paul-von-hindenburg]
+- id: woodrow-wilson
+  name: Woodrow Wilson
+  born: "1856-12-28"
+  died: "1924-02-03"
+  roles: [Präsident der USA]
+  summary: Präsident der Vereinigten Staaten 1913–1921; führte die USA 1917 in den Krieg und verkündete 1918 die Vierzehn Punkte für eine Nachkriegsordnung.
+  regions: [nordamerika]
+  themes: [politik]
+- id: georges-clemenceau
+  name: Georges Clemenceau
+  born: "1841-09-28"
+  died: "1929-11-24"
+  roles: [Ministerpräsident Frankreichs]
+  summary: Französischer Ministerpräsident 1917–1920, der Frankreich zum Sieg führte und bei der Pariser Friedenskonferenz harte Bedingungen für Deutschland durchsetzte.
+  regions: [frankreich]
+  themes: [politik]

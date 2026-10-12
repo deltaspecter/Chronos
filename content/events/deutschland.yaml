@@ -1,0 +1,141 @@
+- id: gruendung-der-bundesrepublik
+  title: Gründung der Bundesrepublik Deutschland
+  date: "1949-05-23"
+  weight: 2
+  kind: gruendung
+  summary: Das Grundgesetz wird verkündet; aus den drei westlichen Besatzungszonen entsteht die Bundesrepublik.
+  regions: [deutschland]
+  themes: [verfassung-recht, politik]
+  places: [bonn]
+  polities: [bundesrepublik-deutschland]
+- id: gruendung-der-ddr
+  title: Gründung der DDR
+  date: "1949-10-07"
+  weight: 2
+  kind: gruendung
+  summary: In der sowjetischen Besatzungszone wird die Deutsche Demokratische Republik gegründet.
+  regions: [deutschland]
+  themes: [politik]
+  places: [berlin]
+  polities: [ddr]
+- id: volksaufstand-17-juni
+  title: Volksaufstand vom 17. Juni 1953
+  date: "1953-06-17"
+  weight: 3
+  kind: revolution
+  summary: Streiks und Demonstrationen in der ganzen DDR gegen Normerhöhungen und die SED-Herrschaft werden von sowjetischen Truppen niedergeschlagen.
+  regions: [deutschland]
+  themes: [revolutionen]
+  places: [berlin]
+  polities: [ddr]
+- id: bau-der-berliner-mauer
+  title: Bau der Berliner Mauer
+  date: "1961-08-13"
+  weight: 2
+  kind: ereignis
+  summary: Die DDR riegelt West-Berlin ab, um die Massenflucht zu stoppen.
+  regions: [deutschland]
+  themes: [politik]
+  places: [berliner-mauer]
+  polities: [ddr]
+- id: grundlagenvertrag
+  title: Grundlagenvertrag
+  date: "1972-12-21"
+  weight: 3
+  kind: vertrag
+  summary: Bundesrepublik und DDR regeln ihre Beziehungen und vereinbaren „gutnachbarliche Beziehungen“, ohne einander als Ausland anzuerkennen.
+  regions: [deutschland]
+  themes: [politik]
+  polities: [bundesrepublik-deutschland, ddr]
+- id: paneuropaeisches-picknick
+  title: Paneuropäisches Picknick
+  date: "1989-08-19"
+  weight: 3
+  kind: ereignis
+  summary: Bei einer Veranstaltung an der ungarisch-österreichischen Grenze nutzen Hunderte DDR-Bürger die Öffnung eines Grenztors zur Flucht.
+  regions: [mitteleuropa]
+  themes: [politik, migration]
+  places: [sopron]
+- id: montagsdemonstration-9-oktober
+  title: Montagsdemonstration in Leipzig am 9. Oktober 1989
+  date: "1989-10-09"
+  weight: 2
+  kind: revolution
+  summary: Rund 70.000 Menschen demonstrieren friedlich; die bereitstehenden Sicherheitskräfte greifen nicht ein – Wendepunkt der Friedlichen Revolution.
+  regions: [deutschland]
+  themes: [revolutionen]
+  places: [leipzig]
+  polities: [ddr]
+- id: mauerfall
+  title: Fall der Berliner Mauer
+  date: "1989-11-09"
+  weight: 1
+  kind: revolution
+  summary: Nach einer missverständlich vorgetragenen Reiseregelung strömen Ost-Berliner an die Grenzübergänge; die Mauer wird geöffnet.
+  regions: [deutschland]
+  themes: [revolutionen, politik]
+  places: [berliner-mauer, berlin]
+  persons: [guenter-schabowski]
+  polities: [ddr]
+- id: zentraler-runder-tisch
+  title: Zentraler Runder Tisch der DDR
+  start: "1989-12-07"
+  end: "1990-03-12"
+  weight: 3
+  kind: ereignis
+  summary: Vertreter von Regierungsparteien und Bürgerbewegungen verhandeln über freie Wahlen, die Auflösung der Staatssicherheit und eine neue Verfassung.
+  regions: [deutschland]
+  themes: [politik, verfassung-recht]
+  places: [berlin]
+  polities: [ddr]
+- id: volkskammerwahl-1990
+  title: Erste freie Volkskammerwahl
+  date: "1990-03-18"
+  weight: 2
+  kind: ereignis
+  summary: Die „Allianz für Deutschland“ gewinnt mit 48 Prozent – ein Votum für eine schnelle Vereinigung.
+  regions: [deutschland]
+  themes: [politik]
+  persons: [lothar-de-maiziere]
+  polities: [ddr]
+- id: waehrungsunion
+  title: Währungs-, Wirtschafts- und Sozialunion
+  date: "1990-07-01"
+  weight: 2
+  kind: vertrag
+  summary: Die D-Mark wird in der DDR eingeführt; Löhne und Renten werden 1:1 umgestellt.
+  regions: [deutschland]
+  themes: [wirtschaft-handel]
+  polities: [ddr, bundesrepublik-deutschland]
+- id: zwei-plus-vier-vertrag
+  title: Zwei-plus-Vier-Vertrag
+  date: "1990-09-12"
+  weight: 2
+  kind: vertrag
+  summary: Die beiden deutschen Staaten und die vier Siegermächte regeln die äußeren Aspekte der Einheit; Deutschland erhält die volle Souveränität.
+  regions: [deutschland, europa]
+  themes: [politik, verfassung-recht]
+  places: [moskau]
+  persons: [hans-dietrich-genscher, michail-gorbatschow]
+  polities: [bundesrepublik-deutschland, ddr, sowjetunion]
+- id: tag-der-deutschen-einheit
+  title: Deutsche Einheit
+  date: "1990-10-03"
+  weight: 1
+  kind: vertrag
+  summary: Die DDR tritt der Bundesrepublik Deutschland bei; der 3. Oktober wird Nationalfeiertag.
+  regions: [deutschland]
+  themes: [politik]
+  places: [berlin]
+  persons: [helmut-kohl, lothar-de-maiziere, wolfgang-schaeuble]
+  polities: [bundesrepublik-deutschland, ddr]
+- id: bundestagswahl-1990
+  title: Erste gesamtdeutsche Bundestagswahl
+  date: "1990-12-02"
+  weight: 3
+  kind: ereignis
+  summary: Die erste freie Wahl in ganz Deutschland seit 1932 bestätigt die Regierung Kohl.
+  regions: [deutschland]
+  themes: [politik]
+  persons: [helmut-kohl]
+  polities: [bundesrepublik-deutschland]

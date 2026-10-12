@@ -12,8 +12,21 @@ import { DateSpan } from './ui.tsx'
 export function ArticleCard({ article, index, compact = false }: { article: ArticleMeta; index: Indexed; compact?: boolean }) {
   const offline = useLibrary((s) => !!s.offline[article.id])
   const progress = useLibrary((s) => s.positions[article.id]?.progress ?? 0)
+  const image = !compact && article.image ? index.entities.media.find((m) => m.id === article.image) : undefined
   return (
-    <Link to={`/artikel/${article.slug}`} className="card-link p-5 flex flex-col gap-2 h-full group">
+    <Link to={`/artikel/${article.slug}`} className="card-link overflow-hidden flex flex-col h-full group">
+      {image && (
+        <img
+          src={`/media/${image.file}`}
+          alt=""
+          loading="lazy"
+          decoding="async"
+          width={image.width}
+          height={image.height}
+          className="w-full aspect-[16/9] object-cover object-[50%_30%] border-b border-[var(--line)] opacity-90 group-hover:opacity-100 transition-opacity"
+        />
+      )}
+      <div className="p-5 flex flex-col gap-2 flex-1">
       <div className="flex items-center gap-2 text-xs muted">
         <DateSpan span={article.span} />
         {article.regions[0] && (
@@ -38,6 +51,7 @@ export function ArticleCard({ article, index, compact = false }: { article: Arti
           </span>
         )}
         {progress >= 0.97 && <span className="ml-auto">gelesen</span>}
+      </div>
       </div>
     </Link>
   )

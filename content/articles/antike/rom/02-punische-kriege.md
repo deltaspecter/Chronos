@@ -19,6 +19,7 @@ polities: [roemische-republik, karthago-staat]
 terms: [provinz, imperium]
 related: [roemische-republik, krise-der-roemischen-republik]
 bibliography: [hoyos-2011, goldsworthy-2000, zimmermann-2005, huss-1985, miles-2010, seibert-1993, q-polybios, q-livius, q-appian, q-plutarch, perseus]
+image: karthago-haefen
 status: erstfassung
 version: 1
 updated: 2026-10-12

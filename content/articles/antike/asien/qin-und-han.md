@@ -17,6 +17,7 @@ polities: [qin-dynastie, han-dynastie, xiongnu]
 terms: [legalismus, konfuzianismus, mandat-des-himmels, kommandantur-kreis-system]
 related: [maurya-reich, augustus]
 bibliography: [lewis-2007, twitchett-loewe-1986, loewe-2006, vogelsang-2012, schmidt-glintzer-1995, shelach-lavi-2015, scheidel-2009, q-shiji, q-hanshu, q-shuihudi, q-yantie-lun]
+image: terrakotta-armee
 status: erstfassung
 version: 1
 updated: 2026-10-12

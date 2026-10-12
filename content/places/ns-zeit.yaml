@@ -1,0 +1,143 @@
+- id: berlin
+  name: Berlin
+  coords: [13.4050, 52.5200]
+  categories: [stadt, hauptstadt]
+  summary: Hauptstadt Preußens, des Deutschen Reiches und seit 1990 der Bundesrepublik Deutschland; 1949–1990 geteilt.
+  regions: [deutschland]
+  themes: [politik]
+- id: wannsee
+  name: Haus der Wannsee-Konferenz
+  aliases: [Wannsee, Villa am Großen Wannsee]
+  coords: [13.1653, 52.4333]
+  categories: [heiligtum]
+  summary: Villa am Großen Wannsee in Berlin, in der am 20. Januar 1942 die Organisation des Völkermords an den europäischen Juden besprochen wurde; heute Gedenk- und Bildungsstätte.
+  regions: [deutschland]
+  themes: [gewalt-genozid]
+- id: warschau
+  name: Warschau
+  aliases: [Warszawa, Warschauer Ghetto]
+  coords: [21.0122, 52.2297]
+  categories: [stadt, hauptstadt]
+  summary: Hauptstadt Polens; im größten Ghetto des besetzten Europa wurden über 400.000 Menschen eingesperrt; 1943 Aufstand im Ghetto, 1944 Warschauer Aufstand.
+  regions: [osteuropa]
+  themes: [gewalt-genozid]
+- id: babyn-jar
+  name: Babyn Jar
+  aliases: [Babi Jar, Babyn Yar]
+  coords: [30.4490, 50.4710]
+  categories: [heiligtum]
+  summary: Schlucht am Rand von Kiew, in der am 29. und 30. September 1941 33.771 Jüdinnen und Juden erschossen wurden; bis 1943 wurden hier Zehntausende weitere Menschen ermordet.
+  regions: [osteuropa]
+  themes: [gewalt-genozid]
+- id: chelmno
+  name: Chełmno (Kulmhof)
+  aliases: [Kulmhof]
+  coords: [18.7280, 52.1530]
+  categories: [heiligtum]
+  summary: Erstes Vernichtungslager im besetzten Polen, in dem ab Dezember 1941 Menschen in Gaswagen ermordet wurden.
+  regions: [osteuropa]
+  themes: [gewalt-genozid]
+- id: belzec
+  name: Bełżec
+  coords: [23.4570, 50.3720]
+  categories: [heiligtum]
+  summary: Vernichtungslager der „Aktion Reinhardt“ im Südosten Polens, 1942 Ort der Ermordung von rund einer halben Million Menschen.
+  regions: [osteuropa]
+  themes: [gewalt-genozid]
+- id: sobibor
+  name: Sobibór
+  coords: [23.5940, 51.4470]
+  categories: [heiligtum]
+  summary: Vernichtungslager der „Aktion Reinhardt“ im Osten Polens; im Oktober 1943 Häftlingsaufstand.
+  regions: [osteuropa]
+  themes: [gewalt-genozid]
+- id: treblinka
+  name: Treblinka
+  coords: [22.0470, 52.6310]
+  categories: [heiligtum]
+  summary: Vernichtungslager nordöstlich von Warschau, in dem 1942/43 rund 800.000 bis 900.000 Menschen ermordet wurden; im August 1943 Häftlingsaufstand.
+  regions: [osteuropa]
+  themes: [gewalt-genozid]
+- id: auschwitz
+  name: Auschwitz-Birkenau
+  aliases: [Auschwitz, Oświęcim, Birkenau]
+  coords: [19.1786, 50.0359]
+  categories: [heiligtum]
+  summary: Größter Lagerkomplex des NS-Regimes bei Oświęcim (Polen) mit dem Vernichtungslager Birkenau, in dem rund 1,1 Millionen Menschen ermordet wurden; heute Gedenkstätte und UNESCO-Welterbe.
+  regions: [osteuropa]
+  themes: [gewalt-genozid]
+- id: majdanek
+  name: Majdanek
+  coords: [22.6000, 51.2200]
+  categories: [heiligtum]
+  summary: Konzentrations- und Vernichtungslager am Stadtrand von Lublin; im Juli 1944 als erstes großes Lager von der Roten Armee befreit.
+  regions: [osteuropa]
+  themes: [gewalt-genozid]
+- id: theresienstadt
+  name: Theresienstadt
+  aliases: [Terezín]
+  coords: [14.1557, 50.5106]
+  categories: [heiligtum]
+  summary: Ghetto und Durchgangslager in Böhmen, das die NS-Propaganda als „Altersghetto“ darstellte; von hier gingen Transporte in die Vernichtungslager.
+  regions: [mitteleuropa]
+  themes: [gewalt-genozid]
+- id: bergen-belsen
+  name: Bergen-Belsen
+  coords: [9.9070, 52.7580]
+  categories: [heiligtum]
+  summary: Konzentrationslager in der Lüneburger Heide, im April 1945 von britischen Truppen befreit; hier starben Zehntausende, darunter Anne Frank.
+  regions: [deutschland]
+  themes: [gewalt-genozid]
+- id: nuernberg
+  name: Nürnberg
+  coords: [11.0767, 49.4521]
+  categories: [stadt]
+  summary: Stadt der NS-Reichsparteitage und der „Nürnberger Gesetze“ (1935); 1945–1949 Ort der Nürnberger Prozesse.
+  regions: [deutschland]
+  themes: [verfassung-recht]
+- id: berliner-mauer
+  name: Berliner Mauer
+  aliases: [Mauer, Brandenburger Tor, Bornholmer Straße]
+  coords: [13.3777, 52.5163]
+  categories: [stadt]
+  start: "1961-08-13"
+  end: "1989-11-09"
+  summary: Grenzanlage, mit der die DDR ab 1961 West-Berlin abriegelte; am 9. November 1989 geöffnet. Die Koordinate bezeichnet das Brandenburger Tor.
+  regions: [deutschland]
+  themes: [politik]
+- id: leipzig
+  name: Leipzig
+  aliases: [Nikolaikirche]
+  coords: [12.3731, 51.3397]
+  categories: [stadt]
+  summary: Messestadt in Sachsen, deren Montagsdemonstrationen im Herbst 1989 zum Zentrum der Friedlichen Revolution wurden.
+  regions: [deutschland]
+  themes: [revolutionen]
+- id: prag-botschaft
+  name: Bundesdeutsche Botschaft in Prag
+  aliases: [Palais Lobkowicz, Prag]
+  coords: [14.3989, 50.0884]
+  categories: [stadt]
+  summary: Palais Lobkowicz in Prag, in dem sich im Sommer und Herbst 1989 Tausende DDR-Flüchtlinge aufhielten.
+  regions: [mitteleuropa]
+- id: sopron
+  name: Sopron (Paneuropäisches Picknick)
+  aliases: [Sopron, Ödenburg]
+  coords: [16.6900, 47.7100]
+  location: ungefaehr
+  categories: [stadt]
+  summary: Stadt an der ungarisch-österreichischen Grenze, nahe der beim Paneuropäischen Picknick am 19. August 1989 Hunderte DDR-Bürger flohen.
+  regions: [mitteleuropa]
+- id: bonn
+  name: Bonn
+  coords: [7.0982, 50.7374]
+  categories: [stadt, hauptstadt]
+  summary: Regierungssitz der Bundesrepublik Deutschland von 1949 bis 1999.
+  regions: [deutschland]
+- id: moskau
+  name: Moskau
+  coords: [37.6173, 55.7558]
+  categories: [stadt, hauptstadt]
+  summary: Hauptstadt Russlands und der Sowjetunion; hier wurde am 12. September 1990 der Zwei-plus-Vier-Vertrag unterzeichnet.
+  regions: [russland]
+  themes: [politik]

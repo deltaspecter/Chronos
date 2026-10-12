@@ -1,0 +1,174 @@
+- id: attentat-von-sarajevo
+  title: Attentat von Sarajevo
+  date: "1914-06-28"
+  weight: 2
+  kind: ereignis
+  summary: Gavrilo Princip erschießt den österreichisch-ungarischen Thronfolger Franz Ferdinand und seine Frau Sophie.
+  regions: [suedosteuropa]
+  themes: [politik]
+  places: [sarajevo]
+  persons: [franz-ferdinand, gavrilo-princip]
+  polities: [oesterreich-ungarn]
+- id: julikrise
+  title: Julikrise
+  start: "1914-06-28"
+  end: "1914-08-04"
+  weight: 3
+  kind: ereignis
+  summary: Diplomatische Krise nach dem Attentat, in der sich der Konflikt zwischen Österreich-Ungarn und Serbien zum europäischen Krieg ausweitet.
+  regions: [europa]
+  themes: [politik]
+  persons: [bethmann-hollweg, wilhelm-ii, franz-joseph-i, nikolaus-ii]
+  polities: [deutsches-kaiserreich, oesterreich-ungarn, russisches-kaiserreich]
+- id: kriegsbeginn-1914
+  title: Beginn des Ersten Weltkriegs
+  date: "1914-07-28"
+  weight: 1
+  kind: krieg
+  summary: Österreich-Ungarn erklärt Serbien den Krieg; bis zum 4. August befinden sich alle europäischen Großmächte im Krieg.
+  regions: [europa, welt]
+  themes: [krieg-militaer]
+  polities: [deutsches-kaiserreich, oesterreich-ungarn, russisches-kaiserreich]
+- id: marneschlacht
+  title: Schlacht an der Marne
+  start: "1914-09-05"
+  end: "1914-09-12"
+  weight: 2
+  kind: schlacht
+  summary: Französische und britische Truppen stoppen den deutschen Vormarsch auf Paris; der Bewegungskrieg im Westen geht in den Stellungskrieg über.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+  places: [marne]
+  polities: [deutsches-kaiserreich]
+- id: giftgas-ypern
+  title: Erster großer Giftgaseinsatz bei Ypern
+  date: "1915-04-22"
+  weight: 3
+  kind: schlacht
+  summary: Die deutsche Armee setzt bei Ypern Chlorgas ein; bald verwenden alle Kriegsparteien chemische Waffen.
+  regions: [westeuropa]
+  themes: [krieg-militaer, wissenschaft-technik]
+  places: [ypern]
+  polities: [deutsches-kaiserreich]
+- id: schlacht-von-gallipoli
+  title: Schlacht von Gallipoli
+  start: "1915-04-25"
+  end: "1916-01-09"
+  weight: 3
+  kind: schlacht
+  summary: Alliierte Truppen, darunter Australier und Neuseeländer, versuchen vergeblich, die Dardanellen zu erobern.
+  regions: [anatolien]
+  themes: [krieg-militaer]
+  places: [gallipoli]
+  polities: [osmanisches-reich]
+- id: voelkermord-an-den-armeniern
+  title: Völkermord an den Armeniern
+  start: "1915-04-24"
+  end: "1916"
+  weight: 1
+  kind: katastrophe
+  summary: Die osmanische Regierung lässt die armenische Bevölkerung Anatoliens deportieren und ermorden; nach den meisten Schätzungen sterben rund eine Million Menschen.
+  regions: [anatolien, westasien]
+  themes: [gewalt-genozid]
+  places: [istanbul]
+  polities: [osmanisches-reich]
+- id: schlacht-um-verdun
+  title: Schlacht um Verdun
+  start: "1916-02-21"
+  end: "1916-12-18"
+  weight: 2
+  kind: schlacht
+  summary: Monatelange deutsche Offensive gegen die Festung Verdun mit Hunderttausenden Toten auf beiden Seiten.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+  places: [verdun]
+  polities: [deutsches-kaiserreich]
+- id: schlacht-an-der-somme
+  title: Schlacht an der Somme
+  start: "1916-07-01"
+  end: "1916-11-18"
+  weight: 2
+  kind: schlacht
+  summary: Britisch-französische Offensive mit über einer Million Toten, Verwundeten und Vermissten auf allen Seiten.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+  places: [somme]
+  polities: [deutsches-kaiserreich]
+- id: uneingeschraenkter-u-boot-krieg
+  title: Uneingeschränkter U-Boot-Krieg
+  date: "1917-02-01"
+  weight: 3
+  kind: krieg
+  summary: Deutschland erklärt, auch Handelsschiffe neutraler Staaten ohne Warnung zu versenken.
+  regions: [atlantik, europa]
+  themes: [krieg-militaer]
+  polities: [deutsches-kaiserreich]
+- id: kriegseintritt-usa
+  title: Kriegseintritt der USA
+  date: "1917-04-06"
+  weight: 2
+  kind: krieg
+  summary: Die Vereinigten Staaten erklären Deutschland den Krieg.
+  regions: [nordamerika, europa]
+  themes: [krieg-militaer, politik]
+  persons: [woodrow-wilson]
+- id: oktoberrevolution
+  title: Oktoberrevolution
+  date: "1917-11-07"
+  dateNote: Nach dem damals in Russland gültigen julianischen Kalender am 25. Oktober 1917.
+  weight: 1
+  kind: revolution
+  summary: Die Bolschewiki unter Lenin übernehmen in Petrograd die Macht.
+  regions: [russland]
+  themes: [revolutionen]
+  polities: [russisches-kaiserreich]
+- id: frieden-von-brest-litowsk
+  title: Frieden von Brest-Litowsk
+  date: "1918-03-03"
+  weight: 3
+  kind: vertrag
+  summary: Sowjetrussland schließt Frieden mit den Mittelmächten und tritt große Gebiete im Westen ab.
+  regions: [osteuropa, russland]
+  themes: [politik]
+  places: [brest-litowsk]
+  polities: [deutsches-kaiserreich]
+- id: novemberrevolution
+  title: Novemberrevolution in Deutschland
+  date: "1918-11-09"
+  weight: 2
+  kind: revolution
+  summary: Nach Matrosenaufständen und Massenprotesten wird in Berlin die Republik ausgerufen; Wilhelm II. geht ins Exil.
+  regions: [deutschland]
+  themes: [revolutionen, politik]
+  persons: [wilhelm-ii]
+  polities: [deutsches-kaiserreich, weimarer-republik]
+- id: waffenstillstand-compiegne
+  title: Waffenstillstand von Compiègne
+  date: "1918-11-11"
+  weight: 1
+  kind: vertrag
+  summary: Deutsche und alliierte Vertreter unterzeichnen den Waffenstillstand; die Kämpfe an der Westfront enden.
+  regions: [frankreich, europa]
+  themes: [krieg-militaer, politik]
+  places: [compiegne]
+  persons: [georges-clemenceau]
+- id: versailler-vertrag
+  title: Vertrag von Versailles
+  date: "1919-06-28"
+  weight: 2
+  kind: vertrag
+  summary: Friedensvertrag der Alliierten mit Deutschland mit Gebietsabtretungen, Abrüstung, Reparationen und dem umstrittenen Artikel 231.
+  regions: [frankreich, deutschland, europa]
+  themes: [politik, verfassung-recht]
+  places: [versailles]
+  persons: [woodrow-wilson, georges-clemenceau]
+  polities: [weimarer-republik]
+- id: spanische-grippe
+  title: Grippepandemie („Spanische Grippe“)
+  start: "1918"
+  end: "1920"
+  weight: 2
+  kind: katastrophe
+  summary: Eine weltweite Grippepandemie, begünstigt durch Truppenbewegungen und Mangelernährung, fordert Dutzende Millionen Todesopfer.
+  regions: [welt]
+  themes: [umwelt-klima, gesellschaft]

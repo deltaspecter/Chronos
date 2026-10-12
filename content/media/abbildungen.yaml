@@ -1,0 +1,127 @@
+# Abbildungen aus Wikimedia Commons. Lizenz und Urheber werden von scripts/fetch-media.ts
+# automatisch geprüft und in _commons.lock.json festgehalten.
+- id: augustus-primaporta
+  commons: "File:Statue-Augustus.jpg"
+  title: Augustus von Primaporta
+  caption: Marmorstatue des Augustus aus der Villa seiner Frau Livia bei Primaporta, wohl frühes 1. Jahrhundert n. Chr.; Vatikanische Museen. Sie zeigt den Herrscher als idealisierten, ewig jugendlichen Feldherrn.
+  alt: Marmorstatue eines Mannes im Brustpanzer mit erhobenem rechten Arm, zu seinen Füßen ein Amor auf einem Delfin
+- id: res-gestae-ankara
+  commons: "File:Monumentum Ancyranum Res Gestae Divi Augusti Part 1.jpg"
+  title: Monumentum Ancyranum
+  caption: Lateinischer Text des Tatenberichts des Augustus an der Wand des Tempels für Roma und Augustus in Ankara.
+  alt: Steinwand mit eng beschriebenen Spalten lateinischer Inschrift
+- id: narmer-palette
+  commons: "File:Narmer Palette smiting side.jpg"
+  title: Narmer-Palette
+  caption: Schminkpalette des Königs Narmer aus Hierakonpolis, um 3000 v. Chr.; Ägyptisches Museum Kairo. Der König mit der Krone Oberägyptens erschlägt einen Feind.
+  alt: Reliefierte Steinplatte mit einer großen Königsfigur, die mit einer Keule ausholt
+- id: cheops-pyramide
+  commons: "File:Great Pyramid of Giza.jpg"
+  title: Cheops-Pyramide
+  caption: Die Große Pyramide des Cheops in Gizeh, 4. Dynastie (um 2560 v. Chr.).
+  alt: Große Steinpyramide unter blauem Himmel
+- id: goebekli-tepe-anlage
+  commons: "File:Göbekli Tepe, Urfa.jpg"
+  title: Göbekli Tepe
+  caption: Ausgegrabene Rundanlage mit T-förmigen Steinpfeilern am Göbekli Tepe bei Şanlıurfa, 10. Jahrtausend v. Chr.
+  alt: Ausgrabungsstätte mit kreisförmig angeordneten, hohen Steinpfeilern
+- id: catalhoeyuek-grabung
+  commons: "File:Çatalhöyük excavations ..jpg"
+  title: Çatalhöyük
+  caption: Ausgrabungen in der jungsteinzeitlichen Siedlung Çatalhöyük in Zentralanatolien (etwa 7100–6000 v. Chr.).
+  alt: Freigelegte Mauerreste dicht aneinandergebauter Häuser unter einem Schutzdach
+- id: proto-keilschrift
+  commons: "File:Numerical and proto cuneiforms tablets - Oriental Institute.jpg"
+  title: Frühe Zahlen- und Schrifttafeln
+  caption: Zahlentafeln und protokeilschriftliche Tafeln aus Mesopotamien, spätes 4. Jahrtausend v. Chr.; Oriental Institute (heute Institute for the Study of Ancient Cultures), Chicago.
+  alt: Mehrere kleine Tontafeln mit eingedrückten Zeichen und Zahlzeichen
+- id: zikkurat-ur
+  commons: "File:Ziggurat of Ur Site in Nasiriyah 09.jpg"
+  title: Zikkurat von Ur
+  caption: Die Zikkurat von Ur, unter Ur-Namma um 2100 v. Chr. errichtet; die Fassade des unteren Teils wurde im 20. Jahrhundert teilweise rekonstruiert.
+  alt: Massiver gestufter Bau aus Lehmziegeln mit einer breiten Mitteltreppe
+- id: kerma-deffufa
+  commons: "File:Western Deffufa - Kerma.jpg"
+  title: Westliche Deffufa in Kerma
+  caption: Die westliche Deffufa, ein mächtiger Lehmziegeltempel im Zentrum der Stadt Kerma (Sudan), erste Hälfte des 2. Jahrtausends v. Chr.
+  alt: Hoher, verwitterter Lehmziegelbau in einer Wüstenlandschaft
+- id: meroe-pyramiden
+  commons: "File:Meroe Pyramids - 33110830248.jpg"
+  title: Pyramiden von Meroe
+  caption: Königspyramiden der Nordnekropole von Meroe (Sudan), 3. Jahrhundert v. Chr. bis 4. Jahrhundert n. Chr.
+  alt: Mehrere steile, kleine Pyramiden in einer Sandlandschaft
+- id: kyros-zylinder
+  commons: "File:Cyrus Cylinder.jpg"
+  title: Kyros-Zylinder
+  caption: Tonzylinder mit babylonischer Keilschrift über die Einnahme Babylons durch Kyros II. (nach 539 v. Chr.); British Museum, London.
+  alt: Tönnchenförmiger Tonzylinder, rundum mit Keilschrift beschrieben
+- id: bisotun-relief
+  commons: "File:Behistun inscription reliefs.jpg"
+  title: Relief von Bisotun
+  caption: 'Relief über der Inschrift von Bisotun (um 520 v. Chr.): Dareios I. tritt auf einen besiegten Gegner, vor ihm stehen gefesselte Aufständische.'
+  alt: Felsrelief mit einer größeren Königsfigur und einer Reihe gefesselter Männer
+- id: persepolis-apadana
+  commons: "File:Persepolis stairs of the Apadana relief.jpg"
+  title: Treppe der Apadana in Persepolis
+  caption: Reliefs an der Treppe der Audienzhalle (Apadana) in Persepolis mit Gabenbringern aus den Ländern des Reiches, um 500 v. Chr.
+  alt: Steinrelief mit Reihen von Figuren, die Gaben tragen
+- id: ashoka-loewenkapitell
+  commons: "File:Lion Capital of Ashoka 3.jpg"
+  title: Löwenkapitell von Sarnath
+  caption: Das Löwenkapitell einer Säule Ashokas aus Sarnath, 3. Jahrhundert v. Chr.; Archäologisches Museum Sarnath. Es ist heute das Staatswappen Indiens.
+  alt: Kapitell mit vier Rücken an Rücken sitzenden Löwen über einem Sockel mit Rädern und Tieren
+- id: terrakotta-armee
+  commons: "File:Qin Shihuang Terracotta Army, Pit 1.jpg"
+  title: Terrakotta-Armee
+  caption: Grube 1 der Terrakotta-Armee im Grabbezirk des Ersten Kaisers bei Lintong (Xi'an), spätes 3. Jahrhundert v. Chr.
+  alt: Reihen lebensgroßer Soldatenfiguren aus Ton in einer langen Grube
+- id: mansa-musa-atlas
+  commons: "File:Catalan Atlas BNF Sheet 6 Mansa Musa (cropped).jpg"
+  title: Mansa Musa im Katalanischen Weltatlas
+  caption: Mansa Musa mit Krone, Zepter und Goldklumpen; Ausschnitt aus dem Katalanischen Weltatlas, um 1375, Bibliothèque nationale de France.
+  alt: Mittelalterliche Kartenillustration eines thronenden Königs mit goldener Krone, der eine goldene Kugel hält
+- id: djinguereber-moschee
+  commons: "File:Djinguereber Mosque, Timbuktu.jpg"
+  title: Djinguereber-Moschee in Timbuktu
+  caption: Die Djinguereber-Moschee in Timbuktu, deren Bau die Überlieferung Mansa Musa und Abu Ishaq al-Sahili zuschreibt; der heutige Bau wurde vielfach erneuert.
+  alt: Lehmmoschee mit kegelförmigem Turm und herausragenden Holzbalken
+- id: luther-cranach
+  commons: "File:Lucas Cranach d.Ä. - Martin Luther, 1528 (Veste Coburg).jpg"
+  title: Martin Luther
+  caption: Martin Luther, Gemälde von Lucas Cranach dem Älteren, 1528; Kunstsammlungen der Veste Coburg.
+  alt: Porträt eines Mannes mit schwarzer Kappe und schwarzem Gewand vor blauem Hintergrund
+- id: bastille-houel
+  commons: "File:Prise de la Bastille.jpg"
+  title: Die Erstürmung der Bastille
+  caption: „Prise de la Bastille“, Aquarell von Jean-Pierre Houël, 1789; Bibliothèque nationale de France.
+  alt: Gemälde einer Festung mit Rauchwolken, davor kämpfende Menschenmengen
+- id: menschenrechte-le-barbier
+  commons: "File:Jean-Jacques-François (dit l'Aîné) Le Barbier - Déclaration des droits de l'homme et du citoyen - P809 - Musée Carnavalet.jpg"
+  title: Die Erklärung der Menschen- und Bürgerrechte
+  caption: Die Erklärung der Menschen- und Bürgerrechte von 1789 in einer zeitgenössischen Darstellung von Jean-Jacques-François Le Barbier; Musée Carnavalet, Paris.
+  alt: Gemälde der Menschenrechtserklärung als Gesetzestafeln, umgeben von allegorischen Figuren
+- id: chateau-wood
+  commons: "File:Chateau Wood Ypres 1917.jpg"
+  title: Chateau Wood bei Ypern, 1917
+  caption: Australische Soldaten auf einem Bohlenweg durch den zerstörten Chateau Wood bei Ypern, 29. Oktober 1917; Fotografie von Frank Hurley.
+  alt: Schwarzweißfoto von Soldaten auf einem Holzsteg durch eine schlammige Landschaft mit Baumstümpfen
+- id: wannsee-villa
+  commons: "File:Haus der Wannsee-Konferenz 2015 01.jpg"
+  title: Haus der Wannsee-Konferenz
+  caption: Die Villa am Großen Wannsee in Berlin, in der am 20. Januar 1942 die Organisation des Völkermords besprochen wurde; heute Gedenk- und Bildungsstätte.
+  alt: Große Villa mit Säulenportal in einem Park
+- id: montagsdemo-leipzig
+  commons: "File:Bundesarchiv Bild 183-1989-1023-022, Leipzig, Montagsdemonstration.jpg"
+  title: Montagsdemonstration in Leipzig
+  caption: Montagsdemonstration in Leipzig am 23. Oktober 1989; Bundesarchiv.
+  alt: Schwarzweißfoto einer großen Menschenmenge mit Transparenten auf einer Straße
+- id: brandenburger-tor-1989
+  commons: "File:West and East Germans at the Brandenburg Gate in 1989.jpg"
+  title: Am Brandenburger Tor, 1989
+  caption: Menschen aus Ost und West auf der Mauer am Brandenburger Tor nach der Öffnung der Grenze im November 1989.
+  alt: Menschenmenge auf und vor einer Mauer, im Hintergrund das Brandenburger Tor
+- id: karthago-haefen
+  commons: "File:Carthage-1958-PortsPuniques.jpg"
+  title: Die punischen Häfen von Karthago
+  caption: Luftaufnahme der Reste des kreisrunden Kriegshafens und des Handelshafens von Karthago, 1958.
+  alt: Schwarzweiß-Luftbild eines runden Hafenbeckens mit einer Insel in der Mitte neben einem länglichen Becken

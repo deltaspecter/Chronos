@@ -281,7 +281,6 @@ function Chart({
       scrollToYear(centerYear.current, false)
       centerYear.current = null
     }
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [zoom])
 
   // Startposition aus der URL (?jahr=… oder ?von=…&bis=…)
@@ -299,7 +298,6 @@ function Chart({
       }
     }
     scrollToYear(-500, false)
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
   const doJump = () => {

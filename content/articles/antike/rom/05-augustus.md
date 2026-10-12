@@ -19,6 +19,7 @@ polities: [roemische-republik, roemisches-kaiserreich, ptolemaeerreich]
 terms: [prinzipat, imperium, proskription, tribunicia-potestas]
 related: [julius-caesar, krise-der-roemischen-republik, roemische-republik]
 bibliography: [syme-1939, zanker-1987, kienast-1982, eck-1998, bleicken-1998, galinsky-1996, cooley-2009, q-res-gestae, q-sueton, q-cassius-dio, q-tacitus-annalen, lacus-curtius]
+image: augustus-primaporta
 status: erstfassung
 version: 1
 updated: 2026-10-12
@@ -107,6 +108,8 @@ Der Geschichtsschreiber Tacitus fasste rund hundert Jahre später die Debatten n
 ## Quellenlage
 
 Die wichtigste Quelle ist Augustus' eigener Tatenbericht, die *Res Gestae Divi Augusti*. Der Text wurde nach seinem Tod vor dem Mausoleum in Rom auf Bronzetafeln aufgestellt; erhalten ist er vor allem in Abschriften aus Kleinasien, besonders im zweisprachigen „Monumentum Ancyranum“ in [[ort:ankyra|Ankara]].[@q-res-gestae; @cooley-2009] Er gibt Augustus' Selbstbild wieder und verschweigt systematisch, was diesem widerspricht. Die Biografie Suetons, die Römische Geschichte des Cassius Dio und der Rückblick bei Tacitus bieten unterschiedliche, teils kritische Perspektiven; hinzu kommen Münzen, Inschriften, Bauten und die Dichtung der Zeit.[@q-sueton; @q-cassius-dio; @q-tacitus-annalen]
+
+![[res-gestae-ankara]]
 
 ## Weiterführende Themen
 

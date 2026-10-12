@@ -18,6 +18,7 @@ polities: [kerma-reich, kusch, pharaonisches-aegypten, roemisches-kaiserreich]
 terms: [kandake, meroitische-schrift, pharao]
 related: [altes-reich-aegypten, augustus]
 bibliography: [torok-1997, welsby-1996, emberling-williams-2021, bonnet-valbelle-2006, rilly-2010, q-piye-stele, q-herodot, q-harchuf, sudan-archaeology-mission-kerma, british-museum]
+image: meroe-pyramiden
 status: erstfassung
 version: 1
 updated: 2026-10-12
@@ -34,6 +35,8 @@ Das mittlere Niltal zwischen dem ersten Katarakt bei Assuan und dem Zusammenflus
 ### Ein afrikanisches Reich
 
 Beim heutigen Ort [[ort:kerma|Kerma]] oberhalb des dritten Katarakts entstand ab der Mitte des 3. Jahrtausends v. Chr. das Zentrum eines Staates, der in seiner Blütezeit (etwa 1750–1500 v. Chr.) das Niltal vom zweiten bis mindestens zum fünften Katarakt beherrschte. Die ägyptischen Quellen nennen ihn das Land Kusch. Seine Hauptstadt besaß einen riesigen Lehmziegeltempel, die bis heute fast 20 Meter hoch erhaltene „westliche Deffufa“, eine befestigte Stadtanlage und einen ausgedehnten Friedhof.[@bonnet-valbelle-2006; @sudan-archaeology-mission-kerma]
+
+![[kerma-deffufa]]
 
 Die Könige von Kerma wurden unter gewaltigen Grabhügeln von bis zu 90 Metern Durchmesser bestattet. In einigen dieser Gräber fanden die Ausgräber die Überreste zahlreicher mitbestatteter Menschen – nach den Schätzungen des ersten Ausgräbers George Reisner in einem Fall mehrere hundert.[@welsby-1996]
 

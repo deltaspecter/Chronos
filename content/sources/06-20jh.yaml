@@ -274,3 +274,30 @@
   kind: primaer
   title: Vertrag zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik über die Herstellung der Einheit Deutschlands (Einigungsvertrag)
   written: unterzeichnet am 31. August 1990 in Berlin
+- id: kennan-1979
+  kind: sekundaer
+  authors: ["Kennan, George F."]
+  title: The Decline of Bismarck's European Order
+  subtitle: Franco-Russian Relations, 1875–1890
+  place: Princeton
+  publisher: Princeton University Press
+  year: 1979
+  note: Im Vorwort bezeichnet Kennan den Ersten Weltkrieg als „the great seminal catastrophe of this century“ – Ursprung des deutschen Begriffs „Urkatastrophe“.
+- id: q-oesterreichisches-ultimatum
+  kind: primaer
+  title: Ultimatum Österreich-Ungarns an Serbien
+  written: 23. Juli 1914
+  note: Note mit zehn Forderungen und einer Frist von 48 Stunden; Serbien nahm die meisten Punkte an, lehnte aber die Mitwirkung österreichisch-ungarischer Organe an Untersuchungen auf serbischem Boden ab.
+- id: sarotte-2021
+  kind: sekundaer
+  authors: ["Sarotte, Mary Elise"]
+  title: Not One Inch
+  subtitle: America, Russia, and the Making of Post-Cold War Stalemate
+  place: New Haven
+  publisher: Yale University Press
+  year: 2021
+- id: q-zehn-punkte
+  kind: primaer
+  authors: ["Kohl, Helmut"]
+  title: Zehn-Punkte-Programm zur Überwindung der Teilung Deutschlands und Europas
+  written: Rede im Deutschen Bundestag, 28. November 1989

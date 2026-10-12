@@ -195,3 +195,25 @@
   title: Déclaration des droits de la femme et de la citoyenne
   written: September 1791
   note: Gegenentwurf zur Menschenrechtserklärung von 1789, der die Gleichberechtigung der Frauen fordert.
+- id: roper-1989
+  kind: sekundaer
+  authors: ["Roper, Lyndal"]
+  title: The Holy Household
+  subtitle: Women and Morals in Reformation Augsburg
+  place: Oxford
+  publisher: Clarendon Press
+  year: 1989
+- id: reinhard-1983
+  kind: sekundaer
+  authors: ["Reinhard, Wolfgang"]
+  title: Zwang zur Konfessionalisierung? Prolegomena zu einer Theorie des konfessionellen Zeitalters
+  container: Zeitschrift für Historische Forschung
+  volume: "10"
+  year: 1983
+  pages: 257–277
+- id: q-luther-juden-1543
+  kind: primaer
+  authors: ["Luther, Martin"]
+  title: Von den Juden und ihren Lügen
+  written: 1543
+  note: Spätschrift Luthers mit Forderungen, Synagogen zu verbrennen und Juden zu vertreiben; im Nationalsozialismus propagandistisch genutzt.

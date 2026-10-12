@@ -18,6 +18,7 @@ polities: [maurya-reich-staat, seleukidenreich, alexanderreich]
 terms: [dhamma, brahmi]
 related: [achaemenidenreich, qin-und-han]
 bibliography: [thapar-1961, thapar-2002, singh-2008, kulke-2005, olivelle-2013, trautmann-1971, q-ashoka-edikte, q-megasthenes, q-arthashastra, q-junagadh, q-strabon]
+image: ashoka-loewenkapitell
 status: erstfassung
 version: 1
 updated: 2026-10-12

@@ -1,0 +1,178 @@
+- id: eroeffnung-generalstaende
+  title: Eröffnung der Generalstände
+  date: "1789-05-05"
+  weight: 3
+  kind: ereignis
+  summary: In Versailles tritt die Versammlung der drei Stände erstmals seit 1614 zusammen.
+  regions: [frankreich]
+  themes: [politik]
+  places: [versailles]
+  persons: [ludwig-xvi]
+  polities: [koenigreich-frankreich]
+- id: ballhausschwur
+  title: Ballhausschwur
+  date: "1789-06-20"
+  weight: 3
+  kind: revolution
+  summary: Die Abgeordneten des Dritten Standes, die sich zur Nationalversammlung erklärt haben, schwören, nicht auseinanderzugehen, bevor Frankreich eine Verfassung hat.
+  regions: [frankreich]
+  themes: [revolutionen, verfassung-recht]
+  places: [versailles]
+  persons: [sieyes, mirabeau]
+  polities: [koenigreich-frankreich]
+- id: sturm-auf-die-bastille
+  title: Sturm auf die Bastille
+  date: "1789-07-14"
+  weight: 1
+  kind: revolution
+  summary: Pariser Aufständische erstürmen die Festung und das Staatsgefängnis – Symbol für das Ende der Willkürherrschaft.
+  regions: [frankreich]
+  themes: [revolutionen]
+  places: [bastille, paris]
+  polities: [koenigreich-frankreich]
+- id: nacht-des-4-august
+  title: Abschaffung der Feudalordnung
+  date: "1789-08-04"
+  weight: 3
+  kind: gesetz
+  summary: In einer Nachtsitzung beschließt die Nationalversammlung die Abschaffung der ständischen Privilegien und der Feudalrechte.
+  regions: [frankreich]
+  themes: [gesellschaft, verfassung-recht]
+  places: [versailles]
+  polities: [koenigreich-frankreich]
+- id: menschenrechtserklaerung
+  title: Erklärung der Menschen- und Bürgerrechte
+  date: "1789-08-26"
+  weight: 2
+  kind: gesetz
+  summary: Die Nationalversammlung verkündet Freiheit und Gleichheit an Rechten, die Souveränität der Nation und grundlegende Freiheitsrechte.
+  regions: [frankreich]
+  themes: [verfassung-recht]
+  places: [versailles]
+  persons: [lafayette, sieyes]
+  polities: [koenigreich-frankreich]
+- id: marsch-auf-versailles
+  title: Marsch der Frauen auf Versailles
+  date: "1789-10-05"
+  weight: 3
+  kind: revolution
+  summary: Tausende Pariserinnen ziehen nach Versailles und zwingen die königliche Familie, nach Paris umzusiedeln.
+  regions: [frankreich]
+  themes: [revolutionen, gesellschaft]
+  places: [versailles, paris]
+  persons: [ludwig-xvi, marie-antoinette]
+- id: flucht-nach-varennes
+  title: Flucht der Königsfamilie nach Varennes
+  date: "1791-06-20"
+  weight: 3
+  kind: ereignis
+  summary: Die königliche Familie versucht zu fliehen, wird in Varennes erkannt und nach Paris zurückgebracht.
+  regions: [frankreich]
+  themes: [politik]
+  places: [varennes]
+  persons: [ludwig-xvi, marie-antoinette]
+- id: kriegsbeginn-1792
+  title: Beginn der Revolutionskriege
+  date: "1792-04-20"
+  weight: 2
+  kind: krieg
+  summary: Frankreich erklärt Österreich den Krieg; bis 1815 folgen mit kurzen Unterbrechungen Kriege mit fast allen europäischen Mächten.
+  regions: [frankreich, europa]
+  themes: [krieg-militaer]
+  polities: [koenigreich-frankreich]
+- id: sturm-auf-die-tuilerien
+  title: Sturm auf die Tuilerien
+  date: "1792-08-10"
+  weight: 3
+  kind: revolution
+  summary: Pariser Sansculotten und Nationalgardisten stürmen den Königspalast; Ludwig XVI. wird abgesetzt.
+  regions: [frankreich]
+  themes: [revolutionen]
+  places: [paris]
+  persons: [ludwig-xvi, danton]
+- id: ausrufung-der-republik
+  title: Ausrufung der Republik
+  date: "1792-09-21"
+  weight: 2
+  kind: revolution
+  summary: Der Nationalkonvent schafft die Monarchie ab; am folgenden Tag beginnt das Jahr I der Republik.
+  regions: [frankreich]
+  themes: [revolutionen, verfassung-recht]
+  places: [paris]
+  polities: [erste-franzoesische-republik]
+- id: hinrichtung-ludwigs-xvi
+  title: Hinrichtung Ludwigs XVI.
+  date: "1793-01-21"
+  weight: 2
+  kind: ereignis
+  summary: Der ehemalige König wird nach seiner Verurteilung durch den Nationalkonvent in Paris guillotiniert.
+  regions: [frankreich]
+  themes: [politik]
+  places: [paris]
+  persons: [ludwig-xvi]
+  polities: [erste-franzoesische-republik]
+- id: krieg-in-der-vendee
+  title: Bürgerkrieg in der Vendée
+  start: "1793-03"
+  end: "1796"
+  weight: 3
+  kind: krieg
+  summary: Ein katholisch-royalistischer Aufstand im Westen Frankreichs wird mit äußerster Gewalt niedergeschlagen; über 100.000 Menschen sterben.
+  regions: [frankreich]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [vendee]
+  polities: [erste-franzoesische-republik]
+- id: terreur
+  title: Terreur (Schreckensherrschaft)
+  start: "1793-09"
+  end: "1794-07"
+  weight: 2
+  kind: herrschaft
+  summary: Der Wohlfahrtsausschuss regiert mit diktatorischen Vollmachten; Revolutionstribunale verhängen rund 17.000 Todesurteile.
+  regions: [frankreich]
+  themes: [politik, gewalt-genozid]
+  places: [paris]
+  persons: [robespierre, danton]
+  polities: [erste-franzoesische-republik]
+- id: abschaffung-der-sklaverei-1794
+  title: Abschaffung der Sklaverei in den französischen Kolonien
+  date: "1794-02-04"
+  weight: 3
+  kind: gesetz
+  summary: Der Nationalkonvent schafft die Sklaverei ab und bestätigt damit die Selbstbefreiung der Versklavten in Saint-Domingue; Napoleon führt sie 1802 wieder ein.
+  regions: [frankreich, karibik]
+  themes: [sklaverei-unfreiheit, verfassung-recht]
+  polities: [erste-franzoesische-republik]
+- id: sturz-robespierres
+  title: Sturz Robespierres (9. Thermidor)
+  date: "1794-07-27"
+  weight: 3
+  kind: ereignis
+  summary: Eine Mehrheit des Konvents stürzt Robespierre, der am folgenden Tag hingerichtet wird; die Terreur endet.
+  regions: [frankreich]
+  themes: [politik]
+  places: [paris]
+  persons: [robespierre]
+  polities: [erste-franzoesische-republik]
+- id: staatsstreich-18-brumaire
+  title: Staatsstreich des 18. Brumaire
+  date: "1799-11-09"
+  weight: 2
+  kind: herrschaft
+  summary: General Napoleon Bonaparte übernimmt mit Sieyès die Macht; die Revolution wird für beendet erklärt.
+  regions: [frankreich]
+  themes: [politik]
+  places: [paris]
+  persons: [napoleon-bonaparte, sieyes]
+  polities: [erste-franzoesische-republik]
+- id: haitianische-revolution
+  title: Haitianische Revolution
+  start: "1791-08"
+  end: "1804-01-01"
+  weight: 1
+  kind: revolution
+  summary: Versklavte Menschen in Saint-Domingue erheben sich, erkämpfen ihre Freiheit und gründen mit Haiti den ersten Staat, der aus einer erfolgreichen Sklavenerhebung hervorging.
+  regions: [karibik]
+  themes: [revolutionen, sklaverei-unfreiheit]
+  places: [cap-francais]
+  persons: [toussaint-louverture, napoleon-bonaparte]
