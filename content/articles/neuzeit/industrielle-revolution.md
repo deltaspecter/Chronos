@@ -18,6 +18,7 @@ polities: [koenigreich-grossbritannien, vereinigtes-koenigreich]
 terms: [industrielle-revolution, dampfmaschine, fabriksystem, verlagssystem, ludditen, chartismus, soziale-frage, great-divergence]
 related: [franzoesische-revolution, qin-und-han]
 bibliography: [allen-2009, mokyr-2009, pomeranz-2000, wrigley-2010, crafts-1985, thompson-1963, hobsbawm-1962, osterhammel-2009, beckert-2014, williams-1944, humphries-2010, allen-2009-engels-pause, q-engels-1845, q-smith-1776, q-sadler-report, q-factory-act-1833, q-watt-patent]
+image: watt-dampfmaschine
 status: erstfassung
 version: 1
 updated: 2026-10-12

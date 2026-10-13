@@ -19,6 +19,7 @@ cultures: [maya]
 terms: [lange-zaehlung, maya-schrift, emblemglyphe, kuhul-ajaw, milpa, stadtstaat]
 related: [inka-reich, uruk-und-sumer]
 bibliography: [martin-grube-2008, sharer-traxler-2006, demarest-2004, coe-1992, grube-2000, stuart-2000, canuto-2018, haug-2003, kennett-2012, q-maya-inschriften, q-dresdner-kodex, q-landa]
+image: tikal-tempel-1
 status: erstfassung
 version: 1
 updated: 2026-10-12
@@ -51,6 +52,8 @@ Die Geschichte der klassischen Maya beruht auf drei Arten von Zeugnissen:
 :::quelle Nur vier Bücher
 Die Maya schrieben auch auf Faltbücher aus Rindenpapier, die mit Kalk grundiert waren. Fast alle wurden nach der spanischen Eroberung vernichtet – durch Feuchtigkeit und Termiten, vor allem aber durch Missionare. Bei dem [[ereignis:buecherverbrennung-mani|Autodafé von Maní]] im Juli 1562 ließ Diego de Landa Handschriften verbrennen; er schrieb später, die Maya hätten dies „sehr bedauert“. Erhalten sind nur vier Kodizes: in Dresden, Madrid und Paris sowie ein in Mexiko-Stadt verwahrtes Fragment, dessen Echtheit in den 2010er Jahren bestätigt wurde. Der Dresdner Kodex enthält unter anderem astronomische Tafeln für die Bewegungen der Venus.[@q-dresdner-kodex; @q-landa; @coe-1992]
 :::
+
+![[dresdner-kodex]]
 
 ## Die Entzifferung
 

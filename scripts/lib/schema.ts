@@ -183,6 +183,7 @@ export const mediaSchema = z.object({
   title: z.string(),
   caption: z.string(),
   alt: z.string(),
+  author: z.string().optional(),
   reconstruction: z.boolean().default(false),
 })
 

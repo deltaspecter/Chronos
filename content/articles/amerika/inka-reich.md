@@ -19,6 +19,7 @@ cultures: [inka]
 terms: [sapa-inka, khipu, mita, ayllu, qhapaq-nan, konquista]
 related: [maya-klassik]
 bibliography: [daltroy-2014, julien-1998, hemming-1970, urton-2003, hyslop-1984, cook-1998, burger-salazar-2004, burger-2021, wachtel-1971, q-betanzos, q-cieza-de-leon, q-xerez, q-garcilaso, q-guaman-poma]
+image: machu-picchu-anlage
 status: erstfassung
 version: 1
 updated: 2026-10-12

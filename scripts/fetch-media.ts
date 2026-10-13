@@ -10,6 +10,8 @@
  *  3. Eine verkleinerte Fassung (max. 1280 px breit) nach public/media/ laden
  *  4. Ergebnis in content/media/_commons.lock.json festhalten (wird versioniert)
  *
+ * Ist die Urheberangabe auf Commons unbrauchbar, kann sie im YAML-Eintrag mit `author:` überschrieben werden.
+ *
  * Der Inhalts-Build verweigert Abbildungen ohne Eintrag in der Lock-Datei.
  */
 import { execFileSync } from 'node:child_process'
@@ -31,6 +33,8 @@ const ALLOWED = [/^public domain/i, /^pd/i, /^cc0/i, /^cc by(-sa)? \d/i, /^cc-by
 interface Entry {
   id: string
   commons: string
+  /** Überschreibt die Urheberangabe von Commons, wenn diese offensichtlich unbrauchbar ist */
+  author?: string
 }
 type Lock = Record<string, { file: string; width: number; height: number; author: string; license: string; licenseUrl?: string; sourceUrl: string }>
 
@@ -81,7 +85,7 @@ for (const entry of entries) {
     failed++
     continue
   }
-  const author = strip(meta.Artist?.value ?? '') || 'unbekannt'
+  const author = entry.author ?? (strip(meta.Artist?.value ?? '') || 'unbekannt')
   const ext = info.mime === 'image/png' ? 'png' : 'jpg'
   const file = `${entry.id}.${ext}`
   const img = await fetch(info.thumburl, { headers: { 'User-Agent': UA } })

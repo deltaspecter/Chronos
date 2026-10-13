@@ -214,5 +214,57 @@
     "author": "Urheber unbekannt",
     "license": "Public domain",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carthage-1958-PortsPuniques.jpg"
+  },
+  "tikal-tempel-1": {
+    "file": "tikal-tempel-1.jpg",
+    "width": 900,
+    "height": 1200,
+    "author": "Raymond Ostertag",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tikal_Temple1_2006_08_11.JPG"
+  },
+  "dresdner-kodex": {
+    "file": "dresdner-kodex.jpg",
+    "width": 559,
+    "height": 1200,
+    "author": "Urheber unbekannt",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dresden_Codex_p09.jpg"
+  },
+  "machu-picchu-anlage": {
+    "file": "machu-picchu-anlage.jpg",
+    "width": 1200,
+    "height": 1171,
+    "author": "Martin St-Amant (S23678)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:80_-_Machu_Picchu_-_Juin_2009_-_edit.jpg"
+  },
+  "karl-denar": {
+    "file": "karl-denar.jpg",
+    "width": 1200,
+    "height": 1200,
+    "author": "Karolingische Münzstätte Mainz (Prägung 812–814)",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charlemagne_denier_Mayence_812_814.jpg"
+  },
+  "samarra-minarett": {
+    "file": "samarra-minarett.jpg",
+    "width": 1200,
+    "height": 907,
+    "author": "Jim Gordon",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_spiral_minaret_in_Samarra.jpg"
+  },
+  "watt-dampfmaschine": {
+    "file": "watt-dampfmaschine.jpg",
+    "width": 1024,
+    "height": 760,
+    "author": "Nicolás Pérez",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maquina_vapor_Watt_ETSIIM.jpg"
   }
 }

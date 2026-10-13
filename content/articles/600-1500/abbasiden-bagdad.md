@@ -18,6 +18,7 @@ polities: [umayyaden-kalifat, abbasiden-kalifat, byzantinisches-reich]
 terms: [kalif, wesir, uebersetzungsbewegung, ghulam, mihna]
 related: [karl-der-grosse, reich-von-mali, achaemenidenreich]
 bibliography: [kennedy-2004, kennedy-2016, gutas-1998, kraemer-2005, halm-2004, bloom-2001, lassner-1970, q-tabari, q-yaqubi, q-ibn-an-nadim, q-al-khwarizmi]
+image: samarra-minarett
 status: erstfassung
 version: 1
 updated: 2026-10-12

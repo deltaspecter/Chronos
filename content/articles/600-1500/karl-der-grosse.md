@@ -18,6 +18,7 @@ polities: [frankenreich, langobardenreich, byzantinisches-reich, abbasiden-kalif
 terms: [kapitular, missi-dominici, pfalz, karolingische-minuskel, karolingische-renaissance]
 related: [abbasiden-bagdad, augustus, reformation]
 bibliography: [fried-2013, becher-1999, mckitterick-2008, schieffer-2006, hartmann-2010, weinfurter-2013, costambeys-innes-maclean-2011, pirenne-1937, mccormick-2001, q-einhard, q-reichsannalen, q-admonitio-generalis, q-capitulatio-saxonia, q-notker]
+image: karl-denar
 status: erstfassung
 version: 1
 updated: 2026-10-12
