@@ -1,0 +1,62 @@
+- id: vernichtungskrieg
+  name: Vernichtungskrieg
+  definition: Krieg, der nicht nur auf die Niederlage des Gegners zielt, sondern auf die Vernichtung oder Versklavung ganzer Bevölkerungsgruppen; insbesondere der deutsche Krieg gegen die Sowjetunion ab 1941.
+  themes: [krieg-militaer, gewalt-genozid]
+- id: zwangsarbeit
+  name: Zwangsarbeit
+  aliases: [Zwangsarbeiter, Fremdarbeiter, Ostarbeiter]
+  definition: Unter Zwang geleistete Arbeit; im nationalsozialistischen Deutschland mussten über 13 Millionen Menschen aus fast ganz Europa – Zivilisten, Kriegsgefangene und KZ-Häftlinge – Zwangsarbeit leisten.
+  themes: [sklaverei-unfreiheit, gewalt-genozid]
+- id: atombombe
+  name: Atombombe
+  aliases: [Kernwaffe, Atomwaffe, Nuklearwaffe]
+  definition: Waffe, deren Sprengkraft auf Kernspaltung oder Kernfusion beruht; im Krieg nur zweimal eingesetzt, im August 1945 gegen Hiroshima und Nagasaki.
+  themes: [krieg-militaer, wissenschaft-technik]
+- id: eindaemmung
+  name: Eindämmung
+  aliases: [Containment, Eindämmungspolitik]
+  definition: Leitlinie der US-Außenpolitik im Kalten Krieg, die Ausbreitung des sowjetischen Einflusses mit politischen, wirtschaftlichen und militärischen Mitteln zu begrenzen.
+  themes: [politik]
+- id: stellvertreterkrieg
+  name: Stellvertreterkrieg
+  aliases: [Proxy-Krieg]
+  definition: Krieg, in dem Großmächte nicht direkt gegeneinander kämpfen, sondern verfeindete Parteien in einem dritten Land unterstützen – im Kalten Krieg etwa in Korea, Vietnam, Angola und Afghanistan.
+  themes: [krieg-militaer]
+- id: entspannungspolitik
+  name: Entspannungspolitik
+  aliases: [Détente]
+  definition: Phase des Kalten Krieges, vor allem in den 1970er Jahren, in der die Supermächte Rüstungskontrollverträge schlossen und den Austausch zwischen Ost und West ausweiteten.
+  themes: [politik]
+- id: blockfreie
+  name: Bewegung der Blockfreien
+  aliases: [Blockfreiheit, Non-Aligned Movement, Blockfreie Staaten]
+  definition: 1961 in Belgrad gegründeter Zusammenschluss von Staaten, vor allem aus Asien und Afrika, die sich keinem der beiden Machtblöcke anschließen wollten.
+  themes: [politik]
+- id: satyagraha
+  name: Satyagraha
+  aliases: [gewaltfreier Widerstand, ziviler Ungehorsam]
+  definition: „Festhalten an der Wahrheit“ – von Gandhi entwickelte Form des gewaltlosen Widerstands durch Verweigerung, Boykott und bewusstes Übertreten ungerechter Gesetze.
+  themes: [politik, religion]
+- id: zwei-nationen-theorie
+  name: Zwei-Nationen-Theorie
+  definition: Von der Muslimliga vertretene Auffassung, Hindus und Muslime in Indien bildeten zwei verschiedene Nationen, die Anspruch auf eigene Staaten hätten.
+  themes: [politik, religion]
+- id: dekolonisation
+  name: Dekolonisation
+  aliases: [Dekolonisierung, Entkolonialisierung]
+  definition: Der Prozess, in dem Kolonien – vor allem zwischen 1945 und 1975 – ihre Unabhängigkeit erlangten, teils durch Verhandlungen, teils durch Kriege.
+  themes: [imperien, politik]
+- id: kolonialismus
+  name: Kolonialismus
+  aliases: [Kolonialherrschaft, Kolonie]
+  definition: Herrschaft über ein fremdes Gebiet und seine Bevölkerung durch eine meist entfernte Macht, die sich ihren Kolonisierten kulturell überlegen fühlt und deren Land, Arbeit und Ressourcen für eigene Zwecke nutzt.
+  themes: [imperien]
+- id: voelkermord
+  name: Völkermord
+  aliases: [Genozid, Genocide]
+  definition: Nach der UN-Konvention von 1948 Handlungen in der Absicht, eine nationale, ethnische, rassische oder religiöse Gruppe ganz oder teilweise zu zerstören; den Begriff prägte der Jurist Raphael Lemkin 1944.
+  themes: [gewalt-genozid, verfassung-recht]
+- id: konzentrationslager-kolonial
+  name: Konzentrationslager (kolonial)
+  definition: Lager zur Internierung von Zivilisten und Gefangenen in Kolonialkriegen um 1900, etwa von Spanien auf Kuba, von Großbritannien im Südafrikanischen Krieg und vom Deutschen Reich in Südwestafrika; nicht gleichzusetzen mit den späteren NS-Vernichtungslagern.
+  themes: [gewalt-genozid, imperien]

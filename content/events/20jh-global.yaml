@@ -1,0 +1,558 @@
+# --- Zweiter Weltkrieg ---
+- id: mandschurei-1931
+  title: Japanische Besetzung der Mandschurei
+  date: "1931-09-18"
+  weight: 3
+  kind: krieg
+  summary: Nach einem selbst inszenierten Anschlag auf eine Eisenbahnlinie besetzt die japanische Armee die Mandschurei und errichtet den Marionettenstaat Mandschukuo.
+  regions: [china]
+  themes: [krieg-militaer, imperien]
+  polities: [kaiserreich-japan, republik-china]
+- id: japanisch-chinesischer-krieg
+  title: Japanisch-Chinesischer Krieg
+  start: "1937-07-07"
+  end: "1945-09-02"
+  weight: 1
+  kind: krieg
+  summary: Nach einem Zwischenfall an der Marco-Polo-Brücke bei Peking beginnt ein umfassender Krieg Japans gegen China, der Millionen Menschenleben fordert.
+  regions: [china, japan]
+  themes: [krieg-militaer]
+  persons: [chiang-kai-shek, mao-zedong, hirohito]
+  polities: [kaiserreich-japan, republik-china]
+- id: massaker-von-nanjing
+  title: Massaker von Nanjing
+  start: "1937-12-13"
+  end: "1938-01"
+  weight: 2
+  kind: ereignis
+  dateNote: Die Zahl der Opfer ist umstritten; Schätzungen reichen von mehreren Zehntausend bis über 200.000.
+  summary: Nach der Eroberung der chinesischen Hauptstadt ermorden japanische Soldaten über Wochen Kriegsgefangene und Zivilisten und vergewaltigen Zehntausende Frauen.
+  regions: [china]
+  themes: [gewalt-genozid]
+  places: [nanjing]
+  polities: [kaiserreich-japan]
+- id: muenchner-abkommen
+  title: Münchner Abkommen
+  date: "1938-09-30"
+  weight: 2
+  kind: vertrag
+  summary: Großbritannien, Frankreich, Italien und Deutschland vereinbaren ohne Beteiligung der Tschechoslowakei die Abtretung des Sudetenlandes an das Deutsche Reich.
+  regions: [mitteleuropa]
+  themes: [politik]
+  places: [muenchen]
+  persons: [adolf-hitler, benito-mussolini]
+  polities: [ns-staat, vereinigtes-koenigreich, faschistisches-italien]
+- id: hitler-stalin-pakt
+  title: Hitler-Stalin-Pakt
+  date: "1939-08-23"
+  weight: 2
+  kind: vertrag
+  summary: Das Deutsche Reich und die Sowjetunion schließen einen Nichtangriffsvertrag; ein geheimes Zusatzprotokoll teilt Ostmitteleuropa in Interessensphären auf.
+  regions: [mitteleuropa, osteuropa]
+  themes: [politik]
+  places: [moskau]
+  persons: [adolf-hitler, josef-stalin]
+  polities: [ns-staat, sowjetunion]
+- id: westfeldzug-1940
+  title: Deutscher Angriff im Westen
+  start: "1940-05-10"
+  end: "1940-06-22"
+  weight: 2
+  kind: krieg
+  summary: Deutsche Truppen besetzen die Niederlande, Belgien, Luxemburg und Frankreich; Frankreich schließt am 22. Juni einen Waffenstillstand.
+  regions: [westeuropa, frankreich]
+  themes: [krieg-militaer]
+  places: [duenkirchen, compiegne, paris]
+  polities: [ns-staat]
+- id: luftschlacht-um-england
+  title: Luftschlacht um England
+  start: "1940-07"
+  end: "1941-05"
+  weight: 3
+  kind: krieg
+  summary: Die deutsche Luftwaffe versucht, die britische Luftwaffe auszuschalten und Städte durch Bombenangriffe zu zermürben; Großbritannien hält stand.
+  regions: [britische-inseln]
+  themes: [krieg-militaer]
+  places: [london]
+  persons: [winston-churchill]
+  polities: [ns-staat, vereinigtes-koenigreich]
+- id: belagerung-leningrads
+  title: Belagerung Leningrads
+  start: "1941-09-08"
+  end: "1944-01-27"
+  weight: 2
+  kind: krieg
+  summary: Deutsche und finnische Truppen schließen Leningrad ein; die deutsche Führung will die Stadt aushungern. Rund eine Million Zivilisten sterben.
+  regions: [russland]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [leningrad]
+  polities: [ns-staat, sowjetunion]
+- id: angriff-auf-pearl-harbor
+  title: Angriff auf Pearl Harbor
+  date: "1941-12-07"
+  weight: 1
+  kind: krieg
+  summary: Japanische Trägerflugzeuge greifen die US-Pazifikflotte an; die USA treten in den Krieg ein, Deutschland erklärt ihnen am 11. Dezember den Krieg.
+  regions: [ozeanien, nordamerika]
+  themes: [krieg-militaer]
+  places: [pearl-harbor]
+  persons: [franklin-d-roosevelt, hirohito]
+  polities: [kaiserreich-japan, vereinigte-staaten]
+- id: schlacht-um-midway
+  title: Schlacht um Midway
+  date: "1942-06-04"
+  weight: 3
+  kind: schlacht
+  summary: Die US-Marine versenkt vier japanische Flugzeugträger; Japan verliert die Initiative im Pazifik.
+  regions: [ozeanien]
+  themes: [krieg-militaer]
+  places: [midway]
+  polities: [kaiserreich-japan, vereinigte-staaten]
+- id: schlacht-von-stalingrad
+  title: Schlacht von Stalingrad
+  start: "1942-08"
+  end: "1943-02-02"
+  weight: 1
+  kind: schlacht
+  summary: Die Rote Armee schließt die deutsche 6. Armee in Stalingrad ein und zwingt sie zur Kapitulation – ein Wendepunkt des Krieges.
+  regions: [russland]
+  themes: [krieg-militaer]
+  places: [stalingrad]
+  persons: [georgi-schukow]
+  polities: [ns-staat, sowjetunion]
+- id: hungersnot-bengalen-1943
+  title: Hungersnot in Bengalen
+  date: "1943"
+  weight: 3
+  kind: katastrophe
+  summary: In der britischen Provinz Bengalen sterben etwa drei Millionen Menschen an Hunger und Krankheiten; Kriegswirtschaft, Preissteigerungen und das Versagen der Kolonialverwaltung verschärfen die Not.
+  regions: [suedasien]
+  themes: [umwelt-klima, imperien]
+  places: [kalkutta]
+  polities: [britisch-indien]
+- id: landung-in-der-normandie
+  title: Landung in der Normandie
+  date: "1944-06-06"
+  weight: 1
+  kind: schlacht
+  summary: Amerikanische, britische, kanadische und weitere alliierte Truppen landen an der Küste der Normandie und eröffnen die zweite Front in Westeuropa.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+  places: [normandie]
+  polities: [vereinigte-staaten, vereinigtes-koenigreich, ns-staat]
+- id: konferenz-von-jalta
+  title: Konferenz von Jalta
+  start: "1945-02-04"
+  end: "1945-02-11"
+  weight: 2
+  kind: vertrag
+  summary: Roosevelt, Churchill und Stalin verständigen sich über die Besetzung Deutschlands, die Zukunft Polens, die Gründung der Vereinten Nationen und den Kriegseintritt der Sowjetunion gegen Japan.
+  regions: [osteuropa]
+  themes: [politik]
+  places: [jalta]
+  persons: [franklin-d-roosevelt, winston-churchill, josef-stalin]
+- id: gruendung-der-uno
+  title: Gründung der Vereinten Nationen
+  date: "1945-06-26"
+  weight: 2
+  kind: gruendung
+  summary: Vertreter von 50 Staaten unterzeichnen in San Francisco die Charta der Vereinten Nationen; sie tritt am 24. Oktober 1945 in Kraft.
+  regions: [welt, nordamerika]
+  themes: [politik, verfassung-recht]
+  places: [san-francisco]
+  polities: [vereinte-nationen]
+- id: atombomben-hiroshima-nagasaki
+  title: Atombombenabwürfe auf Hiroshima und Nagasaki
+  start: "1945-08-06"
+  end: "1945-08-09"
+  weight: 1
+  kind: krieg
+  summary: Die USA werfen Atombomben auf Hiroshima und Nagasaki; bis Ende 1945 sterben dort schätzungsweise 150.000 bis 220.000 Menschen, viele weitere an den Spätfolgen.
+  regions: [japan]
+  themes: [krieg-militaer, gewalt-genozid, wissenschaft-technik]
+  places: [hiroshima, nagasaki]
+  persons: [harry-s-truman]
+  polities: [vereinigte-staaten, kaiserreich-japan]
+- id: kapitulation-japans
+  title: Kapitulation Japans
+  date: "1945-09-02"
+  weight: 1
+  kind: vertrag
+  summary: Nach der Rundfunkansprache des Kaisers am 15. August unterzeichnet Japan an Bord der USS Missouri in der Bucht von Tokio die Kapitulation; der Zweite Weltkrieg ist beendet.
+  regions: [japan]
+  themes: [krieg-militaer]
+  persons: [hirohito]
+  polities: [kaiserreich-japan, vereinigte-staaten]
+
+# --- Kalter Krieg ---
+- id: truman-doktrin
+  title: Truman-Doktrin
+  date: "1947-03-12"
+  weight: 3
+  kind: ereignis
+  summary: Präsident Truman kündigt Hilfe für Griechenland und die Türkei an und erklärt die Unterstützung „freier Völker“ gegen kommunistischen Druck zur Leitlinie der US-Politik.
+  regions: [nordamerika, suedosteuropa]
+  themes: [politik]
+  places: [washington]
+  persons: [harry-s-truman]
+  polities: [vereinigte-staaten]
+- id: berlin-blockade
+  title: Berlin-Blockade und Luftbrücke
+  start: "1948-06-24"
+  end: "1949-05-12"
+  weight: 2
+  kind: ereignis
+  summary: Die Sowjetunion sperrt die Landwege nach West-Berlin; die Westmächte versorgen die Stadt fast ein Jahr lang über eine Luftbrücke.
+  regions: [deutschland]
+  themes: [politik]
+  places: [berlin]
+  polities: [sowjetunion, vereinigte-staaten, vereinigtes-koenigreich]
+- id: gruendung-der-nato
+  title: Gründung der NATO
+  date: "1949-04-04"
+  weight: 3
+  kind: gruendung
+  summary: Zwölf Staaten Nordamerikas und Westeuropas unterzeichnen in Washington den Nordatlantikvertrag.
+  regions: [nordamerika, europa]
+  themes: [krieg-militaer, politik]
+  places: [washington]
+  polities: [nato, vereinigte-staaten]
+- id: sowjetische-atombombe
+  title: Erste sowjetische Atombombe
+  date: "1949-08-29"
+  weight: 3
+  kind: ereignis
+  summary: Die Sowjetunion zündet ihre erste Atombombe; das amerikanische Atomwaffenmonopol ist beendet, das Wettrüsten beginnt.
+  regions: [zentralasien, russland]
+  themes: [krieg-militaer, wissenschaft-technik]
+  polities: [sowjetunion]
+- id: gruendung-der-volksrepublik-china
+  title: Gründung der Volksrepublik China
+  date: "1949-10-01"
+  weight: 2
+  kind: gruendung
+  summary: Mao Zedong ruft in Peking die Volksrepublik aus; die Regierung der Republik China zieht sich nach Taiwan zurück.
+  regions: [china]
+  themes: [revolutionen, politik]
+  persons: [mao-zedong, chiang-kai-shek]
+  polities: [volksrepublik-china, republik-china]
+- id: koreakrieg
+  title: Koreakrieg
+  start: "1950-06-25"
+  end: "1953-07-27"
+  weight: 1
+  kind: krieg
+  summary: Nordkorea greift den Süden an; UN-Truppen unter Führung der USA und chinesische „Freiwillige“ greifen ein. Der Krieg endet mit einem Waffenstillstand an der Ausgangslinie; Millionen Menschen sterben.
+  regions: [korea]
+  themes: [krieg-militaer]
+  places: [seoul]
+  persons: [mao-zedong, harry-s-truman, josef-stalin]
+  polities: [vereinigte-staaten, volksrepublik-china, sowjetunion, vereinte-nationen]
+- id: bandung-konferenz
+  title: Bandung-Konferenz
+  start: "1955-04-18"
+  end: "1955-04-24"
+  weight: 3
+  kind: ereignis
+  summary: Vertreter von 29 asiatischen und afrikanischen Staaten verurteilen den Kolonialismus und beraten über einen Weg zwischen den Blöcken.
+  regions: [suedostasien, suedasien, afrika]
+  themes: [politik, imperien]
+  places: [bandung]
+  persons: [jawaharlal-nehru]
+- id: gruendung-warschauer-pakt
+  title: Gründung des Warschauer Pakts
+  date: "1955-05-14"
+  weight: 3
+  kind: gruendung
+  summary: Die Sowjetunion und ihre Verbündeten in Ostmittel- und Südosteuropa schließen ein Militärbündnis.
+  regions: [osteuropa, mitteleuropa]
+  themes: [krieg-militaer]
+  places: [warschau]
+  polities: [warschauer-pakt, sowjetunion]
+- id: ungarischer-volksaufstand
+  title: Ungarischer Volksaufstand
+  start: "1956-10-23"
+  end: "1956-11-11"
+  weight: 2
+  kind: revolution
+  summary: Ein Aufstand gegen die kommunistische Herrschaft führt zum Austritt Ungarns aus dem Warschauer Pakt; sowjetische Truppen schlagen ihn nieder.
+  regions: [mitteleuropa]
+  themes: [revolutionen]
+  places: [budapest]
+  persons: [imre-nagy, nikita-chruschtschow]
+  polities: [sowjetunion, warschauer-pakt]
+- id: sputnik
+  title: Start von Sputnik 1
+  date: "1957-10-04"
+  weight: 3
+  kind: entdeckung
+  summary: Die Sowjetunion bringt den ersten künstlichen Satelliten in eine Erdumlaufbahn; im Westen löst dies den „Sputnik-Schock“ und den Wettlauf ins All aus.
+  regions: [zentralasien, russland]
+  themes: [wissenschaft-technik]
+  polities: [sowjetunion]
+- id: kubakrise
+  title: Kubakrise
+  start: "1962-10-16"
+  end: "1962-10-28"
+  weight: 1
+  kind: ereignis
+  summary: Die USA entdecken sowjetische Atomraketen auf Kuba; nach dreizehn Tagen am Rand eines Atomkriegs sagt Chruschtschow den Abzug zu, die USA verzichten auf eine Invasion Kubas und ziehen später Raketen aus der Türkei ab.
+  regions: [karibik, nordamerika]
+  themes: [krieg-militaer, politik]
+  places: [havanna, washington]
+  persons: [john-f-kennedy, nikita-chruschtschow, fidel-castro]
+  polities: [vereinigte-staaten, sowjetunion]
+- id: vietnamkrieg
+  title: Vietnamkrieg
+  start: "1955"
+  end: "1975-04-30"
+  weight: 1
+  kind: krieg
+  summary: Krieg zwischen dem kommunistischen Norden und dem von den USA unterstützten Süden Vietnams; ab 1965 kämpfen über eine halbe Million US-Soldaten. Er endet mit der Einnahme Saigons.
+  regions: [suedostasien]
+  themes: [krieg-militaer]
+  places: [hanoi, saigon]
+  persons: [ho-chi-minh]
+  polities: [vereinigte-staaten]
+- id: prager-fruehling
+  title: Prager Frühling
+  start: "1968-01"
+  end: "1968-08-21"
+  weight: 2
+  kind: revolution
+  summary: Reformen eines „Sozialismus mit menschlichem Antlitz“ in der Tschechoslowakei werden durch den Einmarsch von Truppen des Warschauer Pakts beendet.
+  regions: [mitteleuropa]
+  themes: [revolutionen, politik]
+  places: [prag]
+  persons: [alexander-dubcek, leonid-breschnew]
+  polities: [warschauer-pakt, sowjetunion]
+- id: ksze-schlussakte
+  title: KSZE-Schlussakte von Helsinki
+  date: "1975-08-01"
+  weight: 3
+  kind: vertrag
+  summary: 35 Staaten aus Ost und West bekennen sich zur Unverletzlichkeit der Grenzen und zur Achtung der Menschenrechte.
+  regions: [europa, nordamerika]
+  themes: [politik, verfassung-recht]
+  places: [helsinki]
+  persons: [leonid-breschnew]
+- id: sowjetischer-einmarsch-afghanistan
+  title: Sowjetischer Einmarsch in Afghanistan
+  date: "1979-12-24"
+  weight: 2
+  kind: krieg
+  summary: Sowjetische Truppen marschieren in Afghanistan ein; ein zehnjähriger Krieg gegen von den USA, Pakistan und Saudi-Arabien unterstützte Mudschaheddin beginnt.
+  regions: [zentralasien, suedasien]
+  themes: [krieg-militaer]
+  places: [kabul]
+  persons: [leonid-breschnew]
+  polities: [sowjetunion]
+- id: inf-vertrag
+  title: INF-Vertrag
+  date: "1987-12-08"
+  weight: 3
+  kind: vertrag
+  summary: Reagan und Gorbatschow vereinbaren die Abschaffung aller landgestützten Mittelstreckenraketen – erstmals wird eine ganze Waffengattung abgerüstet.
+  regions: [nordamerika, russland]
+  themes: [krieg-militaer, politik]
+  places: [washington]
+  persons: [ronald-reagan, michail-gorbatschow]
+  polities: [vereinigte-staaten, sowjetunion]
+- id: aufloesung-der-sowjetunion
+  title: Auflösung der Sowjetunion
+  date: "1991-12-26"
+  weight: 1
+  kind: ereignis
+  summary: Nach dem gescheiterten Putsch im August und den Unabhängigkeitserklärungen der Republiken löst sich die Sowjetunion auf; der Kalte Krieg ist beendet.
+  regions: [russland, osteuropa, zentralasien]
+  themes: [politik]
+  places: [moskau]
+  persons: [michail-gorbatschow]
+  polities: [sowjetunion]
+
+# --- Indien ---
+- id: massaker-von-amritsar
+  title: Massaker von Amritsar
+  date: "1919-04-13"
+  weight: 2
+  kind: ereignis
+  summary: Britische Truppen unter General Dyer schießen im Jallianwala Bagh auf eine unbewaffnete Menge; nach offiziellen Angaben sterben 379 Menschen, nach indischen Schätzungen weit über tausend.
+  regions: [suedasien]
+  themes: [gewalt-genozid, imperien]
+  places: [amritsar]
+  persons: [reginald-dyer]
+  polities: [britisch-indien]
+- id: salzmarsch
+  title: Salzmarsch
+  start: "1930-03-12"
+  end: "1930-04-06"
+  weight: 2
+  kind: ereignis
+  summary: Gandhi marschiert mit Anhängern rund 380 Kilometer an die Küste, um Salz zu gewinnen und damit das britische Salzmonopol zu brechen; Zehntausende werden in der folgenden Kampagne verhaftet.
+  regions: [suedasien]
+  themes: [politik]
+  places: [dandi]
+  persons: [mahatma-gandhi]
+  polities: [britisch-indien]
+- id: lahore-resolution
+  title: Lahore-Resolution der Muslimliga
+  date: "1940-03-23"
+  weight: 3
+  kind: ereignis
+  summary: Die Muslimliga fordert eigene Staaten für die Gebiete mit muslimischer Mehrheit – später als Gründungsdokument Pakistans verstanden.
+  regions: [suedasien]
+  themes: [politik, religion]
+  places: [lahore]
+  persons: [muhammad-ali-jinnah]
+  polities: [britisch-indien]
+- id: quit-india
+  title: „Quit India“-Bewegung
+  date: "1942-08-08"
+  weight: 3
+  kind: ereignis
+  summary: Der Kongress fordert den sofortigen Abzug der Briten; die Kolonialregierung verhaftet die gesamte Führung, Unruhen werden gewaltsam unterdrückt.
+  regions: [suedasien]
+  themes: [politik]
+  persons: [mahatma-gandhi, jawaharlal-nehru]
+  polities: [britisch-indien]
+- id: direct-action-day
+  title: Unruhen von Kalkutta („Direct Action Day“)
+  date: "1946-08-16"
+  weight: 3
+  kind: ereignis
+  summary: Am Aktionstag der Muslimliga bricht in Kalkutta tagelange Gewalt zwischen Hindus und Muslimen aus; Tausende sterben, die Gewalt greift auf andere Regionen über.
+  regions: [suedasien]
+  themes: [gewalt-genozid, religion]
+  places: [kalkutta]
+  polities: [britisch-indien]
+- id: unabhaengigkeit-indiens
+  title: Unabhängigkeit und Teilung Indiens
+  date: "1947-08-15"
+  weight: 1
+  kind: gruendung
+  summary: Britisch-Indien wird in die unabhängigen Staaten Indien und Pakistan geteilt; Massengewalt und eine der größten Fluchtbewegungen der Geschichte folgen.
+  regions: [suedasien]
+  themes: [politik, imperien, migration, gewalt-genozid]
+  places: [delhi, karachi, lahore, amritsar]
+  persons: [jawaharlal-nehru, muhammad-ali-jinnah, louis-mountbatten, cyril-radcliffe]
+  polities: [britisch-indien, republik-indien, pakistan]
+- id: erster-kaschmirkrieg
+  title: Erster Kaschmirkrieg
+  start: "1947-10"
+  end: "1949-01-01"
+  weight: 3
+  kind: krieg
+  summary: Indien und Pakistan kämpfen um den Fürstenstaat Kaschmir; ein von den Vereinten Nationen vermittelter Waffenstillstand teilt das Gebiet.
+  regions: [suedasien]
+  themes: [krieg-militaer]
+  places: [srinagar]
+  polities: [republik-indien, pakistan]
+- id: ermordung-gandhis
+  title: Ermordung Gandhis
+  date: "1948-01-30"
+  weight: 2
+  kind: ereignis
+  summary: Ein hindunationalistischer Attentäter erschießt Gandhi in Delhi, weil er ihn für zu nachgiebig gegenüber Muslimen und Pakistan hält.
+  regions: [suedasien]
+  themes: [politik, religion]
+  places: [delhi]
+  persons: [mahatma-gandhi]
+  polities: [republik-indien]
+- id: indische-verfassung
+  title: Inkrafttreten der indischen Verfassung
+  date: "1950-01-26"
+  weight: 3
+  kind: gesetz
+  summary: Indien wird eine Republik mit einer demokratischen Verfassung, die Gleichheit vor dem Gesetz garantiert und „Unberührbarkeit“ abschafft.
+  regions: [suedasien]
+  themes: [verfassung-recht]
+  places: [delhi]
+  persons: [br-ambedkar]
+  polities: [republik-indien]
+- id: unabhaengigkeit-bangladeschs
+  title: Unabhängigkeitskrieg Bangladeschs
+  start: "1971-03-26"
+  end: "1971-12-16"
+  weight: 3
+  kind: krieg
+  summary: Ostpakistan erklärt sich nach brutaler Unterdrückung durch die pakistanische Armee unabhängig; mit indischer Unterstützung entsteht Bangladesch.
+  regions: [suedasien]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [dhaka]
+  polities: [pakistan, bangladesch, republik-indien]
+
+# --- Herero und Nama ---
+- id: kolonie-suedwestafrika
+  title: Deutsches „Schutzgebiet“ Südwestafrika
+  date: "1884"
+  weight: 3
+  kind: herrschaft
+  summary: Das Deutsche Reich erklärt die Besitzungen des Bremer Kaufmanns Adolf Lüderitz zum „Schutzgebiet“; die Kolonialherrschaft dehnt sich in den folgenden Jahren aus.
+  regions: [suedliches-afrika]
+  themes: [imperien]
+  polities: [deutsch-suedwestafrika, deutsches-kaiserreich]
+- id: herero-aufstand
+  title: Beginn des Herero-Krieges
+  date: "1904-01-12"
+  weight: 2
+  kind: krieg
+  summary: Herero unter Samuel Maharero erheben sich gegen Landraub, Schulden und Willkür der Siedler; über hundert deutsche Siedler, fast nur Männer, werden getötet.
+  regions: [suedliches-afrika]
+  themes: [krieg-militaer, imperien]
+  places: [okahandja]
+  persons: [samuel-maharero]
+  polities: [deutsch-suedwestafrika]
+- id: schlacht-am-waterberg
+  title: Schlacht am Waterberg
+  date: "1904-08-11"
+  weight: 2
+  kind: schlacht
+  summary: Deutsche Truppen unter Lothar von Trotha greifen die am Waterberg versammelten Herero mit ihren Familien und Herden an und drängen sie in die Omaheke-Wüste.
+  regions: [suedliches-afrika]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [waterberg, omaheke]
+  persons: [lothar-von-trotha, samuel-maharero]
+  polities: [deutsch-suedwestafrika]
+- id: vernichtungsbefehl
+  title: Trothas „Vernichtungsbefehl“
+  date: "1904-10-02"
+  weight: 2
+  kind: ereignis
+  summary: Trotha erklärt, jeder Herero innerhalb der deutschen Grenzen werde erschossen; Frauen und Kinder sollen in die Wüste zurückgetrieben werden.
+  regions: [suedliches-afrika]
+  themes: [gewalt-genozid]
+  places: [omaheke]
+  persons: [lothar-von-trotha]
+  polities: [deutsch-suedwestafrika]
+- id: nama-krieg
+  title: Krieg der Nama
+  start: "1904-10"
+  end: "1908"
+  weight: 3
+  kind: krieg
+  summary: Die Nama unter Hendrik Witbooi und Jakob Morenga führen einen Guerillakrieg gegen die Kolonialmacht; Witbooi fällt 1905.
+  regions: [suedliches-afrika]
+  themes: [krieg-militaer]
+  places: [gibeon]
+  persons: [hendrik-witbooi]
+  polities: [deutsch-suedwestafrika]
+- id: konzentrationslager-suedwestafrika
+  title: Konzentrationslager in Deutsch-Südwestafrika
+  start: "1904-12"
+  end: "1908"
+  weight: 2
+  kind: ereignis
+  summary: Gefangene Herero und Nama werden in Lagern interniert und zur Zwangsarbeit gezwungen; Tausende sterben an Hunger, Kälte und Krankheiten, besonders auf der Haifischinsel bei Lüderitz.
+  regions: [suedliches-afrika]
+  themes: [gewalt-genozid, sklaverei-unfreiheit]
+  places: [haifischinsel, windhuk, swakopmund]
+  polities: [deutsch-suedwestafrika]
+- id: anerkennung-voelkermord-namibia
+  title: Deutschland erkennt den Völkermord an
+  date: "2021-05-28"
+  weight: 3
+  kind: ereignis
+  summary: Die Bundesregierung bezeichnet die Verbrechen in einer mit Namibia ausgehandelten gemeinsamen Erklärung als Völkermord und sagt 1,1 Milliarden Euro für Entwicklungsprojekte zu; Vertreter vieler Herero und Nama kritisieren, an den Verhandlungen nicht beteiligt worden zu sein.
+  regions: [suedliches-afrika, deutschland]
+  themes: [gewalt-genozid, politik, geschichtsschreibung]
+  polities: [bundesrepublik-deutschland, namibia]

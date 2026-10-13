@@ -1,0 +1,311 @@
+# Quellen und Literatur: Zweiter Weltkrieg, Kalter Krieg, Indien 1947, Herero und Nama
+
+# --- Zweiter Weltkrieg ---
+- id: weinberg-1994
+  kind: sekundaer
+  authors: ["Weinberg, Gerhard L."]
+  title: A World at Arms
+  subtitle: A Global History of World War II
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1994
+- id: overy-2021
+  kind: sekundaer
+  authors: ["Overy, Richard"]
+  title: Blood and Ruins
+  subtitle: The Great Imperial War, 1931–1945
+  place: London
+  publisher: Allen Lane
+  year: 2021
+- id: mitter-2013
+  kind: sekundaer
+  authors: ["Mitter, Rana"]
+  title: China's War with Japan, 1937–1945
+  subtitle: The Struggle for Survival
+  place: London
+  publisher: Allen Lane
+  year: 2013
+- id: dower-1986
+  kind: sekundaer
+  authors: ["Dower, John W."]
+  title: War Without Mercy
+  subtitle: Race and Power in the Pacific War
+  place: New York
+  publisher: Pantheon Books
+  year: 1986
+- id: mgfa-drzw
+  kind: sekundaer
+  editors: ["Militärgeschichtliches Forschungsamt"]
+  title: Das Deutsche Reich und der Zweite Weltkrieg
+  volume: 1–10 (in 13 Teilbänden)
+  place: Stuttgart / München
+  publisher: Deutsche Verlags-Anstalt
+  year: 1979–2008
+- id: hartmann-2011
+  kind: sekundaer
+  authors: ["Hartmann, Christian"]
+  title: Unternehmen Barbarossa
+  subtitle: Der deutsche Krieg im Osten 1941–1945
+  series: Beck'sche Reihe – C. H. Beck Wissen
+  place: München
+  publisher: C. H. Beck
+  year: 2011
+- id: merridale-2005
+  kind: sekundaer
+  authors: ["Merridale, Catherine"]
+  title: Ivan's War
+  subtitle: The Red Army 1939–1945
+  place: London
+  publisher: Faber and Faber
+  year: 2005
+- id: spoerer-2001
+  kind: sekundaer
+  authors: ["Spoerer, Mark"]
+  title: Zwangsarbeit unter dem Hakenkreuz
+  subtitle: Ausländische Zivilarbeiter, Kriegsgefangene und Häftlinge im Deutschen Reich und im besetzten Europa 1939–1945
+  place: Stuttgart / München
+  publisher: Deutsche Verlags-Anstalt
+  year: 2001
+- id: overmans-1999
+  kind: sekundaer
+  authors: ["Overmans, Rüdiger"]
+  title: Deutsche militärische Verluste im Zweiten Weltkrieg
+  place: München
+  publisher: Oldenbourg
+  year: 1999
+- id: q-hitler-stalin-pakt
+  kind: primaer
+  title: Deutsch-sowjetischer Nichtangriffsvertrag mit geheimem Zusatzprotokoll
+  written: 23. August 1939
+  note: Vertrag zwischen dem Deutschen Reich und der Sowjetunion; das geheime Zusatzprotokoll teilte Ostmitteleuropa in Interessensphären auf. Seine Existenz bestritt die Sowjetunion bis 1989.
+- id: q-un-charta
+  kind: primaer
+  title: Charta der Vereinten Nationen
+  written: 26. Juni 1945 (in Kraft 24. Oktober 1945)
+  note: Gründungsvertrag der Vereinten Nationen, unterzeichnet in San Francisco; Präambel – „künftige Geschlechter vor der Geißel des Krieges zu bewahren“.
+
+# --- Kalter Krieg ---
+- id: gaddis-2005
+  kind: sekundaer
+  authors: ["Gaddis, John Lewis"]
+  title: The Cold War
+  subtitle: A New History
+  place: New York
+  publisher: Penguin Press
+  year: 2005
+- id: westad-2005
+  kind: sekundaer
+  authors: ["Westad, Odd Arne"]
+  title: The Global Cold War
+  subtitle: Third World Interventions and the Making of Our Times
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2005
+- id: westad-2017
+  kind: sekundaer
+  authors: ["Westad, Odd Arne"]
+  title: The Cold War
+  subtitle: A World History
+  place: London
+  publisher: Allen Lane
+  year: 2017
+- id: stoever-2007
+  kind: sekundaer
+  authors: ["Stöver, Bernd"]
+  title: Der Kalte Krieg 1947–1991
+  subtitle: Geschichte eines radikalen Zeitalters
+  place: München
+  publisher: C. H. Beck
+  year: 2007
+- id: zubok-2007
+  kind: sekundaer
+  authors: ["Zubok, Vladislav M."]
+  title: A Failed Empire
+  subtitle: The Soviet Union in the Cold War from Stalin to Gorbachev
+  place: Chapel Hill
+  publisher: University of North Carolina Press
+  year: 2007
+- id: fursenko-naftali-1997
+  kind: sekundaer
+  authors: ["Fursenko, Aleksandr", "Naftali, Timothy"]
+  title: "„One Hell of a Gamble“"
+  subtitle: Khrushchev, Castro, and Kennedy, 1958–1964
+  place: New York
+  publisher: W. W. Norton
+  year: 1997
+- id: wilson-center-archive
+  kind: institution
+  title: Wilson Center Digital Archive
+  url: https://digitalarchive.wilsoncenter.org/
+  note: Sammlung übersetzter Dokumente aus Archiven in Ost und West zur internationalen Geschichte des Kalten Krieges.
+- id: q-kennan-telegramm
+  kind: primaer
+  authors: ["Kennan, George F."]
+  title: Das „Lange Telegramm“ aus Moskau
+  written: 22. Februar 1946
+  note: Analyse der sowjetischen Politik durch einen amerikanischen Diplomaten in Moskau, die die Politik der „Eindämmung“ (containment) vorbereitete.
+- id: q-truman-doktrin
+  kind: primaer
+  authors: ["Truman, Harry S."]
+  title: Rede vor dem Kongress (Truman-Doktrin)
+  written: 12. März 1947
+  note: Der US-Präsident kündigt Unterstützung für „freie Völker“ an, die sich gegen Unterwerfung durch bewaffnete Minderheiten oder äußeren Druck wehren, konkret für Griechenland und die Türkei.
+- id: q-helsinki-schlussakte
+  kind: primaer
+  title: Schlussakte der Konferenz über Sicherheit und Zusammenarbeit in Europa (KSZE)
+  written: Helsinki, 1. August 1975
+  note: Von 35 Staaten unterzeichnete Vereinbarung über Grenzen, Zusammenarbeit und Menschenrechte, auf die sich später Bürgerrechtsbewegungen in Osteuropa beriefen.
+
+# --- Indien 1947 ---
+- id: khan-2007
+  kind: sekundaer
+  authors: ["Khan, Yasmin"]
+  title: The Great Partition
+  subtitle: The Making of India and Pakistan
+  place: New Haven
+  publisher: Yale University Press
+  year: 2007
+- id: bose-jalal-2011
+  kind: sekundaer
+  authors: ["Bose, Sugata", "Jalal, Ayesha"]
+  title: Modern South Asia
+  subtitle: History, Culture, Political Economy
+  edition: 3. Auflage
+  place: London / New York
+  publisher: Routledge
+  year: 2011
+- id: jalal-1985
+  kind: sekundaer
+  authors: ["Jalal, Ayesha"]
+  title: The Sole Spokesman
+  subtitle: Jinnah, the Muslim League and the Demand for Pakistan
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1985
+- id: butalia-1998
+  kind: sekundaer
+  authors: ["Butalia, Urvashi"]
+  title: The Other Side of Silence
+  subtitle: Voices from the Partition of India
+  place: Neu-Delhi
+  publisher: Penguin Books India
+  year: 1998
+- id: guha-2007
+  kind: sekundaer
+  authors: ["Guha, Ramachandra"]
+  title: India after Gandhi
+  subtitle: The History of the World's Largest Democracy
+  place: London
+  publisher: Macmillan
+  year: 2007
+- id: brown-1994
+  kind: sekundaer
+  authors: ["Brown, Judith M."]
+  title: Modern India
+  subtitle: The Origins of an Asian Democracy
+  edition: 2. Auflage
+  place: Oxford
+  publisher: Oxford University Press
+  year: 1994
+- id: rothermund-2002
+  kind: sekundaer
+  authors: ["Rothermund, Dietmar"]
+  title: Geschichte Indiens
+  subtitle: Vom Mittelalter bis zur Gegenwart
+  series: Beck'sche Reihe – C. H. Beck Wissen
+  place: München
+  publisher: C. H. Beck
+  year: 2002
+- id: q-hind-swaraj
+  kind: primaer
+  authors: ["Gandhi, Mohandas Karamchand"]
+  title: Hind Swaraj (Indische Selbstregierung)
+  written: "1909"
+  note: Programmschrift in Dialogform, auf Gujarati auf einer Schiffsreise geschrieben; Kritik an der modernen westlichen Zivilisation und Begründung der Selbstregierung.
+- id: q-lahore-resolution
+  kind: primaer
+  title: Lahore-Resolution der Muslimliga
+  written: 23. März 1940
+  note: Forderung nach „unabhängigen Staaten“ in den Gebieten mit muslimischer Mehrheit im Nordwesten und Osten Indiens; später als Pakistan-Resolution bezeichnet, ihre genaue Bedeutung ist umstritten.
+- id: q-nehru-tryst
+  kind: primaer
+  authors: ["Nehru, Jawaharlal"]
+  title: „Tryst with Destiny“ (Rede vor der Verfassunggebenden Versammlung)
+  written: Nacht vom 14. auf den 15. August 1947
+  note: Rede zur Unabhängigkeit Indiens – „Um Mitternacht, wenn die Welt schläft, wird Indien zu Leben und Freiheit erwachen.“
+- id: q-indian-independence-act
+  kind: primaer
+  title: Indian Independence Act 1947
+  written: Juli 1947
+  note: Gesetz des britischen Parlaments, das zum 15. August 1947 die beiden unabhängigen Dominions Indien und Pakistan schuf.
+
+# --- Herero und Nama ---
+- id: zimmerer-zeller-2003
+  kind: sekundaer
+  editors: ["Zimmerer, Jürgen", "Zeller, Joachim"]
+  title: Völkermord in Deutsch-Südwestafrika
+  subtitle: Der Kolonialkrieg (1904–1908) in Namibia und seine Folgen
+  place: Berlin
+  publisher: Ch. Links
+  year: 2003
+- id: gewald-1999
+  kind: sekundaer
+  authors: ["Gewald, Jan-Bart"]
+  title: Herero Heroes
+  subtitle: A Socio-Political History of the Herero of Namibia, 1890–1923
+  place: Oxford
+  publisher: James Currey
+  year: 1999
+- id: drechsler-1966
+  kind: sekundaer
+  authors: ["Drechsler, Horst"]
+  title: Südwestafrika unter deutscher Kolonialherrschaft
+  subtitle: Der Kampf der Herero und Nama gegen den deutschen Imperialismus (1884–1915)
+  place: Berlin (Ost)
+  publisher: Akademie-Verlag
+  year: 1966
+- id: hull-2005
+  kind: sekundaer
+  authors: ["Hull, Isabel V."]
+  title: Absolute Destruction
+  subtitle: Military Culture and the Practices of War in Imperial Germany
+  place: Ithaca
+  publisher: Cornell University Press
+  year: 2005
+- id: conrad-2008
+  kind: sekundaer
+  authors: ["Conrad, Sebastian"]
+  title: Deutsche Kolonialgeschichte
+  series: Beck'sche Reihe – C. H. Beck Wissen
+  place: München
+  publisher: C. H. Beck
+  year: 2008
+- id: zimmerer-2011
+  kind: sekundaer
+  authors: ["Zimmerer, Jürgen"]
+  title: Von Windhuk nach Auschwitz?
+  subtitle: Beiträge zum Verhältnis von Kolonialismus und Holocaust
+  place: Münster
+  publisher: LIT
+  year: 2011
+- id: q-trotha-proklamation
+  kind: primaer
+  authors: ["Trotha, Lothar von"]
+  title: Proklamation an das Volk der Herero („Vernichtungsbefehl“)
+  written: 2. Oktober 1904
+  note: Bekanntmachung des Kommandeurs der Schutztruppe, nach der innerhalb der deutschen Grenzen jeder Herero „mit oder ohne Gewehr“ erschossen werden sollte; im Original im Bundesarchiv überliefert.
+- id: q-generalstabswerk
+  kind: primaer
+  authors: ["Großer Generalstab, Kriegsgeschichtliche Abteilung I"]
+  title: Die Kämpfe der deutschen Truppen in Südwestafrika
+  place: Berlin
+  publisher: E. S. Mittler & Sohn
+  year: 1906–1907
+  note: Offizielle Darstellung des Krieges durch den Generalstab, die die Vernichtung der Herero in der Omaheke-Wüste offen beschreibt.
+- id: q-blue-book-1918
+  kind: primaer
+  title: Report on the Natives of South-West Africa and Their Treatment by Germany
+  place: London
+  publisher: His Majesty's Stationery Office
+  year: 1918
+  note: Britisches „Blaubuch“ mit Aussagen afrikanischer Zeugen über den Krieg und die Lager; zugleich ein Propagandadokument, das Deutschland die Eignung als Kolonialmacht absprechen sollte, und 1926 in Südafrika zurückgezogen.

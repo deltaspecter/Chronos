@@ -1,0 +1,303 @@
+# Orte: Zweiter Weltkrieg
+- id: muenchen
+  name: München
+  coords: [11.5820, 48.1351]
+  categories: [stadt]
+  modernName: München (Bayern)
+  summary: Landeshauptstadt Bayerns; 1938 Ort des Abkommens, mit dem Großbritannien und Frankreich der Abtretung des Sudetenlandes an das Deutsche Reich zustimmten.
+  regions: [deutschland]
+- id: danzig
+  name: Danzig (Gdańsk)
+  aliases: [Gdańsk, Westerplatte]
+  coords: [18.6466, 54.3520]
+  categories: [stadt, hafen]
+  modernName: Gdańsk (Polen)
+  summary: Hafenstadt an der Ostsee; mit dem Beschuss der polnischen Stellung auf der Westerplatte begann am 1. September 1939 der Zweite Weltkrieg in Europa.
+  regions: [mitteleuropa]
+- id: duenkirchen
+  name: Dünkirchen
+  aliases: [Dunkerque, Dunkirk]
+  coords: [2.3768, 51.0343]
+  categories: [stadt, hafen]
+  modernName: Dunkerque (Frankreich)
+  summary: Hafenstadt, aus der im Mai und Juni 1940 über 330.000 britische und französische Soldaten über den Ärmelkanal evakuiert wurden.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+- id: leningrad
+  name: Leningrad (Sankt Petersburg)
+  aliases: [Sankt Petersburg, St. Petersburg, Petrograd]
+  coords: [30.3609, 59.9311]
+  categories: [stadt]
+  modernName: Sankt Petersburg (Russland)
+  summary: Zweitgrößte Stadt der Sowjetunion, von September 1941 bis Januar 1944 von deutschen und finnischen Truppen eingeschlossen; rund eine Million Zivilisten starben, die meisten an Hunger.
+  regions: [russland]
+  themes: [krieg-militaer, gewalt-genozid]
+- id: stalingrad
+  name: Stalingrad (Wolgograd)
+  aliases: [Wolgograd, Volgograd, Zarizyn]
+  coords: [44.5133, 48.7080]
+  categories: [stadt, schlachtfeld]
+  modernName: Wolgograd (Russland)
+  summary: Industriestadt an der Wolga, Schauplatz der Schlacht von 1942/43, in der die Rote Armee die deutsche 6. Armee einschloss und zur Kapitulation zwang.
+  regions: [russland]
+  themes: [krieg-militaer]
+- id: pearl-harbor
+  name: Pearl Harbor
+  coords: [-157.9500, 21.3649]
+  categories: [hafen]
+  modernName: Oʻahu, Hawaii (USA)
+  summary: Stützpunkt der US-Pazifikflotte auf Hawaii, den japanische Trägerflugzeuge am 7. Dezember 1941 angriffen.
+  regions: [ozeanien, nordamerika]
+  themes: [krieg-militaer]
+- id: nanjing
+  name: Nanjing
+  aliases: [Nanking]
+  coords: [118.7969, 32.0603]
+  categories: [stadt, hauptstadt]
+  modernName: Nanjing (China)
+  summary: Hauptstadt der Republik China, nach deren Eroberung im Dezember 1937 japanische Truppen wochenlang Zehntausende Zivilisten und Kriegsgefangene ermordeten und Frauen vergewaltigten.
+  regions: [china]
+  themes: [gewalt-genozid]
+- id: midway
+  name: Midway
+  coords: [-177.3735, 28.2072]
+  categories: [schlachtfeld]
+  modernName: Midway-Atoll (USA)
+  summary: Atoll im Pazifik, vor dem die US-Marine im Juni 1942 vier japanische Flugzeugträger versenkte.
+  regions: [ozeanien]
+  themes: [krieg-militaer]
+- id: normandie
+  name: Normandie
+  aliases: [Omaha Beach, Utah Beach]
+  coords: [-0.6000, 49.3500]
+  location: ungefaehr
+  categories: [region, schlachtfeld]
+  modernName: Nordfrankreich
+  summary: Küstenregion, an der am 6. Juni 1944 alliierte Truppen landeten und eine zweite Front gegen Deutschland eröffneten.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+- id: jalta
+  name: Jalta
+  aliases: [Yalta]
+  coords: [34.1663, 44.4952]
+  categories: [stadt]
+  modernName: Jalta (Krim)
+  summary: Kurort auf der Krim, an dem sich im Februar 1945 Roosevelt, Churchill und Stalin über die Nachkriegsordnung verständigten.
+  regions: [osteuropa]
+- id: hiroshima
+  name: Hiroshima
+  coords: [132.4553, 34.3853]
+  categories: [stadt]
+  modernName: Hiroshima (Japan)
+  summary: Japanische Großstadt, auf die die USA am 6. August 1945 die erste Atombombe warfen; bis Ende 1945 starben schätzungsweise 90.000 bis 140.000 Menschen.
+  regions: [japan]
+  themes: [krieg-militaer, gewalt-genozid]
+- id: nagasaki
+  name: Nagasaki
+  coords: [129.8779, 32.7503]
+  categories: [stadt, hafen]
+  modernName: Nagasaki (Japan)
+  summary: Hafenstadt auf Kyūshū, auf die am 9. August 1945 die zweite Atombombe fiel; bis Ende 1945 starben schätzungsweise 60.000 bis 80.000 Menschen.
+  regions: [japan]
+  themes: [krieg-militaer, gewalt-genozid]
+- id: san-francisco
+  name: San Francisco
+  coords: [-122.4194, 37.7749]
+  categories: [stadt, hafen]
+  modernName: San Francisco (USA)
+  summary: Hafenstadt in Kalifornien, in der im Juni 1945 die Charta der Vereinten Nationen unterzeichnet wurde.
+  regions: [nordamerika]
+# Orte: Kalter Krieg
+- id: washington
+  name: Washington, D.C.
+  coords: [-77.0365, 38.8977]
+  categories: [stadt, hauptstadt]
+  modernName: Washington, D.C. (USA)
+  summary: Hauptstadt der Vereinigten Staaten, im Kalten Krieg Machtzentrum des westlichen Lagers.
+  regions: [nordamerika]
+- id: havanna
+  name: Havanna
+  aliases: [La Habana]
+  coords: [-82.3666, 23.1136]
+  categories: [stadt, hauptstadt, hafen]
+  modernName: Havanna (Kuba)
+  summary: Hauptstadt Kubas, nach der Revolution von 1959 Verbündete der Sowjetunion; 1962 Brennpunkt der Kubakrise.
+  regions: [karibik]
+- id: seoul
+  name: Seoul
+  coords: [126.9780, 37.5665]
+  categories: [stadt, hauptstadt]
+  modernName: Seoul (Südkorea)
+  summary: Hauptstadt Südkoreas, im Koreakrieg 1950/51 viermal erobert und zurückerobert.
+  regions: [korea]
+- id: hanoi
+  name: Hanoi
+  coords: [105.8342, 21.0278]
+  categories: [stadt, hauptstadt]
+  modernName: Hanoi (Vietnam)
+  summary: Hauptstadt der Demokratischen Republik Vietnam (Nordvietnam) und seit 1976 des wiedervereinigten Vietnam.
+  regions: [suedostasien]
+- id: saigon
+  name: Saigon (Ho-Chi-Minh-Stadt)
+  aliases: [Ho-Chi-Minh-Stadt]
+  coords: [106.7009, 10.7769]
+  categories: [stadt, hauptstadt]
+  modernName: Ho-Chi-Minh-Stadt (Vietnam)
+  summary: Hauptstadt Südvietnams, deren Einnahme durch nordvietnamesische Truppen am 30. April 1975 den Vietnamkrieg beendete.
+  regions: [suedostasien]
+- id: budapest
+  name: Budapest
+  coords: [19.0402, 47.4979]
+  categories: [stadt, hauptstadt]
+  modernName: Budapest (Ungarn)
+  summary: Hauptstadt Ungarns, 1956 Zentrum eines Volksaufstands, den sowjetische Truppen niederschlugen.
+  regions: [mitteleuropa]
+- id: prag
+  name: Prag
+  aliases: [Praha]
+  coords: [14.4378, 50.0755]
+  categories: [stadt, hauptstadt]
+  modernName: Prag (Tschechien)
+  summary: Hauptstadt der Tschechoslowakei, in der 1968 der „Prager Frühling“ durch den Einmarsch von Truppen des Warschauer Pakts beendet wurde.
+  regions: [mitteleuropa]
+- id: helsinki
+  name: Helsinki
+  coords: [24.9384, 60.1699]
+  categories: [stadt, hauptstadt]
+  modernName: Helsinki (Finnland)
+  summary: Hauptstadt Finnlands, 1975 Ort der Unterzeichnung der KSZE-Schlussakte.
+  regions: [nordeuropa]
+- id: kabul
+  name: Kabul
+  coords: [69.2075, 34.5553]
+  categories: [stadt, hauptstadt]
+  modernName: Kabul (Afghanistan)
+  summary: Hauptstadt Afghanistans, in die Ende Dezember 1979 sowjetische Truppen einmarschierten.
+  regions: [zentralasien, suedasien]
+- id: bandung
+  name: Bandung
+  coords: [107.6191, -6.9175]
+  categories: [stadt]
+  modernName: Bandung (Indonesien)
+  summary: Stadt auf Java, in der sich 1955 Vertreter von 29 asiatischen und afrikanischen Staaten zu einer Konferenz gegen Kolonialismus und für Blockfreiheit trafen.
+  regions: [suedostasien]
+# Orte: Indien
+- id: delhi
+  name: Delhi
+  aliases: [Neu-Delhi, New Delhi]
+  coords: [77.2090, 28.6139]
+  categories: [stadt, hauptstadt]
+  modernName: Delhi (Indien)
+  summary: Ab 1911 Hauptstadt Britisch-Indiens, seit 1947 Hauptstadt der Republik Indien.
+  regions: [suedasien]
+- id: kalkutta
+  name: Kalkutta (Kolkata)
+  aliases: [Kolkata, Calcutta]
+  coords: [88.3639, 22.5726]
+  categories: [stadt, hafen]
+  modernName: Kolkata (Indien)
+  summary: Bis 1911 Hauptstadt Britisch-Indiens; im August 1946 Schauplatz der „Großen Kalkutta-Morde“ zwischen Hindus und Muslimen.
+  regions: [suedasien]
+- id: amritsar
+  name: Amritsar
+  coords: [74.8723, 31.6340]
+  categories: [stadt, heiligtum]
+  modernName: Amritsar (Punjab, Indien)
+  summary: Heilige Stadt der Sikhs; im Garten Jallianwala Bagh ließen britische Truppen am 13. April 1919 auf eine unbewaffnete Menge schießen.
+  regions: [suedasien]
+- id: lahore
+  name: Lahore
+  coords: [74.3587, 31.5204]
+  categories: [stadt]
+  modernName: Lahore (Pakistan)
+  summary: Großstadt im Punjab, 1940 Ort der „Lahore-Resolution“ der Muslimliga und 1947 Pakistan zugeschlagen.
+  regions: [suedasien]
+- id: dandi
+  name: Dandi
+  coords: [72.8000, 20.8890]
+  location: ungefaehr
+  categories: [stadt]
+  modernName: Gujarat (Indien)
+  summary: Küstendorf, an dem Gandhi am 6. April 1930 am Ende seines Salzmarsches Salz aus Meerwasser gewann und damit das britische Salzmonopol brach.
+  regions: [suedasien]
+- id: karachi
+  name: Karachi
+  coords: [67.0011, 24.8607]
+  categories: [stadt, hafen, hauptstadt]
+  modernName: Karachi (Pakistan)
+  summary: Hafenstadt am Arabischen Meer, erste Hauptstadt Pakistans (1947–1959).
+  regions: [suedasien]
+- id: srinagar
+  name: Srinagar (Kaschmir)
+  aliases: [Kaschmir, Kashmir]
+  coords: [74.7973, 34.0837]
+  categories: [stadt]
+  modernName: Jammu und Kaschmir
+  summary: Hauptstadt des Fürstenstaates Kaschmir, um den Indien und Pakistan seit 1947 mehrere Kriege führten.
+  regions: [suedasien]
+- id: dhaka
+  name: Dhaka
+  aliases: [Dacca]
+  coords: [90.4125, 23.8103]
+  categories: [stadt, hauptstadt]
+  modernName: Dhaka (Bangladesch)
+  summary: Hauptstadt Ostpakistans und seit 1971 Bangladeschs.
+  regions: [suedasien]
+# Orte: Namibia
+- id: windhuk
+  name: Windhoek (Windhuk)
+  aliases: [Windhuk, Windhoek]
+  coords: [17.0658, -22.5609]
+  categories: [stadt, hauptstadt]
+  modernName: Windhoek (Namibia)
+  summary: Hauptstadt der Kolonie Deutsch-Südwestafrika und heute Namibias; während des Krieges 1904–1908 Standort eines Konzentrationslagers.
+  regions: [suedliches-afrika]
+- id: waterberg
+  name: Waterberg
+  aliases: [Ohamakari]
+  coords: [17.2500, -20.5000]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Otjozondjupa (Namibia)
+  summary: Hochplateau, an dem deutsche Truppen am 11. August 1904 die Herero angriffen und in die wasserarme Omaheke abdrängten.
+  regions: [suedliches-afrika]
+  themes: [krieg-militaer, gewalt-genozid]
+- id: omaheke
+  name: Omaheke
+  coords: [19.5000, -21.5000]
+  location: ungefaehr
+  categories: [region]
+  modernName: Ost-Namibia / Botswana
+  summary: Trockensavanne im Osten Namibias, in der Tausende Herero nach der Schlacht am Waterberg verdursteten, weil deutsche Truppen die Wasserstellen abriegelten.
+  regions: [suedliches-afrika]
+  themes: [gewalt-genozid]
+- id: haifischinsel
+  name: Haifischinsel (Shark Island)
+  aliases: [Shark Island, Lüderitz]
+  coords: [15.1538, -26.6481]
+  categories: [fundstaette]
+  modernName: Lüderitz (Namibia)
+  summary: Felsige Halbinsel vor Lüderitz, auf der die Kolonialverwaltung 1905–1907 ein Konzentrationslager betrieb, in dem ein Großteil der gefangenen Nama und viele Herero starben.
+  regions: [suedliches-afrika]
+  themes: [gewalt-genozid]
+- id: okahandja
+  name: Okahandja
+  coords: [16.9167, -21.9833]
+  categories: [stadt]
+  modernName: Okahandja (Namibia)
+  summary: Sitz der Herero-Führung um Samuel Maharero, wo im Januar 1904 der Aufstand begann.
+  regions: [suedliches-afrika]
+- id: gibeon
+  name: Gibeon
+  coords: [17.7569, -25.1236]
+  categories: [stadt]
+  modernName: Hardap (Namibia)
+  summary: Hauptort der Witbooi-Nama unter Hendrik Witbooi, der von hier im Oktober 1904 den Krieg gegen die deutsche Kolonialmacht begann.
+  regions: [suedliches-afrika]
+- id: swakopmund
+  name: Swakopmund
+  coords: [14.5272, -22.6792]
+  categories: [stadt, hafen]
+  modernName: Swakopmund (Namibia)
+  summary: Hafenstadt der deutschen Kolonie, in der während des Krieges 1904–1908 ein Konzentrationslager mit hoher Sterblichkeit bestand.
+  regions: [suedliches-afrika]

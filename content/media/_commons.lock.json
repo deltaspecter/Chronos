@@ -333,5 +333,37 @@
     "license": "CC BY 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Byodoin_Phoenix_Hall_Uji_2009.jpg"
+  },
+  "d-day-omaha-beach": {
+    "file": "d-day-omaha-beach.jpg",
+    "width": 1200,
+    "height": 966,
+    "author": "Chief Photographer's Mate (CPHoM) Robert F. Sargent",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Into_the_Jaws_of_Death_23-0455M_edit.jpg"
+  },
+  "checkpoint-charlie-1961": {
+    "file": "checkpoint-charlie-1961.jpg",
+    "width": 485,
+    "height": 377,
+    "author": "National Archives",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Checkpoint_Charlie_1961-10-27.jpg"
+  },
+  "gandhi-salzmarsch": {
+    "file": "gandhi-salzmarsch.jpg",
+    "width": 1200,
+    "height": 806,
+    "author": "Unbekannter Fotograf (1930)",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marche_sel.jpg"
+  },
+  "herero-gefangene": {
+    "file": "herero-gefangene.jpg",
+    "width": 400,
+    "height": 292,
+    "author": "Urheber unbekannt",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Herero_chained.jpg"
   }
 }

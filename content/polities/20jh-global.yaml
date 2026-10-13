@@ -1,0 +1,135 @@
+- id: vereinigte-staaten
+  name: Vereinigte Staaten von Amerika
+  aliases: [USA, Vereinigte Staaten, United States]
+  start: "1776"
+  capital: washington
+  summary: Bundesstaat in Nordamerika, nach 1945 eine der beiden Supermächte und Führungsmacht des westlichen Bündnisses.
+  regions: [nordamerika]
+  themes: [politik, imperien]
+  weight: 1
+- id: kaiserreich-japan
+  name: Kaiserreich Japan
+  aliases: [Großjapanisches Kaiserreich, Japanisches Kaiserreich]
+  start: "1868"
+  end: "1947"
+  spanNote: Von der Meiji-Restauration bis zur neuen Verfassung von 1947.
+  summary: Japan von der Meiji-Restauration bis zur Nachkriegsverfassung, das ab den 1890er Jahren ein Kolonialreich in Ostasien aufbaute und ab 1931 Krieg in China und ab 1941 im Pazifik führte.
+  regions: [japan, ostasien]
+  themes: [imperien]
+  weight: 1
+- id: republik-china
+  name: Republik China
+  aliases: [Nationalchina, Taiwan]
+  start: "1912"
+  spanNote: Seit 1949 auf Taiwan beschränkt.
+  capital: nanjing
+  summary: Nach dem Ende des Kaiserreichs 1912 gegründeter chinesischer Staat, ab 1928 unter der Nationalpartei Chiang Kai-sheks; nach dem Bürgerkrieg 1949 auf Taiwan zurückgedrängt.
+  regions: [china]
+  themes: [politik]
+  weight: 2
+- id: volksrepublik-china
+  name: Volksrepublik China
+  aliases: [VR China, China]
+  start: "1949-10-01"
+  summary: Von Mao Zedong nach dem Sieg der Kommunisten im Bürgerkrieg ausgerufener Staat.
+  regions: [china]
+  themes: [politik]
+  predecessors: [republik-china]
+  weight: 1
+- id: faschistisches-italien
+  name: Faschistisches Italien
+  aliases: [Königreich Italien unter Mussolini]
+  start: "1922"
+  end: "1943"
+  summary: Italien unter der Diktatur Benito Mussolinis, ab 1936 mit dem nationalsozialistischen Deutschland verbündet.
+  regions: [italien]
+  themes: [politik]
+  weight: 2
+- id: vereinte-nationen
+  name: Vereinte Nationen
+  aliases: [UNO, UN, United Nations]
+  start: "1945-10-24"
+  summary: Internationale Organisation zur Sicherung des Friedens und der internationalen Zusammenarbeit, gegründet nach dem Zweiten Weltkrieg.
+  regions: [welt]
+  themes: [politik, verfassung-recht]
+  weight: 2
+- id: nato
+  name: NATO
+  aliases: [Nordatlantikpakt, Nordatlantische Allianz]
+  start: "1949-04-04"
+  summary: Militärbündnis der USA, Kanadas und westeuropäischer Staaten, gegründet im Kalten Krieg zur gemeinsamen Verteidigung.
+  regions: [europa, nordamerika]
+  themes: [krieg-militaer]
+  weight: 2
+- id: warschauer-pakt
+  name: Warschauer Pakt
+  aliases: [Warschauer Vertragsorganisation]
+  start: "1955-05-14"
+  end: "1991-07-01"
+  summary: Militärbündnis der Sowjetunion und der sozialistischen Staaten Ostmittel- und Südosteuropas.
+  regions: [osteuropa, mitteleuropa]
+  themes: [krieg-militaer]
+  weight: 2
+- id: britisch-indien
+  name: Britisch-Indien
+  aliases: [British Raj, Indisches Kaiserreich]
+  start: "1858"
+  end: "1947"
+  spanNote: Ab 1858 unter direkter Herrschaft der britischen Krone, zuvor unter der Ostindien-Kompanie.
+  capital: delhi
+  summary: Das von Großbritannien beherrschte Indien, das die heutigen Staaten Indien, Pakistan, Bangladesch und Myanmar (bis 1937) umfasste, mit über 500 abhängigen Fürstenstaaten.
+  regions: [suedasien]
+  themes: [imperien]
+  successors: [republik-indien, pakistan]
+  weight: 1
+- id: republik-indien
+  name: Indien
+  aliases: [Republik Indien, Indische Union, Bharat]
+  start: "1947-08-15"
+  capital: delhi
+  summary: Seit 1947 unabhängiger Staat, seit 1950 Republik mit einer demokratischen Verfassung; heute der bevölkerungsreichste Staat der Welt.
+  regions: [suedasien]
+  themes: [politik]
+  predecessors: [britisch-indien]
+  weight: 1
+- id: pakistan
+  name: Pakistan
+  start: "1947-08-14"
+  capital: karachi
+  spanNote: Bis 1971 einschließlich Ostpakistans (heute Bangladesch); Hauptstadt bis 1959 Karachi, seit 1967 Islamabad.
+  summary: 1947 aus den Gebieten mit muslimischer Mehrheit in Nordwest- und Ostindien gebildeter Staat.
+  regions: [suedasien]
+  themes: [politik]
+  predecessors: [britisch-indien]
+  successors: [bangladesch]
+  weight: 2
+- id: bangladesch
+  name: Bangladesch
+  aliases: [Ostpakistan, Bangladesh]
+  start: "1971"
+  capital: dhaka
+  summary: Aus Ostpakistan nach einem Unabhängigkeitskrieg 1971 entstandener Staat.
+  regions: [suedasien]
+  themes: [politik]
+  predecessors: [pakistan]
+  weight: 3
+- id: deutsch-suedwestafrika
+  name: Deutsch-Südwestafrika
+  start: "1884"
+  end: "1915"
+  capital: windhuk
+  summary: Deutsche Kolonie im Gebiet des heutigen Namibia, in der 1904–1908 der Völkermord an den Herero und Nama verübt wurde; 1915 von südafrikanischen Truppen besetzt.
+  regions: [suedliches-afrika]
+  themes: [imperien, gewalt-genozid]
+  successors: [namibia]
+  weight: 2
+- id: namibia
+  name: Namibia
+  start: "1990-03-21"
+  capital: windhuk
+  spanNote: 1915–1990 unter südafrikanischer Verwaltung, ab 1948 mit Apartheid; unabhängig seit dem 21. März 1990.
+  summary: Staat im südwestlichen Afrika, hervorgegangen aus der deutschen Kolonie und dem südafrikanischen Mandatsgebiet.
+  regions: [suedliches-afrika]
+  themes: [politik]
+  predecessors: [deutsch-suedwestafrika]
+  weight: 3

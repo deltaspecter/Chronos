@@ -1,0 +1,299 @@
+# Personen: Zweiter Weltkrieg
+- id: winston-churchill
+  name: Winston Churchill
+  born: "1874"
+  died: "1965"
+  roles: [Premierminister]
+  summary: Britischer Premierminister 1940–1945 und 1951–1955, der Großbritannien nach der Niederlage Frankreichs im Krieg gegen das nationalsozialistische Deutschland hielt; als Kolonialpolitiker zugleich umstritten.
+  regions: [britische-inseln]
+  themes: [politik, krieg-militaer]
+  places: [london, jalta]
+- id: franklin-d-roosevelt
+  name: Franklin D. Roosevelt
+  born: "1882"
+  died: "1945"
+  roles: [Präsident der USA]
+  summary: Präsident der Vereinigten Staaten von 1933 bis zu seinem Tod im April 1945, der die USA durch die Weltwirtschaftskrise und in den Zweiten Weltkrieg führte.
+  regions: [nordamerika]
+  themes: [politik]
+  places: [washington, jalta]
+- id: josef-stalin
+  name: Josef Stalin
+  aliases: [Iosif Stalin, Dschugaschwili]
+  born: "1878"
+  died: "1953"
+  roles: [Diktator der Sowjetunion]
+  summary: Generalsekretär der KPdSU und Diktator der Sowjetunion, verantwortlich für Terror, Lager und Hungersnöte mit Millionen Toten; führte die Sowjetunion im Krieg gegen Deutschland.
+  regions: [russland, osteuropa]
+  themes: [politik, gewalt-genozid]
+  places: [moskau, jalta]
+- id: chiang-kai-shek
+  name: Chiang Kai-shek
+  aliases: [Jiang Jieshi]
+  born: "1887"
+  died: "1975"
+  roles: [Staatschef der Republik China]
+  summary: Führer der Nationalpartei (Guomindang) und der Republik China im Krieg gegen Japan; nach der Niederlage im Bürgerkrieg 1949 Herrscher auf Taiwan.
+  regions: [china]
+  themes: [politik, krieg-militaer]
+  places: [nanjing]
+- id: hirohito
+  name: Hirohito
+  aliases: [Kaiser Shōwa]
+  born: "1901"
+  died: "1989"
+  roles: [Kaiser von Japan]
+  summary: Japanischer Kaiser von 1926 bis 1989; am 15. August 1945 verkündete er im Rundfunk die Kapitulation. Seine Verantwortung für den Krieg ist umstritten.
+  regions: [japan]
+  themes: [politik]
+- id: benito-mussolini
+  name: Benito Mussolini
+  born: "1883"
+  died: "1945"
+  roles: [Diktator Italiens]
+  summary: Gründer des Faschismus und Diktator Italiens von 1922 bis 1943, Verbündeter Hitlers; im April 1945 von italienischen Partisanen erschossen.
+  regions: [italien]
+  themes: [politik]
+  places: [rom]
+- id: harry-s-truman
+  name: Harry S. Truman
+  born: "1884"
+  died: "1972"
+  roles: [Präsident der USA]
+  summary: Präsident der Vereinigten Staaten 1945–1953, der den Einsatz der Atombomben anordnete und mit der Truman-Doktrin die Politik der Eindämmung begründete.
+  regions: [nordamerika]
+  themes: [politik]
+  places: [washington]
+- id: georgi-schukow
+  name: Georgi Schukow
+  aliases: [Georgij Žukov]
+  born: "1896"
+  died: "1974"
+  roles: [Marschall der Sowjetunion]
+  summary: Wichtigster sowjetischer Heerführer des Zweiten Weltkriegs, der die Verteidigung Moskaus und die Eroberung Berlins leitete und am 8./9. Mai 1945 die deutsche Kapitulation entgegennahm.
+  regions: [russland]
+  themes: [krieg-militaer]
+  places: [moskau, berlin]
+- id: charles-de-gaulle
+  name: Charles de Gaulle
+  born: "1890"
+  died: "1970"
+  roles: [General, Präsident Frankreichs]
+  summary: Führer des Freien Frankreich im Zweiten Weltkrieg und Gründer der Fünften Republik, die er von 1959 bis 1969 als Präsident führte.
+  regions: [frankreich]
+  themes: [politik]
+  places: [paris, london]
+- id: mao-zedong
+  name: Mao Zedong
+  aliases: [Mao Tse-tung]
+  born: "1893"
+  died: "1976"
+  roles: [Vorsitzender der KP Chinas]
+  summary: Führer der Kommunistischen Partei Chinas, der 1949 die Volksrepublik ausrief; seine Kampagnen, besonders der „Große Sprung nach vorn“, forderten Millionen Tote.
+  regions: [china]
+  themes: [politik, revolutionen]
+# Personen: Kalter Krieg
+- id: nikita-chruschtschow
+  name: Nikita Chruschtschow
+  aliases: [Nikita Khrushchev]
+  born: "1894"
+  died: "1971"
+  roles: [Erster Sekretär der KPdSU]
+  summary: Sowjetischer Parteichef 1953–1964, der 1956 Stalins Verbrechen teilweise offenlegte, im selben Jahr den Aufstand in Ungarn niederschlagen ließ und 1962 Raketen auf Kuba stationierte.
+  regions: [russland]
+  themes: [politik]
+  places: [moskau, budapest, havanna]
+- id: john-f-kennedy
+  name: John F. Kennedy
+  born: "1917"
+  died: "1963"
+  roles: [Präsident der USA]
+  summary: Präsident der Vereinigten Staaten 1961–1963, der in der Kubakrise einen Atomkrieg abwendete; im November 1963 in Dallas ermordet.
+  regions: [nordamerika]
+  themes: [politik]
+  places: [washington, berlin, havanna]
+- id: fidel-castro
+  name: Fidel Castro
+  born: "1926"
+  died: "2016"
+  roles: [Revolutionär, Staatschef Kubas]
+  summary: Anführer der Kubanischen Revolution von 1959 und bis 2008 Staatschef Kubas, das er an die Sowjetunion band.
+  regions: [karibik]
+  themes: [politik, revolutionen]
+  places: [havanna]
+- id: ho-chi-minh
+  name: Hồ Chí Minh
+  aliases: [Ho Chi Minh]
+  born: "1890"
+  died: "1969"
+  roles: [Revolutionär, Staatschef Nordvietnams]
+  summary: Vietnamesischer Kommunist und Führer der Unabhängigkeitsbewegung, der 1945 die Demokratische Republik Vietnam ausrief und gegen Frankreich und die USA kämpfte.
+  regions: [suedostasien]
+  themes: [politik, revolutionen]
+  places: [hanoi]
+- id: ronald-reagan
+  name: Ronald Reagan
+  born: "1911"
+  died: "2004"
+  roles: [Präsident der USA]
+  summary: Präsident der Vereinigten Staaten 1981–1989, der zunächst massiv aufrüstete und später mit Gorbatschow weitreichende Abrüstungsverträge schloss.
+  regions: [nordamerika]
+  themes: [politik]
+  places: [washington]
+- id: leonid-breschnew
+  name: Leonid Breschnew
+  born: "1906"
+  died: "1982"
+  roles: [Generalsekretär der KPdSU]
+  summary: Sowjetischer Parteichef 1964–1982, unter dem 1968 der Prager Frühling niedergeschlagen, die Entspannungspolitik vereinbart und 1979 Afghanistan besetzt wurde.
+  regions: [russland]
+  themes: [politik]
+  places: [moskau, prag, kabul]
+- id: george-kennan
+  name: George F. Kennan
+  born: "1904"
+  died: "2005"
+  roles: [Diplomat, Historiker]
+  summary: Amerikanischer Diplomat, dessen „Langes Telegramm“ 1946 die Politik der Eindämmung der Sowjetunion vorbereitete.
+  regions: [nordamerika, russland]
+  themes: [politik]
+  places: [moskau]
+- id: willy-brandt
+  name: Willy Brandt
+  born: "1913"
+  died: "1992"
+  roles: [Bundeskanzler]
+  summary: Regierender Bürgermeister von Berlin und Bundeskanzler 1969–1974, dessen Neue Ostpolitik die Beziehungen zu Osteuropa und der DDR veränderte; Friedensnobelpreis 1971.
+  regions: [deutschland]
+  themes: [politik]
+  places: [berlin, bonn, warschau]
+- id: imre-nagy
+  name: Imre Nagy
+  born: "1896"
+  died: "1958"
+  roles: [Ministerpräsident Ungarns]
+  summary: Ungarischer Kommunist, der während des Aufstands 1956 den Austritt aus dem Warschauer Pakt erklärte; nach der Niederschlagung 1958 hingerichtet.
+  regions: [mitteleuropa]
+  themes: [politik]
+  places: [budapest]
+- id: alexander-dubcek
+  name: Alexander Dubček
+  born: "1921"
+  died: "1992"
+  roles: [Erster Sekretär der KP der Tschechoslowakei]
+  summary: Slowakischer Kommunist, der 1968 mit dem „Sozialismus mit menschlichem Antlitz“ den Prager Frühling anführte.
+  regions: [mitteleuropa]
+  themes: [politik]
+  places: [prag]
+# Personen: Indien
+- id: mahatma-gandhi
+  name: Mohandas Karamchand Gandhi
+  aliases: [Mahatma Gandhi, Gandhi, Bapu]
+  born: "1869-10-02"
+  died: "1948-01-30"
+  roles: [Anwalt, Politiker, Vordenker]
+  summary: Führender Kopf der indischen Unabhängigkeitsbewegung, der den gewaltfreien Widerstand (Satyagraha) zur Massenbewegung machte; 1948 von einem hindunationalistischen Attentäter erschossen.
+  regions: [suedasien]
+  themes: [politik, religion]
+  places: [dandi, delhi]
+- id: jawaharlal-nehru
+  name: Jawaharlal Nehru
+  born: "1889"
+  died: "1964"
+  roles: [Premierminister Indiens]
+  summary: Führer des Indischen Nationalkongresses und erster Premierminister Indiens (1947–1964), Mitbegründer der Bewegung der Blockfreien.
+  regions: [suedasien]
+  themes: [politik]
+  places: [delhi, bandung]
+- id: muhammad-ali-jinnah
+  name: Muhammad Ali Jinnah
+  aliases: [Quaid-e-Azam]
+  born: "1876"
+  died: "1948"
+  roles: [Anwalt, Politiker]
+  summary: Führer der Muslimliga und Gründer Pakistans, dessen erster Generalgouverneur er 1947 wurde.
+  regions: [suedasien]
+  themes: [politik]
+  places: [karachi, lahore]
+- id: br-ambedkar
+  name: B. R. Ambedkar
+  aliases: [Bhimrao Ramji Ambedkar, Babasaheb]
+  born: "1891"
+  died: "1956"
+  roles: [Jurist, Politiker, Sozialreformer]
+  summary: Jurist aus einer „unberührbaren“ Kaste, Vorsitzender des Ausschusses, der die indische Verfassung entwarf, und Vorkämpfer gegen das Kastenwesen.
+  regions: [suedasien]
+  themes: [politik, verfassung-recht, gesellschaft]
+  places: [delhi]
+- id: louis-mountbatten
+  name: Louis Mountbatten
+  born: "1900"
+  died: "1979"
+  roles: [Admiral, Vizekönig von Indien]
+  summary: Letzter Vizekönig Britisch-Indiens, der im Juni 1947 den Teilungsplan verkündete und die Unabhängigkeit auf den 15. August 1947 vorzog.
+  regions: [britische-inseln, suedasien]
+  themes: [politik]
+  places: [delhi]
+- id: cyril-radcliffe
+  name: Cyril Radcliffe
+  born: "1899"
+  died: "1977"
+  roles: [Jurist]
+  summary: Britischer Jurist, der ohne Kenntnis Indiens in wenigen Wochen die Grenzlinien zwischen Indien und Pakistan in Punjab und Bengalen zog.
+  regions: [britische-inseln, suedasien]
+  themes: [politik]
+- id: vallabhbhai-patel
+  name: Vallabhbhai Patel
+  aliases: [Sardar Patel]
+  born: "1875"
+  died: "1950"
+  roles: [Politiker]
+  summary: Führender Politiker des Kongresses und erster Innenminister Indiens, der die Eingliederung der über 500 Fürstenstaaten in die Indische Union betrieb.
+  regions: [suedasien]
+  themes: [politik]
+- id: reginald-dyer
+  name: Reginald Dyer
+  born: "1864"
+  died: "1927"
+  roles: [General]
+  summary: Britischer Offizier, der am 13. April 1919 in Amritsar auf eine unbewaffnete Menge schießen ließ.
+  regions: [suedasien, britische-inseln]
+  themes: [gewalt-genozid]
+  places: [amritsar]
+# Personen: Herero und Nama
+- id: samuel-maharero
+  name: Samuel Maharero
+  born: "~1856"
+  died: "1923"
+  roles: [Oberhäuptling der Herero]
+  summary: Herero-Führer, der im Januar 1904 den Aufstand gegen die deutsche Kolonialherrschaft begann und nach der Niederlage mit einem Teil seiner Leute ins britische Betschuanaland floh.
+  regions: [suedliches-afrika]
+  themes: [politik, krieg-militaer]
+  places: [okahandja, waterberg, omaheke]
+- id: hendrik-witbooi
+  name: Hendrik Witbooi
+  born: "~1830"
+  died: "1905"
+  roles: [Kaptein der Witbooi-Nama]
+  summary: Anführer der Witbooi-Nama, der sich lange mit der Kolonialmacht arrangierte, im Oktober 1904 den Krieg erklärte und 1905 im Kampf fiel; sein Bild ist auf namibischen Banknoten zu sehen.
+  regions: [suedliches-afrika]
+  themes: [politik, krieg-militaer]
+  places: [gibeon]
+- id: lothar-von-trotha
+  name: Lothar von Trotha
+  born: "1848"
+  died: "1920"
+  roles: [General]
+  summary: Kommandeur der deutschen Schutztruppe in Südwestafrika 1904/05, der den „Vernichtungsbefehl“ gegen die Herero erließ.
+  regions: [deutschland, suedliches-afrika]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [waterberg, omaheke]
+- id: theodor-leutwein
+  name: Theodor Leutwein
+  born: "1849"
+  died: "1921"
+  roles: [Gouverneur]
+  summary: Gouverneur von Deutsch-Südwestafrika 1898–1905, der auf Verhandlungen setzte und nach Beginn des Krieges von Trotha entmachtet wurde.
+  regions: [deutschland, suedliches-afrika]
+  themes: [politik]
+  places: [windhuk]

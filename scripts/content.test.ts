@@ -86,6 +86,8 @@ describe('Suche', () => {
     expect(titles('Montezuma')).toContain('moctezuma-ii')
     expect(titles('Great Zimbabwe')).toContain('gross-simbabwe-swahili')
     expect(titles('Kyoto')).toContain('heian-kyo')
+    expect(titles('WWII')).toContain('zweiter-weltkrieg')
+    expect(titles('Partition')).toContain('indien-1947')
   })
   it('findet Volltext in neuen Artikeln', () => {
     expect(titles('Spinning Jenny').slice(0, 3)).toContain('spinning-jenny')
@@ -93,5 +95,7 @@ describe('Suche', () => {
     expect(titles('Middle Passage')).toContain('transatlantischer-sklavenhandel')
     expect(titles('Konstantinopel 1453').slice(0, 5)).toContain('eroberung-konstantinopels')
     expect(titles('Angkor Wat')).toContain('angkor-wat')
+    expect(titles('Vernichtungsbefehl')).toContain('voelkermord-herero-nama')
+    expect(titles('1962').slice(0, 10)).toContain('kubakrise')
   })
 })
