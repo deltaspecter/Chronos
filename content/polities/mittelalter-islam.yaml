@@ -1,0 +1,60 @@
+- id: frankenreich
+  name: Frankenreich
+  aliases: [Fränkisches Reich, Regnum Francorum, Karolingerreich, Merowingerreich]
+  start: "~482"
+  end: "843"
+  spanNote: Beginn mit der Herrschaft Chlodwigs I. (482), Ende als Gesamtreich mit dem Vertrag von Verdun 843; das Kaisertum bestand in wechselnden Teilreichen fort.
+  capital: aachen
+  summary: Reich der Franken unter den Dynastien der Merowinger und Karolinger, das unter Karl dem Großen große Teile West- und Mitteleuropas umfasste.
+  regions: [westeuropa, mitteleuropa, italien]
+  themes: [imperien]
+  predecessors: [roemisches-kaiserreich]
+  successors: [heiliges-roemisches-reich, koenigreich-frankreich]
+  weight: 1
+- id: langobardenreich
+  name: Langobardenreich
+  aliases: [Regnum Langobardorum]
+  start: "568"
+  end: "774"
+  capital: pavia
+  summary: Königreich der Langobarden in Italien, das 774 von Karl dem Großen erobert wurde.
+  regions: [italien]
+  themes: [imperien]
+  successors: [frankenreich]
+  weight: 3
+- id: byzantinisches-reich
+  name: Byzantinisches Reich
+  aliases: [Oströmisches Reich, Byzanz, Rhomäerreich]
+  start: "330"
+  end: "1453"
+  spanNote: „Byzantinisch“ ist eine neuzeitliche Bezeichnung; die Bewohner nannten sich Römer. 330 (Einweihung Konstantinopels) und 395 (Reichsteilung) sind übliche Anfangsdaten.
+  capital: istanbul
+  summary: Das christliche, griechischsprachige Oströmische Reich mit der Hauptstadt Konstantinopel, das bis zur osmanischen Eroberung 1453 bestand.
+  regions: [suedosteuropa, anatolien, mittelmeer]
+  themes: [imperien]
+  predecessors: [roemisches-kaiserreich]
+  successors: [osmanisches-reich]
+  weight: 1
+- id: umayyaden-kalifat
+  name: Umayyaden-Kalifat
+  aliases: [Umayyaden, Omaijaden]
+  start: "661"
+  end: "750"
+  capital: damaskus
+  summary: Erste Kalifendynastie mit Sitz in Damaskus, unter der sich das Reich von der Iberischen Halbinsel bis nach Zentralasien und an den Indus ausdehnte.
+  regions: [westasien, nordafrika, iberische-halbinsel, zentralasien]
+  themes: [imperien, religion]
+  successors: [abbasiden-kalifat]
+  weight: 1
+- id: abbasiden-kalifat
+  name: Abbasiden-Kalifat
+  aliases: [Abbasiden, Abbasidisches Kalifat, Abbasidenreich]
+  start: "750"
+  end: "1258"
+  spanNote: Die politische Macht der Kalifen schwand ab dem späten 9. Jahrhundert; ab 945 standen sie unter der Kontrolle anderer Dynastien. In Kairo bestand unter den Mamluken bis 1517 ein Schattenkalifat.
+  capital: bagdad
+  summary: Kalifendynastie, die nach dem Sturz der Umayyaden von Bagdad aus regierte; ihre frühe Zeit gilt als Blütezeit von Wissenschaft, Literatur und Handel.
+  regions: [westasien, iran, nordafrika, zentralasien, arabische-halbinsel]
+  themes: [imperien, religion, wissenschaft-technik]
+  predecessors: [umayyaden-kalifat]
+  weight: 1

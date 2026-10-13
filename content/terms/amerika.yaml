@@ -1,0 +1,53 @@
+- id: lange-zaehlung
+  name: Lange Zählung
+  aliases: [Long Count, Langzeitzählung]
+  definition: Kalender der Maya und anderer mesoamerikanischer Kulturen, der Tage seit einem mythischen Nullpunkt zählt, der nach der verbreiteten Korrelation dem 11. August 3114 v. Chr. entspricht. Die Einheiten sind k'in (1 Tag), winal (20), tun (360), k'atun (7.200) und bak'tun (144.000 Tage).
+  themes: [wissenschaft-technik, schrift-medien]
+- id: maya-schrift
+  name: Maya-Schrift
+  aliases: [Maya-Hieroglyphen, Maya-Glyphen]
+  definition: Logosyllabisches Schriftsystem aus Wortzeichen und Silbenzeichen, mit dem die Maya etwa vom 3. Jahrhundert v. Chr. bis ins 16. Jahrhundert schrieben. Seit den 1950er Jahren ist sie zum größten Teil entziffert.
+  themes: [schrift-medien]
+- id: emblemglyphe
+  name: Emblemglyphe
+  aliases: [Emblem-Glyphe, Emblem Glyph]
+  definition: Titel klassischer Maya-Könige nach dem Muster „heiliger Herr von …“; er bezeichnet ein Königtum bzw. eine Dynastie, nicht unbedingt den Ort ihrer Residenz.
+  themes: [politik, schrift-medien]
+- id: kuhul-ajaw
+  name: K'uhul Ajaw
+  aliases: [Heiliger Herr, k'uhul ajaw]
+  definition: „Heiliger Herr“, der Titel der klassischen Maya-Könige, die als Mittler zwischen Menschen, Ahnen und Göttern galten.
+  themes: [politik, religion]
+- id: milpa
+  name: Milpa
+  definition: In Mesoamerika verbreitetes Anbausystem, bei dem Mais, Bohnen und Kürbis gemeinsam auf einem Feld wachsen, das nach einigen Jahren brachliegt.
+  themes: [landwirtschaft]
+- id: sapa-inka
+  name: Sapa Inka
+  aliases: [Sapa Inca, Inka (Herrscher)]
+  definition: „Einziger Inka“, Titel des Herrschers von Tawantinsuyu, der als Sohn der Sonne galt.
+  themes: [politik, religion]
+- id: khipu
+  name: Khipu
+  aliases: [Quipu, Knotenschnur]
+  definition: Andines Aufzeichnungsmittel aus geknoteten Schnüren. Knotenart, Position, Farbe und Faserrichtung speicherten Zahlen im Dezimalsystem, vermutlich auch andere Informationen; ob Khipus auch Sprache wiedergaben, ist umstritten.
+  themes: [schrift-medien, wissenschaft-technik]
+- id: mita
+  name: Mit'a
+  aliases: [Mita, Mit'a-Arbeit]
+  definition: Arbeitsdienst, den die Haushalte im Inka-Reich reihum für den Staat leisteten, etwa im Straßenbau, beim Militär oder auf Staatsfeldern. Die Spanier übernahmen den Begriff für die Zwangsarbeit in den Silberminen von Potosí.
+  themes: [wirtschaft-handel, sklaverei-unfreiheit]
+- id: ayllu
+  name: Ayllu
+  definition: Verwandtschafts- und Landgemeinschaft im Andenraum, die Land gemeinsam besaß und Arbeit wechselseitig organisierte; Grundeinheit der andinen Gesellschaft bis heute.
+  themes: [gesellschaft]
+- id: qhapaq-nan
+  name: Qhapaq Ñan
+  aliases: [Inka-Straße, Inkastraße, Capac Ñan]
+  definition: Das Straßennetz des Inka-Reiches, nach heutigen Schätzungen 30.000 bis 40.000 Kilometer lang, mit Rasthäusern (tampu) und Läuferstationen; seit 2014 UNESCO-Welterbe.
+  themes: [imperien, handelsnetze]
+- id: konquista
+  name: Conquista
+  aliases: [Konquista, Conquista, Eroberung Amerikas]
+  definition: Die militärische Eroberung großer Teile der Amerikas durch Spanien und Portugal im 16. Jahrhundert; der Begriff übernimmt die Perspektive der Eroberer und wird in der Forschung zunehmend um die Sicht der Eroberten ergänzt.
+  themes: [imperien, krieg-militaer]

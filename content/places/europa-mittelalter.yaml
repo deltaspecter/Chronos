@@ -1,0 +1,135 @@
+# Orte: Frankenreich
+- id: aachen
+  name: Aachen
+  aliases: [Aquisgranum]
+  coords: [6.0839, 50.7753]
+  categories: [stadt, hauptstadt, heiligtum]
+  modernName: Aachen (Nordrhein-Westfalen)
+  summary: Bevorzugte Pfalz Karls des Großen in seinen späteren Jahren, mit der um 800 errichteten Pfalzkapelle, in der er 814 bestattet wurde; bis 1531 Krönungsort der römisch-deutschen Könige.
+  regions: [mitteleuropa, deutschland]
+  themes: [politik, religion]
+- id: pavia
+  name: Pavia
+  aliases: [Ticinum]
+  coords: [9.1580, 45.1850]
+  categories: [stadt, hauptstadt]
+  modernName: Pavia (Lombardei)
+  summary: Hauptstadt des Langobardenreiches in Oberitalien, die Karl der Große 774 nach langer Belagerung einnahm.
+  regions: [italien]
+- id: paderborn
+  name: Paderborn
+  coords: [8.7570, 51.7180]
+  categories: [stadt]
+  modernName: Paderborn (Nordrhein-Westfalen)
+  summary: Pfalz Karls des Großen im eroberten Sachsen; 799 empfing er hier den aus Rom geflohenen Papst Leo III.
+  regions: [deutschland]
+- id: verden
+  name: Verden an der Aller
+  coords: [9.2350, 52.9210]
+  location: ungefaehr
+  categories: [stadt]
+  modernName: Verden (Niedersachsen)
+  summary: Ort, an dem nach den fränkischen Reichsannalen 782 auf Befehl Karls des Großen 4.500 Sachsen hingerichtet wurden.
+  regions: [deutschland]
+  themes: [gewalt-genozid]
+- id: roncesvalles
+  name: Roncesvalles
+  aliases: [Roncevaux]
+  coords: [-1.3190, 43.0090]
+  location: umstritten
+  categories: [schlachtfeld]
+  modernName: Navarra (Spanien)
+  summary: Pyrenäenpass, an dem 778 die Nachhut des fränkischen Heeres von Basken vernichtet wurde; Schauplatz des späteren Rolandsliedes.
+  regions: [iberische-halbinsel]
+  themes: [krieg-militaer]
+- id: saint-denis
+  name: Saint-Denis
+  coords: [2.3590, 48.9350]
+  categories: [heiligtum]
+  modernName: Saint-Denis bei Paris
+  summary: Abtei nördlich von Paris, in der Papst Stephan II. 754 Pippin und seine Söhne salbte; Grablege der französischen Könige.
+  regions: [frankreich]
+  themes: [religion]
+- id: frankfurt
+  name: Frankfurt am Main
+  aliases: [Franconofurd]
+  coords: [8.6820, 50.1100]
+  categories: [stadt]
+  modernName: Frankfurt am Main (Hessen)
+  summary: 794 Schauplatz einer großen Synode Karls des Großen, auf der auch die Münzreform verkündet wurde; erstmals schriftlich erwähnt.
+  regions: [deutschland]
+
+# Orte: Abbasiden-Kalifat
+- id: bagdad
+  name: Bagdad
+  aliases: [Baghdad, Madinat as-Salam, Stadt des Friedens]
+  coords: [44.3660, 33.3150]
+  categories: [stadt, hauptstadt]
+  start: "762"
+  modernName: Bagdad (Irak)
+  summary: 762 vom Kalifen al-Mansur am Tigris gegründete Hauptstadt der Abbasiden, im 9. und 10. Jahrhundert eine der größten Städte der Welt und ein Zentrum der Gelehrsamkeit.
+  regions: [mesopotamien]
+  themes: [imperien, wissenschaft-technik]
+- id: samarra
+  name: Samarra
+  coords: [43.8740, 34.1980]
+  categories: [stadt, hauptstadt, fundstaette]
+  modernName: Samarra (Irak)
+  summary: Von 836 bis 892 Residenz der Abbasiden-Kalifen am Tigris nördlich von Bagdad; die ausgedehnten Ruinen mit der Spiralminarett-Moschee sind UNESCO-Welterbe.
+  regions: [mesopotamien]
+  themes: [archaeologie]
+- id: merw
+  name: Merw
+  aliases: [Merv, Marw]
+  coords: [62.1900, 37.6600]
+  categories: [stadt, fundstaette]
+  modernName: bei Mary (Turkmenistan)
+  summary: Oasenstadt in Chorasan, Ausgangspunkt der abbasidischen Revolution 747 und Residenz al-Ma'muns vor seinem Einzug in Bagdad.
+  regions: [zentralasien]
+- id: kufa
+  name: Kufa
+  coords: [44.4000, 32.0300]
+  categories: [stadt]
+  modernName: Kufa (Irak)
+  summary: Frühislamische Garnisonsstadt am Euphrat, in der 749 Abu l-Abbas zum ersten Abbasiden-Kalifen ausgerufen wurde.
+  regions: [mesopotamien]
+- id: basra
+  name: Basra
+  coords: [47.8100, 30.5000]
+  categories: [stadt, hafen]
+  modernName: Basra (Irak)
+  summary: Hafen- und Gelehrtenstadt im Süden des Irak, Tor zum Indischen Ozean; im 9. Jahrhundert Zentrum des Aufstands der Zanj.
+  regions: [mesopotamien, indischer-ozean]
+  themes: [handelsnetze]
+- id: damaskus
+  name: Damaskus
+  coords: [36.2920, 33.5130]
+  categories: [stadt, hauptstadt]
+  modernName: Damaskus (Syrien)
+  summary: Hauptstadt des Umayyaden-Kalifats (661–750) mit der Umayyaden-Moschee.
+  regions: [levante]
+- id: rakka
+  name: ar-Raqqa
+  aliases: [Raqqa, Rakka]
+  coords: [39.0100, 35.9500]
+  categories: [stadt]
+  modernName: ar-Raqqa (Syrien)
+  summary: Stadt am Euphrat, von 796 bis 808 bevorzugte Residenz Harun ar-Raschids nahe der byzantinischen Grenze.
+  regions: [levante]
+- id: talas
+  name: Talas
+  coords: [72.2400, 42.5200]
+  location: umstritten
+  categories: [schlachtfeld]
+  modernName: Grenzgebiet Kirgisistan–Kasachstan
+  summary: Fluss in Zentralasien, an dem 751 ein abbasidisches Heer eine Armee der chinesischen Tang-Dynastie besiegte.
+  regions: [zentralasien]
+  themes: [krieg-militaer]
+- id: cordoba
+  name: Córdoba
+  aliases: [Qurtuba]
+  coords: [-4.7790, 37.8840]
+  categories: [stadt, hauptstadt]
+  modernName: Córdoba (Andalusien)
+  summary: Hauptstadt des von einem überlebenden Umayyaden 756 begründeten Emirats (ab 929 Kalifats) von al-Andalus.
+  regions: [iberische-halbinsel]

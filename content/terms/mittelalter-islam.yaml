@@ -1,0 +1,48 @@
+- id: kapitular
+  name: Kapitular
+  aliases: [Kapitularien, Capitulare]
+  definition: In Kapitel gegliederter Erlass karolingischer Herrscher zu Verwaltung, Recht, Kirche und Wirtschaft.
+  themes: [verfassung-recht, politik]
+- id: missi-dominici
+  name: Missi dominici
+  aliases: [Königsboten, Missus]
+  definition: Unter Karl dem Großen meist paarweise – ein geistlicher und ein weltlicher Würdenträger – ausgesandte Königsboten, die in festgelegten Bezirken Grafen und Bischöfe kontrollierten und Erlasse verkündeten.
+  themes: [politik, verfassung-recht]
+- id: pfalz
+  name: Pfalz
+  aliases: [Königspfalz, Kaiserpfalz, palatium]
+  definition: Herrschaftssitz, an dem der reisende mittelalterliche König mit seinem Hof Station machte, regierte und Feste beging.
+  themes: [politik]
+- id: karolingische-minuskel
+  name: Karolingische Minuskel
+  definition: Klare, gut lesbare Kleinbuchstabenschrift, die sich im späten 8. Jahrhundert im Frankenreich durchsetzte; Vorbild unserer heutigen Kleinbuchstaben.
+  themes: [schrift-medien]
+- id: karolingische-renaissance
+  name: Karolingische Renaissance
+  aliases: [Karolingische Bildungsreform, correctio]
+  definition: Neuzeitliche Bezeichnung für die unter Karl dem Großen und seinen Nachfolgern betriebene Erneuerung von Bildung, Schrift, Liturgie und Abschrift antiker Texte; die Zeitgenossen sprachen von „correctio“ (Berichtigung).
+  themes: [kultur-kunst, schrift-medien, religion]
+- id: kalif
+  name: Kalif
+  aliases: [Kalifat, Chalif, khalifa]
+  definition: „Nachfolger“ oder „Stellvertreter“ – Titel der Oberhäupter der muslimischen Gemeinschaft nach dem Tod Muhammads, die zugleich politische Herrscher waren.
+  themes: [politik, religion]
+- id: wesir
+  name: Wesir
+  aliases: [Vezir, Wazir]
+  definition: Oberster Minister und Leiter der Verwaltung im Dienst eines Kalifen oder Sultans; das Amt gewann unter den Abbasiden große Bedeutung.
+  themes: [politik]
+- id: uebersetzungsbewegung
+  name: Griechisch-arabische Übersetzungsbewegung
+  aliases: [Übersetzungsbewegung, Haus der Weisheit, Bayt al-Hikma]
+  definition: Die vom 8. bis 10. Jahrhundert vor allem in Bagdad betriebene Übertragung griechischer, syrischer, persischer und indischer Werke der Wissenschaft und Philosophie ins Arabische, finanziert von Kalifen, Wesiren und wohlhabenden Familien.
+  themes: [wissenschaft-technik, schrift-medien]
+- id: ghulam
+  name: Ghulam
+  aliases: [Ghilman, Militärsklaven, Mamluk]
+  definition: Militärsklave, meist türkischer Herkunft, der im Dienst eines Herrschers ausgebildet wurde; ab dem 9. Jahrhundert Kern der abbasidischen Heere.
+  themes: [krieg-militaer, sklaverei-unfreiheit]
+- id: mihna
+  name: Mihna
+  definition: „Prüfung“ – die 833 von al-Ma'mun eingeführte Pflicht für Richter und Gelehrte, die Lehre von der Erschaffenheit des Korans anzuerkennen; um 848 aufgegeben.
+  themes: [religion, politik]

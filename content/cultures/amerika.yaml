@@ -1,0 +1,15 @@
+- id: maya
+  name: Maya
+  aliases: [Maya-Kultur, Maya-Zivilisation]
+  start: "~-1000"
+  summary: Völker und Kultur im Süden Mexikos, in Guatemala, Belize und im Westen von Honduras und El Salvador; Höhepunkt der Stadtkultur in der Klassik (etwa 250–900). Heute sprechen mehrere Millionen Menschen eine der rund 30 Maya-Sprachen.
+  regions: [mesoamerika]
+  places: [tikal, calakmul, palenque, copan, chichen-itza]
+- id: inka
+  name: Inka
+  aliases: [Inca, Inkas]
+  start: "~1200?"
+  end: "1572"
+  summary: Ursprünglich eine Herrschergruppe im Raum Cusco, später Bezeichnung für die Träger des Reiches Tawantinsuyu. Die Reichssprache Quechua wird heute von rund acht bis zehn Millionen Menschen gesprochen.
+  regions: [andenraum]
+  places: [cusco, machu-picchu]

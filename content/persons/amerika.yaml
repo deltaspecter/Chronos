@@ -1,0 +1,191 @@
+# Personen: Maya und Inka
+- id: pakal
+  name: K'inich Janaab Pakal I.
+  aliases: [Pakal, Pacal, Pakal der Große]
+  born: "603"
+  died: "683"
+  roles: [König von Palenque]
+  summary: Herrscher von Palenque von 615 bis 683, unter dem die Stadt ihre größte Blüte erlebte; sein Grab im Tempel der Inschriften wurde 1952 entdeckt.
+  regions: [mesoamerika]
+  themes: [politik, kultur-kunst]
+  places: [palenque]
+- id: yuknoom-cheen-ii
+  name: Yuknoom Ch'een II.
+  aliases: [Yuknoom der Große]
+  born: "600"
+  died: "~686"
+  roles: [König der Kaanul-Dynastie]
+  summary: Herrscher der Kaanul-Dynastie in Calakmul (636 – um 686), unter dem Kaanul ein weitreichendes Netz abhängiger Königtümer im Maya-Tiefland beherrschte.
+  regions: [mesoamerika]
+  themes: [politik, imperien]
+  places: [calakmul]
+- id: jasaw-chan-kawiil
+  name: Jasaw Chan K'awiil I.
+  died: "~734"
+  roles: [König von Tikal]
+  summary: Herrscher von Tikal (682 – um 734), der 695 Calakmul besiegte und die lange Schwächephase Tikals beendete; in Tempel I bestattet.
+  regions: [mesoamerika]
+  themes: [politik, krieg-militaer]
+  places: [tikal]
+  related: [yuknoom-cheen-ii]
+- id: sihyaj-kahk
+  name: Sihyaj K'ahk'
+  aliases: [Siyaj K'ak', „Feuer ist geboren“]
+  roles: [Feldherr]
+  certainty: unsicher
+  summary: Mit Teotihuacan verbundener Feldherr, dessen „Ankunft“ in Tikal im Januar 378 mit dem Tod des dortigen Königs und einem Dynastiewechsel zusammenfiel.
+  regions: [mesoamerika]
+  themes: [politik, krieg-militaer]
+  places: [tikal, teotihuacan]
+- id: waxaklajuun-ubaah-kawiil
+  name: Waxaklajuun Ub'aah K'awiil
+  aliases: [18 Kaninchen, 18 Rabbit]
+  died: "738"
+  roles: [König von Copán]
+  summary: Herrscher von Copán (695–738), unter dem zahlreiche Stelen der Großen Plaza entstanden; 738 vom König von Quiriguá gefangen genommen und enthauptet.
+  regions: [mesoamerika]
+  themes: [politik, kultur-kunst]
+  places: [copan, quirigua]
+  related: [kak-tiliw-chan-yopaat]
+- id: kak-tiliw-chan-yopaat
+  name: K'ahk' Tiliw Chan Yopaat
+  aliases: [Cauac Sky]
+  died: "785"
+  roles: [König von Quiriguá]
+  summary: Herrscher von Quiriguá (724–785), der sich 738 gegen seinen Oberherrn in Copán erhob und dessen König hinrichten ließ.
+  regions: [mesoamerika]
+  themes: [politik]
+  places: [quirigua, copan]
+- id: diego-de-landa
+  name: Diego de Landa
+  born: "1524"
+  died: "1579"
+  roles: [Franziskaner, Bischof von Yucatán]
+  summary: Spanischer Missionar, der 1562 in Maní Maya-Handschriften verbrennen ließ und zugleich mit seiner „Relación“ eine der wichtigsten Quellen zur Maya-Kultur des 16. Jahrhunderts verfasste.
+  regions: [mesoamerika]
+  themes: [religion, schrift-medien]
+  places: [mani]
+- id: juri-knorosow
+  name: Juri Knorosow
+  aliases: [Yuri Knorozov, Jurij Knorozov]
+  born: "1922"
+  died: "1999"
+  roles: [Sprachwissenschaftler]
+  summary: Sowjetischer Linguist, der 1952 zeigte, dass die Maya-Schrift Silbenzeichen verwendet, und damit den Weg zu ihrer Entzifferung öffnete.
+  regions: [russland, mesoamerika]
+  themes: [schrift-medien, geschichtsschreibung]
+- id: tatiana-proskouriakoff
+  name: Tatiana Proskouriakoff
+  born: "1909"
+  died: "1985"
+  roles: [Archäologin, Epigraphikerin]
+  summary: Amerikanische Maya-Forscherin russischer Herkunft, die 1960 nachwies, dass die Inschriften von Piedras Negras Lebensdaten von Herrschern festhalten, also Geschichte erzählen.
+  regions: [nordamerika, mesoamerika]
+  themes: [schrift-medien, geschichtsschreibung]
+- id: pachacuti
+  name: Pachacuti Inca Yupanqui
+  aliases: [Pachacútec, Pachakutiq, Cusi Yupanqui]
+  died: "~1471?"
+  roles: [Sapa Inka]
+  certainty: unsicher
+  summary: Nach der Überlieferung der Herrscher, der nach dem Sieg über die Chanka Cusco neu gestaltete und die Expansion der Inka begann; seine Regierungsdaten (meist ca. 1438–1471) beruhen auf späten Angaben.
+  regions: [andenraum]
+  themes: [politik, imperien]
+  places: [cusco, machu-picchu]
+- id: tupac-inca-yupanqui
+  name: Túpac Inca Yupanqui
+  aliases: [Topa Inca, Thupa Inka Yupanki]
+  died: "~1493?"
+  roles: [Sapa Inka, Feldherr]
+  certainty: unsicher
+  summary: Sohn Pachacutis, der als Feldherr und Herrscher das Reich nach Norden bis Ecuador und nach Süden bis ins heutige Chile ausdehnte.
+  regions: [andenraum]
+  themes: [imperien, krieg-militaer]
+  related: [pachacuti, huayna-capac]
+- id: huayna-capac
+  name: Huayna Cápac
+  aliases: [Wayna Qhapaq]
+  died: "~1528?"
+  roles: [Sapa Inka]
+  certainty: wahrscheinlich
+  summary: Inka-Herrscher, der lange im Norden des Reiches Krieg führte; sein plötzlicher Tod, möglicherweise durch eine aus Europa eingeschleppte Seuche, führte zum Bürgerkrieg seiner Söhne.
+  regions: [andenraum]
+  themes: [imperien, politik]
+  places: [quito, cusco]
+  related: [huascar, atahualpa]
+- id: huascar
+  name: Huáscar
+  aliases: [Waskar]
+  died: "1532"
+  roles: [Sapa Inka]
+  summary: Sohn Huayna Cápacs, Herrscher in Cusco; unterlag im Bürgerkrieg seinem Halbbruder Atahualpa und wurde auf dessen Befehl getötet.
+  regions: [andenraum]
+  themes: [politik]
+  places: [cusco]
+  related: [atahualpa]
+- id: atahualpa
+  name: Atahualpa
+  aliases: [Atawallpa, Atabalipa]
+  died: "1533"
+  roles: [Sapa Inka]
+  summary: Sohn Huayna Cápacs, der den Bürgerkrieg gegen Huáscar gewann, aber am 16. November 1532 in Cajamarca von Francisco Pizarro gefangen genommen und im Juli 1533 hingerichtet wurde.
+  regions: [andenraum]
+  themes: [politik, krieg-militaer]
+  places: [cajamarca, quito]
+  related: [francisco-pizarro, huascar]
+- id: francisco-pizarro
+  name: Francisco Pizarro
+  born: "~1478"
+  died: "1541"
+  roles: [Konquistador, Gouverneur]
+  summary: Spanischer Eroberer aus Trujillo (Extremadura), der ab 1532 mit wenigen hundert Mann und indigenen Verbündeten das Inka-Reich unterwarf; 1541 in Lima von Anhängern seines früheren Partners Almagro ermordet.
+  regions: [andenraum, iberische-halbinsel]
+  themes: [krieg-militaer, imperien]
+  places: [cajamarca, cusco, tumbes]
+  related: [atahualpa]
+- id: manco-inca
+  name: Manco Inca
+  aliases: [Manco Cápac II., Manqu Inka Yupanki]
+  born: "~1516"
+  died: "1544"
+  roles: [Sapa Inka]
+  summary: Von den Spaniern 1533 als Herrscher eingesetzter Sohn Huayna Cápacs, der sich 1536 gegen sie erhob, Cusco belagerte und danach in Vilcabamba ein unabhängiges Inka-Reich fortführte.
+  regions: [andenraum]
+  themes: [krieg-militaer, politik]
+  places: [cusco, sacsayhuaman, vilcabamba]
+- id: tupac-amaru-i
+  name: Túpac Amaru I.
+  aliases: [Thupa Amaru]
+  died: "1572"
+  roles: [Sapa Inka]
+  summary: Letzter Herrscher des Inka-Staates von Vilcabamba; nach dessen Eroberung 1572 auf Anordnung des Vizekönigs Francisco de Toledo in Cusco hingerichtet.
+  regions: [andenraum]
+  themes: [politik]
+  places: [vilcabamba, cusco]
+- id: garcilaso-de-la-vega
+  name: Inca Garcilaso de la Vega
+  born: "1539"
+  died: "1616"
+  roles: [Geschichtsschreiber]
+  summary: Sohn eines spanischen Konquistadors und einer Inka-Adligen aus Cusco; seine in Spanien verfassten „Comentarios reales“ (1609) prägten das europäische Bild der Inka nachhaltig.
+  regions: [andenraum, iberische-halbinsel]
+  themes: [geschichtsschreibung]
+  places: [cusco]
+- id: guaman-poma
+  name: Felipe Guaman Poma de Ayala
+  born: "~1535?"
+  died: "~1616?"
+  roles: [Chronist, Zeichner]
+  certainty: unsicher
+  summary: Andiner Autor aus der Region Ayacucho, der um 1615 eine umfangreiche, reich bebilderte Chronik an den spanischen König richtete und darin Inka-Geschichte und koloniale Missstände schilderte.
+  regions: [andenraum]
+  themes: [geschichtsschreibung, gesellschaft]
+- id: hiram-bingham
+  name: Hiram Bingham III.
+  born: "1875"
+  died: "1956"
+  roles: [Historiker, Forschungsreisender]
+  summary: Amerikanischer Hochschullehrer, der 1911 von örtlichen Bauern nach Machu Picchu geführt wurde und die Anlage international bekannt machte.
+  regions: [nordamerika, andenraum]
+  themes: [archaeologie]
+  places: [machu-picchu]

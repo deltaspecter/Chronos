@@ -1,0 +1,185 @@
+# Quellen und Literatur: Frankenreich und Abbasiden-Kalifat
+
+# --- Karolinger ---
+- id: fried-2013
+  kind: sekundaer
+  authors: ["Fried, Johannes"]
+  title: Karl der Große
+  subtitle: Gewalt und Glaube. Eine Biographie
+  place: München
+  publisher: C. H. Beck
+  year: 2013
+- id: becher-1999
+  kind: sekundaer
+  authors: ["Becher, Matthias"]
+  title: Karl der Große
+  series: Beck'sche Reihe – C. H. Beck Wissen
+  place: München
+  publisher: C. H. Beck
+  year: 1999
+- id: mckitterick-2008
+  kind: sekundaer
+  authors: ["McKitterick, Rosamond"]
+  title: Charlemagne
+  subtitle: The Formation of a European Identity
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2008
+- id: schieffer-2006
+  kind: sekundaer
+  authors: ["Schieffer, Rudolf"]
+  title: Die Karolinger
+  edition: 4. Auflage
+  series: Urban-Taschenbücher
+  place: Stuttgart
+  publisher: Kohlhammer
+  year: 2006
+- id: hartmann-2010
+  kind: sekundaer
+  authors: ["Hartmann, Wilfried"]
+  title: Karl der Große
+  place: Stuttgart
+  publisher: Kohlhammer
+  year: 2010
+- id: weinfurter-2013
+  kind: sekundaer
+  authors: ["Weinfurter, Stefan"]
+  title: Karl der Große
+  subtitle: Der heilige Barbar
+  place: München
+  publisher: Piper
+  year: 2013
+- id: costambeys-innes-maclean-2011
+  kind: sekundaer
+  authors: ["Costambeys, Marios", "Innes, Matthew", "MacLean, Simon"]
+  title: The Carolingian World
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2011
+- id: pirenne-1937
+  kind: sekundaer
+  authors: ["Pirenne, Henri"]
+  title: Mahomet et Charlemagne
+  place: Paris / Brüssel
+  publisher: Alcan / Nouvelle Société d'Éditions
+  year: 1937
+  note: Postum erschienen; deutsche Ausgabe „Mohammed und Karl der Große“.
+- id: mccormick-2001
+  kind: sekundaer
+  authors: ["McCormick, Michael"]
+  title: Origins of the European Economy
+  subtitle: Communications and Commerce, A.D. 300–900
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2001
+- id: q-einhard
+  kind: primaer
+  authors: ["Einhard"]
+  title: Vita Karoli Magni (Das Leben Karls des Großen)
+  written: zwischen etwa 817 und 830
+  note: Biografie aus der Feder eines Gelehrten am Hof Karls, nach dem Vorbild der Kaiserviten Suetons. Wertvoll durch die persönliche Kenntnis des Autors, aber eine stilisierte Lobschrift; die genaue Abfassungszeit ist umstritten.
+- id: q-reichsannalen
+  kind: primaer
+  title: Annales regni Francorum (Fränkische Reichsannalen)
+  written: im Umfeld des Hofes, etwa 788–829
+  note: Jahrweise geführte Hofgeschichtsschreibung, die Misserfolge oft verschweigt. Eine überarbeitete Fassung („Einhardsannalen“) ergänzt manche dieser Lücken.
+- id: q-admonitio-generalis
+  kind: primaer
+  title: Admonitio generalis
+  written: "789"
+  note: Umfangreiches Kapitular Karls des Großen zur Reform von Kirche, Bildung und Lebensführung; verlangt unter anderem Schulen an Klöstern und Bischofssitzen.
+- id: q-capitulatio-saxonia
+  kind: primaer
+  title: Capitulatio de partibus Saxoniae
+  written: wahrscheinlich 782 oder um 785
+  note: Kapitular für das eroberte Sachsen, das unter anderem die Verweigerung der Taufe und heidnische Bräuche mit dem Tod bedrohte; die Datierung ist umstritten.
+- id: q-notker
+  kind: primaer
+  authors: ["Notker Balbulus"]
+  title: Gesta Karoli Magni imperatoris
+  written: 883–887
+  note: Anekdotensammlung eines Mönchs aus St. Gallen für Kaiser Karl III.; zeigt das bereits legendenhafte Bild Karls zwei Generationen nach seinem Tod.
+
+# --- Abbasiden ---
+- id: kennedy-2004
+  kind: sekundaer
+  authors: ["Kennedy, Hugh"]
+  title: The Court of the Caliphs
+  subtitle: The Rise and Fall of Islam's Greatest Dynasty
+  place: London
+  publisher: Weidenfeld & Nicolson
+  year: 2004
+  note: In den USA unter dem Titel „When Baghdad Ruled the Muslim World“ erschienen.
+- id: kennedy-2016
+  kind: sekundaer
+  authors: ["Kennedy, Hugh"]
+  title: The Prophet and the Age of the Caliphates
+  subtitle: The Islamic Near East from the Sixth to the Eleventh Century
+  edition: 3. Auflage
+  place: London / New York
+  publisher: Routledge
+  year: 2016
+- id: gutas-1998
+  kind: sekundaer
+  authors: ["Gutas, Dimitri"]
+  title: Greek Thought, Arabic Culture
+  subtitle: The Graeco-Arabic Translation Movement in Baghdad and Early ʿAbbāsid Society (2nd–4th/8th–10th centuries)
+  place: London
+  publisher: Routledge
+  year: 1998
+- id: kraemer-2005
+  kind: sekundaer
+  authors: ["Krämer, Gudrun"]
+  title: Geschichte des Islam
+  place: München
+  publisher: C. H. Beck
+  year: 2005
+- id: halm-2004
+  kind: sekundaer
+  authors: ["Halm, Heinz"]
+  title: Die Araber
+  subtitle: Von der vorislamischen Zeit bis zur Gegenwart
+  series: Beck'sche Reihe – C. H. Beck Wissen
+  place: München
+  publisher: C. H. Beck
+  year: 2004
+- id: bloom-2001
+  kind: sekundaer
+  authors: ["Bloom, Jonathan M."]
+  title: Paper before Print
+  subtitle: The History and Impact of Paper in the Islamic World
+  place: New Haven
+  publisher: Yale University Press
+  year: 2001
+- id: lassner-1970
+  kind: sekundaer
+  authors: ["Lassner, Jacob"]
+  title: The Topography of Baghdad in the Early Middle Ages
+  subtitle: Text and Studies
+  place: Detroit
+  publisher: Wayne State University Press
+  year: 1970
+- id: q-tabari
+  kind: primaer
+  authors: ["at-Tabari"]
+  title: Tarikh ar-rusul wa-l-muluk (Geschichte der Propheten und Könige)
+  written: abgeschlossen um 915
+  note: Universalgeschichte des in Bagdad lebenden Gelehrten, die viele ältere Überlieferungen mit Angabe der Gewährsleute zusammenstellt; Hauptquelle für die frühe Abbasidenzeit. Englische Übersetzung in 40 Bänden (State University of New York Press, 1985–2007).
+- id: q-yaqubi
+  kind: primaer
+  authors: ["al-Yaqubi"]
+  title: Kitab al-buldan (Buch der Länder)
+  written: um 890
+  note: Geografisches Werk mit einer ausführlichen Beschreibung Bagdads und Samarras.
+- id: q-ibn-an-nadim
+  kind: primaer
+  authors: ["Ibn an-Nadim"]
+  title: Kitab al-Fihrist (Verzeichnis)
+  written: 987/988
+  note: Katalog der in Bagdad bekannten arabischen Bücher eines Buchhändlers, einschließlich der Übersetzungen aus dem Griechischen, Syrischen und Persischen.
+- id: q-al-khwarizmi
+  kind: primaer
+  authors: ["Muhammad ibn Musa al-Khwarizmi"]
+  title: Al-Kitab al-mukhtasar fi hisab al-dschabr wa-l-muqabala
+  written: um 820–830
+  note: Lehrbuch des Rechnens durch „Ergänzen und Ausgleichen“, dem Kalifen al-Ma'mun gewidmet; von „al-dschabr“ leitet sich das Wort „Algebra“ ab.

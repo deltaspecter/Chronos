@@ -1,0 +1,185 @@
+# Orte in Mesoamerika und im Andenraum
+- id: tikal
+  name: Tikal
+  aliases: [Mutul, Yax Mutul]
+  coords: [-89.6237, 17.2221]
+  categories: [stadt, fundstaette, hauptstadt]
+  modernName: Petén (Guatemala)
+  summary: Eine der größten Städte der klassischen Maya im Tiefland von Petén; Sitz der Dynastie von Mutul, des großen Rivalen Calakmuls.
+  regions: [mesoamerika]
+  themes: [archaeologie, imperien]
+- id: calakmul
+  name: Calakmul
+  aliases: [Chiik Nahb, Uxte'tuun]
+  coords: [-89.8106, 18.1053]
+  categories: [stadt, fundstaette, hauptstadt]
+  modernName: Campeche (Mexiko)
+  summary: Klassische Maya-Stadt, im 7. Jahrhundert Hauptsitz der Kaanul-Dynastie, der mächtigsten Hegemonialmacht des Maya-Tieflands.
+  regions: [mesoamerika]
+  themes: [archaeologie, imperien]
+- id: dzibanche
+  name: Dzibanché
+  coords: [-88.7600, 18.6390]
+  categories: [stadt, fundstaette]
+  modernName: Quintana Roo (Mexiko)
+  summary: Maya-Stadt im Süden der Halbinsel Yucatán, nach heutigem Forschungsstand bis ins frühe 7. Jahrhundert Sitz der Kaanul-Dynastie.
+  regions: [mesoamerika]
+  themes: [archaeologie]
+- id: el-mirador
+  name: El Mirador
+  coords: [-89.9200, 17.7550]
+  categories: [stadt, fundstaette]
+  modernName: Petén (Guatemala)
+  summary: Riesige Maya-Stadt der späten Präklassik (etwa 300 v. Chr. – 150 n. Chr.) mit einigen der größten Pyramidenbauten Mesoamerikas.
+  regions: [mesoamerika]
+  themes: [archaeologie]
+- id: palenque
+  name: Palenque
+  aliases: [Lakamha', Baakal]
+  coords: [-92.0460, 17.4840]
+  categories: [stadt, fundstaette]
+  modernName: Chiapas (Mexiko)
+  summary: Klassische Maya-Stadt am Rand der Berge von Chiapas, berühmt für ihre Architektur, ihre langen Inschriften und das Grab des Königs Pakal.
+  regions: [mesoamerika]
+  themes: [archaeologie, kultur-kunst]
+- id: copan
+  name: Copán
+  aliases: [Xukpi]
+  coords: [-89.1420, 14.8400]
+  categories: [stadt, fundstaette]
+  modernName: Copán Ruinas (Honduras)
+  summary: Südlichste große Stadt der klassischen Maya, bekannt für ihre Skulpturen und die Hieroglyphentreppe mit der längsten bekannten Maya-Inschrift.
+  regions: [mesoamerika]
+  themes: [archaeologie, kultur-kunst]
+- id: quirigua
+  name: Quiriguá
+  coords: [-89.0400, 15.2700]
+  categories: [stadt, fundstaette]
+  modernName: Izabal (Guatemala)
+  summary: Kleinere Maya-Stadt im Motagua-Tal, die sich 738 von der Oberherrschaft Copáns befreite; berühmt für ihre sehr hohen Stelen.
+  regions: [mesoamerika]
+  themes: [archaeologie]
+- id: caracol
+  name: Caracol
+  aliases: [Oxwitza']
+  coords: [-89.1170, 16.7630]
+  categories: [stadt, fundstaette]
+  modernName: Cayo (Belize)
+  summary: Großstadt der klassischen Maya im heutigen Belize, Verbündete Calakmuls und 562 Siegerin über Tikal.
+  regions: [mesoamerika]
+  themes: [archaeologie]
+- id: bonampak
+  name: Bonampak
+  coords: [-91.0650, 16.7040]
+  categories: [fundstaette]
+  modernName: Chiapas (Mexiko)
+  summary: Kleine Maya-Stätte, deren um 790 gemalte Wandbilder Hof, Krieg und Zeremonien in seltener Ausführlichkeit zeigen.
+  regions: [mesoamerika]
+  themes: [kultur-kunst, archaeologie]
+- id: tonina
+  name: Toniná
+  coords: [-92.0090, 16.9020]
+  categories: [stadt, fundstaette]
+  modernName: Chiapas (Mexiko)
+  summary: Maya-Stadt im Hochland von Chiapas, die das späteste bekannte Datum der Langen Zählung (909 n. Chr.) überliefert.
+  regions: [mesoamerika]
+  themes: [archaeologie]
+- id: chichen-itza
+  name: Chichén Itzá
+  coords: [-88.5690, 20.6830]
+  categories: [stadt, fundstaette, heiligtum]
+  modernName: Yucatán (Mexiko)
+  summary: Bedeutendste Stadt im Norden Yucatáns im 9. bis 11. Jahrhundert, mit Einflüssen aus Zentralmexiko; heute eine der bekanntesten Ruinenstätten der Welt.
+  regions: [mesoamerika]
+  themes: [archaeologie, religion]
+- id: teotihuacan
+  name: Teotihuacan
+  coords: [-98.8440, 19.6920]
+  categories: [stadt, fundstaette]
+  modernName: Bundesstaat México (Mexiko)
+  summary: Metropole im Hochtal von Mexiko mit vielleicht 100.000 Einwohnern in der Mitte des 1. Jahrtausends n. Chr.; ihr Einfluss reichte bis ins Maya-Tiefland.
+  regions: [mesoamerika]
+  themes: [archaeologie, imperien]
+- id: mani
+  name: Maní
+  coords: [-89.3910, 20.3880]
+  categories: [stadt]
+  modernName: Yucatán (Mexiko)
+  summary: Ort in Yucatán, an dem der Franziskaner Diego de Landa 1562 Maya-Handschriften und Kultgegenstände verbrennen ließ.
+  regions: [mesoamerika]
+  themes: [religion, schrift-medien]
+- id: cusco
+  name: Cusco
+  aliases: [Cuzco, Qusqu, Qosqo]
+  coords: [-71.9675, -13.5320]
+  categories: [stadt, hauptstadt, heiligtum]
+  modernName: Cusco (Peru)
+  summary: Hauptstadt des Inka-Reiches im südperuanischen Hochland, religiöser und politischer Mittelpunkt von Tawantinsuyu.
+  regions: [andenraum]
+  themes: [imperien, religion]
+- id: sacsayhuaman
+  name: Sacsayhuamán
+  coords: [-71.9820, -13.5090]
+  categories: [fundstaette, heiligtum]
+  modernName: oberhalb von Cusco (Peru)
+  summary: Monumentale Anlage aus fugenlos gesetzten Steinblöcken über Cusco; 1536 Schauplatz der Kämpfe während der Belagerung der Stadt durch Manco Inca.
+  regions: [andenraum]
+  themes: [archaeologie, krieg-militaer]
+- id: machu-picchu
+  name: Machu Picchu
+  coords: [-72.5450, -13.1630]
+  categories: [fundstaette]
+  modernName: Region Cusco (Peru)
+  summary: Inka-Anlage auf einem Bergsattel über dem Urubamba-Tal, wahrscheinlich ein königlicher Landsitz Pachacutis; seit 1983 UNESCO-Welterbe.
+  regions: [andenraum]
+  themes: [archaeologie]
+- id: cajamarca
+  name: Cajamarca
+  coords: [-78.5100, -7.1640]
+  categories: [stadt]
+  modernName: Cajamarca (Peru)
+  summary: Stadt im nördlichen Hochland Perus, in der spanische Truppen unter Francisco Pizarro am 16. November 1532 den Inka-Herrscher Atahualpa gefangen nahmen.
+  regions: [andenraum]
+  themes: [krieg-militaer]
+- id: quito
+  name: Quito
+  coords: [-78.4670, -0.1800]
+  categories: [stadt]
+  modernName: Quito (Ecuador)
+  summary: Nördliches Zentrum des Inka-Reiches im heutigen Ecuador, Machtbasis Atahualpas im Bürgerkrieg gegen Huáscar.
+  regions: [andenraum]
+- id: tumbes
+  name: Tumbes
+  coords: [-80.4510, -3.5670]
+  categories: [stadt, hafen]
+  modernName: Tumbes (Peru)
+  summary: Inka-Stadt an der Nordküste Perus, an der die Expeditionen Francisco Pizarros 1528 und 1532 erstmals das Inka-Reich erreichten.
+  regions: [andenraum]
+- id: vilcabamba
+  name: Vilcabamba
+  aliases: [Espíritu Pampa]
+  coords: [-73.2000, -12.9100]
+  location: ungefaehr
+  categories: [stadt, fundstaette]
+  modernName: Espíritu Pampa, Region Cusco (Peru)
+  summary: Rückzugsort der unabhängigen Inka-Herrscher im Regenwald nordwestlich von Cusco (1539–1572); meist mit der Fundstätte Espíritu Pampa gleichgesetzt.
+  regions: [andenraum]
+  themes: [krieg-militaer]
+- id: titicacasee
+  name: Titicacasee
+  aliases: [Titicaca]
+  coords: [-69.4000, -15.8000]
+  categories: [region, heiligtum]
+  modernName: Grenze Peru–Bolivien
+  summary: Hochlandsee auf rund 3.800 Metern Höhe; nach Inka-Überlieferung Ursprungsort der Sonne und der ersten Inka.
+  regions: [andenraum]
+  themes: [religion]
+- id: lima
+  name: Lima
+  aliases: [Ciudad de los Reyes]
+  coords: [-77.0300, -12.0460]
+  categories: [stadt, hauptstadt, hafen]
+  modernName: Lima (Peru)
+  summary: 1535 von Francisco Pizarro als „Stadt der Könige“ gegründet, Hauptstadt des Vizekönigreichs Peru und heute Perus.
+  start: "1535"
+  regions: [andenraum]

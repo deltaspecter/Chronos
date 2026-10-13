@@ -1,0 +1,299 @@
+# --- Frankenreich ---
+- id: koenigserhebung-pippins
+  title: Königserhebung Pippins
+  date: "751"
+  weight: 2
+  kind: herrschaft
+  summary: Der Hausmeier Pippin lässt den letzten Merowingerkönig absetzen und sich mit Zustimmung des Papstes zum König der Franken erheben – Beginn der karolingischen Königsherrschaft.
+  regions: [westeuropa]
+  themes: [politik, religion]
+  persons: [pippin-der-juengere]
+  polities: [frankenreich]
+- id: salbung-in-saint-denis
+  title: Papst Stephan II. salbt Pippin und seine Söhne
+  date: "754"
+  weight: 3
+  kind: ereignis
+  summary: In Saint-Denis salbt der Papst Pippin und seine Söhne Karl und Karlmann; Pippin sagt im Gegenzug Hilfe gegen die Langobarden zu.
+  regions: [frankreich]
+  themes: [religion, politik]
+  places: [saint-denis]
+  persons: [pippin-der-juengere, karl-der-grosse]
+  polities: [frankenreich]
+- id: sachsenkriege
+  title: Sachsenkriege Karls des Großen
+  start: "772"
+  end: "804"
+  weight: 2
+  kind: krieg
+  summary: In über drei Jahrzehnten wiederholter Feldzüge, Aufstände, Deportationen und Zwangstaufen unterwirft Karl die Sachsen und gliedert ihr Gebiet in das Frankenreich ein.
+  regions: [deutschland]
+  themes: [krieg-militaer, religion, gewalt-genozid]
+  places: [verden, paderborn]
+  persons: [karl-der-grosse, widukind]
+  polities: [frankenreich]
+- id: eroberung-pavias
+  title: Eroberung des Langobardenreiches
+  date: "774"
+  weight: 2
+  kind: krieg
+  summary: Nach langer Belagerung fällt Pavia; Karl nennt sich fortan „König der Franken und der Langobarden“.
+  regions: [italien]
+  themes: [krieg-militaer, imperien]
+  places: [pavia]
+  persons: [karl-der-grosse, desiderius]
+  polities: [frankenreich, langobardenreich]
+- id: schlacht-von-roncesvalles
+  title: Niederlage bei Roncesvalles
+  date: "778-08-15"
+  weight: 3
+  kind: schlacht
+  summary: Auf dem Rückzug aus Spanien wird die fränkische Nachhut in den Pyrenäen von Basken aufgerieben; daraus entsteht später die Sage von Roland.
+  regions: [iberische-halbinsel]
+  themes: [krieg-militaer]
+  places: [roncesvalles]
+  persons: [karl-der-grosse]
+  polities: [frankenreich]
+- id: blutgericht-von-verden
+  title: Blutgericht von Verden
+  date: "782"
+  weight: 2
+  kind: ereignis
+  certainty: wahrscheinlich
+  dateNote: Die Zahl von 4.500 Hingerichteten nennen nur die fränkischen Reichsannalen; Umfang und Ablauf sind umstritten.
+  summary: Nach einer fränkischen Niederlage lässt Karl an der Aller eine große Zahl gefangener Sachsen hinrichten.
+  regions: [deutschland]
+  themes: [gewalt-genozid, krieg-militaer]
+  places: [verden]
+  persons: [karl-der-grosse]
+  polities: [frankenreich]
+- id: taufe-widukinds
+  title: Taufe Widukinds
+  date: "785"
+  weight: 3
+  kind: ereignis
+  summary: Der sächsische Anführer Widukind unterwirft sich und lässt sich in der Pfalz Attigny taufen, Karl ist sein Pate.
+  regions: [deutschland, frankreich]
+  themes: [religion]
+  persons: [widukind, karl-der-grosse]
+  polities: [frankenreich]
+- id: absetzung-tassilos
+  title: Absetzung Tassilos III.
+  date: "788"
+  weight: 3
+  kind: ereignis
+  summary: Der bayerische Herzog wird auf einer Versammlung in Ingelheim abgesetzt; Bayern wird unmittelbar dem Frankenreich eingegliedert.
+  regions: [mitteleuropa]
+  themes: [politik]
+  persons: [tassilo-iii, karl-der-grosse]
+  polities: [frankenreich]
+- id: admonitio-generalis-789
+  title: Admonitio generalis
+  date: "789"
+  weight: 3
+  kind: gesetz
+  summary: Karl erlässt ein umfassendes Reformprogramm für Kirche und Bildung, das unter anderem Schulen an Klöstern und Bischofssitzen verlangt.
+  regions: [westeuropa, mitteleuropa]
+  themes: [religion, schrift-medien]
+  persons: [karl-der-grosse, alkuin]
+  polities: [frankenreich]
+- id: awarenkriege
+  title: Feldzüge gegen die Awaren
+  start: "791"
+  end: "796"
+  weight: 3
+  kind: krieg
+  summary: Fränkische Heere zerschlagen das Reich der Awaren im Karpatenbecken und erbeuten deren legendären Schatz.
+  regions: [mitteleuropa, osteuropa]
+  themes: [krieg-militaer]
+  persons: [karl-der-grosse]
+  polities: [frankenreich]
+- id: synode-von-frankfurt
+  title: Synode von Frankfurt
+  date: "794"
+  weight: 3
+  kind: ereignis
+  summary: Große Reichsversammlung und Synode, die theologische Streitfragen entscheidet, eine Münz- und Maßreform beschließt und Frankfurt erstmals schriftlich erwähnt.
+  regions: [deutschland]
+  themes: [religion, wirtschaft-handel]
+  places: [frankfurt]
+  persons: [karl-der-grosse, tassilo-iii]
+  polities: [frankenreich]
+- id: gesandtschaften-karl-harun
+  title: Gesandtschaften zwischen Karl dem Großen und Harun ar-Raschid
+  start: "797"
+  end: "802"
+  weight: 3
+  kind: ereignis
+  summary: Karl schickt Gesandte nach Bagdad; 802 erreicht als Geschenk des Kalifen ein Elefant namens Abul Abaz Aachen. Die Kontakte sind nur aus fränkischen Quellen bekannt.
+  regions: [mitteleuropa, mesopotamien]
+  themes: [politik]
+  places: [aachen, bagdad]
+  persons: [karl-der-grosse, harun-ar-raschid]
+  polities: [frankenreich, abbasiden-kalifat]
+- id: kaiserkroenung-karls
+  title: Kaiserkrönung Karls des Großen
+  date: "800-12-25"
+  weight: 1
+  kind: herrschaft
+  summary: Papst Leo III. krönt Karl in der Peterskirche in Rom zum Kaiser; erstmals seit über drei Jahrhunderten gibt es im Westen wieder einen Kaiser.
+  regions: [italien]
+  themes: [politik, religion]
+  places: [rom]
+  persons: [karl-der-grosse, leo-iii]
+  polities: [frankenreich]
+- id: anerkennung-durch-byzanz
+  title: Byzanz erkennt Karls Kaisertitel an
+  date: "812"
+  weight: 3
+  kind: vertrag
+  summary: Gesandte des byzantinischen Kaisers Michael I. begrüßen Karl in Aachen als Kaiser; im Gegenzug verzichtet Karl auf Venetien und Dalmatien.
+  regions: [mitteleuropa, suedosteuropa]
+  themes: [politik]
+  places: [aachen]
+  persons: [karl-der-grosse]
+  polities: [frankenreich, byzantinisches-reich]
+- id: tod-karls-des-grossen
+  title: Tod Karls des Großen
+  date: "814-01-28"
+  weight: 2
+  kind: ereignis
+  summary: Karl stirbt in Aachen und wird noch am selben Tag in der Pfalzkapelle beigesetzt; Nachfolger wird sein Sohn Ludwig der Fromme.
+  regions: [mitteleuropa]
+  themes: [politik]
+  places: [aachen]
+  persons: [karl-der-grosse, ludwig-der-fromme, einhard]
+  polities: [frankenreich]
+- id: vertrag-von-verdun
+  title: Vertrag von Verdun
+  date: "843-08"
+  weight: 2
+  kind: vertrag
+  summary: Die Enkel Karls des Großen teilen das Frankenreich in ein West-, ein Mittel- und ein Ostreich – eine Teilung, aus der langfristig Frankreich und das römisch-deutsche Reich hervorgingen.
+  regions: [westeuropa, mitteleuropa]
+  themes: [politik]
+  places: [verdun]
+  polities: [frankenreich]
+
+# --- Abbasiden ---
+- id: abbasidische-revolution
+  title: Abbasidische Revolution
+  start: "747"
+  end: "750"
+  weight: 1
+  kind: revolution
+  summary: Von Chorasan aus stürzt eine von Abu Muslim organisierte Bewegung die Umayyaden; die Abbasiden, Nachkommen eines Onkels des Propheten, übernehmen das Kalifat.
+  regions: [iran, zentralasien, mesopotamien]
+  themes: [revolutionen, religion]
+  places: [merw, kufa]
+  persons: [abu-muslim, as-saffah]
+  polities: [umayyaden-kalifat, abbasiden-kalifat]
+- id: schlacht-am-zab
+  title: Schlacht am Großen Zab
+  date: "750-01"
+  weight: 3
+  kind: schlacht
+  summary: Das Heer der Abbasiden besiegt den letzten Umayyaden-Kalifen Marwan II. im Norden des Irak.
+  regions: [mesopotamien]
+  themes: [krieg-militaer]
+  polities: [umayyaden-kalifat, abbasiden-kalifat]
+- id: schlacht-am-talas
+  title: Schlacht am Talas
+  date: "751-07"
+  weight: 3
+  kind: schlacht
+  summary: Ein abbasidisches Heer besiegt in Zentralasien eine Armee der chinesischen Tang-Dynastie; die Schlacht markiert die Grenze der Einflusszonen beider Reiche.
+  regions: [zentralasien, china]
+  themes: [krieg-militaer]
+  places: [talas]
+  polities: [abbasiden-kalifat]
+- id: gruendung-bagdads
+  title: Gründung Bagdads
+  date: "762"
+  weight: 1
+  kind: gruendung
+  summary: Der Kalif al-Mansur lässt am Tigris eine kreisrunde Palaststadt als neue Hauptstadt errichten, die „Stadt des Friedens“ (Madinat as-Salam).
+  regions: [mesopotamien]
+  themes: [imperien]
+  places: [bagdad]
+  persons: [al-mansur]
+  polities: [abbasiden-kalifat]
+- id: sturz-der-barmakiden
+  title: Sturz der Barmakiden
+  date: "803"
+  weight: 3
+  kind: ereignis
+  summary: Harun ar-Raschid lässt die mächtige Wesirsfamilie der Barmakiden entmachten; Dscha'far al-Barmaki wird hingerichtet.
+  regions: [mesopotamien]
+  themes: [politik]
+  places: [bagdad]
+  persons: [harun-ar-raschid, yahya-al-barmaki]
+  polities: [abbasiden-kalifat]
+- id: buergerkrieg-amin-mamun
+  title: Bürgerkrieg zwischen al-Amin und al-Ma'mun
+  start: "811"
+  end: "813"
+  weight: 2
+  kind: krieg
+  summary: Die Söhne Harun ar-Raschids kämpfen um das Kalifat; Bagdad wird monatelang belagert und schwer verwüstet, al-Amin getötet.
+  regions: [mesopotamien, iran]
+  themes: [krieg-militaer, politik]
+  places: [bagdad, merw]
+  persons: [al-amin, al-mamun]
+  polities: [abbasiden-kalifat]
+- id: mihna-833
+  title: Einführung der Mihna
+  start: "833"
+  end: "~848"
+  weight: 3
+  kind: ereignis
+  summary: Al-Ma'mun verlangt von Richtern und Gelehrten das Bekenntnis zur Erschaffenheit des Korans; Ahmad ibn Hanbal verweigert es und wird misshandelt.
+  regions: [mesopotamien]
+  themes: [religion, politik]
+  places: [bagdad]
+  persons: [al-mamun, ahmad-ibn-hanbal]
+  polities: [abbasiden-kalifat]
+- id: verlegung-nach-samarra
+  title: Verlegung der Residenz nach Samarra
+  date: "836"
+  weight: 3
+  kind: ereignis
+  summary: Al-Mu'tasim verlegt Hof und türkische Truppen in die neue Residenzstadt Samarra, wo die Kalifen bis 892 residieren.
+  regions: [mesopotamien]
+  themes: [politik, krieg-militaer]
+  places: [samarra]
+  persons: [al-mutasim]
+  polities: [abbasiden-kalifat]
+- id: zandsch-aufstand
+  title: Aufstand der Zandsch
+  aliases: [Zanj-Aufstand, Zandsch-Aufstand]
+  start: "869"
+  end: "883"
+  weight: 2
+  kind: krieg
+  summary: Versklavte Ostafrikaner, die in den Salzmarschen des südlichen Irak schuften mussten, erheben sich und halten sich vierzehn Jahre lang; Basra wird 871 geplündert.
+  regions: [mesopotamien, ostafrika]
+  themes: [sklaverei-unfreiheit, krieg-militaer]
+  places: [basra]
+  polities: [abbasiden-kalifat]
+- id: buyiden-in-bagdad
+  title: Die Buyiden übernehmen Bagdad
+  date: "945"
+  weight: 3
+  kind: herrschaft
+  summary: Die schiitische Militärdynastie der Buyiden aus Iran besetzt Bagdad; die Kalifen behalten ihren Titel, verlieren aber jede politische Macht.
+  regions: [mesopotamien, iran]
+  themes: [politik]
+  places: [bagdad]
+  polities: [abbasiden-kalifat]
+- id: mongolische-eroberung-bagdads
+  title: Mongolische Eroberung Bagdads
+  date: "1258-02"
+  weight: 1
+  kind: krieg
+  summary: Ein mongolisches Heer unter Hülegü erobert und plündert Bagdad; der letzte Abbasiden-Kalif in Bagdad, al-Musta'sim, wird getötet.
+  regions: [mesopotamien]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [bagdad]
+  persons: [huelegue]
+  polities: [abbasiden-kalifat]

@@ -1,0 +1,45 @@
+- id: mutul
+  name: Mutul (Tikal)
+  aliases: [Tikal-Dynastie, Königreich Tikal]
+  start: "~90"
+  end: "~869"
+  spanNote: Die Dynastie zählte nach eigener Überlieferung auf Yax Ehb' Xook (1. Jh. n. Chr.) zurück; die letzte Inschrift Tikals datiert 869.
+  capital: tikal
+  summary: Das Königtum der klassischen Maya mit Sitz in Tikal, über Jahrhunderte eine der beiden Großmächte des Maya-Tieflands.
+  regions: [mesoamerika]
+  themes: [imperien]
+  weight: 2
+- id: kaanul
+  name: Kaanul (Schlangen-Dynastie)
+  aliases: [Kan, Schlangenkönigreich, Calakmul (Königreich)]
+  start: "~500"
+  end: "~900"
+  spanNote: Die Dynastie ist ab dem 5./6. Jahrhundert fassbar; ihr Sitz lag zunächst wohl in Dzibanché, ab dem 7. Jahrhundert in Calakmul.
+  capital: calakmul
+  summary: Mächtigste Dynastie der klassischen Maya im 6. und 7. Jahrhundert, die über ein Netz abhängiger Königtümer gebot und Tikal lange in Schach hielt.
+  regions: [mesoamerika]
+  themes: [imperien]
+  weight: 2
+- id: inka-reich
+  name: Inka-Reich (Tawantinsuyu)
+  aliases: [Tawantinsuyu, Tahuantinsuyo, Inkareich, Reich der Inka]
+  start: "~1438?"
+  end: "1572"
+  spanNote: Das Gründungsdatum der Expansion folgt einer auf späten Quellen beruhenden Chronologie. 1533 eroberten die Spanier Cusco; ein Inka-Staat in Vilcabamba bestand bis 1572.
+  capital: cusco
+  summary: Das größte Reich im vorspanischen Amerika, das sich auf seinem Höhepunkt um 1530 über rund 4.000 Kilometer entlang der Anden vom heutigen Ecuador bis nach Chile erstreckte.
+  regions: [andenraum, suedamerika]
+  themes: [imperien]
+  successors: [vizekoenigreich-peru]
+  weight: 1
+- id: vizekoenigreich-peru
+  name: Vizekönigreich Peru
+  aliases: [Virreinato del Perú]
+  start: "1542"
+  end: "1824"
+  capital: lima
+  summary: Spanische Kolonialverwaltung über das westliche Südamerika mit Sitz in Lima, eingerichtet nach der Eroberung des Inka-Reiches.
+  regions: [andenraum, suedamerika]
+  themes: [imperien]
+  predecessors: [inka-reich]
+  weight: 2

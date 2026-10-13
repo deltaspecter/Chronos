@@ -1,0 +1,197 @@
+# Quellen und Literatur: Amerika vor und während der europäischen Eroberung
+
+# --- Maya ---
+- id: martin-grube-2008
+  kind: sekundaer
+  authors: ["Martin, Simon", "Grube, Nikolai"]
+  title: Chronicle of the Maya Kings and Queens
+  subtitle: Deciphering the Dynasties of the Ancient Maya
+  edition: 2. Auflage
+  place: London
+  publisher: Thames & Hudson
+  year: 2008
+  note: Standardwerk zu den Herrscherfolgen der klassischen Maya-Städte auf Grundlage der entzifferten Inschriften. Deutsche Ausgabe der ersten Auflage – „Chronik der Maya-Könige und Königinnen“ (Bergisch Gladbach 2000).
+- id: sharer-traxler-2006
+  kind: sekundaer
+  authors: ["Sharer, Robert J.", "Traxler, Loa P."]
+  title: The Ancient Maya
+  edition: 6. Auflage
+  place: Stanford
+  publisher: Stanford University Press
+  year: 2006
+- id: demarest-2004
+  kind: sekundaer
+  authors: ["Demarest, Arthur"]
+  title: Ancient Maya
+  subtitle: The Rise and Fall of a Rainforest Civilization
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2004
+- id: coe-1992
+  kind: sekundaer
+  authors: ["Coe, Michael D."]
+  title: Breaking the Maya Code
+  place: London / New York
+  publisher: Thames & Hudson
+  year: 1992
+  note: Forschungsgeschichte der Entzifferung der Maya-Schrift.
+- id: grube-2000
+  kind: sekundaer
+  editors: ["Grube, Nikolai"]
+  title: Maya
+  subtitle: Gottkönige im Regenwald
+  place: Köln
+  publisher: Könemann
+  year: 2000
+- id: stuart-2000
+  kind: sekundaer
+  authors: ["Stuart, David"]
+  title: "„The Arrival of Strangers“: Teotihuacan and Tollan in Classic Maya History"
+  container: "Davíd Carrasco, Lindsay Jones, Scott Sessions (Hg.): Mesoamerica's Classic Heritage. From Teotihuacan to the Aztecs"
+  place: Boulder
+  publisher: University Press of Colorado
+  year: 2000
+  pages: 465–513
+- id: canuto-2018
+  kind: sekundaer
+  authors: ["Canuto, Marcello A.", "u. a."]
+  title: Ancient lowland Maya complexity as revealed by airborne laser scanning of northern Guatemala
+  container: Science
+  volume: "361"
+  year: 2018
+  pages: eaau0137
+- id: haug-2003
+  kind: sekundaer
+  authors: ["Haug, Gerald H.", "u. a."]
+  title: Climate and the Collapse of Maya Civilization
+  container: Science
+  volume: "299"
+  year: 2003
+  pages: 1731–1735
+- id: kennett-2012
+  kind: sekundaer
+  authors: ["Kennett, Douglas J.", "u. a."]
+  title: Development and Disintegration of Maya Political Systems in Response to Climate Change
+  container: Science
+  volume: "338"
+  year: 2012
+  pages: 788–791
+- id: q-maya-inschriften
+  kind: primaer
+  title: Hieroglypheninschriften der klassischen Maya
+  written: etwa 250–909
+  note: Inschriften auf Stelen, Altären, Treppen, Türstürzen, Keramik und Wandmalereien. Sie nennen Herrscher, Geburten, Thronbesteigungen, Kriege und Rituale, jeweils nach dem Maya-Kalender datiert. Sammelnachweise bei Martin/Grube.
+- id: q-dresdner-kodex
+  kind: primaer
+  title: Codex Dresdensis (Dresdner Maya-Handschrift)
+  written: wahrscheinlich 13.–15. Jahrhundert
+  note: Faltbuch aus Rindenpapier mit astronomischen Tafeln (u. a. Venus- und Finsternistafeln) und Wahrsagekalendern; Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden, Mscr.Dresd.R.310. Eine von nur vier erhaltenen vorspanischen Maya-Handschriften; die Datierung ist umstritten.
+- id: q-landa
+  kind: primaer
+  authors: ["Landa, Diego de"]
+  title: Relación de las cosas de Yucatán
+  written: um 1566
+  note: Bericht des Franziskaners und späteren Bischofs von Yucatán, der 1562 in Maní Maya-Handschriften verbrennen ließ. Sein Versuch, ein Maya-„Alphabet“ aufzuzeichnen, wurde im 20. Jahrhundert zu einem Schlüssel der Entzifferung.
+
+# --- Inka ---
+- id: daltroy-2014
+  kind: sekundaer
+  authors: ["D'Altroy, Terence N."]
+  title: The Incas
+  edition: 2. Auflage
+  place: Chichester
+  publisher: Wiley Blackwell
+  year: 2014
+- id: julien-1998
+  kind: sekundaer
+  authors: ["Julien, Catherine"]
+  title: Die Inka
+  subtitle: Geschichte, Kultur, Religion
+  series: Beck'sche Reihe – C. H. Beck Wissen
+  place: München
+  publisher: C. H. Beck
+  year: 1998
+- id: hemming-1970
+  kind: sekundaer
+  authors: ["Hemming, John"]
+  title: The Conquest of the Incas
+  place: London
+  publisher: Macmillan
+  year: 1970
+- id: urton-2003
+  kind: sekundaer
+  authors: ["Urton, Gary"]
+  title: Signs of the Inka Khipu
+  subtitle: Binary Coding in the Andean Knotted-String Records
+  place: Austin
+  publisher: University of Texas Press
+  year: 2003
+- id: hyslop-1984
+  kind: sekundaer
+  authors: ["Hyslop, John"]
+  title: The Inka Road System
+  place: Orlando
+  publisher: Academic Press
+  year: 1984
+- id: cook-1998
+  kind: sekundaer
+  authors: ["Cook, Noble David"]
+  title: Born to Die
+  subtitle: Disease and New World Conquest, 1492–1650
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1998
+- id: burger-salazar-2004
+  kind: sekundaer
+  editors: ["Burger, Richard L.", "Salazar, Lucy C."]
+  title: Machu Picchu
+  subtitle: Unveiling the Mystery of the Incas
+  place: New Haven
+  publisher: Yale University Press
+  year: 2004
+- id: burger-2021
+  kind: sekundaer
+  authors: ["Burger, Richard L.", "u. a."]
+  title: "New AMS dates for Machu Picchu: results and implications"
+  container: Antiquity
+  volume: "95"
+  year: 2021
+  pages: 1265–1279
+- id: wachtel-1971
+  kind: sekundaer
+  authors: ["Wachtel, Nathan"]
+  title: La vision des vaincus
+  subtitle: Les Indiens du Pérou devant la Conquête espagnole 1530–1570
+  place: Paris
+  publisher: Gallimard
+  year: 1971
+- id: q-betanzos
+  kind: primaer
+  authors: ["Betanzos, Juan de"]
+  title: Suma y narración de los Incas
+  written: 1551
+  note: Der Spanier Betanzos war mit einer Inka-Adligen aus dem Umfeld Atahualpas verheiratet und sprach Quechua; seine Darstellung gibt die Überlieferung der Verwandtschaftsgruppe Pachacutis wieder.
+- id: q-cieza-de-leon
+  kind: primaer
+  authors: ["Cieza de León, Pedro"]
+  title: Crónica del Perú
+  written: 1540er–1550er Jahre; erster Teil gedruckt Sevilla 1553
+  note: Der zweite Teil („El señorío de los Incas“) behandelt Geschichte und Verwaltung des Inka-Reiches nach Befragungen in Cusco.
+- id: q-xerez
+  kind: primaer
+  authors: ["Xerez, Francisco de"]
+  title: Verdadera relación de la conquista del Perú
+  written: Sevilla 1534
+  note: Bericht des Sekretärs Francisco Pizarros, Augenzeuge der Gefangennahme Atahualpas in Cajamarca; eine Rechtfertigungsschrift aus Sicht der Eroberer.
+- id: q-garcilaso
+  kind: primaer
+  authors: ["Garcilaso de la Vega, „El Inca“"]
+  title: Comentarios reales de los Incas
+  written: Lissabon 1609 (erster Teil)
+  note: Werk des Sohnes eines spanischen Konquistadors und einer Inka-Adligen; idealisiert das Inka-Reich aus der Rückschau und aus Spanien.
+- id: q-guaman-poma
+  kind: primaer
+  authors: ["Guaman Poma de Ayala, Felipe"]
+  title: El primer nueva corónica y buen gobierno
+  written: um 1615
+  note: Fast 1.200 Seiten umfassende Handschrift eines andinen Autors mit fast 400 Zeichnungen, an den spanischen König gerichtet; Königliche Bibliothek Kopenhagen (GKS 2232 4°). Eine der wenigen indigenen Darstellungen der Inka-Zeit und der Kolonialherrschaft.

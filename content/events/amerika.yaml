@@ -1,0 +1,228 @@
+# --- Maya ---
+- id: tikal-stele-29
+  title: Frühestes Datum der Langen Zählung im Maya-Tiefland
+  date: "292"
+  weight: 3
+  kind: entwicklung
+  summary: Die Stele 29 von Tikal trägt ein Datum, das dem Jahr 292 n. Chr. entspricht – der konventionelle Beginn der klassischen Periode im Maya-Tiefland.
+  regions: [mesoamerika]
+  themes: [schrift-medien]
+  places: [tikal]
+  polities: [mutul]
+- id: ankunft-sihyaj-kahk
+  title: „Ankunft“ des Sihyaj K'ahk' in Tikal
+  aliases: [Entrada von 378]
+  date: "378-01"
+  weight: 2
+  kind: ereignis
+  dateNote: Datum nach den Inschriften; die Umrechnung in den julianischen Kalender hängt von der gewählten Korrelation ab.
+  summary: Ein mit Teotihuacan verbundener Feldherr erreicht Tikal; am selben Tag stirbt der König Chak Tok Ich'aak I., kurz darauf wird ein neuer, mit Teotihuacan verbundener Herrscher eingesetzt.
+  regions: [mesoamerika]
+  themes: [politik, krieg-militaer]
+  places: [tikal, teotihuacan]
+  persons: [sihyaj-kahk]
+  polities: [mutul]
+- id: caracol-besiegt-tikal
+  title: Caracol besiegt Tikal
+  date: "562"
+  weight: 3
+  kind: krieg
+  summary: Caracol, verbündet mit der Kaanul-Dynastie, besiegt Tikal; für Tikal beginnt eine über hundertjährige Phase ohne datierte Monumente.
+  regions: [mesoamerika]
+  themes: [krieg-militaer]
+  places: [caracol, tikal]
+  polities: [mutul, kaanul]
+- id: tikal-besiegt-calakmul
+  title: Tikal besiegt Calakmul
+  date: "695"
+  weight: 2
+  kind: schlacht
+  summary: Jasaw Chan K'awiil I. von Tikal besiegt den Herrscher der Kaanul-Dynastie; die Vorherrschaft Calakmuls im Tiefland beginnt zu schwinden.
+  regions: [mesoamerika]
+  themes: [krieg-militaer]
+  places: [tikal, calakmul]
+  persons: [jasaw-chan-kawiil]
+  polities: [mutul, kaanul]
+- id: quirigua-besiegt-copan
+  title: Quiriguá nimmt den König von Copán gefangen
+  date: "738"
+  weight: 3
+  kind: ereignis
+  summary: K'ahk' Tiliw Chan Yopaat von Quiriguá nimmt seinen Oberherrn Waxaklajuun Ub'aah K'awiil von Copán gefangen und lässt ihn enthaupten.
+  regions: [mesoamerika]
+  themes: [krieg-militaer, politik]
+  places: [quirigua, copan]
+  persons: [kak-tiliw-chan-yopaat, waxaklajuun-ubaah-kawiil]
+- id: letztes-langzeit-datum
+  title: Letztes bekanntes Datum der Langen Zählung
+  date: "909"
+  weight: 3
+  kind: entwicklung
+  summary: Ein Monument in Toniná trägt das späteste bekannte Datum der Langen Zählung; die Tradition der datierten Königsmonumente endet.
+  regions: [mesoamerika]
+  themes: [schrift-medien]
+  places: [tonina]
+- id: kollaps-maya-tiefland
+  title: Niedergang der Städte im südlichen Maya-Tiefland
+  aliases: [Maya-Kollaps, Klassischer Maya-Kollaps]
+  start: "~800"
+  end: "~950"
+  certainty: wahrscheinlich
+  weight: 1
+  kind: entwicklung
+  summary: Die Königtümer des südlichen Tieflands zerfallen, viele Städte werden innerhalb weniger Generationen weitgehend verlassen; als Ursachen gelten Dürren, Kriege, Überlastung der Landschaft und eine Krise des Königtums.
+  regions: [mesoamerika]
+  themes: [umwelt-klima, politik]
+  places: [tikal, calakmul, copan, palenque]
+  polities: [mutul, kaanul]
+- id: buecherverbrennung-mani
+  title: Autodafé von Maní
+  date: "1562-07"
+  weight: 3
+  kind: ereignis
+  summary: Der Franziskaner Diego de Landa lässt in Maní (Yucatán) Maya-Handschriften und Kultgegenstände verbrennen; zahlreiche Maya werden gefoltert.
+  regions: [mesoamerika]
+  themes: [religion, schrift-medien, gewalt-genozid]
+  places: [mani]
+  persons: [diego-de-landa]
+- id: knorosow-silbenschrift
+  title: Knorosow erkennt den Silbencharakter der Maya-Schrift
+  date: "1952"
+  weight: 3
+  kind: entdeckung
+  summary: Juri Knorosow zeigt, dass die Maya-Schrift neben Wortzeichen Silbenzeichen verwendet; die These setzt sich erst nach Jahrzehnten durch.
+  regions: [russland, mesoamerika]
+  themes: [schrift-medien, geschichtsschreibung]
+  persons: [juri-knorosow]
+- id: entdeckung-pakal-grab
+  title: Entdeckung des Grabes von Pakal
+  date: "1952"
+  weight: 3
+  kind: entdeckung
+  summary: Der Archäologe Alberto Ruz Lhuillier findet im Tempel der Inschriften von Palenque die Grabkammer des Königs K'inich Janaab Pakal.
+  regions: [mesoamerika]
+  themes: [archaeologie]
+  places: [palenque]
+  persons: [pakal]
+- id: proskouriakoff-historische-hypothese
+  title: Proskouriakoffs „historische Hypothese“
+  date: "1960"
+  weight: 3
+  kind: entdeckung
+  summary: Tatiana Proskouriakoff weist nach, dass die Stelen von Piedras Negras Geburt, Thronbesteigung und Tod von Herrschern verzeichnen; Maya-Inschriften werden als Geschichtsquellen lesbar.
+  regions: [mesoamerika]
+  themes: [schrift-medien, geschichtsschreibung]
+  persons: [tatiana-proskouriakoff]
+- id: lidar-maya-tiefland
+  title: Laserscan-Kartierung im Norden Guatemalas
+  date: "2018"
+  weight: 3
+  kind: entdeckung
+  summary: Eine luftgestützte Laservermessung (LiDAR) von über 2.100 Quadratkilometern macht rund 61.000 bis dahin weitgehend unbekannte Bauten sichtbar und verändert die Schätzungen zur Bevölkerungsdichte der Maya.
+  regions: [mesoamerika]
+  themes: [archaeologie]
+  places: [tikal, el-mirador]
+
+# --- Inka ---
+- id: sieg-ueber-die-chanka
+  title: Sieg der Inka über die Chanka
+  date: "~1438?"
+  certainty: unsicher
+  dateNote: Das Jahr beruht auf einer im 20. Jahrhundert aus späten Chroniken erschlossenen Chronologie und kann um Jahrzehnte abweichen.
+  weight: 3
+  kind: schlacht
+  summary: Nach der Inka-Überlieferung verteidigt Pachacuti Cusco gegen die Chanka und beginnt danach die Expansion des Reiches.
+  regions: [andenraum]
+  themes: [krieg-militaer, imperien]
+  places: [cusco]
+  persons: [pachacuti]
+  polities: [inka-reich]
+- id: inka-buergerkrieg
+  title: Bürgerkrieg zwischen Huáscar und Atahualpa
+  start: "~1529?"
+  end: "1532"
+  certainty: wahrscheinlich
+  weight: 2
+  kind: krieg
+  summary: Nach dem Tod Huayna Cápacs kämpfen seine Söhne Huáscar (Cusco) und Atahualpa (Quito) um die Herrschaft; Atahualpas Heerführer siegen kurz vor der Ankunft der Spanier.
+  regions: [andenraum]
+  themes: [krieg-militaer, politik]
+  places: [cusco, quito]
+  persons: [huascar, atahualpa, huayna-capac]
+  polities: [inka-reich]
+- id: gefangennahme-atahualpas
+  title: Gefangennahme Atahualpas in Cajamarca
+  date: "1532-11-16"
+  weight: 1
+  kind: ereignis
+  summary: Spanische Truppen unter Francisco Pizarro überfallen das Gefolge Atahualpas auf dem Platz von Cajamarca, töten Tausende und nehmen den Inka-Herrscher gefangen.
+  regions: [andenraum]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [cajamarca]
+  persons: [atahualpa, francisco-pizarro]
+  polities: [inka-reich]
+- id: hinrichtung-atahualpas
+  title: Hinrichtung Atahualpas
+  date: "1533-07-26"
+  weight: 2
+  kind: ereignis
+  summary: Obwohl Atahualpa ein enormes Lösegeld in Gold und Silber zahlen ließ, wird er auf Befehl Pizarros in Cajamarca hingerichtet.
+  regions: [andenraum]
+  themes: [politik, gewalt-genozid]
+  places: [cajamarca]
+  persons: [atahualpa, francisco-pizarro]
+  polities: [inka-reich]
+- id: einnahme-cuscos
+  title: Spanier ziehen in Cusco ein
+  date: "1533-11-15"
+  weight: 3
+  kind: ereignis
+  summary: Spanische Truppen und ihre indigenen Verbündeten besetzen die Inka-Hauptstadt; Manco Inca wird als abhängiger Herrscher eingesetzt.
+  regions: [andenraum]
+  themes: [krieg-militaer, imperien]
+  places: [cusco]
+  persons: [francisco-pizarro, manco-inca]
+  polities: [inka-reich]
+- id: gruendung-limas
+  title: Gründung von Lima
+  date: "1535-01-18"
+  weight: 3
+  kind: gruendung
+  summary: Francisco Pizarro gründet an der Küste die „Stadt der Könige“, die zur Hauptstadt der spanischen Herrschaft in Südamerika wird.
+  regions: [andenraum]
+  themes: [imperien]
+  places: [lima]
+  persons: [francisco-pizarro]
+- id: belagerung-cuscos
+  title: Aufstand Manco Incas und Belagerung Cuscos
+  start: "1536-05"
+  end: "1537"
+  weight: 2
+  kind: krieg
+  summary: Manco Inca erhebt sich gegen die Spanier und belagert Cusco monatelang; nach dem Scheitern zieht er sich nach Vilcabamba zurück.
+  regions: [andenraum]
+  themes: [krieg-militaer]
+  places: [cusco, sacsayhuaman, vilcabamba]
+  persons: [manco-inca]
+  polities: [inka-reich]
+- id: hinrichtung-tupac-amaru
+  title: Eroberung Vilcabambas und Hinrichtung Túpac Amarus
+  date: "1572-09-24"
+  weight: 2
+  kind: ereignis
+  summary: Spanische Truppen erobern den letzten Inka-Staat in Vilcabamba; sein Herrscher Túpac Amaru wird in Cusco hingerichtet.
+  regions: [andenraum]
+  themes: [politik, imperien]
+  places: [vilcabamba, cusco]
+  persons: [tupac-amaru-i]
+  polities: [inka-reich, vizekoenigreich-peru]
+- id: bingham-machu-picchu
+  title: Hiram Bingham erreicht Machu Picchu
+  date: "1911-07-24"
+  weight: 3
+  kind: entdeckung
+  summary: Örtliche Bauern führen den amerikanischen Forscher zu der Inka-Anlage, die danach international bekannt wird; Ortsansässige kannten sie längst.
+  regions: [andenraum]
+  themes: [archaeologie]
+  places: [machu-picchu]
+  persons: [hiram-bingham]

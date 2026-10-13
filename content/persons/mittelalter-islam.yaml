@@ -1,0 +1,247 @@
+# Personen: Frankenreich
+- id: karl-der-grosse
+  name: Karl der Große
+  aliases: [Karl I., Carolus Magnus, Charlemagne, Karl der Franke]
+  born: "748?"
+  died: "814-01-28"
+  roles: [König der Franken, König der Langobarden, Kaiser]
+  summary: Fränkischer König ab 768, König der Langobarden ab 774 und ab 800 Kaiser; eroberte große Teile West- und Mitteleuropas und förderte eine Reform von Kirche, Schrift und Bildung.
+  regions: [westeuropa, mitteleuropa, italien]
+  themes: [politik, imperien, religion, krieg-militaer]
+  places: [aachen, pavia, paderborn, rom]
+  related: [pippin-der-juengere, ludwig-der-fromme, alkuin, einhard, leo-iii, widukind, harun-ar-raschid]
+- id: pippin-der-juengere
+  name: Pippin der Jüngere
+  aliases: [Pippin III., Pippin der Kurze]
+  born: "~714"
+  died: "768"
+  roles: [Hausmeier, König der Franken]
+  summary: Vater Karls des Großen, der 751 den letzten merowingischen König absetzte und als erster Karolinger König der Franken wurde; 754 salbte ihn Papst Stephan II.
+  regions: [westeuropa]
+  themes: [politik, religion]
+  places: [saint-denis]
+- id: karlmann-i
+  name: Karlmann I.
+  aliases: [Karlmann (Bruder Karls des Großen)]
+  born: "751"
+  died: "771"
+  roles: [König der Franken]
+  summary: Jüngerer Bruder Karls des Großen und von 768 bis zu seinem Tod 771 Mitkönig im Frankenreich.
+  regions: [westeuropa]
+  themes: [politik]
+- id: widukind
+  name: Widukind
+  aliases: [Wittekind]
+  roles: [sächsischer Adliger, Heerführer]
+  certainty: wahrscheinlich
+  summary: Anführer des sächsischen Widerstands gegen Karl den Großen, der sich 785 taufen ließ; sein weiteres Leben ist unbekannt.
+  regions: [deutschland]
+  themes: [krieg-militaer, religion]
+  places: [verden]
+- id: leo-iii
+  name: Leo III.
+  died: "816"
+  roles: [Papst]
+  summary: Papst von 795 bis 816, der nach einem Anschlag in Rom 799 zu Karl nach Paderborn floh und ihn am 25. Dezember 800 in St. Peter zum Kaiser krönte.
+  regions: [italien]
+  themes: [religion, politik]
+  places: [rom, paderborn]
+- id: alkuin
+  name: Alkuin von York
+  aliases: [Alcuin, Albinus Flaccus]
+  born: "~735"
+  died: "804"
+  roles: [Gelehrter, Abt]
+  summary: Angelsächsischer Gelehrter, der ab den 780er Jahren am Hof Karls des Großen wirkte und die Bildungsreform maßgeblich prägte; zuletzt Abt von Saint-Martin in Tours.
+  regions: [britische-inseln, westeuropa]
+  themes: [religion, schrift-medien]
+  places: [aachen]
+- id: einhard
+  name: Einhard
+  born: "~770"
+  died: "840"
+  roles: [Gelehrter, Biograf]
+  summary: Am Hof Karls des Großen ausgebildeter Gelehrter und Bauleiter, Verfasser der „Vita Karoli Magni“, der wichtigsten Biografie des Kaisers.
+  regions: [mitteleuropa]
+  themes: [geschichtsschreibung]
+  places: [aachen]
+- id: tassilo-iii
+  name: Tassilo III.
+  born: "~741"
+  roles: [Herzog von Bayern]
+  summary: Letzter Herzog aus dem Haus der Agilolfinger, den Karl der Große 788 absetzen und in ein Kloster einweisen ließ; 794 musste er in Frankfurt noch einmal öffentlich auf seine Rechte verzichten, danach verliert sich seine Spur.
+  regions: [mitteleuropa]
+  themes: [politik]
+- id: desiderius
+  name: Desiderius
+  roles: [König der Langobarden]
+  summary: Letzter König der Langobarden (756–774), dessen Tochter kurzzeitig mit Karl verheiratet war; nach dem Fall Pavias 774 ins Frankenreich verbannt.
+  regions: [italien]
+  themes: [politik]
+  places: [pavia]
+- id: ludwig-der-fromme
+  name: Ludwig der Fromme
+  aliases: [Ludwig I., Louis le Pieux]
+  born: "778"
+  died: "840"
+  roles: [Kaiser]
+  summary: Sohn und Nachfolger Karls des Großen, 813 zum Mitkaiser erhoben; unter ihm und in den Kämpfen seiner Söhne zerfiel die Einheit des Reiches.
+  regions: [westeuropa, mitteleuropa]
+  themes: [politik]
+  places: [aachen]
+- id: irene-von-byzanz
+  name: Irene
+  aliases: [Irene von Athen, Kaiserin Irene]
+  born: "~752"
+  died: "803"
+  roles: [Kaiserin von Byzanz]
+  summary: Byzantinische Herrscherin, die ab 797 als erste Frau allein als Kaiser regierte; aus westlicher Sicht galt der Kaiserthron damit als „vakant“.
+  regions: [suedosteuropa]
+  themes: [politik]
+  places: [istanbul]
+
+# Personen: Abbasiden
+- id: abu-muslim
+  name: Abu Muslim
+  died: "755"
+  roles: [Heerführer, Revolutionär]
+  summary: Organisator der abbasidischen Revolution in Chorasan ab 747, später vom Kalifen al-Mansur ermordet, der seine Macht fürchtete.
+  regions: [zentralasien, iran]
+  themes: [revolutionen, krieg-militaer]
+  places: [merw]
+- id: as-saffah
+  name: Abu l-Abbas as-Saffah
+  aliases: [as-Saffah]
+  died: "754"
+  roles: [Kalif]
+  summary: Erster Kalif der Abbasiden (749/50–754), der nach dem Sieg über die Umayyaden fast alle Angehörigen der gestürzten Dynastie töten ließ.
+  regions: [mesopotamien]
+  themes: [politik]
+  places: [kufa]
+- id: al-mansur
+  name: Abu Dscha'far al-Mansur
+  aliases: [al-Mansur]
+  born: "~714"
+  died: "775"
+  roles: [Kalif]
+  summary: Zweiter Abbasiden-Kalif (754–775), eigentlicher Begründer der Dynastie, der 762 Bagdad als neue Hauptstadt gründete.
+  regions: [mesopotamien]
+  themes: [politik, imperien]
+  places: [bagdad]
+- id: harun-ar-raschid
+  name: Harun ar-Raschid
+  aliases: [Harun al-Rashid, Hārūn ar-Raschīd]
+  born: "~765"
+  died: "809"
+  roles: [Kalif]
+  summary: Abbasiden-Kalif (786–809), dessen Herrschaft in der späteren Erinnerung – und in „Tausendundeiner Nacht“ – als Glanzzeit Bagdads erscheint; tauschte Gesandtschaften mit Karl dem Großen.
+  regions: [mesopotamien, levante]
+  themes: [politik]
+  places: [bagdad, rakka]
+  related: [al-amin, al-mamun, karl-der-grosse]
+- id: al-amin
+  name: al-Amin
+  born: "787"
+  died: "813"
+  roles: [Kalif]
+  summary: Sohn und Nachfolger Harun ar-Raschids (809–813), der im Bürgerkrieg gegen seinen Halbbruder al-Ma'mun unterlag und getötet wurde.
+  regions: [mesopotamien]
+  themes: [politik]
+  places: [bagdad]
+- id: al-mamun
+  name: al-Ma'mun
+  aliases: [al-Mamun, Abdallah al-Ma'mun]
+  born: "786"
+  died: "833"
+  roles: [Kalif]
+  summary: Abbasiden-Kalif (813–833), Förderer der Übersetzung griechischer Wissenschaft und Philosophie; führte die „Mihna“ ein, eine Glaubensprüfung für Gelehrte.
+  regions: [mesopotamien, zentralasien]
+  themes: [politik, wissenschaft-technik, religion]
+  places: [bagdad, merw]
+- id: al-mutasim
+  name: al-Mu'tasim
+  born: "796"
+  died: "842"
+  roles: [Kalif]
+  summary: Abbasiden-Kalif (833–842), der ein Heer aus türkischen Militärsklaven aufbaute und die Residenz nach Samarra verlegte.
+  regions: [mesopotamien]
+  themes: [politik, krieg-militaer, sklaverei-unfreiheit]
+  places: [samarra]
+- id: yahya-al-barmaki
+  name: Yahya ibn Chalid al-Barmaki
+  aliases: [Yahya der Barmakide, Barmakiden]
+  died: "805"
+  roles: [Wesir]
+  summary: Erzieher und Wesir Harun ar-Raschids aus der ursprünglich buddhistischen Familie der Barmakiden aus Balch; 803 fiel die Familie plötzlich in Ungnade.
+  regions: [mesopotamien, zentralasien]
+  themes: [politik]
+  places: [bagdad]
+- id: al-khwarizmi
+  name: Muhammad ibn Musa al-Chwarizmi
+  aliases: [al-Khwarizmi, al-Chwarizmi, Algorismi]
+  born: "~780"
+  died: "~850"
+  roles: [Mathematiker, Astronom]
+  summary: Gelehrter aus Choresmien am Hof al-Ma'muns; sein Lehrbuch der Gleichungslehre gab der Algebra ihren Namen, sein latinisierter Name lebt im Wort „Algorithmus“ fort.
+  regions: [zentralasien, mesopotamien]
+  themes: [wissenschaft-technik]
+  places: [bagdad]
+- id: hunayn-ibn-ishaq
+  name: Hunain ibn Ishaq
+  aliases: [Hunayn ibn Ishaq, Johannitius]
+  born: "809"
+  died: "873"
+  roles: [Arzt, Übersetzer]
+  summary: Nestorianischer Christ aus Hira, der als Arzt und bedeutendster Übersetzer seiner Zeit zahlreiche Werke Galens und anderer griechischer Autoren ins Syrische und Arabische übertrug.
+  regions: [mesopotamien]
+  themes: [wissenschaft-technik, schrift-medien]
+  places: [bagdad]
+- id: al-kindi
+  name: Abu Yusuf al-Kindi
+  aliases: [al-Kindi, Alkindus]
+  born: "~801"
+  died: "~870"
+  roles: [Philosoph]
+  summary: Gilt als erster bedeutender Philosoph, der auf Arabisch schrieb; verband griechische Philosophie mit islamischer Theologie.
+  regions: [mesopotamien]
+  themes: [wissenschaft-technik, religion]
+  places: [bagdad, basra, kufa]
+- id: ahmad-ibn-hanbal
+  name: Ahmad ibn Hanbal
+  born: "780"
+  died: "855"
+  roles: [Rechtsgelehrter, Theologe]
+  summary: Gelehrter in Bagdad, der sich in der Mihna weigerte, die Erschaffenheit des Korans anzuerkennen; Namensgeber der hanbalitischen Rechtsschule.
+  regions: [mesopotamien]
+  themes: [religion, verfassung-recht]
+  places: [bagdad]
+- id: al-dschahiz
+  name: al-Dschahiz
+  aliases: [al-Jahiz, Abu Uthman al-Dschahiz]
+  born: "~776"
+  died: "868"
+  roles: [Schriftsteller, Gelehrter]
+  summary: Vielseitiger Prosaautor aus Basra, dessen Werke von Zoologie bis zu Gesellschaftssatire ein lebendiges Bild der abbasidischen Gesellschaft geben.
+  regions: [mesopotamien]
+  themes: [kultur-kunst]
+  places: [basra, bagdad, samarra]
+- id: at-tabari
+  name: at-Tabari
+  aliases: [al-Tabari, Muhammad ibn Dscharir at-Tabari]
+  born: "839"
+  died: "923"
+  roles: [Historiker, Korankommentator]
+  summary: Gelehrter aus Tabaristan, der in Bagdad eine umfangreiche Universalgeschichte und einen Korankommentar verfasste; Hauptquelle für die frühe islamische Geschichte.
+  regions: [mesopotamien, iran]
+  themes: [geschichtsschreibung, religion]
+  places: [bagdad]
+- id: huelegue
+  name: Hülegü
+  aliases: [Hülägü, Hulagu]
+  born: "~1217"
+  died: "1265"
+  roles: [mongolischer Feldherr, Ilchan]
+  summary: Enkel Dschingis Khans, der 1258 Bagdad erobern ließ und das Abbasiden-Kalifat beendete; Begründer des Ilchanats in Iran.
+  regions: [mesopotamien, iran, zentralasien]
+  themes: [krieg-militaer, imperien]
+  places: [bagdad]
