@@ -50,7 +50,7 @@ Auf dem Smartphone im selben WLAN: `npm run dev -- --host` und die angezeigte Ne
 | `npm run preview` | `dist/` mit Produktions-Headern ausliefern |
 | `npm test` | Unit- und Inhaltstests (Vitest) |
 | `npm run test:e2e` | Browser-Rauchtest des gebauten Produkts inkl. Offline und CSP |
-| `npm run check` | Inhalte prüfen, Typprüfung, Tests |
+| `npm run check` | Inhalte prüfen, Typprüfung, Tests (läuft zusammen mit Build und Browsertest auch automatisch bei jedem Push, siehe `.github/workflows/ci.yml`) |
 | `npm run media` | Neue Abbildungen von Wikimedia Commons laden (mit Lizenzprüfung) |
 | `node scripts/check-links.ts` | Externe Links in den Quellenangaben prüfen |
 | `node scripts/render-icons.ts` | App-Icons aus den SVG-Vorlagen erzeugen |

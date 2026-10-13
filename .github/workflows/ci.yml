@@ -1,0 +1,34 @@
+# Prüft bei jedem Push und Pull Request Inhalte, Typen, Tests, Build und den Browser-Rauchtest.
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Inhalte, Typprüfung, Unit- und Inhaltstests
+        run: npm run check
+      - name: Produktions-Build
+        run: npm run build
+      - name: Chromium für den Browsertest
+        run: npx playwright-core install --with-deps chromium
+      - name: Browser-Rauchtest (CSP, Service Worker, Offline)
+        run: npm run test:e2e

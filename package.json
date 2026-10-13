@@ -5,7 +5,7 @@
   "type": "module",
   "description": "CHRONOS – eine wissenschaftlich fundierte, erweiterbare Enzyklopädie der Menschheitsgeschichte (Progressive Web App).",
   "engines": {
-    "node": ">=20"
+    "node": ">=22.18"
   },
   "scripts": {
     "content": "node scripts/build-content.ts",
