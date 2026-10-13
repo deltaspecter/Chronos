@@ -1,0 +1,340 @@
+# Quellen und Literatur: Justinian, Aufklärung, Zerfall der Sowjetunion, Jugoslawienkriege
+
+# --- Justinian und Byzanz im 6. Jahrhundert ---
+- id: meier-2003
+  kind: sekundaer
+  authors: ["Meier, Mischa"]
+  title: Das andere Zeitalter Justinians
+  subtitle: Kontingenzerfahrung und Kontingenzbewältigung im 6. Jahrhundert n. Chr.
+  series: Hypomnemata 147
+  place: Göttingen
+  publisher: Vandenhoeck & Ruprecht
+  year: 2003
+- id: meier-2004
+  kind: sekundaer
+  authors: ["Meier, Mischa"]
+  title: Justinian
+  subtitle: Herrschaft, Reich und Religion
+  series: Beck Wissen
+  place: München
+  publisher: C. H. Beck
+  year: 2004
+- id: maas-2005
+  kind: sekundaer
+  editors: ["Maas, Michael"]
+  title: The Cambridge Companion to the Age of Justinian
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2005
+- id: cameron-1985
+  kind: sekundaer
+  authors: ["Cameron, Averil"]
+  title: Procopius and the Sixth Century
+  place: London
+  publisher: Duckworth
+  year: 1985
+- id: honore-1978
+  kind: sekundaer
+  authors: ["Honoré, Tony"]
+  title: Tribonian
+  place: London
+  publisher: Duckworth
+  year: 1978
+- id: harper-2017
+  kind: sekundaer
+  authors: ["Harper, Kyle"]
+  title: The Fate of Rome
+  subtitle: Climate, Disease, and the End of an Empire
+  place: Princeton
+  publisher: Princeton University Press
+  year: 2017
+- id: little-2007
+  kind: sekundaer
+  editors: ["Little, Lester K."]
+  title: Plague and the End of Antiquity
+  subtitle: The Pandemic of 541–750
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2007
+- id: q-prokop-kriege
+  kind: primaer
+  authors: ["Prokop von Caesarea"]
+  title: Historien (Bella)
+  written: Mitte des 6. Jahrhunderts
+  note: Geschichte der Kriege Justinians gegen Perser, Vandalen und Goten in acht Büchern, verfasst von einem Sekretär des Feldherrn Belisar; enthält auch die berühmte Beschreibung der Pest von 542 in Konstantinopel.
+- id: q-prokop-anekdota
+  kind: primaer
+  authors: ["Prokop von Caesarea"]
+  title: Anekdota (Geheimgeschichte)
+  written: wohl um 550
+  note: Zu Lebzeiten des Autors unveröffentlichte Schmähschrift gegen Justinian, Theodora und Belisar; ihre Glaubwürdigkeit ist in vielen Einzelheiten zweifelhaft.
+- id: q-prokop-bauten
+  kind: primaer
+  authors: ["Prokop von Caesarea"]
+  title: Peri ktismaton (Über die Bauten)
+  written: um 554 oder später
+  note: Lobschrift auf die Bauten Justinians, die mit der Beschreibung der Hagia Sophia beginnt.
+- id: q-corpus-iuris
+  kind: primaer
+  title: Corpus iuris civilis
+  written: 529–534, Novellen bis 565
+  note: Neuzeitlicher Sammelname für das auf Befehl Justinians geschaffene Gesetzeswerk aus Codex, Digesten, Institutionen und den späteren Novellen.
+
+# --- Aufklärung ---
+- id: israel-2001
+  kind: sekundaer
+  authors: ["Israel, Jonathan I."]
+  title: Radical Enlightenment
+  subtitle: Philosophy and the Making of Modernity 1650–1750
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2001
+- id: stollberg-rilinger-2000
+  kind: sekundaer
+  authors: ["Stollberg-Rilinger, Barbara"]
+  title: Europa im Jahrhundert der Aufklärung
+  place: Stuttgart
+  publisher: Reclam
+  year: 2000
+- id: outram-2013
+  kind: sekundaer
+  authors: ["Outram, Dorinda"]
+  title: The Enlightenment
+  edition: 3. Auflage
+  series: New Approaches to European History
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2013
+- id: pagden-2013
+  kind: sekundaer
+  authors: ["Pagden, Anthony"]
+  title: The Enlightenment
+  subtitle: And Why It Still Matters
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2013
+- id: darnton-1979
+  kind: sekundaer
+  authors: ["Darnton, Robert"]
+  title: The Business of Enlightenment
+  subtitle: A Publishing History of the Encyclopédie, 1775–1800
+  place: Cambridge, Mass.
+  publisher: Belknap Press of Harvard University Press
+  year: 1979
+- id: horkheimer-adorno-1947
+  kind: sekundaer
+  authors: ["Horkheimer, Max", "Adorno, Theodor W."]
+  title: Dialektik der Aufklärung
+  subtitle: Philosophische Fragmente
+  place: Amsterdam
+  publisher: Querido
+  year: 1947
+- id: conrad-2012
+  kind: sekundaer
+  authors: ["Conrad, Sebastian"]
+  title: "Enlightenment in Global History: A Historiographical Critique"
+  container: American Historical Review
+  volume: "117"
+  year: 2012
+  pages: 999–1027
+- id: q-kant-1784
+  kind: primaer
+  authors: ["Kant, Immanuel"]
+  title: "Beantwortung der Frage: Was ist Aufklärung?"
+  written: Berlinische Monatsschrift, Dezember 1784
+  note: Kurzer Aufsatz mit der berühmten Bestimmung der Aufklärung als „Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit“.
+- id: q-encyclopedie
+  kind: primaer
+  editors: ["Diderot, Denis", "d'Alembert, Jean le Rond"]
+  title: Encyclopédie, ou Dictionnaire raisonné des sciences, des arts et des métiers
+  written: Paris, 1751–1772
+  note: 17 Text- und 11 Tafelbände mit über 70.000 Artikeln; mehrfach verboten und dennoch weiter gedruckt.
+- id: q-montesquieu
+  kind: primaer
+  authors: ["Montesquieu"]
+  title: De l'esprit des lois (Vom Geist der Gesetze)
+  written: Genf, 1748
+  note: Vergleichende Untersuchung von Regierungsformen mit der einflussreichen Lehre von der Trennung der Gewalten.
+- id: q-rousseau-contrat
+  kind: primaer
+  authors: ["Rousseau, Jean-Jacques"]
+  title: Du contrat social (Vom Gesellschaftsvertrag)
+  written: Amsterdam, 1762
+  note: Begründet legitime Herrschaft mit dem „Gemeinwillen“ (volonté générale) der Bürger.
+- id: q-voltaire-toleranz
+  kind: primaer
+  authors: ["Voltaire"]
+  title: Traité sur la tolérance (Abhandlung über die Toleranz)
+  written: 1763
+  note: Anlässlich der Hinrichtung des Protestanten Jean Calas in Toulouse verfasste Streitschrift gegen religiösen Fanatismus.
+- id: q-locke-treatises
+  kind: primaer
+  authors: ["Locke, John"]
+  title: Two Treatises of Government (Zwei Abhandlungen über die Regierung)
+  written: London, 1689 (Titelblatt 1690)
+  note: Begründet Herrschaft mit der Zustimmung der Regierten und dem Schutz von Leben, Freiheit und Eigentum.
+- id: q-wollstonecraft
+  kind: primaer
+  authors: ["Wollstonecraft, Mary"]
+  title: A Vindication of the Rights of Woman (Verteidigung der Rechte der Frau)
+  written: London, 1792
+  note: Forderte gleiche Bildung für Frauen und griff Rousseaus Vorstellungen von weiblicher Erziehung an.
+- id: q-mendelssohn-jerusalem
+  kind: primaer
+  authors: ["Mendelssohn, Moses"]
+  title: Jerusalem oder über religiöse Macht und Judentum
+  written: Berlin, 1783
+  note: Plädoyer für die Trennung von Staat und Religion und für Gewissensfreiheit aus der Feder des bedeutendsten jüdischen Philosophen der deutschen Aufklärung.
+
+# --- Zerfall der Sowjetunion ---
+- id: kotkin-2001
+  kind: sekundaer
+  authors: ["Kotkin, Stephen"]
+  title: Armageddon Averted
+  subtitle: The Soviet Collapse 1970–2000
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2001
+- id: plokhy-2014
+  kind: sekundaer
+  authors: ["Plokhy, Serhii"]
+  title: The Last Empire
+  subtitle: The Final Days of the Soviet Union
+  place: New York
+  publisher: Basic Books
+  year: 2014
+- id: taubman-2017
+  kind: sekundaer
+  authors: ["Taubman, William"]
+  title: Gorbachev
+  subtitle: His Life and Times
+  place: New York
+  publisher: W. W. Norton
+  year: 2017
+- id: brown-1996
+  kind: sekundaer
+  authors: ["Brown, Archie"]
+  title: The Gorbachev Factor
+  place: Oxford
+  publisher: Oxford University Press
+  year: 1996
+- id: zubok-2021
+  kind: sekundaer
+  authors: ["Zubok, Vladislav M."]
+  title: Collapse
+  subtitle: The Fall of the Soviet Union
+  place: New Haven
+  publisher: Yale University Press
+  year: 2021
+- id: beissinger-2002
+  kind: sekundaer
+  authors: ["Beissinger, Mark R."]
+  title: Nationalist Mobilization and the Collapse of the Soviet State
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2002
+- id: hildermeier-1998
+  kind: sekundaer
+  authors: ["Hildermeier, Manfred"]
+  title: Geschichte der Sowjetunion 1917–1991
+  subtitle: Entstehung und Niedergang des ersten sozialistischen Staates
+  place: München
+  publisher: C. H. Beck
+  year: 1998
+- id: q-gorbatschow-perestroika
+  kind: primaer
+  authors: ["Gorbatschow, Michail"]
+  title: "Perestroika: Die zweite russische Revolution"
+  written: 1987
+  note: Programmschrift des Generalsekretärs, die gleichzeitig in vielen Sprachen erschien und den Reformkurs für ein internationales Publikum erläuterte.
+- id: q-belowescher-abkommen
+  kind: primaer
+  title: Abkommen über die Gründung der Gemeinschaft Unabhängiger Staaten
+  written: Wiskuli bei Brest (Belarus), 8. Dezember 1991
+  note: Von den Führungen Russlands, der Ukraine und Belarus unterzeichnet; stellt fest, dass die UdSSR „als Subjekt des Völkerrechts und als geopolitische Realität“ aufhöre zu bestehen.
+- id: q-gorbatschow-ruecktritt
+  kind: primaer
+  authors: ["Gorbatschow, Michail"]
+  title: Fernsehansprache zum Rücktritt als Präsident der UdSSR
+  written: Moskau, 25. Dezember 1991
+
+# --- Jugoslawienkriege ---
+- id: calic-2010
+  kind: sekundaer
+  authors: ["Calic, Marie-Janine"]
+  title: Geschichte Jugoslawiens im 20. Jahrhundert
+  place: München
+  publisher: C. H. Beck
+  year: 2010
+- id: sundhaussen-2012
+  kind: sekundaer
+  authors: ["Sundhaussen, Holm"]
+  title: Jugoslawien und seine Nachfolgestaaten 1943–2011
+  subtitle: Eine ungewöhnliche Geschichte des Gewöhnlichen
+  place: Wien
+  publisher: Böhlau
+  year: 2012
+- id: silber-little-1995
+  kind: sekundaer
+  authors: ["Silber, Laura", "Little, Allan"]
+  title: The Death of Yugoslavia
+  place: London
+  publisher: Penguin / BBC Books
+  year: 1995
+- id: glenny-1992
+  kind: sekundaer
+  authors: ["Glenny, Misha"]
+  title: The Fall of Yugoslavia
+  place: London
+  publisher: Penguin
+  year: 1992
+- id: ramet-2006
+  kind: sekundaer
+  authors: ["Ramet, Sabrina P."]
+  title: The Three Yugoslavias
+  subtitle: State-Building and Legitimation, 1918–2005
+  place: Bloomington
+  publisher: Indiana University Press
+  year: 2006
+- id: judah-2000
+  kind: sekundaer
+  authors: ["Judah, Tim"]
+  title: "Kosovo: War and Revenge"
+  place: New Haven
+  publisher: Yale University Press
+  year: 2000
+- id: honig-both-1996
+  kind: sekundaer
+  authors: ["Honig, Jan Willem", "Both, Norbert"]
+  title: "Srebrenica: Record of a War Crime"
+  place: London
+  publisher: Penguin
+  year: 1996
+- id: niod-2002
+  kind: sekundaer
+  authors: ["NIOD Instituut voor Oorlogsdocumentatie"]
+  title: "Srebrenica, a 'safe' area"
+  subtitle: Reconstruction, background, consequences and analyses of the fall of a Safe Area
+  place: Amsterdam
+  year: 2002
+  note: Im Auftrag der niederländischen Regierung erstellter Untersuchungsbericht; seine Veröffentlichung führte im April 2002 zum Rücktritt der Regierung Kok.
+- id: q-memorandum-sanu
+  kind: primaer
+  title: Memorandum der Serbischen Akademie der Wissenschaften und Künste
+  written: Belgrad, 1986 (Entwurf, durch Indiskretion veröffentlicht)
+  note: Entwurf eines Akademiepapiers, das die Lage der Serben in Jugoslawien als Diskriminierung darstellte und zum Bezugspunkt des serbischen Nationalismus wurde.
+- id: q-un-srebrenica-1999
+  kind: primaer
+  title: "Report of the Secretary-General pursuant to General Assembly resolution 53/35: The fall of Srebrenica"
+  written: 15. November 1999 (UN-Dokument A/54/549)
+  note: Bericht der Vereinten Nationen, der ihr eigenes Versagen beim Schutz der „Schutzzone“ Srebrenica eingesteht.
+- id: q-icty-krstic
+  kind: primaer
+  title: Internationaler Strafgerichtshof für das ehemalige Jugoslawien – Urteil der Berufungskammer im Fall Radislav Krstić
+  written: Den Haag, 19. April 2004
+  note: Stellte fest, dass die Ermordung der bosniakischen Männer von Srebrenica im Juli 1995 ein Völkermord war.
+- id: q-dayton
+  kind: primaer
+  title: Allgemeines Rahmenabkommen für den Frieden in Bosnien und Herzegowina (Dayton-Abkommen)
+  written: Paraphiert in Dayton (Ohio) am 21. November 1995, unterzeichnet in Paris am 14. Dezember 1995
+  note: Beendete den Krieg in Bosnien und Herzegowina; Anhang 4 enthält die bis heute geltende Verfassung des Landes.

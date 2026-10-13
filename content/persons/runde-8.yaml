@@ -1,0 +1,426 @@
+# Personen: Justinian und Byzanz im 6. Jahrhundert
+- id: justinian-i
+  name: Justinian I.
+  aliases: [Justinian der Große, Iustinianus, Flavius Petrus Sabbatius Iustinianus]
+  born: "~482"
+  died: "565-11-14"
+  roles: [Oströmischer Kaiser]
+  summary: Aus einer Bauernfamilie auf dem Balkan stammender Kaiser (527–565), der Nordafrika und Italien zurückeroberte, das römische Recht im Corpus iuris civilis zusammenfassen und die Hagia Sophia neu errichten ließ.
+  regions: [suedosteuropa, anatolien, mittelmeer]
+  themes: [imperien, verfassung-recht, religion]
+  places: [istanbul, hagia-sophia, ravenna]
+  related: [theodora, belisar, tribonian, prokop]
+- id: theodora
+  name: Theodora
+  aliases: [Kaiserin Theodora]
+  born: "~500"
+  died: "548-06-28"
+  roles: [Kaiserin]
+  summary: Ehemalige Schauspielerin, die Justinian heiratete und als Kaiserin großen politischen Einfluss hatte; sie förderte die Miaphysiten und soll Justinian im Nika-Aufstand zum Bleiben bewogen haben.
+  regions: [suedosteuropa, anatolien]
+  themes: [politik, religion]
+  places: [istanbul, ravenna]
+  related: [justinian-i]
+- id: belisar
+  name: Belisar
+  aliases: [Flavius Belisarius]
+  born: "~505"
+  died: "565-03"
+  roles: [Feldherr]
+  summary: Erfolgreichster Feldherr Justinians, der 530 bei Dara die Perser schlug, 532 den Nika-Aufstand niederschlug und das Vandalenreich und große Teile Italiens eroberte.
+  regions: [mittelmeer, nordafrika, italien]
+  themes: [krieg-militaer]
+  places: [dara, karthago, rom, ravenna, hippodrom-konstantinopel]
+  related: [justinian-i, prokop]
+- id: narses
+  name: Narses
+  born: "~480"
+  died: "~573"
+  roles: [Hofbeamter, Feldherr]
+  summary: Armenischer Eunuch am Kaiserhof, der 552 die Ostgoten unter Totila besiegte und den Gotenkrieg beendete.
+  regions: [italien]
+  themes: [krieg-militaer]
+  places: [ravenna]
+  related: [justinian-i, totila]
+- id: tribonian
+  name: Tribonian
+  died: "~542"
+  roles: [Jurist, Quaestor]
+  summary: Hoher Beamter und Jurist, der die Kommissionen leitete, die Justinians Gesetzbücher, vor allem die Digesten, erarbeiteten.
+  regions: [suedosteuropa]
+  themes: [verfassung-recht]
+  places: [istanbul]
+  related: [justinian-i]
+- id: prokop
+  name: Prokop von Caesarea
+  aliases: [Procopius]
+  born: "~500"
+  roles: [Geschichtsschreiber]
+  summary: Sekretär Belisars und wichtigster Geschichtsschreiber der Zeit Justinians, der Kriegsgeschichten, eine Lobschrift auf Justinians Bauten und eine Schmähschrift gegen das Kaiserpaar verfasste.
+  regions: [levante, suedosteuropa]
+  themes: [geschichtsschreibung]
+  places: [istanbul]
+  related: [belisar, justinian-i]
+- id: chosrau-i
+  name: Chosrau I.
+  aliases: [Chosrau Anuschirwan, Khosrow I]
+  died: "579"
+  roles: [Großkönig des Sasanidenreichs]
+  summary: Sasanidischer König (531–579), der das Perserreich reformierte, 540 Antiochia plünderte und mit Justinian mehrfach Krieg führte und Frieden schloss.
+  regions: [iran, mesopotamien]
+  themes: [imperien, krieg-militaer]
+  places: [antiochia]
+- id: totila
+  name: Totila
+  aliases: [Baduila]
+  died: "552"
+  roles: [König der Ostgoten]
+  summary: König der Ostgoten ab 541, der den größten Teil Italiens zurückeroberte, bevor er 552 gegen Narses fiel.
+  regions: [italien]
+  themes: [krieg-militaer]
+  places: [rom]
+- id: gelimer
+  name: Gelimer
+  roles: [König der Vandalen]
+  summary: Letzter König der Vandalen in Nordafrika, der sich 534 Belisar ergab und in Konstantinopel im Triumphzug vorgeführt wurde.
+  regions: [nordafrika]
+  themes: [krieg-militaer]
+  places: [karthago]
+- id: anthemios-von-tralleis
+  name: Anthemios von Tralleis
+  roles: [Mathematiker, Baumeister]
+  summary: Mathematiker und Baumeister aus Kleinasien, der mit Isidor von Milet die Hagia Sophia (532–537) entwarf.
+  regions: [anatolien]
+  themes: [wissenschaft-technik, kultur-kunst]
+  places: [hagia-sophia]
+# Personen: Aufklärung
+- id: john-locke
+  name: John Locke
+  born: "1632-08-29"
+  died: "1704-10-28"
+  roles: [Philosoph, Arzt]
+  summary: Englischer Philosoph, der Herrschaft auf die Zustimmung der Regierten gründete, für religiöse Toleranz eintrat und als Begründer des Empirismus gilt.
+  regions: [britische-inseln]
+  themes: [politik, verfassung-recht]
+  places: [london, amsterdam]
+- id: isaac-newton
+  name: Isaac Newton
+  born: "1643-01-04"
+  died: "1727-03-31"
+  roles: [Mathematiker, Physiker]
+  summary: Englischer Naturforscher, dessen „Principia“ (1687) die Bewegung von Himmelskörpern und irdischen Körpern mit denselben Gesetzen erklärten und für die Aufklärung zum Vorbild vernünftiger Welterkenntnis wurden.
+  regions: [britische-inseln]
+  themes: [wissenschaft-technik]
+  places: [london]
+- id: montesquieu
+  name: Montesquieu
+  aliases: [Charles-Louis de Secondat, Baron de Montesquieu]
+  born: "1689-01-18"
+  died: "1755-02-10"
+  roles: [Jurist, Philosoph]
+  summary: Französischer Adliger und Richter, dessen Werk „Vom Geist der Gesetze“ (1748) die Lehre von der Gewaltenteilung prägte.
+  regions: [frankreich]
+  themes: [verfassung-recht, politik]
+- id: voltaire
+  name: Voltaire
+  aliases: [François-Marie Arouet]
+  born: "1694-11-21"
+  died: "1778-05-30"
+  roles: [Schriftsteller, Philosoph]
+  summary: Französischer Schriftsteller und Polemiker, der gegen Kirche, Intoleranz und Justizwillkür kämpfte und zur bekanntesten Figur der Aufklärung wurde.
+  regions: [frankreich, mitteleuropa]
+  themes: [schrift-medien, religion]
+  places: [paris, ferney, potsdam]
+  related: [friedrich-ii-preussen, emilie-du-chatelet]
+- id: emilie-du-chatelet
+  name: Émilie du Châtelet
+  born: "1706-12-17"
+  died: "1749-09-10"
+  roles: [Mathematikerin, Physikerin]
+  summary: Französische Naturforscherin, die Newtons „Principia“ ins Französische übersetzte und kommentierte; ihre Übersetzung ist bis heute die maßgebliche französische Fassung.
+  regions: [frankreich]
+  themes: [wissenschaft-technik]
+  related: [voltaire, isaac-newton]
+- id: david-hume
+  name: David Hume
+  born: "1711-05-07"
+  died: "1776-08-25"
+  roles: [Philosoph, Historiker]
+  summary: Schottischer Philosoph und Historiker, der die Grenzen menschlicher Erkenntnis untersuchte und religiöse Wunderberichte kritisierte.
+  regions: [britische-inseln]
+  themes: [wissenschaft-technik, religion]
+  places: [edinburgh]
+  related: [adam-smith]
+- id: jean-jacques-rousseau
+  name: Jean-Jacques Rousseau
+  aliases: [Rousseau]
+  born: "1712-06-28"
+  died: "1778-07-02"
+  roles: [Philosoph, Schriftsteller]
+  summary: Genfer Philosoph, der Zivilisation und Ungleichheit kritisierte und im „Gesellschaftsvertrag“ (1762) die Souveränität des Volkes begründete.
+  regions: [frankreich, mitteleuropa]
+  themes: [politik, gesellschaft]
+  places: [genf, paris]
+- id: denis-diderot
+  name: Denis Diderot
+  born: "1713-10-05"
+  died: "1784-07-31"
+  roles: [Philosoph, Herausgeber]
+  summary: Französischer Schriftsteller und Hauptherausgeber der „Encyclopédie“, für die er über zwei Jahrzehnte gegen Zensur und Verbote arbeitete.
+  regions: [frankreich]
+  themes: [schrift-medien, wissenschaft-technik]
+  places: [paris]
+  related: [jean-le-rond-dalembert, katharina-ii]
+- id: jean-le-rond-dalembert
+  name: Jean le Rond d’Alembert
+  aliases: [d’Alembert]
+  born: "1717-11-16"
+  died: "1783-10-29"
+  roles: [Mathematiker, Herausgeber]
+  summary: Französischer Mathematiker, Mitherausgeber der „Encyclopédie“ und Verfasser ihrer programmatischen Einleitung.
+  regions: [frankreich]
+  themes: [wissenschaft-technik]
+  places: [paris]
+  related: [denis-diderot]
+- id: immanuel-kant
+  name: Immanuel Kant
+  born: "1724-04-22"
+  died: "1804-02-12"
+  roles: [Philosoph]
+  summary: Königsberger Philosoph, der Möglichkeiten und Grenzen der Vernunft untersuchte und 1784 Aufklärung als „Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit“ bestimmte.
+  regions: [mitteleuropa]
+  themes: [wissenschaft-technik, politik]
+  places: [koenigsberg]
+- id: moses-mendelssohn
+  name: Moses Mendelssohn
+  born: "1729-09-06"
+  died: "1786-01-04"
+  roles: [Philosoph]
+  summary: Jüdischer Philosoph aus Dessau, der in Berlin zu einer zentralen Figur der Aufklärung wurde und für Toleranz und die Trennung von Staat und Religion eintrat.
+  regions: [deutschland]
+  themes: [religion, wissenschaft-technik]
+  places: [berlin]
+  related: [gotthold-ephraim-lessing]
+- id: gotthold-ephraim-lessing
+  name: Gotthold Ephraim Lessing
+  born: "1729-01-22"
+  died: "1781-02-15"
+  roles: [Dichter, Kritiker]
+  summary: Deutscher Dichter, dessen Drama „Nathan der Weise“ (1779) mit der Ringparabel zum Sinnbild religiöser Toleranz wurde.
+  regions: [deutschland]
+  themes: [kultur-kunst, religion]
+  related: [moses-mendelssohn]
+- id: friedrich-ii-preussen
+  name: Friedrich II. von Preußen
+  aliases: [Friedrich der Große, Der Alte Fritz]
+  born: "1712-01-24"
+  died: "1786-08-17"
+  roles: [König von Preußen]
+  summary: König von Preußen ab 1740, der sich als „erster Diener des Staates“ und Philosoph inszenierte, die Folter einschränkte und Toleranz gewährte, zugleich aber Angriffskriege führte und die Ständegesellschaft unangetastet ließ.
+  regions: [deutschland, mitteleuropa]
+  themes: [politik, krieg-militaer]
+  places: [potsdam, berlin]
+  related: [voltaire]
+- id: katharina-ii
+  name: Katharina II.
+  aliases: [Katharina die Große, Catherine the Great]
+  born: "1729-05-02"
+  died: "1796-11-17"
+  roles: [Zarin]
+  summary: Aus Anhalt-Zerbst stammende Kaiserin von Russland ab 1762, die mit Voltaire und Diderot korrespondierte, Reformpläne entwarf und zugleich die Leibeigenschaft verschärfte.
+  regions: [russland]
+  themes: [politik, imperien]
+  related: [denis-diderot, voltaire]
+- id: joseph-ii
+  name: Joseph II.
+  born: "1741-03-13"
+  died: "1790-02-20"
+  roles: [Kaiser, Erzherzog von Österreich]
+  summary: Habsburgischer Herrscher, der in den 1780er-Jahren mit Toleranzpatent, Aufhebung der Leibeigenschaft und Klosterauflösungen radikale Reformen von oben durchsetzte, von denen er viele vor seinem Tod zurücknehmen musste.
+  regions: [mitteleuropa]
+  themes: [politik, religion]
+- id: cesare-beccaria
+  name: Cesare Beccaria
+  born: "1738-03-15"
+  died: "1794-11-28"
+  roles: [Jurist, Ökonom]
+  summary: Mailänder Jurist, dessen Schrift „Über Verbrechen und Strafen“ (1764) Folter und Todesstrafe ablehnte und in ganz Europa Strafrechtsreformen anstieß.
+  regions: [italien]
+  themes: [verfassung-recht]
+- id: mary-wollstonecraft
+  name: Mary Wollstonecraft
+  born: "1759-04-27"
+  died: "1797-09-10"
+  roles: [Schriftstellerin, Philosophin]
+  summary: Englische Schriftstellerin, die 1792 in der „Verteidigung der Rechte der Frau“ gleiche Bildung und Vernunftfähigkeit für Frauen forderte.
+  regions: [britische-inseln]
+  themes: [gesellschaft]
+  places: [london, paris]
+- id: anton-wilhelm-amo
+  name: Anton Wilhelm Amo
+  born: "~1703"
+  died: "~1759"
+  roles: [Philosoph]
+  summary: Im heutigen Ghana geborener und als Kind nach Wolfenbüttel gebrachter Gelehrter, der in Halle, Wittenberg und Jena lehrte – der erste bekannte Philosoph afrikanischer Herkunft an einer deutschen Universität; später kehrte er an die Goldküste zurück.
+  regions: [deutschland, westafrika]
+  themes: [wissenschaft-technik]
+  places: [wittenberg]
+- id: jean-calas
+  name: Jean Calas
+  born: "1698"
+  died: "1762-03-10"
+  roles: [Kaufmann]
+  summary: Protestantischer Kaufmann aus Toulouse, der zu Unrecht des Mordes an seinem Sohn beschuldigt und hingerichtet wurde; Voltaires Kampagne erreichte 1765 seine Rehabilitierung.
+  regions: [frankreich]
+  themes: [religion, verfassung-recht]
+  places: [toulouse]
+  related: [voltaire]
+# Personen: Zerfall der Sowjetunion
+- id: boris-jelzin
+  name: Boris Jelzin
+  aliases: [Boris Nikolajewitsch Jelzin, Boris Yeltsin]
+  born: "1931-02-01"
+  died: "2007-04-23"
+  roles: [Präsident Russlands]
+  summary: Früherer Moskauer Parteichef, der im Juni 1991 zum Präsidenten Russlands gewählt wurde, den Augustputsch abwehrte und die Auflösung der Sowjetunion mit betrieb; Präsident bis 1999.
+  regions: [russland]
+  themes: [politik]
+  places: [moskau, weisses-haus-moskau, wiskuli]
+  related: [michail-gorbatschow]
+- id: eduard-schewardnadse
+  name: Eduard Schewardnadse
+  born: "1928-01-25"
+  died: "2014-07-07"
+  roles: [Außenminister, Präsident Georgiens]
+  summary: Georgischer Politiker, als sowjetischer Außenminister 1985–1990 Gorbatschows wichtigster Partner beim Ende des Kalten Kriegs; später Präsident Georgiens.
+  regions: [russland, westasien]
+  themes: [politik]
+  related: [michail-gorbatschow]
+- id: andrei-sacharow
+  name: Andrei Sacharow
+  born: "1921-05-21"
+  died: "1989-12-14"
+  roles: [Physiker, Bürgerrechtler]
+  summary: Physiker und Mitentwickler der sowjetischen Wasserstoffbombe, der zum bekanntesten Dissidenten wurde; Friedensnobelpreis 1975, 1986 aus der Verbannung zurückgeholt und 1989 Abgeordneter.
+  regions: [russland]
+  themes: [politik, wissenschaft-technik]
+  places: [moskau]
+- id: vytautas-landsbergis
+  name: Vytautas Landsbergis
+  born: "1932-10-18"
+  roles: [Musikwissenschaftler, Politiker]
+  summary: Anführer der litauischen Unabhängigkeitsbewegung Sąjūdis und Parlamentsvorsitzender, unter dem Litauen im März 1990 als erste Sowjetrepublik seine Unabhängigkeit erklärte.
+  regions: [osteuropa]
+  themes: [politik]
+  places: [vilnius]
+- id: gennadi-janajew
+  name: Gennadi Janajew
+  born: "1937-08-26"
+  died: "2010-09-24"
+  roles: [Vizepräsident der UdSSR]
+  summary: Sowjetischer Vizepräsident, der sich im August 1991 an die Spitze der Putschisten gegen Gorbatschow stellte.
+  regions: [russland]
+  themes: [politik]
+  places: [moskau]
+- id: leonid-krawtschuk
+  name: Leonid Krawtschuk
+  born: "1934-01-10"
+  died: "2022-05-10"
+  roles: [Präsident der Ukraine]
+  summary: Ukrainischer Parteifunktionär, der im Dezember 1991 zum ersten Präsidenten der unabhängigen Ukraine gewählt wurde und das Belowescher Abkommen unterzeichnete.
+  regions: [osteuropa]
+  themes: [politik]
+  places: [kiew, wiskuli]
+- id: stanislau-schuschkewitsch
+  name: Stanislau Schuschkewitsch
+  born: "1934-12-15"
+  died: "2022-05-03"
+  roles: [Parlamentsvorsitzender von Belarus]
+  summary: Physiker und Politiker, als Vorsitzender des Obersten Sowjets von Belarus Gastgeber des Treffens in Wiskuli im Dezember 1991.
+  regions: [osteuropa]
+  themes: [politik]
+  places: [wiskuli]
+- id: nursultan-nasarbajew
+  name: Nursultan Nasarbajew
+  born: "1940-07-06"
+  roles: [Präsident Kasachstans]
+  summary: Parteichef und ab 1990 Präsident Kasachstans, der bis zuletzt für den Erhalt einer erneuerten Union eintrat und das unabhängige Kasachstan bis 2019 autoritär regierte.
+  regions: [zentralasien]
+  themes: [politik]
+  places: [alma-ata]
+# Personen: Jugoslawienkriege
+- id: josip-broz-tito
+  name: Josip Broz Tito
+  aliases: [Tito]
+  born: "1892-05-07"
+  died: "1980-05-04"
+  roles: [Partisanenführer, Staatspräsident]
+  summary: Führer der kommunistischen Partisanen im Zweiten Weltkrieg und bis zu seinem Tod Staatschef Jugoslawiens, das er 1948 aus dem sowjetischen Block löste und zu einem Gründer der Bewegung der Blockfreien machte.
+  regions: [suedosteuropa]
+  themes: [politik]
+  places: [belgrad]
+- id: slobodan-milosevic
+  name: Slobodan Milošević
+  aliases: [Slobodan Milosevic]
+  born: "1941-08-20"
+  died: "2006-03-11"
+  roles: [Präsident Serbiens, Präsident Jugoslawiens]
+  summary: Serbischer Kommunist, der ab 1987 mit nationalistischer Mobilisierung die Macht in Serbien übernahm; 1999 vom Jugoslawien-Strafgerichtshof angeklagt, starb er 2006 vor dem Urteil in Haft.
+  regions: [suedosteuropa]
+  themes: [politik, gewalt-genozid]
+  places: [belgrad, amselfeld, den-haag]
+- id: franjo-tudjman
+  name: Franjo Tuđman
+  aliases: [Franjo Tudjman]
+  born: "1922-05-14"
+  died: "1999-12-10"
+  roles: [Präsident Kroatiens]
+  summary: Früherer Partisanengeneral und Historiker, ab 1990 Präsident Kroatiens, der die Unabhängigkeit durchsetzte und zugleich Pläne zur Teilung Bosniens verfolgte.
+  regions: [suedosteuropa]
+  themes: [politik]
+  places: [zagreb]
+- id: alija-izetbegovic
+  name: Alija Izetbegović
+  born: "1925-08-08"
+  died: "2003-10-19"
+  roles: [Präsident Bosnien und Herzegowinas]
+  summary: Bosniakischer Politiker, Präsident des Präsidiums von Bosnien und Herzegowina während des Kriegs und Unterzeichner des Dayton-Abkommens.
+  regions: [suedosteuropa]
+  themes: [politik]
+  places: [sarajevo, dayton]
+- id: radovan-karadzic
+  name: Radovan Karadžić
+  aliases: [Radovan Karadzic]
+  born: "1945-06-19"
+  roles: [Politiker]
+  summary: Psychiater und Führer der bosnischen Serben, 2016 vom Jugoslawien-Strafgerichtshof unter anderem wegen Völkermords in Srebrenica verurteilt, 2019 in zweiter Instanz zu lebenslanger Haft.
+  regions: [suedosteuropa]
+  themes: [gewalt-genozid]
+  places: [sarajevo, den-haag]
+- id: ratko-mladic
+  name: Ratko Mladić
+  aliases: [Ratko Mladic]
+  born: "1942-03-12"
+  roles: [General]
+  summary: Oberbefehlshaber der bosnisch-serbischen Armee, der die Belagerung Sarajevos und die Morde von Srebrenica befehligte; 2017 wegen Völkermords zu lebenslanger Haft verurteilt, 2021 bestätigt.
+  regions: [suedosteuropa]
+  themes: [gewalt-genozid, krieg-militaer]
+  places: [srebrenica, sarajevo, den-haag]
+- id: ibrahim-rugova
+  name: Ibrahim Rugova
+  born: "1944-12-02"
+  died: "2006-01-21"
+  roles: [Schriftsteller, Politiker]
+  summary: Albanischer Literaturwissenschaftler, der in den 1990er-Jahren den gewaltfreien Widerstand der Kosovo-Albaner gegen die serbische Herrschaft anführte.
+  regions: [suedosteuropa]
+  themes: [politik]
+  places: [pristina]
+- id: richard-holbrooke
+  name: Richard Holbrooke
+  born: "1941-04-24"
+  died: "2010-12-13"
+  roles: [Diplomat]
+  summary: US-Diplomat, der 1995 die Friedensverhandlungen von Dayton leitete.
+  regions: [nordamerika, suedosteuropa]
+  themes: [politik]
+  places: [dayton]

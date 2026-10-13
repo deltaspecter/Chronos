@@ -1,0 +1,605 @@
+# --- Justinian und Byzanz im 6. Jahrhundert ---
+- id: herrschaftsantritt-justinians
+  title: Justinian wird Alleinherrscher
+  date: "527-08-01"
+  weight: 3
+  kind: herrschaft
+  summary: Nach dem Tod seines Onkels Justin I. regiert Justinian, schon zuvor Mitkaiser, allein; seine Frau Theodora wird Augusta.
+  regions: [suedosteuropa, anatolien]
+  themes: [politik]
+  places: [istanbul]
+  persons: [justinian-i, theodora]
+  polities: [byzantinisches-reich]
+- id: schlacht-bei-dara
+  title: Schlacht bei Dara
+  date: "530"
+  weight: 3
+  kind: schlacht
+  summary: Belisar schlägt vor der Grenzfestung Dara ein überlegenes persisches Heer.
+  regions: [mesopotamien]
+  themes: [krieg-militaer]
+  places: [dara]
+  persons: [belisar]
+  polities: [byzantinisches-reich, sasanidenreich]
+- id: codex-iustinianus
+  title: Codex Iustinianus
+  date: "529-04-07"
+  dateNote: Die erste Fassung trat 529 in Kraft, die überarbeitete zweite Fassung, die allein erhalten ist, am 29. Dezember 534.
+  weight: 3
+  kind: gesetz
+  summary: Eine Kommission fasst die geltenden Kaisergesetze seit Hadrian in einem einzigen Gesetzbuch zusammen.
+  regions: [suedosteuropa, mittelmeer]
+  themes: [verfassung-recht]
+  places: [istanbul]
+  persons: [justinian-i, tribonian]
+  polities: [byzantinisches-reich]
+- id: nika-aufstand
+  title: Nika-Aufstand
+  start: "532-01-13"
+  end: "532-01-18"
+  weight: 2
+  kind: ereignis
+  summary: Die sonst verfeindeten Zirkusparteien der Blauen und Grünen erheben sich gemeinsam unter dem Ruf „Nika!“ („Siege!“), setzen große Teile Konstantinopels in Brand und rufen einen Gegenkaiser aus; Belisar und Narses lassen im Hippodrom nach Prokop rund 30.000 Menschen töten.
+  regions: [suedosteuropa, anatolien]
+  themes: [gesellschaft, gewalt-genozid, politik]
+  places: [hippodrom-konstantinopel, hagia-sophia, istanbul]
+  persons: [justinian-i, theodora, belisar, narses]
+  polities: [byzantinisches-reich]
+- id: ewiger-friede-532
+  title: „Ewiger Friede“ mit Persien
+  date: "532"
+  weight: 3
+  kind: vertrag
+  summary: Justinian erkauft sich mit hohen Zahlungen Frieden mit Chosrau I., um Kräfte für den Westen frei zu haben; der Friede hält nur bis 540.
+  regions: [mesopotamien, iran]
+  themes: [politik]
+  persons: [justinian-i, chosrau-i]
+  polities: [byzantinisches-reich, sasanidenreich]
+- id: digesten
+  title: Digesten und Institutionen
+  date: "533-12-16"
+  dateNote: Die Institutionen wurden am 21. November, die Digesten am 16. Dezember 533 verkündet; beide traten am 30. Dezember 533 in Kraft.
+  weight: 2
+  kind: gesetz
+  summary: In nur drei Jahren wählt eine Kommission unter Tribonian aus den Schriften der klassischen römischen Juristen die bis heute wichtigste Sammlung des römischen Rechts aus; dazu entsteht ein Lehrbuch für den Rechtsunterricht.
+  regions: [suedosteuropa, mittelmeer]
+  themes: [verfassung-recht]
+  places: [istanbul]
+  persons: [justinian-i, tribonian]
+  polities: [byzantinisches-reich]
+- id: vandalenkrieg
+  title: Eroberung des Vandalenreichs
+  start: "533"
+  end: "534"
+  weight: 2
+  kind: krieg
+  summary: Mit einer kleinen Armee landet Belisar in Nordafrika, nimmt Karthago ein und zwingt König Gelimer zur Kapitulation.
+  regions: [nordafrika]
+  themes: [krieg-militaer, imperien]
+  places: [karthago]
+  persons: [belisar, gelimer, justinian-i]
+  polities: [vandalenreich, byzantinisches-reich]
+- id: gotenkrieg
+  title: Gotenkrieg
+  start: "535"
+  end: "554"
+  dateNote: Die letzten gotischen Widerstandsnester fielen 553–555; 554 ordnete Justinian die Verwaltung Italiens in der Pragmatischen Sanktion neu.
+  weight: 2
+  kind: krieg
+  summary: Fast zwanzig Jahre Krieg um Italien zwischen Ostrom und den Ostgoten verwüsten das Land; Rom wechselt mehrfach den Besitzer, bis Narses 552 König Totila besiegt.
+  regions: [italien]
+  themes: [krieg-militaer]
+  places: [rom, ravenna]
+  persons: [belisar, narses, totila, justinian-i]
+  polities: [ostgotenreich, byzantinisches-reich]
+- id: dunkler-sonnenschleier-536
+  title: Verdunkelung der Sonne 536
+  date: "536"
+  certainty: wahrscheinlich
+  weight: 3
+  kind: katastrophe
+  summary: Zeitgenossen wie Prokop berichten, die Sonne habe ein Jahr lang nur schwach wie der Mond geschienen; Eisbohrkerne und Baumringe deuten auf große Vulkanausbrüche 536 und um 540 und auf eine Abkühlung über Jahrzehnte.
+  regions: [welt, mittelmeer]
+  themes: [umwelt-klima]
+- id: weihe-hagia-sophia-537
+  title: Weihe der Hagia Sophia
+  date: "537-12-27"
+  weight: 2
+  kind: gruendung
+  summary: Nach nur fünf Jahren Bauzeit wird die neue Hauptkirche Konstantinopels mit ihrer gewaltigen Kuppel geweiht; nach Einstürzen 558 wird die erhöhte Kuppel 562 neu geweiht.
+  regions: [suedosteuropa, anatolien]
+  themes: [religion, kultur-kunst]
+  places: [hagia-sophia, istanbul]
+  persons: [justinian-i, anthemios-von-tralleis]
+  polities: [byzantinisches-reich]
+- id: pluenderung-antiochias-540
+  title: Chosrau I. plündert Antiochia
+  date: "540"
+  weight: 3
+  kind: krieg
+  summary: Der Perserkönig bricht den Frieden, erobert die Großstadt Antiochia und verschleppt viele Einwohner in sein Reich.
+  regions: [levante, anatolien]
+  themes: [krieg-militaer]
+  places: [antiochia]
+  persons: [chosrau-i]
+  polities: [sasanidenreich, byzantinisches-reich]
+- id: justinianische-pest
+  title: Justinianische Pest
+  start: "541"
+  end: "544"
+  dateNote: Erste Welle; die Seuche kehrte in Abständen bis um 750 zurück.
+  weight: 2
+  kind: katastrophe
+  summary: Von Pelusium in Ägypten ausgehend breitet sich die Pest über das Mittelmeer aus und erreicht 542 Konstantinopel; die Zahl der Toten ist umstritten. Genanalysen haben Yersinia pestis als Erreger nachgewiesen.
+  regions: [mittelmeer, aegypten, westasien, europa]
+  themes: [umwelt-klima, gesellschaft]
+  places: [pelusium, istanbul]
+  persons: [justinian-i, prokop]
+  polities: [byzantinisches-reich, sasanidenreich]
+- id: zweites-konzil-konstantinopel
+  title: Zweites Konzil von Konstantinopel
+  date: "553"
+  weight: 3
+  kind: ereignis
+  summary: Auf Druck Justinians verurteilt ein Konzil Schriften dreier Theologen („Dreikapitelstreit“), um die Miaphysiten zu versöhnen – ohne Erfolg; Papst Vigilius stimmt erst nach langem Widerstand zu.
+  regions: [suedosteuropa, anatolien]
+  themes: [religion]
+  places: [istanbul]
+  persons: [justinian-i]
+  polities: [byzantinisches-reich]
+- id: tod-justinians
+  title: Tod Justinians
+  date: "565-11-14"
+  weight: 3
+  kind: herrschaft
+  summary: Justinian stirbt nach 38 Jahren Herrschaft; wenige Jahre später fallen die Langobarden in Italien ein, und die Kriege mit Persien flammen wieder auf.
+  regions: [suedosteuropa]
+  themes: [politik]
+  places: [istanbul]
+  persons: [justinian-i]
+  polities: [byzantinisches-reich]
+# --- Aufklärung ---
+- id: principia-newton
+  title: Newtons „Principia“
+  date: "1687-07-05"
+  weight: 3
+  kind: entdeckung
+  summary: Isaac Newton veröffentlicht die „Mathematischen Prinzipien der Naturphilosophie“ mit dem Gravitationsgesetz und den Bewegungsgesetzen.
+  regions: [britische-inseln]
+  themes: [wissenschaft-technik]
+  places: [london]
+  persons: [isaac-newton]
+- id: glorreiche-revolution
+  title: Glorreiche Revolution
+  start: "1688-11"
+  end: "1689-12-16"
+  weight: 2
+  kind: revolution
+  summary: Der katholische König Jakob II. wird von Wilhelm von Oranien gestürzt; die Bill of Rights von 1689 bindet die Krone an das Parlament und legt Grundrechte fest.
+  regions: [britische-inseln]
+  themes: [revolutionen, verfassung-recht]
+  places: [london]
+  persons: [john-locke]
+  polities: [koenigreich-england]
+- id: geist-der-gesetze
+  title: Montesquieus „Vom Geist der Gesetze“
+  date: "1748"
+  weight: 3
+  kind: ereignis
+  summary: Montesquieu veröffentlicht in Genf seine vergleichende Staatslehre, die zur Grundlage der Lehre von der Gewaltenteilung wird; 1751 setzt die katholische Kirche das Werk auf den Index.
+  regions: [frankreich]
+  themes: [verfassung-recht, schrift-medien]
+  places: [genf]
+  persons: [montesquieu]
+- id: encyclopedie
+  title: Die Encyclopédie
+  start: "1751"
+  end: "1772"
+  weight: 2
+  kind: entwicklung
+  summary: Diderot und d’Alembert geben in Paris eine Enzyklopädie heraus, die das Wissen der Zeit einschließlich der Handwerke ordnet und kritisch kommentiert; 1759 wird sie verboten und dennoch weiter gedruckt.
+  regions: [frankreich]
+  themes: [schrift-medien, wissenschaft-technik]
+  places: [paris]
+  persons: [denis-diderot, jean-le-rond-dalembert]
+  polities: [koenigreich-frankreich]
+- id: erdbeben-von-lissabon
+  title: Erdbeben von Lissabon
+  date: "1755-11-01"
+  weight: 2
+  kind: katastrophe
+  summary: Ein schweres Erdbeben, ein Tsunami und Brände zerstören Lissabon und töten Zehntausende; die Katastrophe löst in Europa eine Debatte über Gottes Güte und die Ordnung der Welt aus.
+  regions: [iberische-halbinsel]
+  themes: [umwelt-klima, religion]
+  places: [lissabon]
+  persons: [voltaire, immanuel-kant]
+- id: gesellschaftsvertrag-1762
+  title: Rousseaus „Gesellschaftsvertrag“
+  date: "1762"
+  weight: 3
+  kind: ereignis
+  summary: Rousseau begründet die Souveränität des Volkes; das Buch wird zusammen mit seinem Erziehungsroman „Émile“ in Paris und Genf verboten.
+  regions: [frankreich, mitteleuropa]
+  themes: [politik, schrift-medien]
+  places: [genf, paris]
+  persons: [jean-jacques-rousseau]
+- id: calas-affaere
+  title: Die Affäre Calas
+  start: "1762-03-10"
+  end: "1765-03-09"
+  weight: 3
+  kind: ereignis
+  summary: Der Protestant Jean Calas wird in Toulouse aufgrund falscher Beschuldigungen gerädert; Voltaires öffentliche Kampagne führt 1765 zu seiner Rehabilitierung.
+  regions: [frankreich]
+  themes: [verfassung-recht, religion]
+  places: [toulouse, ferney]
+  persons: [jean-calas, voltaire]
+  polities: [koenigreich-frankreich]
+- id: verbrechen-und-strafen
+  title: Beccarias „Über Verbrechen und Strafen“
+  date: "1764"
+  weight: 3
+  kind: ereignis
+  summary: Der Mailänder Jurist Cesare Beccaria fordert verhältnismäßige Strafen und die Abschaffung von Folter und Todesstrafe; das Buch wird in viele Sprachen übersetzt.
+  regions: [italien]
+  themes: [verfassung-recht]
+  persons: [cesare-beccaria]
+- id: toleranzpatent-1781
+  title: Toleranzpatent Josephs II.
+  date: "1781-10-13"
+  weight: 3
+  kind: gesetz
+  summary: Kaiser Joseph II. gestattet Lutheranern, Reformierten und Orthodoxen in den habsburgischen Ländern die private Religionsausübung; Toleranzedikte für Juden folgen.
+  regions: [mitteleuropa]
+  themes: [religion, verfassung-recht]
+  persons: [joseph-ii]
+  polities: [habsburgermonarchie]
+- id: was-ist-aufklaerung
+  title: Kants „Was ist Aufklärung?“
+  date: "1784-12"
+  weight: 3
+  kind: ereignis
+  summary: In der Berlinischen Monatsschrift beantwortet Kant eine Preisfrage der Zeit mit dem Aufruf „Habe Mut, dich deines eigenen Verstandes zu bedienen!“
+  regions: [deutschland, mitteleuropa]
+  themes: [schrift-medien]
+  places: [koenigsberg, berlin]
+  persons: [immanuel-kant]
+  polities: [koenigreich-preussen]
+- id: rechte-der-frau-1792
+  title: Wollstonecrafts „Verteidigung der Rechte der Frau“
+  date: "1792"
+  weight: 3
+  kind: ereignis
+  summary: Mary Wollstonecraft fordert gleiche Bildung für Frauen und wirft den Aufklärern vor, ihre eigenen Grundsätze nicht auf die Hälfte der Menschheit anzuwenden.
+  regions: [britische-inseln]
+  themes: [gesellschaft, schrift-medien]
+  places: [london]
+  persons: [mary-wollstonecraft]
+# --- Zerfall der Sowjetunion ---
+- id: gorbatschow-generalsekretaer
+  title: Gorbatschow wird Generalsekretär
+  date: "1985-03-11"
+  weight: 2
+  kind: herrschaft
+  summary: Nach dem Tod Konstantin Tschernenkos wählt das Politbüro den 54-jährigen Michail Gorbatschow zum Generalsekretär der KPdSU.
+  regions: [russland]
+  themes: [politik]
+  places: [moskau]
+  persons: [michail-gorbatschow]
+  polities: [sowjetunion]
+- id: tschernobyl-katastrophe
+  title: Reaktorkatastrophe von Tschernobyl
+  date: "1986-04-26"
+  weight: 2
+  kind: katastrophe
+  summary: Bei einem Test explodiert Block 4 des Kernkraftwerks; radioaktive Stoffe verseuchen weite Teile der Ukraine, von Belarus und Russland und gehen über Europa nieder. Die Behörden informieren erst Tage später.
+  regions: [osteuropa, europa]
+  themes: [umwelt-klima, wissenschaft-technik]
+  places: [tschernobyl, kiew]
+  persons: [michail-gorbatschow]
+  polities: [sowjetunion]
+- id: konflikt-bergkarabach
+  title: Krieg um Bergkarabach
+  start: "1988-02"
+  end: "1994-05-12"
+  weight: 3
+  kind: krieg
+  summary: Die Forderung der armenischen Mehrheit Bergkarabachs nach Anschluss an Armenien führt zu Pogromen, Vertreibungen und nach 1991 zum Krieg zwischen Armenien und Aserbaidschan mit Zehntausenden Toten.
+  regions: [westasien]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [bergkarabach]
+  polities: [sowjetunion]
+- id: wahl-volksdeputiertenkongress
+  title: Wahl zum Kongress der Volksdeputierten
+  date: "1989-03-26"
+  weight: 3
+  kind: ereignis
+  summary: Erstmals seit 1917 können die Sowjetbürger zwischen mehreren Kandidaten wählen; die im Fernsehen übertragenen Debatten des Kongresses fesseln das Land.
+  regions: [russland, osteuropa]
+  themes: [politik]
+  places: [moskau]
+  persons: [michail-gorbatschow, andrei-sacharow, boris-jelzin]
+  polities: [sowjetunion]
+- id: abzug-aus-afghanistan
+  title: Sowjetischer Abzug aus Afghanistan
+  date: "1989-02-15"
+  weight: 3
+  kind: ereignis
+  summary: Die letzten sowjetischen Soldaten verlassen Afghanistan nach fast zehn Jahren Krieg.
+  regions: [zentralasien]
+  themes: [krieg-militaer]
+  polities: [sowjetunion]
+- id: baltischer-weg
+  title: Baltischer Weg
+  date: "1989-08-23"
+  weight: 3
+  kind: ereignis
+  summary: Am 50. Jahrestag des Hitler-Stalin-Pakts bilden rund zwei Millionen Menschen eine Menschenkette von Tallinn über Riga nach Vilnius.
+  regions: [osteuropa, nordeuropa]
+  themes: [politik]
+  places: [tallinn, riga, vilnius]
+  polities: [sowjetunion]
+- id: unabhaengigkeit-litauens-1990
+  title: Litauen erklärt seine Unabhängigkeit
+  date: "1990-03-11"
+  weight: 3
+  kind: gruendung
+  summary: Als erste Sowjetrepublik erklärt Litauen die Wiederherstellung seiner Unabhängigkeit; Moskau antwortet mit einer Wirtschaftsblockade.
+  regions: [osteuropa]
+  themes: [politik]
+  places: [vilnius]
+  persons: [vytautas-landsbergis]
+  polities: [litauen, sowjetunion]
+- id: januarereignisse-vilnius
+  title: Blutsonntag von Vilnius
+  date: "1991-01-13"
+  weight: 3
+  kind: ereignis
+  summary: Sowjetische Truppen stürmen den Fernsehturm von Vilnius; 14 unbewaffnete Menschen werden getötet, Hunderte verletzt.
+  regions: [osteuropa]
+  themes: [gewalt-genozid, politik]
+  places: [vilnius]
+  polities: [litauen, sowjetunion]
+- id: augustputsch
+  title: Augustputsch
+  start: "1991-08-19"
+  end: "1991-08-21"
+  weight: 2
+  kind: ereignis
+  summary: Konservative Funktionäre setzen Gorbatschow in seinem Urlaubsort auf der Krim fest und rufen den Ausnahmezustand aus; Massenproteste in Moskau unter Führung Jelzins bringen den Putsch nach drei Tagen zum Scheitern.
+  regions: [russland]
+  themes: [politik]
+  places: [moskau, weisses-haus-moskau]
+  persons: [michail-gorbatschow, boris-jelzin, gennadi-janajew]
+  polities: [sowjetunion]
+- id: unabhaengigkeit-der-ukraine
+  title: Unabhängigkeit der Ukraine
+  date: "1991-08-24"
+  dateNote: Beim Referendum am 1. Dezember 1991 stimmten über 90 Prozent der Teilnehmenden zu.
+  weight: 2
+  kind: gruendung
+  summary: Das ukrainische Parlament erklärt die Unabhängigkeit; das Referendum im Dezember besiegelt das Ende der Sowjetunion.
+  regions: [osteuropa]
+  themes: [politik]
+  places: [kiew]
+  persons: [leonid-krawtschuk]
+  polities: [ukraine, sowjetunion]
+- id: belowescher-abkommen
+  title: Belowescher Abkommen
+  date: "1991-12-08"
+  weight: 2
+  kind: vertrag
+  summary: Die Führungen Russlands, der Ukraine und Belarus erklären, die Sowjetunion höre auf zu bestehen, und gründen die Gemeinschaft Unabhängiger Staaten.
+  regions: [osteuropa, russland]
+  themes: [politik]
+  places: [wiskuli]
+  persons: [boris-jelzin, leonid-krawtschuk, stanislau-schuschkewitsch]
+  polities: [sowjetunion, russische-foederation, ukraine]
+- id: alma-ata-erklaerung
+  title: Erklärung von Alma-Ata
+  date: "1991-12-21"
+  weight: 3
+  kind: vertrag
+  summary: Elf frühere Sowjetrepubliken treten der Gemeinschaft Unabhängiger Staaten bei; nur die baltischen Staaten und Georgien bleiben fern.
+  regions: [zentralasien, osteuropa]
+  themes: [politik]
+  places: [alma-ata]
+  persons: [nursultan-nasarbajew, boris-jelzin]
+  polities: [sowjetunion]
+- id: budapester-memorandum
+  title: Budapester Memorandum
+  date: "1994-12-05"
+  weight: 3
+  kind: vertrag
+  summary: Die Ukraine, Belarus und Kasachstan treten dem Atomwaffensperrvertrag bei und geben ihre Atomwaffen an Russland ab; Russland, die USA und Großbritannien sichern ihnen die Achtung ihrer Grenzen zu.
+  regions: [osteuropa, zentralasien]
+  themes: [politik, krieg-militaer]
+  places: [budapest]
+  polities: [ukraine, russische-foederation, vereinigte-staaten, vereinigtes-koenigreich]
+# --- Jugoslawienkriege ---
+- id: tod-titos
+  title: Tod Titos
+  date: "1980-05-04"
+  weight: 3
+  kind: herrschaft
+  summary: Mit Tito stirbt die Integrationsfigur Jugoslawiens; ein jährlich rotierendes kollektives Staatspräsidium übernimmt die Führung.
+  regions: [suedosteuropa]
+  themes: [politik]
+  places: [belgrad]
+  persons: [josip-broz-tito]
+  polities: [jugoslawien]
+- id: memorandum-sanu
+  title: Memorandum der Serbischen Akademie
+  date: "1986-09"
+  weight: 3
+  kind: ereignis
+  summary: Ein Entwurf der Serbischen Akademie der Wissenschaften, der die Serben als benachteiligtes Volk Jugoslawiens darstellt, wird in der Presse bekannt.
+  regions: [suedosteuropa]
+  themes: [politik, geschichtsschreibung]
+  places: [belgrad]
+  polities: [jugoslawien]
+- id: amselfeld-rede
+  title: Miloševićs Rede auf dem Amselfeld
+  date: "1989-06-28"
+  weight: 3
+  kind: ereignis
+  summary: Zum 600. Jahrestag der Schlacht auf dem Amselfeld spricht Milošević vor Hunderttausenden und schließt „bewaffnete Kämpfe“ in der Zukunft nicht aus.
+  regions: [suedosteuropa]
+  themes: [politik]
+  places: [amselfeld]
+  persons: [slobodan-milosevic]
+  polities: [jugoslawien]
+- id: unabhaengigkeit-sloweniens-kroatiens
+  title: Unabhängigkeit Sloweniens und Kroatiens
+  date: "1991-06-25"
+  weight: 2
+  kind: gruendung
+  summary: Slowenien und Kroatien erklären ihre Unabhängigkeit von Jugoslawien.
+  regions: [suedosteuropa]
+  themes: [politik]
+  places: [ljubljana, zagreb]
+  persons: [franjo-tudjman]
+  polities: [slowenien, kroatien, jugoslawien]
+- id: zehntagekrieg
+  title: Zehntagekrieg in Slowenien
+  start: "1991-06-27"
+  end: "1991-07-07"
+  weight: 3
+  kind: krieg
+  summary: Die Jugoslawische Volksarmee versucht vergeblich, die Grenzübergänge Sloweniens zu besetzen; unter Vermittlung der Europäischen Gemeinschaft zieht sie sich zurück.
+  regions: [suedosteuropa]
+  themes: [krieg-militaer]
+  places: [ljubljana]
+  polities: [slowenien, jugoslawien]
+- id: kroatienkrieg
+  title: Krieg in Kroatien
+  start: "1991"
+  end: "1995"
+  weight: 2
+  kind: krieg
+  summary: Serbische Aufständische und die Jugoslawische Volksarmee besetzen etwa ein Viertel Kroatiens und vertreiben die kroatische Bevölkerung; 1995 erobert Kroatien die Gebiete zurück, die serbische Bevölkerung flieht.
+  regions: [suedosteuropa]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [vukovar, knin, ragusa]
+  persons: [franjo-tudjman, slobodan-milosevic]
+  polities: [kroatien, jugoslawien]
+- id: fall-von-vukovar
+  title: Fall von Vukovar
+  date: "1991-11-18"
+  weight: 3
+  kind: schlacht
+  summary: Nach dreimonatiger Belagerung fällt die zerstörte Stadt; im nahen Ovčara werden zwei Tage später rund 200 Gefangene aus dem Krankenhaus ermordet.
+  regions: [suedosteuropa]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [vukovar]
+  polities: [kroatien, jugoslawien]
+- id: bosnienkrieg
+  title: Krieg in Bosnien und Herzegowina
+  start: "1992-04"
+  end: "1995-12-14"
+  weight: 1
+  kind: krieg
+  summary: Bosnisch-serbische Truppen mit Unterstützung aus Belgrad erobern rund zwei Drittel des Landes und vertreiben die nichtserbische Bevölkerung; 1993/94 kämpfen auch bosnische Kroaten gegen Bosniaken. Rund 100.000 Menschen werden getötet, über zwei Millionen vertrieben.
+  regions: [suedosteuropa]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [sarajevo, srebrenica, mostar]
+  persons: [alija-izetbegovic, radovan-karadzic, ratko-mladic, slobodan-milosevic, franjo-tudjman]
+  polities: [bosnien-herzegowina, bundesrepublik-jugoslawien, kroatien]
+- id: belagerung-von-sarajevo
+  title: Belagerung von Sarajevo
+  start: "1992-04-05"
+  end: "1996-02-29"
+  weight: 2
+  kind: krieg
+  summary: Fast vier Jahre lang beschießen bosnisch-serbische Truppen die eingeschlossene Hauptstadt von den umliegenden Bergen; über 10.000 Menschen werden getötet, viele von Scharfschützen.
+  regions: [suedosteuropa]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [sarajevo]
+  persons: [radovan-karadzic, ratko-mladic]
+  polities: [bosnien-herzegowina]
+- id: gruendung-icty
+  title: Gründung des Jugoslawien-Strafgerichtshofs
+  date: "1993-05-25"
+  weight: 3
+  kind: gruendung
+  summary: Der UN-Sicherheitsrat richtet mit Resolution 827 in Den Haag das erste internationale Strafgericht seit den Nürnberger Prozessen ein.
+  regions: [westeuropa, suedosteuropa]
+  themes: [verfassung-recht]
+  places: [den-haag]
+  polities: [vereinte-nationen]
+- id: zerstoerung-alte-bruecke-mostar
+  title: Zerstörung der Alten Brücke von Mostar
+  date: "1993-11-09"
+  weight: 3
+  kind: ereignis
+  summary: Panzer der bosnisch-kroatischen Truppen zerstören die über 400 Jahre alte osmanische Brücke – ein Sinnbild für die gezielte Vernichtung kulturellen Erbes im Krieg.
+  regions: [suedosteuropa]
+  themes: [kultur-kunst, krieg-militaer]
+  places: [mostar]
+- id: voelkermord-von-srebrenica
+  title: Völkermord von Srebrenica
+  start: "1995-07-11"
+  end: "1995-07-22"
+  weight: 1
+  kind: ereignis
+  summary: Bosnisch-serbische Truppen unter Ratko Mladić nehmen die UN-Schutzzone ein, die von einem kleinen niederländischen Kontingent nicht verteidigt wird; über 8.000 bosniakische Jungen und Männer werden ermordet. Internationale Gerichte haben die Tat als Völkermord eingestuft.
+  regions: [suedosteuropa]
+  themes: [gewalt-genozid]
+  places: [srebrenica]
+  persons: [ratko-mladic, radovan-karadzic]
+  polities: [bosnien-herzegowina, vereinte-nationen]
+- id: operation-sturm
+  title: Operation Sturm
+  start: "1995-08-04"
+  end: "1995-08-07"
+  weight: 3
+  kind: krieg
+  summary: Die kroatische Armee erobert die „Republik Serbische Krajina“; rund 150.000 bis 200.000 Serben fliehen, Zurückgebliebene werden getötet, Häuser niedergebrannt.
+  regions: [suedosteuropa]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [knin]
+  persons: [franjo-tudjman]
+  polities: [kroatien]
+- id: dayton-abkommen
+  title: Dayton-Abkommen
+  date: "1995-11-21"
+  dateNote: Paraphiert in Dayton am 21. November, unterzeichnet in Paris am 14. Dezember 1995.
+  weight: 2
+  kind: vertrag
+  summary: Nach NATO-Luftangriffen und kroatisch-bosniakischen Offensiven einigen sich die Präsidenten Serbiens, Kroatiens und Bosniens auf einen Frieden, der Bosnien in zwei Entitäten teilt.
+  regions: [suedosteuropa, nordamerika]
+  themes: [politik]
+  places: [dayton, paris]
+  persons: [slobodan-milosevic, franjo-tudjman, alija-izetbegovic, richard-holbrooke]
+  polities: [bosnien-herzegowina, kroatien, bundesrepublik-jugoslawien]
+- id: kosovokrieg
+  title: Kosovokrieg
+  start: "1998-02"
+  end: "1999-06-10"
+  weight: 2
+  kind: krieg
+  summary: Der Kampf der albanischen Untergrundarmee UÇK und die brutale Gegenoffensive serbischer Kräfte eskalieren; nach 78 Tagen NATO-Luftangriffen ohne UN-Mandat zieht sich Serbien zurück, das Kosovo kommt unter UN-Verwaltung.
+  regions: [suedosteuropa]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [pristina, belgrad]
+  persons: [slobodan-milosevic, ibrahim-rugova]
+  polities: [bundesrepublik-jugoslawien, nato]
+- id: auslieferung-milosevics
+  title: Auslieferung Miloševićs nach Den Haag
+  date: "2001-06-28"
+  weight: 3
+  kind: ereignis
+  summary: Nach seinem Sturz im Oktober 2000 wird Milošević an den Jugoslawien-Strafgerichtshof überstellt; er stirbt 2006 vor dem Urteil in der Haft.
+  regions: [suedosteuropa, westeuropa]
+  themes: [verfassung-recht]
+  places: [belgrad, den-haag]
+  persons: [slobodan-milosevic]
+- id: unabhaengigkeit-kosovo
+  title: Unabhängigkeitserklärung des Kosovo
+  date: "2008-02-17"
+  weight: 3
+  kind: gruendung
+  summary: Das Parlament des Kosovo erklärt die Unabhängigkeit von Serbien; viele Staaten erkennen sie an, Serbien, Russland und mehrere EU-Staaten nicht.
+  regions: [suedosteuropa]
+  themes: [politik]
+  places: [pristina]

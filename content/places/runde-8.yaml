@@ -1,0 +1,273 @@
+# Orte: Justinian und Byzanz im 6. Jahrhundert
+- id: ravenna
+  name: Ravenna
+  coords: [12.1997, 44.4184]
+  categories: [stadt, hauptstadt, kulturzentrum]
+  modernName: Ravenna (Italien)
+  summary: Residenz der letzten weströmischen Kaiser und der ostgotischen Könige; 540 von Belisar eingenommen und danach Sitz der byzantinischen Verwaltung Italiens. Die Kirche San Vitale zeigt Mosaiken Justinians und Theodoras.
+  regions: [italien]
+  themes: [kultur-kunst, imperien]
+- id: hippodrom-konstantinopel
+  name: Hippodrom von Konstantinopel
+  coords: [28.9753, 41.0063]
+  categories: [fundstaette]
+  modernName: Sultanahmet-Platz, Istanbul (Türkei)
+  summary: Rennbahn für Wagenrennen neben dem Kaiserpalast, Treffpunkt von Kaiser und Volk und Schauplatz des Nika-Aufstands 532.
+  regions: [anatolien, suedosteuropa]
+  themes: [gesellschaft, politik]
+- id: dara
+  name: Dara
+  aliases: [Anastasiupolis]
+  coords: [40.9400, 37.1800]
+  location: ungefaehr
+  categories: [fundstaette, schlachtfeld]
+  modernName: Oğuz bei Mardin (Türkei)
+  summary: Oströmische Grenzfestung gegenüber dem Sasanidenreich, vor der Belisar 530 ein persisches Heer schlug.
+  regions: [mesopotamien]
+  themes: [krieg-militaer]
+- id: pelusium
+  name: Pelusium
+  coords: [32.5667, 31.0417]
+  categories: [stadt, fundstaette]
+  modernName: Tell el-Farama (Ägypten)
+  summary: Hafenstadt am östlichen Nildelta, in der 541 nach Prokop die Pest im Römischen Reich ausbrach.
+  regions: [aegypten]
+  themes: [handelsnetze]
+- id: katharinenkloster
+  name: Katharinenkloster
+  coords: [33.9759, 28.5559]
+  categories: [heiligtum]
+  modernName: Sinai (Ägypten)
+  summary: Unter Justinian befestigtes Kloster am Fuß des Mosesbergs, eines der ältesten durchgehend bewohnten Klöster der Welt mit einer berühmten Bibliothek und Ikonensammlung.
+  regions: [aegypten]
+  themes: [religion, kultur-kunst]
+# Orte: Aufklärung
+- id: edinburgh
+  name: Edinburgh
+  coords: [-3.1883, 55.9533]
+  categories: [stadt, kulturzentrum]
+  modernName: Edinburgh (Schottland, Vereinigtes Königreich)
+  summary: Hauptstadt Schottlands und ein Zentrum der schottischen Aufklärung um David Hume und Adam Smith.
+  regions: [britische-inseln]
+  themes: [wissenschaft-technik]
+- id: koenigsberg
+  name: Königsberg
+  aliases: [Kaliningrad, Królewiec]
+  coords: [20.5106, 54.7104]
+  categories: [stadt]
+  modernName: Kaliningrad (Russland)
+  summary: Hafenstadt im Herzogtum und späteren Königreich Preußen, in der Immanuel Kant sein ganzes Leben lehrte.
+  regions: [mitteleuropa, osteuropa]
+  themes: [wissenschaft-technik]
+- id: amsterdam
+  name: Amsterdam
+  coords: [4.9041, 52.3676]
+  categories: [stadt, hafen]
+  modernName: Amsterdam (Niederlande)
+  summary: Handelsmetropole der Niederlande und im 17. und 18. Jahrhundert ein Zentrum des freien Buchdrucks, in dem in Frankreich verbotene Werke erschienen.
+  regions: [westeuropa]
+  themes: [schrift-medien, wirtschaft-handel]
+- id: ferney
+  name: Ferney
+  aliases: [Ferney-Voltaire]
+  coords: [6.1080, 46.2558]
+  categories: [stadt]
+  modernName: Ferney-Voltaire (Frankreich)
+  summary: Landgut an der Grenze zu Genf, von dem aus Voltaire ab 1759 seine Kampagnen gegen Justizwillkür und religiöse Verfolgung führte.
+  regions: [frankreich]
+  themes: [schrift-medien]
+- id: lissabon
+  name: Lissabon
+  aliases: [Lisboa]
+  coords: [-9.1393, 38.7223]
+  categories: [stadt, hauptstadt, hafen]
+  modernName: Lissabon (Portugal)
+  summary: Hauptstadt Portugals, am 1. November 1755 durch Erdbeben, Tsunami und Brände weitgehend zerstört.
+  regions: [iberische-halbinsel]
+  themes: [umwelt-klima]
+- id: toulouse
+  name: Toulouse
+  coords: [1.4442, 43.6047]
+  categories: [stadt]
+  modernName: Toulouse (Frankreich)
+  summary: Stadt im Languedoc, in der 1762 der protestantische Kaufmann Jean Calas nach einem Justizirrtum hingerichtet wurde.
+  regions: [frankreich]
+  themes: [verfassung-recht, religion]
+- id: potsdam
+  name: Potsdam
+  aliases: [Sanssouci]
+  coords: [13.0383, 52.4043]
+  categories: [stadt]
+  modernName: Potsdam (Deutschland)
+  summary: Residenzstadt der preußischen Könige; im Schloss Sanssouci empfing Friedrich II. Gelehrte wie Voltaire.
+  regions: [deutschland]
+  themes: [politik, kultur-kunst]
+# Orte: Zerfall der Sowjetunion
+- id: tschernobyl
+  name: Tschernobyl
+  aliases: [Chornobyl, Prypjat]
+  coords: [30.0996, 51.3890]
+  categories: [fundstaette]
+  modernName: Sperrzone von Tschornobyl (Ukraine)
+  summary: Kernkraftwerk im Norden der Ukraine, in dem am 26. April 1986 ein Reaktor explodierte.
+  regions: [osteuropa]
+  themes: [umwelt-klima, wissenschaft-technik]
+- id: vilnius
+  name: Vilnius
+  aliases: [Wilna]
+  coords: [25.2797, 54.6872]
+  categories: [stadt, hauptstadt]
+  modernName: Vilnius (Litauen)
+  summary: Hauptstadt Litauens, wo sowjetische Truppen im Januar 1991 beim Sturm auf den Fernsehturm 14 Menschen töteten.
+  regions: [osteuropa, nordeuropa]
+  themes: [politik]
+- id: riga
+  name: Riga
+  coords: [24.1052, 56.9496]
+  categories: [stadt, hauptstadt, hafen]
+  modernName: Riga (Lettland)
+  summary: Hauptstadt Lettlands und Hansestadt an der Ostsee.
+  regions: [osteuropa, nordeuropa]
+  themes: [politik]
+- id: tallinn
+  name: Tallinn
+  aliases: [Reval]
+  coords: [24.7536, 59.4370]
+  categories: [stadt, hauptstadt, hafen]
+  modernName: Tallinn (Estland)
+  summary: Hauptstadt Estlands, Endpunkt der Menschenkette des Baltischen Wegs 1989.
+  regions: [osteuropa, nordeuropa]
+  themes: [politik]
+- id: wiskuli
+  name: Wiskuli
+  aliases: [Viskuli, Belowescher Heide]
+  coords: [23.8600, 52.5700]
+  location: ungefaehr
+  categories: [stadt]
+  modernName: Belowescher Heide (Belarus)
+  summary: Jagdresidenz in der Belowescher Heide, in der die Führungen Russlands, der Ukraine und Belarus am 8. Dezember 1991 das Ende der Sowjetunion beschlossen.
+  regions: [osteuropa]
+  themes: [politik]
+- id: alma-ata
+  name: Alma-Ata
+  aliases: [Almaty]
+  coords: [76.8860, 43.2380]
+  categories: [stadt]
+  modernName: Almaty (Kasachstan)
+  summary: Damalige Hauptstadt Kasachstans; im Dezember 1986 Schauplatz von Protesten gegen die Absetzung des kasachischen Parteichefs, im Dezember 1991 Gründungsort der erweiterten GUS.
+  regions: [zentralasien]
+  themes: [politik]
+- id: weisses-haus-moskau
+  name: Weißes Haus (Moskau)
+  aliases: [Haus der Sowjets]
+  coords: [37.5833, 55.7550]
+  categories: [fundstaette]
+  modernName: Sitz der russischen Regierung, Moskau
+  summary: Sitz des russischen Parlaments, vor dem Boris Jelzin im August 1991 den Widerstand gegen die Putschisten anführte; im Oktober 1993 ließ er es beschießen.
+  regions: [russland]
+  themes: [politik]
+- id: bergkarabach
+  name: Bergkarabach
+  aliases: [Arzach, Nagorny Karabach]
+  coords: [46.7519, 39.8153]
+  location: ungefaehr
+  categories: [region]
+  modernName: Region in Aserbaidschan
+  summary: Mehrheitlich armenisch besiedeltes Gebiet in Aserbaidschan, um das ab 1988 ein Konflikt eskalierte, der in einen Krieg mündete.
+  regions: [westasien]
+  themes: [krieg-militaer]
+# Orte: Jugoslawienkriege
+- id: belgrad
+  name: Belgrad
+  aliases: [Beograd]
+  coords: [20.4489, 44.7866]
+  categories: [stadt, hauptstadt]
+  modernName: Belgrad (Serbien)
+  summary: Hauptstadt Jugoslawiens und Serbiens an der Mündung der Save in die Donau.
+  regions: [suedosteuropa]
+  themes: [politik]
+- id: zagreb
+  name: Zagreb
+  coords: [15.9819, 45.8150]
+  categories: [stadt, hauptstadt]
+  modernName: Zagreb (Kroatien)
+  summary: Hauptstadt Kroatiens.
+  regions: [suedosteuropa]
+  themes: [politik]
+- id: ljubljana
+  name: Ljubljana
+  aliases: [Laibach]
+  coords: [14.5058, 46.0569]
+  categories: [stadt, hauptstadt]
+  modernName: Ljubljana (Slowenien)
+  summary: Hauptstadt Sloweniens.
+  regions: [suedosteuropa, mitteleuropa]
+  themes: [politik]
+- id: vukovar
+  name: Vukovar
+  coords: [18.9994, 45.3511]
+  categories: [stadt]
+  modernName: Vukovar (Kroatien)
+  summary: Stadt an der Donau, die 1991 drei Monate lang von der Jugoslawischen Volksarmee und serbischen Freischärlern belagert und fast völlig zerstört wurde.
+  regions: [suedosteuropa]
+  themes: [krieg-militaer, gewalt-genozid]
+- id: knin
+  name: Knin
+  coords: [16.1975, 44.0406]
+  categories: [stadt]
+  modernName: Knin (Kroatien)
+  summary: Hauptort der 1991 ausgerufenen „Republik Serbische Krajina“ in Kroatien, im August 1995 von der kroatischen Armee eingenommen.
+  regions: [suedosteuropa]
+  themes: [krieg-militaer]
+- id: srebrenica
+  name: Srebrenica
+  coords: [19.2975, 44.1067]
+  categories: [stadt]
+  modernName: Srebrenica (Bosnien und Herzegowina)
+  summary: Kleinstadt im Osten Bosniens, 1993 zur UN-Schutzzone erklärt; nach ihrer Einnahme durch bosnisch-serbische Truppen im Juli 1995 wurden über 8.000 bosniakische Jungen und Männer ermordet. In Potočari erinnert eine Gedenkstätte an die Opfer.
+  regions: [suedosteuropa]
+  themes: [gewalt-genozid]
+- id: mostar
+  name: Mostar
+  coords: [17.8078, 43.3438]
+  categories: [stadt]
+  modernName: Mostar (Bosnien und Herzegowina)
+  summary: Stadt an der Neretva, deren osmanische Alte Brücke von 1566 im November 1993 von kroatischen Truppen zerstört und 2004 wiederaufgebaut wurde.
+  regions: [suedosteuropa]
+  themes: [kultur-kunst, krieg-militaer]
+- id: pristina
+  name: Priština
+  aliases: [Prishtina, Pristina]
+  coords: [21.1655, 42.6629]
+  categories: [stadt, hauptstadt]
+  modernName: Prishtina (Kosovo)
+  summary: Hauptstadt des Kosovo.
+  regions: [suedosteuropa]
+  themes: [politik]
+- id: amselfeld
+  name: Amselfeld
+  aliases: [Kosovo Polje, Gazimestan]
+  coords: [21.1347, 42.7022]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Gazimestan bei Prishtina (Kosovo)
+  summary: Ort der Schlacht von 1389 zwischen einem serbischen und einem osmanischen Heer, der im serbischen Nationalmythos eine zentrale Rolle spielt; hier hielt Slobodan Milošević 1989 eine Rede vor Hunderttausenden.
+  regions: [suedosteuropa]
+  themes: [geschichtsschreibung, politik]
+- id: dayton
+  name: Dayton
+  coords: [-84.1916, 39.7589]
+  categories: [stadt]
+  modernName: Dayton, Ohio (USA)
+  summary: Stadt in Ohio, auf deren Luftwaffenstützpunkt im November 1995 der Friedensvertrag für Bosnien und Herzegowina ausgehandelt wurde.
+  regions: [nordamerika]
+  themes: [politik]
+- id: den-haag
+  name: Den Haag
+  aliases: [The Hague, ’s-Gravenhage]
+  coords: [4.3007, 52.0705]
+  categories: [stadt]
+  modernName: Den Haag (Niederlande)
+  summary: Regierungssitz der Niederlande und Sitz internationaler Gerichte, darunter des Internationalen Gerichtshofs und von 1993 bis 2017 des Jugoslawien-Strafgerichtshofs.
+  regions: [westeuropa]
+  themes: [verfassung-recht]

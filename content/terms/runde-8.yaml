@@ -1,0 +1,95 @@
+# Begriffe: Justinian
+- id: corpus-iuris-civilis
+  name: Corpus iuris civilis
+  aliases: [Digesten, Pandekten, Codex Iustinianus, Institutionen, Novellen]
+  definition: Neuzeitlicher Name für die Rechtssammlung Justinians aus Codex (Kaisergesetze), Digesten (Auszüge aus klassischen Juristenschriften), Institutionen (Lehrbuch) und Novellen (neue Gesetze). Ab dem 11. Jahrhundert in Bologna wiederentdeckt, wurde sie zur Grundlage der Rechtswissenschaft in Europa.
+  themes: [verfassung-recht]
+- id: zirkusparteien
+  name: Zirkusparteien
+  aliases: [Blaue und Grüne, Demen]
+  definition: Die nach den Farben der Wagenlenker benannten Anhängerschaften im Hippodrom, vor allem Blaue und Grüne, die in den Städten des Oströmischen Reichs große politische und gesellschaftliche Bedeutung hatten.
+  themes: [gesellschaft, politik]
+- id: miaphysitismus
+  name: Miaphysitismus
+  aliases: [Monophysitismus, Miaphysiten]
+  definition: Christologische Lehre, nach der Christus eine einzige, zugleich göttliche und menschliche Natur hat; ihre Anhänger lehnten die Formel des Konzils von Chalkedon (451) ab. Aus ihnen gingen unter anderem die koptische, die syrisch-orthodoxe und die armenische Kirche hervor.
+  themes: [religion]
+- id: caesaropapismus
+  name: Caesaropapismus
+  definition: Umstrittener neuzeitlicher Begriff für eine Vorherrschaft des Kaisers über die Kirche, wie sie Byzanz oft zugeschrieben wurde; die Forschung betont heute, dass auch byzantinische Kaiser in Glaubensfragen auf Konzilien, Bischöfe und Mönche angewiesen waren.
+  themes: [religion, politik]
+# Begriffe: Aufklärung
+- id: naturrecht
+  name: Naturrecht
+  aliases: [Natürliche Rechte, Menschenrechte]
+  definition: Die Vorstellung, dass es Rechte gibt, die allen Menschen aus ihrer Natur oder Vernunft zukommen und vor jeder staatlichen Ordnung gelten; Grundlage der Menschenrechtserklärungen des 18. Jahrhunderts.
+  themes: [verfassung-recht, politik]
+- id: gesellschaftsvertrag
+  name: Gesellschaftsvertrag
+  aliases: [Contrat social, Vertragstheorie]
+  definition: Denkmodell, nach dem staatliche Herrschaft auf einer Übereinkunft freier Menschen beruht; von Hobbes, Locke und Rousseau unterschiedlich ausgestaltet.
+  themes: [politik]
+- id: aufgeklaerter-absolutismus
+  name: Aufgeklärter Absolutismus
+  definition: Umstrittener Sammelbegriff für Monarchen des 18. Jahrhunderts wie Friedrich II., Katharina II. und Joseph II., die Ideen der Aufklärung für Reformen von oben nutzten, ohne ihre Alleinherrschaft einzuschränken.
+  themes: [politik]
+- id: deismus
+  name: Deismus
+  definition: Religiöse Auffassung, nach der Gott die Welt geschaffen hat, aber nicht in sie eingreift; Offenbarung, Wunder und kirchliche Dogmen werden zugunsten einer „natürlichen Religion“ der Vernunft abgelehnt.
+  themes: [religion]
+- id: salon
+  name: Salon
+  aliases: [Salonkultur]
+  definition: Regelmäßige Gesprächskreise in Privathäusern, oft von Frauen wie Madame Geoffrin geleitet, in denen Adlige, Gelehrte und Schriftsteller im 18. Jahrhundert über Literatur, Philosophie und Politik diskutierten.
+  themes: [gesellschaft, kultur-kunst]
+- id: gelehrtenrepublik
+  name: Gelehrtenrepublik
+  aliases: [Republic of Letters, République des Lettres]
+  definition: Das grenzüberschreitende Netzwerk von Gelehrten, die sich in Briefen, Zeitschriften und Akademien austauschten und sich als Gemeinschaft Gleicher jenseits von Stand und Konfession verstanden.
+  themes: [wissenschaft-technik, schrift-medien]
+# Begriffe: Zerfall der Sowjetunion
+- id: perestroika
+  name: Perestroika
+  aliases: [Umbau, Umgestaltung]
+  definition: „Umbau“ – Gorbatschows Programm zur Reform von Wirtschaft und Politik der Sowjetunion ab 1985/87, das mehr Eigenverantwortung der Betriebe, begrenzte Marktelemente und schließlich auch politische Wahlen brachte.
+  themes: [politik, wirtschaft-handel]
+- id: glasnost
+  name: Glasnost
+  aliases: [Offenheit, Transparenz]
+  definition: „Offenheit“ – die Lockerung der Zensur unter Gorbatschow, die öffentliche Kritik, die Aufarbeitung stalinistischer Verbrechen und die Veröffentlichung lange verbotener Literatur ermöglichte.
+  themes: [politik, schrift-medien]
+- id: nomenklatura
+  name: Nomenklatura
+  definition: Die Liste der Führungspositionen in Partei, Staat und Wirtschaft, die nur mit Zustimmung der Partei besetzt werden durften – und die dadurch entstandene privilegierte Führungsschicht der sozialistischen Staaten.
+  themes: [politik, gesellschaft]
+- id: gus
+  name: Gemeinschaft Unabhängiger Staaten
+  aliases: [GUS, CIS]
+  definition: Im Dezember 1991 gegründeter loser Zusammenschluss der meisten Nachfolgestaaten der Sowjetunion.
+  themes: [politik]
+# Begriffe: Jugoslawienkriege
+- id: ethnische-saeuberung
+  name: Ethnische Säuberung
+  aliases: [Ethnische Vertreibung]
+  definition: Während der Jugoslawienkriege verbreiteter Ausdruck für die gewaltsame Entfernung einer Bevölkerungsgruppe aus einem Gebiet durch Mord, Terror, Vertreibung und Zerstörung; der Begriff übernimmt die beschönigende Sprache der Täter und wird deshalb kritisiert.
+  themes: [gewalt-genozid]
+- id: schutzzone
+  name: UN-Schutzzone
+  aliases: [Safe Area, Sicherheitszone]
+  definition: Gebiete in Bosnien – Sarajevo, Srebrenica, Žepa, Goražde, Tuzla und Bihać –, die der UN-Sicherheitsrat 1993 zu geschützten Zonen erklärte, ohne ausreichende Truppen zu ihrem Schutz bereitzustellen.
+  themes: [krieg-militaer, politik]
+- id: arbeiterselbstverwaltung
+  name: Arbeiterselbstverwaltung
+  aliases: [Selbstverwaltungssozialismus]
+  definition: Das jugoslawische Wirtschaftsmodell ab 1950, in dem gewählte Arbeiterräte formell die Betriebe leiteten; es sollte eine Alternative zur sowjetischen Planwirtschaft sein.
+  themes: [wirtschaft-handel, politik]
+- id: ustascha
+  name: Ustascha
+  aliases: [Ustaše]
+  definition: Kroatische faschistische Bewegung, die 1941–1945 unter deutscher und italienischer Schutzherrschaft den „Unabhängigen Staat Kroatien“ regierte und Hunderttausende Serben, Juden und Roma ermordete, unter anderem im Lager Jasenovac.
+  themes: [gewalt-genozid, politik]
+- id: tschetniks
+  name: Tschetniks
+  aliases: [Četnici]
+  definition: Serbisch-nationalistische Freischärler; im Zweiten Weltkrieg königstreue Verbände, die zeitweise mit den Besatzern zusammenarbeiteten und Massaker an Muslimen und Kroaten verübten. In den 1990er-Jahren beriefen sich serbische Paramilitärs auf diese Tradition.
+  themes: [krieg-militaer, gewalt-genozid]

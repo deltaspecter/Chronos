@@ -1,0 +1,145 @@
+# Staaten: Spätantike
+- id: vandalenreich
+  name: Reich der Vandalen
+  aliases: [Vandalen, Vandalenreich]
+  start: "429"
+  end: "534"
+  spanNote: 429 setzten die Vandalen nach Nordafrika über, 439 eroberten sie Karthago; 534 unterwarf Belisar das Reich.
+  capital: karthago
+  summary: Von den Vandalen und Alanen unter König Geiserich in Nordafrika errichtetes Königreich, das das westliche Mittelmeer beherrschte und 455 Rom plünderte.
+  regions: [nordafrika, mittelmeer]
+  themes: [imperien]
+  successors: [byzantinisches-reich]
+  weight: 3
+- id: ostgotenreich
+  name: Reich der Ostgoten
+  aliases: [Ostgoten, Ostgotenreich]
+  start: "493"
+  end: "553"
+  spanNote: 493 nahm Theoderich der Große Ravenna ein; der Gotenkrieg (535–552/553) beendete die gotische Herrschaft in Italien.
+  capital: ravenna
+  summary: Königreich der Ostgoten in Italien, das unter Theoderich die römische Verwaltung und den Senat weiterbestehen ließ und von Justinians Heeren erobert wurde.
+  regions: [italien]
+  themes: [imperien]
+  successors: [byzantinisches-reich, langobardenreich]
+  weight: 3
+- id: sasanidenreich
+  name: Reich der Sasaniden
+  aliases: [Sasaniden, Neupersisches Reich]
+  start: "224"
+  end: "651"
+  summary: Persisches Großreich mit der Hauptstadt Ktesiphon am Tigris, über vier Jahrhunderte der große Rivale Roms und Ostroms; den arabisch-islamischen Eroberungen erlegen.
+  regions: [iran, mesopotamien, zentralasien]
+  themes: [imperien, religion]
+  successors: [umayyaden-kalifat]
+  weight: 2
+# Staaten: Aufklärung
+- id: koenigreich-preussen
+  name: Königreich Preußen
+  aliases: [Preußen]
+  start: "1701-01-18"
+  end: "1918-11-09"
+  spanNote: Ab 1871 Gliedstaat des Deutschen Kaiserreichs; der preußische König war zugleich Deutscher Kaiser.
+  capital: berlin
+  summary: Von den Hohenzollern regierter Staat, der im 18. Jahrhundert unter Friedrich II. zur europäischen Großmacht aufstieg und 1871 das Deutsche Kaiserreich anführte.
+  regions: [deutschland, mitteleuropa]
+  themes: [politik, krieg-militaer]
+  successors: [weimarer-republik]
+  weight: 2
+- id: habsburgermonarchie
+  name: Habsburgermonarchie
+  aliases: [Österreich, Erblande der Habsburger]
+  start: "1526"
+  end: "1867"
+  spanNote: Hier ab der Vereinigung der österreichischen, böhmischen und ungarischen Länder 1526; ab 1804 Kaisertum Österreich, 1867 in Österreich-Ungarn umgewandelt.
+  summary: Länderverbund unter der Herrschaft der Habsburger mit Wien als Zentrum, dessen Herrscher meist zugleich römisch-deutsche Kaiser waren.
+  regions: [mitteleuropa, suedosteuropa]
+  themes: [imperien, politik]
+  successors: [oesterreich-ungarn]
+  weight: 2
+# Staaten: Nach der Sowjetunion
+- id: russische-foederation
+  name: Russische Föderation
+  aliases: [Russland]
+  start: "1991-12-25"
+  spanNote: Die Russische Sowjetrepublik benannte sich am 25. Dezember 1991 in Russische Föderation um und übernahm den Sitz der Sowjetunion in den Vereinten Nationen.
+  capital: moskau
+  summary: Größter Nachfolgestaat der Sowjetunion.
+  regions: [russland, osteuropa, zentralasien]
+  themes: [politik]
+  predecessors: [sowjetunion]
+  weight: 2
+- id: ukraine
+  name: Ukraine
+  start: "1991-08-24"
+  spanNote: Unabhängigkeitserklärung am 24. August 1991, bestätigt durch Referendum am 1. Dezember 1991.
+  capital: kiew
+  summary: Zweitgrößter Nachfolgestaat der Sowjetunion nach Bevölkerung, der 1994 seine Atomwaffen gegen Sicherheitszusagen abgab.
+  regions: [osteuropa]
+  themes: [politik]
+  predecessors: [sowjetunion]
+  weight: 2
+- id: litauen
+  name: Litauen
+  aliases: [Republik Litauen]
+  start: "1990-03-11"
+  spanNote: Litauen war bereits 1918–1940 unabhängig; die Unabhängigkeitserklärung von 1990 wurde von der Sowjetunion erst im September 1991 anerkannt.
+  capital: vilnius
+  summary: Baltischer Staat, der als erste Sowjetrepublik seine Unabhängigkeit erklärte.
+  regions: [osteuropa, nordeuropa]
+  themes: [politik]
+  predecessors: [sowjetunion]
+  weight: 3
+# Staaten: Jugoslawien und Nachfolgestaaten
+- id: jugoslawien
+  name: Sozialistisches Jugoslawien
+  aliases: [SFRJ, Sozialistische Föderative Republik Jugoslawien, Jugoslawien, FVRJ]
+  start: "1945-11-29"
+  end: "1992-04-27"
+  spanNote: 1945 als Föderative Volksrepublik ausgerufen, ab 1963 Sozialistische Föderative Republik; zerfiel 1991/92. Vorausgegangen war das Königreich Jugoslawien (1918–1941).
+  capital: belgrad
+  summary: Bundesstaat aus sechs Republiken – Slowenien, Kroatien, Bosnien und Herzegowina, Serbien, Montenegro und Makedonien – mit zwei autonomen Provinzen, unter Tito blockfrei und mit eigenem Modell der Arbeiterselbstverwaltung.
+  regions: [suedosteuropa]
+  themes: [politik]
+  successors: [bundesrepublik-jugoslawien, kroatien, slowenien, bosnien-herzegowina]
+  weight: 2
+- id: bundesrepublik-jugoslawien
+  name: Bundesrepublik Jugoslawien
+  aliases: [BRJ, Serbien und Montenegro, Rest-Jugoslawien]
+  start: "1992-04-27"
+  end: "2006-06-03"
+  spanNote: Ab 2003 Staatenbund Serbien und Montenegro, 2006 durch die Unabhängigkeit Montenegros aufgelöst.
+  capital: belgrad
+  summary: Aus Serbien und Montenegro gebildeter Staat, der sich als Fortsetzung Jugoslawiens verstand.
+  regions: [suedosteuropa]
+  themes: [politik]
+  predecessors: [jugoslawien]
+  weight: 3
+- id: slowenien
+  name: Slowenien
+  start: "1991-06-25"
+  capital: ljubljana
+  summary: Nördlichste Republik Jugoslawiens, die sich nach einem zehntägigen Krieg 1991 löste; seit 2004 Mitglied der EU.
+  regions: [suedosteuropa, mitteleuropa]
+  themes: [politik]
+  predecessors: [jugoslawien]
+  weight: 3
+- id: kroatien
+  name: Kroatien
+  start: "1991-06-25"
+  capital: zagreb
+  summary: Republik, die sich 1991 für unabhängig erklärte und bis 1995 gegen die Jugoslawische Volksarmee und serbische Aufständische Krieg führte.
+  regions: [suedosteuropa]
+  themes: [politik]
+  predecessors: [jugoslawien]
+  weight: 3
+- id: bosnien-herzegowina
+  name: Bosnien und Herzegowina
+  start: "1992-03-03"
+  spanNote: Unabhängigkeitserklärung nach dem Referendum vom 29. Februar und 1. März 1992; seit dem Dayton-Abkommen aus zwei Entitäten bestehend.
+  capital: sarajevo
+  summary: Republik mit bosniakischer, serbischer und kroatischer Bevölkerung, in der 1992–1995 der verheerendste der Jugoslawienkriege geführt wurde.
+  regions: [suedosteuropa]
+  themes: [politik]
+  predecessors: [jugoslawien]
+  weight: 3

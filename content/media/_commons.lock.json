@@ -483,5 +483,40 @@
     "author": "John Trumbull",
     "license": "Public domain",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Declaration_of_Independence_(1819),_by_John_Trumbull.jpg"
+  },
+  "justinian-san-vitale": {
+    "file": "justinian-san-vitale.jpg",
+    "width": 1200,
+    "height": 973,
+    "author": "José Luiz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mosaic_of_Justinian_I_-_San_Vitale_-_Ravenna_2016.jpg"
+  },
+  "salon-geoffrin": {
+    "file": "salon-geoffrin.jpg",
+    "width": 1200,
+    "height": 775,
+    "author": "Anicet Charles Gabriel Lemonnier",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anicet-Charles-Gabriel_Lemonnier_-_In_the_Salon_of_Madame_Geoffrin_in_1755_-_WGA12652.jpg"
+  },
+  "baltischer-weg-lettland": {
+    "file": "baltischer-weg-lettland.jpg",
+    "width": 836,
+    "height": 558,
+    "author": "Laimonis Stīpnieks",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baltic_Way_in_Latvia_between_C%C4%93sis_and_Valmiera.jpeg"
+  },
+  "alte-bruecke-mostar": {
+    "file": "alte-bruecke-mostar.jpg",
+    "width": 1200,
+    "height": 798,
+    "author": "Berthold Werner",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mostar_Stari_Most_BW_2024-10-01_12-58-38.jpg"
   }
 }
