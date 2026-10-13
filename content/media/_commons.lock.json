@@ -398,5 +398,39 @@
     "author": "Martín Tovar y Tovar",
     "license": "Public domain",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Batalla_de_Ayacucho_by_Mart%C3%ADn_Tovar_y_Tovar_(1827_-_1902).jpg"
+  },
+  "julitage-petrograd": {
+    "file": "julitage-petrograd.jpg",
+    "width": 1200,
+    "height": 780,
+    "author": "Viktor Bulla",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:19170704_Riot_on_Nevsky_prosp_Petrograd.jpg"
+  },
+  "parthenon-athen": {
+    "file": "parthenon-athen.jpg",
+    "width": 1144,
+    "height": 804,
+    "author": "Steve Swayne",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Parthenon_in_Athens.jpg"
+  },
+  "nyamata-gedenkstaette": {
+    "file": "nyamata-gedenkstaette.jpg",
+    "width": 1200,
+    "height": 803,
+    "author": "Dave Proffer",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nyamata_Genocide_Memorial_Church_-_Flickr_-_Dave_Proffer.jpg"
+  },
+  "moai-rano-raraku": {
+    "file": "moai-rano-raraku.jpg",
+    "width": 900,
+    "height": 1200,
+    "author": "Aurbina",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moai_Rano_raraku.jpg"
   }
 }

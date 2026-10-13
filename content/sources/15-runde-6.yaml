@@ -1,0 +1,284 @@
+# Quellen und Literatur: Russische Revolution, athenische Demokratie, Polynesien, Ruanda 1994
+
+# --- Russische Revolution ---
+- id: figes-1996
+  kind: sekundaer
+  authors: ["Figes, Orlando"]
+  title: A People's Tragedy
+  subtitle: The Russian Revolution 1891–1924
+  place: London
+  publisher: Jonathan Cape
+  year: 1996
+- id: fitzpatrick-1982
+  kind: sekundaer
+  authors: ["Fitzpatrick, Sheila"]
+  title: The Russian Revolution
+  place: Oxford
+  publisher: Oxford University Press
+  year: 1982
+- id: smith-2017
+  kind: sekundaer
+  authors: ["Smith, S. A."]
+  title: Russia in Revolution
+  subtitle: An Empire in Crisis, 1890 to 1928
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2017
+- id: pipes-1990
+  kind: sekundaer
+  authors: ["Pipes, Richard"]
+  title: The Russian Revolution
+  place: New York
+  publisher: Alfred A. Knopf
+  year: 1990
+- id: hildermeier-1989
+  kind: sekundaer
+  authors: ["Hildermeier, Manfred"]
+  title: Die Russische Revolution 1905–1921
+  place: Frankfurt am Main
+  publisher: Suhrkamp
+  year: 1989
+- id: rabinowitch-1976
+  kind: sekundaer
+  authors: ["Rabinowitch, Alexander"]
+  title: The Bolsheviks Come to Power
+  subtitle: The Revolution of 1917 in Petrograd
+  place: New York
+  publisher: W. W. Norton
+  year: 1976
+- id: q-aprilthesen
+  kind: primaer
+  authors: ["Lenin, Wladimir Iljitsch"]
+  title: Über die Aufgaben des Proletariats in der gegenwärtigen Revolution („Aprilthesen“)
+  written: April 1917
+  note: Programm, mit dem Lenin nach seiner Rückkehr aus dem Exil die Bolschewiki auf den Sturz der Provisorischen Regierung und „Alle Macht den Sowjets“ festlegte.
+- id: q-reed
+  kind: primaer
+  authors: ["Reed, John"]
+  title: Ten Days That Shook the World
+  place: New York
+  publisher: Boni & Liveright
+  year: 1919
+  note: Augenzeugenbericht eines amerikanischen Journalisten, der mit den Bolschewiki sympathisierte; lebendig, aber parteiisch.
+- id: q-friedensdekret
+  kind: primaer
+  title: Dekret über den Frieden
+  written: 8. November 1917 (26. Oktober nach altem Stil)
+  note: Erster Erlass der neuen Sowjetregierung, der allen Krieg führenden Staaten einen sofortigen Frieden ohne Annexionen und Kontributionen vorschlug.
+
+# --- Athenische Demokratie ---
+- id: bleicken-1995
+  kind: sekundaer
+  authors: ["Bleicken, Jochen"]
+  title: Die athenische Demokratie
+  edition: 4. Auflage
+  place: Paderborn
+  publisher: Schöningh (UTB)
+  year: 1995
+- id: hansen-1991
+  kind: sekundaer
+  authors: ["Hansen, Mogens Herman"]
+  title: The Athenian Democracy in the Age of Demosthenes
+  place: Oxford
+  publisher: Blackwell
+  year: 1991
+- id: ober-1989
+  kind: sekundaer
+  authors: ["Ober, Josiah"]
+  title: Mass and Elite in Democratic Athens
+  subtitle: Rhetoric, Ideology, and the Power of the People
+  place: Princeton
+  publisher: Princeton University Press
+  year: 1989
+- id: meier-1993
+  kind: sekundaer
+  authors: ["Meier, Christian"]
+  title: Athen
+  subtitle: Ein Neubeginn der Weltgeschichte
+  place: Berlin
+  publisher: Siedler
+  year: 1993
+- id: welwei-1999
+  kind: sekundaer
+  authors: ["Welwei, Karl-Wilhelm"]
+  title: Das klassische Athen
+  subtitle: Demokratie und Machtpolitik im 5. und 4. Jahrhundert
+  place: Darmstadt
+  publisher: Wissenschaftliche Buchgesellschaft
+  year: 1999
+- id: cartledge-2016
+  kind: sekundaer
+  authors: ["Cartledge, Paul"]
+  title: Democracy
+  subtitle: A Life
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2016
+- id: q-thukydides
+  kind: primaer
+  authors: ["Thukydides"]
+  title: Geschichte des Peloponnesischen Krieges
+  written: spätes 5. Jahrhundert v. Chr.
+  note: Darstellung des Krieges zwischen Athen und Sparta durch einen athenischen Strategen; enthält die Leichenrede des Perikles und den Melierdialog. Die Reden sind vom Autor gestaltet, nicht wörtlich überliefert.
+- id: q-athenaion-politeia
+  kind: primaer
+  authors: ["Aristoteles (Schule des Aristoteles)"]
+  title: Athenaion Politeia (Der Staat der Athener)
+  written: um 330–322 v. Chr.
+  note: Darstellung der Verfassungsgeschichte und der Institutionen Athens, fast vollständig erst 1890 auf einem Papyrus aus Ägypten wiederentdeckt.
+- id: q-pseudo-xenophon
+  kind: primaer
+  authors: ["Pseudo-Xenophon („Der Alte Oligarch“)"]
+  title: Athenaion Politeia (Die Verfassung der Athener)
+  written: wohl 420er Jahre v. Chr.
+  note: Kurze, kritische Schrift eines unbekannten Gegners der Demokratie, der dennoch erklärt, warum sie aus Sicht der einfachen Bürger folgerichtig funktioniere – das älteste erhaltene Prosawerk Athens.
+
+# --- Polynesien ---
+- id: kirch-2017
+  kind: sekundaer
+  authors: ["Kirch, Patrick Vinton"]
+  title: On the Road of the Winds
+  subtitle: An Archaeological History of the Pacific Islands before European Contact
+  edition: Überarbeitete und erweiterte Auflage
+  place: Oakland
+  publisher: University of California Press
+  year: 2017
+- id: wilmshurst-2011
+  kind: sekundaer
+  authors: ["Wilmshurst, Janet M.", "u. a."]
+  title: High-precision radiocarbon dating shows recent and rapid initial human colonization of East Polynesia
+  container: Proceedings of the National Academy of Sciences
+  volume: "108"
+  year: 2011
+  pages: 1815–1820
+- id: ioannidis-2020
+  kind: sekundaer
+  authors: ["Ioannidis, Alexander G.", "u. a."]
+  title: Native American gene flow into Polynesia predating Easter Island settlement
+  container: Nature
+  volume: "583"
+  year: 2020
+  pages: 572–577
+- id: skoglund-2016
+  kind: sekundaer
+  authors: ["Skoglund, Pontus", "u. a."]
+  title: Genomic insights into the peopling of the Southwest Pacific
+  container: Nature
+  volume: "538"
+  year: 2016
+  pages: 510–513
+- id: finney-1994
+  kind: sekundaer
+  authors: ["Finney, Ben"]
+  title: Voyage of Rediscovery
+  subtitle: A Cultural Odyssey through Polynesia
+  place: Berkeley
+  publisher: University of California Press
+  year: 1994
+- id: hunt-lipo-2011
+  kind: sekundaer
+  authors: ["Hunt, Terry", "Lipo, Carl"]
+  title: The Statues That Walked
+  subtitle: Unraveling the Mystery of Easter Island
+  place: New York
+  publisher: Free Press
+  year: 2011
+- id: diamond-2005
+  kind: sekundaer
+  authors: ["Diamond, Jared"]
+  title: Collapse
+  subtitle: How Societies Choose to Fail or Succeed
+  place: New York
+  publisher: Viking
+  year: 2005
+- id: salmond-2003
+  kind: sekundaer
+  authors: ["Salmond, Anne"]
+  title: The Trial of the Cannibal Dog
+  subtitle: Captain Cook in the South Seas
+  place: London
+  publisher: Allen Lane
+  year: 2003
+- id: q-cook-journals
+  kind: edition
+  editors: ["Beaglehole, J. C."]
+  title: The Journals of Captain James Cook on His Voyages of Discovery
+  place: Cambridge
+  publisher: Hakluyt Society
+  year: 1955–1967
+  note: Kritische Edition der Bordtagebücher Cooks und seiner Begleiter in vier Bänden.
+
+# --- Ruanda 1994 ---
+- id: des-forges-1999
+  kind: sekundaer
+  authors: ["Des Forges, Alison"]
+  title: "„Leave None to Tell the Story“"
+  subtitle: Genocide in Rwanda
+  place: New York
+  publisher: Human Rights Watch
+  year: 1999
+- id: prunier-1995
+  kind: sekundaer
+  authors: ["Prunier, Gérard"]
+  title: The Rwanda Crisis
+  subtitle: History of a Genocide
+  place: London
+  publisher: Hurst
+  year: 1995
+- id: mamdani-2001
+  kind: sekundaer
+  authors: ["Mamdani, Mahmood"]
+  title: When Victims Become Killers
+  subtitle: Colonialism, Nativism, and the Genocide in Rwanda
+  place: Princeton
+  publisher: Princeton University Press
+  year: 2001
+- id: straus-2006
+  kind: sekundaer
+  authors: ["Straus, Scott"]
+  title: The Order of Genocide
+  subtitle: Race, Power, and War in Rwanda
+  place: Ithaca
+  publisher: Cornell University Press
+  year: 2006
+- id: dallaire-2003
+  kind: sekundaer
+  authors: ["Dallaire, Roméo"]
+  title: Shake Hands with the Devil
+  subtitle: The Failure of Humanity in Rwanda
+  place: Toronto
+  publisher: Random House Canada
+  year: 2003
+  note: Erinnerungen des Kommandeurs der UN-Truppe in Ruanda.
+- id: hatzfeld-2003
+  kind: sekundaer
+  authors: ["Hatzfeld, Jean"]
+  title: Une saison de machettes
+  place: Paris
+  publisher: Seuil
+  year: 2003
+  note: Gespräche mit verurteilten Tätern aus der Region Nyamata; deutsch „Zeit der Macheten“ (2004).
+- id: q-un-bericht-1999
+  kind: primaer
+  title: Report of the Independent Inquiry into the Actions of the United Nations during the 1994 Genocide in Rwanda
+  written: 15. Dezember 1999 (UN-Dokument S/1999/1257)
+  note: Unabhängiger Untersuchungsbericht im Auftrag des UN-Generalsekretärs, der ein „grundlegendes Versagen“ der Vereinten Nationen feststellte.
+- id: q-ictr-akayesu
+  kind: primaer
+  title: Internationaler Strafgerichtshof für Ruanda – Urteil im Fall Jean-Paul Akayesu
+  written: 2. September 1998
+  note: Erste Verurteilung wegen Völkermordes durch ein internationales Gericht; das Urteil stellte erstmals fest, dass Vergewaltigung ein Mittel des Völkermords sein kann.
+- id: kigali-genocide-memorial
+  kind: institution
+  title: Kigali Genocide Memorial
+  url: https://kgm.rw/
+  note: Gedenkstätte in Kigali, in der über 250.000 Opfer bestattet sind, mit Ausstellung und Dokumentationszentrum.
+- id: duclert-2021
+  kind: primaer
+  authors: ["Commission de recherche sur les archives françaises relatives au Rwanda et au génocide des Tutsi (Vorsitz – Vincent Duclert)"]
+  title: La France, le Rwanda et le génocide des Tutsi (1990–1994)
+  subtitle: Rapport remis au Président de la République
+  place: Paris
+  publisher: Armand Colin
+  year: 2021
+  note: Bericht einer vom französischen Präsidenten eingesetzten Historikerkommission auf Grundlage französischer Regierungsarchive.

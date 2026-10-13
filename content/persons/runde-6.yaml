@@ -1,0 +1,249 @@
+# Personen: Russische Revolution
+- id: lenin
+  name: Wladimir Iljitsch Lenin
+  aliases: [Lenin, Uljanow, Vladimir Lenin]
+  born: "1870"
+  died: "1924-01-21"
+  roles: [Revolutionär, Regierungschef]
+  summary: Führer der Bolschewiki, der im Oktober 1917 die Macht übernahm, die Sowjetrepublik gründete und eine Einparteiendiktatur errichtete.
+  regions: [russland]
+  themes: [revolutionen, politik]
+  places: [leningrad, moskau, zuerich]
+- id: leo-trotzki
+  name: Leo Trotzki
+  aliases: [Lew Trozki, Leon Trotsky, Bronstein]
+  born: "1879"
+  died: "1940"
+  roles: [Revolutionär, Volkskommissar]
+  summary: Organisator des Oktoberaufstands und Gründer der Roten Armee; von Stalin entmachtet, ins Exil getrieben und 1940 in Mexiko ermordet.
+  regions: [russland]
+  themes: [revolutionen, krieg-militaer]
+  places: [leningrad]
+- id: alexander-kerenski
+  name: Alexander Kerenski
+  born: "1881"
+  died: "1970"
+  roles: [Politiker]
+  summary: Sozialrevolutionärer Anwalt, ab Juli 1917 Chef der Provisorischen Regierung, die im Oktober von den Bolschewiki gestürzt wurde.
+  regions: [russland]
+  themes: [politik]
+  places: [winterpalast]
+- id: alexandra-kollontai
+  name: Alexandra Kollontai
+  born: "1872"
+  died: "1952"
+  roles: [Revolutionärin, Diplomatin]
+  summary: Bolschewistische Politikerin, die als Volkskommissarin für soziale Fürsorge für Frauenrechte eintrat; später eine der ersten Botschafterinnen der Welt.
+  regions: [russland]
+  themes: [revolutionen, gesellschaft]
+- id: felix-dserschinski
+  name: Felix Dserschinski
+  aliases: [Feliks Dzierżyński]
+  born: "1877"
+  died: "1926"
+  roles: [Leiter der Geheimpolizei]
+  summary: Gründer und Leiter der Tscheka, der Geheimpolizei der Bolschewiki, die im Bürgerkrieg den „Roten Terror“ organisierte.
+  regions: [russland]
+  themes: [gewalt-genozid]
+- id: anton-denikin
+  name: Anton Denikin
+  born: "1872"
+  died: "1947"
+  roles: [General]
+  summary: Befehlshaber der antibolschewistischen „Weißen“ Armeen in Südrussland im Bürgerkrieg.
+  regions: [russland]
+  themes: [krieg-militaer]
+- id: john-reed
+  name: John Reed
+  born: "1887"
+  died: "1920"
+  roles: [Journalist]
+  summary: Amerikanischer Journalist, dessen Augenzeugenbericht „Zehn Tage, die die Welt erschütterten“ das westliche Bild der Oktoberrevolution prägte.
+  regions: [nordamerika, russland]
+  themes: [schrift-medien]
+  places: [leningrad]
+# Personen: Athen
+- id: solon
+  name: Solon
+  born: "~-640?"
+  died: "~-560?"
+  roles: [Gesetzgeber, Dichter]
+  certainty: unsicher
+  summary: Athenischer Staatsmann, der 594/93 v. Chr. die Schuldknechtschaft abschaffte und die Bürger nach Vermögen in Klassen einteilte.
+  regions: [griechenland]
+  themes: [verfassung-recht]
+  places: [athen]
+- id: kleisthenes
+  name: Kleisthenes
+  born: "~-570?"
+  died: "~-507?"
+  roles: [Staatsmann]
+  certainty: unsicher
+  summary: Athenischer Adliger, dessen Reformen 508/07 v. Chr. die Bürgerschaft neu gliederten und als Beginn der Demokratie gelten.
+  regions: [griechenland]
+  themes: [verfassung-recht, politik]
+  places: [athen]
+- id: themistokles
+  name: Themistokles
+  born: "~-524"
+  died: "~-459"
+  roles: [Stratege]
+  summary: Athenischer Politiker, der den Ausbau der Flotte betrieb und die Griechen 480 v. Chr. zum Sieg bei Salamis führte; später durch Ostrakismos verbannt.
+  regions: [griechenland]
+  themes: [krieg-militaer, politik]
+  places: [athen, salamis, piraeus]
+- id: perikles
+  name: Perikles
+  born: "~-495"
+  died: "-429"
+  roles: [Stratege, Politiker]
+  summary: Führender Politiker Athens um die Mitte des 5. Jahrhunderts v. Chr., unter dem Demokratie und Seeherrschaft ihren Höhepunkt erreichten und die Akropolis neu bebaut wurde.
+  regions: [griechenland]
+  themes: [politik]
+  places: [athen, akropolis, pnyx]
+  related: [aspasia]
+- id: aspasia
+  name: Aspasia
+  born: "~-470?"
+  died: "~-400?"
+  roles: [Gefährtin des Perikles]
+  certainty: unsicher
+  summary: Aus Milet stammende Lebensgefährtin des Perikles, der Zeitgenossen großen Einfluss und Bildung zuschrieben; als Fremde besaß sie kein Bürgerrecht.
+  regions: [griechenland]
+  themes: [gesellschaft]
+  places: [athen]
+- id: thukydides
+  name: Thukydides
+  born: "~-460"
+  died: "~-400"
+  roles: [Historiker, Stratege]
+  summary: Athenischer Stratege und Historiker, dessen Geschichte des Peloponnesischen Krieges als Begründung der kritischen Geschichtsschreibung gilt.
+  regions: [griechenland]
+  themes: [geschichtsschreibung]
+  places: [athen]
+- id: sokrates
+  name: Sokrates
+  born: "-469"
+  died: "-399"
+  roles: [Philosoph]
+  summary: Athenischer Philosoph, der nichts Schriftliches hinterließ und 399 v. Chr. wegen Gottlosigkeit und „Verderbens der Jugend“ zum Tode verurteilt wurde.
+  regions: [griechenland]
+  themes: [religion, gesellschaft]
+  places: [athen]
+- id: alkibiades
+  name: Alkibiades
+  born: "~-450"
+  died: "-404"
+  roles: [Stratege, Politiker]
+  summary: Glanzvoller und umstrittener Politiker, der die Sizilische Expedition betrieb und mehrfach die Seiten zwischen Athen, Sparta und Persien wechselte.
+  regions: [griechenland]
+  themes: [politik, krieg-militaer]
+  places: [athen, sparta, syrakus]
+- id: demosthenes
+  name: Demosthenes
+  born: "-384"
+  died: "-322"
+  roles: [Redner, Politiker]
+  summary: Berühmtester Redner Athens, der in seinen Reden gegen Philipp II. vor der Macht Makedoniens warnte.
+  regions: [griechenland]
+  themes: [politik]
+  places: [athen, chaironeia]
+- id: philipp-ii
+  name: Philipp II. von Makedonien
+  born: "-382"
+  died: "-336"
+  roles: [König]
+  summary: König von Makedonien und Vater Alexanders des Großen, der 338 v. Chr. bei Chaironeia die griechischen Poleis besiegte.
+  regions: [griechenland]
+  themes: [krieg-militaer, imperien]
+  places: [chaironeia]
+  related: [alexander-der-grosse]
+# Personen: Polynesien
+- id: tupaia
+  name: Tupaia
+  born: "~1725?"
+  died: "1770"
+  roles: [Priester, Navigator]
+  certainty: wahrscheinlich
+  summary: Priester und Navigator aus Raiatea, der James Cook 1769 begleitete und eine Karte von über 70 Inseln des Pazifiks zeichnete; er starb 1770 in Batavia.
+  regions: [ozeanien]
+  themes: [wissenschaft-technik]
+  places: [tahiti, taputapuatea, aotearoa]
+- id: james-cook
+  name: James Cook
+  born: "1728"
+  died: "1779-02-14"
+  roles: [Seefahrer, Kartograf]
+  summary: Britischer Marineoffizier, der auf drei Reisen von 1768 bis 1779 den Pazifik erkundete und kartierte; in Hawaiʻi getötet.
+  regions: [britische-inseln, ozeanien]
+  themes: [wissenschaft-technik, imperien]
+  places: [tahiti, aotearoa, hawaii, kealakekua]
+- id: jakob-roggeveen
+  name: Jakob Roggeveen
+  born: "1659"
+  died: "1729"
+  roles: [Seefahrer]
+  summary: Niederländischer Seefahrer, der am Ostersonntag 1722 als erster Europäer Rapa Nui erreichte und ihr den Namen „Osterinsel“ gab.
+  regions: [ozeanien]
+  places: [rapa-nui]
+- id: mau-piailug
+  name: Mau Piailug
+  born: "1932"
+  died: "2010"
+  roles: [Navigator]
+  summary: Navigator von der mikronesischen Insel Satawal, der 1976 das Doppelrumpfkanu Hōkūleʻa ohne Instrumente von Hawaiʻi nach Tahiti führte und die traditionelle Navigation weitergab.
+  regions: [ozeanien]
+  themes: [wissenschaft-technik]
+  places: [hawaii, tahiti]
+# Personen: Ruanda
+- id: juvenal-habyarimana
+  name: Juvénal Habyarimana
+  born: "1937"
+  died: "1994-04-06"
+  roles: [Präsident Ruandas]
+  summary: Präsident Ruandas von 1973 bis 1994, dessen Tod beim Abschuss seines Flugzeugs am 6. April 1994 den Völkermord auslöste.
+  regions: [ostafrika]
+  themes: [politik]
+  places: [kigali]
+- id: agathe-uwilingiyimana
+  name: Agathe Uwilingiyimana
+  born: "1953"
+  died: "1994-04-07"
+  roles: [Premierministerin]
+  summary: Erste Premierministerin Ruandas, eine Hutu und Befürworterin des Friedensabkommens, die am ersten Tag des Völkermords ermordet wurde.
+  regions: [ostafrika]
+  themes: [politik]
+  places: [kigali]
+- id: romeo-dallaire
+  name: Roméo Dallaire
+  born: "1946"
+  roles: [General]
+  summary: Kanadischer General und Kommandeur der UN-Mission in Ruanda, der im Januar 1994 vor den Mordplänen warnte und vergeblich um Verstärkung bat.
+  regions: [nordamerika, ostafrika]
+  themes: [krieg-militaer]
+  places: [kigali]
+- id: paul-kagame
+  name: Paul Kagame
+  born: "1957"
+  roles: [Militärführer, Präsident Ruandas]
+  summary: Befehlshaber der Ruandischen Patriotischen Front, die im Juli 1994 den Völkermord militärisch beendete; seit 2000 Präsident Ruandas, mit zunehmend autoritärer Herrschaft.
+  regions: [ostafrika]
+  themes: [politik, krieg-militaer]
+  places: [kigali]
+- id: theoneste-bagosora
+  name: Théoneste Bagosora
+  born: "1941"
+  died: "2021"
+  roles: [Offizier]
+  summary: Hoher Offizier im Verteidigungsministerium, der als eine treibende Kraft des Völkermords gilt; vom Internationalen Strafgerichtshof für Ruanda verurteilt.
+  regions: [ostafrika]
+  themes: [gewalt-genozid]
+  places: [kigali, arusha]
+- id: jean-paul-akayesu
+  name: Jean-Paul Akayesu
+  born: "1953"
+  roles: [Bürgermeister]
+  summary: Bürgermeister der Gemeinde Taba, 1998 als erster Mensch von einem internationalen Gericht wegen Völkermordes verurteilt.
+  regions: [ostafrika]
+  themes: [gewalt-genozid, verfassung-recht]
+  places: [arusha]

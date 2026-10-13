@@ -43,7 +43,7 @@ describe('Inhaltsbestand', () => {
   })
   it('deckt alle Weltregionen ab', () => {
     const regions = new Set(articles.flatMap((a) => a.regions))
-    for (const r of ['italien', 'mesopotamien', 'aegypten', 'nubien', 'westafrika', 'china', 'suedasien', 'iran', 'deutschland', 'frankreich', 'mesoamerika', 'andenraum', 'britische-inseln', 'suedliches-afrika', 'ostafrika', 'suedostasien', 'japan']) {
+    for (const r of ['italien', 'mesopotamien', 'aegypten', 'nubien', 'westafrika', 'china', 'suedasien', 'iran', 'deutschland', 'frankreich', 'mesoamerika', 'andenraum', 'britische-inseln', 'suedliches-afrika', 'ostafrika', 'suedostasien', 'japan', 'griechenland', 'russland', 'ozeanien']) {
       expect(regions.has(r), r).toBe(true)
     }
   })
@@ -90,6 +90,8 @@ describe('Suche', () => {
     expect(titles('Partition')).toContain('indien-1947')
     expect(titles('Mughal')).toContain('mogulreich')
     expect(titles('Libertador')).toContain('simon-bolivar')
+    expect(titles('Osterinsel')).toContain('rapa-nui')
+    expect(titles('Rwanda')).toContain('voelkermord-ruanda')
   })
   it('findet Volltext in neuen Artikeln', () => {
     expect(titles('Spinning Jenny').slice(0, 3)).toContain('spinning-jenny')
@@ -101,5 +103,7 @@ describe('Suche', () => {
     expect(titles('1962').slice(0, 10)).toContain('kubakrise')
     expect(titles('Opiumkrieg')).toContain('erster-opiumkrieg')
     expect(titles('Edo-Zeit')).toContain('tokugawa-japan')
+    expect(titles('Scherbengericht')).toContain('ostrakismos')
+    expect(titles('Bolschewiki').slice(0, 5)).toContain('bolschewiki')
   })
 })

@@ -1,0 +1,207 @@
+# Orte: Russische Revolution
+- id: winterpalast
+  name: Winterpalast
+  coords: [30.3146, 59.9398]
+  categories: [hauptstadt]
+  modernName: Eremitage, Sankt Petersburg
+  summary: Residenz der Zaren in Sankt Petersburg und 1917 Sitz der Provisorischen Regierung, deren Minister in der Nacht zum 8. November 1917 verhaftet wurden.
+  regions: [russland]
+  themes: [politik, revolutionen]
+- id: jekaterinburg
+  name: Jekaterinburg
+  coords: [60.6122, 56.8389]
+  categories: [stadt]
+  modernName: Jekaterinburg (Russland)
+  summary: Stadt im Ural, in der die Bolschewiki im Juli 1918 die Zarenfamilie ermordeten.
+  regions: [russland]
+- id: kronstadt
+  name: Kronstadt
+  coords: [29.7667, 59.9917]
+  categories: [stadt, hafen]
+  modernName: Kronstadt (Russland)
+  summary: Marinefestung vor Petrograd, deren Matrosen 1917 zu den Stützen der Bolschewiki gehörten und sich im März 1921 gegen sie erhoben.
+  regions: [russland]
+  themes: [revolutionen]
+# Orte: Athen
+- id: athen
+  name: Athen
+  aliases: [Athenai, Athens]
+  coords: [23.7275, 37.9838]
+  categories: [stadt, hauptstadt]
+  modernName: Athen (Griechenland)
+  summary: Polis in Attika, im 5. und 4. Jahrhundert v. Chr. die erste Demokratie der Geschichte und ein Zentrum von Philosophie, Theater und Kunst.
+  regions: [griechenland]
+  themes: [politik, kultur-kunst]
+- id: akropolis
+  name: Akropolis von Athen
+  coords: [23.7257, 37.9715]
+  categories: [heiligtum, fundstaette]
+  modernName: Athen (Griechenland)
+  summary: Burgberg Athens mit dem Parthenon und anderen Tempeln, die unter Perikles im 5. Jahrhundert v. Chr. errichtet wurden.
+  regions: [griechenland]
+  themes: [religion, kultur-kunst]
+- id: pnyx
+  name: Pnyx
+  coords: [23.7194, 37.9718]
+  categories: [fundstaette]
+  modernName: Athen (Griechenland)
+  summary: Hügel westlich der Akropolis, auf dem die Volksversammlung Athens tagte.
+  regions: [griechenland]
+  themes: [politik]
+- id: piraeus
+  name: Piräus
+  aliases: [Peiraieus]
+  coords: [23.6470, 37.9420]
+  categories: [stadt, hafen]
+  modernName: Piräus (Griechenland)
+  summary: Hafen Athens und Basis seiner Flotte, durch die Langen Mauern mit der Stadt verbunden.
+  regions: [griechenland]
+  themes: [handelsnetze]
+- id: sparta
+  name: Sparta
+  aliases: [Lakedaimon]
+  coords: [22.4297, 37.0755]
+  categories: [stadt]
+  modernName: Sparti (Griechenland)
+  summary: Polis auf der Peloponnes mit einer kleinen Kriegerelite, die über eine große unfreie Bevölkerung herrschte; Athens großer Rivale.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+- id: delos
+  name: Delos
+  coords: [25.2686, 37.3964]
+  categories: [heiligtum]
+  modernName: Kykladen (Griechenland)
+  summary: Insel mit einem Apollon-Heiligtum, ursprünglicher Sitz der Kasse des Attischen Seebundes, bevor diese 454 v. Chr. nach Athen verlegt wurde.
+  regions: [griechenland]
+- id: melos
+  name: Melos
+  coords: [24.4200, 36.6900]
+  categories: [stadt]
+  modernName: Milos (Griechenland)
+  summary: Kykladeninsel, deren Einwohner Athen 416 v. Chr. nach der Eroberung tötete oder versklavte.
+  regions: [griechenland]
+  themes: [gewalt-genozid]
+- id: chaironeia
+  name: Chaironeia
+  coords: [22.8436, 38.4956]
+  categories: [schlachtfeld]
+  modernName: Böotien (Griechenland)
+  summary: Ort in Böotien, an dem Philipp II. von Makedonien 338 v. Chr. Athen und Theben besiegte.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+# Orte: Polynesien
+- id: bismarck-archipel
+  name: Bismarck-Archipel
+  coords: [151.0000, -4.0000]
+  location: ungefaehr
+  categories: [region]
+  modernName: Papua-Neuguinea
+  summary: Inselgruppe nordöstlich von Neuguinea, in der um 1350 v. Chr. die Lapita-Kultur entstand.
+  regions: [ozeanien]
+- id: tonga
+  name: Tonga
+  coords: [-175.2000, -21.1800]
+  location: ungefaehr
+  categories: [region]
+  modernName: Königreich Tonga
+  summary: Inselgruppe im Westen Polynesiens, um 800 v. Chr. von Trägern der Lapita-Kultur besiedelt; später Zentrum eines weitreichenden Häuptlingstums.
+  regions: [ozeanien]
+- id: samoa
+  name: Samoa
+  coords: [-172.1000, -13.7600]
+  location: ungefaehr
+  categories: [region]
+  modernName: Samoa
+  summary: Inselgruppe im Westen Polynesiens, die gemeinsam mit Tonga als Ursprungsraum der polynesischen Kultur gilt.
+  regions: [ozeanien]
+- id: tahiti
+  name: Tahiti und die Gesellschaftsinseln
+  aliases: [Gesellschaftsinseln, Raiatea]
+  coords: [-149.4300, -17.6500]
+  location: ungefaehr
+  categories: [region]
+  modernName: Französisch-Polynesien
+  summary: Inselgruppe in Zentralpolynesien, um 1000 n. Chr. besiedelt und Ausgangspunkt der Fahrten nach Hawaiʻi, Rapa Nui und Aotearoa.
+  regions: [ozeanien]
+- id: taputapuatea
+  name: Taputapuātea
+  coords: [-151.3600, -16.8400]
+  categories: [heiligtum]
+  modernName: Raiatea (Französisch-Polynesien)
+  summary: Großes Heiligtum (marae) auf der Insel Raiatea, religiöses Zentrum Ostpolynesiens; seit 2017 UNESCO-Welterbe.
+  regions: [ozeanien]
+  themes: [religion]
+- id: hawaii
+  name: Hawaiʻi
+  aliases: [Hawaii, Sandwich-Inseln]
+  coords: [-155.5000, 19.6000]
+  location: ungefaehr
+  categories: [region]
+  modernName: Hawaii (USA)
+  summary: Inselgruppe im Norden Polynesiens, um 1000–1200 n. Chr. besiedelt; ab 1795 Königreich, 1898 von den USA annektiert.
+  regions: [ozeanien]
+- id: rapa-nui
+  name: Rapa Nui (Osterinsel)
+  aliases: [Osterinsel, Easter Island, Isla de Pascua]
+  coords: [-109.3500, -27.1200]
+  categories: [region, fundstaette]
+  modernName: Chile
+  summary: Abgelegenste bewohnte Insel Polynesiens, um 1200 n. Chr. besiedelt, berühmt für fast tausend Steinstatuen (moai).
+  regions: [ozeanien]
+  themes: [archaeologie]
+- id: aotearoa
+  name: Aotearoa (Neuseeland)
+  aliases: [Neuseeland, New Zealand]
+  coords: [174.0000, -41.0000]
+  location: ungefaehr
+  categories: [region]
+  modernName: Neuseeland
+  summary: Inselgruppe im Südwesten Polynesiens, um 1250–1300 n. Chr. als letzte große Landmasse der Erde von Menschen besiedelt.
+  regions: [ozeanien]
+- id: kealakekua
+  name: Kealakekua-Bucht
+  coords: [-155.9200, 19.4800]
+  categories: [hafen]
+  modernName: Hawaiʻi (Big Island)
+  summary: Bucht auf Hawaiʻi, in der James Cook am 14. Februar 1779 bei einer Auseinandersetzung mit Hawaiianern getötet wurde.
+  regions: [ozeanien]
+# Orte: Ruanda
+- id: kigali
+  name: Kigali
+  coords: [30.0619, -1.9441]
+  categories: [stadt, hauptstadt]
+  modernName: Kigali (Ruanda)
+  summary: Hauptstadt Ruandas; hier begannen am 7. April 1994 die Morde, und hier liegt heute die zentrale Gedenkstätte des Völkermords.
+  regions: [ostafrika]
+- id: nyamata
+  name: Nyamata
+  coords: [30.0900, -2.1500]
+  location: ungefaehr
+  categories: [heiligtum]
+  modernName: Bugesera (Ruanda)
+  summary: Ort südlich von Kigali, an dem im April 1994 Tausende Menschen in einer Kirche ermordet wurden, in der sie Zuflucht gesucht hatten; heute Gedenkstätte.
+  regions: [ostafrika]
+  themes: [gewalt-genozid]
+- id: murambi
+  name: Murambi
+  coords: [29.5500, -2.5000]
+  location: ungefaehr
+  categories: [fundstaette]
+  modernName: Nyamagabe (Ruanda)
+  summary: Ehemalige technische Schule, in der im April 1994 Zehntausende Tutsi ermordet wurden, nachdem man sie dorthin gelockt hatte; heute Gedenkstätte.
+  regions: [ostafrika]
+  themes: [gewalt-genozid]
+- id: goma
+  name: Goma
+  coords: [29.2228, -1.6792]
+  categories: [stadt]
+  modernName: Nord-Kivu (DR Kongo)
+  summary: Grenzstadt in Ostkongo, in die im Juli 1994 rund eine Million Menschen aus Ruanda flohen, darunter viele Täter.
+  regions: [zentralafrika]
+- id: arusha
+  name: Arusha
+  coords: [36.6830, -3.3869]
+  categories: [stadt]
+  modernName: Arusha (Tansania)
+  summary: Stadt in Tansania, in der 1993 das Friedensabkommen für Ruanda unterzeichnet wurde und ab 1995 der Internationale Strafgerichtshof für Ruanda tagte.
+  regions: [ostafrika]

@@ -13,3 +13,25 @@
   summary: Ursprünglich eine Herrschergruppe im Raum Cusco, später Bezeichnung für die Träger des Reiches Tawantinsuyu. Die Reichssprache Quechua wird heute von rund acht bis zehn Millionen Menschen gesprochen.
   regions: [andenraum]
   places: [cusco, machu-picchu]
+- id: lapita-kultur
+  name: Lapita-Kultur
+  aliases: [Lapita]
+  start: "~-1350"
+  end: "~-500"
+  summary: Kultur seefahrender Menschen mit typischer, mit Zahnstempeln verzierter Keramik, die ab etwa 1350 v. Chr. vom Bismarck-Archipel aus Inseln bis nach Fidschi, Tonga und Samoa besiedelte; Vorfahren der Polynesier.
+  regions: [ozeanien]
+  places: [bismarck-archipel, tonga, samoa]
+- id: polynesier
+  name: Polynesier
+  aliases: [Polynesische Kultur, Polynesien]
+  start: "~-800"
+  summary: Völker der Inseln im Dreieck zwischen Hawaiʻi, Rapa Nui und Aotearoa, mit eng verwandten Sprachen und Kulturen, hervorgegangen aus der Lapita-Kultur in Tonga und Samoa.
+  regions: [ozeanien]
+  places: [tonga, samoa, tahiti, hawaii, rapa-nui, aotearoa]
+- id: maori
+  name: Māori
+  aliases: [Maori]
+  start: "~1250"
+  summary: Indigene Bevölkerung Aotearoas (Neuseelands), Nachfahren polynesischer Seefahrer, die die Inseln im 13. Jahrhundert besiedelten.
+  regions: [ozeanien]
+  places: [aotearoa]

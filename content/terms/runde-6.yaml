@@ -1,0 +1,86 @@
+- id: bolschewiki
+  name: Bolschewiki
+  aliases: [Bolschewisten, Bolschewismus, Kommunistische Partei Russlands]
+  definition: „Mehrheitler“ – der radikale Flügel der russischen Sozialdemokratie unter Lenin, der 1917 die Macht übernahm und sich 1918 in Kommunistische Partei umbenannte.
+  themes: [politik, revolutionen]
+- id: sowjet
+  name: Sowjet
+  aliases: [Arbeiter- und Soldatenrat, Rat]
+  definition: „Rat“ – gewählte Versammlungen von Arbeitern, Soldaten und Bauern, die 1905 und 1917 entstanden; nach der Oktoberrevolution formal Träger der Staatsmacht, tatsächlich von der Partei kontrolliert.
+  themes: [politik, revolutionen]
+- id: doppelherrschaft
+  name: Doppelherrschaft
+  definition: Die Machtteilung zwischen der Provisorischen Regierung und dem Petrograder Sowjet zwischen Februar und Oktober 1917.
+  themes: [politik, revolutionen]
+- id: tscheka
+  name: Tscheka
+  aliases: [Außerordentliche Kommission, Geheimpolizei]
+  definition: Im Dezember 1917 gegründete Geheimpolizei der Bolschewiki zur Bekämpfung der „Konterrevolution“, die im Bürgerkrieg Zehntausende Menschen ohne Gerichtsverfahren erschoss; Vorläuferin von GPU, NKWD und KGB.
+  themes: [gewalt-genozid, politik]
+- id: kriegskommunismus
+  name: Kriegskommunismus
+  definition: Wirtschaftspolitik der Bolschewiki im Bürgerkrieg mit Verstaatlichung der Industrie, Verbot des Handels und Zwangsablieferung von Getreide durch die Bauern.
+  themes: [wirtschaft-handel, politik]
+- id: neue-oekonomische-politik
+  name: Neue Ökonomische Politik
+  aliases: [NEP, NÖP]
+  definition: Ab 1921 eingeführte Wirtschaftspolitik, die Bauern den Verkauf ihrer Überschüsse und kleinen Privathandel wieder erlaubte; 1928 von Stalin beendet.
+  themes: [wirtschaft-handel]
+- id: demokratie
+  name: Demokratie
+  aliases: [Volksherrschaft, Demokratia]
+  definition: „Herrschaft des Volkes“ – in Athen die unmittelbare Entscheidung der männlichen Bürger in der Volksversammlung und durch losbestimmte Ämter und Gerichte; moderne Demokratien sind überwiegend repräsentativ.
+  themes: [politik, verfassung-recht]
+- id: ostrakismos
+  name: Ostrakismos
+  aliases: [Scherbengericht]
+  definition: Verfahren in Athen, mit dem die Volksversammlung einen Bürger für zehn Jahre verbannen konnte, wenn mindestens 6.000 Stimmen auf Tonscherben (ostraka) abgegeben wurden.
+  themes: [politik, verfassung-recht]
+- id: losverfahren
+  name: Losverfahren
+  aliases: [Losung, Kleroterion]
+  definition: In Athen wurden die meisten Ämter, der Rat der 500 und die Geschworenengerichte durch das Los besetzt – nach damaligem Verständnis das eigentlich demokratische Verfahren, weil es allen Bürgern gleiche Chancen gab.
+  themes: [politik, verfassung-recht]
+- id: metoeken
+  name: Metöken
+  aliases: [Metoiken, Fremde]
+  definition: In Athen ansässige Fremde, die Steuern und Kriegsdienst leisteten, aber kein Bürgerrecht und keinen Landbesitz hatten.
+  themes: [gesellschaft]
+- id: austronesisch
+  name: Austronesische Sprachen
+  aliases: [Austronesier, Austronesisch]
+  definition: Sprachfamilie mit über 1.000 Sprachen von Madagaskar bis Rapa Nui, deren Ursprung die meisten Forschenden in Taiwan sehen; zu ihr gehören die polynesischen Sprachen.
+  themes: [migration, schrift-medien]
+- id: marae
+  name: Marae
+  aliases: [Malae, Meʻae]
+  definition: Zeremonieller Platz in Polynesien, oft mit Steinplattformen, auf dem religiöse und politische Versammlungen stattfanden; bei den Māori bis heute ein zentraler Gemeinschaftsort.
+  themes: [religion]
+- id: moai
+  name: Moai
+  definition: Die fast tausend aus Vulkangestein gehauenen Statuen auf Rapa Nui, die vergöttlichte Ahnen darstellen und meist mit dem Rücken zum Meer auf Plattformen standen.
+  themes: [kultur-kunst, religion]
+- id: polynesische-navigation
+  name: Polynesische Navigation
+  aliases: [Wegfindung, Wayfinding]
+  definition: Navigation ohne Instrumente nach Sternen, Sonne, Wellenmustern, Wind, Vögeln und Wolken, mit der Polynesier den Pazifik über Tausende Kilometer befuhren.
+  themes: [wissenschaft-technik]
+- id: hutu-tutsi
+  name: Hutu und Tutsi
+  aliases: [Hutu, Tutsi, Twa]
+  definition: Bevölkerungsgruppen in Ruanda und Burundi, die dieselbe Sprache und Religion teilten; die Unterscheidung war ursprünglich vor allem sozial und durchlässig, wurde aber unter der Kolonialherrschaft als „rassisch“ festgeschrieben.
+  themes: [gesellschaft]
+- id: hamitische-these
+  name: Hamitische These
+  aliases: [Hamitenthese]
+  definition: Rassistische Lehre europäischer Forscher des 19. Jahrhunderts, nach der „zivilisatorische“ Leistungen in Afrika von eingewanderten „Hamiten“ stammten; in Ruanda auf die Tutsi bezogen und später gegen sie gewendet.
+  themes: [geschichtsschreibung, gesellschaft]
+- id: interahamwe
+  name: Interahamwe
+  definition: „Die zusammen angreifen“ – Jugendmiliz der ruandischen Regierungspartei, die 1994 zusammen mit Armee und Behörden einen großen Teil der Morde verübte.
+  themes: [gewalt-genozid]
+- id: gacaca
+  name: Gacaca-Gerichte
+  aliases: [Gacaca]
+  definition: Gemeindegerichte in Ruanda, die zwischen 2005 und 2012 nach dem Vorbild traditioneller Schlichtung rund zwei Millionen Verfahren wegen des Völkermords verhandelten; gelobt für die Aufarbeitung, kritisiert wegen fehlender Rechtsgarantien.
+  themes: [verfassung-recht]

@@ -1,0 +1,19 @@
+- id: ozeanien-pazifik
+  title: Ozeanien und die Welt des Pazifiks
+  order: 5.5
+  start: "~-65000"
+  end: "~1800"
+  spanNote: Die Besiedlung Australiens begann nach heutigem Forschungsstand vor mindestens 50.000, möglicherweise 65.000 Jahren; die abgelegensten Inseln Polynesiens wurden erst um 1000–1300 n. Chr. erreicht. Das Ende markiert die beginnende europäische Kolonisierung.
+  regions: [ozeanien]
+  summary: Von der Besiedlung Australiens und Neuguineas über die Fahrten der Lapita-Kultur bis zur Entdeckung und Besiedlung der Inseln Polynesiens – eine Geschichte der Seefahrt über den größten Ozean der Erde.
+  body: |
+    Ozeanien umfasst Australien, Neuguinea und Tausende Inseln im Pazifik, die in Melanesien, Mikronesien und Polynesien gegliedert werden. Die Menschen, die diese Inseln besiedelten, gehörten zu den größten Seefahrern der Geschichte: Ohne Kompass und Metallwerkzeuge erreichten sie in Auslegerkanus und Doppelrumpfbooten Inseln, die Tausende Kilometer voneinander entfernt liegen.
+
+    Die Geschichte Ozeaniens ist vor allem aus Archäologie, Sprachwissenschaft, Genetik und mündlicher Überlieferung zu erschließen; schriftliche Quellen entstanden erst mit der Ankunft der Europäer.
+  planned:
+    - Die Besiedlung Australiens und die Kulturen der Aborigines
+    - Rapa Nui (Osterinsel)
+    - Die Māori in Aotearoa (Neuseeland)
+    - Das Königreich Hawaiʻi
+    - James Cook im Pazifik
+    - Die Kolonisierung Australiens

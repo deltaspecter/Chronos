@@ -1,0 +1,94 @@
+- id: russische-republik-1917
+  name: Russische Republik (Provisorische Regierung)
+  aliases: [Provisorische Regierung, Russische Republik]
+  start: "1917-03-15"
+  end: "1917-11-07"
+  summary: Nach der Abdankung des Zaren gebildete Übergangsregierung, die mit dem Petrograder Sowjet um die Macht rang und im Oktober 1917 von den Bolschewiki gestürzt wurde.
+  regions: [russland]
+  themes: [politik, revolutionen]
+  predecessors: [russisches-kaiserreich]
+  successors: [sowjetrussland]
+  weight: 3
+- id: sowjetrussland
+  name: Sowjetrussland (RSFSR)
+  aliases: [RSFSR, Russische Sozialistische Föderative Sowjetrepublik]
+  start: "1917-11-07"
+  end: "1922-12-30"
+  spanNote: Die RSFSR bestand als Teilrepublik der Sowjetunion bis 1991 fort.
+  capital: moskau
+  summary: Der von den Bolschewiki nach der Oktoberrevolution errichtete Staat, ab 1918 mit Hauptstadt Moskau, Vorläufer der Sowjetunion.
+  regions: [russland]
+  themes: [revolutionen, politik]
+  predecessors: [russische-republik-1917]
+  successors: [sowjetunion]
+  weight: 2
+- id: athen-polis
+  name: Athen (Polis)
+  aliases: [Athenische Demokratie, Athen]
+  start: "~-700"
+  end: "-322"
+  spanNote: Als demokratische Polis von 508/07 bis 322 v. Chr., unterbrochen 411 und 404/03 v. Chr.
+  capital: athen
+  summary: Stadtstaat in Attika, der mit den Reformen des Kleisthenes zur ersten Demokratie der Geschichte wurde und im 5. Jahrhundert v. Chr. ein Seereich beherrschte.
+  regions: [griechenland]
+  themes: [politik, verfassung-recht]
+  weight: 1
+- id: sparta-polis
+  name: Sparta (Polis)
+  aliases: [Lakedaimon, Sparta]
+  start: "~-800"
+  end: "-146"
+  capital: sparta
+  summary: Stadtstaat auf der Peloponnes mit einer kleinen Bürgerschaft von Vollbürgern (Spartiaten), die über unfreie Heloten herrschten; Führungsmacht des Peloponnesischen Bundes.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+  weight: 2
+- id: attischer-seebund
+  name: Attischer Seebund
+  aliases: [Delisch-Attischer Seebund, Delischer Bund]
+  start: "-478"
+  end: "-404"
+  summary: Nach den Perserkriegen unter Führung Athens gegründetes Bündnis griechischer Städte, das Athen zunehmend als eigenes Herrschaftsgebiet behandelte.
+  regions: [griechenland, mittelmeer]
+  themes: [imperien]
+  weight: 2
+- id: makedonien
+  name: Königreich Makedonien
+  aliases: [Makedonien, Makedonen]
+  start: "~-700"
+  end: "-168"
+  summary: Königreich im Norden Griechenlands, das unter Philipp II. die Vorherrschaft über die griechischen Poleis gewann; Ausgangspunkt der Eroberungen Alexanders des Großen.
+  regions: [griechenland, suedosteuropa]
+  themes: [imperien]
+  successors: [alexanderreich]
+  weight: 2
+- id: koenigreich-hawaii
+  name: Königreich Hawaiʻi
+  aliases: [Hawaii (Königreich)]
+  start: "1795"
+  end: "1893"
+  spanNote: Ab 1795 unter Kamehameha I. geeint (ab 1810 alle Inseln); 1893 stürzten amerikanische Siedler und Geschäftsleute die Königin Liliʻuokalani, 1898 annektierten die USA die Inseln.
+  summary: Polynesisches Königreich auf den Hawaiʻi-Inseln, das internationale Anerkennung genoss, bis es von amerikanischen Interessen gestürzt wurde.
+  regions: [ozeanien]
+  themes: [politik]
+  weight: 3
+- id: ruanda
+  name: Ruanda
+  aliases: [Rwanda, Republik Ruanda]
+  start: "1962-07-01"
+  capital: kigali
+  summary: Staat in Ostafrika, bis 1962 als Teil von Ruanda-Urundi unter belgischer Verwaltung; 1994 Schauplatz des Völkermords an den Tutsi.
+  regions: [ostafrika]
+  themes: [politik]
+  predecessors: [ruanda-urundi]
+  weight: 2
+- id: ruanda-urundi
+  name: Ruanda-Urundi
+  start: "1922"
+  end: "1962"
+  spanNote: Bis 1916 Teil von Deutsch-Ostafrika, danach unter belgischer Besatzung, ab 1922 Mandatsgebiet des Völkerbundes und ab 1946 Treuhandgebiet der UNO.
+  summary: Belgisch verwaltetes Gebiet, aus dem 1962 die Staaten Ruanda und Burundi hervorgingen.
+  regions: [ostafrika]
+  themes: [imperien]
+  successors: [ruanda]
+  weight: 3

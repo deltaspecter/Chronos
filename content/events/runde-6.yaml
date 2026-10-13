@@ -1,0 +1,524 @@
+# --- Russische Revolution ---
+- id: petersburger-blutsonntag
+  title: Petersburger Blutsonntag
+  date: "1905-01-22"
+  dateNote: Nach dem damals in Russland gültigen julianischen Kalender am 9. Januar 1905.
+  weight: 3
+  kind: ereignis
+  summary: Soldaten schießen in Sankt Petersburg auf einen friedlichen Demonstrationszug, der dem Zaren eine Bittschrift überbringen will; Hunderte sterben, die Revolution von 1905 beginnt.
+  regions: [russland]
+  themes: [revolutionen, gewalt-genozid]
+  places: [winterpalast, leningrad]
+  persons: [nikolaus-ii]
+  polities: [russisches-kaiserreich]
+- id: februarrevolution
+  title: Februarrevolution
+  start: "1917-03-08"
+  end: "1917-03-15"
+  dateNote: Nach altem Stil 23. Februar bis 2. März 1917.
+  weight: 1
+  kind: revolution
+  summary: Aus Protesten von Arbeiterinnen am Internationalen Frauentag entwickelt sich in Petrograd ein Aufstand; die Garnison läuft über, Zar Nikolaus II. dankt ab.
+  regions: [russland]
+  themes: [revolutionen]
+  places: [leningrad]
+  persons: [nikolaus-ii]
+  polities: [russisches-kaiserreich, russische-republik-1917]
+- id: lenins-rueckkehr
+  title: Lenins Rückkehr nach Petrograd
+  date: "1917-04-16"
+  weight: 3
+  kind: ereignis
+  summary: Mit Hilfe der deutschen Regierung reist Lenin aus der Schweiz in einem Sonderzug nach Russland und verkündet seine „Aprilthesen“.
+  regions: [russland]
+  themes: [revolutionen]
+  places: [leningrad, zuerich]
+  persons: [lenin]
+- id: kornilow-affaere
+  title: Kornilow-Affäre
+  date: "1917-09"
+  weight: 3
+  kind: ereignis
+  summary: Ein gescheiterter Versuch des Oberbefehlshabers Kornilow, in Petrograd „Ordnung“ zu schaffen, schwächt die Provisorische Regierung und stärkt die Bolschewiki.
+  regions: [russland]
+  themes: [politik]
+  places: [leningrad]
+  persons: [alexander-kerenski]
+  polities: [russische-republik-1917]
+- id: gruendung-der-tscheka
+  title: Gründung der Tscheka
+  date: "1917-12-20"
+  weight: 3
+  kind: gruendung
+  summary: Die Sowjetregierung schafft eine Geheimpolizei unter Felix Dserschinski zur Bekämpfung von „Konterrevolution und Sabotage“.
+  regions: [russland]
+  themes: [gewalt-genozid, politik]
+  persons: [felix-dserschinski, lenin]
+  polities: [sowjetrussland]
+- id: aufloesung-konstituante
+  title: Auflösung der Verfassunggebenden Versammlung
+  date: "1918-01-19"
+  dateNote: Nach altem Stil 6. Januar 1918.
+  weight: 2
+  kind: ereignis
+  summary: Die frei gewählte Versammlung, in der die Bolschewiki nur etwa ein Viertel der Sitze haben, wird nach ihrer ersten Sitzung aufgelöst.
+  regions: [russland]
+  themes: [politik, revolutionen]
+  places: [leningrad]
+  persons: [lenin]
+  polities: [sowjetrussland]
+- id: ermordung-der-zarenfamilie
+  title: Ermordung der Zarenfamilie
+  date: "1918-07-17"
+  weight: 3
+  kind: ereignis
+  summary: In Jekaterinburg erschießen Bolschewiki den ehemaligen Zaren Nikolaus II., seine Frau, ihre fünf Kinder und vier Bedienstete.
+  regions: [russland]
+  themes: [gewalt-genozid]
+  places: [jekaterinburg]
+  persons: [nikolaus-ii]
+  polities: [sowjetrussland]
+- id: russischer-buergerkrieg
+  title: Russischer Bürgerkrieg
+  start: "1918"
+  end: "1922"
+  weight: 1
+  kind: krieg
+  summary: Die Rote Armee kämpft gegen „Weiße“ Armeen, nationale Bewegungen, Bauernaufstände und ausländische Interventionstruppen; Krieg, Terror, Pogrome, Hunger und Seuchen fordern Millionen Tote.
+  regions: [russland, osteuropa]
+  themes: [krieg-militaer, gewalt-genozid]
+  persons: [leo-trotzki, anton-denikin, lenin]
+  polities: [sowjetrussland]
+- id: kronstadter-aufstand
+  title: Kronstädter Aufstand
+  date: "1921-03"
+  weight: 3
+  kind: revolution
+  summary: Die Matrosen von Kronstadt fordern freie Sowjetwahlen und Meinungsfreiheit; die Rote Armee schlägt den Aufstand blutig nieder.
+  regions: [russland]
+  themes: [revolutionen]
+  places: [kronstadt]
+  persons: [leo-trotzki]
+  polities: [sowjetrussland]
+- id: einfuehrung-nep
+  title: Einführung der Neuen Ökonomischen Politik
+  date: "1921-03"
+  weight: 3
+  kind: gesetz
+  summary: Nach Aufständen und Hunger lässt Lenin wieder privaten Handel mit landwirtschaftlichen Überschüssen zu.
+  regions: [russland]
+  themes: [wirtschaft-handel]
+  persons: [lenin]
+  polities: [sowjetrussland]
+- id: hungersnot-1921
+  title: Hungersnot im Wolgagebiet
+  start: "1921"
+  end: "1922"
+  weight: 3
+  kind: katastrophe
+  summary: Nach Bürgerkrieg, Getreiderequirierungen und Dürre sterben schätzungsweise fünf Millionen Menschen; internationale Hilfsorganisationen versorgen Millionen.
+  regions: [russland]
+  themes: [umwelt-klima, gesellschaft]
+  polities: [sowjetrussland]
+- id: gruendung-der-sowjetunion
+  title: Gründung der Sowjetunion
+  date: "1922-12-30"
+  weight: 2
+  kind: gruendung
+  summary: Sowjetrussland, die Ukraine, Belarus und die Transkaukasische Föderation schließen sich zur Union der Sozialistischen Sowjetrepubliken zusammen.
+  regions: [russland, osteuropa]
+  themes: [politik]
+  places: [moskau]
+  polities: [sowjetrussland, sowjetunion]
+- id: tod-lenins
+  title: Tod Lenins
+  date: "1924-01-21"
+  weight: 3
+  kind: ereignis
+  summary: Lenin stirbt nach mehreren Schlaganfällen; sein Leichnam wird einbalsamiert und in einem Mausoleum ausgestellt. Im Machtkampf setzt sich Stalin durch.
+  regions: [russland]
+  themes: [politik]
+  places: [moskau]
+  persons: [lenin, josef-stalin, leo-trotzki]
+  polities: [sowjetunion]
+
+# --- Athen ---
+- id: solons-reformen
+  title: Reformen Solons
+  date: "-594"
+  certainty: wahrscheinlich
+  weight: 3
+  kind: gesetz
+  summary: Solon hebt die Schuldknechtschaft auf, teilt die Bürger nach Vermögen in vier Klassen und schafft ein Volksgericht.
+  regions: [griechenland]
+  themes: [verfassung-recht]
+  places: [athen]
+  persons: [solon]
+  polities: [athen-polis]
+- id: reformen-des-kleisthenes
+  title: Reformen des Kleisthenes
+  date: "-508"
+  weight: 1
+  kind: gesetz
+  summary: Kleisthenes gliedert die Bürgerschaft in zehn neue Phylen aus Gemeinden aller Landesteile und schafft einen Rat der 500 – Beginn der Demokratie.
+  regions: [griechenland]
+  themes: [verfassung-recht, politik]
+  places: [athen]
+  persons: [kleisthenes]
+  polities: [athen-polis]
+- id: gruendung-attischer-seebund
+  title: Gründung des Attischen Seebundes
+  date: "-478"
+  weight: 3
+  kind: gruendung
+  summary: Griechische Inseln und Küstenstädte schließen sich unter Führung Athens zur Fortsetzung des Kampfes gegen Persien zusammen; die Kasse liegt auf Delos.
+  regions: [griechenland, mittelmeer]
+  themes: [imperien]
+  places: [delos]
+  polities: [attischer-seebund, athen-polis]
+- id: reform-des-ephialtes
+  title: Reform des Ephialtes
+  date: "-462"
+  weight: 3
+  kind: gesetz
+  summary: Der Adelsrat auf dem Areopag verliert seine politischen Befugnisse an Volksversammlung, Rat und Volksgerichte.
+  regions: [griechenland]
+  themes: [verfassung-recht]
+  places: [athen]
+  polities: [athen-polis]
+- id: buergerrechtsgesetz-451
+  title: Bürgerrechtsgesetz des Perikles
+  date: "-451"
+  weight: 3
+  kind: gesetz
+  summary: Bürger Athens ist fortan nur, wessen Vater und Mutter beide Athener sind.
+  regions: [griechenland]
+  themes: [verfassung-recht, gesellschaft]
+  places: [athen]
+  persons: [perikles]
+  polities: [athen-polis]
+- id: bau-des-parthenon
+  title: Bau des Parthenon
+  start: "-447"
+  end: "-432"
+  weight: 3
+  kind: entwicklung
+  summary: Auf der Akropolis entsteht der Tempel der Athena Parthenos, finanziert auch aus den Beiträgen der Bundesgenossen.
+  regions: [griechenland]
+  themes: [kultur-kunst, religion]
+  places: [akropolis]
+  persons: [perikles]
+  polities: [athen-polis]
+- id: peloponnesischer-krieg
+  title: Peloponnesischer Krieg
+  start: "-431"
+  end: "-404"
+  weight: 1
+  kind: krieg
+  summary: Athen und sein Seebund kämpfen gegen Sparta und dessen Verbündete; der Krieg endet mit der Kapitulation Athens.
+  regions: [griechenland, mittelmeer]
+  themes: [krieg-militaer]
+  places: [athen, sparta, piraeus]
+  persons: [perikles, thukydides, alkibiades]
+  polities: [athen-polis, sparta-polis, attischer-seebund]
+- id: pest-in-athen
+  title: Seuche in Athen
+  start: "-430"
+  end: "-426"
+  weight: 3
+  kind: katastrophe
+  summary: In der überfüllten Stadt bricht eine Seuche aus, die einen großen Teil der Bevölkerung tötet, darunter 429 v. Chr. Perikles.
+  regions: [griechenland]
+  themes: [umwelt-klima, gesellschaft]
+  places: [athen]
+  persons: [perikles, thukydides]
+  polities: [athen-polis]
+- id: eroberung-von-melos
+  title: Eroberung von Melos
+  date: "-416"
+  weight: 3
+  kind: krieg
+  summary: Athen erobert die neutrale Insel Melos, tötet die Männer und versklavt Frauen und Kinder; Thukydides gestaltet die Verhandlungen zuvor als „Melierdialog“ über Macht und Recht.
+  regions: [griechenland]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [melos]
+  polities: [athen-polis]
+- id: sizilische-expedition
+  title: Sizilische Expedition
+  start: "-415"
+  end: "-413"
+  weight: 3
+  kind: krieg
+  summary: Athen greift Syrakus an; die gewaltige Flotte und das Heer werden vollständig vernichtet.
+  regions: [italien, griechenland]
+  themes: [krieg-militaer]
+  places: [syrakus]
+  persons: [alkibiades]
+  polities: [athen-polis]
+- id: dreissig-tyrannen
+  title: Herrschaft der Dreißig
+  start: "-404"
+  end: "-403"
+  weight: 3
+  kind: herrschaft
+  summary: Nach der Niederlage setzt Sparta in Athen eine oligarchische Regierung ein, die Hunderte Gegner hinrichten lässt; 403 wird die Demokratie wiederhergestellt.
+  regions: [griechenland]
+  themes: [politik, gewalt-genozid]
+  places: [athen]
+  polities: [athen-polis, sparta-polis]
+- id: prozess-des-sokrates
+  title: Prozess gegen Sokrates
+  date: "-399"
+  weight: 2
+  kind: ereignis
+  summary: Ein Geschworenengericht von 500 Bürgern verurteilt Sokrates wegen Gottlosigkeit und Verderbens der Jugend zum Tod durch den Schierlingsbecher.
+  regions: [griechenland]
+  themes: [religion, verfassung-recht]
+  places: [athen]
+  persons: [sokrates]
+  polities: [athen-polis]
+- id: schlacht-bei-chaironeia
+  title: Schlacht bei Chaironeia
+  date: "-338"
+  weight: 2
+  kind: schlacht
+  summary: Philipp II. von Makedonien besiegt Athen und Theben; die griechischen Poleis geraten unter makedonische Vorherrschaft.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+  places: [chaironeia]
+  persons: [philipp-ii, demosthenes]
+  polities: [makedonien, athen-polis]
+- id: ende-athenische-demokratie
+  title: Ende der athenischen Demokratie
+  date: "-322"
+  weight: 3
+  kind: herrschaft
+  summary: Nach einem gescheiterten Aufstand gegen Makedonien wird die Demokratie abgeschafft; nur noch wohlhabende Bürger besitzen politische Rechte.
+  regions: [griechenland]
+  themes: [politik]
+  places: [athen]
+  persons: [demosthenes]
+  polities: [athen-polis, makedonien]
+
+# --- Polynesien ---
+- id: lapita-ausbreitung
+  title: Ausbreitung der Lapita-Kultur
+  start: "~-1350"
+  end: "~-800"
+  certainty: wahrscheinlich
+  weight: 2
+  kind: entwicklung
+  summary: Seefahrer der Lapita-Kultur besiedeln vom Bismarck-Archipel aus in wenigen Jahrhunderten die Inseln Melanesiens bis nach Fidschi, Tonga und Samoa.
+  regions: [ozeanien]
+  themes: [migration]
+  places: [bismarck-archipel, tonga, samoa]
+- id: besiedlung-ostpolynesiens
+  title: Besiedlung Ostpolynesiens
+  start: "~1025"
+  end: "~1290"
+  certainty: wahrscheinlich
+  dateNote: Nach hochpräzisen Radiokarbondaten; ältere Schätzungen setzten die Besiedlung deutlich früher an.
+  weight: 2
+  kind: entwicklung
+  summary: Nach einer langen Pause von fast zwei Jahrtausenden erreichen Polynesier in wenigen Jahrhunderten die Gesellschaftsinseln, Hawaiʻi, Rapa Nui und zuletzt Aotearoa.
+  regions: [ozeanien]
+  themes: [migration]
+  places: [tahiti, hawaii, rapa-nui, aotearoa]
+- id: kontakt-mit-suedamerika
+  title: Kontakt zwischen Polynesiern und Südamerika
+  start: "~1150"
+  end: "~1230"
+  certainty: wahrscheinlich
+  weight: 3
+  kind: ereignis
+  summary: Genetische Spuren und die Süßkartoffel belegen einen Kontakt zwischen Polynesiern und Menschen aus Südamerika, lange vor Kolumbus.
+  regions: [ozeanien, suedamerika]
+  themes: [migration, landwirtschaft]
+- id: besiedlung-aotearoas
+  title: Besiedlung Aotearoas (Neuseelands)
+  date: "~1280"
+  certainty: wahrscheinlich
+  weight: 2
+  kind: entwicklung
+  summary: Polynesische Seefahrer erreichen Aotearoa, die letzte große Landmasse der Erde, die Menschen besiedelten; innerhalb von etwa zwei Jahrhunderten sterben die flugunfähigen Moa-Vögel aus.
+  regions: [ozeanien]
+  themes: [migration, umwelt-klima]
+  places: [aotearoa]
+- id: roggeveen-auf-rapa-nui
+  title: Erste Europäer auf Rapa Nui
+  date: "1722-04-05"
+  weight: 3
+  kind: ereignis
+  summary: Der Niederländer Jakob Roggeveen erreicht am Ostersonntag die Insel und nennt sie Osterinsel.
+  regions: [ozeanien]
+  themes: [handelsnetze]
+  places: [rapa-nui]
+  persons: [jakob-roggeveen]
+- id: cooks-erste-reise
+  title: Cooks erste Pazifikreise
+  start: "1768"
+  end: "1771"
+  weight: 3
+  kind: ereignis
+  summary: James Cook beobachtet in Tahiti den Venusdurchgang, umsegelt Aotearoa und kartiert die Ostküste Australiens; der Navigator Tupaia aus Raiatea begleitet ihn.
+  regions: [ozeanien]
+  themes: [wissenschaft-technik, imperien]
+  places: [tahiti, aotearoa]
+  persons: [james-cook, tupaia]
+- id: tod-von-james-cook
+  title: Tod von James Cook
+  date: "1779-02-14"
+  weight: 3
+  kind: ereignis
+  summary: Bei einem Konflikt um ein gestohlenes Boot wird Cook in der Kealakekua-Bucht auf Hawaiʻi getötet.
+  regions: [ozeanien]
+  themes: [imperien]
+  places: [kealakekua, hawaii]
+  persons: [james-cook]
+- id: sklavenjagd-auf-rapa-nui
+  title: Sklavenjagd auf Rapa Nui
+  start: "1862"
+  end: "1863"
+  weight: 3
+  kind: ereignis
+  summary: Peruanische Sklavenhändler verschleppen rund 1.500 Menschen von Rapa Nui; eingeschleppte Pocken töten viele Zurückkehrende und Gebliebene, bis 1877 leben nur noch etwa hundert Menschen auf der Insel.
+  regions: [ozeanien, suedamerika]
+  themes: [sklaverei-unfreiheit, gewalt-genozid]
+  places: [rapa-nui]
+- id: fahrt-der-hokulea
+  title: Fahrt der Hōkūleʻa
+  date: "1976"
+  weight: 3
+  kind: ereignis
+  summary: Das nachgebaute Doppelrumpfkanu Hōkūleʻa segelt unter der Führung des Navigators Mau Piailug ohne Instrumente von Hawaiʻi nach Tahiti und belegt die Möglichkeit gezielter polynesischer Fernfahrten.
+  regions: [ozeanien]
+  themes: [wissenschaft-technik]
+  places: [hawaii, tahiti]
+  persons: [mau-piailug]
+
+# --- Ruanda ---
+- id: ethnische-ausweise-ruanda
+  title: Einführung ethnischer Ausweise in Ruanda
+  start: "1933"
+  end: "1934"
+  weight: 3
+  kind: gesetz
+  summary: Die belgische Kolonialverwaltung führt Ausweise ein, die jeden Menschen als Hutu, Tutsi oder Twa ausweisen; die Einteilung wird erblich festgeschrieben.
+  regions: [ostafrika]
+  themes: [gesellschaft, imperien]
+  polities: [ruanda-urundi]
+- id: hutu-revolution-1959
+  title: „Hutu-Revolution“
+  start: "1959"
+  end: "1962"
+  weight: 3
+  kind: revolution
+  summary: Mit Unterstützung der Kolonialmacht übernehmen Hutu-Parteien die Macht; in Gewaltwellen fliehen Zehntausende Tutsi in die Nachbarländer.
+  regions: [ostafrika]
+  themes: [revolutionen, gewalt-genozid]
+  polities: [ruanda-urundi]
+- id: unabhaengigkeit-ruandas
+  title: Unabhängigkeit Ruandas
+  date: "1962-07-01"
+  weight: 3
+  kind: gruendung
+  summary: Ruanda wird als Republik unabhängig.
+  regions: [ostafrika]
+  themes: [politik]
+  polities: [ruanda, ruanda-urundi]
+- id: rpf-angriff-1990
+  title: Angriff der Ruandischen Patriotischen Front
+  date: "1990-10-01"
+  weight: 3
+  kind: krieg
+  summary: Die von Tutsi-Flüchtlingen in Uganda gegründete RPF greift Ruanda an; ein Bürgerkrieg beginnt.
+  regions: [ostafrika]
+  themes: [krieg-militaer]
+  persons: [paul-kagame]
+  polities: [ruanda]
+- id: abkommen-von-arusha
+  title: Friedensabkommen von Arusha
+  date: "1993-08-04"
+  weight: 3
+  kind: vertrag
+  summary: Regierung und RPF vereinbaren eine Machtteilung; eine UN-Mission soll die Umsetzung überwachen.
+  regions: [ostafrika]
+  themes: [politik]
+  places: [arusha]
+  persons: [juvenal-habyarimana]
+  polities: [ruanda, vereinte-nationen]
+- id: warnung-dallaires
+  title: Dallaires Warnung an die UNO
+  date: "1994-01-11"
+  weight: 3
+  kind: ereignis
+  summary: Der UN-Kommandeur meldet nach New York, ein Informant habe von Plänen zur Vernichtung der Tutsi und von Waffenlagern berichtet; die Zentrale untersagt ein Eingreifen.
+  regions: [ostafrika]
+  themes: [politik]
+  places: [kigali]
+  persons: [romeo-dallaire]
+  polities: [vereinte-nationen]
+- id: abschuss-habyarimana
+  title: Abschuss des Präsidentenflugzeugs
+  date: "1994-04-06"
+  weight: 2
+  kind: ereignis
+  summary: Beim Landeanflug auf Kigali wird das Flugzeug von Präsident Habyarimana abgeschossen; alle Insassen, darunter der Präsident Burundis, sterben. Die Urheber sind bis heute umstritten.
+  regions: [ostafrika]
+  themes: [politik]
+  places: [kigali]
+  persons: [juvenal-habyarimana]
+  polities: [ruanda]
+- id: voelkermord-ruanda
+  title: Völkermord an den Tutsi in Ruanda
+  start: "1994-04-07"
+  end: "1994-07-17"
+  weight: 1
+  kind: ereignis
+  summary: In rund hundert Tagen ermorden Armee, Milizen und Zivilisten Hunderttausende Tutsi sowie Hutu, die sich dem Morden widersetzen; Hunderttausende Frauen werden vergewaltigt.
+  regions: [ostafrika]
+  themes: [gewalt-genozid]
+  places: [kigali, nyamata, murambi]
+  persons: [theoneste-bagosora, agathe-uwilingiyimana]
+  polities: [ruanda]
+- id: abzug-unamir
+  title: UN-Sicherheitsrat reduziert die Friedenstruppe
+  date: "1994-04-21"
+  weight: 3
+  kind: ereignis
+  summary: Nach der Ermordung von zehn belgischen Blauhelmen beschließt der Sicherheitsrat, die UN-Mission auf 270 Soldaten zu verkleinern.
+  regions: [ostafrika]
+  themes: [politik]
+  persons: [romeo-dallaire]
+  polities: [vereinte-nationen]
+- id: rpf-erobert-kigali
+  title: Die RPF erobert Kigali
+  date: "1994-07-04"
+  weight: 3
+  kind: krieg
+  summary: Die Ruandische Patriotische Front nimmt die Hauptstadt ein und beendet bis Mitte Juli den Völkermord; rund zwei Millionen Hutu, darunter viele Täter, fliehen in die Nachbarländer.
+  regions: [ostafrika]
+  themes: [krieg-militaer, migration]
+  places: [kigali, goma]
+  persons: [paul-kagame]
+  polities: [ruanda]
+- id: gruendung-ictr
+  title: Gründung des Strafgerichtshofs für Ruanda
+  date: "1994-11-08"
+  weight: 3
+  kind: gruendung
+  summary: Der UN-Sicherheitsrat errichtet einen internationalen Strafgerichtshof mit Sitz in Arusha, der bis 2015 Verantwortliche des Völkermords verurteilt.
+  regions: [ostafrika]
+  themes: [verfassung-recht]
+  places: [arusha]
+  polities: [vereinte-nationen]
+- id: akayesu-urteil
+  title: Urteil gegen Jean-Paul Akayesu
+  date: "1998-09-02"
+  weight: 3
+  kind: ereignis
+  summary: Erstmals verurteilt ein internationales Gericht einen Angeklagten wegen Völkermordes und erkennt Vergewaltigung als Mittel des Völkermords an.
+  regions: [ostafrika]
+  themes: [verfassung-recht, gewalt-genozid]
+  places: [arusha]
+  persons: [jean-paul-akayesu]
