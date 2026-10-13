@@ -1,10 +1,9 @@
-import { Bookmark, Clock, Compass, Home, Hourglass, Info, Layers, Map as MapIcon, Menu, Search, Settings, WifiOff, X } from 'lucide-react'
+import { Bookmark, Clock, Compass, Home, Hourglass, Info, Layers, ListTree, Map as MapIcon, Menu, Settings, WifiOff, X } from 'lucide-react'
 import { useEffect, useState } from 'react'
 import { Link, NavLink, Outlet, ScrollRestoration, useLocation } from 'react-router'
 import { useCore } from '@/data/useData.ts'
 import { refreshOffline } from '@/offline/offline.ts'
 import { applyUpdate, useSw } from '@/offline/sw-register.ts'
-import { SearchBox } from './SearchBox.tsx'
 
 export const NAV = [
   { to: '/', label: 'Start', icon: Home, end: true },
@@ -12,7 +11,7 @@ export const NAV = [
   { to: '/themen', label: 'Themen', icon: Layers },
   { to: '/zeitleiste', label: 'Zeitleiste', icon: Clock },
   { to: '/atlas', label: 'Atlas', icon: MapIcon },
-  { to: '/suche', label: 'Suche', icon: Search },
+  { to: '/inhalt', label: 'Inhalt', icon: ListTree },
   { to: '/lesezeichen', label: 'Lesezeichen', icon: Bookmark },
 ] as const
 
@@ -59,7 +58,7 @@ function MoreSheet({ onClose }: { onClose: () => void }) {
         </nav>
         {!online && (
           <p className="mx-5 mt-4 text-sm soft flex items-center gap-2">
-            <WifiOff size={16} aria-hidden /> Offline – gespeicherte Artikel, Suche, Zeitleiste und Atlas bleiben nutzbar.
+            <WifiOff size={16} aria-hidden /> Offline – gespeicherte Artikel, Inhaltsverzeichnis, Zeitleiste und Atlas bleiben nutzbar.
           </p>
         )}
       </div>
@@ -122,7 +121,7 @@ export function Layout() {
         <div className="app-header-inner mx-auto max-w-7xl px-4 sm:px-6 flex items-center gap-4">
           <Brand />
           <nav className="hidden lg:flex items-center gap-0.5 ml-4" aria-label="Hauptnavigation">
-            {NAV.filter((n) => n.to !== '/suche').map((item) => (
+            {NAV.map((item) => (
               <NavLink key={item.to} to={item.to} end={'end' in item ? item.end : undefined} className="nav-link">
                 {item.label}
               </NavLink>
@@ -134,12 +133,6 @@ export function Layout() {
               <WifiOff size={14} aria-hidden /> Offline
             </span>
           )}
-          <div className="hidden md:block w-72 xl:w-80">
-            <SearchBox />
-          </div>
-          <Link to="/suche" className="icon-btn md:hidden" aria-label="Suche">
-            <Search size={20} />
-          </Link>
           <Link to="/einstellungen" className="icon-btn hidden lg:inline-flex" aria-label="Einstellungen">
             <Settings size={19} />
           </Link>

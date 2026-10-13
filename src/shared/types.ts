@@ -318,23 +318,6 @@ export interface Manifest {
     catalog: string
     taxonomy: string
     entities: string
-    search: string
   }
   counts: Record<string, number>
-}
-
-export interface SearchDoc {
-  id: string
-  kind: EntityKind
-  /** Ziel-ID (Artikel-ID, Personen-ID …) */
-  ref: string
-  title: string
-  aliases: string
-  text: string
-  summary: string
-  /** astronomische Jahre */
-  from?: number
-  to?: number
-  regions: string
-  themes: string
 }

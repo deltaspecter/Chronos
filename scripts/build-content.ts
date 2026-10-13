@@ -12,7 +12,6 @@
  *   public/data/catalog.<hash>.json            Metadaten aller Artikel
  *   public/data/taxonomy.<hash>.json           Epochen, Themen, Regionen, Zeitleisten-Spuren
  *   public/data/entities.<hash>.json           Personen, Orte, Ereignisse, Quellen …
- *   public/data/search.<hash>.json             Vorberechneter Suchindex + Synonyme
  *   public/data/a/<id>.<hash>.json             Ein Artikel (Text, Inhaltsverzeichnis, Belege)
  *
  * Dateinamen enthalten den Inhalts-Hash: Geänderte Inhalte bekommen neue URLs, unveränderte
@@ -22,12 +21,10 @@ import { createHash } from 'node:crypto'
 import { existsSync, mkdirSync, readdirSync, readFileSync, rmSync, statSync, writeFileSync } from 'node:fs'
 import { join, relative } from 'node:path'
 import { fileURLToPath } from 'node:url'
-import MiniSearch from 'minisearch'
 import YAML from 'yaml'
 import type { z } from 'zod'
 import { astro, spanFrom, type HSpan } from '../src/shared/dates.ts'
 import { entityHref } from '../src/shared/routes.ts'
-import { MINISEARCH_OPTIONS } from '../src/shared/search.ts'
 import type {
   ArticleBody,
   ArticleMeta,
@@ -42,7 +39,6 @@ import type {
   Polity,
   Region,
   Route,
-  SearchDoc,
   Source,
   Term,
   Territory,
@@ -143,7 +139,6 @@ const sourcesRaw = loadCollection('sources', S.sourceSchema)
 const routesRaw = loadCollection('routes', S.routeSchema)
 const territoriesRaw = loadCollection('territories', S.territorySchema)
 const mediaRaw = loadCollection('media', S.mediaSchema)
-const synonymsRaw = loadCollection('synonyms', S.synonymSchema)
 
 const mediaLockPath = join(CONTENT, 'media', '_commons.lock.json')
 const mediaLock: Record<string, { file: string; width: number; height: number; author: string; license: string; licenseUrl?: string; sourceUrl: string }> =
@@ -201,7 +196,7 @@ const articleMap = uniqueMap(
   'articles',
 )
 
-// Doppelte IDs verfälschen alle weiteren Prüfungen und lassen den Suchindex abstürzen – daher sofort abbrechen
+// Doppelte IDs würden Einträge stillschweigend überschreiben und alle weiteren Prüfungen verfälschen – daher sofort abbrechen
 const duplicates = errors.filter((e) => e.startsWith('Doppelte ID'))
 if (duplicates.length) {
   console.error(`\n✖ ${duplicates.length} doppelte ID(s):\n`)
@@ -738,48 +733,6 @@ const media: Media[] = mediaRaw
   .map((m) => ({ id: m.id, title: m.title, caption: m.caption, alt: m.alt, reconstruction: m.reconstruction, ...mediaLock[m.id] }))
 
 // ---------------------------------------------------------------------------
-// Suchindex
-// ---------------------------------------------------------------------------
-
-const range = (s?: HSpan) => (s ? { from: astro(s.start), to: astro(s.end ?? s.start) } : {})
-const docs: SearchDoc[] = []
-const pushDoc = (d: Omit<SearchDoc, 'regions' | 'themes'> & { regions?: string[]; themes?: string[] }) =>
-  docs.push({ ...d, regions: (d.regions ?? []).join(' '), themes: (d.themes ?? []).join(' ') })
-
-for (const r of rendered) {
-  const meta = articleMeta.find((m) => m.id === r.raw.front.id)!
-  pushDoc({
-    id: `article:${meta.id}`,
-    kind: 'article',
-    ref: meta.slug,
-    title: meta.title,
-    aliases: [meta.subtitle ?? '', ...meta.aliases, ...r.toc.map((t) => t.title)].join(' · '),
-    summary: meta.summary,
-    text: r.text,
-    ...range(meta.span),
-    regions: meta.regions,
-    themes: meta.themes,
-  })
-}
-for (const e of epochs) pushDoc({ id: `epoch:${e.id}`, kind: 'epoch', ref: e.id, title: e.title, aliases: e.planned.join(' · '), summary: e.summary, text: e.html.replace(/<[^>]+>/g, ' '), ...range(e.span), regions: e.regions })
-for (const t of themes) pushDoc({ id: `theme:${t.id}`, kind: 'theme', ref: t.id, title: t.title, aliases: '', summary: t.summary, text: t.html.replace(/<[^>]+>/g, ' ') })
-for (const p of persons) pushDoc({ id: `person:${p.id}`, kind: 'person', ref: p.id, title: p.name, aliases: [...p.aliases, ...p.roles].join(' · '), summary: p.summary, text: '', ...range(p.span), regions: p.regions, themes: p.themes })
-for (const p of places) pushDoc({ id: `place:${p.id}`, kind: 'place', ref: p.id, title: p.name, aliases: [...p.aliases, p.modernName ?? ''].join(' · '), summary: p.summary, text: '', ...range(p.span), regions: p.regions, themes: p.themes })
-for (const e of events) pushDoc({ id: `event:${e.id}`, kind: 'event', ref: e.id, title: e.title, aliases: e.aliases.join(' · '), summary: e.summary, text: e.dateNote ?? '', ...range(e.span), regions: e.regions, themes: e.themes })
-for (const p of polities) pushDoc({ id: `polity:${p.id}`, kind: 'polity', ref: p.id, title: p.name, aliases: p.aliases.join(' · '), summary: p.summary, text: p.spanNote ?? '', ...range(p.span), regions: p.regions, themes: p.themes })
-for (const c of cultures) pushDoc({ id: `culture:${c.id}`, kind: 'culture', ref: c.id, title: c.name, aliases: c.aliases.join(' · '), summary: c.summary, text: '', ...range(c.span), regions: c.regions })
-for (const t of terms) pushDoc({ id: `term:${t.id}`, kind: 'term', ref: t.id, title: t.name, aliases: t.aliases.join(' · '), summary: t.definition, text: '', themes: t.themes })
-for (const s of sources) pushDoc({ id: `source:${s.id}`, kind: 'source', ref: s.id, title: s.title, aliases: [...s.authors, ...s.editors, s.subtitle ?? ''].join(' · '), summary: s.formatted, text: s.note ?? '' })
-for (const r of routes) pushDoc({ id: `route:${r.id}`, kind: 'route', ref: r.id, title: r.name, aliases: r.aliases.join(' · '), summary: r.summary, text: '', ...range(r.span), regions: r.regions, themes: r.themes })
-for (const r of regions) pushDoc({ id: `region:${r.id}`, kind: 'region', ref: r.id, title: r.name, aliases: r.aliases.join(' · '), summary: '', text: '' })
-
-const mini = new MiniSearch<SearchDoc>(MINISEARCH_OPTIONS)
-mini.addAll(docs)
-
-// Synonymgruppen + automatisch alle Namensvarianten
-const synonyms: string[][] = synonymsRaw.map((s) => s.terms)
-
-// ---------------------------------------------------------------------------
 // Bericht und Schreiben
 // ---------------------------------------------------------------------------
 
@@ -830,7 +783,6 @@ const files = {
   catalog: writeHashed('catalog', { articles: articleMeta, slugs: Object.fromEntries(slugMap) }),
   taxonomy: writeHashed('taxonomy', { epochs, themes, regions, lanes: lanesRaw }),
   entities: writeHashed('entities', { persons, places, events, polities, cultures, terms, sources, routes, territories, media }),
-  search: writeHashed('search', { index: mini.toJSON(), synonyms }),
 }
 const version = hashOf(Object.values(files).join('|'))
 const manifest: Manifest = { version, generated: new Date().toISOString(), files, counts }

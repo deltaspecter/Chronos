@@ -7,22 +7,21 @@ import { existsSync, readFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { beforeAll, describe, expect, it } from 'vitest'
-import { createEngine, runSearch, type Engine } from '../src/lib/searchEngine.ts'
-import type { ArticleBody, ArticleMeta, Entities, Manifest } from '../src/shared/types.ts'
+import type { ArticleBody, ArticleMeta, Entities, Manifest, Taxonomy } from '../src/shared/types.ts'
 
 const ROOT = fileURLToPath(new URL('..', import.meta.url))
 const read = <T>(url: string): T => JSON.parse(readFileSync(join(ROOT, 'public', url), 'utf8')) as T
 
 let manifest: Manifest
 let articles: ArticleMeta[]
-let engine: Engine
+let taxonomy: Taxonomy
 
 beforeAll(() => {
   const result = spawnSync(process.execPath, ['scripts/build-content.ts'], { cwd: ROOT, encoding: 'utf8' })
   if (result.status !== 0) throw new Error(`Inhalts-Build fehlgeschlagen:\n${result.stderr}`)
   manifest = JSON.parse(readFileSync(join(ROOT, 'public/data/manifest.json'), 'utf8'))
   articles = read<{ articles: ArticleMeta[] }>(manifest.files.catalog).articles
-  engine = createEngine(read(manifest.files.search))
+  taxonomy = read<Taxonomy>(manifest.files.taxonomy)
 }, 60_000)
 
 describe('Inhaltsbestand', () => {
@@ -57,89 +56,26 @@ describe('Inhaltsbestand', () => {
   })
 })
 
-describe('Suche', () => {
-  const titles = (q: string) => runSearch(engine, q).hits.map((h) => h.ref)
-  it('findet Schreibvarianten', () => {
-    expect(titles('Cäsar')).toContain('caesar')
-    expect(titles('Pompejus')).toContain('pompeius')
+describe('Inhaltsverzeichnis', () => {
+  // Die App hat keine Suche: Jeder Artikel muss über das Inhaltsverzeichnis (Epochenbaum) erreichbar sein
+  it('führt jeden Artikel unter mindestens einer Epoche', () => {
+    const listed = new Set(taxonomy.epochs.flatMap((e) => e.articles))
+    for (const a of articles) expect(listed.has(a.id), a.id).toBe(true)
   })
-  it('toleriert Tippfehler', () => {
-    expect(titles('Hanibal')).toContain('hannibal')
+  it('verbindet alle Epochen zu einem Baum ohne Waisen', () => {
+    const ids = new Set(taxonomy.epochs.map((e) => e.id))
+    for (const e of taxonomy.epochs) {
+      if (e.parent) expect(ids.has(e.parent), e.id).toBe(true)
+      for (const c of e.children) expect(ids.has(c), `${e.id} → ${c}`).toBe(true)
+    }
+    expect(taxonomy.epochs.some((e) => !e.parent)).toBe(true)
   })
-  it('nutzt Synonyme', () => {
-    const out = runSearch(engine, 'Shoah')
-    expect(out.hits.some((h) => h.ref === 'holocaust')).toBe(true)
-  })
-  it('sucht nach Jahren und Jahrhunderten', () => {
-    expect(titles('216 v. Chr.')).toContain('schlacht-von-cannae')
-    expect(titles('1789')).toContain('sturm-auf-die-bastille')
-  })
-  it('findet Volltext in Artikeln', () => {
-    const out = runSearch(engine, 'Tagebuch des Merer')
-    expect(out.hits.slice(0, 3).map((h) => h.ref)).toContain('altes-reich-aegypten')
-  })
-  it('findet Begriffe in anderer Sprache und Schreibweise', () => {
-    expect(titles('Charlemagne')).toContain('karl-der-grosse')
-    expect(titles('Tahuantinsuyo')).toContain('inka-reich')
-    expect(titles('Harun al-Rashid')).toContain('harun-ar-raschid')
-    expect(titles('Genghis Khan')).toContain('dschingis-khan')
-    expect(titles('Montezuma')).toContain('moctezuma-ii')
-    expect(titles('Great Zimbabwe')).toContain('gross-simbabwe-swahili')
-    expect(titles('Kyoto')).toContain('heian-kyo')
-    expect(titles('WWII')).toContain('zweiter-weltkrieg')
-    expect(titles('Partition')).toContain('indien-1947')
-    expect(titles('Mughal')).toContain('mogulreich')
-    expect(titles('Libertador')).toContain('simon-bolivar')
-    expect(titles('Osterinsel')).toContain('rapa-nui')
-    expect(titles('Rwanda')).toContain('voelkermord-ruanda')
-  })
-  it('findet Volltext in neuen Artikeln', () => {
-    expect(titles('Spinning Jenny').slice(0, 3)).toContain('spinning-jenny')
-    expect(titles('Algebra')).toContain('abbasiden-bagdad')
-    expect(titles('Middle Passage')).toContain('transatlantischer-sklavenhandel')
-    expect(titles('Konstantinopel 1453').slice(0, 5)).toContain('eroberung-konstantinopels')
-    expect(titles('Angkor Wat')).toContain('angkor-wat')
-    expect(titles('Vernichtungsbefehl')).toContain('voelkermord-herero-nama')
-    expect(titles('1962').slice(0, 10)).toContain('kubakrise')
-    expect(titles('Opiumkrieg')).toContain('erster-opiumkrieg')
-    expect(titles('Edo-Zeit')).toContain('tokugawa-japan')
-    expect(titles('Scherbengericht')).toContain('ostrakismos')
-    expect(titles('Bolschewiki').slice(0, 5)).toContain('bolschewiki')
-    expect(titles('Alexander der Große').slice(0, 5)).toContain('alexander-hellenismus')
-    expect(titles('Diadochen')).toContain('diadochen')
-    expect(titles('Saladin').slice(0, 5)).toContain('saladin')
-    expect(titles('Kreuzzug')).toContain('kreuzzuege')
-    expect(titles('Brunnenvergiftung')).toContain('brunnenvergiftungsvorwurf')
-    expect(titles('Yersinia pestis')).toContain('pest')
-    expect(titles('Boston Tea Party')).toContain('boston-tea-party')
-    expect(titles('1776')).toContain('amerikanische-revolution')
-    expect(titles('Justinian').slice(0, 5)).toContain('justinian')
-    expect(titles('Corpus iuris civilis')).toContain('corpus-iuris-civilis')
-    expect(titles('Sapere aude')).toContain('aufklaerung')
-    expect(titles('Perestroika')).toContain('perestroika')
-    expect(titles('Augustputsch')).toContain('augustputsch')
-    expect(titles('Srebrenica')).toContain('voelkermord-von-srebrenica')
-    expect(titles('Milosevic')).toContain('slobodan-milosevic')
-    expect(titles('Mohammed').slice(0, 5)).toContain('muhammad')
-    expect(titles('Hidschra')).toContain('hidschra')
-    expect(titles('Romulus Augustulus')).toContain('romulus-augustulus')
-    expect(titles('Untergang Roms')).toContain('ende-westroms')
-    expect(titles('Toussaint')).toContain('toussaint-louverture')
-    expect(titles('Waterloo')).toContain('schlacht-bei-waterloo')
-    expect(titles('Code Napoléon')).toContain('napoleon')
-    expect(titles('Zollverein')).toContain('zollverein')
-    expect(titles('Soziale Frage')).toContain('industrialisierung-deutschland')
-    expect(titles('Lincoln').slice(0, 5)).toContain('abraham-lincoln')
-    expect(titles('Sezessionskrieg')).toContain('amerikanischer-buergerkrieg')
-    expect(titles('Mutsuhito')).toContain('kaiser-meiji')
-    expect(titles('Kongokonferenz')).toContain('berliner-afrika-konferenz')
-    expect(titles('Adwa')).toContain('adua')
-    expect(titles('Dolchstoßlegende')).toContain('dolchstosslegende')
-    expect(titles('Ermächtigungsgesetz')).toContain('ermaechtigungsgesetz')
-    expect(titles('Aghet')).toContain('voelkermord-armenier')
-    expect(titles('Talat')).toContain('talat-pascha')
-    expect(titles('Große Depression')).toContain('weltwirtschaftskrise')
-    expect(titles('Vietcong')).toContain('vietcong')
-    expect(titles('My Lai')).toContain('massaker-von-my-lai')
+  it('gibt allen Registereinträgen einen Titel', () => {
+    const entities = read<Entities>(manifest.files.entities)
+    const named = [...entities.persons, ...entities.places, ...entities.polities, ...entities.cultures, ...entities.terms, ...entities.routes] as { id: string; name: string }[]
+    for (const e of named) expect(e.name?.trim(), e.id).toBeTruthy()
+    for (const e of entities.events) expect(e.title?.trim(), e.id).toBeTruthy()
+    for (const s of entities.sources) expect(s.title?.trim(), s.id).toBeTruthy()
   })
 })
+

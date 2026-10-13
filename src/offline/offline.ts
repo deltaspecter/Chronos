@@ -4,7 +4,7 @@
  * Gespeichert werden der Artikeltext (JSON mit HTML, Inhaltsverzeichnis, Belegen) und die
  * Abbildungen des Artikels – in einem eigenen Cache, den der Service Worker nie automatisch leert.
  * Die Kerndaten (Katalog, Wissensnetz, Suchindex, Karte) speichert der Service Worker ohnehin
- * mit der App, sodass Suche, Zeitleiste und Atlas offline funktionieren.
+ * mit der App, sodass Inhaltsverzeichnis, Zeitleiste und Atlas offline funktionieren.
  *
  * Grenzen: höchstens MAX_ARTICLES Artikel – kein unkontrolliertes Herunterladen.
  */

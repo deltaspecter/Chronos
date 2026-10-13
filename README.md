@@ -14,9 +14,9 @@ Die App läuft im Browser auf Smartphone, Tablet und Desktop und lässt sich auf
 | **Epochen** | 48 regional differenzierte Epochen und Teilbereiche mit Einführungstexten und offen ausgewiesenem Redaktionsplan („Im Aufbau“) |
 | **Zeitleiste** | Spuren nach Weltregionen, umschaltbare Zeitskala, Filter nach Region und Thema, Kennzeichnung unsicherer Datierungen, Listenansicht für Smartphones |
 | **Atlas** | Weltkarte (Natural Earth, offline), Orte nach Kategorien, Routen, fünf schematische Herrschaftsgebiete, Zeitfilter |
-| **Suche** | Volltext, Autovervollständigung, Schreibvarianten, Tippfehlertoleranz, Synonyme, Jahres- und Jahrhundertsuche, Filter |
+| **Inhaltsverzeichnis** | Bewusst ohne Suchleiste: nummeriertes Verzeichnis aller Artikel nach Epochen, Eingrenzung nach Region, Register von A bis Z für Personen, Orte, Ereignisse, Staaten, Begriffe und Quellen |
 | **Persönlich** | Lesezeichen, Notizen (auch zu Abschnitten), Verlauf, Lesefortschritt, „Weiterlesen“, Export und Import – alles nur auf dem Gerät |
-| **Offline** | App, Kerndaten, Suche, Zeitleiste und Atlas offline nutzbar; Artikel gezielt speicherbar; kontrollierte Updates |
+| **Offline** | App, Kerndaten, Inhaltsverzeichnis, Zeitleiste und Atlas offline nutzbar; Artikel gezielt speicherbar; kontrollierte Updates |
 | **Abbildungen** | 74 Bilder aus Wikimedia Commons mit automatisch geprüften Lizenzen und Bildnachweisen |
 
 Alle Artikel tragen den Status **„Erstfassung“**: Sie wurden mit Unterstützung eines KI-Sprachmodells auf Grundlage der angegebenen Literatur erarbeitet und sind noch nicht fachwissenschaftlich begutachtet (siehe [docs/INHALTE.md](docs/INHALTE.md#qualität-und-prüfstatus)).
@@ -65,10 +65,10 @@ content/            Redaktionelle Inhalte (die einzige Stelle, an der Geschichte
                     Wissensnetz als YAML
   sources/          Quellen und Literatur
   media/            Abbildungen (Liste + Lizenz-Lock-Datei)
-  regions/ lanes/ synonyms/ series/
+  regions/ lanes/ series/
 scripts/            Inhalts-Build, Medienimport, Tests, Hilfsskripte
 src/
-  shared/           Von Build und App gemeinsam genutzt: Typen, Datierungen, Suche, URLs
+  shared/           Von Build und App gemeinsam genutzt: Typen, Datierungen, URLs
   data/             Laden und Indizieren der generierten Daten
   pages/            Seiten (Start, Epochen, Artikel, Zeitleiste, Atlas …)
   components/       Wiederverwendbare Bausteine

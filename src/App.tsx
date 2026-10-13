@@ -1,8 +1,9 @@
 import { lazy, Suspense, type ReactNode } from 'react'
-import { createBrowserRouter, RouterProvider } from 'react-router'
+import { createBrowserRouter, Navigate, RouterProvider, useSearchParams } from 'react-router'
 import { Layout } from './components/Layout.tsx'
 import { LoadingBlock, PageContainer } from './components/ui.tsx'
 import { ArticlePage } from './pages/ArticlePage.tsx'
+import { ContentsPage } from './pages/ContentsPage.tsx'
 import { DirectoryPage } from './pages/DirectoryPage.tsx'
 import { EntityPage } from './pages/EntityPage.tsx'
 import { EpochPage, EpochsPage } from './pages/EpochsPage.tsx'
@@ -10,7 +11,6 @@ import { HomePage } from './pages/HomePage.tsx'
 import { InfoPage } from './pages/InfoPage.tsx'
 import { LibraryPage } from './pages/LibraryPage.tsx'
 import { NotFoundPage } from './pages/NotFoundPage.tsx'
-import { SearchPage } from './pages/SearchPage.tsx'
 import { SettingsPage } from './pages/SettingsPage.tsx'
 import { ThemePage, ThemesPage } from './pages/ThemesPage.tsx'
 
@@ -30,6 +30,13 @@ function Lazy({ children }: { children: ReactNode }) {
       {children}
     </Suspense>
   )
+}
+
+/** Frühere Adresse der Suche: alte Lesezeichen und Verweise führen zum Inhaltsverzeichnis */
+function LegacySearchRedirect() {
+  const [params] = useSearchParams()
+  const region = params.get('region')
+  return <Navigate to={region ? `/inhalt?region=${encodeURIComponent(region)}` : '/inhalt'} replace />
 }
 
 const router = createBrowserRouter([
@@ -68,7 +75,8 @@ const router = createBrowserRouter([
           </Lazy>
         ),
       },
-      { path: '/suche', element: <SearchPage /> },
+      { path: '/inhalt', element: <ContentsPage /> },
+      { path: '/suche', element: <LegacySearchRedirect /> },
       { path: '/lesezeichen', element: <LibraryPage /> },
       { path: '/einstellungen', element: <SettingsPage /> },
       { path: '/info', element: <InfoPage /> },

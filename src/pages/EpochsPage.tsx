@@ -1,5 +1,5 @@
 import { ArrowRight, ChevronLeft, ChevronRight, Hourglass, PenLine } from 'lucide-react'
-import { useMemo, useState, type MouseEvent } from 'react'
+import { useMemo, type MouseEvent } from 'react'
 import { Link, useNavigate, useParams, useSearchParams } from 'react-router'
 import { ArticleCard, EntityRow } from '@/components/cards.tsx'
 import { Breadcrumbs, DateSpan, EmptyState, PageContainer, SectionHeading } from '@/components/ui.tsx'
@@ -8,7 +8,6 @@ import { articlesInEpoch, epochPath, matchesRegion, startYear, type Indexed } fr
 import { entityInfo, regionName } from '@/lib/entities.ts'
 import { useTitle } from '@/lib/useTitle.ts'
 import { overlaps, astro } from '@/shared/dates.ts'
-import { normalize } from '@/shared/search.ts'
 import type { EpochNode } from '@/shared/types.ts'
 import { NotFoundPage } from './NotFoundPage.tsx'
 
@@ -34,14 +33,10 @@ const REGION_FILTERS = ['welt', 'afrika', 'westasien', 'europa', 'mittelmeer', '
 
 function EpochsOverview({ index }: { index: Indexed }) {
   const [params, setParams] = useSearchParams()
-  const [query, setQuery] = useState('')
   const region = params.get('region')
-  const q = normalize(query.trim())
 
   const matches = (e: EpochNode): boolean => {
-    const textOk = !q || normalize(`${e.title} ${e.summary} ${e.planned.join(' ')}`).includes(q)
-    const regionOk = !region || e.regions.includes('welt') || matchesRegion(index, e.regions, region)
-    return textOk && regionOk
+    return !region || e.regions.includes('welt') || matchesRegion(index, e.regions, region)
   }
   const visible = (e: EpochNode): boolean => matches(e) || e.children.some((c) => visible(index.epochById.get(c)!))
 
@@ -56,13 +51,14 @@ function EpochsOverview({ index }: { index: Indexed }) {
         die islamische Welt oder Westafrika gelten andere Einteilungen.
       </p>
 
-      <div className="mt-8 flex flex-col sm:flex-row gap-3 sm:items-center">
-        <label className="flex-1">
-          <span className="sr-only">Epochen durchsuchen</span>
-          <input className="input" type="search" placeholder="Epochen durchsuchen, z. B. „Kusch“, „Mongolen“, „Reformation“" value={query} onChange={(e) => setQuery(e.target.value)} />
-        </label>
-      </div>
-      <div className="mt-3 flex gap-2 overflow-x-auto pb-1 [scrollbar-width:none]" role="group" aria-label="Nach Region filtern">
+      <p className="mt-6 text-sm soft">
+        Eine vollständige Liste aller Artikel bietet das{' '}
+        <Link to="/inhalt" className="link">
+          Inhaltsverzeichnis
+        </Link>
+        .
+      </p>
+      <div className="mt-4 flex gap-2 overflow-x-auto pb-1 [scrollbar-width:none]" role="group" aria-label="Nach Region filtern">
         <button className="chip" aria-pressed={!region} onClick={() => setParams({})}>
           Alle Regionen
         </button>
@@ -76,7 +72,7 @@ function EpochsOverview({ index }: { index: Indexed }) {
       {roots.length === 0 && (
         <div className="mt-10">
           <EmptyState icon={<Hourglass />} title="Keine passende Epoche">
-            Versuchen Sie einen anderen Suchbegriff oder die <Link className="link" to={`/suche?q=${encodeURIComponent(query)}`}>Volltextsuche</Link>.
+            Wählen Sie eine andere Region oder öffnen Sie das <Link className="link" to="/inhalt">Inhaltsverzeichnis</Link>.
           </EmptyState>
         </div>
       )}
@@ -219,9 +215,7 @@ function EpochView({ index, epoch }: { index: Indexed; epoch: EpochNode }) {
             <ul className="flex flex-wrap gap-2">
               {epoch.planned.map((p) => (
                 <li key={p}>
-                  <Link to={`/suche?q=${encodeURIComponent(p)}`} className="chip" title="In vorhandenen Inhalten suchen">
-                    {p}
-                  </Link>
+                  <span className="chip">{p}</span>
                 </li>
               ))}
             </ul>

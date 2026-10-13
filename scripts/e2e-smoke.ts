@@ -3,7 +3,7 @@
  *   npm run build && node scripts/e2e-smoke.ts [--shots <ordner>]
  *
  * Prüft für alle Hauptbereiche: Seite lädt, Überschrift vorhanden, keine Konsolenfehler.
- * Zusätzlich: Suche liefert Treffer, Artikel zeigt Belege, Lesezeichen bleibt nach Neuladen erhalten,
+ * Zusätzlich: Inhaltsverzeichnis listet alle Artikel, keine Suchleiste, Artikel zeigt Belege, Lesezeichen bleibt nach Neuladen erhalten,
  * Service Worker wird registriert und die App funktioniert danach offline.
  */
 import { spawn } from 'node:child_process'
@@ -69,10 +69,14 @@ try {
   check((await page.locator('.tl-item').count()) > 10, 'Zeitleiste zeigt Einträge')
   await visit('/atlas', 'atlas')
   check((await page.locator('.atlas-place').count()) > 5, 'Atlas zeigt Orte')
-  await visit('/suche?q=C%C3%A4sar', 'suche')
-  check((await page.locator('main ol li').count()) > 0, 'Suche „Cäsar“ findet Treffer')
-  await visit('/suche?q=216%20v.%20Chr.', 'suche-jahr')
-  check((await page.getByText('Schlacht von Cannae').count()) > 0, 'Jahressuche „216 v. Chr.“ findet Cannae')
+  await visit('/inhalt', 'inhalt')
+  check((await page.locator('main a[href^="/artikel/"]').count()) >= 50, 'Inhaltsverzeichnis listet alle Artikel')
+  check((await page.locator('main a[href^="/verzeichnis/"]').count()) >= 8, 'Inhaltsverzeichnis verweist auf die Register')
+  check((await page.locator('input[type="search"]').count()) === 0, 'Keine Suchleiste in der App')
+  await visit('/inhalt?region=afrika', 'inhalt-region')
+  check((await page.getByText('Das Reich von Mali').count()) > 0, 'Regionsansicht zeigt afrikanische Artikel')
+  await page.goto(`${BASE}/suche?q=test`, { waitUntil: 'networkidle' })
+  check(new URL(page.url()).pathname === '/inhalt', 'Alte Such-Adresse leitet zum Inhaltsverzeichnis')
   await visit('/lesezeichen', 'lesezeichen')
   await visit('/einstellungen', 'einstellungen')
   await visit('/info', 'info')

@@ -8,7 +8,6 @@ import type { Indexed } from '@/data/index.ts'
 import { entityInfo, type EntityInfo } from '@/lib/entities.ts'
 import { useTitle } from '@/lib/useTitle.ts'
 import { astro } from '@/shared/dates.ts'
-import { normalize } from '@/shared/search.ts'
 import type { EntityKind } from '@/shared/types.ts'
 import { NotFoundPage } from './NotFoundPage.tsx'
 
@@ -23,6 +22,11 @@ export const DIRECTORIES: { slug: string; kind: EntityKind; label: string; count
   { slug: 'quellen', kind: 'source', label: 'Quellen und Literatur', count: (i) => i.entities.sources.length, ids: (i) => i.entities.sources.map((x) => x.id) },
   { slug: 'routen', kind: 'route', label: 'Routen', count: (i) => i.entities.routes.length, ids: (i) => i.entities.routes.map((x) => x.id) },
 ]
+
+/** Sprungmarke für eine Gruppe (Buchstabe oder Jahrhundert) */
+function anchor(key: string): string {
+  return key.toLowerCase().replace(/[^a-z0-9äöüß]+/g, '-')
+}
 
 export function DirectoryPage() {
   const { kind } = useParams()
@@ -41,7 +45,7 @@ function DirectoryOverview({ index }: { index: Indexed }) {
   useTitle('Verzeichnisse')
   return (
     <PageContainer className="pt-8 lg:pt-12">
-      <Breadcrumbs items={[{ label: 'Themen', to: '/themen' }, { label: 'Verzeichnisse' }]} />
+      <Breadcrumbs items={[{ label: 'Inhaltsverzeichnis', to: '/inhalt' }, { label: 'Register' }]} />
       <h1 className="page-title">Verzeichnisse</h1>
       <ul className="mt-8 grid grid-cols-2 sm:grid-cols-3 gap-3">
         {DIRECTORIES.map((d) => (
@@ -62,13 +66,10 @@ function DirectoryOverview({ index }: { index: Indexed }) {
 
 function DirectoryList({ index, dir }: { index: Indexed; dir: (typeof DIRECTORIES)[number] }) {
   useTitle(dir.label)
-  const [query, setQuery] = useState('')
   const [order, setOrder] = useState<'alpha' | 'chrono'>(dir.kind === 'event' ? 'chrono' : 'alpha')
   const [sourceKind, setSourceKind] = useState<string>('')
   const items = useMemo(() => dir.ids(index).map((id) => entityInfo(index, dir.kind, id)).filter((x): x is EntityInfo => !!x), [index, dir])
-  const q = normalize(query.trim())
   const filtered = items
-    .filter((i) => !q || normalize(`${i.title} ${i.summary}`).includes(q))
     .filter((i) => !sourceKind || index.sourceById.get(i.id)?.kind === sourceKind)
     .sort((a, b) => (order === 'alpha' ? a.title.localeCompare(b.title, 'de') : (a.span ? astro(a.span.start) : 1e9) - (b.span ? astro(b.span.start) : 1e9)))
 
@@ -90,11 +91,10 @@ function DirectoryList({ index, dir }: { index: Indexed; dir: (typeof DIRECTORIE
 
   return (
     <PageContainer className="pt-8 lg:pt-12">
-      <Breadcrumbs items={[{ label: 'Themen', to: '/themen' }, { label: 'Verzeichnisse', to: '/verzeichnis' }, { label: dir.label }]} />
+      <Breadcrumbs items={[{ label: 'Inhaltsverzeichnis', to: '/inhalt' }, { label: 'Register', to: '/verzeichnis' }, { label: dir.label }]} />
       <h1 className="page-title">{dir.label}</h1>
       <p className="muted mt-2">{items.length} Einträge</p>
       <div className="mt-6 flex flex-col sm:flex-row gap-3">
-        <input className="input sm:max-w-md" type="search" placeholder={`${dir.label} filtern …`} value={query} onChange={(e) => setQuery(e.target.value)} aria-label="Filtern" />
         {hasDates && (
           <div className="flex gap-2" role="group" aria-label="Sortierung">
             <button className="chip" aria-pressed={order === 'alpha'} onClick={() => setOrder('alpha')}>
@@ -121,9 +121,16 @@ function DirectoryList({ index, dir }: { index: Indexed; dir: (typeof DIRECTORIE
           </div>
         )}
       </div>
+      <nav className="mt-6 flex flex-wrap gap-1.5" aria-label="Springen zu">
+        {[...groups.keys()].map((key) => (
+          <a key={key} href={`#gruppe-${anchor(key)}`} className="chip min-w-9 justify-center">
+            {key}
+          </a>
+        ))}
+      </nav>
       <div className="mt-8 flex flex-col gap-8">
         {[...groups.entries()].map(([key, list]) => (
-          <section key={key} aria-label={key}>
+          <section key={key} id={`gruppe-${anchor(key)}`} aria-label={key} className="scroll-mt-[calc(var(--header-h)+var(--safe-top)+3rem)]">
             <h2 className="font-display text-2xl text-[var(--gold)] mb-2 sticky top-[calc(var(--header-h)+var(--safe-top))] bg-[var(--bg)] py-1 z-10">{key}</h2>
             <div className="card px-4 py-1">
               {list.map((info) => (
@@ -132,7 +139,7 @@ function DirectoryList({ index, dir }: { index: Indexed; dir: (typeof DIRECTORIE
             </div>
           </section>
         ))}
-        {filtered.length === 0 && <p className="soft">Keine Einträge gefunden.</p>}
+        {filtered.length === 0 && <p className="soft">Keine Einträge vorhanden.</p>}
       </div>
     </PageContainer>
   )

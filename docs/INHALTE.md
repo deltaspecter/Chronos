@@ -43,14 +43,14 @@ slug: punische-kriege          # optional, Standard = id; bei Umbenennung alten 
 title: Die Punischen Kriege
 subtitle: Rom und Karthago im Kampf um das westliche Mittelmeer (264–146 v. Chr.)
 type: ereignis                 # ueberblick | ereignis | person | epoche | thema | ort | staat | kultur
-summary: Zwei bis drei Sätze, die den Kern erfassen (erscheinen in Listen, Suche und als Einleitung).
+summary: Zwei bis drei Sätze, die den Kern erfassen (erscheinen in Listen, im Inhaltsverzeichnis und als Einleitung).
 start: "-264"
 end: "-146"
 spanNote: Optionaler Hinweis zur Datierung oder Abgrenzung.
 epochs: [roemische-republik-epoche]   # mindestens eine Epoche
 themes: [krieg-militaer]
 regions: [mittelmeer, italien]        # mindestens eine Region
-aliases: [Punic Wars, Hannibalkrieg]  # Namensvarianten für die Suche
+aliases: [Punic Wars, Hannibalkrieg]  # Namensvarianten (erscheinen auf der Eintragsseite)
 persons: [hannibal]                   # Wissensnetz (Verweise im Text werden automatisch ergänzt)
 places: [karthago]
 events: [schlacht-von-cannae]
@@ -151,7 +151,7 @@ Jede Datei enthält eine Liste. Beispiele:
   polities: [roemische-republik, karthago-staat]
 ```
 
-Weitere Formate: `polities` (Staaten, mit `predecessors`/`successors`), `cultures`, `terms` (Glossar), `routes` (Wegpunkte, `schematic: true`), `territories` (siehe unten), `regions`, `lanes` (Zeitleisten-Spuren), `synonyms`, `series`.
+Weitere Formate: `polities` (Staaten, mit `predecessors`/`successors`), `cultures`, `terms` (Glossar), `routes` (Wegpunkte, `schematic: true`), `territories` (siehe unten), `regions`, `lanes` (Zeitleisten-Spuren), `series`.
 
 ## Quellen und Literatur
 

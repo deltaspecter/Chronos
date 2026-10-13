@@ -207,7 +207,7 @@ function EntityView({ index, info }: { index: Indexed; info: EntityInfo }) {
               <dt className="muted">Regionen</dt>
               <dd className="flex flex-wrap gap-x-3">
                 {info.regions.map((r) => (
-                  <Link key={r} to={`/suche?region=${r}`} className="link">
+                  <Link key={r} to={`/inhalt?region=${r}`} className="link">
                     {regionName(index, r)}
                   </Link>
                 ))}

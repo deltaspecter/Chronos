@@ -236,6 +236,15 @@ a {
   text-decoration-color: var(--link);
 }
 
+/* Unaufdringliche Verweise, etwa in der Übersicht des Inhaltsverzeichnisses */
+.link-quiet {
+  color: var(--text);
+  padding-block: 0.15rem;
+}
+.link-quiet:hover {
+  color: var(--gold);
+}
+
 /* ------------------------------------------------------------------ */
 /* Oberflächen                                                         */
 /* ------------------------------------------------------------------ */
@@ -558,23 +567,6 @@ button.chip:hover {
   .main-pad {
     padding-bottom: 4rem;
   }
-}
-
-/* Suche in der Kopfzeile */
-.search-pop {
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: calc(100% + 0.4rem);
-  z-index: 60;
-  background: var(--bg-elev);
-  border: 1px solid var(--line-strong);
-  border-radius: 0.8rem;
-  box-shadow: var(--shadow);
-  overflow: hidden;
-}
-.search-pop [aria-selected='true'] {
-  background: var(--bg-elev-2);
 }
 
 /* Lesefortschritt */

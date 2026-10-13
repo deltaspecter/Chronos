@@ -13,7 +13,7 @@ Das Repository war zu Projektbeginn leer. Als Stack wurde gewählt:
 | Build | Vite | Schnell, Code-Splitting (Zeitleiste und Atlas laden erst bei Bedarf) |
 | Styling | Tailwind CSS 4 + eigene CSS-Schicht | Design-Tokens für Dunkel/Hell, eigene Lesetypografie |
 | Zustand | Zustand mit `persist` | Schlank, speichert Einstellungen und Bibliothek im Gerät |
-| Suche | MiniSearch, Index beim Build vorberechnet | Volltext, Präfix, Tippfehler – vollständig offline, ohne Server |
+| Navigation | Inhaltsverzeichnis und Register statt Suche | Alles ist über eine feste Gliederung erreichbar – vollständig offline, ohne Index |
 | Karte | d3-geo + topojson + Natural Earth | Keine Kartendienste Dritter, keine API-Schlüssel, gemeinfreie Daten, offline |
 | Tests | Vitest, Playwright (Chromium) | Unit-, Inhalts- und Browsertests |
 
@@ -24,7 +24,7 @@ Das Repository war zu Projektbeginn leer. Als Stack wurde gewählt:
 - Jede Änderung ist eine Textdatei im Git-Repository: versioniert, prüfbar (Pull Request, Review), mit vollständiger Historie.
 - Die App ist ohne jeden Server-Code und ohne externe KI-API vollständig nutzbar.
 
-Die Daten sind so modelliert, dass ein späterer Wechsel zu PostgreSQL (z. B. mit einer redaktionellen Oberfläche) oder zu einer serverseitigen Suche (Meilisearch, PostgreSQL-Volltext) ohne Änderung der App-Seiten möglich ist: Die App liest ausschließlich die generierten JSON-Strukturen aus `src/shared/types.ts`. Ob diese aus Markdown-Dateien oder aus einer Datenbank erzeugt werden, ist für die Oberfläche unerheblich (siehe Abschnitt 6).
+Die Daten sind so modelliert, dass ein späterer Wechsel zu PostgreSQL (z. B. mit einer redaktionellen Oberfläche) ohne Änderung der App-Seiten möglich ist: Die App liest ausschließlich die generierten JSON-Strukturen aus `src/shared/types.ts`. Ob diese aus Markdown-Dateien oder aus einer Datenbank erzeugt werden, ist für die Oberfläche unerheblich (siehe Abschnitt 6).
 
 ## 2. Datenfluss
 
@@ -36,20 +36,18 @@ content/  (Markdown + YAML, redaktionell gepflegt, versioniert)
    │   • Verweise auflösen ([[…]], [@…]) und prüfen
    │   • Beziehungen in beide Richtungen ergänzen (Wissensnetz)
    │   • Dubletten-Warnungen, ungenutzte Quellen
-   │   • Suchindex vorberechnen
    ▼
 public/data/   manifest.json
                catalog.<hash>.json    Metadaten aller Artikel
                taxonomy.<hash>.json   Epochen, Themen, Regionen, Zeitleisten-Spuren
                entities.<hash>.json   Personen, Orte, Ereignisse, Staaten, Quellen, Medien …
-               search.<hash>.json     MiniSearch-Index + Synonyme
                a/<id>.<hash>.json     je Artikel: HTML, Inhaltsverzeichnis, Belege, Beziehungen
    │
    ▼  Vite-Build (bindet das Manifest ein → App- und Datenversion sind identisch)
 dist/  + sw.js (Service Worker mit Dateiliste und Versionshash)
 ```
 
-Die Kerndaten (Katalog, Taxonomie, Wissensnetz, Suchindex) werden beim Start geladen und bleiben im Speicher. Artikeltexte werden einzeln und erst beim Öffnen geladen.
+Die Kerndaten (Katalog, Taxonomie, Wissensnetz) werden beim Start geladen und bleiben im Speicher. Artikeltexte werden einzeln und erst beim Öffnen geladen.
 
 ## 3. Datenmodell
 
@@ -90,7 +88,7 @@ Der Service Worker (`sw/service-worker.js`, beim Build zu `dist/sw.js` ergänzt)
 
 | Cache | Inhalt | Lebensdauer |
 |---|---|---|
-| `chronos-shell-<version>` | App-Hülle, Kerndaten, Suchindex, Karte, Schriften (lateinisch) | wird bei jeder neuen Version ersetzt |
+| `chronos-shell-<version>` | App-Hülle, Kerndaten, Karte, Schriften (lateinisch) | wird bei jeder neuen Version ersetzt |
 | `chronos-recent` | die zuletzt gelesenen Artikel (max. 30) | älteste fallen heraus |
 | `chronos-media-recent` | zuletzt angezeigte Bilder (max. 60) | älteste fallen heraus |
 | `chronos-offline` | vom Nutzer ausdrücklich gespeicherte Artikel und ihre Bilder | bleibt, bis der Nutzer sie entfernt |
@@ -103,22 +101,22 @@ Der Service Worker (`sw/service-worker.js`, beim Build zu `dist/sw.js` ergänzt)
 - **Aktualität:** Offline gespeicherte Artikel werden beim nächsten Start mit Verbindung automatisch auf die aktuelle Fassung gebracht.
 - **Fallback ohne Service Worker:** Die App liest offline gespeicherte Artikel notfalls direkt aus der Cache-API (`src/data/load.ts`).
 
-## 5. Suche
+## 5. Inhaltsverzeichnis statt Suche
 
-Der Suchindex wird beim Build mit denselben Optionen erzeugt, mit denen die App ihn lädt (`src/shared/search.ts`). Er umfasst Artikel (inkl. Volltext und Zwischenüberschriften), Epochen, Themen, Personen, Orte, Ereignisse, Staaten, Kulturen, Begriffe, Quellen, Routen und Regionen.
+CHRONOS hat bewusst keine Suchleiste. Alle Inhalte sind über eine feste, nachvollziehbare Gliederung erreichbar:
 
-- **Normalisierung:** Kleinschreibung, Umlaute, Diakritika, Transliterationsvarianten (ae/ä, ph/f, th/t, c/k am Wortanfang, y/i, j/i) – „Cäsar“ = „Caesar“, „Pompejus“ = „Pompeius“.
-- **Namensvarianten:** Jeder Eintrag hat ein `aliases`-Feld, das hoch gewichtet durchsucht wird.
-- **Synonyme:** `content/synonyms/*.yaml` (z. B. Shoah ↔ Holocaust, WWI ↔ Erster Weltkrieg).
-- **Zeitangaben:** „1789“, „44 v. Chr.“, „3. Jh. v. Chr.“ werden erkannt und als Zeitfilter angewendet.
-- **Tippfehler und Präfixe:** unscharfe Suche ab 4 Zeichen, Präfixsuche ab 3 Zeichen.
+- **Inhaltsverzeichnis** (`/inhalt`, `src/pages/ContentsPage.tsx`): alle Artikel, nummeriert nach dem Epochenbaum (1, 1.2, 1.2.1 …) und innerhalb einer Epoche chronologisch sortiert; Sprungmarken zu jeder Hauptepoche; Eingrenzung nach Region (`?region=`).
+- **Register** (`/verzeichnis/:art`): Personen, Orte, Ereignisse, Staaten, Kulturen, Begriffe, Quellen und Routen von A bis Z bzw. chronologisch, mit Sprungleiste zu den Buchstaben- oder Zeitgruppen.
+- **Querverweise:** Epochen, Themen, Zeitleiste, Atlas und das Wissensnetz jedes Eintrags.
+
+Die frühere Adresse `/suche` leitet auf das Inhaltsverzeichnis um. Der Inhaltstest stellt sicher, dass jeder Artikel einer Epoche zugeordnet und damit im Verzeichnis aufgeführt ist.
 
 ## 6. Skalierung auf tausende Artikel
 
 Der aktuelle Aufbau trägt problemlos einige hundert bis wenige tausend Artikel. Für deutlich größere Bestände sind diese Schritte vorgesehen – jeweils ohne Änderung der Seitenkomponenten:
 
 1. **Katalog aufteilen:** Statt eines Katalogs pro Epoche bzw. Region eigene Dateien, die bei Bedarf geladen werden.
-2. **Suchindex aufteilen oder auslagern:** Ab etwa 10–20 MB Index ein Index pro Epoche, der beim ersten Suchen nachgeladen wird – oder eine serverseitige Suche (Meilisearch, Typesense oder PostgreSQL-Volltext mit `unaccent`), die dieselben Treffertypen zurückgibt. Offline bliebe dann eine Titelsuche verfügbar.
+2. **Register aufteilen:** Bei sehr großen Registern eine Datei pro Anfangsbuchstabe bzw. Epoche, die beim Öffnen des Abschnitts nachgeladen wird.
 3. **Redaktionssystem:** Inhalte können in PostgreSQL gepflegt und vom Build-Skript exportiert werden; die Schemata in `scripts/lib/schema.ts` dienen dabei als Vertrag. Ein Import vorhandener Markdown-/YAML-Bestände ist direkt möglich.
 4. **Bilder:** Responsive Varianten (z. B. 600 und 1200 Pixel) und modernes Format (AVIF/WebP) im Medienimport.
 
@@ -131,11 +129,11 @@ Der aktuelle Aufbau trägt problemlos einige hundert bis wenige tausend Artikel.
 
 ## 8. Barrierefreiheit
 
-Sprunglink zum Inhalt, semantische Überschriften und Landmarken, ARIA-Combobox für die Suche, sichtbare Fokusrahmen, ausreichende Kontraste in beiden Themes, skalierbare Schrift (85–150 %), einstellbarer Zeilenabstand, Serifen- oder serifenlose Leseschrift, reduzierte Bewegung (System und Einstellung), Alternativtexte für alle Abbildungen, Textlisten zu Zeitleiste, Atlas und Wissensnetz.
+Sprunglink zum Inhalt, semantische Überschriften und Landmarken, nummeriertes Inhaltsverzeichnis mit Sprungmarken, sichtbare Fokusrahmen, ausreichende Kontraste in beiden Themes, skalierbare Schrift (85–150 %), einstellbarer Zeilenabstand, Serifen- oder serifenlose Leseschrift, reduzierte Bewegung (System und Einstellung), Alternativtexte für alle Abbildungen, Textlisten zu Zeitleiste, Atlas und Wissensnetz.
 
 ## 9. Tests
 
 - `src/**/*.test.ts`: Datierungen, Normalisierung, Zeitskala
 - `scripts/lib/markup.test.ts`: Markup-Renderer (Verweise, Belege, Kästen, Abbildungen)
-- `scripts/content.test.ts`: baut den gesamten Inhaltsbestand und prüft Mindeststandards (Umfang, Belege, Regionen, Bildlizenzen) sowie die Suche gegen den echten Index
+- `scripts/content.test.ts`: baut den gesamten Inhaltsbestand und prüft Mindeststandards (Umfang, Belege, Regionen, Bildlizenzen) sowie die Vollständigkeit des Inhaltsverzeichnisses
 - `scripts/e2e-smoke.ts`: startet den Produktions-Build mit Produktions-Headern und prüft alle Bereiche in Chromium (Desktop und Smartphone), Lesezeichen-Persistenz, CSP, Cache-Header, Service Worker und Offline-Betrieb

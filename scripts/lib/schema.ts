@@ -192,7 +192,6 @@ export const mediaSchema = z.object({
   reconstruction: z.boolean().default(false),
 })
 
-export const synonymSchema = z.object({ terms: z.array(z.string()).min(2) })
 
 export const articleSchema = z.object({
   id,

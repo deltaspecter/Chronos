@@ -117,7 +117,7 @@ function ArticleHeader({ meta, index }: { meta: ArticleMeta; index: Indexed }) {
           </span>
         )}
         {meta.regions.slice(0, 3).map((r) => (
-          <Link key={r} to={`/suche?region=${r}`} className="hover:text-[var(--text)]">
+          <Link key={r} to={`/inhalt?region=${r}`} className="hover:text-[var(--text)]">
             {regionName(index, r)}
           </Link>
         ))}

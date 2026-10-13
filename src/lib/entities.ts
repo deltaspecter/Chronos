@@ -62,7 +62,7 @@ export function entityInfo(index: Indexed, kind: EntityKind, id: string): Entity
     }
     case 'region': {
       const r = index.regionById.get(id)
-      return r ? { kind, id, title: r.name, summary: '', href: `/suche?region=${id}`, regions: [id] } : null
+      return r ? { kind, id, title: r.name, summary: '', href: `/inhalt?region=${id}`, regions: [id] } : null
     }
   }
 }

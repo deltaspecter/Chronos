@@ -1,8 +1,7 @@
-import { ArrowRight, BookOpen, Clock, Hourglass, Layers, Map, RefreshCw, ShieldCheck, Telescope, Users } from 'lucide-react'
+import { ArrowRight, BookOpen, Clock, Hourglass, Layers, ListTree, Map, RefreshCw, ShieldCheck, Telescope, Users } from 'lucide-react'
 import { useMemo, useState } from 'react'
 import { Link } from 'react-router'
 import { ArticleCard } from '@/components/cards.tsx'
-import { SearchBox } from '@/components/SearchBox.tsx'
 import { DateSpan, PageContainer, SectionHeading } from '@/components/ui.tsx'
 import { WithData } from '@/components/WithData.tsx'
 import { startYear, type Indexed } from '@/data/index.ts'
@@ -42,19 +41,11 @@ function Hero() {
           Von den ersten Steinwerkzeugen bis zur Gegenwart: ausführliche, belegte Artikel, ein Wissensnetz aus Personen, Orten und Ereignissen, eine Zeitleiste paralleler Entwicklungen
           und ein historischer Atlas. In Ihrem eigenen Tempo, ohne Ablenkung.
         </p>
-        <div className="mt-8 max-w-2xl">
-          <SearchBox large />
-          <p className="text-xs muted mt-2">
-            Beispiele:{' '}
-            {['Caesar', 'Karthago', '1789', '3. Jh. v. Chr.', 'Holocaust', 'Mansa Musa'].map((q, i) => (
-              <span key={q}>
-                {i > 0 && ' · '}
-                <Link to={`/suche?q=${encodeURIComponent(q)}`} className="hover:text-[var(--text)] underline decoration-dotted underline-offset-2">
-                  {q}
-                </Link>
-              </span>
-            ))}
-          </p>
+        <div className="mt-8">
+          <Link to="/inhalt" className="btn btn-primary inline-flex items-center gap-2">
+            <ListTree size={18} aria-hidden /> Zum Inhaltsverzeichnis
+          </Link>
+          <p className="text-xs muted mt-2">Alle Artikel nach Epochen geordnet, dazu Register aller Personen, Orte, Ereignisse und Quellen.</p>
         </div>
         <nav className="mt-10 grid grid-cols-2 sm:grid-cols-4 gap-3 max-w-3xl" aria-label="Einstiege">
           {[

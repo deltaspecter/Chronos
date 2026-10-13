@@ -89,18 +89,15 @@ function Bookmarks({ index }: { index: Indexed }) {
 
 function Notes({ index }: { index: Indexed }) {
   const notes = useLibrary((s) => s.notes)
-  const [filter, setFilter] = useState('')
   if (notes.length === 0)
     return (
       <EmptyState icon={<StickyNote />} title="Noch keine Notizen">
         Am Ende jedes Artikels können Sie eigene Notizen festhalten – auch zu einzelnen Abschnitten.
       </EmptyState>
     )
-  const f = filter.toLowerCase()
-  const visible = notes.filter((n) => !f || n.text.toLowerCase().includes(f) || n.target.title.toLowerCase().includes(f))
+  const visible = [...notes].sort((a, b) => b.updated.localeCompare(a.updated))
   return (
     <>
-      <input className="input mb-4 max-w-md" type="search" placeholder="Notizen durchsuchen …" value={filter} onChange={(e) => setFilter(e.target.value)} aria-label="Notizen durchsuchen" />
       <ul className="flex flex-col gap-3">
         {visible.map((n) => {
           const info = entityInfo(index, n.target.kind, n.target.id)
@@ -187,7 +184,7 @@ function OfflineList({ index }: { index: Indexed }) {
       <div className="card p-5 text-sm soft flex flex-col gap-2">
         <p className="font-medium text-[var(--text)]">Was ohne Internet funktioniert</p>
         <p>
-          Nach dem ersten Besuch sind Startseite, Epochen, Themen, Verzeichnisse, Suche, Zeitleiste und Atlas offline nutzbar, ebenso Lesezeichen, Notizen und Einstellungen. Artikeltexte
+          Nach dem ersten Besuch sind Startseite, Inhaltsverzeichnis, Epochen, Themen, Verzeichnisse, Zeitleiste und Atlas offline nutzbar, ebenso Lesezeichen, Notizen und Einstellungen. Artikeltexte
           werden nur gespeichert, wenn Sie sie ausdrücklich offline speichern; die zuletzt gelesenen Artikel (bis zu 30) bleiben zusätzlich vorübergehend verfügbar.
         </p>
         {!offlineSupported() && <p className="text-[var(--danger)]">Dieser Browser erlaubt hier keine Offline-Speicherung (sichere Verbindung über https erforderlich).</p>}
