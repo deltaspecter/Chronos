@@ -1,0 +1,602 @@
+# --- Muhammad und die Entstehung des Islam ---
+- id: erste-offenbarung
+  title: Erste Offenbarung an Muhammad
+  date: "~610"
+  certainty: wahrscheinlich
+  dateNote: Datierung nach der islamischen Überlieferung.
+  weight: 3
+  kind: ereignis
+  summary: Nach der islamischen Überlieferung empfängt Muhammad in einer Höhle am Berg Hira bei Mekka die ersten Offenbarungen; einige Jahre später beginnt er öffentlich zu predigen.
+  regions: [arabische-halbinsel]
+  themes: [religion]
+  places: [mekka]
+  persons: [muhammad, chadidscha]
+- id: hidschra
+  title: Hidschra – Auswanderung nach Medina
+  date: "622"
+  weight: 1
+  kind: ereignis
+  summary: Nach Jahren der Anfeindung in Mekka wandern Muhammad und seine Anhänger nach Yathrib (Medina) aus, wo er zum Schlichter und Anführer der Gemeinde wird; das Jahr wird später zum Beginn der islamischen Zeitrechnung.
+  regions: [arabische-halbinsel]
+  themes: [religion, politik]
+  places: [mekka, medina]
+  persons: [muhammad, abu-bakr]
+- id: schlacht-von-badr
+  title: Schlacht von Badr
+  date: "624-03"
+  weight: 3
+  kind: schlacht
+  summary: Die Muslime aus Medina überfallen eine mekkanische Karawane und besiegen ein überlegenes Aufgebot der Mekkaner; der Sieg gilt in der Überlieferung als Zeichen göttlicher Hilfe.
+  regions: [arabische-halbinsel]
+  themes: [krieg-militaer, religion]
+  places: [badr]
+  persons: [muhammad]
+- id: einnahme-mekkas
+  title: Einnahme Mekkas
+  date: "630-01"
+  weight: 2
+  kind: ereignis
+  summary: Muhammad zieht nahezu kampflos in Mekka ein; die Götterbilder in der Kaaba werden entfernt, die meisten Mekkaner nehmen den Islam an.
+  regions: [arabische-halbinsel]
+  themes: [religion, politik]
+  places: [mekka]
+  persons: [muhammad]
+- id: tod-muhammads
+  title: Tod Muhammads
+  date: "632-06-08"
+  weight: 2
+  kind: ereignis
+  summary: Muhammad stirbt in Medina, ohne eine Nachfolgeregelung zu hinterlassen; die Gemeinde wählt Abu Bakr zu seinem Nachfolger (Kalif).
+  regions: [arabische-halbinsel]
+  themes: [religion, politik]
+  places: [medina]
+  persons: [muhammad, abu-bakr, ali-ibn-abi-talib]
+  polities: [kalifat-der-rechtgeleiteten]
+- id: schlacht-am-jarmuk
+  title: Schlacht am Jarmuk
+  date: "636-08"
+  weight: 3
+  kind: schlacht
+  summary: Arabische Truppen schlagen ein großes oströmisches Heer; Syrien und Palästina gehen für Byzanz verloren.
+  regions: [levante]
+  themes: [krieg-militaer]
+  places: [jarmuk]
+  persons: [herakleios]
+  polities: [kalifat-der-rechtgeleiteten, byzantinisches-reich]
+- id: arabische-eroberungen
+  title: Arabisch-islamische Eroberungen
+  start: "634"
+  end: "~750"
+  weight: 1
+  kind: krieg
+  summary: In wenigen Jahrzehnten erobern arabische Heere das Sasanidenreich und die oströmischen Provinzen im Süden und Osten; unter den Umayyaden reicht das Kalifat von der Iberischen Halbinsel bis an den Indus.
+  regions: [levante, mesopotamien, iran, aegypten, nordafrika, iberische-halbinsel, zentralasien]
+  themes: [imperien, krieg-militaer, religion]
+  places: [jarmuk, ktesiphon, jerusalem, alexandria, damaskus]
+  persons: [umar-ibn-al-chattab, herakleios]
+  polities: [kalifat-der-rechtgeleiteten, umayyaden-kalifat, byzantinisches-reich, sasanidenreich, westgotenreich]
+- id: fall-von-ktesiphon
+  title: Fall von Ktesiphon
+  date: "637"
+  weight: 3
+  kind: schlacht
+  summary: Nach dem Sieg bei al-Qadisiyya nehmen arabische Truppen die sasanidische Hauptstadt ein; der letzte Großkönig flieht nach Osten und wird 651 getötet.
+  regions: [mesopotamien, iran]
+  themes: [krieg-militaer, imperien]
+  places: [ktesiphon]
+  polities: [kalifat-der-rechtgeleiteten, sasanidenreich]
+- id: koran-redaktion
+  title: Kodifizierung des Korans
+  date: "~650"
+  certainty: wahrscheinlich
+  dateNote: Nach islamischer Überlieferung unter dem Kalifen Uthman (644–656); frühe Handschriften bestätigen eine Fixierung des Textes im 7. Jahrhundert.
+  weight: 3
+  kind: entwicklung
+  summary: Nach der Überlieferung lässt Kalif Uthman eine verbindliche schriftliche Fassung des Korans erstellen und abweichende Abschriften vernichten.
+  regions: [arabische-halbinsel]
+  themes: [religion, schrift-medien]
+  places: [medina]
+  persons: [uthman-ibn-affan]
+- id: erster-buergerkrieg-fitna
+  title: Erster Bürgerkrieg der Muslime
+  start: "656"
+  end: "661"
+  weight: 2
+  kind: krieg
+  summary: Nach der Ermordung Uthmans kämpfen Ali, Aischa und Muawiya um die Führung; in der „Kamelschlacht“ und bei Siffin stehen sich Muslime gegenüber. Der Konflikt legt den Grund für die Spaltung in Sunniten und Schiiten.
+  regions: [mesopotamien, levante, arabische-halbinsel]
+  themes: [religion, krieg-militaer]
+  places: [basra, kufa, damaskus]
+  persons: [ali-ibn-abi-talib, aischa, muawiya-i, uthman-ibn-affan]
+  polities: [kalifat-der-rechtgeleiteten, umayyaden-kalifat]
+- id: schlacht-von-kerbela
+  title: Kerbela
+  date: "680-10-10"
+  weight: 2
+  kind: schlacht
+  summary: Husain, der Enkel Muhammads, wird mit einer kleinen Schar von Truppen des Umayyadenkalifen Yazid getötet; das Gedenken an seinen Tod (Aschura) prägt die schiitische Frömmigkeit.
+  regions: [mesopotamien]
+  themes: [religion, gewalt-genozid]
+  places: [karbala]
+  persons: [husain-ibn-ali]
+  polities: [umayyaden-kalifat]
+- id: bau-felsendom
+  title: Bau des Felsendoms
+  date: "691"
+  dateNote: Die Bauinschrift nennt das Jahr 72 der Hidschra (691/92).
+  weight: 3
+  kind: gruendung
+  summary: Kalif Abd al-Malik lässt auf dem Tempelberg in Jerusalem einen prächtigen Kuppelbau errichten, dessen Inschriften zu den ältesten datierten Koranzitaten gehören.
+  regions: [levante]
+  themes: [religion, kultur-kunst]
+  places: [felsendom, jerusalem]
+  polities: [umayyaden-kalifat]
+# --- Ende des Weströmischen Reiches ---
+- id: edikt-von-thessalonike
+  title: Edikt von Thessalonike
+  date: "380-02-28"
+  weight: 3
+  kind: gesetz
+  summary: Kaiser Theodosius I. erklärt den nicänischen Glauben für alle Untertanen verbindlich; in den folgenden Jahren werden heidnische Opfer verboten.
+  regions: [suedosteuropa, italien]
+  themes: [religion]
+  persons: [theodosius-i]
+  polities: [roemisches-kaiserreich]
+- id: goten-ueberqueren-donau
+  title: Goten überqueren die Donau
+  date: "376"
+  weight: 3
+  kind: ereignis
+  summary: Vor den Hunnen fliehende Goten bitten um Aufnahme ins Reich; Kaiser Valens lässt sie über die Donau, doch Versorgungsnot und Übergriffe römischer Beamter führen zum Aufstand.
+  regions: [suedosteuropa]
+  themes: [migration, politik]
+  persons: [valens]
+  polities: [roemisches-kaiserreich, hunnenreich]
+- id: schlacht-von-adrianopel
+  title: Schlacht von Adrianopel
+  date: "378-08-09"
+  weight: 2
+  kind: schlacht
+  summary: Die Goten vernichten das oströmische Heer; Kaiser Valens fällt. Sein Nachfolger Theodosius siedelt sie 382 als Verbündete mit eigenen Anführern im Reich an.
+  regions: [suedosteuropa]
+  themes: [krieg-militaer]
+  places: [edirne]
+  persons: [valens, theodosius-i]
+  polities: [roemisches-kaiserreich]
+- id: reichsteilung-395
+  title: Reichsteilung von 395
+  date: "395-01-17"
+  weight: 2
+  kind: ereignis
+  summary: Nach dem Tod des Theodosius regieren seine Söhne Arcadius im Osten und Honorius im Westen; aus der Verwaltungsteilung wird eine dauerhafte Trennung.
+  regions: [italien, suedosteuropa]
+  themes: [politik, imperien]
+  persons: [theodosius-i, honorius]
+  polities: [roemisches-kaiserreich, westroemisches-reich, byzantinisches-reich]
+- id: rheinuebergang-406
+  title: Rheinübergang von 406
+  date: "406-12-31"
+  certainty: wahrscheinlich
+  dateNote: Das traditionelle Datum beruht auf einer einzigen Chronik; manche Forschende datieren den Übergang auf 405.
+  weight: 3
+  kind: ereignis
+  summary: Vandalen, Alanen und Sueben überschreiten den Rhein und ziehen plündernd durch Gallien bis nach Spanien.
+  regions: [deutschland, frankreich]
+  themes: [migration, krieg-militaer]
+  polities: [westroemisches-reich]
+- id: pluenderung-roms-410
+  title: Plünderung Roms durch die Goten
+  date: "410-08-24"
+  weight: 2
+  kind: ereignis
+  summary: Gotische Truppen unter Alarich plündern drei Tage lang die Stadt Rom – zum ersten Mal seit acht Jahrhunderten fällt sie einem fremden Heer in die Hände. Das Ereignis erschüttert die römische Welt.
+  regions: [italien]
+  themes: [krieg-militaer]
+  places: [rom]
+  persons: [alarich-i, honorius]
+  polities: [westroemisches-reich]
+- id: vandalen-erobern-karthago
+  title: Vandalen erobern Karthago
+  date: "439-10-19"
+  weight: 3
+  kind: krieg
+  summary: Der Verlust der reichsten Provinzen Nordafrikas beraubt das Westreich seiner wichtigsten Steuer- und Getreidequellen.
+  regions: [nordafrika]
+  themes: [krieg-militaer, wirtschaft-handel]
+  places: [karthago]
+  persons: [geiserich]
+  polities: [vandalenreich, westroemisches-reich]
+- id: schlacht-katalaunische-felder
+  title: Schlacht auf den Katalaunischen Feldern
+  date: "451"
+  weight: 2
+  kind: schlacht
+  summary: Ein Heer aus Römern, Westgoten und anderen Verbündeten unter Aetius hält den Vormarsch der Hunnen in Gallien auf.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+  places: [katalaunische-felder]
+  persons: [aetius, attila]
+  polities: [westroemisches-reich, hunnenreich, westgotenreich]
+- id: pluenderung-roms-455
+  title: Plünderung Roms durch die Vandalen
+  date: "455-06"
+  weight: 3
+  kind: ereignis
+  summary: Geiserich landet mit seiner Flotte und lässt Rom zwei Wochen lang plündern; der neuzeitliche Begriff „Vandalismus“ spielt darauf an.
+  regions: [italien]
+  themes: [krieg-militaer]
+  places: [rom]
+  persons: [geiserich]
+  polities: [vandalenreich, westroemisches-reich]
+- id: absetzung-romulus-augustulus
+  title: Absetzung des Romulus Augustulus
+  date: "476-09-04"
+  weight: 1
+  kind: herrschaft
+  summary: Der Heerführer Odoaker setzt den jungen Kaiser in Ravenna ab und schickt die Herrschaftszeichen nach Konstantinopel; einen weströmischen Kaiser gibt es danach nicht mehr. Das Datum gilt traditionell als Ende des Weströmischen Reichs.
+  regions: [italien]
+  themes: [politik]
+  places: [ravenna]
+  persons: [odoaker, romulus-augustulus]
+  polities: [westroemisches-reich]
+- id: theoderich-erobert-italien
+  title: Theoderich erobert Italien
+  start: "489"
+  end: "493"
+  weight: 3
+  kind: krieg
+  summary: Im Auftrag des oströmischen Kaisers zieht der Ostgotenkönig Theoderich nach Italien, belagert Odoaker in Ravenna und tötet ihn nach der Übergabe eigenhändig.
+  regions: [italien]
+  themes: [krieg-militaer]
+  places: [ravenna]
+  persons: [theoderich-der-grosse, odoaker]
+  polities: [ostgotenreich]
+- id: taufe-chlodwigs
+  title: Taufe Chlodwigs
+  date: "~498"
+  certainty: umstritten
+  dateNote: Das Jahr ist umstritten; vorgeschlagen werden Daten zwischen 496 und 508.
+  weight: 3
+  kind: ereignis
+  summary: Der Frankenkönig lässt sich in Reims katholisch taufen und gewinnt damit die Unterstützung der gallorömischen Bischöfe.
+  regions: [frankreich]
+  themes: [religion, politik]
+  persons: [chlodwig-i]
+  polities: [frankenreich]
+# --- Haitianische Revolution ---
+- id: aufstand-oge
+  title: Aufstand von Vincent Ogé
+  date: "1790-10"
+  weight: 3
+  kind: ereignis
+  summary: Der freie Farbige Vincent Ogé greift zu den Waffen, um die politischen Rechte durchzusetzen, die die Nationalversammlung den freien Farbigen zugesagt hatte; er wird gefangen und 1791 hingerichtet.
+  regions: [karibik]
+  themes: [revolutionen]
+  places: [cap-francais]
+  persons: [vincent-oge]
+  polities: [saint-domingue]
+- id: zeremonie-bois-caiman
+  title: Zeremonie von Bois Caïman
+  date: "1791-08-14"
+  certainty: umstritten
+  dateNote: Datum, Ablauf und Teilnehmer beruhen auf späteren Berichten und sind umstritten.
+  weight: 3
+  kind: ereignis
+  summary: Nach der Überlieferung versammeln sich Versklavte in einem Wald, schwören sich unter Leitung Dutty Boukmans und einer Priesterin auf den Aufstand ein und vollziehen ein religiöses Ritual.
+  regions: [karibik]
+  themes: [religion, revolutionen]
+  places: [bois-caiman]
+  persons: [dutty-boukman]
+  polities: [saint-domingue]
+- id: sklavenaufstand-1791
+  title: Großer Aufstand der Versklavten
+  date: "1791-08-22"
+  weight: 2
+  kind: revolution
+  summary: In der Nacht zum 23. August erheben sich die Versklavten der Nordebene, brennen Plantagen nieder und töten Pflanzer; binnen Wochen kontrollieren Zehntausende Aufständische große Teile der Provinz.
+  regions: [karibik]
+  themes: [revolutionen, sklaverei-unfreiheit]
+  places: [cap-francais]
+  persons: [dutty-boukman, toussaint-louverture]
+  polities: [saint-domingue]
+- id: freiheitsproklamation-1793
+  title: Freiheitsproklamation von Sonthonax
+  date: "1793-08-29"
+  weight: 3
+  kind: gesetz
+  summary: Um die Kolonie gegen Spanier und Briten zu halten, erklärt der republikanische Kommissar Sonthonax alle Versklavten der Nordprovinz für frei.
+  regions: [karibik]
+  themes: [sklaverei-unfreiheit, revolutionen]
+  places: [cap-francais]
+  persons: [leger-felicite-sonthonax]
+  polities: [saint-domingue, erste-franzoesische-republik]
+- id: verfassung-saint-domingue-1801
+  title: Verfassung von Saint-Domingue
+  date: "1801-07-08"
+  weight: 3
+  kind: gesetz
+  summary: Toussaint Louverture lässt eine Verfassung verkünden, die die Sklaverei für immer verbietet und ihn zum Gouverneur auf Lebenszeit macht – formell innerhalb des französischen Reiches.
+  regions: [karibik]
+  themes: [verfassung-recht, revolutionen]
+  persons: [toussaint-louverture]
+  polities: [saint-domingue]
+- id: expedition-leclerc
+  title: Expedition Leclerc
+  start: "1802-02"
+  end: "1803-11"
+  weight: 2
+  kind: krieg
+  summary: Napoleon schickt über 20.000 Soldaten, um die französische Herrschaft wiederherzustellen; Toussaint wird im Juni 1802 durch eine List gefangen genommen und nach Frankreich gebracht.
+  regions: [karibik]
+  themes: [krieg-militaer, sklaverei-unfreiheit]
+  places: [cap-francais, fort-de-joux]
+  persons: [charles-leclerc, toussaint-louverture, napoleon-bonaparte, jean-jacques-dessalines]
+  polities: [saint-domingue, erste-franzoesische-republik]
+- id: wiedereinfuehrung-sklaverei-1802
+  title: Napoleon führt die Sklaverei wieder ein
+  date: "1802-05-20"
+  weight: 3
+  kind: gesetz
+  summary: Ein Gesetz bestätigt die Sklaverei in den Kolonien, die Frankreich von Großbritannien zurückerhalten hat; in Guadeloupe wird sie mit Gewalt wiederhergestellt. Die Nachricht treibt den Widerstand in Saint-Domingue an.
+  regions: [karibik, frankreich]
+  themes: [sklaverei-unfreiheit]
+  persons: [napoleon-bonaparte]
+  polities: [erste-franzoesische-republik]
+- id: schlacht-von-vertieres
+  title: Schlacht von Vertières
+  date: "1803-11-18"
+  weight: 3
+  kind: schlacht
+  summary: Die Armee Dessalines’ schlägt die letzten französischen Truppen vor Cap-Français; wenige Tage später räumen die Franzosen die Kolonie.
+  regions: [karibik]
+  themes: [krieg-militaer]
+  places: [vertieres, cap-francais]
+  persons: [jean-jacques-dessalines]
+  polities: [saint-domingue]
+- id: unabhaengigkeit-haitis
+  title: Unabhängigkeit Haitis
+  date: "1804-01-01"
+  weight: 1
+  kind: gruendung
+  summary: In Gonaïves verkündet Dessalines die Unabhängigkeit und gibt dem Land den indigenen Namen Haiti – der erste Staat, der aus einer erfolgreichen Erhebung Versklavter hervorging.
+  regions: [karibik]
+  themes: [revolutionen, sklaverei-unfreiheit]
+  places: [gonaives]
+  persons: [jean-jacques-dessalines]
+  polities: [haiti]
+- id: massaker-1804
+  title: Tötung der verbliebenen Franzosen
+  start: "1804-02"
+  end: "1804-04"
+  weight: 3
+  kind: ereignis
+  summary: Auf Befehl Dessalines’ werden mehrere Tausend in Haiti verbliebene Weiße getötet; einige Gruppen wie polnische Soldaten und Ärzte werden verschont. Die Morde prägen das Bild Haitis im Ausland für lange Zeit.
+  regions: [karibik]
+  themes: [gewalt-genozid]
+  persons: [jean-jacques-dessalines]
+  polities: [haiti]
+- id: entschaedigung-1825
+  title: Französische „Entschädigungsforderung“
+  date: "1825-04-17"
+  weight: 3
+  kind: vertrag
+  summary: Unter Androhung militärischer Gewalt erkennt Frankreich die Unabhängigkeit Haitis nur gegen eine Zahlung von 150 Millionen Franc an die früheren Pflanzer an; die Schuld und die zu ihrer Bezahlung aufgenommenen Kredite belasten Haiti über Jahrzehnte.
+  regions: [karibik, frankreich]
+  themes: [wirtschaft-handel, politik]
+  polities: [haiti]
+# --- Napoleon ---
+- id: belagerung-von-toulon
+  title: Belagerung von Toulon
+  start: "1793-09"
+  end: "1793-12-19"
+  weight: 3
+  kind: schlacht
+  summary: Republikanische Truppen erobern den von royalistischen Aufständischen an die Briten übergebenen Hafen zurück; der junge Artillerieoffizier Bonaparte wird zum General befördert.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+  places: [toulon]
+  persons: [napoleon-bonaparte]
+  polities: [erste-franzoesische-republik]
+- id: italienfeldzug-1796
+  title: Italienfeldzug
+  start: "1796-03"
+  end: "1797-10-17"
+  weight: 3
+  kind: krieg
+  summary: Bonaparte besiegt mit einer schlecht ausgerüsteten Armee die Österreicher und Piemontesen, gründet Tochterrepubliken und diktiert den Frieden von Campo Formio.
+  regions: [italien]
+  themes: [krieg-militaer]
+  persons: [napoleon-bonaparte]
+  polities: [erste-franzoesische-republik]
+- id: aegyptenfeldzug
+  title: Ägyptenfeldzug
+  start: "1798-05"
+  end: "1801-09"
+  weight: 2
+  kind: krieg
+  summary: Bonaparte erobert Ägypten, doch Nelson vernichtet seine Flotte bei Abukir; Bonaparte kehrt 1799 allein nach Frankreich zurück. Mitgereiste Gelehrte begründen die moderne Ägyptologie; ihre Soldaten finden den Stein von Rosette.
+  regions: [aegypten, levante]
+  themes: [krieg-militaer, wissenschaft-technik, imperien]
+  places: [alexandria, kairo, gizeh, rosette]
+  persons: [napoleon-bonaparte, horatio-nelson]
+  polities: [erste-franzoesische-republik, osmanisches-reich]
+- id: schlacht-bei-marengo
+  title: Schlacht bei Marengo
+  date: "1800-06-14"
+  weight: 3
+  kind: schlacht
+  summary: Erst ein spät eintreffendes Korps wendet die schon verlorene Schlacht gegen die Österreicher; der Sieg sichert Bonapartes Herrschaft als Erster Konsul.
+  regions: [italien]
+  themes: [krieg-militaer]
+  places: [marengo]
+  persons: [napoleon-bonaparte]
+  polities: [erste-franzoesische-republik]
+- id: konkordat-1801
+  title: Konkordat von 1801
+  date: "1801-07-15"
+  weight: 3
+  kind: vertrag
+  summary: Bonaparte und Papst Pius VII. versöhnen Staat und katholische Kirche in Frankreich; der Katholizismus gilt als Religion der Mehrheit, die Bischöfe ernennt der Staat.
+  regions: [frankreich]
+  themes: [religion]
+  persons: [napoleon-bonaparte, pius-vii]
+  polities: [erste-franzoesische-republik]
+- id: code-civil-1804
+  title: Code civil
+  date: "1804-03-21"
+  weight: 2
+  kind: gesetz
+  summary: Das bürgerliche Gesetzbuch schreibt Rechtsgleichheit, Eigentumsfreiheit und Zivilehe fest – und zugleich die Unterordnung der Ehefrau unter den Mann; es wird Vorbild für Zivilgesetzbücher in vielen Ländern.
+  regions: [frankreich, europa]
+  themes: [verfassung-recht]
+  places: [paris]
+  persons: [napoleon-bonaparte]
+  polities: [erste-franzoesische-republik]
+- id: kaiserkroenung-napoleons
+  title: Kaiserkrönung Napoleons
+  date: "1804-12-02"
+  weight: 2
+  kind: herrschaft
+  summary: In Notre-Dame setzt sich Napoleon in Anwesenheit von Papst Pius VII. selbst die Kaiserkrone auf.
+  regions: [frankreich]
+  themes: [politik]
+  places: [paris]
+  persons: [napoleon-bonaparte, josephine-de-beauharnais, pius-vii]
+  polities: [erstes-franzoesisches-kaiserreich]
+- id: schlacht-von-trafalgar
+  title: Seeschlacht von Trafalgar
+  date: "1805-10-21"
+  weight: 2
+  kind: schlacht
+  summary: Die britische Flotte unter Nelson vernichtet die französisch-spanische Flotte; Großbritannien beherrscht für ein Jahrhundert die Meere, eine Invasion Englands ist unmöglich geworden.
+  regions: [atlantik, iberische-halbinsel]
+  themes: [krieg-militaer]
+  places: [trafalgar]
+  persons: [horatio-nelson]
+  polities: [vereinigtes-koenigreich, erstes-franzoesisches-kaiserreich]
+- id: schlacht-bei-austerlitz
+  title: Schlacht bei Austerlitz
+  date: "1805-12-02"
+  weight: 2
+  kind: schlacht
+  summary: In der „Dreikaiserschlacht“ besiegt Napoleon die Heere Österreichs und Russlands; Österreich muss im Frieden von Pressburg große Gebiete abtreten.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+  places: [austerlitz]
+  persons: [napoleon-bonaparte, alexander-i, franz-ii]
+  polities: [erstes-franzoesisches-kaiserreich, habsburgermonarchie]
+- id: ende-heiliges-roemisches-reich
+  title: Ende des Heiligen Römischen Reichs
+  date: "1806-08-06"
+  weight: 2
+  kind: ereignis
+  summary: Nach der Gründung des Rheinbunds legt Franz II. die römisch-deutsche Kaiserkrone nieder und erklärt das Reich für erloschen.
+  regions: [deutschland, mitteleuropa]
+  themes: [politik]
+  places: [wien]
+  persons: [franz-ii, napoleon-bonaparte]
+  polities: [heiliges-roemisches-reich, rheinbund]
+- id: jena-und-auerstedt
+  title: Schlacht bei Jena und Auerstedt
+  date: "1806-10-14"
+  weight: 2
+  kind: schlacht
+  summary: Die preußische Armee bricht an einem Tag zusammen; Napoleon zieht in Berlin ein. Preußen beginnt danach tiefgreifende Reformen.
+  regions: [deutschland]
+  themes: [krieg-militaer]
+  places: [jena, berlin]
+  persons: [napoleon-bonaparte]
+  polities: [koenigreich-preussen, erstes-franzoesisches-kaiserreich]
+- id: kontinentalsperre
+  title: Kontinentalsperre
+  start: "1806-11-21"
+  end: "1814"
+  weight: 3
+  kind: gesetz
+  summary: Mit dem Berliner Dekret verbietet Napoleon allen von ihm beherrschten und verbündeten Staaten den Handel mit Großbritannien; Schmuggel und Versorgungsmängel untergraben die Maßnahme.
+  regions: [europa]
+  themes: [wirtschaft-handel]
+  places: [berlin]
+  persons: [napoleon-bonaparte]
+  polities: [erstes-franzoesisches-kaiserreich, vereinigtes-koenigreich]
+- id: frieden-von-tilsit
+  title: Frieden von Tilsit
+  date: "1807-07-07"
+  dateNote: Der Vertrag mit Russland wurde am 7., der mit Preußen am 9. Juli 1807 unterzeichnet.
+  weight: 3
+  kind: vertrag
+  summary: Napoleon und Alexander I. teilen Europa in Einflusszonen auf; Preußen verliert etwa die Hälfte seines Gebiets.
+  regions: [osteuropa, mitteleuropa]
+  themes: [politik]
+  places: [tilsit]
+  persons: [napoleon-bonaparte, alexander-i]
+  polities: [erstes-franzoesisches-kaiserreich, russisches-kaiserreich, koenigreich-preussen]
+- id: spanischer-unabhaengigkeitskrieg
+  title: Spanischer Unabhängigkeitskrieg
+  start: "1808-05-02"
+  end: "1814"
+  weight: 2
+  kind: krieg
+  summary: Nach dem Aufstand in Madrid am 2. Mai 1808 kämpfen spanische Armeen, Guerillas und britische Truppen gegen die französische Besatzung; der Krieg bindet Hunderttausende französische Soldaten.
+  regions: [iberische-halbinsel]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [madrid]
+  persons: [napoleon-bonaparte, francisco-de-goya, wellington]
+  polities: [erstes-franzoesisches-kaiserreich]
+- id: russlandfeldzug-1812
+  title: Russlandfeldzug
+  start: "1812-06-24"
+  end: "1812-12"
+  weight: 1
+  kind: krieg
+  summary: Mit über 600.000 Mann aus ganz Europa marschiert Napoleon nach Russland, erreicht nach der Schlacht von Borodino das brennende Moskau und muss sich im Winter zurückziehen; der größte Teil der Armee geht zugrunde.
+  regions: [russland, osteuropa]
+  themes: [krieg-militaer]
+  places: [borodino, moskau]
+  persons: [napoleon-bonaparte, alexander-i]
+  polities: [erstes-franzoesisches-kaiserreich, russisches-kaiserreich]
+- id: voelkerschlacht-bei-leipzig
+  title: Völkerschlacht bei Leipzig
+  start: "1813-10-16"
+  end: "1813-10-19"
+  weight: 2
+  kind: schlacht
+  summary: Die verbündeten Heere Russlands, Preußens, Österreichs und Schwedens besiegen Napoleon; der Rheinbund zerfällt.
+  regions: [deutschland]
+  themes: [krieg-militaer]
+  places: [leipzig]
+  persons: [napoleon-bonaparte, gebhard-leberecht-von-bluecher]
+  polities: [erstes-franzoesisches-kaiserreich, koenigreich-preussen, russisches-kaiserreich, habsburgermonarchie, rheinbund]
+- id: wiener-kongress
+  title: Wiener Kongress
+  start: "1814-09-18"
+  end: "1815-06-09"
+  weight: 2
+  kind: vertrag
+  summary: Die Mächte ordnen Europa nach Napoleon neu, stellen Monarchien wieder her und gründen den Deutschen Bund; ein Gleichgewicht der Großmächte soll künftige Kriege verhindern.
+  regions: [europa]
+  themes: [politik]
+  places: [wien]
+  persons: [klemens-von-metternich, talleyrand, alexander-i]
+  polities: [habsburgermonarchie, russisches-kaiserreich, koenigreich-preussen, vereinigtes-koenigreich]
+- id: schlacht-bei-waterloo
+  title: Schlacht bei Waterloo
+  date: "1815-06-18"
+  weight: 2
+  kind: schlacht
+  summary: Nach seiner Rückkehr von Elba wird Napoleon von britischen, niederländischen, deutschen und preußischen Truppen endgültig geschlagen; er dankt ab und wird nach St. Helena verbannt.
+  regions: [westeuropa]
+  themes: [krieg-militaer]
+  places: [waterloo, elba, st-helena]
+  persons: [napoleon-bonaparte, wellington, gebhard-leberecht-von-bluecher]
+  polities: [erstes-franzoesisches-kaiserreich, vereinigtes-koenigreich, koenigreich-preussen]
+- id: tod-napoleons
+  title: Tod Napoleons
+  date: "1821-05-05"
+  weight: 3
+  kind: ereignis
+  summary: Napoleon stirbt mit 51 Jahren in der Verbannung auf St. Helena, wahrscheinlich an Magenkrebs; 1840 werden seine Gebeine nach Paris überführt.
+  regions: [atlantik]
+  themes: [politik]
+  places: [st-helena]
+  persons: [napoleon-bonaparte]

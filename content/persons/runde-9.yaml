@@ -1,0 +1,437 @@
+# Personen: Muhammad und die Entstehung des Islam
+- id: muhammad
+  name: Muhammad
+  aliases: [Mohammed, Muhammad ibn Abdallah, Prophet Muhammad]
+  born: "~570"
+  died: "632-06-08"
+  roles: [Prophet, Gemeindeführer]
+  summary: Kaufmann aus Mekka, der nach islamischer Überlieferung ab etwa 610 Offenbarungen empfing, 622 mit seinen Anhängern nach Medina auswanderte und bei seinem Tod große Teile Arabiens unter seiner Führung vereint hatte; für Muslime der letzte Prophet Gottes.
+  regions: [arabische-halbinsel]
+  themes: [religion, politik]
+  places: [mekka, medina, badr]
+  related: [chadidscha, abu-bakr, ali-ibn-abi-talib, aischa]
+- id: chadidscha
+  name: Chadidscha bint Chuwailid
+  aliases: [Khadija, Chadidja]
+  died: "619"
+  roles: [Kauffrau]
+  summary: Wohlhabende Kauffrau in Mekka, erste Ehefrau Muhammads und nach der Überlieferung der erste Mensch, der an seine Sendung glaubte.
+  regions: [arabische-halbinsel]
+  themes: [religion, wirtschaft-handel]
+  places: [mekka]
+  related: [muhammad]
+- id: abu-talib
+  name: Abu Talib
+  died: "619"
+  roles: [Clanoberhaupt]
+  summary: Onkel Muhammads und Oberhaupt des Clans Haschim, der seinen Neffen schützte, ohne selbst Muslim zu werden; Vater Alis.
+  regions: [arabische-halbinsel]
+  themes: [gesellschaft]
+  places: [mekka]
+  related: [muhammad, ali-ibn-abi-talib]
+- id: abu-bakr
+  name: Abu Bakr
+  died: "634-08-23"
+  roles: [Kalif]
+  summary: Früher Anhänger und Schwiegervater Muhammads, nach dessen Tod 632 der erste Kalif; schlug die Abfallbewegungen in Arabien nieder.
+  regions: [arabische-halbinsel]
+  themes: [religion, politik]
+  places: [mekka, medina]
+  related: [muhammad, aischa, umar-ibn-al-chattab]
+- id: umar-ibn-al-chattab
+  name: Umar ibn al-Chattab
+  aliases: [Umar I., Omar]
+  died: "644-11"
+  roles: [Kalif]
+  summary: Zweiter Kalif (634–644), unter dem arabische Heere Syrien, Palästina, den Irak, Ägypten und große Teile Irans eroberten; führte die islamische Zeitrechnung ab der Hidschra ein.
+  regions: [arabische-halbinsel, levante, mesopotamien]
+  themes: [imperien, politik]
+  places: [medina, jerusalem]
+  related: [abu-bakr]
+- id: uthman-ibn-affan
+  name: Uthman ibn Affan
+  died: "656-06-17"
+  roles: [Kalif]
+  summary: Dritter Kalif (644–656) aus der mekkanischen Familie der Umayya, unter dem nach der Überlieferung der Koran in einer verbindlichen Fassung festgelegt wurde; von Aufständischen ermordet.
+  regions: [arabische-halbinsel]
+  themes: [religion, politik]
+  places: [medina]
+- id: ali-ibn-abi-talib
+  name: Ali ibn Abi Talib
+  aliases: [Ali]
+  died: "661-01"
+  roles: [Kalif, Imam]
+  summary: Cousin und Schwiegersohn Muhammads, vierter Kalif (656–661); für die Schiiten der erste rechtmäßige Imam. Seine Herrschaft war vom ersten Bürgerkrieg der Muslime geprägt; er wurde in Kufa ermordet.
+  regions: [arabische-halbinsel, mesopotamien]
+  themes: [religion, politik]
+  places: [medina, kufa]
+  related: [muhammad, husain-ibn-ali, muawiya-i]
+- id: aischa
+  name: Aischa bint Abi Bakr
+  aliases: [Aisha]
+  died: "678"
+  roles: [Überlieferin]
+  summary: Tochter Abu Bakrs und Ehefrau Muhammads, eine der wichtigsten Überlieferinnen von Aussprüchen des Propheten; stellte sich 656 in der „Kamelschlacht“ gegen Ali.
+  regions: [arabische-halbinsel]
+  themes: [religion]
+  places: [medina, basra]
+  related: [muhammad, abu-bakr]
+- id: muawiya-i
+  name: Muawiya I.
+  aliases: [Muawiya ibn Abi Sufyan]
+  died: "680"
+  roles: [Statthalter, Kalif]
+  summary: Statthalter Syriens aus der Familie der Umayya, der sich im Bürgerkrieg gegen Ali durchsetzte und 661 das Kalifat der Umayyaden mit Sitz in Damaskus begründete.
+  regions: [levante]
+  themes: [politik, imperien]
+  places: [damaskus]
+  related: [ali-ibn-abi-talib]
+- id: husain-ibn-ali
+  name: Husain ibn Ali
+  aliases: [Hussein, Husayn]
+  born: "626"
+  died: "680-10-10"
+  roles: [Imam]
+  summary: Enkel Muhammads und Sohn Alis, der 680 bei Kerbela im Kampf gegen die Truppen des Umayyadenkalifen Yazid getötet wurde; sein Tod ist bis heute zentral für die schiitische Frömmigkeit (Aschura).
+  regions: [mesopotamien]
+  themes: [religion]
+  places: [karbala]
+  related: [ali-ibn-abi-talib]
+- id: herakleios
+  name: Herakleios
+  aliases: [Heraclius]
+  born: "~575"
+  died: "641-02-11"
+  roles: [Oströmischer Kaiser]
+  summary: Kaiser ab 610, der nach einem langen Krieg 628 die Sasaniden besiegte, kurz darauf aber Syrien, Palästina und Ägypten an die arabischen Heere verlor.
+  regions: [anatolien, levante]
+  themes: [imperien, krieg-militaer]
+  places: [istanbul, jerusalem]
+- id: ibn-ishaq
+  name: Ibn Ishaq
+  born: "~704"
+  died: "~767"
+  roles: [Gelehrter, Biograph]
+  summary: Gelehrter aus Medina, der in Bagdad die älteste erhaltene Lebensbeschreibung Muhammads verfasste.
+  regions: [arabische-halbinsel, mesopotamien]
+  themes: [geschichtsschreibung]
+  places: [medina]
+# Personen: Ende des Weströmischen Reiches
+- id: konstantin-i
+  name: Konstantin der Große
+  aliases: [Konstantin I., Flavius Valerius Constantinus]
+  born: "~275"
+  died: "337-05-22"
+  roles: [Römischer Kaiser]
+  summary: Kaiser ab 306, der das Christentum förderte, 324 Alleinherrscher wurde und 330 Konstantinopel als neue Hauptstadt einweihte.
+  regions: [italien, anatolien, suedosteuropa]
+  themes: [religion, imperien]
+  places: [trier, rom, istanbul]
+- id: theodosius-i
+  name: Theodosius I.
+  aliases: [Theodosius der Große]
+  born: "347-01-11"
+  died: "395-01-17"
+  roles: [Römischer Kaiser]
+  summary: Kaiser ab 379, der nach Adrianopel Goten als Verbündete im Reich ansiedelte, das nicänische Christentum zur verbindlichen Religion erklärte und als letzter das Gesamtreich beherrschte.
+  regions: [suedosteuropa, italien]
+  themes: [religion, politik]
+  places: [istanbul, mailand]
+- id: valens
+  name: Valens
+  born: "328"
+  died: "378-08-09"
+  roles: [Römischer Kaiser]
+  summary: Kaiser im Osten, der 376 Goten über die Donau ins Reich ließ und 378 bei Adrianopel gegen sie fiel.
+  regions: [suedosteuropa]
+  themes: [krieg-militaer]
+  places: [edirne]
+- id: stilicho
+  name: Stilicho
+  aliases: [Flavius Stilicho]
+  born: "~365"
+  died: "408-08-22"
+  roles: [Heermeister]
+  summary: Römischer Feldherr vandalischer Abstammung, der für den jungen Kaiser Honorius das Westreich lenkte und 408 hingerichtet wurde.
+  regions: [italien]
+  themes: [krieg-militaer, politik]
+  places: [ravenna, mailand]
+  related: [honorius, alarich-i]
+- id: honorius
+  name: Honorius
+  born: "384-09-09"
+  died: "423-08-15"
+  roles: [Weströmischer Kaiser]
+  summary: Sohn des Theodosius und Kaiser des Westens ab 395, der den Hof 402 nach Ravenna verlegte und von dort die Plünderung Roms 410 erlebte.
+  regions: [italien]
+  themes: [politik]
+  places: [ravenna]
+- id: alarich-i
+  name: Alarich I.
+  aliases: [Alarich]
+  born: "~370"
+  died: "410"
+  roles: [Anführer der Goten]
+  summary: Gotischer Heerführer in römischen Diensten, der nach gescheiterten Verhandlungen mit dem Westreich im August 410 Rom plündern ließ.
+  regions: [suedosteuropa, italien]
+  themes: [krieg-militaer]
+  places: [rom]
+- id: galla-placidia
+  name: Galla Placidia
+  born: "~390"
+  died: "450-11-27"
+  roles: [Kaiserin]
+  summary: Tochter des Theodosius, Geisel und dann Ehefrau des Gotenkönigs Athaulf, später als Mutter Valentinians III. jahrelang Regentin des Westreichs.
+  regions: [italien]
+  themes: [politik]
+  places: [ravenna, rom]
+- id: aetius
+  name: Flavius Aetius
+  aliases: [Aetius]
+  born: "~390"
+  died: "454-09-21"
+  roles: [Heermeister]
+  summary: Mächtigster Feldherr des Westreichs, der 451 auf den Katalaunischen Feldern die Hunnen aufhielt und 454 von Kaiser Valentinian III. eigenhändig getötet wurde.
+  regions: [italien, frankreich]
+  themes: [krieg-militaer]
+  places: [katalaunische-felder, ravenna]
+  related: [attila]
+- id: attila
+  name: Attila
+  died: "453"
+  roles: [König der Hunnen]
+  summary: Herrscher eines Steppenreichs nördlich der Donau, das beide Reichshälften erpresste; 451 griff er Gallien, 452 Italien an.
+  regions: [mitteleuropa, suedosteuropa]
+  themes: [krieg-militaer, imperien]
+  places: [katalaunische-felder, aquileia]
+- id: geiserich
+  name: Geiserich
+  aliases: [Gaiseric, Genserich]
+  died: "477-01-25"
+  roles: [König der Vandalen]
+  summary: König der Vandalen, der 429 nach Nordafrika übersetzte, 439 Karthago eroberte und 455 Rom plündern ließ.
+  regions: [nordafrika, mittelmeer]
+  themes: [krieg-militaer, imperien]
+  places: [karthago, rom, hippo-regius]
+- id: odoaker
+  name: Odoaker
+  aliases: [Odovacar]
+  died: "493-03-15"
+  roles: [Heerführer, König in Italien]
+  summary: Germanischer Offizier im römischen Heer, der 476 den jungen Kaiser Romulus absetzte und Italien als König regierte, bis Theoderich ihn 493 tötete.
+  regions: [italien]
+  themes: [politik]
+  places: [ravenna]
+  related: [romulus-augustulus, theoderich-der-grosse]
+- id: romulus-augustulus
+  name: Romulus Augustulus
+  aliases: [Romulus]
+  roles: [Weströmischer Kaiser]
+  summary: Jugendlicher Sohn des Heermeisters Orestes, von seinem Vater 475 zum Kaiser erhoben und 476 von Odoaker abgesetzt und mit einer Pension nach Kampanien geschickt.
+  regions: [italien]
+  themes: [politik]
+  places: [ravenna]
+- id: theoderich-der-grosse
+  name: Theoderich der Große
+  aliases: [Theoderich, Dietrich von Bern]
+  born: "~451"
+  died: "526-08-30"
+  roles: [König der Ostgoten]
+  summary: Ostgotischer König, der 493 im Auftrag des oströmischen Kaisers Italien eroberte und von Ravenna aus mit Unterstützung der römischen Eliten regierte.
+  regions: [italien]
+  themes: [politik]
+  places: [ravenna]
+- id: chlodwig-i
+  name: Chlodwig I.
+  aliases: [Clovis]
+  born: "~466"
+  died: "511-11-27"
+  roles: [König der Franken]
+  summary: Merowingischer König, der Gallien weitgehend unter fränkischer Herrschaft einte und sich katholisch taufen ließ.
+  regions: [frankreich]
+  themes: [politik, religion]
+  places: [soissons, paris]
+- id: augustinus
+  name: Augustinus von Hippo
+  aliases: [Aurelius Augustinus, Augustin]
+  born: "354-11-13"
+  died: "430-08-28"
+  roles: [Bischof, Kirchenlehrer]
+  summary: Nordafrikanischer Theologe, der nach der Plünderung Roms den „Gottesstaat“ schrieb und als Bischof von Hippo während der Belagerung durch die Vandalen starb.
+  regions: [nordafrika, italien]
+  themes: [religion]
+  places: [hippo-regius, mailand]
+- id: severin-von-noricum
+  name: Severin von Noricum
+  died: "482-01-08"
+  roles: [Mönch]
+  summary: Mönch, der in den Donauprovinzen Noricums die Bevölkerung organisierte, als die römische Verwaltung dort zusammenbrach.
+  regions: [mitteleuropa]
+  themes: [religion, gesellschaft]
+# Personen: Haitianische Revolution
+- id: jean-jacques-dessalines
+  name: Jean-Jacques Dessalines
+  born: "1758-09-20"
+  died: "1806-10-17"
+  roles: [General, Kaiser von Haiti]
+  summary: Ehemals versklavter General, der die Revolution nach Toussaints Gefangennahme zum Sieg führte, 1804 die Unabhängigkeit Haitis verkündete, sich zum Kaiser krönen ließ und 1806 ermordet wurde.
+  regions: [karibik]
+  themes: [revolutionen, krieg-militaer]
+  places: [gonaives, vertieres]
+  related: [toussaint-louverture, henri-christophe]
+- id: henri-christophe
+  name: Henri Christophe
+  born: "1767-10-06"
+  died: "1820-10-08"
+  roles: [General, König von Haiti]
+  summary: Revolutionsgeneral, der nach Dessalines’ Tod den Norden Haitis regierte, sich 1811 zum König krönte und die Citadelle Laferrière bauen ließ.
+  regions: [karibik]
+  themes: [politik]
+  places: [cap-francais, citadelle-laferriere]
+- id: alexandre-petion
+  name: Alexandre Pétion
+  born: "1770-04-02"
+  died: "1818-03-29"
+  roles: [General, Präsident]
+  summary: Aus der freien farbigen Bevölkerung stammender General, Präsident der Republik im Süden Haitis, der Simón Bolívar Zuflucht und Unterstützung gewährte.
+  regions: [karibik]
+  themes: [politik]
+  places: [port-au-prince]
+- id: dutty-boukman
+  name: Dutty Boukman
+  aliases: [Boukman]
+  died: "1791-11"
+  roles: [Aufstandsführer]
+  summary: Versklavter Kutscher und religiöser Anführer, der nach der Überlieferung die Zeremonie von Bois Caïman leitete und den Aufstand im August 1791 mit anführte; im November 1791 getötet.
+  regions: [karibik]
+  themes: [revolutionen, religion]
+  places: [bois-caiman]
+- id: leger-felicite-sonthonax
+  name: Léger-Félicité Sonthonax
+  born: "1763-03-07"
+  died: "1813"
+  roles: [Zivilkommissar]
+  summary: Jakobinischer Kommissar der Republik in Saint-Domingue, der im August 1793 die Freiheit aller Versklavten in der Nordprovinz verkündete.
+  regions: [karibik, frankreich]
+  themes: [revolutionen]
+  places: [cap-francais]
+- id: charles-leclerc
+  name: Charles Leclerc
+  aliases: [Charles Victoire Emmanuel Leclerc]
+  born: "1772-03-17"
+  died: "1802-11-02"
+  roles: [General]
+  summary: Schwager Napoleons und Befehlshaber der Expedition, die 1802 die französische Herrschaft auf Saint-Domingue wiederherstellen sollte; starb dort am Gelbfieber.
+  regions: [karibik, frankreich]
+  themes: [krieg-militaer]
+  places: [cap-francais]
+  related: [napoleon-bonaparte, toussaint-louverture]
+- id: vincent-oge
+  name: Vincent Ogé
+  died: "1791-02-06"
+  roles: [Kaufmann, Aufstandsführer]
+  summary: Freier Farbiger aus Saint-Domingue, der 1790 mit Waffen gegen die Verweigerung politischer Rechte kämpfte und 1791 in Cap-Français gerädert wurde.
+  regions: [karibik]
+  themes: [revolutionen]
+  places: [cap-francais]
+# Personen: Napoleon
+- id: josephine-de-beauharnais
+  name: Joséphine de Beauharnais
+  aliases: [Joséphine, Kaiserin Joséphine]
+  born: "1763-06-23"
+  died: "1814-05-29"
+  roles: [Kaiserin]
+  summary: Auf Martinique geborene Witwe eines hingerichteten Generals, die Bonaparte 1796 heiratete; 1809 ließ er sich von ihr scheiden, weil sie ihm keinen Erben geboren hatte.
+  regions: [frankreich, karibik]
+  themes: [politik]
+  places: [paris]
+  related: [napoleon-bonaparte]
+- id: talleyrand
+  name: Charles-Maurice de Talleyrand
+  aliases: [Talleyrand]
+  born: "1754-02-02"
+  died: "1838-05-17"
+  roles: [Diplomat, Außenminister]
+  summary: Ehemaliger Bischof und Außenminister unter Direktorium, Napoleon und den Bourbonen, der beim Wiener Kongress die Interessen Frankreichs vertrat.
+  regions: [frankreich]
+  themes: [politik]
+  places: [paris, wien]
+- id: klemens-von-metternich
+  name: Klemens von Metternich
+  aliases: [Metternich]
+  born: "1773-05-15"
+  died: "1859-06-11"
+  roles: [Außenminister, Staatskanzler]
+  summary: Österreichischer Außenminister ab 1809 und Gastgeber des Wiener Kongresses, der die Restauration in Europa prägte.
+  regions: [mitteleuropa]
+  themes: [politik]
+  places: [wien]
+- id: wellington
+  name: Arthur Wellesley, Herzog von Wellington
+  aliases: [Wellington, Arthur Wellesley]
+  born: "1769-05-01"
+  died: "1852-09-14"
+  roles: [Feldherr, Premierminister]
+  summary: Britischer Feldherr, der in Spanien und Portugal gegen die Franzosen kämpfte und 1815 bei Waterloo das alliierte Heer befehligte.
+  regions: [britische-inseln, iberische-halbinsel, westeuropa]
+  themes: [krieg-militaer]
+  places: [waterloo]
+- id: gebhard-leberecht-von-bluecher
+  name: Gebhard Leberecht von Blücher
+  aliases: [Blücher, Marschall Vorwärts]
+  born: "1742-12-16"
+  died: "1819-09-12"
+  roles: [Feldmarschall]
+  summary: Preußischer Feldmarschall, dessen Eingreifen am Nachmittag des 18. Juni 1815 die Schlacht bei Waterloo entschied.
+  regions: [deutschland]
+  themes: [krieg-militaer]
+  places: [leipzig, waterloo]
+- id: horatio-nelson
+  name: Horatio Nelson
+  aliases: [Lord Nelson]
+  born: "1758-09-29"
+  died: "1805-10-21"
+  roles: [Admiral]
+  summary: Britischer Admiral, der 1798 die französische Flotte vor Ägypten vernichtete und 1805 bei Trafalgar siegte und fiel.
+  regions: [britische-inseln, mittelmeer]
+  themes: [krieg-militaer]
+  places: [trafalgar]
+- id: alexander-i
+  name: Alexander I.
+  aliases: [Zar Alexander I.]
+  born: "1777-12-23"
+  died: "1825-12-01"
+  roles: [Zar]
+  summary: Russischer Kaiser ab 1801, der mit Napoleon 1807 in Tilsit Frieden schloss, 1812 seinen Angriff abwehrte und 1814 mit den Verbündeten in Paris einzog.
+  regions: [russland]
+  themes: [politik]
+  places: [tilsit, moskau, wien]
+- id: franz-ii
+  name: Franz II. (I.)
+  aliases: [Franz I. von Österreich, Franz II.]
+  born: "1768-02-12"
+  died: "1835-03-02"
+  roles: [Kaiser]
+  summary: Letzter Kaiser des Heiligen Römischen Reichs, das er 1806 für erloschen erklärte; als Franz I. ab 1804 Kaiser von Österreich und Schwiegervater Napoleons.
+  regions: [mitteleuropa]
+  themes: [politik]
+  places: [wien]
+- id: francisco-de-goya
+  name: Francisco de Goya
+  aliases: [Goya]
+  born: "1746-03-30"
+  died: "1828-04-16"
+  roles: [Maler]
+  summary: Spanischer Hofmaler, dessen Bilder und Radierungen zum Krieg gegen die französische Besatzung zu den eindringlichsten Darstellungen von Kriegsgewalt gehören.
+  regions: [iberische-halbinsel]
+  themes: [kultur-kunst, krieg-militaer]
+  places: [madrid]
+- id: pius-vii
+  name: Pius VII.
+  born: "1742-08-14"
+  died: "1823-08-20"
+  roles: [Papst]
+  summary: Papst ab 1800, der 1801 mit Bonaparte ein Konkordat schloss, 1804 bei der Kaiserkrönung anwesend war und ab 1809 als Gefangener Napoleons lebte.
+  regions: [italien, frankreich]
+  themes: [religion]
+  places: [rom, paris]

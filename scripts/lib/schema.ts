@@ -7,8 +7,12 @@ import { z } from 'zod'
 const id = z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/, 'IDs bestehen aus Kleinbuchstaben, Ziffern und Bindestrichen')
 const date = z.union([z.string(), z.number()]).transform(String)
 const ids = z.array(id).default([])
-// Zahlen wie „1917“ oder „1453“ in Namenslisten werden als Text übernommen (YAML liest sie sonst als Zahl)
-const strings = z.array(z.union([z.string(), z.number()]).transform(String)).default([])
+// Zahlen wie „1917“ oder „1453“ in Namenslisten werden als Text übernommen (YAML liest sie sonst als Zahl);
+// ein leerer Schlüssel („planned:“ ohne Einträge) liest YAML als null – das gilt als leere Liste
+const strings = z.preprocess(
+  (value) => (value === null ? undefined : value),
+  z.array(z.union([z.string(), z.number()]).transform(String)).default([]),
+)
 const certainty = z.enum(['gesichert', 'wahrscheinlich', 'umstritten', 'unsicher'])
 
 export const regionSchema = z.object({

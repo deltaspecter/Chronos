@@ -56,7 +56,6 @@
   body: |
     Die Datenbank [[quelle:slavevoyages|SlaveVoyages]] (Trans-Atlantic Slave Trade Database) schätzt auf Grundlage von Schiffsregistern, dass zwischen dem 16. und dem 19. Jahrhundert rund 12,5 Millionen Menschen aus Afrika eingeschifft wurden, von denen etwa 10,7 Millionen die Amerikas lebend erreichten. Hinter diesen Zahlen stehen individuelle Schicksale, die nur selten in eigenen Zeugnissen überliefert sind.
   planned:
-    - Die Haitianische Revolution
     - Abolitionismus
 
 - id: aufklaerung-revolutionen
@@ -69,9 +68,6 @@
   summary: Die Aufklärung, die Amerikanische, die Französische und die Haitianische Revolution sowie die Unabhängigkeitsbewegungen in Lateinamerika.
   body: |
     Im späten 18. Jahrhundert verbanden sich Ideen der Aufklärung – Volkssouveränität, Menschenrechte, Gewaltenteilung – mit sozialen und finanziellen Krisen zu einer Welle von Revolutionen im atlantischen Raum. Die Haitianische Revolution (1791–1804) war die erste erfolgreiche Erhebung versklavter Menschen, die zur Gründung eines unabhängigen Staates führte.
-  planned:
-    - Die Haitianische Revolution
-    - Napoleon Bonaparte
 
 - id: langes-19-jahrhundert
   title: Das lange 19. Jahrhundert

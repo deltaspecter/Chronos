@@ -1,0 +1,75 @@
+# Begriffe: Islam
+- id: islam
+  name: Islam
+  aliases: [Muslime, Muslim]
+  definition: Arabisch „Hingabe“ an Gott; die auf die Verkündigung Muhammads zurückgehende monotheistische Religion, deren Anhänger Muslime heißen. Grundlagen sind der Koran und die Überlieferung vom Handeln und Reden des Propheten (Sunna).
+  themes: [religion]
+- id: koran
+  name: Koran
+  aliases: [Qur'an, Quran, Sure]
+  definition: Die heilige Schrift des Islam, nach muslimischem Glauben die wörtliche Rede Gottes, offenbart an Muhammad; gegliedert in 114 Suren. Die Forschung untersucht ihn zugleich als Text im religiösen Umfeld der Spätantike.
+  themes: [religion, schrift-medien]
+- id: umma
+  name: Umma
+  definition: Die Gemeinschaft der Gläubigen; ursprünglich die von Muhammad in Medina geführte Gemeinde, später die Gesamtheit der Muslime.
+  themes: [religion, gesellschaft]
+- id: kaaba
+  name: Kaaba
+  aliases: [Ka'ba]
+  definition: Würfelförmiges Heiligtum in Mekka, schon vor dem Islam ein Pilgerziel; im Islam das „Haus Gottes“, in dessen Richtung Muslime beten und das bei der Pilgerfahrt (Hadsch) umrundet wird.
+  themes: [religion]
+- id: hadith
+  name: Hadith
+  aliases: [Hadithe, Sunna]
+  definition: Überlieferungen von Aussprüchen und Handlungen Muhammads, die mit einer Kette von Gewährsleuten weitergegeben und im 9. Jahrhundert in großen Sammlungen zusammengestellt wurden; ihre Echtheit wurde schon von muslimischen Gelehrten kritisch geprüft.
+  themes: [religion, schrift-medien]
+- id: sunniten-und-schiiten
+  name: Sunniten und Schiiten
+  aliases: [Sunniten, Schiiten, Schia, Sunna]
+  definition: Die beiden größten Richtungen des Islam. Sie entstanden aus dem Streit um die rechtmäßige Führung nach Muhammad – die Schiiten („Partei Alis“) sehen in Ali und seinen Nachkommen die legitimen Imame; die Sunniten erkennen die Abfolge der Kalifen an.
+  themes: [religion]
+# Begriffe: Spätantike
+- id: spaetantike
+  name: Spätantike
+  definition: Epochenbegriff für die Zeit etwa vom späten 3. bis zum 7. oder 8. Jahrhundert, der die Umgestaltung der römischen Welt betont statt nur ihren Untergang.
+  themes: [geschichtsschreibung]
+- id: voelkerwanderung
+  name: Völkerwanderung
+  aliases: [Migrationszeit, Barbareninvasionen]
+  definition: Traditioneller Begriff für die Wanderungen germanischer und anderer Gruppen ins Römische Reich vom späten 4. bis zum 6. Jahrhundert; die Forschung betont heute, dass es sich meist um bewaffnete Verbände wechselnder Zusammensetzung handelte, nicht um geschlossene „Völker“.
+  themes: [migration, geschichtsschreibung]
+- id: foederaten
+  name: Foederaten
+  aliases: [Foederati]
+  definition: Durch Vertrag (foedus) mit Rom verbundene auswärtige Gruppen, die gegen Versorgung oder Land Kriegsdienst leisteten und oft unter eigenen Anführern innerhalb des Reichs lebten.
+  themes: [krieg-militaer, politik]
+# Begriffe: Haiti
+- id: gens-de-couleur
+  name: Freie Farbige
+  aliases: [Gens de couleur libres, Affranchis]
+  definition: Die freie nichtweiße Bevölkerung der französischen Kolonien, oft Nachkommen weißer Väter und versklavter Mütter; in Saint-Domingue teils selbst wohlhabende Pflanzer und Sklavenbesitzer, aber rechtlich diskriminiert.
+  themes: [gesellschaft, sklaverei-unfreiheit]
+- id: marronage
+  name: Marronage
+  aliases: [Marrons, Maroons]
+  definition: Die Flucht Versklavter von den Plantagen, kurzzeitig oder dauerhaft in Gemeinschaften in Bergen und Wäldern; eine verbreitete Form des Widerstands in allen Sklavenhaltergesellschaften Amerikas.
+  themes: [sklaverei-unfreiheit]
+- id: vodou
+  name: Vodou
+  aliases: [Voodoo, Vaudou]
+  definition: In Haiti entstandene Religion, die westafrikanische und zentralafrikanische Traditionen mit katholischen Elementen verbindet; in Europa lange verzerrt und abwertend dargestellt.
+  themes: [religion]
+# Begriffe: Napoleon
+- id: bonapartismus
+  name: Bonapartismus
+  definition: Herrschaftsform, in der ein charismatischer Führer sich durch Volksabstimmungen legitimiert, aber autoritär regiert; benannt nach Napoleon I. und Napoleon III.
+  themes: [politik]
+- id: grande-armee
+  name: Grande Armée
+  definition: Name der Hauptarmee Napoleons ab 1805, in der neben Franzosen zunehmend Soldaten aus den verbündeten und abhängigen Staaten Europas dienten.
+  themes: [krieg-militaer]
+- id: plebiszit
+  name: Plebiszit
+  aliases: [Volksabstimmung]
+  definition: Abstimmung des Volkes über eine Sachfrage oder einen Herrscher; Napoleon ließ Konsulat, Konsulat auf Lebenszeit und Kaisertum durch Plebiszite mit offiziell überwältigenden, teilweise geschönten Mehrheiten bestätigen.
+  themes: [politik]

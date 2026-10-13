@@ -31,6 +31,7 @@
   regions: [frankreich]
   themes: [politik, revolutionen]
   predecessors: [koenigreich-frankreich]
+  successors: [erstes-franzoesisches-kaiserreich]
   weight: 2
 - id: deutsches-kaiserreich
   name: Deutsches Kaiserreich

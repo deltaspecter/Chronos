@@ -1,0 +1,328 @@
+# Quellen und Literatur: Muhammad, Ende Westroms, Haitianische Revolution, Napoleon
+
+# --- Muhammad und die Entstehung des Islam ---
+- id: donner-2010
+  kind: sekundaer
+  authors: ["Donner, Fred M."]
+  title: Muhammad and the Believers
+  subtitle: At the Origins of Islam
+  place: Cambridge, Mass.
+  publisher: Belknap Press of Harvard University Press
+  year: 2010
+- id: berkey-2003
+  kind: sekundaer
+  authors: ["Berkey, Jonathan P."]
+  title: The Formation of Islam
+  subtitle: Religion and Society in the Near East, 600–1800
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2003
+- id: hoyland-2015
+  kind: sekundaer
+  authors: ["Hoyland, Robert G."]
+  title: In God's Path
+  subtitle: The Arab Conquests and the Creation of an Islamic Empire
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2015
+- id: bobzin-2000
+  kind: sekundaer
+  authors: ["Bobzin, Hartmut"]
+  title: Mohammed
+  series: Beck Wissen
+  place: München
+  publisher: C. H. Beck
+  year: 2000
+- id: neuwirth-2010
+  kind: sekundaer
+  authors: ["Neuwirth, Angelika"]
+  title: Der Koran als Text der Spätantike
+  subtitle: Ein europäischer Zugang
+  place: Berlin
+  publisher: Verlag der Weltreligionen
+  year: 2010
+- id: watt-1953
+  kind: sekundaer
+  authors: ["Watt, W. Montgomery"]
+  title: Muhammad at Mecca
+  place: Oxford
+  publisher: Clarendon Press
+  year: 1953
+- id: crone-cook-1977
+  kind: sekundaer
+  authors: ["Crone, Patricia", "Cook, Michael"]
+  title: Hagarism
+  subtitle: The Making of the Islamic World
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1977
+- id: crone-1987
+  kind: sekundaer
+  authors: ["Crone, Patricia"]
+  title: Meccan Trade and the Rise of Islam
+  place: Princeton
+  publisher: Princeton University Press
+  year: 1987
+- id: q-koran
+  kind: primaer
+  title: Der Koran
+  written: 7. Jahrhundert; nach islamischer Überlieferung unter dem Kalifen Uthman (644–656) zu einem verbindlichen Text zusammengestellt
+  note: Die heilige Schrift des Islam in 114 Suren, nach islamischem Glauben die an Muhammad offenbarte Rede Gottes; zugleich die älteste und wichtigste Quelle für die Frühzeit des Islam.
+- id: q-ibn-ishaq
+  kind: primaer
+  authors: ["Ibn Ishaq"]
+  title: Sirat Rasul Allah (Das Leben des Gesandten Gottes)
+  written: Mitte des 8. Jahrhunderts; überliefert in der Bearbeitung Ibn Hischams (gest. um 833)
+  note: Älteste erhaltene Lebensbeschreibung Muhammads, rund 120 Jahre nach seinem Tod verfasst; sammelt mündliche Überlieferungen unterschiedlicher Verlässlichkeit.
+- id: q-gemeindeordnung-medina
+  kind: primaer
+  title: Gemeindeordnung von Medina
+  written: wohl 620er-Jahre; überliefert bei Ibn Ishaq und Abu Ubaid
+  note: Vereinbarung zwischen Muhammad, seinen Anhängern und den Stämmen und jüdischen Gruppen Medinas; ihre Echtheit wird von den meisten Forschenden angenommen.
+- id: q-doctrina-jacobi
+  kind: primaer
+  title: Doctrina Jacobi nuper baptizati
+  written: um 634
+  note: Griechische Streitschrift aus Palästina, die als eines der frühesten nichtmuslimischen Zeugnisse von einem bei den „Sarazenen“ aufgetretenen Propheten berichtet.
+
+# --- Ende des Weströmischen Reiches ---
+- id: heather-2005
+  kind: sekundaer
+  authors: ["Heather, Peter"]
+  title: The Fall of the Roman Empire
+  subtitle: A New History
+  place: London
+  publisher: Macmillan
+  year: 2005
+- id: ward-perkins-2005
+  kind: sekundaer
+  authors: ["Ward-Perkins, Bryan"]
+  title: The Fall of Rome and the End of Civilization
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2005
+- id: brown-1971
+  kind: sekundaer
+  authors: ["Brown, Peter"]
+  title: The World of Late Antiquity
+  subtitle: AD 150–750
+  place: London
+  publisher: Thames & Hudson
+  year: 1971
+- id: halsall-2007
+  kind: sekundaer
+  authors: ["Halsall, Guy"]
+  title: Barbarian Migrations and the Roman West, 376–568
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2007
+- id: demandt-1984
+  kind: sekundaer
+  authors: ["Demandt, Alexander"]
+  title: Der Fall Roms
+  subtitle: Die Auflösung des römischen Reiches im Urteil der Nachwelt
+  place: München
+  publisher: C. H. Beck
+  year: 1984
+- id: meier-2019
+  kind: sekundaer
+  authors: ["Meier, Mischa"]
+  title: Geschichte der Völkerwanderung
+  subtitle: Europa, Asien und Afrika vom 3. bis zum 8. Jahrhundert n. Chr.
+  place: München
+  publisher: C. H. Beck
+  year: 2019
+- id: goffart-1980
+  kind: sekundaer
+  authors: ["Goffart, Walter"]
+  title: Barbarians and Romans, A.D. 418–584
+  subtitle: The Techniques of Accommodation
+  place: Princeton
+  publisher: Princeton University Press
+  year: 1980
+- id: gibbon-1776
+  kind: sekundaer
+  authors: ["Gibbon, Edward"]
+  title: The History of the Decline and Fall of the Roman Empire
+  place: London
+  publisher: Strahan & Cadell
+  year: 1776–1789
+  note: Sechsbändiges Hauptwerk der aufklärerischen Geschichtsschreibung, das den Niedergang Roms unter anderem dem Christentum und der „Barbarei“ zuschrieb.
+- id: q-ammianus
+  kind: primaer
+  authors: ["Ammianus Marcellinus"]
+  title: Res gestae
+  written: um 390
+  note: Lateinisches Geschichtswerk eines Offiziers aus Antiochia; die erhaltenen Bücher reichen bis zur Schlacht von Adrianopel 378.
+- id: q-augustinus-civitas
+  kind: primaer
+  authors: ["Augustinus von Hippo"]
+  title: De civitate Dei (Vom Gottesstaat)
+  written: 413–426
+  note: Antwort des Bischofs von Hippo auf den Vorwurf, die Abkehr von den alten Göttern habe die Plünderung Roms 410 verschuldet.
+- id: q-salvian
+  kind: primaer
+  authors: ["Salvian von Marseille"]
+  title: De gubernatione Dei (Über die Weltregierung Gottes)
+  written: um 440
+  note: Bußpredigt eines gallischen Priesters, die römische Steuerlast und Ungerechtigkeit anprangert und behauptet, manche Römer flöhen lieber zu den „Barbaren“.
+- id: q-priskos
+  kind: primaer
+  authors: ["Priskos von Panion"]
+  title: Geschichtswerk (Fragmente), darunter der Bericht über die Gesandtschaft an den Hof Attilas
+  written: nach 472
+  note: Nur in Auszügen erhalten; schildert eine oströmische Gesandtschaft zu Attila im Jahr 449.
+- id: q-eugippius
+  kind: primaer
+  authors: ["Eugippius"]
+  title: Vita Sancti Severini (Leben des heiligen Severin)
+  written: 511
+  note: Lebensbeschreibung eines Heiligen in Noricum an der Donau, die das allmähliche Ende römischer Ordnung in einer Grenzprovinz schildert.
+- id: q-jordanes
+  kind: primaer
+  authors: ["Jordanes"]
+  title: Getica (Gotengeschichte)
+  written: 551
+  note: Geschichte der Goten in Konstantinopel, die auf einem verlorenen Werk Cassiodors beruht; ihre Herkunftserzählungen gelten als wenig verlässlich.
+
+# --- Haitianische Revolution ---
+- id: james-1938
+  kind: sekundaer
+  authors: ["James, C. L. R."]
+  title: The Black Jacobins
+  subtitle: Toussaint L'Ouverture and the San Domingo Revolution
+  place: London
+  publisher: Secker & Warburg
+  year: 1938
+- id: fick-1990
+  kind: sekundaer
+  authors: ["Fick, Carolyn E."]
+  title: The Making of Haiti
+  subtitle: The Saint Domingue Revolution from Below
+  place: Knoxville
+  publisher: University of Tennessee Press
+  year: 1990
+- id: geggus-2002
+  kind: sekundaer
+  authors: ["Geggus, David P."]
+  title: Haitian Revolutionary Studies
+  place: Bloomington
+  publisher: Indiana University Press
+  year: 2002
+- id: popkin-2012
+  kind: sekundaer
+  authors: ["Popkin, Jeremy D."]
+  title: A Concise History of the Haitian Revolution
+  place: Chichester
+  publisher: Wiley-Blackwell
+  year: 2012
+- id: trouillot-1995
+  kind: sekundaer
+  authors: ["Trouillot, Michel-Rolph"]
+  title: Silencing the Past
+  subtitle: Power and the Production of History
+  place: Boston
+  publisher: Beacon Press
+  year: 1995
+- id: buck-morss-2009
+  kind: sekundaer
+  authors: ["Buck-Morss, Susan"]
+  title: Hegel, Haiti, and Universal History
+  place: Pittsburgh
+  publisher: University of Pittsburgh Press
+  year: 2009
+- id: q-sonthonax-1793
+  kind: primaer
+  authors: ["Sonthonax, Léger-Félicité"]
+  title: Proklamation über die allgemeine Freiheit in der Nordprovinz von Saint-Domingue
+  written: Cap-Français, 29. August 1793
+  note: Erklärung des französischen Zivilkommissars, die allen Versklavten der Nordprovinz die Freiheit zusprach – ein halbes Jahr vor dem Abolitionsdekret des Pariser Konvents.
+- id: q-verfassung-1801
+  kind: primaer
+  title: Verfassung der französischen Kolonie Saint-Domingue
+  written: Juli 1801
+  note: Unter Toussaint Louverture erarbeitete Verfassung, die die Sklaverei für immer abschaffte und Toussaint zum Gouverneur auf Lebenszeit machte.
+- id: q-haiti-unabhaengigkeit
+  kind: primaer
+  title: Unabhängigkeitserklärung Haitis
+  written: Gonaïves, 1. Januar 1804
+  note: Von Jean-Jacques Dessalines und seinen Generälen verkündete Erklärung; der erhaltene Druck wurde erst 2010 in den britischen National Archives wiederentdeckt.
+
+# --- Napoleon ---
+- id: willms-2005
+  kind: sekundaer
+  authors: ["Willms, Johannes"]
+  title: Napoleon
+  subtitle: Eine Biographie
+  place: München
+  publisher: C. H. Beck
+  year: 2005
+- id: englund-2004
+  kind: sekundaer
+  authors: ["Englund, Steven"]
+  title: "Napoleon: A Political Life"
+  place: New York
+  publisher: Scribner
+  year: 2004
+- id: roberts-2014
+  kind: sekundaer
+  authors: ["Roberts, Andrew"]
+  title: Napoleon the Great
+  place: London
+  publisher: Allen Lane
+  year: 2014
+- id: woolf-1991
+  kind: sekundaer
+  authors: ["Woolf, Stuart"]
+  title: Napoleon's Integration of Europe
+  place: London
+  publisher: Routledge
+  year: 1991
+- id: bell-2007
+  kind: sekundaer
+  authors: ["Bell, David A."]
+  title: The First Total War
+  subtitle: Napoleon's Europe and the Birth of Warfare as We Know It
+  place: Boston
+  publisher: Houghton Mifflin
+  year: 2007
+- id: fehrenbach-1981
+  kind: sekundaer
+  authors: ["Fehrenbach, Elisabeth"]
+  title: Vom Ancien Régime zum Wiener Kongreß
+  series: Oldenbourg Grundriss der Geschichte 12
+  place: München
+  publisher: Oldenbourg
+  year: 1981
+- id: nipperdey-1983
+  kind: sekundaer
+  authors: ["Nipperdey, Thomas"]
+  title: Deutsche Geschichte 1800–1866
+  subtitle: Bürgerwelt und starker Staat
+  place: München
+  publisher: C. H. Beck
+  year: 1983
+- id: geyl-1949
+  kind: sekundaer
+  authors: ["Geyl, Pieter"]
+  title: "Napoleon: For and Against"
+  place: London
+  publisher: Jonathan Cape
+  year: 1949
+  note: Niederländische Erstausgabe 1946; untersucht, wie französische Historiker Napoleon im 19. und 20. Jahrhundert bewerteten.
+- id: q-code-civil
+  kind: primaer
+  title: Code civil des Français
+  written: Paris, 21. März 1804
+  note: Bürgerliches Gesetzbuch, ab 1807 „Code Napoléon“ genannt; regelte Eigentum, Vertrag, Ehe und Erbe und galt in weiten Teilen Europas.
+- id: q-las-cases
+  kind: primaer
+  authors: ["Las Cases, Emmanuel de"]
+  title: Mémorial de Sainte-Hélène
+  written: Paris, 1823
+  note: Aufzeichnungen von Gesprächen mit dem verbannten Napoleon, die die Legende vom Kaiser als Vollender der Revolution und Freund der Völker begründeten.
+- id: q-bulletins
+  kind: primaer
+  title: Bulletins de la Grande Armée
+  written: 1805–1815
+  note: Von Napoleon selbst redigierte Kriegsberichte, die in Frankreich und den verbündeten Staaten verbreitet wurden – ein Instrument der Propaganda.

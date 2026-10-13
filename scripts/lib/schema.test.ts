@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { articleSchema, eventSchema } from './schema.ts'
+import { articleSchema, epochSchema, eventSchema } from './schema.ts'
 
 const article = {
   id: 'test',
@@ -21,6 +21,10 @@ describe('Inhaltsschema', () => {
   it('übernimmt Datierungen als Zahl oder Text', () => {
     const parsed = eventSchema.parse({ id: 'e', title: 'E', date: -490, summary: 'Test' })
     expect(parsed.date).toBe('-490')
+  })
+  it('liest eine leere Liste als leere Liste', () => {
+    const parsed = epochSchema.parse({ id: 'ep', title: 'Epoche', summary: 'Test', planned: null })
+    expect(parsed.planned).toEqual([])
   })
   it('weist ungültige IDs zurück', () => {
     expect(() => articleSchema.parse({ ...article, id: 'Mit Leerzeichen' })).toThrow()

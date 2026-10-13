@@ -1,0 +1,282 @@
+# Orte: Muhammad und die Entstehung des Islam
+- id: mekka
+  name: Mekka
+  aliases: [Makka, Mecca]
+  coords: [39.8262, 21.4225]
+  categories: [stadt, heiligtum]
+  modernName: Mekka (Saudi-Arabien)
+  summary: Stadt im Hedschas mit dem Heiligtum der Kaaba, Geburtsort Muhammads und wichtigster Pilgerort des Islam.
+  regions: [arabische-halbinsel]
+  themes: [religion]
+- id: medina
+  name: Medina
+  aliases: [Yathrib, Jathrib, al-Madina]
+  coords: [39.6142, 24.4672]
+  categories: [stadt, heiligtum, hauptstadt]
+  modernName: Medina (Saudi-Arabien)
+  summary: Oasenstadt, die ursprünglich Yathrib hieß; nach der Auswanderung Muhammads 622 Zentrum der muslimischen Gemeinde und bis 656 Sitz der Kalifen. Hier liegt das Grab des Propheten.
+  regions: [arabische-halbinsel]
+  themes: [religion, politik]
+- id: badr
+  name: Badr
+  coords: [38.7686, 23.7797]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Badr (Saudi-Arabien)
+  summary: Wasserstelle an der Karawanenstraße zwischen Mekka und Syrien, an der die Muslime aus Medina 624 ein überlegenes mekkanisches Aufgebot besiegten.
+  regions: [arabische-halbinsel]
+  themes: [krieg-militaer]
+- id: ktesiphon
+  name: Ktesiphon
+  aliases: [Ctesiphon, al-Mada'in]
+  coords: [44.5803, 33.0936]
+  categories: [hauptstadt, fundstaette]
+  modernName: Salman Pak (Irak)
+  summary: Residenzstadt der Parther- und Sasanidenkönige am Tigris, deren gewaltiger Palastbogen bis heute steht; 637 von arabischen Truppen eingenommen.
+  regions: [mesopotamien]
+  themes: [imperien, archaeologie]
+- id: jarmuk
+  name: Jarmuk
+  aliases: [Yarmuk]
+  coords: [35.9500, 32.8000]
+  location: umstritten
+  categories: [schlachtfeld]
+  modernName: Tal des Jarmuk an der Grenze von Syrien und Jordanien
+  summary: Nebenfluss des Jordan, an dem arabische Truppen 636 ein großes oströmisches Heer schlugen.
+  regions: [levante]
+  themes: [krieg-militaer]
+- id: karbala
+  name: Kerbela
+  aliases: [Karbala]
+  coords: [44.0249, 32.6160]
+  categories: [stadt, heiligtum]
+  modernName: Kerbela (Irak)
+  summary: Ort im Irak, an dem 680 Husain, der Enkel Muhammads, mit seinen Gefährten von Truppen des Umayyadenkalifen getötet wurde; heute einer der wichtigsten Pilgerorte der Schiiten.
+  regions: [mesopotamien]
+  themes: [religion]
+- id: felsendom
+  name: Felsendom
+  aliases: [Qubbat as-Sachra, Dome of the Rock]
+  coords: [35.2354, 31.7780]
+  categories: [heiligtum]
+  modernName: Jerusalem
+  summary: Unter dem Umayyadenkalifen Abd al-Malik 691/92 vollendeter Kuppelbau auf dem Tempelberg, das älteste erhaltene Großbauwerk des Islam mit frühen Koraninschriften.
+  regions: [levante]
+  themes: [religion, kultur-kunst]
+# Orte: Ende des Weströmischen Reiches
+- id: trier
+  name: Trier
+  aliases: [Augusta Treverorum]
+  coords: [6.6412, 49.7499]
+  categories: [stadt, hauptstadt]
+  modernName: Trier (Deutschland)
+  summary: Im 4. Jahrhundert eine der Residenzstädte der römischen Kaiser im Westen, mit Kaiserthermen, Basilika und Porta Nigra.
+  regions: [deutschland, westeuropa]
+  themes: [imperien, archaeologie]
+- id: mailand
+  name: Mailand
+  aliases: [Mediolanum, Milano]
+  coords: [9.1900, 45.4642]
+  categories: [stadt, hauptstadt]
+  modernName: Mailand (Italien)
+  summary: Kaiserresidenz im späten 3. und 4. Jahrhundert, Bischofssitz des Ambrosius; 402 verlegte der Hof nach Ravenna.
+  regions: [italien]
+  themes: [imperien, religion]
+- id: aquileia
+  name: Aquileia
+  coords: [13.3700, 45.7686]
+  categories: [stadt, fundstaette]
+  modernName: Aquileia (Italien)
+  summary: Große Handelsstadt an der nördlichen Adria, 452 von den Hunnen unter Attila zerstört.
+  regions: [italien]
+  themes: [handelsnetze]
+- id: katalaunische-felder
+  name: Katalaunische Felder
+  coords: [4.3600, 48.9600]
+  location: umstritten
+  categories: [schlachtfeld]
+  modernName: Champagne, bei Châlons-en-Champagne oder Troyes (Frankreich)
+  summary: Gegend in der Champagne, in der 451 ein römisch-gotisches Heer unter Aetius die Hunnen Attilas aufhielt; der genaue Ort ist unbekannt.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+- id: hippo-regius
+  name: Hippo Regius
+  coords: [7.7667, 36.8833]
+  categories: [stadt, fundstaette]
+  modernName: Annaba (Algerien)
+  summary: Hafenstadt in Nordafrika, Bischofssitz des Augustinus, der hier 430 während der Belagerung durch die Vandalen starb.
+  regions: [nordafrika]
+  themes: [religion]
+- id: soissons
+  name: Soissons
+  aliases: [Augusta Suessionum]
+  coords: [3.3236, 49.3817]
+  categories: [stadt]
+  modernName: Soissons (Frankreich)
+  summary: Zentrum einer römischen Restherrschaft in Nordgallien, die der Frankenkönig Chlodwig 486/87 eroberte.
+  regions: [frankreich]
+  themes: [politik]
+# Orte: Haitianische Revolution
+- id: port-au-prince
+  name: Port-au-Prince
+  coords: [-72.3388, 18.5944]
+  categories: [stadt, hauptstadt, hafen]
+  modernName: Port-au-Prince (Haiti)
+  summary: Verwaltungssitz der Kolonie Saint-Domingue und Hauptstadt Haitis.
+  regions: [karibik]
+  themes: [politik]
+- id: gonaives
+  name: Gonaïves
+  coords: [-72.6890, 19.4500]
+  categories: [stadt, hafen]
+  modernName: Gonaïves (Haiti)
+  summary: Hafenstadt, in der Jean-Jacques Dessalines am 1. Januar 1804 die Unabhängigkeit Haitis verkündete.
+  regions: [karibik]
+  themes: [revolutionen]
+- id: bois-caiman
+  name: Bois Caïman
+  coords: [-72.2100, 19.6900]
+  location: umstritten
+  categories: [heiligtum]
+  modernName: bei Cap-Haïtien (Haiti)
+  summary: Waldstück in der Nordebene von Saint-Domingue, in dem nach der Überlieferung im August 1791 eine Zeremonie den großen Aufstand der Versklavten einleitete.
+  regions: [karibik]
+  themes: [religion, revolutionen]
+- id: vertieres
+  name: Vertières
+  coords: [-72.1900, 19.7400]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Cap-Haïtien (Haiti)
+  summary: Befestigung vor Cap-Français, wo die Armee Dessalines’ am 18. November 1803 die französischen Truppen entscheidend schlug.
+  regions: [karibik]
+  themes: [krieg-militaer]
+- id: fort-de-joux
+  name: Fort de Joux
+  coords: [6.3747, 46.8711]
+  categories: [fundstaette]
+  modernName: La Cluse-et-Mijoux (Frankreich)
+  summary: Festung im Jura, in der Toussaint Louverture 1803 in Haft starb.
+  regions: [frankreich]
+  themes: [politik]
+- id: citadelle-laferriere
+  name: Citadelle Laferrière
+  coords: [-72.2442, 19.5733]
+  categories: [fundstaette]
+  modernName: bei Milot (Haiti)
+  summary: Riesige Bergfestung, die Henri Christophe ab 1805 zum Schutz gegen eine französische Rückeroberung errichten ließ; heute UNESCO-Welterbe.
+  regions: [karibik]
+  themes: [krieg-militaer, kultur-kunst]
+# Orte: Napoleon
+- id: ajaccio
+  name: Ajaccio
+  coords: [8.7369, 41.9192]
+  categories: [stadt, hafen]
+  modernName: Ajaccio (Korsika, Frankreich)
+  summary: Hafenstadt auf Korsika, Geburtsort Napoleon Bonapartes.
+  regions: [frankreich, mittelmeer]
+  themes: [politik]
+- id: toulon
+  name: Toulon
+  coords: [5.9280, 43.1242]
+  categories: [stadt, hafen]
+  modernName: Toulon (Frankreich)
+  summary: Kriegshafen am Mittelmeer, bei dessen Rückeroberung von britischen Truppen 1793 der junge Artillerieoffizier Bonaparte bekannt wurde.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+- id: marengo
+  name: Marengo
+  coords: [8.6800, 44.8900]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Spinetta Marengo bei Alessandria (Italien)
+  summary: Ebene in Piemont, auf der Bonaparte 1800 die Österreicher knapp besiegte.
+  regions: [italien]
+  themes: [krieg-militaer]
+- id: austerlitz
+  name: Austerlitz
+  aliases: [Slavkov u Brna]
+  coords: [16.7600, 49.1300]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Slavkov u Brna (Tschechien)
+  summary: Ort in Mähren, bei dem Napoleon am 2. Dezember 1805 die Heere Österreichs und Russlands schlug („Dreikaiserschlacht“).
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+- id: jena
+  name: Jena
+  coords: [11.5892, 50.9271]
+  categories: [stadt, schlachtfeld]
+  modernName: Jena (Deutschland)
+  summary: Universitätsstadt in Thüringen, bei der Napoleon 1806 die preußische Armee besiegte.
+  regions: [deutschland]
+  themes: [krieg-militaer]
+- id: trafalgar
+  name: Kap Trafalgar
+  aliases: [Trafalgar]
+  coords: [-6.0333, 36.1833]
+  categories: [schlachtfeld]
+  modernName: Andalusien (Spanien)
+  summary: Kap an der spanischen Atlantikküste, vor dem die britische Flotte unter Nelson 1805 die französisch-spanische Flotte vernichtete.
+  regions: [iberische-halbinsel, atlantik]
+  themes: [krieg-militaer]
+- id: tilsit
+  name: Tilsit
+  aliases: [Sowetsk]
+  coords: [21.8833, 55.0833]
+  categories: [stadt]
+  modernName: Sowetsk (Russland)
+  summary: Stadt an der Memel, wo Napoleon 1807 mit Zar Alexander I. und dem preußischen König Frieden schloss.
+  regions: [osteuropa]
+  themes: [politik]
+- id: madrid
+  name: Madrid
+  coords: [-3.7038, 40.4168]
+  categories: [stadt, hauptstadt]
+  modernName: Madrid (Spanien)
+  summary: Hauptstadt Spaniens, in der am 2. Mai 1808 ein Aufstand gegen die französischen Truppen ausbrach.
+  regions: [iberische-halbinsel]
+  themes: [politik]
+- id: borodino
+  name: Borodino
+  coords: [35.8222, 55.5228]
+  categories: [schlachtfeld]
+  modernName: Oblast Moskau (Russland)
+  summary: Dorf westlich von Moskau, bei dem 1812 eine der blutigsten Schlachten der napoleonischen Kriege stattfand.
+  regions: [russland]
+  themes: [krieg-militaer]
+- id: wien
+  name: Wien
+  aliases: [Vienna, Vindobona]
+  coords: [16.3738, 48.2082]
+  categories: [stadt, hauptstadt]
+  modernName: Wien (Österreich)
+  summary: Residenzstadt der Habsburger und 1814/15 Tagungsort des Kongresses, der Europa nach Napoleon neu ordnete.
+  regions: [mitteleuropa]
+  themes: [politik]
+- id: elba
+  name: Elba
+  aliases: [Portoferraio]
+  coords: [10.3289, 42.8131]
+  categories: [region]
+  modernName: Toskana (Italien)
+  summary: Mittelmeerinsel, die Napoleon 1814 als Fürstentum erhielt und von der er im Februar 1815 nach Frankreich zurückkehrte.
+  regions: [italien, mittelmeer]
+  themes: [politik]
+- id: waterloo
+  name: Waterloo
+  coords: [4.4128, 50.6799]
+  categories: [schlachtfeld]
+  modernName: bei Brüssel (Belgien)
+  summary: Ort südlich von Brüssel, bei dem britische, niederländische, deutsche und preußische Truppen am 18. Juni 1815 Napoleon endgültig besiegten.
+  regions: [westeuropa]
+  themes: [krieg-militaer]
+- id: st-helena
+  name: St. Helena
+  aliases: [Sankt Helena, Longwood]
+  coords: [-5.7089, -15.9650]
+  categories: [region]
+  modernName: Britisches Überseegebiet im Südatlantik
+  summary: Abgelegene Insel im Südatlantik, auf die die Briten Napoleon 1815 verbannten und auf der er 1821 starb.
+  regions: [atlantik]
+  themes: [politik]

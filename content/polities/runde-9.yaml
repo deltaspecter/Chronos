@@ -1,0 +1,96 @@
+# Staaten: Frühislamische Zeit
+- id: kalifat-der-rechtgeleiteten
+  name: Kalifat der „Rechtgeleiteten“
+  aliases: [Raschidun-Kalifat, Frühislamisches Kalifat]
+  start: "632"
+  end: "661"
+  spanNote: Die Bezeichnung der ersten vier Kalifen als „rechtgeleitet“ ist eine spätere, vor allem sunnitische Deutung.
+  capital: medina
+  summary: Herrschaft der ersten vier Nachfolger Muhammads – Abu Bakr, Umar, Uthman und Ali –, unter denen arabische Heere das Sasanidenreich zerschlugen und Ostrom Syrien, Palästina und Ägypten abnahmen.
+  regions: [arabische-halbinsel, levante, mesopotamien, iran, aegypten]
+  themes: [imperien, religion]
+  successors: [umayyaden-kalifat]
+  weight: 2
+# Staaten: Ende des Weströmischen Reiches
+- id: westroemisches-reich
+  name: Weströmisches Reich
+  aliases: [Westrom, Imperium Romanum (Westen)]
+  start: "395-01-17"
+  end: "476-09-04"
+  spanNote: Nach dem Tod des Theodosius regierten dauerhaft getrennte Kaiser in West und Ost; 476 setzte Odoaker den letzten in Italien residierenden Kaiser ab. Der in Dalmatien lebende Julius Nepos wurde bis 480 von Ostrom als Kaiser anerkannt.
+  capital: ravenna
+  summary: Die westliche Hälfte des Römischen Reichs, die im 5. Jahrhundert Provinz um Provinz an germanische Könige verlor.
+  regions: [italien, westeuropa, frankreich, iberische-halbinsel, nordafrika, britische-inseln]
+  themes: [imperien]
+  predecessors: [roemisches-kaiserreich]
+  successors: [ostgotenreich, frankenreich, vandalenreich, westgotenreich]
+  weight: 2
+- id: westgotenreich
+  name: Reich der Westgoten
+  aliases: [Westgoten, Tolosanisches Reich, Toledanisches Reich]
+  start: "418"
+  end: "711"
+  spanNote: 418 als vertraglich angesiedelte Verbündete Roms in Aquitanien; nach der Niederlage gegen die Franken 507 auf die Iberische Halbinsel beschränkt, 711 von arabisch-berberischen Truppen erobert.
+  capital: toulouse
+  summary: Königreich der Westgoten zunächst in Südwestgallien mit der Hauptstadt Toulouse, dann in Hispanien mit der Hauptstadt Toledo.
+  regions: [frankreich, iberische-halbinsel]
+  themes: [imperien]
+  predecessors: [westroemisches-reich]
+  successors: [umayyaden-kalifat]
+  weight: 3
+- id: hunnenreich
+  name: Reich der Hunnen
+  aliases: [Hunnen]
+  start: "~375"
+  end: "~469"
+  spanNote: Die Hunnen erschienen um 375 nördlich des Schwarzen Meeres; ihr Großreich zerfiel nach Attilas Tod 453 rasch.
+  summary: Steppenreich nördlich der Donau, das unter Attila Völker von der Wolga bis zum Rhein beherrschte und beide römischen Reichshälften zu Tributzahlungen zwang.
+  regions: [mitteleuropa, osteuropa, suedosteuropa]
+  themes: [imperien, krieg-militaer]
+  weight: 3
+# Staaten: Haiti
+- id: saint-domingue
+  name: Saint-Domingue
+  aliases: [Französisch-Hispaniola]
+  start: "1697"
+  end: "1804-01-01"
+  spanNote: Im Frieden von Rijswijk 1697 trat Spanien den Westteil Hispaniolas an Frankreich ab.
+  capital: port-au-prince
+  summary: Französische Plantagenkolonie im Westen Hispaniolas, im späten 18. Jahrhundert die reichste Kolonie der Welt und größter Zucker- und Kaffeeproduzent, beruhend auf der Arbeit von rund einer halben Million Versklavter.
+  regions: [karibik]
+  themes: [sklaverei-unfreiheit, wirtschaft-handel]
+  successors: [haiti]
+  weight: 2
+- id: haiti
+  name: Haiti
+  aliases: [Ayiti, Republik Haiti]
+  start: "1804-01-01"
+  capital: port-au-prince
+  summary: Aus der Revolution der Versklavten hervorgegangener zweiter unabhängiger Staat Amerikas; zwischen 1806 und 1820 in einen Staat im Norden und eine Republik im Süden geteilt.
+  regions: [karibik]
+  themes: [revolutionen, politik]
+  predecessors: [saint-domingue]
+  weight: 2
+# Staaten: Napoleonische Zeit
+- id: erstes-franzoesisches-kaiserreich
+  name: Erstes Französisches Kaiserreich
+  aliases: [Empire, Napoleonisches Kaiserreich]
+  start: "1804-05-18"
+  end: "1815-06-22"
+  spanNote: Von der Ausrufung des Kaisertums bis zur zweiten Abdankung Napoleons; zwischen April 1814 und März 1815 regierte bereits Ludwig XVIII.
+  capital: paris
+  summary: Monarchie Napoleons, die auf ihrem Höhepunkt 1811/12 mit 130 Departements von Hamburg bis Rom reichte und von abhängigen Staaten umgeben war.
+  regions: [frankreich, westeuropa, italien, mitteleuropa]
+  themes: [imperien, krieg-militaer]
+  predecessors: [erste-franzoesische-republik]
+  weight: 2
+- id: rheinbund
+  name: Rheinbund
+  aliases: [Confédération du Rhin]
+  start: "1806-07-12"
+  end: "1813"
+  summary: Bund süd- und westdeutscher Staaten unter dem Protektorat Napoleons, dessen Gründung zum Ende des Heiligen Römischen Reichs führte; seine Mitglieder mussten Truppen für Napoleons Kriege stellen.
+  regions: [deutschland]
+  themes: [politik]
+  predecessors: [heiliges-roemisches-reich]
+  weight: 3
