@@ -201,6 +201,14 @@ const articleMap = uniqueMap(
   'articles',
 )
 
+// Doppelte IDs verfälschen alle weiteren Prüfungen und lassen den Suchindex abstürzen – daher sofort abbrechen
+const duplicates = errors.filter((e) => e.startsWith('Doppelte ID'))
+if (duplicates.length) {
+  console.error(`\n✖ ${duplicates.length} doppelte ID(s):\n`)
+  for (const e of duplicates) console.error(`  • ${e}`)
+  process.exit(1)
+}
+
 const slugMap = new Map<string, string>()
 for (const { front, file } of articlesRaw) {
   // Die stabile ID ist immer auch als Adresse erreichbar (/artikel/<id> → kanonischer Slug)

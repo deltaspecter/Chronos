@@ -432,5 +432,56 @@
     "author": "Aurbina",
     "license": "Public domain",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moai_Rano_raraku.jpg"
+  },
+  "alexandermosaik": {
+    "file": "alexandermosaik.jpg",
+    "width": 1200,
+    "height": 780,
+    "author": "Magrippa at English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alexandermosaic.jpg"
+  },
+  "stein-von-rosette": {
+    "file": "stein-von-rosette.jpg",
+    "width": 1025,
+    "height": 1200,
+    "author": "Hans Hillewaert",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rosetta_Stone.JPG"
+  },
+  "krak-des-chevaliers": {
+    "file": "krak-des-chevaliers.jpg",
+    "width": 1200,
+    "height": 680,
+    "author": "Bernard Gagnon",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Krak_des_Chevaliers_01.jpg"
+  },
+  "pest-toggenburg-bibel": {
+    "file": "pest-toggenburg-bibel.jpg",
+    "width": 1200,
+    "height": 900,
+    "author": "Urheber unbekannt",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Egyptian_plague_of_boils_in_the_Toggenburg_Bible.jpg"
+  },
+  "judenverbrennung-tournai": {
+    "file": "judenverbrennung-tournai.jpg",
+    "width": 1200,
+    "height": 816,
+    "author": "Pierart dou Tielt (fl. 1340-1360)",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Doutielt1.jpg"
+  },
+  "unabhaengigkeitserklaerung-trumbull": {
+    "file": "unabhaengigkeitserklaerung-trumbull.jpg",
+    "width": 1200,
+    "height": 788,
+    "author": "John Trumbull",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Declaration_of_Independence_(1819),_by_John_Trumbull.jpg"
   }
 }

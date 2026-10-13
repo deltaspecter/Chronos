@@ -1,0 +1,435 @@
+# Personen: Alexander und der Hellenismus
+- id: aristoteles
+  name: Aristoteles
+  aliases: [Aristotle]
+  born: "-384"
+  died: "-322"
+  roles: [Philosoph, Naturforscher]
+  summary: Griechischer Philosoph aus Stageira, Schüler Platons und ab 343/42 v. Chr. Lehrer des jungen Alexander; begründete in Athen eine eigene Schule, das Lykeion.
+  regions: [griechenland]
+  themes: [wissenschaft-technik, kultur-kunst]
+  places: [pella, athen]
+  related: [alexander-der-grosse, philipp-ii]
+- id: olympias
+  name: Olympias
+  born: "~-375"
+  died: "-316"
+  roles: [Königin von Makedonien]
+  summary: Prinzessin aus Epirus, Frau Philipps II. und Mutter Alexanders; kämpfte nach dessen Tod in den Diadochenkriegen um die Herrschaft und wurde 316 v. Chr. getötet.
+  regions: [griechenland]
+  themes: [politik]
+  places: [pella]
+  related: [philipp-ii, alexander-der-grosse]
+- id: roxane
+  name: Roxane
+  aliases: [Rhoxane, Roxana]
+  died: "~-310"
+  roles: [Königin]
+  summary: Tochter eines baktrischen Adligen, die Alexander 327 v. Chr. heiratete; sie und ihr nach Alexanders Tod geborener Sohn wurden um 310 v. Chr. auf Befehl Kassanders ermordet.
+  regions: [zentralasien]
+  themes: [politik]
+  related: [alexander-der-grosse]
+- id: ptolemaios-i
+  name: Ptolemaios I. Soter
+  aliases: [Ptolemaios I., Ptolemy I]
+  born: "~-367"
+  died: "-282"
+  roles: [General, König von Ägypten]
+  summary: Makedonischer Feldherr und Jugendfreund Alexanders, der nach dessen Tod Ägypten übernahm, 305/04 v. Chr. König wurde und die Dynastie der Ptolemäer begründete; schrieb eine verlorene Geschichte des Alexanderzugs.
+  regions: [aegypten]
+  themes: [imperien, politik]
+  places: [alexandria]
+  related: [alexander-der-grosse, seleukos-i]
+- id: antigonos-i
+  name: Antigonos I. Monophthalmos
+  aliases: [Antigonos der Einäugige]
+  born: "~-382"
+  died: "-301"
+  roles: [General, König]
+  summary: Makedonischer Feldherr, der nach Alexanders Tod den größten Teil Asiens beherrschte und das Reich wieder vereinen wollte; fiel 301 v. Chr. in der Schlacht bei Ipsos.
+  regions: [anatolien, westasien]
+  themes: [krieg-militaer, imperien]
+  related: [alexander-der-grosse, seleukos-i, ptolemaios-i]
+- id: eratosthenes
+  name: Eratosthenes von Kyrene
+  born: "~-276"
+  died: "~-194"
+  roles: [Gelehrter, Bibliothekar]
+  summary: Leiter der Bibliothek von Alexandria, Geograph und Mathematiker, der aus Sonnenwinkeln den Erdumfang berechnete.
+  regions: [aegypten]
+  themes: [wissenschaft-technik]
+  places: [alexandria]
+# Personen: Kreuzzüge
+- id: urban-ii
+  name: Urban II.
+  aliases: [Odo von Châtillon, Papst Urban II.]
+  born: "~1035"
+  died: "1099-07-29"
+  roles: [Papst]
+  summary: Papst aus dem französischen Adel, der 1095 in Clermont zum bewaffneten Zug nach Jerusalem aufrief und damit den Ersten Kreuzzug auslöste.
+  regions: [frankreich, italien]
+  themes: [religion]
+  places: [clermont, rom]
+- id: alexios-i
+  name: Alexios I. Komnenos
+  aliases: [Alexios Komnenos]
+  born: "~1057"
+  died: "1118-08-15"
+  roles: [Byzantinischer Kaiser]
+  summary: Kaiser von Byzanz ab 1081, dessen Bitte um westliche Söldner gegen die Seldschuken den Anstoß zum Ersten Kreuzzug gab.
+  regions: [anatolien, suedosteuropa]
+  themes: [imperien, krieg-militaer]
+  places: [istanbul, nikaia]
+  related: [anna-komnene, urban-ii]
+- id: anna-komnene
+  name: Anna Komnene
+  aliases: [Anna Comnena]
+  born: "1083-12-01"
+  died: "~1153"
+  roles: [Prinzessin, Geschichtsschreiberin]
+  summary: Tochter Kaiser Alexios’ I., die in der „Alexias“ die Herrschaft ihres Vaters und die Ankunft der Kreuzfahrer aus byzantinischer Sicht beschrieb.
+  regions: [anatolien, suedosteuropa]
+  themes: [geschichtsschreibung]
+  places: [istanbul]
+  related: [alexios-i]
+- id: peter-der-einsiedler
+  name: Peter der Einsiedler
+  aliases: [Peter von Amiens]
+  born: "~1050"
+  died: "1115"
+  roles: [Prediger]
+  summary: Wanderprediger aus Nordfrankreich, der 1096 große Scharen von Nichtadligen zum Zug nach Jerusalem mobilisierte; der „Volkskreuzzug“ endete in Anatolien in einer Katastrophe.
+  regions: [frankreich]
+  themes: [religion]
+- id: gottfried-von-bouillon
+  name: Gottfried von Bouillon
+  aliases: [Godefroy de Bouillon]
+  born: "~1060"
+  died: "1100-07-18"
+  roles: [Herzog, Kreuzfahrer]
+  summary: Herzog von Niederlothringen und einer der Anführer des Ersten Kreuzzugs; nach der Eroberung Jerusalems 1099 dessen erster Herrscher, nannte sich aber nicht König.
+  regions: [westeuropa, levante]
+  themes: [krieg-militaer, religion]
+  places: [jerusalem]
+- id: zengi
+  name: Imad ad-Din Zengi
+  aliases: [Zengi, Zangi]
+  born: "~1085"
+  died: "1146-09-14"
+  roles: [Atabeg von Mossul und Aleppo]
+  summary: Türkischer Heerführer, der Mossul und Aleppo unter seiner Herrschaft vereinte und 1144 Edessa eroberte.
+  regions: [mesopotamien, levante]
+  themes: [krieg-militaer]
+  places: [edessa]
+- id: nur-ad-din
+  name: Nur ad-Din
+  aliases: [Nur al-Din, Nureddin]
+  born: "1118"
+  died: "1174-05-15"
+  roles: [Herrscher von Syrien]
+  summary: Sohn Zengis, der Syrien einte, den Dschihad gegen die Kreuzfahrer zum politischen Programm machte und seinen Feldherrn nach Ägypten schickte – mit ihm Saladin.
+  regions: [levante]
+  themes: [krieg-militaer, religion]
+  places: [damaskus]
+  related: [zengi, saladin]
+- id: bernhard-von-clairvaux
+  name: Bernhard von Clairvaux
+  born: "1090"
+  died: "1153-08-20"
+  roles: [Abt, Prediger]
+  summary: Zisterzienserabt und einflussreichster Kirchenmann seiner Zeit, der 1146/47 für den Zweiten Kreuzzug warb und sich gegen Angriffe auf Juden aussprach.
+  regions: [frankreich]
+  themes: [religion]
+- id: saladin
+  name: Saladin
+  aliases: [Salah ad-Din Yusuf ibn Ayyub, Salahuddin]
+  born: "~1137"
+  died: "1193-03-04"
+  roles: [Sultan von Ägypten und Syrien]
+  summary: Kurdischer Heerführer, der Ägypten und Syrien vereinte, die Ayyubiden-Dynastie begründete und 1187 bei Hattin siegte und Jerusalem eroberte.
+  regions: [aegypten, levante]
+  themes: [krieg-militaer, imperien]
+  places: [hattin, jerusalem, kairo, damaskus]
+  related: [richard-loewenherz, nur-ad-din]
+- id: friedrich-barbarossa
+  name: Friedrich I. Barbarossa
+  aliases: [Barbarossa, Friedrich I.]
+  born: "~1122"
+  died: "1190-06-10"
+  roles: [Römisch-deutscher Kaiser]
+  summary: Staufischer Kaiser, der 1189 mit einem großen Heer zum Dritten Kreuzzug aufbrach und in Kleinasien im Fluss Saleph ertrank.
+  regions: [deutschland, italien]
+  themes: [imperien, krieg-militaer]
+- id: richard-loewenherz
+  name: Richard I. Löwenherz
+  aliases: [Richard Löwenherz, Richard the Lionheart, Cœur de Lion]
+  born: "1157-09-08"
+  died: "1199-04-06"
+  roles: [König von England]
+  summary: König von England, der im Dritten Kreuzzug Akkon zurückeroberte und bei Arsuf siegte, Jerusalem aber nicht einnahm; 1192 schloss er mit Saladin einen Waffenstillstand.
+  regions: [britische-inseln, frankreich, levante]
+  themes: [krieg-militaer]
+  places: [akkon]
+  related: [saladin]
+- id: innozenz-iii
+  name: Innozenz III.
+  aliases: [Lotario dei Conti di Segni]
+  born: "~1161"
+  died: "1216-07-16"
+  roles: [Papst]
+  summary: Papst ab 1198, der den Vierten Kreuzzug ausrief, die Eroberung Konstantinopels zunächst verurteilte und 1208 den Kreuzzug gegen die Katharer im Languedoc auslöste.
+  regions: [italien]
+  themes: [religion, politik]
+  places: [rom]
+- id: enrico-dandolo
+  name: Enrico Dandolo
+  born: "~1107"
+  died: "1205"
+  roles: [Doge von Venedig]
+  summary: Hochbetagter, fast blinder Doge, der den Vierten Kreuzzug gegen Bezahlung der venezianischen Flotte erst nach Zara und dann nach Konstantinopel lenkte.
+  regions: [italien]
+  themes: [handelsnetze, krieg-militaer]
+  places: [venedig, istanbul]
+- id: friedrich-ii
+  name: Friedrich II.
+  aliases: [Friedrich II. von Hohenstaufen, Stupor mundi]
+  born: "1194-12-26"
+  died: "1250-12-13"
+  roles: [Römisch-deutscher Kaiser, König von Sizilien]
+  summary: Staufischer Kaiser, der 1229 als gebannter Kreuzfahrer durch einen Vertrag mit Sultan al-Kamil Jerusalem ohne Kampf zurückerhielt.
+  regions: [italien, deutschland, levante]
+  themes: [imperien, politik]
+  places: [jerusalem, akkon]
+  related: [al-kamil]
+- id: al-kamil
+  name: Al-Kamil
+  aliases: [al-Malik al-Kamil]
+  born: "~1177"
+  died: "1238"
+  roles: [Ayyubidischer Sultan von Ägypten]
+  summary: Neffe Saladins und Sultan von Ägypten, der 1229 Jerusalem vertraglich an Kaiser Friedrich II. abtrat.
+  regions: [aegypten]
+  themes: [politik]
+  places: [kairo]
+  related: [friedrich-ii, saladin]
+- id: ludwig-ix
+  name: Ludwig IX.
+  aliases: [Ludwig der Heilige, Saint Louis]
+  born: "1214-04-25"
+  died: "1270-08-25"
+  roles: [König von Frankreich]
+  summary: König von Frankreich, der 1248 nach Ägypten zog, 1250 in Gefangenschaft geriet und 1270 auf einem zweiten Kreuzzug vor Tunis starb; 1297 heiliggesprochen.
+  regions: [frankreich, aegypten, nordafrika]
+  themes: [religion, krieg-militaer]
+  places: [paris]
+- id: baibars
+  name: Baibars
+  aliases: [az-Zahir Baibars, Baybars]
+  born: "~1223"
+  died: "1277-07-01"
+  roles: [Mamlukensultan]
+  summary: Als Sklavensoldat nach Ägypten verkaufter Kiptschake, der 1260 bei Ain Dschalut gegen die Mongolen kämpfte, Sultan wurde und viele Kreuzfahrerburgen eroberte.
+  regions: [aegypten, levante]
+  themes: [krieg-militaer]
+  places: [ain-dschalut, kairo, krak-des-chevaliers, antiochia]
+- id: usama-ibn-munqidh
+  name: Usama ibn Munqidh
+  born: "1095-07-04"
+  died: "1188-11-17"
+  roles: [Krieger, Dichter, Diplomat]
+  summary: Syrischer Adliger aus Schaizar, dessen Erinnerungen ein lebendiges Bild der Begegnungen mit den „Franken“ im 12. Jahrhundert geben.
+  regions: [levante]
+  themes: [geschichtsschreibung]
+  places: [damaskus]
+- id: ibn-al-athir
+  name: Ibn al-Athir
+  born: "1160"
+  died: "1233"
+  roles: [Geschichtsschreiber]
+  summary: Gelehrter aus Mossul, dessen Universalchronik die wichtigste arabische Darstellung der Kreuzzugszeit ist.
+  regions: [mesopotamien]
+  themes: [geschichtsschreibung]
+# Personen: Schwarzer Tod
+- id: giovanni-boccaccio
+  name: Giovanni Boccaccio
+  aliases: [Boccaccio]
+  born: "1313"
+  died: "1375-12-21"
+  roles: [Dichter]
+  summary: Florentiner Dichter, dessen „Decameron“ mit einer Beschreibung der Pest in Florenz 1348 beginnt.
+  regions: [italien]
+  themes: [kultur-kunst, schrift-medien]
+  places: [florenz]
+- id: clemens-vi
+  name: Clemens VI.
+  aliases: [Pierre Roger]
+  born: "1291"
+  died: "1352-12-06"
+  roles: [Papst]
+  summary: Papst in Avignon während der Pest, der 1348 in zwei Bullen die Beschuldigung der Juden zurückwies und ihre Verfolgung verbot.
+  regions: [frankreich]
+  themes: [religion]
+  places: [avignon]
+- id: guy-de-chauliac
+  name: Guy de Chauliac
+  born: "~1300"
+  died: "1368-07-25"
+  roles: [Arzt, Chirurg]
+  summary: Leibarzt der Päpste in Avignon, der 1348 an der Pest erkrankte, überlebte und in seinem Chirurgie-Lehrbuch zwei Verlaufsformen der Krankheit beschrieb.
+  regions: [frankreich]
+  themes: [wissenschaft-technik]
+  places: [avignon]
+- id: ibn-al-wardi
+  name: Ibn al-Wardi
+  born: "~1292"
+  died: "1349"
+  roles: [Gelehrter, Dichter]
+  summary: Syrischer Gelehrter aus Aleppo, der den Weg der Pest nach Syrien beschrieb und 1349 selbst an ihr starb.
+  regions: [levante]
+  themes: [geschichtsschreibung]
+- id: gabriele-de-mussi
+  name: Gabriele de’ Mussi
+  aliases: [Gabriele de Mussis]
+  roles: [Notar, Chronist]
+  summary: Notar aus Piacenza, dessen Pestbericht die oft zitierte Erzählung von über die Mauern Caffas geschleuderten Leichen enthält.
+  regions: [italien]
+  themes: [geschichtsschreibung]
+  places: [caffa]
+- id: wat-tyler
+  name: Wat Tyler
+  died: "1381-06-15"
+  roles: [Rebellenführer]
+  summary: Anführer des englischen Bauernaufstands von 1381, der bei Verhandlungen mit König Richard II. in London getötet wurde.
+  regions: [britische-inseln]
+  themes: [gesellschaft]
+  places: [london]
+# Personen: Amerikanische Revolution
+- id: george-washington
+  name: George Washington
+  born: "1732-02-22"
+  died: "1799-12-14"
+  roles: [Oberbefehlshaber, Präsident der USA]
+  summary: Pflanzer und Sklavenhalter aus Virginia, Oberbefehlshaber der Kontinentalarmee und 1789–1797 erster Präsident der Vereinigten Staaten.
+  regions: [nordamerika]
+  themes: [krieg-militaer, politik]
+  places: [yorktown, philadelphia, new-york]
+- id: thomas-jefferson
+  name: Thomas Jefferson
+  born: "1743-04-13"
+  died: "1826-07-04"
+  roles: [Politiker, Präsident der USA]
+  summary: Pflanzer und Sklavenhalter aus Virginia, Hauptautor der Unabhängigkeitserklärung und 1801–1809 dritter Präsident der Vereinigten Staaten.
+  regions: [nordamerika]
+  themes: [politik, verfassung-recht]
+  places: [philadelphia]
+- id: benjamin-franklin
+  name: Benjamin Franklin
+  born: "1706-01-17"
+  died: "1790-04-17"
+  roles: [Drucker, Naturforscher, Diplomat]
+  summary: Drucker und Naturforscher aus Philadelphia, Mitunterzeichner der Unabhängigkeitserklärung, der 1778 das Bündnis mit Frankreich aushandelte.
+  regions: [nordamerika, frankreich]
+  themes: [politik, wissenschaft-technik]
+  places: [philadelphia, paris]
+- id: john-adams
+  name: John Adams
+  born: "1735-10-30"
+  died: "1826-07-04"
+  roles: [Jurist, Politiker, Präsident der USA]
+  summary: Anwalt aus Massachusetts, treibende Kraft für die Unabhängigkeit im Kontinentalkongress und 1797–1801 zweiter Präsident der Vereinigten Staaten.
+  regions: [nordamerika]
+  themes: [politik]
+  places: [boston, philadelphia]
+  related: [abigail-adams]
+- id: abigail-adams
+  name: Abigail Adams
+  born: "1744-11-22"
+  died: "1818-10-28"
+  roles: [Briefschreiberin]
+  summary: Ehefrau John Adams’, deren Briefe zu den wichtigsten Quellen der Revolutionszeit gehören; sie forderte 1776, bei neuen Gesetzen „an die Frauen zu denken“.
+  regions: [nordamerika]
+  themes: [gesellschaft]
+  places: [boston]
+  related: [john-adams]
+- id: samuel-adams
+  name: Samuel Adams
+  born: "1722-09-27"
+  died: "1803-10-02"
+  roles: [Politiker]
+  summary: Politiker in Boston und einer der Organisatoren des Widerstands gegen die britische Steuerpolitik.
+  regions: [nordamerika]
+  themes: [politik, revolutionen]
+  places: [boston]
+- id: thomas-paine
+  name: Thomas Paine
+  born: "1737-02-09"
+  died: "1809-06-08"
+  roles: [Publizist]
+  summary: Englischer Publizist, dessen Flugschrift „Common Sense“ im Januar 1776 für die Unabhängigkeit warb; später Verteidiger der Französischen Revolution.
+  regions: [nordamerika, britische-inseln, frankreich]
+  themes: [schrift-medien, revolutionen]
+  places: [philadelphia, paris]
+- id: georg-iii
+  name: Georg III.
+  aliases: [George III]
+  born: "1738-06-04"
+  died: "1820-01-29"
+  roles: [König von Großbritannien]
+  summary: König von Großbritannien ab 1760, unter dessen Regierung die dreizehn Kolonien ihre Unabhängigkeit erkämpften.
+  regions: [britische-inseln]
+  themes: [politik]
+  places: [london]
+- id: cornwallis
+  name: Charles Cornwallis
+  aliases: [Lord Cornwallis]
+  born: "1738-12-31"
+  died: "1805-10-05"
+  roles: [General, Generalgouverneur]
+  summary: Britischer General, der 1781 in Yorktown kapitulierte; später Generalgouverneur in Indien.
+  regions: [nordamerika, britische-inseln, suedasien]
+  themes: [krieg-militaer]
+  places: [yorktown]
+- id: lord-dunmore
+  name: Lord Dunmore
+  aliases: [John Murray, Earl of Dunmore]
+  born: "1730"
+  died: "1809"
+  roles: [Kolonialgouverneur]
+  summary: Letzter königlicher Gouverneur von Virginia, der im November 1775 Sklaven von Rebellen die Freiheit versprach, wenn sie für die britische Seite kämpften.
+  regions: [nordamerika]
+  themes: [sklaverei-unfreiheit]
+- id: joseph-brant
+  name: Joseph Brant
+  aliases: [Thayendanegea]
+  born: "1743"
+  died: "1807-11-24"
+  roles: [Mohawk-Anführer]
+  summary: Mohawk-Anführer, der im Unabhängigkeitskrieg mit Großbritannien verbündete Irokesen führte und danach ihre Ansiedlung in Kanada betrieb.
+  regions: [nordamerika]
+  themes: [krieg-militaer]
+- id: crispus-attucks
+  name: Crispus Attucks
+  died: "1770-03-05"
+  roles: [Seemann]
+  summary: Seemann afrikanischer und indigener Herkunft, der beim „Massaker von Boston“ als einer der ersten getötet wurde.
+  regions: [nordamerika]
+  themes: [gesellschaft]
+  places: [boston]
+- id: james-madison
+  name: James Madison
+  born: "1751-03-16"
+  died: "1836-06-28"
+  roles: [Politiker, Präsident der USA]
+  summary: Politiker aus Virginia, der den Verfassungsentwurf von 1787 maßgeblich prägte, die Bill of Rights einbrachte und 1809–1817 Präsident war.
+  regions: [nordamerika]
+  themes: [verfassung-recht]
+  places: [philadelphia]
+- id: alexander-hamilton
+  name: Alexander Hamilton
+  born: "~1755"
+  died: "1804-07-12"
+  roles: [Offizier, Finanzminister]
+  summary: In der Karibik geborener Adjutant Washingtons, der mit den „Federalist Papers“ für die neue Verfassung warb und als erster Finanzminister die Bundesfinanzen ordnete.
+  regions: [nordamerika, karibik]
+  themes: [verfassung-recht, wirtschaft-handel]
+  places: [new-york]

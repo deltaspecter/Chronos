@@ -1,0 +1,138 @@
+# Staaten: Hellenismus
+- id: antigonidenreich
+  name: Reich der Antigoniden
+  aliases: [Antigoniden, Makedonien der Antigoniden]
+  start: "-306"
+  end: "-168"
+  spanNote: 306 v. Chr. nahmen Antigonos I. und sein Sohn Demetrios den Königstitel an; über Makedonien herrschten die Antigoniden ab 294 und dauerhaft ab 276 v. Chr., bis Rom das Königreich 168 v. Chr. bei Pydna zerschlug.
+  capital: pella
+  summary: Hellenistisches Königreich der Nachkommen des Antigonos Monophthalmos, das sich nach Ipsos auf Makedonien und Teile Griechenlands beschränkte.
+  regions: [griechenland]
+  themes: [imperien]
+  predecessors: [alexanderreich]
+  weight: 3
+- id: graeko-baktrisches-reich
+  name: Griechisch-Baktrisches Reich
+  aliases: [Graeco-Baktrien, Baktrien]
+  start: "~-250"
+  end: "~-130"
+  spanNote: Die Abspaltung vom Seleukidenreich wird in die Mitte des 3. Jahrhunderts v. Chr. datiert; um 130 v. Chr. erlag Baktrien nomadischen Eroberern. Griechische Könige herrschten in Nordwestindien noch länger.
+  summary: Von griechischen Statthaltern gegründetes Königreich in Baktrien zwischen Hindukusch und Oxus, bekannt vor allem durch Münzen und die Stadt Ai Khanoum.
+  regions: [zentralasien]
+  themes: [imperien, kultur-kunst]
+  predecessors: [seleukidenreich]
+  weight: 3
+# Staaten: Kreuzzüge
+- id: seldschukenreich
+  name: Reich der Großseldschuken
+  aliases: [Seldschuken, Großseldschuken]
+  start: "1037"
+  end: "1194"
+  spanNote: Die Seldschuken eroberten ab 1037 Chorasan und 1055 Bagdad; das Reich zerfiel ab dem frühen 12. Jahrhundert in Teilherrschaften, das Sultanat der Rum-Seldschuken in Anatolien bestand bis ins 14. Jahrhundert.
+  summary: Reich einer türkischen Herrscherdynastie, die sich als Schutzmacht des sunnitischen Kalifen in Bagdad verstand und nach dem Sieg bei Manzikert 1071 weite Teile Anatoliens unter ihre Kontrolle brachte.
+  regions: [iran, mesopotamien, anatolien, zentralasien]
+  themes: [imperien]
+  weight: 2
+- id: fatimiden
+  name: Kalifat der Fatimiden
+  aliases: [Fatimiden]
+  start: "909"
+  end: "1171"
+  capital: kairo
+  summary: Schiitisches Kalifat, das von Nordafrika aus 969 Ägypten eroberte und Kairo gründete; 1099 verlor es Jerusalem an die Kreuzfahrer, 1171 setzte Saladin den letzten Kalifen ab.
+  regions: [nordafrika, aegypten, levante]
+  themes: [imperien, religion]
+  successors: [ayyubiden]
+  weight: 2
+- id: ayyubiden
+  name: Reich der Ayyubiden
+  aliases: [Ayyubiden]
+  start: "1171"
+  end: "1250"
+  spanNote: In Ägypten bis 1250, in Teilen Syriens bis 1260.
+  capital: kairo
+  summary: Von Saladin begründetes Herrschaftsgebiet in Ägypten, Syrien und Mesopotamien, das unter seinen Nachkommen in mehrere Teilreiche zerfiel und in Ägypten von den Mamluken abgelöst wurde.
+  regions: [aegypten, levante, mesopotamien]
+  themes: [imperien]
+  predecessors: [fatimiden]
+  successors: [mamlukensultanat]
+  weight: 2
+- id: koenigreich-jerusalem
+  name: Königreich Jerusalem
+  aliases: [Lateinisches Königreich Jerusalem]
+  start: "1099"
+  end: "1291"
+  spanNote: Jerusalem selbst ging 1187 verloren und war nur 1229–1244 wieder christlich; ab 1191 war Akkon Hauptort des Königreichs.
+  capital: jerusalem
+  summary: Größter der Kreuzfahrerstaaten an der levantinischen Küste, gegründet nach der Eroberung Jerusalems im Ersten Kreuzzug.
+  regions: [levante]
+  themes: [religion, imperien]
+  predecessors: [fatimiden]
+  successors: [mamlukensultanat]
+  weight: 2
+- id: fuerstentum-antiochia
+  name: Fürstentum Antiochia
+  start: "1098"
+  end: "1268"
+  capital: antiochia
+  summary: Kreuzfahrerstaat in Nordsyrien, gegründet vom normannischen Fürsten Bohemund von Tarent und 1268 von Sultan Baibars erobert.
+  regions: [levante, anatolien]
+  themes: [krieg-militaer]
+  successors: [mamlukensultanat]
+  weight: 3
+- id: grafschaft-edessa
+  name: Grafschaft Edessa
+  start: "1098"
+  end: "1144"
+  spanNote: Die Stadt Edessa fiel 1144, die westlichen Reste der Grafschaft bis 1150.
+  capital: edessa
+  summary: Erster Kreuzfahrerstaat, gegründet von Balduin von Boulogne; ihr Fall an Zengi löste den Zweiten Kreuzzug aus.
+  regions: [mesopotamien, anatolien]
+  themes: [krieg-militaer]
+  weight: 3
+- id: lateinisches-kaiserreich
+  name: Lateinisches Kaiserreich
+  aliases: [Kaiserreich Romania]
+  start: "1204"
+  end: "1261"
+  capital: istanbul
+  summary: Nach der Eroberung Konstantinopels im Vierten Kreuzzug errichtetes Kaiserreich westlicher Ritter, das 1261 vom byzantinischen Exilkaisertum aus Nikaia beseitigt wurde.
+  regions: [suedosteuropa, anatolien]
+  themes: [imperien]
+  predecessors: [byzantinisches-reich]
+  successors: [byzantinisches-reich]
+  weight: 3
+# Staaten: Spätmittelalter
+- id: koenigreich-england
+  name: Königreich England
+  aliases: [England]
+  start: "927"
+  end: "1707"
+  spanNote: 927 gilt als Gründungsjahr eines vereinten englischen Königreichs; 1707 ging es mit Schottland im Königreich Großbritannien auf.
+  capital: london
+  summary: Mittelalterliches und frühneuzeitliches Königreich im Süden Großbritanniens.
+  regions: [britische-inseln]
+  themes: [politik]
+  successors: [koenigreich-grossbritannien]
+  weight: 2
+# Staaten: Nordamerika
+- id: dreizehn-kolonien
+  name: Dreizehn Kolonien
+  aliases: [Britisch-Nordamerika, Thirteen Colonies]
+  start: "1607"
+  end: "1776"
+  spanNote: Von der Gründung Jamestowns 1607 bis zur Unabhängigkeitserklärung 1776; Georgia kam als dreizehnte Kolonie 1732 hinzu.
+  summary: Die britischen Kolonien an der Atlantikküste Nordamerikas von New Hampshire bis Georgia, die sich 1776 für unabhängig erklärten.
+  regions: [nordamerika]
+  themes: [imperien]
+  successors: [vereinigte-staaten]
+  weight: 2
+- id: irokesenbund
+  name: Irokesenbund
+  aliases: [Haudenosaunee, Liga der Irokesen, Five Nations, Six Nations]
+  start: "~1500"
+  spanNote: Die Entstehung des Bundes wird von der Forschung sehr unterschiedlich zwischen dem 12. und dem 16. Jahrhundert datiert; er besteht bis heute.
+  summary: Bund zunächst fünf, ab etwa 1722 sechs Völker im Gebiet des heutigen Bundesstaats New York, der im Unabhängigkeitskrieg zerbrach, als die Mitglieder unterschiedliche Seiten wählten.
+  regions: [nordamerika]
+  themes: [politik]
+  weight: 3

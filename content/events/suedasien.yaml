@@ -5,6 +5,7 @@
   kind: krieg
   summary: Alexander besiegt am Hydaspes den König Poros; seine Soldaten verweigern den Weitermarsch nach Osten.
   regions: [suedasien]
+  places: [hydaspes]
   themes: [krieg-militaer]
   persons: [alexander-der-grosse]
   polities: [alexanderreich]

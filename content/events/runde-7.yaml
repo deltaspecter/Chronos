@@ -1,0 +1,640 @@
+# --- Alexander und der Hellenismus ---
+- id: ermordung-philipps-ii
+  title: Ermordung Philipps II.
+  date: "-336"
+  weight: 3
+  kind: ereignis
+  summary: König Philipp II. von Makedonien wird bei der Hochzeit seiner Tochter in Aigai von einem Leibwächter erstochen; sein zwanzigjähriger Sohn Alexander folgt ihm nach.
+  regions: [griechenland]
+  themes: [politik]
+  persons: [philipp-ii, alexander-der-grosse, olympias]
+  polities: [makedonien]
+- id: schlacht-am-granikos
+  title: Schlacht am Granikos
+  date: "-334"
+  dateNote: Frühsommer 334 v. Chr.
+  weight: 3
+  kind: schlacht
+  summary: Kurz nach dem Übergang nach Asien besiegt Alexander ein Heer der persischen Satrapen Kleinasiens.
+  regions: [anatolien]
+  themes: [krieg-militaer]
+  places: [granikos]
+  persons: [alexander-der-grosse]
+  polities: [alexanderreich, achaemenidenreich]
+- id: schlacht-bei-issos
+  title: Schlacht bei Issos
+  date: "-333-11"
+  weight: 2
+  kind: schlacht
+  summary: Alexander schlägt das Heer des Großkönigs Dareios III., der flieht und seine Familie zurücklässt.
+  regions: [anatolien]
+  themes: [krieg-militaer]
+  places: [issos]
+  persons: [alexander-der-grosse, dareios-iii]
+  polities: [alexanderreich, achaemenidenreich]
+- id: belagerung-von-tyros
+  title: Belagerung von Tyros
+  date: "-332"
+  dateNote: Etwa Januar bis Juli/August 332 v. Chr.
+  weight: 3
+  kind: schlacht
+  summary: Nach siebenmonatiger Belagerung und dem Bau eines Damms zur Inselstadt erobert Alexander Tyros; die Überlebenden werden nach antiken Berichten getötet oder versklavt.
+  regions: [levante]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [tyros]
+  persons: [alexander-der-grosse]
+  polities: [alexanderreich]
+- id: gruendung-alexandrias
+  title: Gründung Alexandrias
+  date: "-331"
+  dateNote: Ende 332 oder Anfang 331 v. Chr.
+  weight: 2
+  kind: gruendung
+  summary: Alexander gründet an der Mittelmeerküste Ägyptens eine Stadt, die unter den Ptolemäern zur größten Metropole der hellenistischen Welt wird; anschließend besucht er das Ammon-Orakel in Siwa.
+  regions: [aegypten]
+  themes: [imperien, kultur-kunst]
+  places: [alexandria, siwa]
+  persons: [alexander-der-grosse]
+  polities: [alexanderreich]
+- id: massenhochzeit-von-susa
+  title: Massenhochzeit von Susa
+  date: "-324"
+  weight: 3
+  kind: ereignis
+  summary: Alexander und etwa achtzig seiner Offiziere heiraten Frauen aus dem iranischen Adel; die meisten dieser Ehen werden nach seinem Tod aufgelöst.
+  regions: [iran]
+  themes: [politik, gesellschaft]
+  places: [susa]
+  persons: [alexander-der-grosse]
+  polities: [alexanderreich]
+- id: tod-alexanders
+  title: Tod Alexanders des Großen
+  date: "-323-06"
+  dateNote: 10. oder 11. Juni 323 v. Chr.
+  weight: 1
+  kind: ereignis
+  summary: Alexander stirbt mit 32 Jahren nach kurzer fieberhafter Krankheit in Babylon, ohne einen handlungsfähigen Nachfolger; seine Feldherren teilen das Reich.
+  regions: [mesopotamien]
+  themes: [imperien, politik]
+  places: [babylon]
+  persons: [alexander-der-grosse, roxane, ptolemaios-i]
+  polities: [alexanderreich]
+- id: diadochenkriege
+  title: Diadochenkriege
+  start: "-322"
+  end: "-281"
+  weight: 2
+  kind: krieg
+  summary: Alexanders Feldherren, die „Nachfolger“, kämpfen vier Jahrzehnte um sein Erbe; am Ende stehen die Königreiche der Ptolemäer, Seleukiden und Antigoniden.
+  regions: [griechenland, westasien, aegypten]
+  themes: [krieg-militaer, imperien]
+  persons: [ptolemaios-i, antigonos-i, seleukos-i, olympias]
+  polities: [alexanderreich, ptolemaeerreich, seleukidenreich, antigonidenreich]
+- id: schlacht-bei-ipsos
+  title: Schlacht bei Ipsos
+  date: "-301"
+  weight: 3
+  kind: schlacht
+  summary: Eine Koalition der Diadochen besiegt Antigonos I., der in der Schlacht fällt; damit scheitert der letzte Versuch, Alexanders Reich wieder zu vereinen.
+  regions: [anatolien]
+  themes: [krieg-militaer]
+  persons: [antigonos-i, seleukos-i]
+  polities: [antigonidenreich, seleukidenreich]
+- id: museion-alexandria
+  title: Museion und Bibliothek von Alexandria
+  date: "~-290"
+  certainty: wahrscheinlich
+  dateNote: Gegründet unter Ptolemaios I. oder Ptolemaios II.; das genaue Jahr ist nicht überliefert.
+  weight: 2
+  kind: gruendung
+  summary: Die Ptolemäer gründen in Alexandria eine königlich finanzierte Forschungsstätte mit der größten Bibliothek der Antike.
+  regions: [aegypten]
+  themes: [wissenschaft-technik, schrift-medien]
+  places: [alexandria]
+  persons: [ptolemaios-i]
+  polities: [ptolemaeerreich]
+- id: septuaginta
+  title: Septuaginta
+  start: "~-280"
+  end: "~-100"
+  certainty: wahrscheinlich
+  dateNote: Die Tora wurde wohl im 3. Jahrhundert v. Chr. übersetzt, weitere Bücher folgten bis ins 1. Jahrhundert v. Chr.
+  weight: 3
+  kind: entwicklung
+  summary: Jüdische Gelehrte in Alexandria übersetzen die hebräische Bibel ins Griechische – für die griechischsprachige jüdische Gemeinde und später für die christliche Kirche.
+  regions: [aegypten]
+  themes: [religion, schrift-medien]
+  places: [alexandria]
+  polities: [ptolemaeerreich]
+- id: erdumfang-eratosthenes
+  title: Eratosthenes berechnet den Erdumfang
+  date: "~-240"
+  certainty: wahrscheinlich
+  weight: 3
+  kind: entdeckung
+  summary: Aus dem Unterschied der Sonnenhöhe in Syene und Alexandria berechnet Eratosthenes den Umfang der Erdkugel auf 250.000 Stadien.
+  regions: [aegypten]
+  themes: [wissenschaft-technik]
+  places: [alexandria]
+  persons: [eratosthenes]
+- id: dekret-von-memphis
+  title: Priesterdekret von Memphis (Stein von Rosette)
+  date: "-196-03-27"
+  weight: 3
+  kind: gesetz
+  summary: Eine Priesterversammlung ehrt den jungen König Ptolemaios V.; eine Abschrift in Hieroglyphen, demotischer Schrift und Griechisch wird 1799 bei Rosette gefunden und ermöglicht die Entzifferung der Hieroglyphen.
+  regions: [aegypten]
+  themes: [schrift-medien, religion]
+  places: [memphis, rosette]
+  polities: [ptolemaeerreich]
+- id: schlacht-bei-pydna
+  title: Schlacht bei Pydna
+  date: "-168-06-22"
+  weight: 3
+  kind: schlacht
+  summary: Römische Legionen besiegen die makedonische Phalanx des Königs Perseus; Rom löst das Königreich der Antigoniden auf.
+  regions: [griechenland]
+  themes: [krieg-militaer, imperien]
+  polities: [antigonidenreich, roemische-republik]
+# --- Kreuzzüge ---
+- id: schlacht-bei-manzikert
+  title: Schlacht bei Manzikert
+  date: "1071-08-26"
+  weight: 2
+  kind: schlacht
+  summary: Die Seldschuken unter Sultan Alp Arslan besiegen ein byzantinisches Heer und nehmen Kaiser Romanos IV. gefangen; in den folgenden Jahren dringen türkische Verbände tief nach Anatolien vor.
+  regions: [anatolien]
+  themes: [krieg-militaer]
+  places: [manzikert]
+  polities: [seldschukenreich, byzantinisches-reich]
+- id: konzil-von-clermont
+  title: Aufruf von Clermont
+  date: "1095-11-27"
+  weight: 2
+  kind: ereignis
+  summary: Am Ende einer Kirchenversammlung ruft Papst Urban II. Ritter dazu auf, den Christen im Osten zu helfen und Jerusalem zu befreien; den Teilnehmern wird Erlass der Bußstrafen versprochen.
+  regions: [frankreich]
+  themes: [religion]
+  places: [clermont]
+  persons: [urban-ii]
+- id: pogrome-1096
+  title: Pogrome im Rheinland 1096
+  aliases: [Rheinische Pogrome, Gezerot Tatnu]
+  start: "1096-05-03"
+  end: "1096-06"
+  weight: 2
+  kind: ereignis
+  summary: Kreuzfahrerscharen ermorden in Speyer, Worms, Mainz und weiteren Städten Hunderte Juden oder zwingen sie zur Taufe; viele Gemeindemitglieder töten sich und ihre Kinder, um der Zwangstaufe zu entgehen.
+  regions: [deutschland]
+  themes: [gewalt-genozid, religion]
+  places: [speyer, worms, mainz]
+  polities: [heiliges-roemisches-reich]
+- id: erster-kreuzzug
+  title: Erster Kreuzzug
+  start: "1096"
+  end: "1099"
+  weight: 1
+  kind: krieg
+  summary: Heere aus Frankreich, Lothringen, Süditalien und Flandern ziehen über Konstantinopel und Anatolien nach Syrien, erobern Antiochia und 1099 Jerusalem und gründen die Kreuzfahrerstaaten.
+  regions: [anatolien, levante, westeuropa]
+  themes: [krieg-militaer, religion]
+  places: [istanbul, nikaia, antiochia, edessa, jerusalem]
+  persons: [urban-ii, alexios-i, peter-der-einsiedler, gottfried-von-bouillon]
+  polities: [byzantinisches-reich, seldschukenreich, fatimiden, koenigreich-jerusalem]
+- id: eroberung-antiochias-1098
+  title: Eroberung Antiochias
+  date: "1098-06-03"
+  weight: 3
+  kind: schlacht
+  summary: Nach achtmonatiger Belagerung dringen die Kreuzfahrer durch Verrat in die Stadt ein; wenige Wochen später schlagen sie ein muslimisches Entsatzheer.
+  regions: [anatolien, levante]
+  themes: [krieg-militaer]
+  places: [antiochia]
+  polities: [fuerstentum-antiochia]
+- id: eroberung-jerusalems-1099
+  title: Eroberung Jerusalems durch die Kreuzfahrer
+  date: "1099-07-15"
+  weight: 2
+  kind: schlacht
+  summary: Die Kreuzfahrer erstürmen die von den Fatimiden gehaltene Stadt und töten einen großen Teil der muslimischen und jüdischen Einwohner.
+  regions: [levante]
+  themes: [krieg-militaer, gewalt-genozid, religion]
+  places: [jerusalem]
+  persons: [gottfried-von-bouillon]
+  polities: [fatimiden, koenigreich-jerusalem]
+- id: fall-von-edessa
+  title: Fall von Edessa
+  date: "1144-12"
+  weight: 3
+  kind: schlacht
+  summary: Zengi erobert Edessa, die Hauptstadt des ersten Kreuzfahrerstaats; im Westen wird daraufhin ein neuer Kreuzzug gepredigt.
+  regions: [mesopotamien]
+  themes: [krieg-militaer]
+  places: [edessa]
+  persons: [zengi]
+  polities: [grafschaft-edessa]
+- id: zweiter-kreuzzug
+  title: Zweiter Kreuzzug
+  start: "1147"
+  end: "1149"
+  weight: 3
+  kind: krieg
+  summary: Die Heere des französischen Königs Ludwig VII. und des deutschen Königs Konrad III. erleiden in Anatolien schwere Verluste; eine Belagerung von Damaskus scheitert nach wenigen Tagen.
+  regions: [anatolien, levante]
+  themes: [krieg-militaer, religion]
+  places: [damaskus]
+  persons: [bernhard-von-clairvaux]
+  polities: [koenigreich-jerusalem]
+- id: schlacht-bei-hattin
+  title: Schlacht bei Hattin
+  date: "1187-07-04"
+  weight: 2
+  kind: schlacht
+  summary: Saladin vernichtet das durstende Heer des Königreichs Jerusalem; der König wird gefangen genommen, die Ritter der Orden werden hingerichtet.
+  regions: [levante]
+  themes: [krieg-militaer]
+  places: [hattin]
+  persons: [saladin]
+  polities: [ayyubiden, koenigreich-jerusalem]
+- id: saladin-erobert-jerusalem
+  title: Saladin erobert Jerusalem
+  date: "1187-10-02"
+  weight: 2
+  kind: ereignis
+  summary: Nach kurzer Belagerung übergibt sich Jerusalem gegen freien Abzug der Einwohner, die ein Lösegeld zahlen können; wer nicht zahlen kann, wird versklavt.
+  regions: [levante]
+  themes: [krieg-militaer, religion]
+  places: [jerusalem]
+  persons: [saladin]
+  polities: [ayyubiden, koenigreich-jerusalem]
+- id: dritter-kreuzzug
+  title: Dritter Kreuzzug
+  start: "1189"
+  end: "1192"
+  weight: 2
+  kind: krieg
+  summary: Kaiser Friedrich Barbarossa, König Richard Löwenherz und König Philipp II. von Frankreich ziehen ins Heilige Land; Akkon wird zurückerobert, Jerusalem bleibt in Saladins Hand.
+  regions: [anatolien, levante]
+  themes: [krieg-militaer]
+  places: [akkon, jerusalem]
+  persons: [friedrich-barbarossa, richard-loewenherz, saladin]
+  polities: [ayyubiden, koenigreich-jerusalem, heiliges-roemisches-reich, koenigreich-england, koenigreich-frankreich]
+- id: vierter-kreuzzug
+  title: Vierter Kreuzzug
+  start: "1202"
+  end: "1204"
+  weight: 2
+  kind: krieg
+  summary: Ein Kreuzfahrerheer, das bei Venedig verschuldet ist, erobert zuerst die christliche Stadt Zara und dann Konstantinopel, statt gegen Ägypten zu ziehen.
+  regions: [suedosteuropa, mittelmeer]
+  themes: [krieg-militaer, religion]
+  places: [venedig, istanbul]
+  persons: [innozenz-iii, enrico-dandolo]
+  polities: [republik-venedig, byzantinisches-reich, lateinisches-kaiserreich]
+- id: pluenderung-konstantinopels-1204
+  title: Plünderung Konstantinopels
+  date: "1204-04-13"
+  weight: 2
+  kind: katastrophe
+  summary: Kreuzfahrer und Venezianer erstürmen Konstantinopel, plündern drei Tage lang Kirchen und Paläste und errichten ein lateinisches Kaiserreich; die Entfremdung zwischen Ost- und Westkirche vertieft sich.
+  regions: [suedosteuropa]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [istanbul, hagia-sophia]
+  persons: [enrico-dandolo]
+  polities: [byzantinisches-reich, lateinisches-kaiserreich, republik-venedig]
+- id: albigenserkreuzzug
+  title: Albigenserkreuzzug
+  start: "1209"
+  end: "1229"
+  weight: 3
+  kind: krieg
+  summary: Auf Aufruf Innozenz’ III. führen nordfranzösische Adlige einen Kreuzzug gegen die Katharer und ihre Schutzherren im Languedoc; die Region fällt an die französische Krone.
+  regions: [frankreich]
+  themes: [religion, gewalt-genozid]
+  places: [beziers]
+  persons: [innozenz-iii]
+  polities: [koenigreich-frankreich]
+- id: vertrag-von-jaffa-1229
+  title: Vertrag von Jaffa
+  date: "1229-02-18"
+  weight: 3
+  kind: vertrag
+  summary: Der gebannte Kaiser Friedrich II. erhält von Sultan al-Kamil durch Verhandlungen Jerusalem für zehn Jahre zurück; der Tempelberg bleibt in muslimischer Verwaltung.
+  regions: [levante]
+  themes: [politik, religion]
+  places: [jerusalem]
+  persons: [friedrich-ii, al-kamil]
+  polities: [ayyubiden, koenigreich-jerusalem, heiliges-roemisches-reich]
+- id: kreuzzug-ludwigs-ix
+  title: Kreuzzug Ludwigs IX. nach Ägypten
+  start: "1248"
+  end: "1254"
+  weight: 3
+  kind: krieg
+  summary: Der französische König erobert Damiette, wird aber 1250 bei al-Mansura geschlagen und gefangen genommen; während der Kämpfe übernehmen in Ägypten die Mamluken die Macht.
+  regions: [aegypten]
+  themes: [krieg-militaer]
+  persons: [ludwig-ix]
+  polities: [koenigreich-frankreich, ayyubiden, mamlukensultanat]
+- id: fall-von-akkon
+  title: Fall von Akkon
+  date: "1291-05-18"
+  weight: 2
+  kind: schlacht
+  summary: Die Mamluken erobern Akkon, den letzten großen Stützpunkt der Kreuzfahrer; binnen weniger Monate werden die restlichen Küstenstädte geräumt.
+  regions: [levante]
+  themes: [krieg-militaer]
+  places: [akkon]
+  polities: [mamlukensultanat, koenigreich-jerusalem]
+# --- Schwarzer Tod ---
+- id: pest-in-messina
+  title: Die Pest erreicht Messina
+  date: "1347-10"
+  weight: 3
+  kind: katastrophe
+  summary: Genuesische Galeeren aus dem Schwarzen Meer bringen die Seuche nach Sizilien; von dort breitet sie sich binnen Monaten über die Häfen des Mittelmeers aus.
+  regions: [italien]
+  themes: [umwelt-klima, handelsnetze]
+  places: [messina]
+  polities: [republik-genua]
+- id: pest-in-florenz
+  title: Pest in Florenz
+  date: "1348"
+  weight: 3
+  kind: katastrophe
+  summary: Zwischen Frühjahr und Herbst 1348 stirbt in Florenz nach heutigen Schätzungen etwa die Hälfte der Bevölkerung; Boccaccio beschreibt die Zustände im Decameron.
+  regions: [italien]
+  themes: [umwelt-klima, gesellschaft]
+  places: [florenz]
+  persons: [giovanni-boccaccio]
+- id: papstbullen-1348
+  title: Papstbulle gegen die Verfolgung der Juden
+  date: "1348-09-26"
+  dateNote: Eine erste Bulle Clemens’ VI. zum Schutz der Juden datiert vom 6. Juli 1348.
+  weight: 3
+  kind: gesetz
+  summary: Papst Clemens VI. erklärt, die Juden könnten die Pest nicht verursacht haben, da sie selbst an ihr stürben, und verbietet ihre Verfolgung – ohne die Pogrome aufhalten zu können.
+  regions: [europa]
+  themes: [religion]
+  places: [avignon]
+  persons: [clemens-vi]
+- id: pestpogrome
+  title: Pestpogrome
+  start: "1348"
+  end: "1351"
+  weight: 2
+  kind: ereignis
+  summary: Unter dem Vorwurf der Brunnenvergiftung werden in Hunderten Orten, vor allem im Reich, jüdische Gemeinden vertrieben oder ermordet, oft bevor die Pest den Ort erreicht.
+  regions: [mitteleuropa, deutschland, frankreich]
+  themes: [gewalt-genozid, religion]
+  places: [strassburg, erfurt, mainz]
+  polities: [heiliges-roemisches-reich]
+- id: pogrom-strassburg
+  title: Pogrom von Straßburg
+  date: "1349-02-14"
+  weight: 3
+  kind: ereignis
+  summary: Nach dem Sturz des Stadtrats, der die Juden schützen wollte, werden in Straßburg Hunderte Juden verbrannt; ihre Schuldforderungen werden für nichtig erklärt.
+  regions: [frankreich, mitteleuropa]
+  themes: [gewalt-genozid]
+  places: [strassburg]
+  polities: [heiliges-roemisches-reich]
+- id: geisslerzuege
+  title: Geißlerzüge
+  start: "1348"
+  end: "1349"
+  weight: 3
+  kind: ereignis
+  summary: Bußbruderschaften ziehen durch das Reich und geißeln sich öffentlich, um Gottes Zorn abzuwenden; im Oktober 1349 verbietet Papst Clemens VI. die Bewegung.
+  regions: [mitteleuropa, deutschland]
+  themes: [religion]
+  persons: [clemens-vi]
+- id: statute-of-labourers
+  title: Arbeiterstatut in England
+  aliases: [Statute of Labourers]
+  date: "1351"
+  dateNote: Vorausgegangen war eine königliche Verordnung (Ordinance of Labourers) von 1349.
+  weight: 3
+  kind: gesetz
+  summary: Weil Arbeitskräfte nach der Pest knapp sind, sollen Löhne per Gesetz auf dem Stand vor der Seuche festgeschrieben werden; das Gesetz lässt sich auf Dauer nicht durchsetzen.
+  regions: [britische-inseln]
+  themes: [wirtschaft-handel, gesellschaft]
+  polities: [koenigreich-england]
+- id: quarantaene-ragusa
+  title: Absonderung von Pestverdächtigen in Ragusa
+  date: "1377-07-27"
+  weight: 3
+  kind: gesetz
+  summary: Der Rat von Ragusa ordnet an, dass Ankömmlinge aus Pestgebieten dreißig Tage außerhalb der Stadt verbringen müssen – eine der frühesten bekannten Quarantäneregelungen.
+  regions: [suedosteuropa]
+  themes: [wissenschaft-technik, handelsnetze]
+  places: [ragusa]
+- id: bauernaufstand-1381
+  title: Englischer Bauernaufstand
+  aliases: [Peasants' Revolt]
+  date: "1381-06"
+  weight: 3
+  kind: ereignis
+  summary: Ausgelöst durch eine Kopfsteuer, ziehen Aufständische aus Kent und Essex nach London und fordern das Ende der Leibeigenschaft; der Aufstand wird niedergeschlagen.
+  regions: [britische-inseln]
+  themes: [gesellschaft]
+  places: [london]
+  persons: [wat-tyler]
+  polities: [koenigreich-england]
+- id: pest-genom-2011
+  title: Genom des Pesterregers aus Opfern des Schwarzen Todes
+  date: "2011-10"
+  weight: 3
+  kind: entdeckung
+  summary: Ein Forschungsteam rekonstruiert aus Zähnen von Pesttoten eines Londoner Friedhofs das Erbgut von Yersinia pestis und bestätigt den Erreger der Pandemie.
+  regions: [britische-inseln, welt]
+  themes: [wissenschaft-technik, archaeologie]
+  places: [london]
+# --- Amerikanische Revolution ---
+- id: siebenjaehriger-krieg
+  title: Siebenjähriger Krieg
+  aliases: [French and Indian War]
+  start: "1756"
+  end: "1763"
+  dateNote: In Nordamerika begannen die Kämpfe bereits 1754.
+  weight: 2
+  kind: krieg
+  summary: Ein Krieg zwischen Großbritannien und Preußen auf der einen, Frankreich, Österreich und Russland auf der anderen Seite in Europa, Nordamerika und Indien; Frankreich verliert seine nordamerikanischen Kolonien.
+  regions: [europa, nordamerika, suedasien]
+  themes: [krieg-militaer, imperien]
+  polities: [koenigreich-grossbritannien, koenigreich-frankreich, dreizehn-kolonien]
+- id: stamp-act
+  title: Stempelsteuergesetz
+  aliases: [Stamp Act]
+  date: "1765-03-22"
+  weight: 3
+  kind: gesetz
+  summary: Das britische Parlament erhebt eine Steuer auf Druckerzeugnisse und Urkunden in den Kolonien; nach Protesten unter der Parole „keine Besteuerung ohne Vertretung“ wird sie 1766 zurückgenommen.
+  regions: [nordamerika, britische-inseln]
+  themes: [wirtschaft-handel, revolutionen]
+  polities: [koenigreich-grossbritannien, dreizehn-kolonien]
+- id: massaker-von-boston
+  title: Massaker von Boston
+  aliases: [Boston Massacre]
+  date: "1770-03-05"
+  weight: 3
+  kind: ereignis
+  summary: Britische Soldaten schießen in eine aufgebrachte Menge und töten fünf Menschen; der Vorfall wird zu einem Symbol des Widerstands.
+  regions: [nordamerika]
+  themes: [revolutionen, gewalt-genozid]
+  places: [boston]
+  persons: [crispus-attucks, john-adams]
+  polities: [dreizehn-kolonien]
+- id: boston-tea-party
+  title: Boston Tea Party
+  date: "1773-12-16"
+  weight: 2
+  kind: ereignis
+  summary: Als Mohawk verkleidete Kolonisten werfen 342 Kisten Tee der East India Company in das Hafenbecken von Boston; London antwortet mit Strafgesetzen.
+  regions: [nordamerika]
+  themes: [revolutionen, wirtschaft-handel]
+  places: [boston]
+  persons: [samuel-adams]
+  polities: [dreizehn-kolonien, ostindien-kompanie]
+- id: erster-kontinentalkongress
+  title: Erster Kontinentalkongress
+  date: "1774-09-05"
+  weight: 3
+  kind: ereignis
+  summary: Delegierte aus zwölf Kolonien beraten in Philadelphia über gemeinsamen Widerstand und beschließen einen Boykott britischer Waren.
+  regions: [nordamerika]
+  themes: [politik, revolutionen]
+  places: [philadelphia]
+  persons: [john-adams, samuel-adams, george-washington]
+  polities: [dreizehn-kolonien]
+- id: lexington-und-concord
+  title: Gefechte von Lexington und Concord
+  date: "1775-04-19"
+  weight: 2
+  kind: schlacht
+  summary: Britische Truppen sollen Waffenlager der Milizen ausheben; nach Schüssen in Lexington und Concord wird ihr Rückmarsch nach Boston zum verlustreichen Spießrutenlauf – der Krieg hat begonnen.
+  regions: [nordamerika]
+  themes: [krieg-militaer]
+  places: [lexington, boston]
+  polities: [dreizehn-kolonien, koenigreich-grossbritannien]
+- id: unabhaengigkeitskrieg
+  title: Amerikanischer Unabhängigkeitskrieg
+  aliases: [Revolutionary War, War of Independence]
+  start: "1775"
+  end: "1783"
+  weight: 1
+  kind: krieg
+  summary: Krieg der dreizehn Kolonien gegen Großbritannien, ab 1778 mit französischer, später auch spanischer und niederländischer Unterstützung; er endet mit der Anerkennung der Unabhängigkeit.
+  regions: [nordamerika, atlantik]
+  themes: [krieg-militaer, revolutionen]
+  places: [lexington, saratoga, yorktown, new-york]
+  persons: [george-washington, cornwallis, lafayette, joseph-brant]
+  polities: [vereinigte-staaten, koenigreich-grossbritannien, koenigreich-frankreich, irokesenbund]
+- id: dunmore-proklamation
+  title: Proklamation Lord Dunmores
+  date: "1775-11-07"
+  weight: 3
+  kind: ereignis
+  summary: Der britische Gouverneur von Virginia verspricht Sklaven und Dienstverpflichteten von Rebellen die Freiheit, wenn sie für den König kämpfen; Tausende fliehen im Lauf des Krieges zu den Briten.
+  regions: [nordamerika]
+  themes: [sklaverei-unfreiheit, krieg-militaer]
+  persons: [lord-dunmore]
+  polities: [koenigreich-grossbritannien, dreizehn-kolonien]
+- id: common-sense-1776
+  title: Thomas Paines „Common Sense“
+  date: "1776-01-10"
+  weight: 3
+  kind: ereignis
+  summary: Eine anonyme Flugschrift greift die Monarchie an und fordert die Unabhängigkeit; sie wird zum meistgelesenen politischen Text der Revolution.
+  regions: [nordamerika]
+  themes: [schrift-medien, revolutionen]
+  places: [philadelphia]
+  persons: [thomas-paine]
+- id: unabhaengigkeitserklaerung
+  title: Unabhängigkeitserklärung der Vereinigten Staaten
+  date: "1776-07-04"
+  dateNote: Den Beschluss zur Unabhängigkeit fasste der Kongress bereits am 2. Juli 1776; am 4. Juli verabschiedete er den Text der Erklärung.
+  weight: 1
+  kind: gruendung
+  summary: Der Kontinentalkongress erklärt die dreizehn Kolonien für unabhängig und begründet dies mit natürlichen Rechten aller Menschen und dem Recht, eine Regierung abzusetzen, die sie verletzt.
+  regions: [nordamerika]
+  themes: [revolutionen, verfassung-recht]
+  places: [philadelphia]
+  persons: [thomas-jefferson, john-adams, benjamin-franklin]
+  polities: [dreizehn-kolonien, vereinigte-staaten]
+- id: schlacht-von-saratoga
+  title: Schlacht von Saratoga
+  date: "1777-10-17"
+  dateNote: Datum der Kapitulation Burgoynes nach Gefechten im September und Oktober 1777.
+  weight: 2
+  kind: schlacht
+  summary: Eine britische Armee aus Kanada muss sich am Hudson ergeben; der Sieg überzeugt Frankreich, offen auf die Seite der Amerikaner zu treten.
+  regions: [nordamerika]
+  themes: [krieg-militaer]
+  places: [saratoga]
+  polities: [vereinigte-staaten, koenigreich-grossbritannien]
+- id: buendnis-mit-frankreich-1778
+  title: Bündnis mit Frankreich
+  date: "1778-02-06"
+  weight: 3
+  kind: vertrag
+  summary: Frankreich erkennt die Vereinigten Staaten an und schließt ein Militärbündnis; französische Flotten, Truppen und Kredite werden kriegsentscheidend.
+  regions: [nordamerika, frankreich]
+  themes: [politik, krieg-militaer]
+  places: [paris]
+  persons: [benjamin-franklin]
+  polities: [vereinigte-staaten, koenigreich-frankreich]
+- id: kapitulation-von-yorktown
+  title: Kapitulation von Yorktown
+  date: "1781-10-19"
+  weight: 2
+  kind: schlacht
+  summary: Von amerikanischen und französischen Truppen eingeschlossen und von einer französischen Flotte vom Meer abgeschnitten, ergibt sich die britische Armee unter Cornwallis.
+  regions: [nordamerika]
+  themes: [krieg-militaer]
+  places: [yorktown]
+  persons: [george-washington, cornwallis, lafayette]
+  polities: [vereinigte-staaten, koenigreich-grossbritannien, koenigreich-frankreich]
+- id: frieden-von-paris-1783
+  title: Frieden von Paris
+  date: "1783-09-03"
+  weight: 2
+  kind: vertrag
+  summary: Großbritannien erkennt die Unabhängigkeit der Vereinigten Staaten an und tritt das Gebiet bis zum Mississippi ab – über dessen indigene Bewohner ohne deren Beteiligung entschieden wird.
+  regions: [nordamerika, europa]
+  themes: [politik]
+  places: [paris]
+  persons: [benjamin-franklin, john-adams]
+  polities: [vereinigte-staaten, koenigreich-grossbritannien]
+- id: shays-rebellion
+  title: Shays’ Rebellion
+  start: "1786-08"
+  end: "1787-02"
+  weight: 3
+  kind: ereignis
+  summary: Verschuldete Farmer in Massachusetts erheben sich gegen Steuern und Zwangsvollstreckungen; der Aufstand bestärkt die Befürworter einer stärkeren Bundesregierung.
+  regions: [nordamerika]
+  themes: [gesellschaft, wirtschaft-handel]
+  polities: [vereinigte-staaten]
+- id: verfassungskonvent
+  title: Verfassungskonvent von Philadelphia
+  start: "1787-05-25"
+  end: "1787-09-17"
+  weight: 2
+  kind: gesetz
+  summary: Delegierte aus zwölf Staaten entwerfen hinter verschlossenen Türen eine neue Bundesverfassung mit Präsident, Kongress aus zwei Kammern und oberstem Gericht.
+  regions: [nordamerika]
+  themes: [verfassung-recht]
+  places: [philadelphia]
+  persons: [george-washington, james-madison, alexander-hamilton, benjamin-franklin]
+  polities: [vereinigte-staaten]
+- id: bill-of-rights
+  title: Bill of Rights
+  date: "1791-12-15"
+  weight: 3
+  kind: gesetz
+  summary: Die ersten zehn Zusatzartikel zur Verfassung treten in Kraft und garantieren unter anderem Religions-, Rede- und Pressefreiheit sowie Rechte im Strafverfahren.
+  regions: [nordamerika]
+  themes: [verfassung-recht]
+  persons: [james-madison]
+  polities: [vereinigte-staaten]

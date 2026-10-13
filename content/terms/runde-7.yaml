@@ -1,0 +1,92 @@
+# Begriffe: Hellenismus
+- id: hellenismus
+  name: Hellenismus
+  aliases: [Hellenistische Zeit]
+  definition: Von Johann Gustav Droysen im 19. Jahrhundert geprägter Epochenbegriff für die Zeit vom Alexanderzug bis zur Eingliederung des ptolemäischen Ägypten ins Römische Reich (334/323–30 v. Chr.), in der sich griechische Sprache und Kultur von Ägypten bis Zentralasien verbreiteten und mit einheimischen Traditionen verbanden.
+  themes: [kultur-kunst, imperien, geschichtsschreibung]
+- id: diadochen
+  name: Diadochen
+  aliases: [Nachfolger, Diadochenreiche]
+  definition: „Nachfolger“ – die Feldherren Alexanders des Großen, die nach seinem Tod 323 v. Chr. um sein Reich kämpften und eigene Königreiche gründeten; ihre Nachkommen heißen Epigonen.
+  themes: [imperien, krieg-militaer]
+- id: koine
+  name: Koine
+  aliases: [Koine-Griechisch]
+  definition: Die „gemeinsame“ griechische Sprache der hellenistischen und römischen Zeit, die auf dem attischen Dialekt beruhte und im östlichen Mittelmeer Verkehrssprache war; in ihr sind die Septuaginta und das Neue Testament verfasst.
+  themes: [schrift-medien, kultur-kunst]
+- id: proskynese
+  name: Proskynese
+  definition: Die Ehrenbezeugung vor dem persischen Großkönig durch Verbeugung oder Niederwerfen; Alexanders Versuch, sie 327 v. Chr. auch von Makedonen und Griechen zu verlangen, stieß auf Widerstand, weil Griechen sie nur Göttern erwiesen.
+  themes: [politik, religion]
+# Begriffe: Kreuzzüge
+- id: kreuzzug
+  name: Kreuzzug
+  aliases: [Kreuzfahrt, Crusade]
+  definition: Vom Papst ausgerufener und mit geistlichen Privilegien wie dem Ablass der Bußstrafen verbundener Kriegszug; zunächst für die Eroberung Jerusalems, später auch gegen Muslime auf der Iberischen Halbinsel, Heiden im Baltikum, Häretiker und politische Gegner des Papsttums. Das Wort „Kreuzzug“ selbst kam erst im Spätmittelalter auf.
+  themes: [religion, krieg-militaer]
+- id: kreuzfahrerstaaten
+  name: Kreuzfahrerstaaten
+  aliases: [Lateinischer Osten, Outremer]
+  definition: Die nach dem Ersten Kreuzzug gegründeten Herrschaften der Lateiner in Syrien und Palästina – die Grafschaft Edessa, das Fürstentum Antiochia, die Grafschaft Tripolis und das Königreich Jerusalem.
+  themes: [imperien, religion]
+- id: ritterorden
+  name: Geistliche Ritterorden
+  aliases: [Templer, Johanniter, Deutscher Orden, Ritterorden]
+  definition: Gemeinschaften, deren Mitglieder Mönchsgelübde ablegten und zugleich als Krieger kämpften, gegründet im 12. Jahrhundert im Heiligen Land; sie verteidigten Burgen und wurden zu großen Grundbesitzern in Europa.
+  themes: [religion, krieg-militaer]
+- id: dschihad
+  name: Dschihad
+  aliases: [Jihad]
+  definition: Arabisch „Anstrengung“ auf dem Weg Gottes; im islamischen Recht auch der Kampf zur Verteidigung oder Ausbreitung des Islam. Gegen die Kreuzfahrer wurde der Dschihad erst ab den 1130er- und 1140er-Jahren unter Zengi und Nur ad-Din zu einem zentralen politischen Programm.
+  themes: [religion, krieg-militaer]
+- id: katharer
+  name: Katharer
+  aliases: [Albigenser]
+  definition: Religiöse Bewegung des 12. und 13. Jahrhunderts, vor allem in Südfrankreich und Norditalien, die von der Kirche als Häresie verfolgt wurde; viele ihrer Lehren sind nur aus den Schriften ihrer Gegner bekannt, und wie geschlossen sie als „Kirche“ organisiert war, ist umstritten.
+  themes: [religion]
+# Begriffe: Schwarzer Tod
+- id: pest
+  name: Pest
+  aliases: [Yersinia pestis, Beulenpest, Lungenpest]
+  definition: Infektionskrankheit, die das Bakterium Yersinia pestis auslöst; sie wird meist durch Flöhe von Nagetieren auf Menschen übertragen (Beulenpest), in der Lungenform auch direkt von Mensch zu Mensch. Genetische Untersuchungen haben den Erreger als Ursache des Schwarzen Todes bestätigt.
+  themes: [umwelt-klima, wissenschaft-technik]
+- id: geissler
+  name: Geißler
+  aliases: [Flagellanten, Geißelbrüder]
+  definition: Bußbewegung, deren Mitglieder in Prozessionen von Ort zu Ort zogen und sich öffentlich mit Geißeln schlugen, um Gottes Strafe abzuwenden; 1349 vom Papst verboten.
+  themes: [religion]
+- id: quarantaene
+  name: Quarantäne
+  definition: Zeitweilige Absonderung von Menschen oder Waren aus Seuchengebieten; der Name geht auf die vierzig (italienisch „quaranta“) Tage zurück, die Venedig und andere Städte im 15. Jahrhundert vorschrieben, nachdem Ragusa 1377 eine dreißigtägige Frist eingeführt hatte.
+  themes: [wissenschaft-technik, gesellschaft]
+- id: brunnenvergiftungsvorwurf
+  name: Brunnenvergiftungsvorwurf
+  aliases: [Brunnenvergiftung]
+  definition: Die während des Schwarzen Todes verbreitete antijüdische Verleumdung, Juden hätten die Pest durch vergiftete Brunnen ausgelöst; durch Folter erpresste „Geständnisse“ dienten als Begründung für Pogrome.
+  themes: [gewalt-genozid, religion]
+# Begriffe: Amerikanische Revolution
+- id: aufklaerung
+  name: Aufklärung
+  aliases: [Enlightenment, Lumières]
+  definition: Geistige Bewegung des 17. und 18. Jahrhunderts in Europa und Amerika, die Vernunft, Kritik an überlieferten Autoritäten, natürliche Rechte und religiöse Toleranz betonte; Immanuel Kant beschrieb sie 1784 als „Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit“.
+  themes: [kultur-kunst, politik]
+- id: loyalisten
+  name: Loyalisten
+  aliases: [Tories, Königstreue]
+  definition: Kolonisten, die im Unabhängigkeitskrieg der britischen Krone treu blieben; nach dem Krieg verließen etwa 60.000 von ihnen mit Tausenden Sklaven das Land, viele nach Kanada.
+  themes: [politik, migration]
+- id: gewaltenteilung
+  name: Gewaltenteilung
+  aliases: [Checks and Balances]
+  definition: Die Aufteilung der Staatsgewalt auf voneinander unabhängige gesetzgebende, ausführende und richterliche Organe, die sich gegenseitig kontrollieren; einflussreich formuliert von Montesquieu 1748 und in der US-Verfassung von 1787 umgesetzt.
+  themes: [verfassung-recht]
+- id: foederalismus
+  name: Föderalismus
+  aliases: [Bundesstaat, Federalists]
+  definition: Ordnungsprinzip, bei dem die Staatsgewalt zwischen einem Gesamtstaat und Gliedstaaten geteilt ist; in den USA hießen die Befürworter der Verfassung von 1787 „Federalists“, ihre Gegner „Anti-Federalists“.
+  themes: [verfassung-recht, politik]
+- id: kontinentalkongress
+  name: Kontinentalkongress
+  aliases: [Continental Congress]
+  definition: Die Versammlung der Delegierten der Kolonien beziehungsweise Staaten von 1774 bis 1789, die den Unabhängigkeitskrieg führte, die Unabhängigkeit erklärte und ab 1781 unter den Konföderationsartikeln regierte.
+  themes: [politik, revolutionen]

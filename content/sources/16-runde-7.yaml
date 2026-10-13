@@ -1,0 +1,310 @@
+# Quellen und Literatur: Alexander und der Hellenismus, Kreuzzüge, Schwarzer Tod, Amerikanische Revolution
+
+# --- Alexander und Hellenismus ---
+- id: bosworth-1988
+  kind: sekundaer
+  authors: ["Bosworth, A. B."]
+  title: Conquest and Empire
+  subtitle: The Reign of Alexander the Great
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1988
+- id: lane-fox-1973
+  kind: sekundaer
+  authors: ["Lane Fox, Robin"]
+  title: Alexander the Great
+  place: London
+  publisher: Allen Lane
+  year: 1973
+- id: wiemer-2005
+  kind: sekundaer
+  authors: ["Wiemer, Hans-Ulrich"]
+  title: Alexander der Große
+  place: München
+  publisher: C. H. Beck
+  year: 2005
+- id: gehrke-1990
+  kind: sekundaer
+  authors: ["Gehrke, Hans-Joachim"]
+  title: Geschichte des Hellenismus
+  series: Oldenbourg Grundriss der Geschichte
+  place: München
+  publisher: Oldenbourg
+  year: 1990
+- id: chaniotis-2018
+  kind: sekundaer
+  authors: ["Chaniotis, Angelos"]
+  title: Age of Conquests
+  subtitle: The Greek World from Alexander to Hadrian
+  place: London
+  publisher: Profile Books
+  year: 2018
+- id: green-1990
+  kind: sekundaer
+  authors: ["Green, Peter"]
+  title: Alexander to Actium
+  subtitle: The Historical Evolution of the Hellenistic Age
+  place: Berkeley
+  publisher: University of California Press
+  year: 1990
+- id: droysen-1833
+  kind: sekundaer
+  authors: ["Droysen, Johann Gustav"]
+  title: Geschichte Alexanders des Großen
+  place: Berlin
+  year: 1833
+  note: Droysen prägte in diesem Werk und seiner folgenden „Geschichte des Hellenismus“ (1836–1843) den Epochenbegriff „Hellenismus“.
+- id: q-arrian
+  kind: primaer
+  authors: ["Arrian"]
+  title: Anabasis Alexandrou (Der Alexanderzug)
+  written: 2. Jahrhundert n. Chr.
+  note: Wichtigste erhaltene Darstellung des Alexanderzugs, gut 400 Jahre nach den Ereignissen geschrieben, aber auf Grundlage der verlorenen Berichte von Zeitgenossen wie Ptolemaios und Aristobulos.
+- id: q-curtius
+  kind: primaer
+  authors: ["Curtius Rufus"]
+  title: Historiae Alexandri Magni
+  written: 1. Jahrhundert n. Chr.
+  note: Lateinische Alexandergeschichte mit kritischerem, oft rhetorisch ausgeschmücktem Bild des Königs.
+
+# --- Kreuzzüge ---
+- id: riley-smith-2014
+  kind: sekundaer
+  authors: ["Riley-Smith, Jonathan"]
+  title: The Crusades
+  subtitle: A History
+  edition: 3. Auflage
+  place: London
+  publisher: Bloomsbury
+  year: 2014
+- id: tyerman-2006
+  kind: sekundaer
+  authors: ["Tyerman, Christopher"]
+  title: God's War
+  subtitle: A New History of the Crusades
+  place: London
+  publisher: Allen Lane
+  year: 2006
+- id: hillenbrand-1999
+  kind: sekundaer
+  authors: ["Hillenbrand, Carole"]
+  title: The Crusades
+  subtitle: Islamic Perspectives
+  place: Edinburgh
+  publisher: Edinburgh University Press
+  year: 1999
+- id: jaspert-2003
+  kind: sekundaer
+  authors: ["Jaspert, Nikolas"]
+  title: Die Kreuzzüge
+  series: Geschichte kompakt
+  place: Darmstadt
+  publisher: Wissenschaftliche Buchgesellschaft
+  year: 2003
+- id: mayer-2005
+  kind: sekundaer
+  authors: ["Mayer, Hans Eberhard"]
+  title: Geschichte der Kreuzzüge
+  edition: 10. Auflage
+  place: Stuttgart
+  publisher: Kohlhammer
+  year: 2005
+- id: phillips-2004
+  kind: sekundaer
+  authors: ["Phillips, Jonathan"]
+  title: The Fourth Crusade and the Sack of Constantinople
+  place: London
+  publisher: Jonathan Cape
+  year: 2004
+- id: maalouf-1983
+  kind: sekundaer
+  authors: ["Maalouf, Amin"]
+  title: Les croisades vues par les Arabes
+  place: Paris
+  publisher: J.-C. Lattès
+  year: 1983
+  note: Erzählende Darstellung auf Grundlage arabischer Chroniken; deutsch „Der Heilige Krieg der Barbaren“.
+- id: chazan-1987
+  kind: sekundaer
+  authors: ["Chazan, Robert"]
+  title: European Jewry and the First Crusade
+  place: Berkeley
+  publisher: University of California Press
+  year: 1987
+- id: q-gesta-francorum
+  kind: primaer
+  title: Gesta Francorum et aliorum Hierosolimitanorum
+  written: um 1100
+  note: Anonymer Bericht eines Teilnehmers des Ersten Kreuzzugs aus dem Heer der normannischen Fürsten Süditaliens.
+- id: q-ibn-al-athir
+  kind: primaer
+  authors: ["Ibn al-Athir"]
+  title: Al-Kamil fi t-tarich (Die vollständige Geschichte)
+  written: abgeschlossen um 1231
+  note: Universalgeschichte eines Gelehrten aus Mossul, die wichtigste arabische Gesamtdarstellung der Kreuzzugszeit.
+- id: q-usama-ibn-munqidh
+  kind: primaer
+  authors: ["Usama ibn Munqidh"]
+  title: Kitab al-I'tibar (Buch der Belehrung durch Beispiele)
+  written: um 1183
+  note: Erinnerungen eines syrischen Adligen und Kriegers mit oft spöttischen, manchmal anerkennenden Beobachtungen über die „Franken“.
+- id: q-anna-komnene
+  kind: primaer
+  authors: ["Anna Komnene"]
+  title: Alexias
+  written: um 1148
+  note: Geschichte der Herrschaft ihres Vaters Kaiser Alexios I. aus der Feder einer byzantinischen Prinzessin; schildert die Kreuzfahrer aus byzantinischer Sicht.
+
+# --- Schwarzer Tod ---
+- id: benedictow-2004
+  kind: sekundaer
+  authors: ["Benedictow, Ole J."]
+  title: The Black Death 1346–1353
+  subtitle: The Complete History
+  place: Woodbridge
+  publisher: Boydell Press
+  year: 2004
+- id: bergdolt-1994
+  kind: sekundaer
+  authors: ["Bergdolt, Klaus"]
+  title: Der Schwarze Tod in Europa
+  subtitle: Die Große Pest und das Ende des Mittelalters
+  place: München
+  publisher: C. H. Beck
+  year: 1994
+- id: graus-1987
+  kind: sekundaer
+  authors: ["Graus, František"]
+  title: Pest – Geißler – Judenmorde
+  subtitle: Das 14. Jahrhundert als Krisenzeit
+  place: Göttingen
+  publisher: Vandenhoeck & Ruprecht
+  year: 1987
+- id: horrox-1994
+  kind: edition
+  editors: ["Horrox, Rosemary"]
+  title: The Black Death
+  series: Manchester Medieval Sources
+  place: Manchester
+  publisher: Manchester University Press
+  year: 1994
+  note: Sammlung übersetzter zeitgenössischer Quellen aus ganz Europa.
+- id: dols-1977
+  kind: sekundaer
+  authors: ["Dols, Michael W."]
+  title: The Black Death in the Middle East
+  place: Princeton
+  publisher: Princeton University Press
+  year: 1977
+- id: campbell-2016
+  kind: sekundaer
+  authors: ["Campbell, Bruce M. S."]
+  title: The Great Transition
+  subtitle: Climate, Disease and Society in the Late-Medieval World
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2016
+- id: bos-2011
+  kind: sekundaer
+  authors: ["Bos, Kirsten I.", "u. a."]
+  title: A draft genome of Yersinia pestis from victims of the Black Death
+  container: Nature
+  volume: "478"
+  year: 2011
+  pages: 506–510
+- id: q-boccaccio
+  kind: primaer
+  authors: ["Boccaccio, Giovanni"]
+  title: Decameron
+  written: um 1349–1353
+  note: Novellensammlung, deren Rahmenerzählung mit einer berühmten Beschreibung der Pest in Florenz 1348 beginnt.
+- id: q-de-mussi
+  kind: primaer
+  authors: ["Gabriele de' Mussi"]
+  title: Historia de morbo
+  written: um 1348
+  note: Bericht eines Notars aus Piacenza über den Ursprung der Pest, der erzählt, das Heer der Goldenen Horde habe vor Caffa Pestleichen in die Stadt geschleudert; der Autor war selbst nicht vor Ort.
+- id: q-ibn-al-wardi
+  kind: primaer
+  authors: ["Ibn al-Wardi"]
+  title: Risala an-naba' 'an al-waba' (Bericht über die Seuche)
+  written: "1348"
+  note: Schrift eines syrischen Gelehrten über die Ausbreitung der Pest von Zentralasien bis Syrien; der Autor starb 1349 selbst an der Seuche.
+
+# --- Amerikanische Revolution ---
+- id: wood-1992
+  kind: sekundaer
+  authors: ["Wood, Gordon S."]
+  title: The Radicalism of the American Revolution
+  place: New York
+  publisher: Alfred A. Knopf
+  year: 1992
+- id: bailyn-1967
+  kind: sekundaer
+  authors: ["Bailyn, Bernard"]
+  title: The Ideological Origins of the American Revolution
+  place: Cambridge, Mass.
+  publisher: Belknap Press of Harvard University Press
+  year: 1967
+- id: middlekauff-2005
+  kind: sekundaer
+  authors: ["Middlekauff, Robert"]
+  title: The Glorious Cause
+  subtitle: The American Revolution, 1763–1789
+  edition: Überarbeitete Auflage
+  place: Oxford / New York
+  publisher: Oxford University Press
+  year: 2005
+- id: taylor-2016
+  kind: sekundaer
+  authors: ["Taylor, Alan"]
+  title: American Revolutions
+  subtitle: A Continental History, 1750–1804
+  place: New York
+  publisher: W. W. Norton
+  year: 2016
+- id: nash-2005
+  kind: sekundaer
+  authors: ["Nash, Gary B."]
+  title: The Unknown American Revolution
+  subtitle: The Unruly Birth of Democracy and the Struggle to Create America
+  place: New York
+  publisher: Viking
+  year: 2005
+- id: maier-1997
+  kind: sekundaer
+  authors: ["Maier, Pauline"]
+  title: American Scripture
+  subtitle: Making the Declaration of Independence
+  place: New York
+  publisher: Alfred A. Knopf
+  year: 1997
+- id: dippel-1985
+  kind: sekundaer
+  authors: ["Dippel, Horst"]
+  title: Die amerikanische Revolution 1763–1787
+  place: Frankfurt am Main
+  publisher: Suhrkamp
+  year: 1985
+- id: q-common-sense
+  kind: primaer
+  authors: ["Paine, Thomas"]
+  title: Common Sense
+  written: Philadelphia, Januar 1776
+  note: Flugschrift, die die Unabhängigkeit von Großbritannien und die Abschaffung der Monarchie forderte; innerhalb weniger Monate in Zehntausenden Exemplaren verbreitet.
+- id: q-unabhaengigkeitserklaerung
+  kind: primaer
+  title: Unabhängigkeitserklärung der Vereinigten Staaten
+  written: 4. Juli 1776
+  note: Vom Kontinentalkongress verabschiedete Erklärung, im Entwurf von Thomas Jefferson; begründet die Unabhängigkeit mit natürlichen Rechten auf „Leben, Freiheit und das Streben nach Glück“.
+- id: q-us-verfassung
+  kind: primaer
+  title: Verfassung der Vereinigten Staaten
+  written: 17. September 1787
+  note: Vom Verfassungskonvent in Philadelphia beschlossene Bundesverfassung, 1791 durch die ersten zehn Zusatzartikel (Bill of Rights) ergänzt.
+- id: q-abigail-adams
+  kind: primaer
+  authors: ["Adams, Abigail"]
+  title: Brief an John Adams („Remember the Ladies“)
+  written: 31. März 1776
+  note: Brief, in dem Abigail Adams ihren Mann im Kontinentalkongress bat, bei neuen Gesetzen „an die Frauen zu denken“.

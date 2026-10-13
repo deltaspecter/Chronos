@@ -260,3 +260,33 @@
   title: Gedenkstätte Nyamata
   caption: Gedenkstein mit Namen von Ermordeten in der Gedenkstätte Nyamata südlich von Kigali. In der Kirche von Nyamata wurden im April 1994 Tausende Menschen getötet, die dort Zuflucht gesucht hatten.
   alt: Schwarzer Gedenkstein, auf den in weißer Schrift zwei Spalten mit Namen gemalt sind, auf einem gefliesten Boden
+- id: alexandermosaik
+  commons: "File:Alexandermosaic.jpg"
+  title: Alexandermosaik
+  caption: Das Alexandermosaik aus der Casa del Fauno in Pompeji, um 100 v. Chr., wohl nach einem griechischen Gemälde des frühen Hellenismus. Links stürmt Alexander heran, rechts wendet Dareios III. auf seinem Wagen zur Flucht; ob Issos oder Gaugamela gemeint ist, ist umstritten. Heute im Archäologischen Nationalmuseum Neapel.
+  alt: Großes, teilweise zerstörtes Mosaik einer Reiterschlacht mit hoch aufragenden Lanzen; links ein Reiter ohne Helm, rechts ein Herrscher auf einem Streitwagen, der die Hand ausstreckt
+- id: stein-von-rosette
+  commons: "File:Rosetta Stone.JPG"
+  title: Stein von Rosette
+  caption: Der Stein von Rosette mit einem Priesterdekret von 196 v. Chr. in Hieroglyphen (oben), demotischer Schrift (Mitte) und Griechisch (unten). Französische Soldaten fanden ihn 1799; seit 1802 befindet er sich im British Museum in London.
+  alt: Dunkle Steinplatte mit abgebrochener oberer Ecke, dicht beschrieben mit drei Textblöcken in unterschiedlichen Schriften
+- id: krak-des-chevaliers
+  commons: "File:Krak des Chevaliers 01.jpg"
+  title: Krak des Chevaliers
+  caption: Der Krak des Chevaliers im Westen Syriens, im 12. und 13. Jahrhundert vom Johanniterorden zur mächtigen Festung ausgebaut und 1271 von Sultan Baibars erobert.
+  alt: Große Burg aus hellem Stein mit runden Türmen und doppeltem Mauerring auf einem grünen Hügel, im Hintergrund Berge
+- id: pest-toggenburg-bibel
+  commons: "File:Egyptian plague of boils in the Toggenburg Bible.jpg"
+  title: Kranke mit Beulen (Toggenburger Bibel, 1411)
+  caption: Miniatur aus der Toggenburger Bibel von 1411. Sie zeigt eigentlich die biblische Plage der Geschwüre aus dem Buch Exodus – im Hintergrund wirft Mose Ruß in die Luft –, wird aber oft als Darstellung der Pest verwendet. Für den Maler, der nach dem Schwarzen Tod lebte, lag der Vergleich mit Pestbeulen wohl nahe.
+  alt: Mittelalterliche Buchmalerei zweier Kranker in Betten, deren Körper mit Beulen übersät sind; im Hintergrund ein bärtiger Mann mit erhobenen Armen vor blauem Himmel
+- id: judenverbrennung-tournai
+  commons: "File:Doutielt1.jpg"
+  title: Verbrennung von Juden (Chronik des Gilles li Muisis)
+  caption: Miniatur des Pierart dou Tielt in der Chronik des Abtes Gilles li Muisis aus Tournai, um 1352. Der lateinische Text darunter berichtet von der Gefangennahme von Juden im Jahr 1349 unter dem Vorwurf, Gift in Brunnen gestreut zu haben.
+  alt: Mittelalterliche Buchmalerei vor goldenem Hintergrund – Menschen werden in einem Feuer verbrannt, Männer tragen Holz herbei, links eine Gruppe von Zuschauern und Bewaffneten vor einem Stadttor
+- id: unabhaengigkeitserklaerung-trumbull
+  commons: "File:Declaration of Independence (1819), by John Trumbull.jpg"
+  title: Die Unabhängigkeitserklärung (John Trumbull)
+  caption: John Trumbulls Gemälde von 1818/19 im Kapitol in Washington zeigt den Entwurfsausschuss um Thomas Jefferson, der dem Kongress im Juni 1776 seinen Entwurf übergibt – eine idealisierte Szene, nicht die Unterzeichnung am 4. Juli.
+  alt: Gemälde eines Saals mit vielen Männern in Kniebundhosen und Perücken; in der Mitte stehen fünf Männer vor einem Tisch, an dem ein Mann sitzt, an der Wand hängen erbeutete Fahnen

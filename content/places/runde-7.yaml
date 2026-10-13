@@ -1,0 +1,293 @@
+# Orte: Alexander und der Hellenismus
+- id: pella
+  name: Pella
+  coords: [22.5230, 40.7560]
+  categories: [hauptstadt, fundstaette]
+  modernName: Pella (Griechenland)
+  summary: Residenzstadt der makedonischen Könige und Geburtsort Alexanders des Großen; die Ausgrabungen zeigen Paläste und Häuser mit Kieselmosaiken.
+  regions: [griechenland]
+  themes: [archaeologie, imperien]
+- id: granikos
+  name: Granikos
+  aliases: [Granikos-Fluss, Biga Çayı]
+  coords: [27.2400, 40.2300]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Biga Çayı bei Biga (Türkei)
+  summary: Fluss im Nordwesten Kleinasiens, an dem Alexander 334 v. Chr. seine erste Schlacht gegen ein persisches Heer gewann.
+  regions: [anatolien]
+  themes: [krieg-militaer]
+- id: issos
+  name: Issos
+  coords: [36.2000, 36.8400]
+  location: umstritten
+  categories: [schlachtfeld]
+  modernName: Ebene am Golf von İskenderun (Türkei)
+  summary: Küstenebene in Kilikien, in der Alexander 333 v. Chr. das Heer des Großkönigs Dareios III. besiegte; die genaue Lage des Schlachtfelds ist umstritten.
+  regions: [anatolien]
+  themes: [krieg-militaer]
+- id: tyros
+  name: Tyros
+  aliases: [Tyre, Sur]
+  coords: [35.1960, 33.2705]
+  categories: [stadt, hafen]
+  modernName: Sur (Libanon)
+  summary: Phönizische Inselstadt, die Alexander 332 v. Chr. nach siebenmonatiger Belagerung mit Hilfe eines aufgeschütteten Damms eroberte.
+  regions: [levante]
+  themes: [krieg-militaer, handelsnetze]
+- id: siwa
+  name: Siwa
+  aliases: [Ammonion, Oase Siwa]
+  coords: [25.5195, 29.2032]
+  categories: [heiligtum]
+  modernName: Oase Siwa (Ägypten)
+  summary: Oase in der Libyschen Wüste mit dem Orakel des Gottes Amun, das Alexander 331 v. Chr. aufsuchte.
+  regions: [aegypten]
+  themes: [religion]
+- id: hydaspes
+  name: Hydaspes
+  aliases: [Jhelum]
+  coords: [73.7300, 32.9300]
+  location: umstritten
+  categories: [schlachtfeld]
+  modernName: Fluss Jhelum (Pakistan)
+  summary: Fluss im Punjab, an dem Alexander 326 v. Chr. den König Poros besiegte; der genaue Ort der Schlacht ist nicht gesichert.
+  regions: [suedasien]
+  themes: [krieg-militaer]
+- id: ai-khanoum
+  name: Ai Khanoum
+  coords: [69.4083, 37.1667]
+  categories: [stadt, fundstaette]
+  modernName: Provinz Tachar (Afghanistan)
+  summary: Griechische Stadt am Oxus im heutigen Nordafghanistan mit Theater, Gymnasion und griechischen Inschriften; wichtigster archäologischer Beleg für das griechisch-baktrische Reich.
+  regions: [zentralasien]
+  themes: [archaeologie, kultur-kunst]
+- id: pergamon
+  name: Pergamon
+  coords: [27.1842, 39.1322]
+  categories: [hauptstadt, fundstaette]
+  modernName: Bergama (Türkei)
+  summary: Hauptstadt des hellenistischen Königreichs der Attaliden mit großer Bibliothek und dem Zeusaltar, dessen Fries heute in Berlin steht.
+  regions: [anatolien]
+  themes: [kultur-kunst, archaeologie]
+- id: rosette
+  name: Rosette
+  aliases: [Raschid, Rashid]
+  coords: [30.4164, 31.4044]
+  categories: [stadt]
+  modernName: Raschid (Ägypten)
+  summary: Hafenstadt im Nildelta, bei der französische Soldaten 1799 den Stein von Rosette fanden.
+  regions: [aegypten]
+  themes: [schrift-medien]
+# Orte: Kreuzzüge
+- id: clermont
+  name: Clermont
+  coords: [3.0870, 45.7772]
+  categories: [stadt]
+  modernName: Clermont-Ferrand (Frankreich)
+  summary: Bischofsstadt in der Auvergne, in der Papst Urban II. im November 1095 zum Kriegszug nach Jerusalem aufrief.
+  regions: [frankreich]
+  themes: [religion]
+- id: jerusalem
+  name: Jerusalem
+  aliases: [Al-Quds, Hierosolyma, Yerushalayim]
+  coords: [35.2354, 31.7780]
+  categories: [stadt, heiligtum, hauptstadt]
+  modernName: Jerusalem
+  summary: Stadt, die Juden, Christen und Muslimen heilig ist; 1099 von Kreuzfahrern erobert, Hauptstadt des Königreichs Jerusalem, 1187 von Saladin zurückgewonnen.
+  regions: [levante]
+  themes: [religion]
+- id: antiochia
+  name: Antiochia
+  aliases: [Antiochia am Orontes, Antakya]
+  coords: [36.1606, 36.2025]
+  categories: [stadt]
+  modernName: Antakya (Türkei)
+  summary: Von Seleukos I. gegründete Großstadt am Orontes; 1098 nach langer Belagerung von den Kreuzfahrern erobert und Hauptstadt eines Kreuzfahrerfürstentums bis 1268.
+  regions: [anatolien, levante]
+  themes: [imperien]
+- id: edessa
+  name: Edessa
+  aliases: [Urfa, Şanlıurfa, Ruha]
+  coords: [38.7969, 37.1591]
+  categories: [stadt]
+  modernName: Şanlıurfa (Türkei)
+  summary: Stadt in Obermesopotamien, 1098 Mittelpunkt des ersten Kreuzfahrerstaats; ihr Fall an Zengi 1144 löste den Zweiten Kreuzzug aus.
+  regions: [mesopotamien, anatolien]
+  themes: [krieg-militaer]
+- id: akkon
+  name: Akkon
+  aliases: [Acre, Akko, Saint-Jean d'Acre]
+  coords: [35.0700, 32.9206]
+  categories: [stadt, hafen]
+  modernName: Akko (Israel)
+  summary: Hafenstadt an der levantinischen Küste, nach 1191 Hauptort des Königreichs Jerusalem; ihre Eroberung durch die Mamluken 1291 beendete die Kreuzfahrerherrschaft im Heiligen Land.
+  regions: [levante]
+  themes: [handelsnetze, krieg-militaer]
+- id: hattin
+  name: Hörner von Hattin
+  aliases: [Hattin, Hittin]
+  coords: [35.4447, 32.8028]
+  categories: [schlachtfeld]
+  modernName: bei Tiberias (Israel)
+  summary: Erloschener Vulkankegel westlich des Sees Genezareth, bei dem Saladin 1187 das Heer des Königreichs Jerusalem vernichtete.
+  regions: [levante]
+  themes: [krieg-militaer]
+- id: nikaia
+  name: Nikaia
+  aliases: [Nicaea, İznik]
+  coords: [29.7211, 40.4292]
+  categories: [stadt]
+  modernName: İznik (Türkei)
+  summary: Stadt in Bithynien, Ort des ersten Konzils 325; 1097 von Kreuzfahrern und Byzantinern den Seldschuken abgenommen, nach 1204 Sitz des byzantinischen Exilkaisertums.
+  regions: [anatolien]
+  themes: [religion]
+- id: mainz
+  name: Mainz
+  aliases: [Magenza, Mogontiacum]
+  coords: [8.2473, 49.9929]
+  categories: [stadt]
+  modernName: Mainz (Deutschland)
+  summary: Erzbischofsstadt am Rhein mit einer der bedeutendsten jüdischen Gemeinden Aschkenas, die im Mai 1096 von Kreuzfahrern ermordet wurde.
+  regions: [deutschland]
+  themes: [religion]
+- id: manzikert
+  name: Manzikert
+  aliases: [Malazgirt]
+  coords: [42.5420, 39.1450]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Malazgirt (Türkei)
+  summary: Festung in Ostanatolien, bei der die Seldschuken 1071 ein byzantinisches Heer schlugen und Kaiser Romanos IV. gefangen nahmen.
+  regions: [anatolien]
+  themes: [krieg-militaer]
+- id: krak-des-chevaliers
+  name: Krak des Chevaliers
+  aliases: [Qal'at al-Hisn, Hisn al-Akrad]
+  coords: [36.2947, 34.7570]
+  categories: [fundstaette]
+  modernName: bei Homs (Syrien)
+  summary: Burg des Johanniterordens im Westen Syriens, eine der am besten erhaltenen Kreuzfahrerburgen; 1271 von Sultan Baibars erobert.
+  regions: [levante]
+  themes: [krieg-militaer, archaeologie]
+- id: beziers
+  name: Béziers
+  coords: [3.2158, 43.3442]
+  categories: [stadt]
+  modernName: Béziers (Frankreich)
+  summary: Stadt im Languedoc, deren Einwohner im Juli 1209 zu Beginn des Albigenserkreuzzugs massakriert wurden.
+  regions: [frankreich]
+  themes: [gewalt-genozid, religion]
+# Orte: Schwarzer Tod
+- id: messina
+  name: Messina
+  coords: [15.5540, 38.1938]
+  categories: [stadt, hafen]
+  modernName: Messina (Italien)
+  summary: Hafenstadt auf Sizilien, in der im Herbst 1347 mit genuesischen Galeeren die Pest erstmals Westeuropa erreichte.
+  regions: [italien]
+  themes: [handelsnetze]
+- id: marseille
+  name: Marseille
+  aliases: [Massalia]
+  coords: [5.3698, 43.2965]
+  categories: [stadt, hafen]
+  modernName: Marseille (Frankreich)
+  summary: Griechisch gegründete Hafenstadt, über die die Pest im November 1347 nach Frankreich gelangte.
+  regions: [frankreich, mittelmeer]
+  themes: [handelsnetze]
+- id: avignon
+  name: Avignon
+  coords: [4.8055, 43.9493]
+  categories: [stadt]
+  modernName: Avignon (Frankreich)
+  summary: Residenz der Päpste von 1309 bis 1377; 1348 wütete hier die Pest, die der päpstliche Arzt Guy de Chauliac beschrieb.
+  regions: [frankreich]
+  themes: [religion]
+- id: strassburg
+  name: Straßburg
+  aliases: [Strasbourg, Argentoratum]
+  coords: [7.7521, 48.5734]
+  categories: [stadt]
+  modernName: Strasbourg (Frankreich)
+  summary: Reichsstadt am Oberrhein, deren jüdische Bewohner am 14. Februar 1349 ermordet wurden, noch bevor die Pest die Stadt erreichte.
+  regions: [frankreich, mitteleuropa]
+  themes: [gewalt-genozid]
+- id: erfurt
+  name: Erfurt
+  coords: [11.0328, 50.9787]
+  categories: [stadt]
+  modernName: Erfurt (Deutschland)
+  summary: Handelsstadt in Thüringen; nach dem Pogrom von 1349 wurde hier ein jüdischer Schatz versteckt, der 1998 wiedergefunden wurde.
+  regions: [deutschland]
+  themes: [archaeologie, religion]
+- id: venedig
+  name: Venedig
+  aliases: [Venezia, Venice]
+  coords: [12.3155, 45.4408]
+  categories: [stadt, hafen, hauptstadt]
+  modernName: Venedig (Italien)
+  summary: Lagunenstadt und Hauptstadt der Seerepublik Venedig, die den Handel zwischen Europa und dem östlichen Mittelmeer beherrschte.
+  regions: [italien, mittelmeer]
+  themes: [handelsnetze, wirtschaft-handel]
+- id: ragusa
+  name: Ragusa
+  aliases: [Dubrovnik]
+  coords: [18.0944, 42.6507]
+  categories: [stadt, hafen]
+  modernName: Dubrovnik (Kroatien)
+  summary: Handelsrepublik an der Adria, die 1377 eine dreißigtägige Absonderung für Ankommende aus Pestgebieten verordnete – eine frühe Form der Quarantäne.
+  regions: [suedosteuropa, mittelmeer]
+  themes: [handelsnetze, wissenschaft-technik]
+# Orte: Amerikanische Revolution
+- id: boston
+  name: Boston
+  coords: [-71.0589, 42.3601]
+  categories: [stadt, hafen]
+  modernName: Boston (USA)
+  summary: Hafenstadt in Massachusetts und Zentrum des Widerstands gegen die britische Steuerpolitik in den 1760er- und 1770er-Jahren.
+  regions: [nordamerika]
+  themes: [revolutionen]
+- id: philadelphia
+  name: Philadelphia
+  coords: [-75.1503, 39.9489]
+  categories: [stadt]
+  modernName: Philadelphia (USA)
+  summary: Größte Stadt der Kolonien und Tagungsort des Kontinentalkongresses, der hier 1776 die Unabhängigkeit erklärte; 1787 tagte hier der Verfassungskonvent.
+  regions: [nordamerika]
+  themes: [revolutionen, verfassung-recht]
+- id: lexington
+  name: Lexington und Concord
+  aliases: [Lexington, Concord]
+  coords: [-71.2245, 42.4473]
+  categories: [schlachtfeld]
+  modernName: Massachusetts (USA)
+  summary: Orte westlich von Boston, an denen im April 1775 die ersten Gefechte zwischen britischen Truppen und Milizen der Kolonisten stattfanden.
+  regions: [nordamerika]
+  themes: [krieg-militaer]
+- id: saratoga
+  name: Saratoga
+  coords: [-73.6400, 43.0000]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Stillwater, New York (USA)
+  summary: Schlachtfeld am Hudson, an dem sich im Oktober 1777 eine britische Armee unter General Burgoyne ergeben musste.
+  regions: [nordamerika]
+  themes: [krieg-militaer]
+- id: yorktown
+  name: Yorktown
+  coords: [-76.5097, 37.2388]
+  categories: [schlachtfeld, stadt]
+  modernName: Virginia (USA)
+  summary: Hafenort in Virginia, an dem sich die britische Armee unter Cornwallis im Oktober 1781 amerikanischen und französischen Truppen ergab.
+  regions: [nordamerika]
+  themes: [krieg-militaer]
+- id: new-york
+  name: New York
+  aliases: [Nieuw Amsterdam, New York City]
+  coords: [-74.0060, 40.7128]
+  categories: [stadt, hafen]
+  modernName: New York City (USA)
+  summary: Hafenstadt, die von 1776 bis 1783 von britischen Truppen besetzt war und 1789/90 erste Hauptstadt der Vereinigten Staaten unter der neuen Verfassung wurde.
+  regions: [nordamerika]
+  themes: [wirtschaft-handel]
