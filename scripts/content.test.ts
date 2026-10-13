@@ -82,9 +82,12 @@ describe('Suche', () => {
     expect(titles('Charlemagne')).toContain('karl-der-grosse')
     expect(titles('Tahuantinsuyo')).toContain('inka-reich')
     expect(titles('Harun al-Rashid')).toContain('harun-ar-raschid')
+    expect(titles('Genghis Khan')).toContain('dschingis-khan')
+    expect(titles('Montezuma')).toContain('moctezuma-ii')
   })
   it('findet Volltext in neuen Artikeln', () => {
     expect(titles('Spinning Jenny').slice(0, 3)).toContain('spinning-jenny')
     expect(titles('Algebra')).toContain('abbasiden-bagdad')
+    expect(titles('Middle Passage')).toContain('transatlantischer-sklavenhandel')
   })
 })

@@ -1,0 +1,292 @@
+# --- Mongolenreich ---
+- id: kurultai-1206
+  title: Temüdschin wird zum Dschingis Khan ausgerufen
+  date: "1206"
+  weight: 1
+  kind: herrschaft
+  summary: Eine Versammlung der Steppenfürsten am Onon erhebt Temüdschin zum Herrscher aller Mongolen unter dem Titel Dschingis Khan.
+  regions: [zentralasien]
+  themes: [politik, imperien]
+  persons: [dschingis-khan]
+  polities: [mongolenreich]
+- id: eroberung-zhongdus
+  title: Eroberung von Zhongdu
+  date: "1215"
+  weight: 3
+  kind: krieg
+  summary: Mongolische Truppen erobern die Hauptstadt der Jin-Dynastie, das heutige Peking.
+  regions: [china]
+  themes: [krieg-militaer]
+  places: [dadu]
+  persons: [dschingis-khan]
+  polities: [mongolenreich, jin-dynastie-jurchen]
+- id: zwischenfall-von-otrar
+  title: Zwischenfall von Otrar
+  date: "1218"
+  weight: 3
+  kind: ereignis
+  summary: Der Statthalter von Otrar lässt eine mongolische Handelskarawane töten; Dschingis Khan antwortet mit einem Feldzug gegen das Choresm-Reich.
+  regions: [zentralasien]
+  themes: [handelsnetze, krieg-militaer]
+  places: [otrar]
+  persons: [dschingis-khan]
+  polities: [choresm-reich, mongolenreich]
+- id: feldzug-gegen-choresm
+  title: Feldzug gegen das Choresm-Reich
+  start: "1219"
+  end: "1221"
+  weight: 2
+  kind: krieg
+  summary: Die Mongolen erobern Buchara, Samarkand, Merw und weitere Städte Zentralasiens und Chorasans; viele werden zerstört, ihre Bevölkerung getötet oder verschleppt.
+  regions: [zentralasien, iran]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [buchara, samarkand, merw, otrar]
+  persons: [dschingis-khan]
+  polities: [mongolenreich, choresm-reich]
+- id: tod-dschingis-khans
+  title: Tod Dschingis Khans
+  date: "1227"
+  weight: 3
+  kind: ereignis
+  summary: Dschingis Khan stirbt während eines Feldzugs gegen das Xixia-Reich; sein Grab ist bis heute unbekannt.
+  regions: [china, zentralasien]
+  themes: [politik]
+  persons: [dschingis-khan]
+  polities: [mongolenreich]
+- id: westfeldzug-1236
+  title: Westfeldzug der Mongolen
+  start: "1236"
+  end: "1242"
+  weight: 2
+  kind: krieg
+  summary: Mongolische Heere unter Batu unterwerfen die Wolgabulgaren und die Fürstentümer der Rus, erobern 1240 Kiew und stoßen 1241 bis nach Polen und Ungarn vor.
+  regions: [osteuropa, russland, mitteleuropa]
+  themes: [krieg-militaer]
+  places: [kiew, liegnitz, mohi]
+  persons: [batu, oegedei]
+  polities: [mongolenreich]
+- id: schlacht-bei-liegnitz
+  title: Schlacht bei Liegnitz
+  date: "1241-04-09"
+  weight: 3
+  kind: schlacht
+  summary: Ein mongolisches Heer besiegt in Schlesien ein Aufgebot unter Herzog Heinrich II. von Schlesien, der in der Schlacht fällt.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+  places: [liegnitz]
+  polities: [mongolenreich]
+- id: schlacht-bei-mohi
+  title: Schlacht bei Muhi
+  date: "1241-04-11"
+  weight: 3
+  kind: schlacht
+  summary: Die Mongolen vernichten am Fluss Sajó das Heer König Bélas IV. von Ungarn; das Land wird ein Jahr lang verwüstet.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+  places: [mohi]
+  persons: [batu]
+  polities: [mongolenreich]
+- id: rueckzug-aus-ungarn
+  title: Rückzug der Mongolen aus Ungarn
+  date: "1242"
+  weight: 3
+  kind: ereignis
+  certainty: wahrscheinlich
+  summary: Die mongolischen Heere ziehen sich aus Mitteleuropa zurück; als Gründe gelten der Tod Ögedeis, Nachfolgefragen und ungünstige Witterung und Weideverhältnisse.
+  regions: [mitteleuropa, osteuropa]
+  themes: [krieg-militaer, umwelt-klima]
+  persons: [batu, oegedei]
+  polities: [mongolenreich]
+- id: rubruks-reise
+  title: Wilhelm von Rubruk reist nach Karakorum
+  start: "1253"
+  end: "1255"
+  weight: 3
+  kind: ereignis
+  summary: Ein flämischer Franziskaner reist an den Hof des Großkhans Möngke und schreibt einen der genauesten europäischen Berichte über das Mongolenreich.
+  regions: [zentralasien]
+  themes: [religion]
+  places: [karakorum]
+  persons: [wilhelm-von-rubruk, moengke]
+- id: schlacht-von-ain-dschalut
+  title: Schlacht von Ain Dschalut
+  date: "1260-09-03"
+  weight: 2
+  kind: schlacht
+  summary: Die Mamluken Ägyptens besiegen in Palästina ein mongolisches Heer; der Vormarsch der Mongolen nach Westen kommt zum Stehen.
+  regions: [levante]
+  themes: [krieg-militaer]
+  places: [ain-dschalut]
+  polities: [mamlukensultanat, ilchanat]
+- id: gruendung-der-yuan
+  title: Khubilai ruft die Yuan-Dynastie aus
+  date: "1271"
+  weight: 2
+  kind: gruendung
+  summary: Khubilai Khan nimmt nach chinesischem Vorbild einen Dynastienamen an; Dadu (Peking) wird Hauptstadt.
+  regions: [china]
+  themes: [imperien, politik]
+  places: [dadu]
+  persons: [khubilai-khan]
+  polities: [yuan-dynastie]
+- id: ende-der-song
+  title: Ende der Song-Dynastie
+  date: "1279"
+  weight: 2
+  kind: krieg
+  summary: Mit der Seeschlacht von Yamen endet der letzte Widerstand der Südlichen Song; China ist erstmals ganz unter mongolischer Herrschaft.
+  regions: [china]
+  themes: [krieg-militaer, imperien]
+  persons: [khubilai-khan]
+  polities: [song-dynastie, yuan-dynastie]
+- id: invasionen-japans
+  title: Mongolische Invasionen Japans
+  start: "1274"
+  end: "1281"
+  weight: 3
+  kind: krieg
+  summary: Zwei Flotten der Yuan scheitern vor der Küste Kyūshūs am Widerstand der Samurai und an Stürmen, die in Japan später als „Götterwind“ (kamikaze) gedeutet wurden.
+  regions: [japan]
+  themes: [krieg-militaer]
+  persons: [khubilai-khan]
+  polities: [yuan-dynastie]
+- id: belagerung-von-caffa
+  title: Belagerung von Caffa
+  date: "1346"
+  weight: 3
+  kind: krieg
+  summary: Während ein Heer der Goldenen Horde die genuesische Kolonie auf der Krim belagert, bricht die Pest aus; von hier gelangt sie wohl über Schiffe ins Mittelmeer.
+  regions: [osteuropa]
+  themes: [krieg-militaer, umwelt-klima]
+  places: [caffa]
+  polities: [goldene-horde]
+- id: schwarzer-tod
+  title: Der Schwarze Tod
+  aliases: [Pest 1347, Große Pest]
+  start: "1346"
+  end: "1353"
+  weight: 1
+  kind: katastrophe
+  summary: Eine Pestpandemie tötet in Westasien, Nordafrika und Europa einen großen Teil der Bevölkerung, in Europa nach Schätzungen etwa ein Drittel bis die Hälfte.
+  regions: [europa, westasien, nordafrika]
+  themes: [umwelt-klima, gesellschaft]
+  places: [caffa]
+- id: ende-der-yuan
+  title: Ende der Yuan-Herrschaft in China
+  date: "1368"
+  weight: 2
+  kind: herrschaft
+  summary: Nach Aufständen erobert der Rebellenführer Zhu Yuanzhang Dadu und begründet die Ming-Dynastie; der letzte Yuan-Kaiser flieht in die Mongolei.
+  regions: [china]
+  themes: [politik, revolutionen]
+  places: [dadu]
+  polities: [yuan-dynastie]
+
+# --- Tang ---
+- id: wiedervereinigung-589
+  title: Wiedervereinigung Chinas durch die Sui
+  date: "589"
+  weight: 2
+  kind: krieg
+  summary: Die Sui erobern den Süden und beenden fast drei Jahrhunderte der Teilung Chinas.
+  regions: [china]
+  themes: [imperien]
+  polities: [sui-dynastie]
+- id: gruendung-der-tang
+  title: Gründung der Tang-Dynastie
+  date: "618"
+  weight: 1
+  kind: gruendung
+  summary: Der General Li Yuan ruft sich in Chang'an zum Kaiser aus und begründet die Tang-Dynastie.
+  regions: [china]
+  themes: [imperien, politik]
+  places: [changan]
+  polities: [sui-dynastie, tang-dynastie]
+- id: zwischenfall-am-xuanwu-tor
+  title: Zwischenfall am Xuanwu-Tor
+  date: "626"
+  weight: 3
+  kind: ereignis
+  summary: Prinz Li Shimin tötet zwei seiner Brüder in einem Hinterhalt am Palasttor und zwingt seinen Vater zur Abdankung; er regiert als Kaiser Taizong.
+  regions: [china]
+  themes: [politik]
+  places: [changan]
+  persons: [tang-taizong]
+  polities: [tang-dynastie]
+- id: xuanzangs-reise
+  title: Xuanzangs Reise nach Indien
+  start: "629"
+  end: "645"
+  weight: 3
+  kind: ereignis
+  summary: Der Mönch Xuanzang reist über Zentralasien nach Indien, studiert in Nalanda und bringt Hunderte buddhistischer Schriften nach Chang'an.
+  regions: [china, zentralasien, suedasien]
+  themes: [religion, schrift-medien]
+  places: [changan]
+  persons: [xuanzang]
+- id: zhou-dynastie-wu-zetian
+  title: Wu Zetian regiert als Kaiser
+  start: "690"
+  end: "705"
+  weight: 2
+  kind: herrschaft
+  summary: Wu Zetian ruft eine eigene Zhou-Dynastie aus und regiert als einzige Frau der chinesischen Geschichte aus eigenem Recht als Kaiser.
+  regions: [china]
+  themes: [politik]
+  places: [luoyang]
+  persons: [wu-zetian]
+  polities: [tang-dynastie]
+- id: an-lushan-aufstand
+  title: Aufstand des An Lushan
+  start: "755"
+  end: "763"
+  weight: 1
+  kind: krieg
+  summary: Der General An Lushan erhebt sich gegen die Tang und erobert Luoyang und Chang'an; der Krieg verwüstet Nordchina und schwächt die Zentralmacht dauerhaft.
+  regions: [china]
+  themes: [krieg-militaer]
+  places: [changan, luoyang]
+  persons: [an-lushan, tang-xuanzong, yang-guifei]
+  polities: [tang-dynastie]
+- id: buddhistenverfolgung-845
+  title: Buddhistenverfolgung unter Kaiser Wuzong
+  start: "842"
+  end: "845"
+  weight: 3
+  kind: ereignis
+  summary: Der Kaiser lässt Tausende Klöster schließen, ihr Land und Metall einziehen und Hunderttausende Mönche und Nonnen in den Laienstand zurückversetzen.
+  regions: [china]
+  themes: [religion]
+  places: [changan]
+  persons: [ennin]
+  polities: [tang-dynastie]
+- id: diamant-sutra-868
+  title: Druck der Diamant-Sutra
+  date: "868"
+  weight: 3
+  kind: entwicklung
+  summary: Ein im Holzblockdruck hergestelltes buddhistisches Sutra trägt dieses Datum – das älteste vollständig erhaltene, datierte gedruckte Buch der Welt.
+  regions: [china]
+  themes: [schrift-medien, religion]
+  places: [dunhuang]
+- id: huang-chao-aufstand
+  title: Aufstand des Huang Chao
+  start: "875"
+  end: "884"
+  weight: 2
+  kind: krieg
+  summary: Ein Aufstand zieht durch große Teile Chinas, plündert 879 Guangzhou und erobert 881 Chang'an; die Tang erholen sich davon nicht mehr.
+  regions: [china]
+  themes: [krieg-militaer, revolutionen]
+  places: [guangzhou, changan]
+  persons: [huang-chao]
+  polities: [tang-dynastie]
+- id: ende-der-tang
+  title: Ende der Tang-Dynastie
+  date: "907"
+  weight: 2
+  kind: herrschaft
+  summary: Der Militärgouverneur Zhu Wen setzt den letzten Tang-Kaiser ab; es folgt die Zeit der Fünf Dynastien und Zehn Reiche.
+  regions: [china]
+  themes: [politik]
+  polities: [tang-dynastie]

@@ -1,0 +1,113 @@
+- id: mongolenreich
+  name: Mongolenreich
+  aliases: [Mongolisches Weltreich, Yeke Mongghol Ulus]
+  start: "1206"
+  end: "1368"
+  spanNote: Als einheitliches Reich unter einem Großkhan bis etwa 1260; danach in vier Teilreiche (Yuan, Ilchanat, Goldene Horde, Tschagatai-Khanat) gegliedert. Das Ende der Yuan in China 1368 ist ein konventioneller Schlusspunkt.
+  capital: karakorum
+  summary: Das von Dschingis Khan begründete Reich, das auf seinem Höhepunkt von Korea bis Osteuropa reichte – das größte zusammenhängende Landreich der Geschichte.
+  regions: [zentralasien, china, iran, osteuropa, mesopotamien]
+  themes: [imperien]
+  successors: [yuan-dynastie, goldene-horde, ilchanat]
+  weight: 1
+- id: goldene-horde
+  name: Goldene Horde
+  aliases: [Ulus Dschötschi, Khanat Kiptschak]
+  start: "~1242"
+  end: "1502"
+  summary: Mongolisches Teilreich in den Steppen nördlich des Schwarzen und Kaspischen Meeres, dem die russischen Fürstentümer über zwei Jahrhunderte tributpflichtig waren.
+  regions: [osteuropa, russland, zentralasien]
+  themes: [imperien]
+  predecessors: [mongolenreich]
+  weight: 2
+- id: ilchanat
+  name: Ilchanat
+  aliases: [Ilkhanat, Ilkhane]
+  start: "1256"
+  end: "1335"
+  summary: Von Hülegü begründetes mongolisches Teilreich in Iran und im Irak; seine Herrscher traten 1295 zum Islam über.
+  regions: [iran, mesopotamien, anatolien]
+  themes: [imperien]
+  predecessors: [mongolenreich]
+  weight: 2
+- id: yuan-dynastie
+  name: Yuan-Dynastie
+  aliases: [Yuan]
+  start: "1271"
+  end: "1368"
+  capital: dadu
+  summary: Von Khubilai Khan ausgerufene mongolische Dynastie, die als erste Fremddynastie ganz China beherrschte, bis sie 1368 von der Ming-Dynastie vertrieben wurde.
+  regions: [china]
+  themes: [imperien]
+  predecessors: [mongolenreich, song-dynastie]
+  weight: 1
+- id: song-dynastie
+  name: Song-Dynastie
+  aliases: [Song, Nördliche Song, Südliche Song]
+  start: "960"
+  end: "1279"
+  spanNote: Bis 1127 Nördliche Song mit Hauptstadt Kaifeng, danach Südliche Song mit Hauptstadt Hangzhou.
+  summary: Chinesische Dynastie mit wirtschaftlicher und technischer Blüte (Papiergeld, Buchdruck, Beamtenprüfungen), 1279 von den Mongolen erobert.
+  regions: [china]
+  themes: [imperien, wirtschaft-handel]
+  successors: [yuan-dynastie]
+  weight: 1
+- id: jin-dynastie-jurchen
+  name: Jin-Dynastie (Jurchen)
+  aliases: [Jin, Jurchen-Jin]
+  start: "1115"
+  end: "1234"
+  summary: Von den Jurchen gegründete Dynastie in Nordchina, ab 1211 von den Mongolen angegriffen und 1234 vernichtet.
+  regions: [china]
+  themes: [imperien]
+  weight: 3
+- id: choresm-reich
+  name: Choresm-Reich
+  aliases: [Choresm-Schahs, Chwarazm]
+  start: "~1077"
+  end: "1231"
+  summary: Reich der Choresm-Schahs in Zentralasien und Iran, das 1219–1221 von Dschingis Khan zerschlagen wurde.
+  regions: [zentralasien, iran]
+  themes: [imperien]
+  weight: 3
+- id: mamlukensultanat
+  name: Mamlukensultanat
+  aliases: [Mamluken]
+  start: "1250"
+  end: "1517"
+  summary: Herrschaft von Militärsklaven-Eliten in Ägypten und Syrien mit Hauptstadt Kairo, die 1260 die Mongolen bei Ain Dschalut besiegten; 1517 von den Osmanen erobert.
+  regions: [aegypten, levante]
+  themes: [imperien, krieg-militaer]
+  weight: 2
+- id: sui-dynastie
+  name: Sui-Dynastie
+  aliases: [Sui]
+  start: "581"
+  end: "618"
+  summary: Kurzlebige Dynastie, die China 589 nach fast drei Jahrhunderten der Teilung wiedervereinte und den Kaiserkanal bauen ließ.
+  regions: [china]
+  themes: [imperien]
+  successors: [tang-dynastie]
+  weight: 2
+- id: tang-dynastie
+  name: Tang-Dynastie
+  aliases: [Tang]
+  start: "618"
+  end: "907"
+  spanNote: 690–705 unterbrochen durch die Zhou-Dynastie der Kaiserin Wu Zetian.
+  capital: changan
+  summary: Chinesische Dynastie mit der Weltstadt Chang'an als Hauptstadt, deren Einfluss bis Zentralasien, Korea und Japan reichte; gilt als Blütezeit der Dichtung.
+  regions: [china, zentralasien]
+  themes: [imperien, kultur-kunst]
+  predecessors: [sui-dynastie]
+  successors: [song-dynastie]
+  weight: 1
+- id: tibetisches-reich
+  name: Tibetisches Reich
+  aliases: [Tubo, Bod]
+  start: "~618"
+  end: "842"
+  summary: Großreich auf dem tibetischen Hochplateau, Rivale der Tang in Zentralasien; 763 besetzten tibetische Truppen kurzzeitig Chang'an.
+  regions: [ostasien, zentralasien]
+  themes: [imperien]
+  weight: 3

@@ -226,3 +226,191 @@
   themes: [archaeologie]
   places: [machu-picchu]
   persons: [hiram-bingham]
+
+# --- Mexica ---
+- id: gruendung-tenochtitlans
+  title: Gründung Tenochtitlans
+  date: "~1325?"
+  certainty: unsicher
+  dateNote: Traditionelles Datum nach Bilderhandschriften der Kolonialzeit; archäologisch nicht genau bestimmbar.
+  weight: 2
+  kind: gruendung
+  summary: Nach der Überlieferung lassen sich die Mexica auf einer Insel im See von Texcoco nieder, wo sie einen Adler auf einem Feigenkaktus sehen – das Zeichen, das heute im Wappen Mexikos steht.
+  regions: [mesoamerika]
+  themes: [religion]
+  places: [tenochtitlan]
+- id: dreibund-1428
+  title: Gründung des Dreibundes
+  date: "1428"
+  weight: 2
+  kind: vertrag
+  summary: Tenochtitlan, Texcoco und Tlacopan besiegen gemeinsam die Vormacht Azcapotzalco und schließen ein Bündnis, das zum Reich der Mexica wird.
+  regions: [mesoamerika]
+  themes: [imperien]
+  places: [tenochtitlan, texcoco]
+  persons: [nezahualcoyotl]
+  polities: [dreibund-mexica]
+- id: landung-von-cortes
+  title: Landung des Cortés an der Golfküste
+  date: "1519-04"
+  weight: 3
+  kind: ereignis
+  summary: Hernán Cortés landet mit rund 500 Mann an der Golfküste und gründet Villa Rica de la Vera Cruz.
+  regions: [mesoamerika]
+  themes: [krieg-militaer, imperien]
+  places: [veracruz]
+  persons: [hernan-cortes, malintzin]
+- id: massaker-von-cholula
+  title: Massaker von Cholula
+  date: "1519-10"
+  weight: 3
+  kind: ereignis
+  summary: Spanier und tlaxkaltekische Verbündete töten in Cholula Tausende Menschen, angeblich um einem Hinterhalt zuvorzukommen.
+  regions: [mesoamerika]
+  themes: [gewalt-genozid]
+  places: [cholula]
+  persons: [hernan-cortes]
+- id: einzug-in-tenochtitlan
+  title: Begegnung von Moctezuma und Cortés
+  date: "1519-11-08"
+  weight: 2
+  kind: ereignis
+  summary: Moctezuma empfängt die Spanier auf dem Damm vor Tenochtitlan; wenige Tage später setzen sie ihn in seiner eigenen Stadt gefangen.
+  regions: [mesoamerika]
+  themes: [politik]
+  places: [tenochtitlan]
+  persons: [moctezuma-ii, hernan-cortes, malintzin]
+  polities: [dreibund-mexica]
+- id: toxcatl-massaker
+  title: Massaker beim Toxcatl-Fest
+  date: "1520-05"
+  weight: 3
+  kind: ereignis
+  summary: Während Cortés abwesend ist, lässt Pedro de Alvarado beim Fest Toxcatl im Tempelbezirk Hunderte unbewaffnete Adlige und Tänzer töten; die Stadt erhebt sich.
+  regions: [mesoamerika]
+  themes: [gewalt-genozid]
+  places: [tenochtitlan]
+  persons: [pedro-de-alvarado]
+- id: noche-triste
+  title: Noche Triste
+  date: "1520-06-30"
+  weight: 3
+  kind: schlacht
+  summary: Die Spanier und ihre Verbündeten fliehen nachts unter schweren Verlusten aus Tenochtitlan; viele ertrinken mit erbeutetem Gold in den Kanälen.
+  regions: [mesoamerika]
+  themes: [krieg-militaer]
+  places: [tenochtitlan]
+  persons: [hernan-cortes, cuitlahuac]
+- id: pocken-in-mexiko
+  title: Pockenepidemie in Zentralmexiko
+  date: "1520"
+  weight: 2
+  kind: katastrophe
+  summary: Eine Pockenepidemie, eingeschleppt mit einem spanischen Expeditionsheer, tötet einen großen Teil der Bevölkerung Zentralmexikos, darunter den Herrscher Cuitláhuac.
+  regions: [mesoamerika]
+  themes: [umwelt-klima, gesellschaft]
+  places: [tenochtitlan]
+  persons: [cuitlahuac]
+- id: fall-tenochtitlans
+  title: Fall von Tenochtitlan
+  date: "1521-08-13"
+  weight: 1
+  kind: krieg
+  summary: Nach rund drei Monaten Belagerung durch Spanier und Zehntausende indigene Verbündete wird der letzte Herrscher Cuauhtémoc in Tlatelolco gefangen genommen; die Stadt ist zerstört.
+  regions: [mesoamerika]
+  themes: [krieg-militaer, imperien]
+  places: [tenochtitlan, tlatelolco, tlaxcala]
+  persons: [cuauhtemoc, hernan-cortes]
+  polities: [dreibund-mexica]
+- id: cocoliztli-1545
+  title: Cocoliztli-Epidemie
+  start: "1545"
+  end: "1548"
+  weight: 3
+  kind: katastrophe
+  summary: Eine Seuche, von den Nahua „cocoliztli“ genannt, tötet einen großen Teil der indigenen Bevölkerung Mexikos; alte DNA weist auf einen Salmonellen-Erreger hin.
+  regions: [mesoamerika]
+  themes: [umwelt-klima]
+  polities: [neuspanien]
+
+# --- Atlantischer Sklavenhandel ---
+- id: gruendung-elmina
+  title: Bau der Festung São Jorge da Mina
+  date: "1482"
+  weight: 3
+  kind: gruendung
+  summary: Portugal errichtet an der Goldküste eine Festung für den Gold- und bald auch den Sklavenhandel – den ersten großen europäischen Stützpunkt in Westafrika.
+  regions: [westafrika]
+  themes: [handelsnetze, sklaverei-unfreiheit]
+  places: [elmina]
+- id: briefe-afonsos
+  title: Briefe Afonsos I. von Kongo an Portugal
+  date: "1526"
+  weight: 3
+  kind: ereignis
+  summary: Der König des Kongo beklagt, dass portugiesische Händler seine Untertanen rauben und versklaven, und verlangt die Kontrolle über den Handel.
+  regions: [zentralafrika]
+  themes: [sklaverei-unfreiheit, politik]
+  places: [mbanza-kongo]
+  persons: [afonso-i-kongo]
+  polities: [koenigreich-kongo]
+- id: code-noir-1685
+  title: Code noir
+  date: "1685"
+  weight: 3
+  kind: gesetz
+  summary: Ein königliches Edikt regelt die Sklaverei in den französischen Kolonien und definiert Versklavte als bewegliches Eigentum.
+  regions: [karibik, frankreich]
+  themes: [sklaverei-unfreiheit, verfassung-recht]
+- id: zong-massaker
+  title: Massaker auf der „Zong“
+  date: "1781-11"
+  weight: 3
+  kind: ereignis
+  summary: Die Besatzung des Liverpooler Sklavenschiffs „Zong“ wirft über 130 kranke und durstige Afrikanerinnen und Afrikaner lebend über Bord, um die Versicherung zu kassieren; der Prozess von 1783 befeuert die Abolitionsbewegung.
+  regions: [atlantik]
+  themes: [sklaverei-unfreiheit, gewalt-genozid]
+  places: [liverpool]
+- id: brooks-plan
+  title: Veröffentlichung des Plans der „Brooks“
+  date: "1788"
+  weight: 3
+  kind: ereignis
+  summary: Abolitionisten verbreiten eine Zeichnung, die zeigt, wie Hunderte Menschen im Unterdeck eines Sklavenschiffs zusammengepfercht wurden; sie wird zum Sinnbild der Mittelpassage.
+  regions: [britische-inseln]
+  themes: [sklaverei-unfreiheit, schrift-medien]
+  persons: [thomas-clarkson]
+- id: equiano-autobiografie
+  title: Olaudah Equiano veröffentlicht seine Lebensgeschichte
+  date: "1789"
+  weight: 3
+  kind: ereignis
+  summary: Die Autobiografie eines ehemals Versklavten erscheint in London, erlebt zahlreiche Auflagen und Übersetzungen und stärkt die Abolitionsbewegung.
+  regions: [britische-inseln]
+  themes: [sklaverei-unfreiheit, schrift-medien]
+  places: [london]
+  persons: [olaudah-equiano]
+- id: ende-sklavenhandel-brasilien
+  title: Brasilien beendet den Sklavenhandel
+  date: "1850"
+  weight: 3
+  kind: gesetz
+  summary: Unter britischem Druck setzt Brasilien das Verbot der Einfuhr versklavter Menschen durch; der transatlantische Sklavenhandel kommt bis Mitte der 1860er Jahre zum Erliegen.
+  regions: [suedamerika, atlantik]
+  themes: [sklaverei-unfreiheit]
+- id: abschaffung-sklaverei-usa
+  title: Abschaffung der Sklaverei in den USA
+  date: "1865-12"
+  weight: 2
+  kind: gesetz
+  summary: Nach dem Bürgerkrieg verbietet der 13. Verfassungszusatz die Sklaverei in den gesamten Vereinigten Staaten.
+  regions: [nordamerika]
+  themes: [sklaverei-unfreiheit, verfassung-recht]
+- id: lei-aurea
+  title: Lei Áurea – Ende der Sklaverei in Brasilien
+  date: "1888-05-13"
+  weight: 2
+  kind: gesetz
+  summary: Brasilien schafft als letztes Land der Amerikas die Sklaverei ab.
+  regions: [suedamerika]
+  themes: [sklaverei-unfreiheit, verfassung-recht]

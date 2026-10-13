@@ -1,0 +1,186 @@
+# Quellen und Literatur: Reich der Mexica und transatlantischer Sklavenhandel
+
+# --- Mexica ---
+- id: smith-2012
+  kind: sekundaer
+  authors: ["Smith, Michael E."]
+  title: The Aztecs
+  edition: 3. Auflage
+  place: Malden / Oxford
+  publisher: Wiley-Blackwell
+  year: 2012
+- id: townsend-2019
+  kind: sekundaer
+  authors: ["Townsend, Camilla"]
+  title: Fifth Sun
+  subtitle: A New History of the Aztecs
+  place: New York
+  publisher: Oxford University Press
+  year: 2019
+- id: restall-2003
+  kind: sekundaer
+  authors: ["Restall, Matthew"]
+  title: Seven Myths of the Spanish Conquest
+  place: New York
+  publisher: Oxford University Press
+  year: 2003
+- id: restall-2018
+  kind: sekundaer
+  authors: ["Restall, Matthew"]
+  title: When Montezuma Met Cortés
+  subtitle: The True Story of the Meeting that Changed History
+  place: New York
+  publisher: Ecco
+  year: 2018
+- id: prem-1996
+  kind: sekundaer
+  authors: ["Prem, Hanns J."]
+  title: Die Azteken
+  subtitle: Geschichte, Kultur, Religion
+  series: Beck'sche Reihe – C. H. Beck Wissen
+  place: München
+  publisher: C. H. Beck
+  year: 1996
+- id: hassig-2006
+  kind: sekundaer
+  authors: ["Hassig, Ross"]
+  title: Mexico and the Spanish Conquest
+  edition: 2. Auflage
+  place: Norman
+  publisher: University of Oklahoma Press
+  year: 2006
+- id: leon-portilla-1959
+  kind: edition
+  editors: ["León-Portilla, Miguel"]
+  title: Visión de los vencidos
+  subtitle: Relaciones indígenas de la conquista
+  place: Mexiko-Stadt
+  publisher: Universidad Nacional Autónoma de México
+  year: 1959
+  note: Sammlung indigener Berichte über die Eroberung in spanischer Übersetzung aus dem Nahuatl; prägte die Sicht „der Besiegten“.
+- id: vagene-2018
+  kind: sekundaer
+  authors: ["Vågene, Åshild J.", "u. a."]
+  title: Salmonella enterica genomes from victims of a major sixteenth-century epidemic in Mexico
+  container: Nature Ecology & Evolution
+  volume: "2"
+  year: 2018
+  pages: 520–528
+- id: q-cortes
+  kind: primaer
+  authors: ["Cortés, Hernán"]
+  title: Cartas de relación
+  written: 1519–1526
+  note: Fünf Berichtsbriefe an Kaiser Karl V., in denen Cortés sein eigenmächtiges Vorgehen rechtfertigt; der zweite und dritte Brief erschienen schon 1522/23 im Druck.
+- id: q-diaz-del-castillo
+  kind: primaer
+  authors: ["Díaz del Castillo, Bernal"]
+  title: Historia verdadera de la conquista de la Nueva España
+  written: um 1568 abgeschlossen, gedruckt 1632
+  note: Erinnerungen eines Teilnehmers der Eroberung, Jahrzehnte später im Alter niedergeschrieben – lebendig, aber nicht immer zuverlässig.
+- id: q-florentiner-kodex
+  kind: primaer
+  authors: ["Bernardino de Sahagún", "Nahua-Mitarbeiter"]
+  title: Historia general de las cosas de Nueva España (Florentiner Kodex)
+  written: um 1575–1577
+  note: Zweisprachige Enzyklopädie (Nahuatl und Spanisch) mit über 2.000 Bildern, erarbeitet von dem Franziskaner Sahagún mit indigenen Gelehrten und Schreibern; Buch XII schildert die Eroberung aus Sicht von Nahua aus Tlatelolco. Biblioteca Medicea Laurenziana, Florenz.
+- id: q-codex-mendoza
+  kind: primaer
+  title: Codex Mendoza
+  written: um 1541/42
+  note: Bilderhandschrift indigener Maler mit spanischen Erläuterungen, die Geschichte, Tributlisten und Alltagsleben der Mexica darstellt; Bodleian Library, Oxford.
+
+# --- Transatlantischer Sklavenhandel ---
+- id: eltis-richardson-2010
+  kind: sekundaer
+  authors: ["Eltis, David", "Richardson, David"]
+  title: Atlas of the Transatlantic Slave Trade
+  place: New Haven
+  publisher: Yale University Press
+  year: 2010
+- id: klein-2010
+  kind: sekundaer
+  authors: ["Klein, Herbert S."]
+  title: The Atlantic Slave Trade
+  edition: 2. Auflage
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2010
+- id: thornton-1998
+  kind: sekundaer
+  authors: ["Thornton, John"]
+  title: Africa and Africans in the Making of the Atlantic World, 1400–1800
+  edition: 2. Auflage
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1998
+- id: rediker-2007
+  kind: sekundaer
+  authors: ["Rediker, Marcus"]
+  title: The Slave Ship
+  subtitle: A Human History
+  place: New York
+  publisher: Viking
+  year: 2007
+- id: lovejoy-2012
+  kind: sekundaer
+  authors: ["Lovejoy, Paul E."]
+  title: Transformations in Slavery
+  subtitle: A History of Slavery in Africa
+  edition: 3. Auflage
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2012
+- id: zeuske-2013
+  kind: sekundaer
+  authors: ["Zeuske, Michael"]
+  title: Handbuch Geschichte der Sklaverei
+  subtitle: Eine Globalgeschichte von den Anfängen bis zur Gegenwart
+  place: Berlin / Boston
+  publisher: De Gruyter
+  year: 2013
+- id: rodney-1972
+  kind: sekundaer
+  authors: ["Rodney, Walter"]
+  title: How Europe Underdeveloped Africa
+  place: London
+  publisher: Bogle-L'Ouverture Publications
+  year: 1972
+- id: nunn-2008
+  kind: sekundaer
+  authors: ["Nunn, Nathan"]
+  title: The Long-Term Effects of Africa's Slave Trades
+  container: Quarterly Journal of Economics
+  volume: "123"
+  year: 2008
+  pages: 139–176
+- id: q-equiano
+  kind: primaer
+  authors: ["Equiano, Olaudah"]
+  title: The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African
+  written: London 1789
+  note: Autobiografie eines ehemals Versklavten, der sich freikaufte und in London zu einer Stimme der Abolitionsbewegung wurde; eines der einflussreichsten Zeugnisse der Zeit.
+- id: q-brookes
+  kind: primaer
+  title: Description of a Slave Ship (Plan des Sklavenschiffs „Brooks“)
+  written: 1788/89
+  note: Von Abolitionisten in Plymouth und London verbreitete Zeichnung, die zeigt, wie Hunderte Menschen im Unterdeck eines Liverpooler Sklavenschiffs zusammengepfercht wurden; eine der wirkungsvollsten Bildquellen der Abolitionsbewegung.
+- id: q-afonso-kongo
+  kind: primaer
+  authors: ["Afonso I. (Nzinga Mbemba), König von Kongo"]
+  title: Briefe an König João III. von Portugal
+  written: "1526"
+  note: Der christliche König des Kongo beklagt, dass portugiesische Händler Menschen aus seinem Reich, darunter Adlige, rauben und versklaven, und verlangt Kontrolle über den Handel.
+- id: q-code-noir
+  kind: primaer
+  title: Code noir (Ordonnance sur les esclaves des îles de l'Amérique)
+  written: "1685"
+  note: Französisches Edikt, das die Sklaverei in den Kolonien rechtlich regelte und Versklavte als bewegliches Eigentum definierte.
+- id: carretta-2005
+  kind: sekundaer
+  authors: ["Carretta, Vincent"]
+  title: Equiano, the African
+  subtitle: Biography of a Self-Made Man
+  place: Athens, Georgia
+  publisher: University of Georgia Press
+  year: 2005

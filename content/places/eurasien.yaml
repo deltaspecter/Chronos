@@ -1,0 +1,124 @@
+# Orte: Mongolenreich und Tang-China
+- id: karakorum
+  name: Karakorum
+  aliases: [Qaraqorum, Kharkhorin]
+  coords: [102.8300, 47.2000]
+  categories: [stadt, hauptstadt, fundstaette]
+  start: "1235"
+  modernName: Charchorin (Mongolei)
+  summary: Ab 1235 unter Ögedei ausgebaute Hauptstadt des Mongolenreiches im Orchon-Tal, die Wilhelm von Rubruk 1254 besuchte; nach 1260 verlor sie an Bedeutung.
+  regions: [zentralasien]
+  themes: [imperien, archaeologie]
+- id: otrar
+  name: Otrar
+  coords: [68.3000, 42.8500]
+  categories: [stadt, fundstaette]
+  modernName: Süden Kasachstans
+  summary: Grenzstadt des Choresm-Reiches am Syrdarja, deren Statthalter 1218 eine mongolische Handelskarawane töten ließ – der Anlass für Dschingis Khans Feldzug nach Westen.
+  regions: [zentralasien]
+- id: samarkand
+  name: Samarkand
+  aliases: [Maracanda]
+  coords: [66.9750, 39.6540]
+  categories: [stadt]
+  modernName: Samarkand (Usbekistan)
+  summary: Eine der großen Oasenstädte Zentralasiens an der Seidenstraße, 1220 von den Mongolen erobert und später Hauptstadt Timurs.
+  regions: [zentralasien]
+  themes: [handelsnetze]
+- id: buchara
+  name: Buchara
+  aliases: [Bukhara]
+  coords: [64.4200, 39.7750]
+  categories: [stadt]
+  modernName: Buchara (Usbekistan)
+  summary: Oasenstadt und islamisches Gelehrtenzentrum in Transoxanien, 1220 von den Mongolen erobert und geplündert.
+  regions: [zentralasien]
+- id: dadu
+  name: Dadu (Khanbaliq)
+  aliases: [Khanbaliq, Chanbaliq, Peking, Beijing, Zhongdu]
+  coords: [116.4000, 39.9000]
+  categories: [stadt, hauptstadt]
+  modernName: Peking (China)
+  summary: Als Zhongdu Hauptstadt der Jin-Dynastie, 1215 von den Mongolen erobert; ab 1267 unter Khubilai als Dadu („große Hauptstadt“) neu angelegt, Vorläufer des heutigen Peking.
+  regions: [china]
+  themes: [imperien]
+- id: shangdu
+  name: Shangdu
+  aliases: [Xanadu]
+  coords: [116.1800, 42.3600]
+  categories: [stadt, fundstaette]
+  modernName: Innere Mongolei (China)
+  summary: Sommerresidenz Khubilai Khans nördlich von Peking, durch Marco Polo und später durch Coleridges Gedicht „Kubla Khan“ als „Xanadu“ bekannt.
+  regions: [china]
+- id: kiew
+  name: Kiew
+  aliases: [Kyjiw, Kyiv]
+  coords: [30.5234, 50.4501]
+  categories: [stadt, hauptstadt]
+  modernName: Kyjiw (Ukraine)
+  summary: Hauptstadt der Kiewer Rus, im Dezember 1240 von einem mongolischen Heer unter Batu erobert und zerstört.
+  regions: [osteuropa]
+- id: liegnitz
+  name: Liegnitz (Legnica)
+  aliases: [Legnica, Wahlstatt]
+  coords: [16.1600, 51.2100]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Legnica (Polen)
+  summary: Ort in Schlesien, bei dem am 9. April 1241 ein mongolisches Heer ein polnisch-deutsches Aufgebot unter Herzog Heinrich II. besiegte.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+- id: mohi
+  name: Muhi
+  aliases: [Mohi, Sajó]
+  coords: [20.9500, 47.9800]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Nordostungarn
+  summary: Schlachtfeld am Fluss Sajó, wo die Mongolen am 11. April 1241 das Heer König Bélas IV. von Ungarn vernichteten.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+- id: ain-dschalut
+  name: Ain Dschalut
+  aliases: [Ain Jalut, Goliathsquelle]
+  coords: [35.3600, 32.5500]
+  location: umstritten
+  categories: [schlachtfeld]
+  modernName: Jesreel-Ebene (Israel)
+  summary: Ort in Palästina, an dem die ägyptischen Mamluken am 3. September 1260 ein mongolisches Heer besiegten und den mongolischen Vormarsch nach Westen stoppten.
+  regions: [levante]
+  themes: [krieg-militaer]
+- id: caffa
+  name: Caffa
+  aliases: [Kaffa, Feodossija, Theodosia]
+  coords: [35.3800, 45.0300]
+  categories: [stadt, hafen]
+  modernName: Feodossija (Krim)
+  summary: Genuesische Handelskolonie auf der Krim; 1346 von einem Heer der Goldenen Horde belagert, in dem die Pest ausbrach.
+  regions: [osteuropa]
+  themes: [handelsnetze]
+- id: guangzhou
+  name: Guangzhou
+  aliases: [Kanton, Canton, Khanfu]
+  coords: [113.2644, 23.1291]
+  categories: [stadt, hafen]
+  modernName: Guangzhou (China)
+  summary: Wichtigster Seehafen des Tang-Reiches, in dem arabische, persische und südasiatische Kaufleute in eigenen Vierteln lebten.
+  regions: [china, indischer-ozean]
+  themes: [handelsnetze]
+- id: yangzhou
+  name: Yangzhou
+  coords: [119.4210, 32.3940]
+  categories: [stadt, hafen]
+  modernName: Yangzhou (China)
+  summary: Handelsmetropole am Kaiserkanal und am Jangtse, in der späten Tang-Zeit eine der reichsten Städte des Reiches.
+  regions: [china]
+  themes: [handelsnetze]
+- id: nara
+  name: Nara (Heijō-kyō)
+  aliases: [Heijō-kyō, Heijokyo]
+  coords: [135.8050, 34.6850]
+  categories: [stadt, hauptstadt]
+  modernName: Nara (Japan)
+  summary: Japanische Hauptstadt von 710 bis 784, deren schachbrettartiger Grundriss dem Vorbild des Tang-zeitlichen Chang'an folgte.
+  regions: [japan]

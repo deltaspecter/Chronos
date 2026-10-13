@@ -43,3 +43,27 @@
   themes: [imperien]
   predecessors: [inka-reich]
   weight: 2
+- id: dreibund-mexica
+  name: Reich der Mexica (Aztekischer Dreibund)
+  aliases: [Aztekenreich, Azteken, Mexica, Dreibund, Excan Tlatoloyan, Aztekisches Reich]
+  start: "1428"
+  end: "1521"
+  spanNote: 1428 schlossen Tenochtitlan, Texcoco und Tlacopan ein Bündnis, in dem Tenochtitlan bald die führende Rolle übernahm.
+  capital: tenochtitlan
+  summary: Hegemonialreich der Mexica und ihrer Verbündeten im zentralen Mexiko, das von Hunderten unterworfenen Stadtstaaten Tribut erhob; 1521 von Spaniern und indigenen Verbündeten erobert.
+  regions: [mesoamerika]
+  themes: [imperien]
+  successors: [neuspanien]
+  weight: 1
+- id: neuspanien
+  name: Vizekönigreich Neuspanien
+  aliases: [Nueva España, Neuspanien]
+  start: "1535"
+  end: "1821"
+  capital: tenochtitlan
+  spanNote: Hauptstadt war die auf den Ruinen Tenochtitlans errichtete Stadt Mexiko.
+  summary: Spanische Kolonialverwaltung über Mexiko, Mittelamerika, die Karibik und zeitweise die Philippinen.
+  regions: [mesoamerika, nordamerika, karibik]
+  themes: [imperien]
+  predecessors: [dreibund-mexica]
+  weight: 2

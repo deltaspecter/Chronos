@@ -1,0 +1,20 @@
+- id: mittelpassage
+  name: Mittelpassage
+  aliases: [Middle Passage, Überfahrt]
+  definition: Die Überfahrt versklavter Menschen über den Atlantik von Afrika nach Amerika, meist mehrere Wochen bis Monate unter unmenschlichen Bedingungen im Unterdeck der Schiffe.
+  themes: [sklaverei-unfreiheit]
+- id: dreieckshandel
+  name: Dreieckshandel
+  aliases: [Atlantischer Dreieckshandel]
+  definition: Vereinfachendes Modell des Atlantikhandels – Waren aus Europa nach Afrika, versklavte Menschen nach Amerika, Plantagenprodukte nach Europa. Tatsächlich verliefen viele Routen anders, etwa direkt zwischen Brasilien und Angola.
+  themes: [handelsnetze, sklaverei-unfreiheit]
+- id: abolitionismus
+  name: Abolitionismus
+  aliases: [Abolition, Abolitionisten, Abschaffungsbewegung]
+  definition: Bewegung für die Abschaffung zuerst des Sklavenhandels, dann der Sklaverei selbst, getragen von Versklavten und Freigelassenen, religiösen Gruppen wie den Quäkern und bürgerlichen Reformern, vor allem ab den 1780er Jahren.
+  themes: [sklaverei-unfreiheit, politik]
+- id: sklaverei-als-eigentum
+  name: Sachsklaverei
+  aliases: [Chattel Slavery, Eigentumssklaverei]
+  definition: Form der Sklaverei, bei der Menschen rechtlich als bewegliches Eigentum gelten, das gekauft, verkauft und vererbt werden kann – einschließlich ihrer Kinder.
+  themes: [sklaverei-unfreiheit, verfassung-recht]

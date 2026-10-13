@@ -51,3 +51,22 @@
   aliases: [Konquista, Conquista, Eroberung Amerikas]
   definition: Die militärische Eroberung großer Teile der Amerikas durch Spanien und Portugal im 16. Jahrhundert; der Begriff übernimmt die Perspektive der Eroberer und wird in der Forschung zunehmend um die Sicht der Eroberten ergänzt.
   themes: [imperien, krieg-militaer]
+- id: altepetl
+  name: Altepetl
+  definition: „Wasser-Berg“ – der Stadtstaat als Grundeinheit der politischen Ordnung im Nahua-Raum, mit eigenem Herrscher, Hauptgott, Markt und Land.
+  themes: [politik]
+- id: chinampa
+  name: Chinampa
+  aliases: [Chinampas, schwimmende Gärten]
+  definition: Künstlich aufgeschüttete, sehr fruchtbare Beete in den flachen Seen des Hochtals von Mexiko, durch Kanäle getrennt; sie ernährten einen großen Teil der Bevölkerung Tenochtitlans.
+  themes: [landwirtschaft]
+- id: nahuatl
+  name: Nahuatl
+  aliases: [Aztekisch]
+  definition: Sprache der Mexica und vieler anderer Völker Zentralmexikos, Verkehrssprache Mesoamerikas; nach der Eroberung in lateinischer Schrift geschrieben und heute von über eineinhalb Millionen Menschen gesprochen.
+  themes: [schrift-medien]
+- id: huey-tlatoani
+  name: Huey Tlatoani
+  aliases: [Tlatoani, Großer Sprecher]
+  definition: „Großer Sprecher“ – Titel des obersten Herrschers von Tenochtitlan; ein tlatoani war allgemein der Herrscher eines altepetl.
+  themes: [politik]

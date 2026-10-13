@@ -266,5 +266,37 @@
     "license": "CC BY-SA 3.0",
     "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maquina_vapor_Watt_ETSIIM.jpg"
+  },
+  "dschingis-khan-portraet": {
+    "file": "dschingis-khan-portraet.jpg",
+    "width": 945,
+    "height": 1200,
+    "author": "Unbekannter Hofmaler der Yuan-Zeit",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:YuanEmperorAlbumGenghisPortrait.jpg"
+  },
+  "diamant-sutra": {
+    "file": "diamant-sutra.jpg",
+    "width": 1200,
+    "height": 839,
+    "author": "Unbekannter Holzschneider (868)",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jingangjing.jpg"
+  },
+  "codex-mendoza-tenochtitlan": {
+    "file": "codex-mendoza-tenochtitlan.jpg",
+    "width": 736,
+    "height": 1077,
+    "author": "Indigene Maler (um 1541/42)",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Codex_Mendoza_folio_2r.jpg"
+  },
+  "brooks-sklavenschiff": {
+    "file": "brooks-sklavenschiff.jpg",
+    "width": 1015,
+    "height": 1200,
+    "author": "Plymouth Chapter of the Society for Effecting the Abolition of the Slave Trade",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Slaveshipposter.jpg"
   }
 }

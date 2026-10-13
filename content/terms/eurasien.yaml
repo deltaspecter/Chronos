@@ -1,0 +1,40 @@
+- id: khan
+  name: Khan
+  aliases: [Chan, Qan, Großkhan, Khagan, Qaghan]
+  definition: Herrschertitel der Steppenvölker Zentralasiens. Der Großkhan (qa'an) stand an der Spitze des gesamten Mongolenreiches, die Khane der Teilreiche waren ihm formal untergeordnet.
+  themes: [politik]
+- id: kurultai
+  name: Kuriltai
+  aliases: [Kurultai, Quriltai]
+  definition: Versammlung der mongolischen Fürsten und Heerführer, die über die Wahl des Großkhans, Feldzüge und Gesetze entschied.
+  themes: [politik]
+- id: yam
+  name: Yam
+  aliases: [Dscham, Jam, mongolische Reichspost]
+  definition: Netz von Poststationen mit Pferden und Vorräten, das Boten, Gesandte und Kaufleute mit einer Erlaubnistafel (paiza) quer durch das Mongolenreich nutzen konnten.
+  themes: [imperien, handelsnetze]
+- id: pax-mongolica
+  name: Pax Mongolica
+  aliases: [Mongolischer Frieden]
+  definition: Neuzeitlicher Begriff für die Zeit etwa zwischen 1260 und 1350, in der die mongolische Herrschaft Reisen und Handel zwischen China, Iran und Europa erleichterte; umstritten, weil er die Gewalt der Eroberungen ausblendet.
+  themes: [handelsnetze, geschichtsschreibung]
+- id: beamtenpruefungen
+  name: Beamtenprüfungen
+  aliases: [Keju, Staatsprüfungen, Jinshi]
+  definition: Schriftliche Prüfungen über klassische Texte und Literatur, über die ab der Sui- und Tang-Zeit ein Teil der kaiserlichen Beamten ausgewählt wurde; ab der Song-Zeit der wichtigste Weg in den Staatsdienst, abgeschafft 1905.
+  themes: [politik, gesellschaft]
+- id: gleichfeldsystem
+  name: Gleichfeldsystem
+  aliases: [Juntian]
+  definition: Landverteilungssystem der Nördlichen Wei, der Sui und der frühen Tang, nach dem der Staat Bauernhaushalten Land zuteilte und dafür Steuern und Dienste verlangte; nach dem An-Lushan-Aufstand zerfallen.
+  themes: [landwirtschaft, wirtschaft-handel]
+- id: jiedushi
+  name: Jiedushi
+  aliases: [Militärgouverneur]
+  definition: Militärgouverneure der Tang-Zeit, die an den Grenzen große Heere befehligten; nach 755 wurden viele von ihnen faktisch unabhängige Regionalherrscher.
+  themes: [krieg-militaer, politik]
+- id: blockdruck
+  name: Holzblockdruck
+  aliases: [Blockdruck, Xylografie]
+  definition: Druckverfahren, bei dem Text und Bild einer ganzen Seite spiegelverkehrt in einen Holzblock geschnitten und auf Papier abgerieben werden; in China spätestens seit dem 8. Jahrhundert verbreitet.
+  themes: [schrift-medien, wissenschaft-technik]

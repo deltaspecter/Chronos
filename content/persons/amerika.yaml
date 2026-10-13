@@ -189,3 +189,130 @@
   regions: [nordamerika, andenraum]
   themes: [archaeologie]
   places: [machu-picchu]
+# Personen: Mexica und Eroberung Mexikos
+- id: moctezuma-ii
+  name: Moctezuma II.
+  aliases: [Motecuhzoma Xocoyotzin, Montezuma, Moteuczoma]
+  born: "~1466"
+  died: "1520"
+  roles: [Huey Tlatoani]
+  summary: Herrscher von Tenochtitlan ab 1502, der die Spanier 1519 in seiner Hauptstadt empfing und von ihnen gefangen gesetzt wurde; die Umstände seines Todes im Juni 1520 sind umstritten.
+  regions: [mesoamerika]
+  themes: [politik, imperien]
+  places: [tenochtitlan]
+  related: [hernan-cortes, cuitlahuac]
+- id: cuitlahuac
+  name: Cuitláhuac
+  died: "1520"
+  roles: [Huey Tlatoani]
+  summary: Bruder und Nachfolger Moctezumas, der die Spanier im Sommer 1520 aus Tenochtitlan vertrieb und wenige Monate später an den Pocken starb.
+  regions: [mesoamerika]
+  themes: [politik, krieg-militaer]
+  places: [tenochtitlan]
+- id: cuauhtemoc
+  name: Cuauhtémoc
+  born: "~1495?"
+  died: "1525"
+  roles: [Huey Tlatoani]
+  summary: Letzter Herrscher Tenochtitlans, der die Verteidigung der Stadt 1521 leitete; nach der Kapitulation gefangen genommen und 1525 auf Befehl Cortés' hingerichtet.
+  regions: [mesoamerika]
+  themes: [krieg-militaer]
+  places: [tenochtitlan, tlatelolco]
+- id: hernan-cortes
+  name: Hernán Cortés
+  aliases: [Hernando Cortés, Fernando Cortés]
+  born: "1485"
+  died: "1547"
+  roles: [Konquistador]
+  summary: Spanischer Konquistador aus Medellín (Extremadura), der 1519 eigenmächtig eine Expedition nach Mexiko führte und mit indigenen Verbündeten 1521 Tenochtitlan eroberte.
+  regions: [mesoamerika, iberische-halbinsel]
+  themes: [krieg-militaer, imperien]
+  places: [veracruz, tlaxcala, cholula, tenochtitlan]
+  related: [malintzin, moctezuma-ii]
+- id: malintzin
+  name: Malintzin
+  aliases: [La Malinche, Doña Marina, Malinalli]
+  born: "~1500?"
+  died: "~1529?"
+  roles: [Übersetzerin, Vermittlerin]
+  certainty: unsicher
+  summary: Nahua-Frau, die als Sklavin an die Maya-Küste gelangt war, 1519 den Spaniern übergeben wurde und als Übersetzerin zwischen Nahuatl, Maya und Spanisch eine Schlüsselrolle spielte.
+  regions: [mesoamerika]
+  themes: [politik, gesellschaft]
+  related: [hernan-cortes]
+- id: pedro-de-alvarado
+  name: Pedro de Alvarado
+  born: "~1485"
+  died: "1541"
+  roles: [Konquistador]
+  summary: Hauptmann des Cortés, der im Mai 1520 das Massaker beim Toxcatl-Fest in Tenochtitlan befahl; später Eroberer Guatemalas.
+  regions: [mesoamerika]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [tenochtitlan]
+- id: nezahualcoyotl
+  name: Nezahualcoyotl
+  born: "1402"
+  died: "1472"
+  roles: [Herrscher von Texcoco, Dichter]
+  summary: Herrscher von Texcoco und Mitbegründer des Dreibundes, dem Dichtungen in Nahuatl zugeschrieben werden.
+  regions: [mesoamerika]
+  themes: [politik, kultur-kunst]
+  places: [texcoco]
+- id: bernardino-de-sahagun
+  name: Bernardino de Sahagún
+  born: "~1499"
+  died: "1590"
+  roles: [Franziskaner, Ethnograf]
+  summary: Spanischer Missionar, der mit indigenen Gelehrten jahrzehntelang an einer zweisprachigen Enzyklopädie der Nahua-Kultur arbeitete, dem Florentiner Kodex.
+  regions: [mesoamerika]
+  themes: [religion, geschichtsschreibung]
+  places: [tlatelolco]
+# Personen: Atlantischer Sklavenhandel
+- id: afonso-i-kongo
+  name: Afonso I. von Kongo
+  aliases: [Nzinga Mbemba, Mvemba a Nzinga]
+  born: "~1456?"
+  died: "~1542"
+  roles: [König von Kongo]
+  summary: Christlicher König des Kongo (etwa 1509–1542), der in Briefen an den portugiesischen König die Versklavung seiner Untertanen durch portugiesische Händler beklagte.
+  regions: [zentralafrika]
+  themes: [politik, religion, sklaverei-unfreiheit]
+  places: [mbanza-kongo]
+- id: njinga
+  name: Njinga
+  aliases: [Nzinga Mbande, Ana de Sousa, Königin Njinga]
+  born: "~1583"
+  died: "1663"
+  roles: [Königin von Ndongo und Matamba]
+  summary: Herrscherin im heutigen Angola, die über Jahrzehnte diplomatisch und militärisch gegen die portugiesische Kolonialmacht kämpfte und selbst am Sklavenhandel beteiligt war.
+  regions: [zentralafrika]
+  themes: [politik, krieg-militaer]
+  places: [luanda]
+- id: olaudah-equiano
+  name: Olaudah Equiano
+  aliases: [Gustavus Vassa]
+  born: "~1745"
+  died: "1797"
+  roles: [Autor, Abolitionist]
+  summary: Als Kind versklavt, kaufte er sich 1766 frei und veröffentlichte 1789 in London eine Autobiografie, die zu einem der wirkungsvollsten Texte der Abolitionsbewegung wurde.
+  regions: [westafrika, britische-inseln, karibik]
+  themes: [sklaverei-unfreiheit, schrift-medien]
+  places: [london]
+- id: thomas-clarkson
+  name: Thomas Clarkson
+  born: "1760"
+  died: "1846"
+  roles: [Abolitionist]
+  summary: Englischer Abolitionist, der in Hafenstädten wie Bristol und Liverpool Beweise über die Bedingungen des Sklavenhandels sammelte.
+  regions: [britische-inseln]
+  themes: [sklaverei-unfreiheit]
+  places: [bristol, liverpool]
+- id: william-wilberforce
+  name: William Wilberforce
+  born: "1759"
+  died: "1833"
+  roles: [Parlamentsabgeordneter, Abolitionist]
+  summary: Englischer Abgeordneter und evangelikaler Christ, der jahrzehntelang im Parlament für das Verbot des Sklavenhandels und der Sklaverei kämpfte.
+  regions: [britische-inseln]
+  themes: [sklaverei-unfreiheit, politik]
+  places: [london]

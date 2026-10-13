@@ -1,0 +1,171 @@
+# Quellen und Literatur: Mongolenreich und Tang-Dynastie
+
+# --- Mongolen ---
+- id: morgan-2007
+  kind: sekundaer
+  authors: ["Morgan, David"]
+  title: The Mongols
+  edition: 2. Auflage
+  place: Malden / Oxford
+  publisher: Blackwell
+  year: 2007
+- id: jackson-2017
+  kind: sekundaer
+  authors: ["Jackson, Peter"]
+  title: The Mongols and the Islamic World
+  subtitle: From Conquest to Conversion
+  place: New Haven
+  publisher: Yale University Press
+  year: 2017
+- id: jackson-2005
+  kind: sekundaer
+  authors: ["Jackson, Peter"]
+  title: The Mongols and the West, 1221–1410
+  place: Harlow
+  publisher: Pearson Longman
+  year: 2005
+- id: allsen-2001
+  kind: sekundaer
+  authors: ["Allsen, Thomas T."]
+  title: Culture and Conquest in Mongol Eurasia
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2001
+- id: may-2018
+  kind: sekundaer
+  authors: ["May, Timothy"]
+  title: The Mongol Empire
+  place: Edinburgh
+  publisher: Edinburgh University Press
+  year: 2018
+- id: ratchnevsky-1983
+  kind: sekundaer
+  authors: ["Ratchnevsky, Paul"]
+  title: Činggis-Khan
+  subtitle: Sein Leben und Wirken
+  place: Wiesbaden
+  publisher: Franz Steiner
+  year: 1983
+- id: schmieder-1994
+  kind: sekundaer
+  authors: ["Schmieder, Felicitas"]
+  title: Europa und die Fremden
+  subtitle: Die Mongolen im Urteil des Abendlandes vom 13. bis in das 15. Jahrhundert
+  place: Sigmaringen
+  publisher: Thorbecke
+  year: 1994
+- id: pederson-2014
+  kind: sekundaer
+  authors: ["Pederson, Neil", "u. a."]
+  title: Pluvials, droughts, the Mongol Empire, and modern Mongolia
+  container: Proceedings of the National Academy of Sciences
+  volume: "111"
+  year: 2014
+  pages: 4375–4379
+- id: buentgen-dicosmo-2016
+  kind: sekundaer
+  authors: ["Büntgen, Ulf", "Di Cosmo, Nicola"]
+  title: Climatic and environmental aspects of the Mongol withdrawal from Hungary in 1242 CE
+  container: Scientific Reports
+  volume: "6"
+  year: 2016
+  pages: "25606"
+- id: spyrou-2022
+  kind: sekundaer
+  authors: ["Spyrou, Maria A.", "u. a."]
+  title: The source of the Black Death in fourteenth-century central Eurasia
+  container: Nature
+  volume: "606"
+  year: 2022
+  pages: 718–724
+- id: q-geheime-geschichte
+  kind: primaer
+  title: Die Geheime Geschichte der Mongolen
+  written: "13. Jahrhundert (Kolophon: „Jahr der Ratte“, wohl 1228 oder 1240)"
+  note: Einzige erhaltene mongolische Erzählung aus der Zeit des Reiches über Herkunft und Leben Dschingis Khans, überliefert in chinesischer Umschrift. Englische Übersetzung mit Kommentar – Igor de Rachewiltz, The Secret History of the Mongols (Leiden – Brill, 2004).
+- id: q-juwaini
+  kind: primaer
+  authors: ["Ata-Malik Dschuwaini"]
+  title: Tarich-i Dschahangusch (Geschichte des Welteroberers)
+  written: um 1260
+  note: Persische Geschichte der mongolischen Eroberungen eines Beamten im Dienst der Mongolen; schildert die Zerstörung der Städte Chorasans mit sehr hohen, kaum überprüfbaren Opferzahlen.
+- id: q-raschid-ad-din
+  kind: primaer
+  authors: ["Raschid ad-Din"]
+  title: Dschami at-tawarich (Sammlung der Chroniken)
+  written: um 1300–1310
+  note: Universalgeschichte des Wesirs der Ilchane in Iran, auf Grundlage mongolischer Überlieferungen; eine der ersten Weltgeschichten überhaupt.
+- id: q-carpini
+  kind: primaer
+  authors: ["Johannes de Plano Carpini"]
+  title: Historia Mongalorum
+  written: "1247"
+  note: Bericht des Franziskaners, den Papst Innozenz IV. 1245 an den Hof des Großkhans sandte; beschreibt Lebensweise und Kriegführung der Mongolen.
+- id: q-rubruk
+  kind: primaer
+  authors: ["Wilhelm von Rubruk"]
+  title: Itinerarium
+  written: um 1255
+  note: Bericht des flämischen Franziskaners über seine Reise nach Karakorum 1253–1255, mit genauen Beobachtungen zu Hof, Religionen und Alltag.
+
+# --- Tang ---
+- id: lewis-2009
+  kind: sekundaer
+  authors: ["Lewis, Mark Edward"]
+  title: China's Cosmopolitan Empire
+  subtitle: The Tang Dynasty
+  place: Cambridge, Mass.
+  publisher: Belknap Press of Harvard University Press
+  year: 2009
+- id: twitchett-1979
+  kind: sekundaer
+  editors: ["Twitchett, Denis"]
+  title: "The Cambridge History of China, Bd. 3: Sui and T'ang China, 589–906, Teil 1"
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1979
+- id: schafer-1963
+  kind: sekundaer
+  authors: ["Schafer, Edward H."]
+  title: The Golden Peaches of Samarkand
+  subtitle: A Study of T'ang Exotics
+  place: Berkeley
+  publisher: University of California Press
+  year: 1963
+- id: hansen-2012
+  kind: sekundaer
+  authors: ["Hansen, Valerie"]
+  title: The Silk Road
+  subtitle: A New History
+  place: Oxford / New York
+  publisher: Oxford University Press
+  year: 2012
+- id: benn-2002
+  kind: sekundaer
+  authors: ["Benn, Charles"]
+  title: "Daily Life in Traditional China: The Tang Dynasty"
+  place: Westport
+  publisher: Greenwood Press
+  year: 2002
+- id: q-jiu-tangshu
+  kind: primaer
+  title: Jiu Tangshu (Alte Geschichte der Tang)
+  written: "945"
+  note: Offizielle Dynastiegeschichte, kompiliert unter den Späteren Jin aus Dokumenten der Tang-Zeit.
+- id: q-xin-tangshu
+  kind: primaer
+  authors: ["Ouyang Xiu", "Song Qi"]
+  title: Xin Tangshu (Neue Geschichte der Tang)
+  written: "1060"
+  note: Überarbeitete Dynastiegeschichte der Song-Zeit, stilistisch geglättet und um Tabellen und Abhandlungen erweitert.
+- id: q-diamant-sutra
+  kind: primaer
+  title: Diamant-Sutra aus Dunhuang
+  written: "868"
+  note: Chinesische Übersetzung eines buddhistischen Textes als Blockdruck-Rolle mit Datierung auf das Jahr 868; das älteste vollständig erhaltene, datierte gedruckte Buch; British Library, Or.8210/P.2.
+- id: q-ennin
+  kind: primaer
+  authors: ["Ennin"]
+  title: Nittō guhō junrei gyōki (Tagebuch einer Pilgerreise nach China)
+  written: 838–847
+  note: Reisetagebuch eines japanischen Mönchs, der die Buddhistenverfolgung von 842–845 miterlebte. Englische Übersetzung – Edwin O. Reischauer, Ennin's Diary (New York 1955).

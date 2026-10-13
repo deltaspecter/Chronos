@@ -1,0 +1,199 @@
+# Personen: Mongolenreich
+- id: dschingis-khan
+  name: Dschingis Khan
+  aliases: [Temüdschin, Temüjin, Chinggis Khan, Genghis Khan, Tschinggis Khan]
+  born: "~1162?"
+  died: "1227"
+  roles: [Großkhan, Reichsgründer]
+  summary: Mongolischer Fürst, der die Stämme der Steppe einte, 1206 zum Großkhan ausgerufen wurde und mit seinen Feldzügen das Mongolenreich begründete.
+  regions: [zentralasien, china]
+  themes: [imperien, krieg-militaer, politik]
+  places: [karakorum, otrar, buchara, samarkand]
+  related: [boerte, oegedei]
+- id: boerte
+  name: Börte
+  born: "~1161?"
+  died: "~1230?"
+  roles: [Hauptfrau Dschingis Khans]
+  certainty: unsicher
+  summary: Erste und wichtigste Frau Temüdschins, Mutter seiner vier Söhne, die nach der „Geheimen Geschichte“ wichtige politische Entscheidungen beeinflusste.
+  regions: [zentralasien]
+  themes: [politik, gesellschaft]
+- id: oegedei
+  name: Ögedei
+  aliases: [Ögödei, Ugedei]
+  born: "~1186"
+  died: "1241"
+  roles: [Großkhan]
+  summary: Dritter Sohn und Nachfolger Dschingis Khans (Großkhan 1229–1241), der Karakorum ausbauen ließ und die Feldzüge nach Nordchina, Russland und Mitteleuropa befahl.
+  regions: [zentralasien]
+  themes: [imperien]
+  places: [karakorum]
+- id: batu
+  name: Batu Khan
+  born: "~1205"
+  died: "1255"
+  roles: [Khan, Feldherr]
+  summary: Enkel Dschingis Khans, Anführer des Westfeldzugs 1236–1242 und Begründer der Goldenen Horde an der Wolga.
+  regions: [osteuropa, zentralasien]
+  themes: [krieg-militaer, imperien]
+  places: [kiew, mohi]
+- id: sorkhaghtani-beki
+  name: Sorchachtani Beki
+  aliases: [Sorkhaghtani Beki]
+  died: "1252"
+  roles: [Fürstin, Politikerin]
+  summary: Witwe von Dschingis Khans jüngstem Sohn Tolui und Mutter der Großkhane Möngke und Khubilai sowie des Ilchans Hülegü; eine der einflussreichsten Politikerinnen des Reiches.
+  regions: [zentralasien, china]
+  themes: [politik]
+- id: moengke
+  name: Möngke
+  aliases: [Möngke Khan, Mangu]
+  born: "1209"
+  died: "1259"
+  roles: [Großkhan]
+  summary: Großkhan von 1251 bis 1259, der Hülegü nach Westasien und Khubilai gegen das Song-Reich schickte; sein Tod löste einen Nachfolgekrieg aus.
+  regions: [zentralasien, china]
+  themes: [imperien]
+  places: [karakorum]
+- id: khubilai-khan
+  name: Khubilai Khan
+  aliases: [Kublai Khan, Qubilai, Kaiser Shizu]
+  born: "1215"
+  died: "1294"
+  roles: [Großkhan, Kaiser von China]
+  summary: Enkel Dschingis Khans, ab 1260 Großkhan, gründete 1271 die Yuan-Dynastie und vollendete 1279 die Eroberung Südchinas.
+  regions: [china, zentralasien]
+  themes: [imperien, politik]
+  places: [dadu, shangdu]
+- id: marco-polo
+  name: Marco Polo
+  born: "1254"
+  died: "1324"
+  roles: [Kaufmann, Reiseschriftsteller]
+  summary: Venezianischer Kaufmann, dessen mit dem Schriftsteller Rustichello verfasster Bericht über China unter Khubilai Khan das europäische Bild Asiens nachhaltig prägte; Details seiner Reise sind umstritten.
+  regions: [italien, china]
+  themes: [handelsnetze]
+  places: [dadu, shangdu]
+- id: wilhelm-von-rubruk
+  name: Wilhelm von Rubruk
+  aliases: [Willem van Ruysbroeck, William of Rubruck]
+  born: "~1220"
+  died: "~1293"
+  roles: [Franziskaner, Reisender]
+  summary: Flämischer Franziskaner, der 1253–1255 an den Hof des Großkhans nach Karakorum reiste und einen genauen Bericht darüber verfasste.
+  regions: [westeuropa, zentralasien]
+  themes: [religion]
+  places: [karakorum]
+- id: raschid-ad-din
+  name: Raschid ad-Din
+  aliases: [Rashid al-Din]
+  born: "1247"
+  died: "1318"
+  roles: [Wesir, Historiker, Arzt]
+  summary: Jüdisch-stämmiger, zum Islam konvertierter Wesir der Ilchane in Iran, der eine Weltgeschichte verfasste; 1318 hingerichtet.
+  regions: [iran]
+  themes: [geschichtsschreibung]
+
+# Personen: Tang-Dynastie
+- id: tang-taizong
+  name: Tang Taizong
+  aliases: [Li Shimin, Taizong]
+  born: "598"
+  died: "649"
+  roles: [Kaiser]
+  summary: Zweiter Kaiser der Tang (626–649), der nach der Ermordung seiner Brüder an die Macht kam und in der späteren Geschichtsschreibung als Musterherrscher gilt.
+  regions: [china]
+  themes: [politik, imperien]
+  places: [changan]
+- id: wu-zetian
+  name: Wu Zetian
+  aliases: [Kaiserin Wu, Wu Zhao]
+  born: "624"
+  died: "705"
+  roles: [Kaiserin, Kaiser]
+  summary: Einzige Frau, die in China aus eigenem Recht als Kaiser regierte (690–705, eigene Zhou-Dynastie); zuvor faktisch Regentin für ihren Gatten und ihre Söhne.
+  regions: [china]
+  themes: [politik, religion]
+  places: [luoyang, changan]
+- id: tang-xuanzong
+  name: Tang Xuanzong
+  aliases: [Minghuang, Xuanzong]
+  born: "685"
+  died: "762"
+  roles: [Kaiser]
+  summary: Kaiser der Tang von 712 bis 756, dessen lange Regierung als kulturelle Blütezeit gilt und mit dem Aufstand An Lushans in eine Katastrophe mündete.
+  regions: [china]
+  themes: [politik, kultur-kunst]
+  places: [changan]
+  related: [yang-guifei, an-lushan]
+- id: yang-guifei
+  name: Yang Guifei
+  born: "719"
+  died: "756"
+  roles: [Konkubine]
+  summary: Lieblingsgefährtin Kaiser Xuanzongs, auf der Flucht vor An Lushans Truppen auf Verlangen der Soldaten getötet; eine der bekanntesten Frauengestalten der chinesischen Literatur.
+  regions: [china]
+  themes: [politik, kultur-kunst]
+- id: an-lushan
+  name: An Lushan
+  born: "~703"
+  died: "757"
+  roles: [General]
+  summary: Militärgouverneur sogdischer und türkischer Herkunft, der 755 einen Aufstand gegen die Tang begann und sich zum Kaiser ausrief; 757 von seinem Sohn ermordet.
+  regions: [china]
+  themes: [krieg-militaer]
+- id: li-bai
+  name: Li Bai
+  aliases: [Li Po, Li Taibai]
+  born: "701"
+  died: "762"
+  roles: [Dichter]
+  summary: Einer der berühmtesten Dichter Chinas, bekannt für Gedichte über Wein, Mond, Freundschaft und Natur.
+  regions: [china]
+  themes: [kultur-kunst]
+- id: du-fu
+  name: Du Fu
+  aliases: [Tu Fu]
+  born: "712"
+  died: "770"
+  roles: [Dichter]
+  summary: Dichter, der die Not der Kriegsjahre nach 755 in Versen festhielt und in China als „Dichterheiliger“ verehrt wird.
+  regions: [china]
+  themes: [kultur-kunst]
+- id: bai-juyi
+  name: Bai Juyi
+  aliases: [Po Chü-i]
+  born: "772"
+  died: "846"
+  roles: [Dichter, Beamter]
+  summary: Dichter und Beamter, dessen „Lied vom ewigen Leid“ die Liebe zwischen Xuanzong und Yang Guifei erzählt; schrieb bewusst in leicht verständlicher Sprache.
+  regions: [china]
+  themes: [kultur-kunst]
+- id: xuanzang
+  name: Xuanzang
+  aliases: [Hsüan-tsang, Tripitaka]
+  born: "~602"
+  died: "664"
+  roles: [Mönch, Übersetzer, Reisender]
+  summary: Buddhistischer Mönch, der 629–645 nach Indien reiste, Hunderte Schriften nach Chang'an zurückbrachte und übersetzte; Vorbild des Romans „Die Reise nach Westen“.
+  regions: [china, suedasien, zentralasien]
+  themes: [religion, schrift-medien]
+  places: [changan]
+- id: ennin
+  name: Ennin
+  born: "794"
+  died: "864"
+  roles: [Mönch]
+  summary: Japanischer Mönch der Tendai-Schule, der 838–847 in China lebte und ein Tagebuch über seine Reise und die Buddhistenverfolgung hinterließ.
+  regions: [japan, china]
+  themes: [religion]
+  places: [changan]
+- id: huang-chao
+  name: Huang Chao
+  died: "884"
+  roles: [Rebellenführer]
+  summary: Salzschmuggler und gescheiterter Prüfungskandidat, dessen Aufstand 875–884 durch weite Teile Chinas zog und 881 Chang'an eroberte.
+  regions: [china]
+  themes: [krieg-militaer, revolutionen]
+  places: [guangzhou, changan]

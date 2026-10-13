@@ -1,0 +1,29 @@
+- id: koenigreich-kongo
+  name: Königreich Kongo
+  aliases: [Kongo, Wene wa Kongo]
+  start: "~1390?"
+  end: "1914"
+  spanNote: Gründung nach mündlicher Überlieferung im späten 14. Jahrhundert; im 18. und 19. Jahrhundert stark geschwächt, 1914 endgültig der portugiesischen Kolonie Angola eingegliedert.
+  capital: mbanza-kongo
+  summary: Königreich an der Mündung des Kongo, dessen Herrscher ab 1491 Christen wurden und diplomatische Beziehungen mit Portugal und dem Papst unterhielten.
+  regions: [zentralafrika]
+  themes: [imperien, religion]
+  weight: 2
+- id: koenigreich-dahomey
+  name: Königreich Dahomey
+  aliases: [Dahomey, Danxomè]
+  start: "~1600"
+  end: "1894"
+  summary: Königreich im heutigen Benin, das im 18. Jahrhundert die Küste bei Ouidah eroberte und durch Kriege und Sklavenhandel mächtig wurde; 1894 von Frankreich unterworfen.
+  regions: [westafrika]
+  themes: [imperien, sklaverei-unfreiheit]
+  weight: 2
+- id: asante-reich
+  name: Asante-Reich
+  aliases: [Ashanti, Asanteman]
+  start: "~1701"
+  end: "1901"
+  summary: Reich im Gebiet des heutigen Ghana mit Hauptstadt Kumasi, reich durch Gold und Sklavenhandel; 1901 von Großbritannien annektiert.
+  regions: [westafrika]
+  themes: [imperien]
+  weight: 2

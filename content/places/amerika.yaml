@@ -183,3 +183,140 @@
   summary: 1535 von Francisco Pizarro als „Stadt der Könige“ gegründet, Hauptstadt des Vizekönigreichs Peru und heute Perus.
   start: "1535"
   regions: [andenraum]
+- id: tenochtitlan
+  name: Tenochtitlan
+  aliases: [México-Tenochtitlan, Tenochtitlán]
+  coords: [-99.1332, 19.4326]
+  categories: [stadt, hauptstadt, heiligtum]
+  start: "~1325"
+  end: "1521"
+  modernName: Zentrum von Mexiko-Stadt
+  summary: Inselhauptstadt der Mexica im See von Texcoco, mit wohl 150.000 bis 250.000 Einwohnern eine der größten Städte der Welt um 1500; 1521 nach langer Belagerung zerstört.
+  regions: [mesoamerika]
+  themes: [imperien, religion]
+- id: tlatelolco
+  name: Tlatelolco
+  coords: [-99.1372, 19.4511]
+  categories: [stadt]
+  modernName: Mexiko-Stadt
+  summary: Schwesterstadt Tenochtitlans mit dem größten Markt Mesoamerikas; 1473 von Tenochtitlan unterworfen, 1521 Ort des letzten Widerstands.
+  regions: [mesoamerika]
+  themes: [handelsnetze]
+- id: texcoco
+  name: Texcoco
+  aliases: [Tetzcoco]
+  coords: [-98.8828, 19.5136]
+  categories: [stadt]
+  modernName: Texcoco (Bundesstaat México)
+  summary: Stadt am Ostufer des Sees von Texcoco, Mitglied des Dreibundes und unter Nezahualcoyotl ein Zentrum der Dichtung und Gelehrsamkeit.
+  regions: [mesoamerika]
+- id: tlaxcala
+  name: Tlaxcala
+  coords: [-98.2375, 19.3182]
+  categories: [stadt]
+  modernName: Tlaxcala (Mexiko)
+  summary: Unabhängiger Staatenbund östlich des Hochtals von Mexiko, erbitterter Gegner der Mexica und ab 1519 wichtigster Verbündeter der Spanier.
+  regions: [mesoamerika]
+- id: cholula
+  name: Cholula
+  coords: [-98.3036, 19.0633]
+  categories: [stadt, heiligtum]
+  modernName: San Pedro Cholula (Puebla)
+  summary: Alte Pilgerstadt mit der volumenmäßig größten Pyramide der Welt; im Oktober 1519 Schauplatz eines Massakers der Spanier und ihrer Verbündeten.
+  regions: [mesoamerika]
+  themes: [religion, gewalt-genozid]
+- id: veracruz
+  name: Villa Rica de la Vera Cruz
+  aliases: [Veracruz]
+  coords: [-96.4200, 19.6600]
+  location: ungefaehr
+  categories: [stadt, hafen]
+  modernName: bei Quiahuiztlan (Veracruz)
+  summary: Erste spanische Stadtgründung auf dem mexikanischen Festland, 1519 von Cortés angelegt, um sich rechtlich vom Statthalter Kubas zu lösen.
+  regions: [mesoamerika]
+# Orte: Atlantischer Sklavenhandel
+- id: mbanza-kongo
+  name: Mbanza Kongo
+  aliases: [São Salvador do Congo]
+  coords: [14.2500, -6.2667]
+  categories: [stadt, hauptstadt]
+  modernName: Mbanza Kongo (Angola)
+  summary: Hauptstadt des Königreichs Kongo, dessen Herrscher ab 1491 das Christentum annahmen und mit Portugal Beziehungen unterhielten.
+  regions: [zentralafrika]
+- id: luanda
+  name: Luanda
+  coords: [13.2344, -8.8383]
+  categories: [stadt, hafen]
+  start: "1576"
+  modernName: Luanda (Angola)
+  summary: 1576 gegründete portugiesische Hafenstadt, aus der mehr versklavte Menschen nach Amerika verschleppt wurden als aus jedem anderen Hafen Afrikas.
+  regions: [zentralafrika, atlantik]
+  themes: [sklaverei-unfreiheit]
+- id: elmina
+  name: Elmina
+  aliases: [São Jorge da Mina]
+  coords: [-1.3486, 5.0828]
+  categories: [stadt, hafen]
+  start: "1482"
+  modernName: Elmina (Ghana)
+  summary: 1482 von Portugal an der Goldküste errichtete Festung, zunächst für den Goldhandel, später ein Zentrum des Sklavenhandels; ab 1637 niederländisch.
+  regions: [westafrika, atlantik]
+  themes: [sklaverei-unfreiheit, handelsnetze]
+- id: ouidah
+  name: Ouidah
+  aliases: [Whydah, Ajudá]
+  coords: [2.0833, 6.3667]
+  categories: [stadt, hafen]
+  modernName: Ouidah (Benin)
+  summary: Hafenort an der „Sklavenküste“, ab 1727 vom Königreich Dahomey kontrolliert und einer der wichtigsten Ausfuhrhäfen des atlantischen Sklavenhandels.
+  regions: [westafrika, atlantik]
+  themes: [sklaverei-unfreiheit]
+- id: bonny
+  name: Bonny
+  coords: [7.1700, 4.4500]
+  categories: [stadt, hafen]
+  modernName: Rivers State (Nigeria)
+  summary: Stadtstaat im Nigerdelta, im späten 18. Jahrhundert ein bedeutender Ausfuhrhafen für versklavte Menschen.
+  regions: [westafrika, atlantik]
+  themes: [sklaverei-unfreiheit]
+- id: goree
+  name: Gorée
+  coords: [-17.3980, 14.6670]
+  categories: [stadt, hafen]
+  modernName: Dakar (Senegal)
+  summary: Insel vor Dakar mit europäischen Handelsniederlassungen; heute ein zentraler Gedenkort an den Sklavenhandel, obwohl die Zahl der von hier Verschleppten vergleichsweise gering war.
+  regions: [westafrika, atlantik]
+  themes: [sklaverei-unfreiheit]
+- id: salvador-da-bahia
+  name: Salvador da Bahia
+  aliases: [Salvador, Bahia]
+  coords: [-38.5014, -12.9714]
+  categories: [stadt, hafen, hauptstadt]
+  modernName: Salvador (Brasilien)
+  summary: Hauptstadt Portugiesisch-Brasiliens bis 1763 und einer der größten Ankunftshäfen für versklavte Afrikanerinnen und Afrikaner; bis heute ein Zentrum afrobrasilianischer Kultur.
+  regions: [suedamerika, atlantik]
+  themes: [sklaverei-unfreiheit]
+- id: rio-de-janeiro
+  name: Rio de Janeiro
+  coords: [-43.1729, -22.9068]
+  categories: [stadt, hafen]
+  modernName: Rio de Janeiro (Brasilien)
+  summary: Im 18. und 19. Jahrhundert der größte Ankunftshafen für versklavte Menschen in den Amerikas.
+  regions: [suedamerika, atlantik]
+  themes: [sklaverei-unfreiheit]
+- id: bristol
+  name: Bristol
+  coords: [-2.5879, 51.4545]
+  categories: [stadt, hafen]
+  modernName: Bristol (England)
+  summary: Englische Hafenstadt, im frühen 18. Jahrhundert führend im britischen Sklavenhandel; 2020 stürzten Demonstrierende hier das Denkmal des Sklavenhändlers Edward Colston.
+  regions: [britische-inseln, atlantik]
+  themes: [sklaverei-unfreiheit]
+- id: nantes
+  name: Nantes
+  coords: [-1.5536, 47.2184]
+  categories: [stadt, hafen]
+  modernName: Nantes (Frankreich)
+  summary: Wichtigster französischer Hafen des Sklavenhandels im 18. Jahrhundert.
+  regions: [frankreich, atlantik]
+  themes: [sklaverei-unfreiheit]
