@@ -1,0 +1,282 @@
+# Quellen und Literatur: Konstantinopel 1453, Groß-Simbabwe und Swahili-Küste, Angkor, Heian-Japan
+
+# --- Konstantinopel 1453 ---
+- id: runciman-1965
+  kind: sekundaer
+  authors: ["Runciman, Steven"]
+  title: The Fall of Constantinople 1453
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1965
+- id: philippides-hanak-2011
+  kind: sekundaer
+  authors: ["Philippides, Marios", "Hanak, Walter K."]
+  title: The Siege and the Fall of Constantinople in 1453
+  subtitle: Historiography, Topography, and Military Studies
+  place: Farnham
+  publisher: Ashgate
+  year: 2011
+- id: harris-2010
+  kind: sekundaer
+  authors: ["Harris, Jonathan"]
+  title: The End of Byzantium
+  place: New Haven
+  publisher: Yale University Press
+  year: 2010
+- id: kafadar-1995
+  kind: sekundaer
+  authors: ["Kafadar, Cemal"]
+  title: Between Two Worlds
+  subtitle: The Construction of the Ottoman State
+  place: Berkeley
+  publisher: University of California Press
+  year: 1995
+- id: babinger-1953
+  kind: sekundaer
+  authors: ["Babinger, Franz"]
+  title: Mehmed der Eroberer und seine Zeit
+  subtitle: Weltenstürmer einer Zeitenwende
+  place: München
+  publisher: Bruckmann
+  year: 1953
+- id: lilie-1999
+  kind: sekundaer
+  authors: ["Lilie, Ralph-Johannes"]
+  title: Byzanz
+  subtitle: Geschichte des oströmischen Reiches 326–1453
+  series: Beck'sche Reihe – C. H. Beck Wissen
+  place: München
+  publisher: C. H. Beck
+  year: 1999
+- id: kreiser-2001
+  kind: sekundaer
+  authors: ["Kreiser, Klaus"]
+  title: Der Osmanische Staat 1300–1922
+  series: Oldenbourg Grundriss der Geschichte
+  place: München
+  publisher: Oldenbourg
+  year: 2001
+- id: q-barbaro
+  kind: primaer
+  authors: ["Barbaro, Nicolò"]
+  title: Giornale dell'assedio di Costantinopoli
+  written: "1453"
+  note: Tagebuch eines venezianischen Schiffsarztes, der die Belagerung miterlebte; die genaueste fortlaufende Augenzeugenquelle, mit deutlicher Parteinahme für die Venezianer.
+- id: q-sphrantzes
+  kind: primaer
+  authors: ["Georgios Sphrantzes"]
+  title: Chronicon minus
+  written: um 1477
+  note: Kurze Chronik eines engen Vertrauten Kaiser Konstantins XI., der bei der Eroberung gefangen genommen wurde; nennt die Zahl der Verteidiger.
+- id: q-kritobulos
+  kind: primaer
+  authors: ["Michael Kritobulos"]
+  title: Historiai (Geschichte Mehmeds II.)
+  written: um 1467
+  note: Griechisch geschriebene Geschichte eines byzantinischen Adligen, der in den Dienst Mehmeds II. trat und das Werk dem Sultan widmete.
+- id: q-doukas
+  kind: primaer
+  authors: ["Doukas"]
+  title: Historia Turcobyzantina
+  written: um 1462
+  note: Byzantinisches Geschichtswerk eines Sekretärs im Dienst genuesischer Herren auf Lesbos, mit Berichten über die Belagerung und den Streit um die Kirchenunion.
+- id: q-tursun-beg
+  kind: primaer
+  authors: ["Tursun Beg"]
+  title: Tarih-i Ebü'l-Feth (Geschichte des Vaters der Eroberung)
+  written: um 1488
+  note: Osmanische Geschichte Mehmeds II. aus der Feder eines Beamten, der an der Belagerung teilnahm.
+
+# --- Groß-Simbabwe und Swahili-Küste ---
+- id: pikirayi-2001
+  kind: sekundaer
+  authors: ["Pikirayi, Innocent"]
+  title: The Zimbabwe Culture
+  subtitle: Origins and Decline of Southern Zambezian States
+  place: Walnut Creek
+  publisher: AltaMira Press
+  year: 2001
+- id: garlake-1973
+  kind: sekundaer
+  authors: ["Garlake, Peter S."]
+  title: Great Zimbabwe
+  place: London
+  publisher: Thames & Hudson
+  year: 1973
+- id: huffman-1996
+  kind: sekundaer
+  authors: ["Huffman, Thomas N."]
+  title: Snakes & Crocodiles
+  subtitle: Power and Symbolism in Ancient Zimbabwe
+  place: Johannesburg
+  publisher: Witwatersrand University Press
+  year: 1996
+- id: horton-middleton-2000
+  kind: sekundaer
+  authors: ["Horton, Mark", "Middleton, John"]
+  title: The Swahili
+  subtitle: The Social Landscape of a Mercantile Society
+  place: Oxford
+  publisher: Blackwell
+  year: 2000
+- id: wynne-jones-laviolette-2018
+  kind: sekundaer
+  editors: ["Wynne-Jones, Stephanie", "LaViolette, Adria"]
+  title: The Swahili World
+  place: London / New York
+  publisher: Routledge
+  year: 2018
+- id: chittick-1974
+  kind: sekundaer
+  authors: ["Chittick, Neville"]
+  title: Kilwa
+  subtitle: An Islamic Trading City on the East African Coast
+  place: Nairobi
+  publisher: British Institute in Eastern Africa
+  year: 1974
+- id: brielle-2023
+  kind: sekundaer
+  authors: ["Brielle, Esther S.", "u. a."]
+  title: Entwined African and Asian genetic roots of medieval peoples of the Swahili coast
+  container: Nature
+  volume: "615"
+  year: 2023
+  pages: 866–873
+- id: q-kilwa-chronik
+  kind: primaer
+  title: Kitab as-Sulwa fi akhbar Kilwa (Chronik von Kilwa)
+  written: 16. Jahrhundert
+  note: Arabisch verfasste Chronik der Sultane von Kilwa, überliefert auch in einer portugiesischen Fassung bei João de Barros; ihre Herrscherlisten und Gründungserzählung (Herkunft aus Schiras) sind nur bedingt historisch.
+- id: q-barros
+  kind: primaer
+  authors: ["Barros, João de"]
+  title: Décadas da Ásia
+  written: Lissabon 1552–1563
+  note: Portugiesische Geschichte der Expansion nach Asien; enthält eine auf Berichten von Händlern beruhende Beschreibung der Steinbauten im Landesinneren von Sofala, die mit Groß-Simbabwe in Verbindung gebracht wird.
+
+# --- Angkor ---
+- id: higham-2001
+  kind: sekundaer
+  authors: ["Higham, Charles"]
+  title: The Civilization of Angkor
+  place: London
+  publisher: Weidenfeld & Nicolson
+  year: 2001
+- id: coe-evans-2018
+  kind: sekundaer
+  authors: ["Coe, Michael D.", "Evans, Damian"]
+  title: Angkor and the Khmer Civilization
+  edition: 2. Auflage
+  place: London
+  publisher: Thames & Hudson
+  year: 2018
+- id: jacques-freeman-1997
+  kind: sekundaer
+  authors: ["Jacques, Claude", "Freeman, Michael"]
+  title: Angkor
+  subtitle: Cities and Temples
+  place: London
+  publisher: Thames & Hudson
+  year: 1997
+- id: evans-2013
+  kind: sekundaer
+  authors: ["Evans, Damian H.", "u. a."]
+  title: Uncovering archaeological landscapes at Angkor using lidar
+  container: Proceedings of the National Academy of Sciences
+  volume: "110"
+  year: 2013
+  pages: 12595–12600
+- id: buckley-2010
+  kind: sekundaer
+  authors: ["Buckley, Brendan M.", "u. a."]
+  title: Climate as a contributing factor in the demise of Angkor, Cambodia
+  container: Proceedings of the National Academy of Sciences
+  volume: "107"
+  year: 2010
+  pages: 6748–6752
+- id: lieberman-2003
+  kind: sekundaer
+  authors: ["Lieberman, Victor"]
+  title: "Strange Parallels: Southeast Asia in Global Context, c. 800–1830, Bd. 1: Integration on the Mainland"
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2003
+- id: q-zhou-daguan
+  kind: primaer
+  authors: ["Zhou Daguan"]
+  title: Zhenla fengtu ji (Aufzeichnungen über Sitten und Gebräuche von Zhenla)
+  written: nach 1297
+  note: Bericht eines chinesischen Gesandtschaftsmitglieds, das 1296/97 knapp ein Jahr in Angkor verbrachte; die einzige ausführliche Augenzeugenbeschreibung der Stadt. Englische Übersetzung – Peter Harris, A Record of Cambodia (Chiang Mai 2007).
+- id: q-khmer-inschriften
+  kind: primaer
+  title: Inschriften des Khmer-Reiches in Sanskrit und Altkhmer
+  written: 7.–14. Jahrhundert
+  note: Weit über tausend Stein- und Metallinschriften, meist Stiftungen an Tempel mit Genealogien, Landlisten und Lobpreisungen der Könige; die Inschrift von Sdok Kak Thom (1052) erzählt die Gründung des Reiches 802.
+
+# --- Heian-Japan ---
+- id: shively-mccullough-1999
+  kind: sekundaer
+  editors: ["Shively, Donald H.", "McCullough, William H."]
+  title: "The Cambridge History of Japan, Bd. 2: Heian Japan"
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1999
+- id: morris-1964
+  kind: sekundaer
+  authors: ["Morris, Ivan"]
+  title: The World of the Shining Prince
+  subtitle: Court Life in Ancient Japan
+  place: London
+  publisher: Oxford University Press
+  year: 1964
+- id: totman-2005
+  kind: sekundaer
+  authors: ["Totman, Conrad"]
+  title: A History of Japan
+  edition: 2. Auflage
+  place: Malden
+  publisher: Blackwell
+  year: 2005
+- id: adolphson-2007
+  kind: sekundaer
+  editors: ["Adolphson, Mikael", "Kamens, Edward", "Matsumoto, Stacie"]
+  title: Heian Japan, Centers and Peripheries
+  place: Honolulu
+  publisher: University of Hawai'i Press
+  year: 2007
+- id: shirane-2007
+  kind: edition
+  editors: ["Shirane, Haruo"]
+  title: Traditional Japanese Literature
+  subtitle: An Anthology, Beginnings to 1600
+  place: New York
+  publisher: Columbia University Press
+  year: 2007
+- id: q-genji
+  kind: primaer
+  authors: ["Murasaki Shikibu"]
+  title: Genji monogatari (Die Geschichte vom Prinzen Genji)
+  written: Anfang des 11. Jahrhunderts
+  note: Roman in 54 Kapiteln über das Leben und die Liebschaften des Prinzen Genji und seiner Nachkommen am Kaiserhof; 1008 im Tagebuch der Autorin erstmals erwähnt.
+- id: q-makura-no-soshi
+  kind: primaer
+  authors: ["Sei Shōnagon"]
+  title: Makura no sōshi (Kopfkissenbuch)
+  written: um 1000
+  note: Sammlung von Beobachtungen, Listen und Episoden einer Hofdame der Kaiserin Teishi; ein lebendiges, sehr subjektives Bild des Hoflebens.
+- id: q-kokinshu
+  kind: primaer
+  title: Kokin wakashū (Sammlung alter und neuer japanischer Gedichte)
+  written: um 905
+  note: Erste kaiserlich in Auftrag gegebene Anthologie von Gedichten in japanischer Sprache; das Vorwort in Kana gilt als erste Dichtungstheorie Japans.
+- id: q-midokanpakuki
+  kind: primaer
+  authors: ["Fujiwara no Michinaga"]
+  title: Midō kanpakuki (Tagebuch des Michinaga)
+  written: 998–1021
+  note: Eigenhändiges Tagebuch des mächtigsten Regenten der Heian-Zeit, in Teilen im Original erhalten; seit 2013 im Register „Memory of the World“ der UNESCO.
+- id: q-heike
+  kind: primaer
+  title: Heike monogatari (Die Geschichte der Taira)
+  written: 13. Jahrhundert
+  note: Kriegserzählung über den Aufstieg und Untergang des Hauses Taira im Genpei-Krieg, ursprünglich von blinden Spielleuten vorgetragen; mehr Literatur als Chronik.

@@ -1,0 +1,245 @@
+# Orte: Konstantinopel 1453
+- id: hagia-sophia
+  name: Hagia Sophia
+  aliases: [Ayasofya, Sophienkirche]
+  coords: [28.9802, 41.0086]
+  categories: [heiligtum]
+  start: "537"
+  modernName: Istanbul
+  summary: 537 unter Justinian geweihte Hauptkirche Konstantinopels, nach der Eroberung 1453 Moschee, 1934 Museum und seit 2020 wieder Moschee.
+  regions: [anatolien, suedosteuropa]
+  themes: [religion, kultur-kunst]
+- id: rumeli-hisari
+  name: Rumeli Hisarı
+  aliases: [Boğazkesen, Rumelische Festung]
+  coords: [29.0561, 41.0847]
+  categories: [fundstaette]
+  start: "1452"
+  modernName: Istanbul
+  summary: 1452 in wenigen Monaten am europäischen Ufer des Bosporus errichtete osmanische Festung, mit der Mehmed II. die Seeverbindung Konstantinopels zum Schwarzen Meer kontrollierte.
+  regions: [suedosteuropa]
+  themes: [krieg-militaer]
+- id: galata
+  name: Galata
+  aliases: [Pera]
+  coords: [28.9741, 41.0256]
+  categories: [stadt]
+  modernName: Beyoğlu, Istanbul
+  summary: Genuesische Handelskolonie gegenüber Konstantinopel am Goldenen Horn, die sich 1453 für neutral erklärte.
+  regions: [anatolien, suedosteuropa]
+  themes: [handelsnetze]
+- id: edirne
+  name: Edirne
+  aliases: [Adrianopel, Hadrianopolis]
+  coords: [26.5557, 41.6771]
+  categories: [stadt, hauptstadt]
+  modernName: Edirne (Türkei)
+  summary: Thrakische Stadt, ab etwa 1369 osmanische Residenz und bis 1453 Hauptstadt des Reiches.
+  regions: [suedosteuropa]
+- id: bursa
+  name: Bursa
+  aliases: [Prusa, Brussa]
+  coords: [29.0610, 40.1885]
+  categories: [stadt, hauptstadt]
+  modernName: Bursa (Türkei)
+  summary: 1326 von den Osmanen eroberte byzantinische Stadt in Nordwestanatolien, erste Hauptstadt und Grablege der frühen Sultane.
+  regions: [anatolien]
+- id: florenz
+  name: Florenz
+  aliases: [Firenze]
+  coords: [11.2558, 43.7696]
+  categories: [stadt]
+  modernName: Florenz (Toskana)
+  summary: Stadtrepublik in der Toskana, 1439 Ort der Verkündung der Union zwischen lateinischer und griechischer Kirche, im 15. Jahrhundert ein Zentrum der Renaissance.
+  regions: [italien]
+  themes: [kultur-kunst]
+- id: varna
+  name: Warna
+  aliases: [Varna]
+  coords: [27.9147, 43.2141]
+  categories: [stadt, schlachtfeld]
+  modernName: Warna (Bulgarien)
+  summary: Hafenstadt am Schwarzen Meer, bei der 1444 ein osmanisches Heer unter Murad II. ein Kreuzzugsheer unter König Władysław III. von Polen und Ungarn vernichtete.
+  regions: [suedosteuropa]
+  themes: [krieg-militaer]
+
+# Orte: Südliches und östliches Afrika
+- id: gross-simbabwe
+  name: Groß-Simbabwe
+  aliases: [Great Zimbabwe, Simbabwe-Ruinen]
+  coords: [30.9338, -20.2675]
+  categories: [stadt, fundstaette, hauptstadt]
+  modernName: bei Masvingo (Simbabwe)
+  summary: Ruinenstadt aus Trockenmauerwerk im Süden Simbabwes, im 13. bis 15. Jahrhundert Zentrum eines Staates, der am Goldhandel mit der Küste teilhatte; seit 1986 UNESCO-Welterbe.
+  regions: [suedliches-afrika]
+  themes: [archaeologie, imperien]
+- id: mapungubwe
+  name: Mapungubwe
+  coords: [29.3875, -22.1928]
+  categories: [stadt, fundstaette]
+  modernName: Limpopo (Südafrika)
+  summary: Siedlung am Zusammenfluss von Limpopo und Shashe, im 13. Jahrhundert Zentrum des ältesten bekannten Staates im südlichen Afrika; berühmt ist ein Nashorn aus Goldblech.
+  regions: [suedliches-afrika]
+  themes: [archaeologie]
+- id: khami
+  name: Khami
+  coords: [28.3750, -20.1570]
+  categories: [stadt, fundstaette]
+  modernName: bei Bulawayo (Simbabwe)
+  summary: Hauptort des Torwa-Staates im Südwesten Simbabwes (etwa 1450–1680), Nachfolger Groß-Simbabwes.
+  regions: [suedliches-afrika]
+  themes: [archaeologie]
+- id: sofala
+  name: Sofala
+  coords: [34.7300, -20.1500]
+  location: ungefaehr
+  categories: [stadt, hafen]
+  modernName: bei Beira (Mosambik)
+  summary: Hafen an der Küste des heutigen Mosambik, über den Gold aus dem Hochland nach Kilwa und in den Indischen Ozean gelangte.
+  regions: [ostafrika, indischer-ozean]
+  themes: [handelsnetze]
+- id: kilwa-kisiwani
+  name: Kilwa Kisiwani
+  aliases: [Kilwa, Quíloa]
+  coords: [39.5120, -8.9570]
+  categories: [stadt, hafen, fundstaette]
+  modernName: Region Lindi (Tansania)
+  summary: Insel-Stadt vor der Küste Tansanias, im 13. und 14. Jahrhundert die reichste Swahili-Stadt, die den Goldhandel aus Sofala kontrollierte; seit 1981 UNESCO-Welterbe.
+  regions: [ostafrika, indischer-ozean]
+  themes: [handelsnetze, archaeologie]
+- id: mombasa
+  name: Mombasa
+  coords: [39.6682, -4.0435]
+  categories: [stadt, hafen]
+  modernName: Mombasa (Kenia)
+  summary: Swahili-Hafenstadt, 1505 von den Portugiesen geplündert, ab 1593 mit dem portugiesischen Fort Jesus befestigt und 1698 von Oman erobert.
+  regions: [ostafrika, indischer-ozean]
+  themes: [handelsnetze]
+- id: malindi
+  name: Malindi
+  coords: [40.1169, -3.2192]
+  categories: [stadt, hafen]
+  modernName: Malindi (Kenia)
+  summary: Swahili-Stadt, deren Herrscher 1498 Vasco da Gama einen Lotsen für die Fahrt nach Indien stellte.
+  regions: [ostafrika, indischer-ozean]
+- id: sansibar
+  name: Sansibar
+  aliases: [Zanzibar, Unguja]
+  coords: [39.2026, -6.1659]
+  categories: [stadt, hafen]
+  modernName: Sansibar-Stadt (Tansania)
+  summary: Insel und Hafenstadt vor der Küste Tansanias, im 19. Jahrhundert Sitz der Sultane von Oman und Zentrum des ostafrikanischen Sklaven- und Gewürzhandels.
+  regions: [ostafrika, indischer-ozean]
+  themes: [handelsnetze, sklaverei-unfreiheit]
+- id: mogadischu
+  name: Mogadischu
+  aliases: [Mogadishu, Muqdisho]
+  coords: [45.3182, 2.0469]
+  categories: [stadt, hafen]
+  modernName: Mogadischu (Somalia)
+  summary: Hafenstadt am Horn von Afrika, im 13. und 14. Jahrhundert ein bedeutendes Handelszentrum, das Ibn Battuta 1331 besuchte.
+  regions: [ostafrika, indischer-ozean]
+  themes: [handelsnetze]
+
+# Orte: Angkor
+- id: angkor-wat
+  name: Angkor Wat
+  coords: [103.8670, 13.4125]
+  categories: [heiligtum, fundstaette]
+  modernName: bei Siem Reap (Kambodscha)
+  summary: Im 12. Jahrhundert unter Suryavarman II. errichteter Tempel für Vishnu, das größte religiöse Bauwerk der Welt; später buddhistisch genutzt und nie ganz verlassen.
+  regions: [suedostasien]
+  themes: [religion, kultur-kunst]
+- id: angkor-thom
+  name: Angkor Thom
+  aliases: [Bayon]
+  coords: [103.8586, 13.4412]
+  categories: [stadt, hauptstadt, heiligtum]
+  modernName: bei Siem Reap (Kambodscha)
+  summary: Von Jayavarman VII. um 1200 neu ummauerte Hauptstadt mit dem Bayon-Tempel und seinen über 200 lächelnden Steingesichtern im Zentrum.
+  regions: [suedostasien]
+  themes: [religion, imperien]
+- id: phnom-kulen
+  name: Phnom Kulen (Mahendraparvata)
+  aliases: [Mahendraparvata, Kulen-Berge]
+  coords: [104.1000, 13.5500]
+  location: ungefaehr
+  categories: [stadt, fundstaette, heiligtum]
+  modernName: Provinz Siem Reap (Kambodscha)
+  summary: Hochplateau nordöstlich von Angkor, auf dem Jayavarman II. 802 seine Herrschaft weihen ließ; LiDAR-Aufnahmen machten hier 2012 eine ganze Stadtanlage sichtbar.
+  regions: [suedostasien]
+  themes: [archaeologie]
+- id: west-baray
+  name: Westlicher Baray
+  aliases: [West Baray]
+  coords: [103.8200, 13.4450]
+  categories: [fundstaette]
+  modernName: bei Siem Reap (Kambodscha)
+  summary: Gewaltiges rechteckiges Wasserreservoir von etwa 8 mal 2 Kilometern aus dem 11. Jahrhundert, Teil des Wassersystems von Angkor.
+  regions: [suedostasien]
+  themes: [landwirtschaft, wissenschaft-technik]
+- id: hariharalaya
+  name: Hariharalaya (Roluos)
+  aliases: [Roluos]
+  coords: [103.9700, 13.3400]
+  categories: [stadt, fundstaette]
+  modernName: Roluos bei Siem Reap
+  summary: Frühe Hauptstadt der Khmer-Könige im 9. Jahrhundert, südöstlich des späteren Angkor.
+  regions: [suedostasien]
+- id: ayutthaya
+  name: Ayutthaya
+  coords: [100.5689, 14.3532]
+  categories: [stadt, hauptstadt]
+  modernName: Ayutthaya (Thailand)
+  summary: 1351 gegründete Hauptstadt eines siamesischen Königreichs, das im 14. und 15. Jahrhundert Angkor angriff und 1767 von birmanischen Truppen zerstört wurde.
+  regions: [suedostasien]
+- id: phnom-penh
+  name: Phnom Penh
+  coords: [104.9282, 11.5564]
+  categories: [stadt, hauptstadt]
+  modernName: Phnom Penh (Kambodscha)
+  summary: Stadt am Zusammenfluss von Mekong und Tonle Sap, ab dem 15. Jahrhundert zeitweise Residenz der Khmer-Könige und heute Hauptstadt Kambodschas.
+  regions: [suedostasien]
+
+# Orte: Heian-Japan
+- id: heian-kyo
+  name: Heian-kyō
+  aliases: [Kyōto, Kyoto, Miyako]
+  coords: [135.7681, 35.0116]
+  categories: [stadt, hauptstadt]
+  start: "794"
+  modernName: Kyōto (Japan)
+  summary: 794 nach dem Vorbild Chang'ans gegründete „Hauptstadt des Friedens“, bis 1869 Sitz des japanischen Kaiserhofs.
+  regions: [japan]
+  themes: [politik, kultur-kunst]
+- id: nagaoka-kyo
+  name: Nagaoka-kyō
+  coords: [135.6950, 34.9260]
+  categories: [stadt, hauptstadt]
+  modernName: Mukō (Präfektur Kyōto)
+  summary: Kurzlebige Hauptstadt Japans von 784 bis 794 zwischen Nara und Heian-kyō.
+  regions: [japan]
+- id: byodo-in
+  name: Byōdō-in
+  coords: [135.8070, 34.8890]
+  categories: [heiligtum]
+  modernName: Uji (Präfektur Kyōto)
+  summary: Landhaus eines Fujiwara-Regenten, 1052 in einen Tempel umgewandelt; die 1053 geweihte Phönixhalle verkörpert die Paradiesvorstellungen des Amida-Buddhismus.
+  regions: [japan]
+  themes: [religion, kultur-kunst]
+- id: dan-no-ura
+  name: Dan-no-ura
+  coords: [130.9500, 33.9600]
+  categories: [schlachtfeld]
+  modernName: Meerenge von Shimonoseki (Japan)
+  summary: Meerenge, in der 1185 die Seeschlacht stattfand, mit der der Genpei-Krieg und die Macht des Hauses Taira endeten.
+  regions: [japan]
+  themes: [krieg-militaer]
+- id: kamakura
+  name: Kamakura
+  coords: [139.5467, 35.3192]
+  categories: [stadt, hauptstadt]
+  modernName: Kamakura (Präfektur Kanagawa)
+  summary: Hauptquartier Minamoto no Yoritomos im Osten Japans und Sitz des ersten Shogunats (1185/1192–1333).
+  regions: [japan]
+  themes: [politik]

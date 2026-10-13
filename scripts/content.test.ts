@@ -43,7 +43,7 @@ describe('Inhaltsbestand', () => {
   })
   it('deckt alle Weltregionen ab', () => {
     const regions = new Set(articles.flatMap((a) => a.regions))
-    for (const r of ['italien', 'mesopotamien', 'aegypten', 'nubien', 'westafrika', 'china', 'suedasien', 'iran', 'deutschland', 'frankreich', 'mesoamerika', 'andenraum', 'britische-inseln']) {
+    for (const r of ['italien', 'mesopotamien', 'aegypten', 'nubien', 'westafrika', 'china', 'suedasien', 'iran', 'deutschland', 'frankreich', 'mesoamerika', 'andenraum', 'britische-inseln', 'suedliches-afrika', 'ostafrika', 'suedostasien', 'japan']) {
       expect(regions.has(r), r).toBe(true)
     }
   })
@@ -84,10 +84,14 @@ describe('Suche', () => {
     expect(titles('Harun al-Rashid')).toContain('harun-ar-raschid')
     expect(titles('Genghis Khan')).toContain('dschingis-khan')
     expect(titles('Montezuma')).toContain('moctezuma-ii')
+    expect(titles('Great Zimbabwe')).toContain('gross-simbabwe-swahili')
+    expect(titles('Kyoto')).toContain('heian-kyo')
   })
   it('findet Volltext in neuen Artikeln', () => {
     expect(titles('Spinning Jenny').slice(0, 3)).toContain('spinning-jenny')
     expect(titles('Algebra')).toContain('abbasiden-bagdad')
     expect(titles('Middle Passage')).toContain('transatlantischer-sklavenhandel')
+    expect(titles('Konstantinopel 1453').slice(0, 5)).toContain('eroberung-konstantinopels')
+    expect(titles('Angkor Wat')).toContain('angkor-wat')
   })
 })

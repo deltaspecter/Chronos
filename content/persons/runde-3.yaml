@@ -1,0 +1,228 @@
+# Personen: Konstantinopel 1453
+- id: mehmed-ii
+  name: Mehmed II.
+  aliases: [Mehmed der Eroberer, Fatih Sultan Mehmed, Mahomet II.]
+  born: "1432"
+  died: "1481"
+  roles: [Sultan]
+  summary: Osmanischer Sultan (1444–1446 und 1451–1481), der 1453 Konstantinopel eroberte und zur neuen Hauptstadt machte.
+  regions: [anatolien, suedosteuropa]
+  themes: [imperien, krieg-militaer, politik]
+  places: [istanbul, edirne, rumeli-hisari]
+  related: [konstantin-xi, murad-ii]
+- id: murad-ii
+  name: Murad II.
+  born: "1404"
+  died: "1451"
+  roles: [Sultan]
+  summary: Osmanischer Sultan, Vater Mehmeds II., der 1444 bei Warna ein Kreuzzugsheer besiegte.
+  regions: [anatolien, suedosteuropa]
+  themes: [imperien]
+  places: [edirne, varna]
+- id: konstantin-xi
+  name: Konstantin XI. Palaiologos
+  aliases: [Konstantin XI., Konstantinos Dragases]
+  born: "1405"
+  died: "1453-05-29"
+  roles: [Kaiser]
+  summary: Letzter byzantinischer Kaiser (1449–1453), der bei der Verteidigung Konstantinopels fiel; sein Leichnam wurde nie sicher identifiziert.
+  regions: [suedosteuropa]
+  themes: [politik, krieg-militaer]
+  places: [istanbul]
+- id: giovanni-giustiniani
+  name: Giovanni Giustiniani Longo
+  died: "1453"
+  roles: [Söldnerführer]
+  summary: Genuesischer Condottiere, der mit rund 700 Mann nach Konstantinopel kam und die Verteidigung der Landmauern leitete; seine Verwundung am 29. Mai 1453 trug zum Zusammenbruch bei.
+  regions: [italien, suedosteuropa]
+  themes: [krieg-militaer]
+  places: [istanbul]
+- id: loukas-notaras
+  name: Loukas Notaras
+  died: "1453"
+  roles: [Megas Dux, Politiker]
+  summary: Höchster Würdenträger am Hof Konstantins XI., Gegner der Kirchenunion mit Rom; nach der Eroberung mit seinen Söhnen hingerichtet.
+  regions: [suedosteuropa]
+  themes: [politik, religion]
+  places: [istanbul]
+- id: gennadios-scholarios
+  name: Gennadios II. Scholarios
+  aliases: [Georgios Scholarios]
+  born: "~1400"
+  died: "~1473"
+  roles: [Theologe, Patriarch]
+  summary: Byzantinischer Gelehrter und Wortführer der Unionsgegner, den Mehmed II. 1454 als ersten Patriarchen von Konstantinopel unter osmanischer Herrschaft einsetzte.
+  regions: [suedosteuropa]
+  themes: [religion]
+  places: [istanbul]
+- id: bessarion
+  name: Basilius Bessarion
+  aliases: [Bessarion, Johannes Bessarion]
+  born: "~1403"
+  died: "1472"
+  roles: [Theologe, Kardinal]
+  summary: Byzantinischer Gelehrter, Befürworter der Kirchenunion von 1439 und später Kardinal in Rom; seine griechische Bibliothek bildete den Grundstock der Biblioteca Marciana in Venedig.
+  regions: [suedosteuropa, italien]
+  themes: [religion, schrift-medien]
+  places: [florenz]
+
+# Personen: Südliches und östliches Afrika
+- id: al-hasan-ibn-sulaiman
+  name: al-Hasan ibn Sulaiman
+  aliases: [Abu l-Mawahib]
+  roles: [Sultan von Kilwa]
+  summary: Sultan von Kilwa im frühen 14. Jahrhundert, dessen Freigebigkeit Ibn Battuta 1331 rühmte; ihm wird der Bau des Palastes Husuni Kubwa zugeschrieben.
+  regions: [ostafrika]
+  themes: [politik]
+  places: [kilwa-kisiwani]
+- id: vasco-da-gama
+  name: Vasco da Gama
+  born: "~1469"
+  died: "1524"
+  roles: [Seefahrer, Vizekönig]
+  summary: Portugiesischer Seefahrer, der 1497–1499 um Afrika nach Indien segelte und dabei die Swahili-Küste anlief; später Vizekönig von Portugiesisch-Indien.
+  regions: [iberische-halbinsel, ostafrika, suedasien]
+  themes: [handelsnetze, imperien]
+  places: [malindi, mombasa]
+- id: karl-mauch
+  name: Karl Mauch
+  born: "1837"
+  died: "1875"
+  roles: [Geologe, Forschungsreisender]
+  summary: Württembergischer Forschungsreisender, der 1871 Groß-Simbabwe erreichte und die Ruinen fälschlich mit der Königin von Saba in Verbindung brachte.
+  regions: [suedliches-afrika, deutschland]
+  themes: [archaeologie]
+  places: [gross-simbabwe]
+- id: gertrude-caton-thompson
+  name: Gertrude Caton-Thompson
+  born: "1888"
+  died: "1985"
+  roles: [Archäologin]
+  summary: Britische Archäologin, die 1929 durch Grabungen nachwies, dass Groß-Simbabwe von Afrikanern im 2. Jahrtausend n. Chr. erbaut worden war.
+  regions: [britische-inseln, suedliches-afrika]
+  themes: [archaeologie]
+  places: [gross-simbabwe]
+
+# Personen: Angkor
+- id: jayavarman-ii
+  name: Jayavarman II.
+  died: "~835?"
+  roles: [König]
+  certainty: unsicher
+  summary: Khmer-König, der sich nach einer Inschrift von 1052 im Jahr 802 auf dem Phnom Kulen zum „Weltherrscher“ weihen ließ; gilt als Begründer des Reiches von Angkor.
+  regions: [suedostasien]
+  themes: [politik, religion]
+  places: [phnom-kulen, hariharalaya]
+- id: yasovarman-i
+  name: Yasovarman I.
+  roles: [König]
+  summary: Khmer-König (reg. 889 – um 910), der um 900 die Hauptstadt Yasodharapura im Gebiet von Angkor anlegte.
+  regions: [suedostasien]
+  themes: [politik]
+- id: suryavarman-ii
+  name: Suryavarman II.
+  died: "~1150"
+  roles: [König]
+  summary: Khmer-König (reg. 1113 – um 1150), unter dem Angkor Wat als Tempel für Vishnu und wohl als sein Grabtempel errichtet wurde.
+  regions: [suedostasien]
+  themes: [politik, religion]
+  places: [angkor-wat]
+- id: jayavarman-vii
+  name: Jayavarman VII.
+  born: "~1122?"
+  died: "~1218"
+  roles: [König]
+  summary: Buddhistischer Khmer-König (reg. 1181 – um 1218), der die Cham vertrieb, Angkor Thom mit dem Bayon errichtete und Krankenhäuser und Rasthäuser im ganzen Reich stiftete.
+  regions: [suedostasien]
+  themes: [politik, religion]
+  places: [angkor-thom]
+- id: zhou-daguan
+  name: Zhou Daguan
+  roles: [Gesandtschaftsmitglied, Autor]
+  summary: Chinesischer Diplomat, der 1296/97 mit einer Gesandtschaft der Yuan-Dynastie knapp ein Jahr in Angkor lebte und die einzige ausführliche Augenzeugenbeschreibung der Stadt verfasste.
+  regions: [china, suedostasien]
+  themes: [geschichtsschreibung]
+  places: [angkor-thom]
+- id: henri-mouhot
+  name: Henri Mouhot
+  born: "1826"
+  died: "1861"
+  roles: [Naturforscher]
+  summary: Französischer Naturforscher, dessen postum veröffentlichter Reisebericht Angkor in Europa bekannt machte; die Tempel waren Einheimischen und früheren Besuchern längst bekannt.
+  regions: [frankreich, suedostasien]
+  themes: [archaeologie]
+  places: [angkor-wat]
+
+# Personen: Heian-Japan
+- id: kanmu-tenno
+  name: Kanmu
+  aliases: [Kanmu-tennō, Kaiser Kanmu]
+  born: "737"
+  died: "806"
+  roles: [Kaiser]
+  summary: Japanischer Kaiser (781–806), der die Hauptstadt erst nach Nagaoka und 794 nach Heian-kyō verlegte.
+  regions: [japan]
+  themes: [politik]
+  places: [heian-kyo, nagaoka-kyo]
+- id: sugawara-no-michizane
+  name: Sugawara no Michizane
+  born: "845"
+  died: "903"
+  roles: [Gelehrter, Staatsmann]
+  summary: Gelehrter und Minister, auf dessen Rat 894 die Gesandtschaften an den Tang-Hof eingestellt wurden; von den Fujiwara verbannt, wird er heute als Gott der Gelehrsamkeit (Tenjin) verehrt.
+  regions: [japan]
+  themes: [politik, religion]
+- id: fujiwara-no-michinaga
+  name: Fujiwara no Michinaga
+  born: "966"
+  died: "1028"
+  roles: [Regent]
+  summary: Mächtigster Vertreter der Fujiwara, der als Schwiegervater und Großvater mehrerer Kaiser den Hof beherrschte; sein Tagebuch ist teilweise im Original erhalten.
+  regions: [japan]
+  themes: [politik]
+  places: [heian-kyo]
+- id: murasaki-shikibu
+  name: Murasaki Shikibu
+  born: "~973?"
+  died: "~1014?"
+  roles: [Hofdame, Schriftstellerin]
+  certainty: unsicher
+  summary: Hofdame der Kaiserin Shōshi und Verfasserin der „Geschichte vom Prinzen Genji“, eines der frühesten Romane der Weltliteratur; ihr eigentlicher Name ist unbekannt.
+  regions: [japan]
+  themes: [kultur-kunst]
+  places: [heian-kyo]
+- id: sei-shonagon
+  name: Sei Shōnagon
+  born: "~966?"
+  died: "~1025?"
+  roles: [Hofdame, Schriftstellerin]
+  certainty: unsicher
+  summary: Hofdame der Kaiserin Teishi und Verfasserin des „Kopfkissenbuchs“, einer Sammlung von Beobachtungen und Listen aus dem Hofleben.
+  regions: [japan]
+  themes: [kultur-kunst]
+  places: [heian-kyo]
+- id: ki-no-tsurayuki
+  name: Ki no Tsurayuki
+  born: "~872"
+  died: "945"
+  roles: [Dichter, Beamter]
+  summary: Dichter und Mitherausgeber des „Kokinshū“, dessen Vorwort in Kana die Dichtung in japanischer Sprache begründete; schrieb als Frau verkleidet das „Tosa-Tagebuch“.
+  regions: [japan]
+  themes: [kultur-kunst, schrift-medien]
+- id: taira-no-kiyomori
+  name: Taira no Kiyomori
+  born: "1118"
+  died: "1181"
+  roles: [Heerführer, Staatsmann]
+  summary: Anführer des Kriegerhauses Taira, der als erster Krieger den Hof beherrschte; kurz nach seinem Tod unterlagen die Taira im Genpei-Krieg.
+  regions: [japan]
+  themes: [politik, krieg-militaer]
+- id: minamoto-no-yoritomo
+  name: Minamoto no Yoritomo
+  born: "1147"
+  died: "1199"
+  roles: [Shōgun]
+  summary: Anführer der Minamoto im Genpei-Krieg, der in Kamakura eine eigene Kriegerregierung aufbaute und 1192 zum Shōgun ernannt wurde.
+  regions: [japan]
+  themes: [politik, krieg-militaer]
+  places: [kamakura]

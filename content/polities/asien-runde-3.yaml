@@ -1,0 +1,71 @@
+- id: khmer-reich
+  name: Khmer-Reich (Angkor)
+  aliases: [Angkor-Reich, Kambuja, Khmer-Imperium]
+  start: "802"
+  end: "~1431"
+  spanNote: 802 gilt nach einer späteren Inschrift als Gründungsjahr; das traditionelle Enddatum 1431 (Eroberung Angkors durch Ayutthaya) ist umstritten – der Bedeutungsverlust Angkors war ein längerer Prozess.
+  capital: angkor-thom
+  summary: Königreich der Khmer mit Zentrum in Angkor, das auf seinem Höhepunkt im 12. und frühen 13. Jahrhundert große Teile des heutigen Kambodscha, Thailands, Laos und Südvietnams beherrschte.
+  regions: [suedostasien]
+  themes: [imperien, religion]
+  weight: 1
+- id: champa
+  name: Champa
+  aliases: [Cham-Reiche]
+  start: "~200"
+  end: "1832"
+  summary: Reiche der Cham an der Küste des heutigen Mittel- und Südvietnam, Rivalen der Khmer; 1177 plünderten sie Angkor.
+  regions: [suedostasien]
+  themes: [imperien]
+  weight: 3
+- id: ayutthaya-reich
+  name: Königreich Ayutthaya
+  aliases: [Siam, Ayutthaya]
+  start: "1351"
+  end: "1767"
+  capital: ayutthaya
+  summary: Siamesisches Königreich im Tal des Chao Phraya, Vorläufer des heutigen Thailand, das das Khmer-Reich zurückdrängte.
+  regions: [suedostasien]
+  themes: [imperien]
+  weight: 2
+- id: japan-ritsuryo
+  name: Japanischer Kaiserstaat (Nara- und Heian-Zeit)
+  aliases: [Ritsuryō-Staat, Heian-Japan, Yamato]
+  start: "~700"
+  end: "1185"
+  spanNote: Der nach chinesischem Vorbild organisierte Staat entstand um 700; 1185 übernahm mit dem Kamakura-Shogunat eine Kriegerregierung die tatsächliche Macht, der Kaiserhof bestand fort.
+  capital: heian-kyo
+  summary: Der nach dem Vorbild der Tang organisierte japanische Kaiserstaat mit Hauptstädten in Nara (ab 710) und Heian-kyō (ab 794).
+  regions: [japan]
+  themes: [politik]
+  successors: [kamakura-shogunat]
+  weight: 2
+- id: kamakura-shogunat
+  name: Kamakura-Shogunat
+  aliases: [Kamakura-Bakufu]
+  start: "1185"
+  end: "1333"
+  capital: kamakura
+  summary: Erste Kriegerregierung Japans unter einem Shōgun mit Sitz in Kamakura, neben dem fortbestehenden Kaiserhof in Kyōto.
+  regions: [japan]
+  themes: [politik, krieg-militaer]
+  predecessors: [japan-ritsuryo]
+  weight: 2
+- id: republik-venedig
+  name: Republik Venedig
+  aliases: [Venedig, Serenissima]
+  start: "~697"
+  end: "1797"
+  summary: Seerepublik in der Lagune von Venedig mit Handelsstützpunkten im östlichen Mittelmeer, wichtiger Partner und Rivale von Byzanz und den Osmanen.
+  regions: [italien, mittelmeer]
+  themes: [handelsnetze]
+  weight: 2
+- id: republik-genua
+  name: Republik Genua
+  aliases: [Genua]
+  start: "~1099"
+  end: "1797"
+  summary: Ligurische Seerepublik mit Kolonien am Schwarzen Meer und in Galata, Rivalin Venedigs.
+  regions: [italien, mittelmeer]
+  themes: [handelsnetze]
+  weight: 3

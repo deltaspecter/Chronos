@@ -298,5 +298,40 @@
     "author": "Plymouth Chapter of the Society for Effecting the Abolition of the Slave Trade",
     "license": "Public domain",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Slaveshipposter.jpg"
+  },
+  "mehmed-ii-bellini": {
+    "file": "mehmed-ii-bellini.jpg",
+    "width": 889,
+    "height": 1200,
+    "author": "Gentile Bellini",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bellini,_Gentile_-_Sultan_Mehmet_II.jpg"
+  },
+  "angkor-wat-ansicht": {
+    "file": "angkor-wat-ansicht.jpg",
+    "width": 1200,
+    "height": 816,
+    "author": "Bjørn Christian Tørrissen",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Angkor_Wat.jpg"
+  },
+  "gross-simbabwe-ruinen": {
+    "file": "gross-simbabwe-ruinen.jpg",
+    "width": 1200,
+    "height": 800,
+    "author": "Todinirunganga",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_Zimbabwe.jpg"
+  },
+  "byodo-in-phoenixhalle": {
+    "file": "byodo-in-phoenixhalle.jpg",
+    "width": 1200,
+    "height": 799,
+    "author": "663highland",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Byodoin_Phoenix_Hall_Uji_2009.jpg"
   }
 }

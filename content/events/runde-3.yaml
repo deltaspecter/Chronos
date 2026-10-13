@@ -1,0 +1,400 @@
+# --- Byzanz und Osmanen ---
+- id: schlacht-auf-dem-amselfeld
+  title: Schlacht auf dem Amselfeld
+  aliases: [Schlacht am Kosovo Polje]
+  date: "1389-06-15"
+  weight: 3
+  kind: schlacht
+  summary: Ein osmanisches Heer unter Murad I. kämpft gegen ein serbisch geführtes Bündnis; beide Herrscher fallen, die osmanische Vorherrschaft auf dem Balkan festigt sich.
+  regions: [suedosteuropa]
+  themes: [krieg-militaer]
+  polities: [osmanisches-reich]
+- id: schlacht-bei-ankara-1402
+  title: Schlacht bei Ankara
+  date: "1402-07-20"
+  weight: 3
+  kind: schlacht
+  summary: Timur besiegt und fängt Sultan Bayezid I.; das Osmanische Reich zerfällt vorübergehend in einen Bruderkrieg, Konstantinopel gewinnt eine Atempause.
+  regions: [anatolien]
+  themes: [krieg-militaer]
+  places: [ankyra]
+  polities: [osmanisches-reich]
+- id: union-von-florenz
+  title: Kirchenunion von Florenz
+  date: "1439-07-06"
+  weight: 3
+  kind: vertrag
+  summary: Auf einem Konzil in Florenz vereinbaren Vertreter der lateinischen und der griechischen Kirche eine Union; in Byzanz stößt sie auf breite Ablehnung.
+  regions: [italien, suedosteuropa]
+  themes: [religion]
+  places: [florenz]
+  persons: [bessarion]
+  polities: [byzantinisches-reich]
+- id: schlacht-bei-warna
+  title: Schlacht bei Warna
+  date: "1444-11-10"
+  weight: 3
+  kind: schlacht
+  summary: Murad II. vernichtet ein Kreuzzugsheer unter König Władysław III.; der letzte große Versuch, Konstantinopel von Westen her zu entlasten, scheitert.
+  regions: [suedosteuropa]
+  themes: [krieg-militaer]
+  places: [varna]
+  persons: [murad-ii]
+  polities: [osmanisches-reich]
+- id: bau-rumeli-hisari
+  title: Bau der Festung Rumeli Hisarı
+  date: "1452"
+  weight: 3
+  kind: ereignis
+  summary: Mehmed II. lässt am Bosporus in wenigen Monaten eine Festung errichten, die Konstantinopel vom Schwarzen Meer abschneidet.
+  regions: [suedosteuropa]
+  themes: [krieg-militaer]
+  places: [rumeli-hisari]
+  persons: [mehmed-ii]
+  polities: [osmanisches-reich]
+- id: unionsfeier-1452
+  title: Verkündung der Kirchenunion in der Hagia Sophia
+  date: "1452-12-12"
+  weight: 3
+  kind: ereignis
+  summary: In der Hagia Sophia wird die Union mit Rom feierlich verkündet, um westliche Hilfe zu gewinnen; viele Bewohner meiden daraufhin die Kirche.
+  regions: [suedosteuropa]
+  themes: [religion]
+  places: [hagia-sophia]
+  persons: [konstantin-xi, loukas-notaras, gennadios-scholarios]
+  polities: [byzantinisches-reich]
+- id: belagerung-konstantinopels-1453
+  title: Belagerung Konstantinopels
+  start: "1453-04-06"
+  end: "1453-05-29"
+  weight: 2
+  kind: krieg
+  summary: Ein osmanisches Heer mit großen Bronzekanonen belagert die Stadt, deren Verteidiger nur einige tausend Mann zählen; am 22. April lässt Mehmed Schiffe über Land ins Goldene Horn ziehen.
+  regions: [suedosteuropa]
+  themes: [krieg-militaer]
+  places: [istanbul, galata]
+  persons: [mehmed-ii, konstantin-xi, giovanni-giustiniani]
+  polities: [osmanisches-reich, byzantinisches-reich, republik-venedig, republik-genua]
+- id: fall-konstantinopels
+  title: Eroberung Konstantinopels
+  date: "1453-05-29"
+  weight: 1
+  kind: krieg
+  summary: Osmanische Truppen stürmen die Stadt; Kaiser Konstantin XI. fällt, die Stadt wird geplündert, die Hagia Sophia in eine Moschee umgewandelt. Konstantinopel wird Hauptstadt des Osmanischen Reiches.
+  regions: [suedosteuropa, anatolien]
+  themes: [krieg-militaer, imperien, religion]
+  places: [istanbul, hagia-sophia]
+  persons: [mehmed-ii, konstantin-xi, giovanni-giustiniani, loukas-notaras]
+  polities: [osmanisches-reich, byzantinisches-reich]
+- id: einsetzung-gennadios
+  title: Gennadios wird Patriarch unter osmanischer Herrschaft
+  date: "1454-01"
+  weight: 3
+  kind: ereignis
+  summary: Mehmed II. setzt den Unionsgegner Gennadios Scholarios als Patriarchen ein und macht ihn zum Oberhaupt der orthodoxen Christen seines Reiches.
+  regions: [suedosteuropa]
+  themes: [religion, politik]
+  places: [istanbul]
+  persons: [mehmed-ii, gennadios-scholarios]
+  polities: [osmanisches-reich]
+- id: fall-von-trapezunt
+  title: Fall von Trapezunt
+  date: "1461"
+  weight: 3
+  kind: krieg
+  summary: Mehmed II. erobert das Kaiserreich Trapezunt an der Schwarzmeerküste, den letzten byzantinischen Nachfolgestaat.
+  regions: [anatolien]
+  themes: [krieg-militaer]
+  persons: [mehmed-ii]
+  polities: [osmanisches-reich]
+- id: hagia-sophia-museum
+  title: Die Hagia Sophia wird Museum
+  date: "1934"
+  weight: 3
+  kind: ereignis
+  summary: Die Regierung der Republik Türkei unter Atatürk wandelt die Moschee in ein Museum um; 2020 wird sie per Gerichtsentscheid und Präsidialdekret wieder zur Moschee.
+  regions: [anatolien]
+  themes: [religion, politik]
+  places: [hagia-sophia]
+
+# --- Südliches und östliches Afrika ---
+- id: mapungubwe-bluete
+  title: Blüte von Mapungubwe
+  start: "~1220"
+  end: "~1290"
+  certainty: wahrscheinlich
+  weight: 3
+  kind: entwicklung
+  summary: Am Limpopo entsteht der älteste bekannte Staat im südlichen Afrika mit einer Elite auf dem Hügel und Handel bis an den Indischen Ozean.
+  regions: [suedliches-afrika]
+  themes: [imperien, archaeologie]
+  places: [mapungubwe]
+  polities: [mapungubwe-staat]
+- id: bluete-gross-simbabwes
+  title: Blütezeit Groß-Simbabwes
+  start: "~1300"
+  end: "~1450"
+  certainty: wahrscheinlich
+  weight: 2
+  kind: entwicklung
+  summary: Die Steinmauern der Großen Einfriedung entstehen; Groß-Simbabwe ist das politische und religiöse Zentrum eines weiträumigen Staates.
+  regions: [suedliches-afrika]
+  themes: [imperien, archaeologie]
+  places: [gross-simbabwe]
+  polities: [simbabwe-staat]
+- id: ibn-battuta-in-kilwa
+  title: Ibn Battuta besucht die Swahili-Küste
+  date: "1331"
+  weight: 3
+  kind: ereignis
+  summary: Der marokkanische Reisende besucht Mogadischu, Mombasa und Kilwa und beschreibt Kilwa als eine der schönsten und am besten gebauten Städte.
+  regions: [ostafrika]
+  themes: [handelsnetze, religion]
+  places: [kilwa-kisiwani, mombasa, mogadischu]
+  persons: [ibn-battuta, al-hasan-ibn-sulaiman]
+  polities: [sultanat-kilwa]
+- id: gama-in-malindi
+  title: Vasco da Gama in Malindi
+  date: "1498-04"
+  weight: 3
+  kind: ereignis
+  summary: Nach Feindseligkeiten in Mombasa findet die portugiesische Flotte in Malindi Unterstützung und einen Lotsen für die Überfahrt nach Indien.
+  regions: [ostafrika, indischer-ozean]
+  themes: [handelsnetze]
+  places: [malindi, mombasa]
+  persons: [vasco-da-gama]
+- id: pluenderung-kilwas
+  title: Portugiesen plündern Kilwa und Mombasa
+  date: "1505"
+  weight: 3
+  kind: krieg
+  summary: Eine portugiesische Flotte unter Francisco de Almeida erobert Kilwa und plündert Mombasa, um den Goldhandel unter Kontrolle zu bringen.
+  regions: [ostafrika]
+  themes: [krieg-militaer, imperien]
+  places: [kilwa-kisiwani, mombasa]
+  polities: [sultanat-kilwa]
+- id: oman-erobert-mombasa
+  title: Oman erobert Fort Jesus in Mombasa
+  date: "1698-12"
+  weight: 3
+  kind: krieg
+  summary: Nach fast dreijähriger Belagerung erobern Truppen des Imams von Oman die portugiesische Festung; die portugiesische Macht nördlich von Mosambik bricht zusammen.
+  regions: [ostafrika]
+  themes: [krieg-militaer]
+  places: [mombasa]
+- id: mauch-in-gross-simbabwe
+  title: Karl Mauch erreicht Groß-Simbabwe
+  date: "1871-09"
+  weight: 3
+  kind: entdeckung
+  summary: Der württembergische Forschungsreisende beschreibt die Ruinen und schreibt sie fälschlich Fremden zu – der Beginn eines langen kolonialen Mythos.
+  regions: [suedliches-afrika]
+  themes: [archaeologie, geschichtsschreibung]
+  places: [gross-simbabwe]
+  persons: [karl-mauch]
+- id: caton-thompson-grabung
+  title: Caton-Thompsons Grabungen in Groß-Simbabwe
+  date: "1929"
+  weight: 3
+  kind: entdeckung
+  summary: Die Archäologin Gertrude Caton-Thompson weist nach, dass Groß-Simbabwe ein afrikanisches Bauwerk aus dem 2. Jahrtausend n. Chr. ist.
+  regions: [suedliches-afrika]
+  themes: [archaeologie]
+  places: [gross-simbabwe]
+  persons: [gertrude-caton-thompson]
+- id: unabhaengigkeit-simbabwes
+  title: Unabhängigkeit Simbabwes
+  date: "1980-04-18"
+  weight: 2
+  kind: gruendung
+  summary: Das frühere Rhodesien wird als Simbabwe unabhängig – benannt nach der Ruinenstadt, deren Vogelskulptur im Staatswappen und in der Flagge erscheint.
+  regions: [suedliches-afrika]
+  themes: [politik]
+  places: [gross-simbabwe]
+
+# --- Angkor ---
+- id: weihe-jayavarmans-ii
+  title: Weihe Jayavarmans II. auf dem Phnom Kulen
+  date: "802"
+  certainty: wahrscheinlich
+  dateNote: Datum nach der Inschrift von Sdok Kak Thom aus dem Jahr 1052.
+  weight: 2
+  kind: herrschaft
+  summary: Jayavarman II. lässt sich zum Weltherrscher (cakravartin) weihen und erklärt das Land für unabhängig von „Java“ – der konventionelle Beginn des Reiches von Angkor.
+  regions: [suedostasien]
+  themes: [politik, religion]
+  places: [phnom-kulen]
+  persons: [jayavarman-ii]
+  polities: [khmer-reich]
+- id: gruendung-yasodharapura
+  title: Gründung von Yasodharapura
+  date: "~900"
+  weight: 3
+  kind: gruendung
+  summary: Yasovarman I. legt im Gebiet von Angkor eine neue Hauptstadt um den Tempelberg Phnom Bakheng an.
+  regions: [suedostasien]
+  themes: [politik]
+  persons: [yasovarman-i]
+  polities: [khmer-reich]
+- id: bau-von-angkor-wat
+  title: Bau von Angkor Wat
+  start: "~1113"
+  end: "~1150"
+  weight: 2
+  kind: entwicklung
+  summary: Unter Suryavarman II. entsteht der größte Tempel der Khmer, geweiht dem Gott Vishnu.
+  regions: [suedostasien]
+  themes: [religion, kultur-kunst]
+  places: [angkor-wat]
+  persons: [suryavarman-ii]
+  polities: [khmer-reich]
+- id: cham-pluendern-angkor
+  title: Die Cham plündern Angkor
+  date: "1177"
+  weight: 3
+  kind: krieg
+  summary: Eine Flotte aus Champa fährt den Mekong und den Tonle Sap hinauf und plündert die Hauptstadt der Khmer.
+  regions: [suedostasien]
+  themes: [krieg-militaer]
+  polities: [khmer-reich, champa]
+- id: herrschaft-jayavarmans-vii
+  title: Regierung Jayavarmans VII.
+  start: "1181"
+  end: "~1218"
+  weight: 2
+  kind: herrschaft
+  summary: Der buddhistische König vertreibt die Cham, baut Angkor Thom mit dem Bayon und stiftet Krankenhäuser und Rasthäuser im ganzen Reich.
+  regions: [suedostasien]
+  themes: [politik, religion]
+  places: [angkor-thom]
+  persons: [jayavarman-vii]
+  polities: [khmer-reich]
+- id: zhou-daguan-in-angkor
+  title: Zhou Daguan in Angkor
+  start: "1296"
+  end: "1297"
+  weight: 3
+  kind: ereignis
+  summary: Ein Mitglied einer chinesischen Gesandtschaft lebt knapp ein Jahr in Angkor und hinterlässt die einzige ausführliche Beschreibung der Stadt.
+  regions: [suedostasien]
+  themes: [geschichtsschreibung]
+  places: [angkor-thom]
+  persons: [zhou-daguan]
+  polities: [khmer-reich, yuan-dynastie]
+- id: ayutthaya-erobert-angkor
+  title: Ayutthaya erobert Angkor
+  date: "1431"
+  certainty: umstritten
+  dateNote: Das Datum stammt aus späteren Chroniken; ob und wie es zum „Fall“ Angkors kam, ist umstritten.
+  weight: 3
+  kind: krieg
+  summary: Nach der Überlieferung erobern siamesische Truppen Angkor; der Königshof verlagert sich in den folgenden Jahrzehnten in die Gegend von Phnom Penh.
+  regions: [suedostasien]
+  themes: [krieg-militaer]
+  places: [angkor-thom, ayutthaya, phnom-penh]
+  polities: [khmer-reich, ayutthaya-reich]
+- id: mouhot-in-angkor
+  title: Henri Mouhot in Angkor
+  date: "1860"
+  weight: 3
+  kind: ereignis
+  summary: Der französische Naturforscher besucht die Tempel; sein postum veröffentlichter Bericht macht Angkor in Europa bekannt.
+  regions: [suedostasien]
+  themes: [archaeologie]
+  places: [angkor-wat]
+  persons: [henri-mouhot]
+
+# --- Heian-Japan ---
+- id: gruendung-heian-kyo
+  title: Verlegung der Hauptstadt nach Heian-kyō
+  date: "794"
+  weight: 1
+  kind: gruendung
+  summary: Kaiser Kanmu verlegt die Hauptstadt in die neu angelegte Stadt Heian-kyō, das heutige Kyōto – Beginn der Heian-Zeit.
+  regions: [japan]
+  themes: [politik]
+  places: [heian-kyo, nagaoka-kyo]
+  persons: [kanmu-tenno]
+  polities: [japan-ritsuryo]
+- id: ende-der-tang-gesandtschaften
+  title: Ende der Gesandtschaften an den Tang-Hof
+  date: "894"
+  weight: 3
+  kind: ereignis
+  summary: Auf Rat Sugawara no Michizanes wird eine geplante Gesandtschaft nach China abgesagt; offizielle Gesandtschaften finden danach nicht mehr statt.
+  regions: [japan, china]
+  themes: [politik]
+  persons: [sugawara-no-michizane]
+  polities: [japan-ritsuryo, tang-dynastie]
+- id: kokinshu
+  title: Zusammenstellung des Kokinshū
+  date: "~905"
+  weight: 3
+  kind: ereignis
+  summary: Im kaiserlichen Auftrag entsteht die erste Anthologie von Gedichten in japanischer Sprache, mit einem Vorwort in Kana.
+  regions: [japan]
+  themes: [kultur-kunst, schrift-medien]
+  persons: [ki-no-tsurayuki]
+  polities: [japan-ritsuryo]
+- id: genji-1008
+  title: Erste Erwähnung der Geschichte vom Prinzen Genji
+  date: "1008"
+  weight: 3
+  kind: ereignis
+  summary: Im Tagebuch Murasaki Shikibus wird der Roman erstmals erwähnt, der zu dieser Zeit am Hof gelesen wird.
+  regions: [japan]
+  themes: [kultur-kunst]
+  places: [heian-kyo]
+  persons: [murasaki-shikibu, fujiwara-no-michinaga]
+- id: michinaga-regent
+  title: Fujiwara no Michinaga wird Regent
+  date: "1016"
+  weight: 3
+  kind: herrschaft
+  summary: Michinaga wird Regent für seinen Enkel, den jungen Kaiser Go-Ichijō; die Macht der Fujiwara erreicht ihren Höhepunkt.
+  regions: [japan]
+  themes: [politik]
+  places: [heian-kyo]
+  persons: [fujiwara-no-michinaga]
+  polities: [japan-ritsuryo]
+- id: weihe-phoenixhalle
+  title: Weihe der Phönixhalle des Byōdō-in
+  date: "1053"
+  weight: 3
+  kind: ereignis
+  summary: Der Regent Fujiwara no Yorimichi lässt im Jahr nach dem erwarteten Beginn des „Endzeitalters des Dharma“ eine Halle für den Buddha Amida weihen.
+  regions: [japan]
+  themes: [religion, kultur-kunst]
+  places: [byodo-in]
+- id: beginn-insei
+  title: Beginn der Herrschaft abgedankter Kaiser
+  date: "1086"
+  weight: 3
+  kind: herrschaft
+  summary: Kaiser Shirakawa dankt ab und regiert als „zurückgezogener Kaiser“ weiter; die Macht der Fujiwara-Regenten geht zurück.
+  regions: [japan]
+  themes: [politik]
+  polities: [japan-ritsuryo]
+- id: genpei-krieg
+  title: Genpei-Krieg
+  start: "1180"
+  end: "1185"
+  weight: 2
+  kind: krieg
+  summary: Die Kriegerhäuser Minamoto und Taira kämpfen um die Vorherrschaft; mit der Seeschlacht von Dan-no-ura 1185 siegen die Minamoto.
+  regions: [japan]
+  themes: [krieg-militaer]
+  places: [dan-no-ura, kamakura]
+  persons: [minamoto-no-yoritomo, taira-no-kiyomori]
+  polities: [japan-ritsuryo, kamakura-shogunat]
+- id: yoritomo-shogun
+  title: Minamoto no Yoritomo wird Shōgun
+  date: "1192"
+  weight: 3
+  kind: herrschaft
+  summary: Der Kaiserhof ernennt Yoritomo zum Shōgun; das Kamakura-Shogunat begründet die Herrschaft der Krieger in Japan.
+  regions: [japan]
+  themes: [politik]
+  places: [kamakura]
+  persons: [minamoto-no-yoritomo]
+  polities: [kamakura-shogunat]

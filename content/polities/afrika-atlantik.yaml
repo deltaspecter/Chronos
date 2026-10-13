@@ -27,3 +27,48 @@
   regions: [westafrika]
   themes: [imperien]
   weight: 2
+- id: mapungubwe-staat
+  name: Staat von Mapungubwe
+  aliases: [Mapungubwe-Königreich]
+  start: "~1220"
+  end: "~1290"
+  capital: mapungubwe
+  summary: Ältester bekannter Staat im südlichen Afrika am mittleren Limpopo, mit einer abgesetzten Elite auf einem Hügel und Handelsbeziehungen zur Küste des Indischen Ozeans.
+  regions: [suedliches-afrika]
+  themes: [imperien]
+  successors: [simbabwe-staat]
+  weight: 3
+- id: simbabwe-staat
+  name: Staat von Groß-Simbabwe
+  aliases: [Zimbabwe-Staat, Königreich Simbabwe]
+  start: "~1250"
+  end: "~1450"
+  spanNote: Daten nach archäologischen Befunden; Beginn und Ende sind nur ungefähr bestimmbar.
+  capital: gross-simbabwe
+  summary: Staat der Vorfahren der heutigen Shona mit Zentrum in Groß-Simbabwe, der Viehzucht, Landwirtschaft und den Goldhandel mit der Swahili-Küste kontrollierte.
+  regions: [suedliches-afrika]
+  themes: [imperien, handelsnetze]
+  predecessors: [mapungubwe-staat]
+  successors: [mutapa-reich]
+  weight: 2
+- id: mutapa-reich
+  name: Mutapa-Reich
+  aliases: [Monomotapa, Mwenemutapa]
+  start: "~1430"
+  end: "~1760"
+  summary: Nachfolgestaat Groß-Simbabwes im Norden des heutigen Simbabwe, der im 16. und 17. Jahrhundert mit portugiesischen Händlern und Eroberern rang.
+  regions: [suedliches-afrika]
+  themes: [imperien]
+  predecessors: [simbabwe-staat]
+  weight: 3
+- id: sultanat-kilwa
+  name: Sultanat Kilwa
+  aliases: [Kilwa]
+  start: "~1000?"
+  end: "1505"
+  spanNote: Die Chronik von Kilwa setzt die Gründung ins 10. Jahrhundert; archäologisch ist eine bedeutende Stadt ab dem 11./12. Jahrhundert belegt. 1505 eroberten die Portugiesen die Stadt.
+  capital: kilwa-kisiwani
+  summary: Mächtigster Stadtstaat der Swahili-Küste im 13. und 14. Jahrhundert, reich durch die Kontrolle des Goldhandels aus Sofala.
+  regions: [ostafrika]
+  themes: [handelsnetze]
+  weight: 2

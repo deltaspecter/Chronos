@@ -1,0 +1,77 @@
+- id: sultan
+  name: Sultan
+  aliases: [Sultanat]
+  definition: „Herrschaft, Macht“ – Titel muslimischer Herrscher, der ab dem 11. Jahrhundert neben dem des Kalifen für die tatsächliche politische Macht stand; die Osmanen führten ihn bis 1922.
+  themes: [politik]
+- id: janitscharen
+  name: Janitscharen
+  aliases: [Yeniçeri]
+  definition: Infanterie-Elitetruppe der Osmanen, ursprünglich aus Kriegsgefangenen und später aus der „Knabenlese“ rekrutiert; 1826 aufgelöst.
+  themes: [krieg-militaer, sklaverei-unfreiheit]
+- id: knabenlese
+  name: Knabenlese
+  aliases: [Devşirme, Devschirme]
+  definition: Osmanische Praxis, christliche Jungen vor allem vom Balkan auszuheben, zum Islam zu bekehren und für Armee und Verwaltung auszubilden; aus ihnen gingen Janitscharen und Großwesire hervor.
+  themes: [sklaverei-unfreiheit, politik]
+- id: kirchenunion
+  name: Kirchenunion
+  aliases: [Union von Florenz, Union der Kirchen]
+  definition: Die angestrebte Wiedervereinigung der lateinischen und der orthodoxen Kirche, die seit dem 11. Jahrhundert getrennt waren; die in Florenz 1439 beschlossene Union scheiterte am Widerstand in der Orthodoxie.
+  themes: [religion]
+- id: dzimba-dza-mabwe
+  name: Zimbabwe (Begriff)
+  aliases: [dzimba dza mabwe, Simbabwe]
+  definition: Shona-Wort für einen Herrschersitz oder ein Gehöft aus Stein, meist als „Häuser aus Stein“ gedeutet; im südlichen Afrika sind über 200 solcher Anlagen bekannt.
+  themes: [archaeologie]
+- id: swahili
+  name: Swahili
+  aliases: [Kiswahili, Suaheli, Swahili-Kultur]
+  definition: Bantusprache und städtische Kultur der ostafrikanischen Küste, geprägt vom Handel über den Indischen Ozean und vom Islam; der Name leitet sich vom arabischen sawahil („Küsten“) ab.
+  themes: [handelsnetze, schrift-medien]
+- id: monsunhandel
+  name: Monsunhandel
+  definition: Fernhandel im Indischen Ozean, der die jahreszeitlich wechselnden Monsunwinde nutzte – im Winter nach Südwesten, im Sommer nach Nordosten –, um zwischen Ostafrika, Arabien, Indien und Südostasien zu segeln.
+  themes: [handelsnetze, umwelt-klima]
+- id: devaraja
+  name: Devaraja
+  aliases: [Gottkönig, Devarāja]
+  definition: Sanskrit „Gott-König“ – Bezeichnung eines Kultes, der in einer Khmer-Inschrift mit der Gründung des Reiches 802 verbunden wird; ob er eine Vergöttlichung des Königs bedeutete, ist umstritten.
+  themes: [religion, politik]
+- id: baray
+  name: Baray
+  definition: Großes, rechteckiges künstliches Wasserbecken der Khmer, umgeben von Erdwällen; ob die Barays vor allem der Bewässerung oder der religiösen Symbolik dienten, wird diskutiert.
+  themes: [landwirtschaft, wissenschaft-technik]
+- id: tempelberg
+  name: Tempelberg
+  definition: Stufenpyramide als Abbild des Weltenbergs Meru, Wohnsitz der Götter in der hinduistischen und buddhistischen Kosmologie; Grundform der großen Staatstempel von Angkor.
+  themes: [religion, kultur-kunst]
+- id: kana
+  name: Kana
+  aliases: [Hiragana, Katakana]
+  definition: Japanische Silbenschriften, die im 9. Jahrhundert aus vereinfachten chinesischen Schriftzeichen entstanden; in Hiragana schrieben vor allem Hofdamen die großen Werke der Heian-Literatur.
+  themes: [schrift-medien]
+- id: sekkan-regentschaft
+  name: Sekkan-Regentschaft
+  aliases: [Sesshō, Kampaku, Fujiwara-Regentschaft]
+  definition: Herrschaftsform der Heian-Zeit, in der Angehörige der Fujiwara als Regenten (sesshō) für minderjährige oder Kanzler (kampaku) für erwachsene Kaiser die Regierung führten, meist als deren Schwiegerväter oder Großväter.
+  themes: [politik]
+- id: shoen
+  name: Shōen
+  aliases: [Grundherrschaft]
+  definition: Steuerbefreite private Landgüter von Adel, Tempeln und Schreinen, die sich ab dem 8. Jahrhundert ausbreiteten und die staatliche Steuerbasis aushöhlten.
+  themes: [wirtschaft-handel, landwirtschaft]
+- id: samurai
+  name: Samurai
+  aliases: [Bushi, Krieger]
+  definition: Berittene Krieger, ursprünglich Dienstleute des Hofadels und der Provinzverwaltung, die ab dem 12. Jahrhundert die politische Macht in Japan übernahmen; als Stand 1876 abgeschafft.
+  themes: [krieg-militaer, gesellschaft]
+- id: mappo
+  name: Mappō
+  aliases: [Endzeitalter des Dharma]
+  definition: Buddhistische Vorstellung eines Zeitalters des Verfalls der Lehre, das nach japanischer Berechnung 1052 begann; sie förderte die Hinwendung zum Amida-Buddhismus und zur Hoffnung auf Wiedergeburt im Reinen Land.
+  themes: [religion]
+- id: shogun
+  name: Shōgun
+  aliases: [Shogun, Shogunat, Bakufu]
+  definition: Ursprünglich Titel eines Feldherrn gegen die Emishi, ab 1192 Titel der Oberhäupter der Kriegerregierungen (bakufu), die Japan bis 1868 neben dem Kaiserhof beherrschten.
+  themes: [politik, krieg-militaer]
