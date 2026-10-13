@@ -1,0 +1,38 @@
+- id: industrielle-revolution
+  name: Industrielle Revolution
+  aliases: [Industrialisierung]
+  definition: Der Übergang von Wirtschaften, die vor allem auf Landwirtschaft, Handarbeit und Energie aus Muskeln, Holz, Wind und Wasser beruhten, zu Wirtschaften mit Maschinen, Fabriken und fossiler Energie – zuerst in Großbritannien ab dem späten 18. Jahrhundert.
+  themes: [wirtschaft-handel, wissenschaft-technik]
+- id: dampfmaschine
+  name: Dampfmaschine
+  definition: Kraftmaschine, die die Energie von Wasserdampf in Bewegung umsetzt; zunächst zum Pumpen in Bergwerken, ab den 1780er Jahren auch als Antrieb von Maschinen und später von Lokomotiven und Schiffen.
+  themes: [wissenschaft-technik]
+- id: fabriksystem
+  name: Fabriksystem
+  aliases: [Fabrik]
+  definition: Produktion an einem zentralen Ort mit Maschinen, festen Arbeitszeiten und Arbeitsdisziplin unter Aufsicht – im Gegensatz zum Verlagssystem, bei dem Familien zu Hause im Auftrag eines Händlers arbeiteten.
+  themes: [wirtschaft-handel, gesellschaft]
+- id: verlagssystem
+  name: Verlagssystem
+  aliases: [Heimarbeit, Protoindustrialisierung, putting-out system]
+  definition: Gewerbliche Produktion in ländlichen Haushalten, bei der ein Händler (Verleger) Rohstoffe lieferte und die fertigen Waren abnahm; in vielen Regionen Europas eine Vorstufe der Industrialisierung.
+  themes: [wirtschaft-handel]
+- id: ludditen
+  name: Ludditen
+  aliases: [Maschinenstürmer, Luddites]
+  definition: Textilarbeiter in Mittel- und Nordengland, die 1811–1816 im Namen eines fiktiven „General Ludd“ Maschinen zerstörten, die ihre Löhne und ihre handwerkliche Stellung bedrohten.
+  themes: [gesellschaft, revolutionen]
+- id: chartismus
+  name: Chartismus
+  aliases: [Chartisten, People's Charter]
+  definition: Britische Massenbewegung 1838–1848, die mit der „People's Charter“ unter anderem das allgemeine Wahlrecht für Männer und geheime Wahlen forderte.
+  themes: [politik, gesellschaft]
+- id: soziale-frage
+  name: Soziale Frage
+  definition: Zeitgenössische Bezeichnung für die Armut, die Wohnungsnot und die unsicheren Lebensverhältnisse der Arbeiterschaft im Zuge der Industrialisierung und für die Suche nach Antworten darauf.
+  themes: [gesellschaft]
+- id: great-divergence
+  name: Great Divergence
+  aliases: [Große Divergenz, Große Auseinanderentwicklung]
+  definition: Von Kenneth Pomeranz geprägter Begriff für das wirtschaftliche Auseinanderdriften Nordwesteuropas und der übrigen Welt, insbesondere Chinas, ab etwa 1800.
+  themes: [wirtschaft-handel, geschichtsschreibung]

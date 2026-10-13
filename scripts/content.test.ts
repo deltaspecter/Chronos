@@ -43,7 +43,7 @@ describe('Inhaltsbestand', () => {
   })
   it('deckt alle Weltregionen ab', () => {
     const regions = new Set(articles.flatMap((a) => a.regions))
-    for (const r of ['italien', 'mesopotamien', 'aegypten', 'nubien', 'westafrika', 'china', 'suedasien', 'iran', 'deutschland', 'frankreich']) {
+    for (const r of ['italien', 'mesopotamien', 'aegypten', 'nubien', 'westafrika', 'china', 'suedasien', 'iran', 'deutschland', 'frankreich', 'mesoamerika', 'andenraum', 'britische-inseln']) {
       expect(regions.has(r), r).toBe(true)
     }
   })
@@ -77,5 +77,14 @@ describe('Suche', () => {
   it('findet Volltext in Artikeln', () => {
     const out = runSearch(engine, 'Tagebuch des Merer')
     expect(out.hits.slice(0, 3).map((h) => h.ref)).toContain('altes-reich-aegypten')
+  })
+  it('findet Begriffe in anderer Sprache und Schreibweise', () => {
+    expect(titles('Charlemagne')).toContain('karl-der-grosse')
+    expect(titles('Tahuantinsuyo')).toContain('inka-reich')
+    expect(titles('Harun al-Rashid')).toContain('harun-ar-raschid')
+  })
+  it('findet Volltext in neuen Artikeln', () => {
+    expect(titles('Spinning Jenny').slice(0, 3)).toContain('spinning-jenny')
+    expect(titles('Algebra')).toContain('abbasiden-bagdad')
   })
 })

@@ -1,0 +1,64 @@
+- id: manchester
+  name: Manchester
+  aliases: [Cottonopolis]
+  coords: [-2.2426, 53.4808]
+  categories: [stadt]
+  modernName: Manchester (England)
+  summary: Zentrum der Baumwollindustrie in Lancashire und Symbol der Industrialisierung; Engels beschrieb hier 1845 die Lage der Arbeiterklasse.
+  regions: [britische-inseln]
+  themes: [wirtschaft-handel, gesellschaft]
+- id: coalbrookdale
+  name: Coalbrookdale
+  aliases: [Ironbridge]
+  coords: [-2.4920, 52.6380]
+  categories: [fundstaette]
+  modernName: Ironbridge Gorge, Shropshire (England)
+  summary: Ort am Severn, an dem Abraham Darby 1709 Eisen mit Koks statt Holzkohle erschmolz; in der Nähe entstand 1779 die erste Eisenbrücke der Welt.
+  regions: [britische-inseln]
+  themes: [wissenschaft-technik]
+- id: cromford
+  name: Cromford
+  coords: [-1.5590, 53.1100]
+  categories: [fundstaette]
+  modernName: Derbyshire (England)
+  summary: Ort der ersten wassergetriebenen Baumwollspinnerei Richard Arkwrights (1771), oft als erste moderne Fabrik bezeichnet.
+  regions: [britische-inseln]
+  themes: [wirtschaft-handel, wissenschaft-technik]
+- id: birmingham
+  name: Birmingham
+  coords: [-1.8900, 52.4860]
+  categories: [stadt]
+  modernName: Birmingham (England)
+  summary: Zentrum der Metallverarbeitung in den Midlands; in der Soho Manufactory bauten Matthew Boulton und James Watt ab 1775 Dampfmaschinen.
+  regions: [britische-inseln]
+  themes: [wissenschaft-technik]
+- id: liverpool
+  name: Liverpool
+  coords: [-2.9910, 53.4080]
+  categories: [stadt, hafen]
+  modernName: Liverpool (England)
+  summary: Hafenstadt, im 18. Jahrhundert führender britischer Hafen des Sklavenhandels und später Einfuhrhafen für Rohbaumwolle aus den amerikanischen Südstaaten.
+  regions: [britische-inseln, atlantik]
+  themes: [handelsnetze, sklaverei-unfreiheit]
+- id: london
+  name: London
+  coords: [-0.1276, 51.5072]
+  categories: [stadt, hauptstadt, hafen]
+  modernName: London (England)
+  summary: Hauptstadt Englands bzw. Großbritanniens, um 1800 die größte Stadt Europas und Zentrum von Handel, Finanz und Konsum.
+  regions: [britische-inseln]
+- id: darlington
+  name: Darlington
+  coords: [-1.5550, 54.5240]
+  categories: [stadt]
+  modernName: County Durham (England)
+  summary: Endpunkt der 1825 eröffneten Stockton-and-Darlington-Eisenbahn, der ersten öffentlichen Eisenbahn mit Dampflokomotiven.
+  regions: [britische-inseln]
+- id: new-lanark
+  name: New Lanark
+  coords: [-3.7830, 55.6630]
+  categories: [fundstaette]
+  modernName: South Lanarkshire (Schottland)
+  summary: Baumwollspinnerei-Siedlung am Clyde, in der Robert Owen ab 1800 Wohnungen, Schulen und kürzere Arbeitszeiten für die Beschäftigten einführte.
+  regions: [britische-inseln]
+  themes: [gesellschaft]

@@ -1,0 +1,124 @@
+# Quellen und Literatur: Industrialisierung
+- id: allen-2009
+  kind: sekundaer
+  authors: ["Allen, Robert C."]
+  title: The British Industrial Revolution in Global Perspective
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2009
+- id: mokyr-2009
+  kind: sekundaer
+  authors: ["Mokyr, Joel"]
+  title: The Enlightened Economy
+  subtitle: An Economic History of Britain 1700–1850
+  place: New Haven
+  publisher: Yale University Press
+  year: 2009
+- id: pomeranz-2000
+  kind: sekundaer
+  authors: ["Pomeranz, Kenneth"]
+  title: The Great Divergence
+  subtitle: China, Europe, and the Making of the Modern World Economy
+  place: Princeton
+  publisher: Princeton University Press
+  year: 2000
+- id: wrigley-2010
+  kind: sekundaer
+  authors: ["Wrigley, E. A."]
+  title: Energy and the English Industrial Revolution
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2010
+- id: crafts-1985
+  kind: sekundaer
+  authors: ["Crafts, N. F. R."]
+  title: British Economic Growth during the Industrial Revolution
+  place: Oxford
+  publisher: Clarendon Press
+  year: 1985
+- id: thompson-1963
+  kind: sekundaer
+  authors: ["Thompson, E. P."]
+  title: The Making of the English Working Class
+  place: London
+  publisher: Victor Gollancz
+  year: 1963
+- id: hobsbawm-1962
+  kind: sekundaer
+  authors: ["Hobsbawm, Eric J."]
+  title: The Age of Revolution
+  subtitle: Europe 1789–1848
+  place: London
+  publisher: Weidenfeld & Nicolson
+  year: 1962
+- id: osterhammel-2009
+  kind: sekundaer
+  authors: ["Osterhammel, Jürgen"]
+  title: Die Verwandlung der Welt
+  subtitle: Eine Geschichte des 19. Jahrhunderts
+  place: München
+  publisher: C. H. Beck
+  year: 2009
+- id: beckert-2014
+  kind: sekundaer
+  authors: ["Beckert, Sven"]
+  title: Empire of Cotton
+  subtitle: A Global History
+  place: New York
+  publisher: Alfred A. Knopf
+  year: 2014
+  note: Deutsche Ausgabe „King Cotton. Eine Geschichte des globalen Kapitalismus“ (München 2014).
+- id: williams-1944
+  kind: sekundaer
+  authors: ["Williams, Eric"]
+  title: Capitalism and Slavery
+  place: Chapel Hill
+  publisher: University of North Carolina Press
+  year: 1944
+- id: humphries-2010
+  kind: sekundaer
+  authors: ["Humphries, Jane"]
+  title: Childhood and Child Labour in the British Industrial Revolution
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2010
+- id: q-engels-1845
+  kind: primaer
+  authors: ["Engels, Friedrich"]
+  title: Die Lage der arbeitenden Klasse in England
+  subtitle: Nach eigner Anschauung und authentischen Quellen
+  place: Leipzig
+  publisher: Otto Wigand
+  year: 1845
+  note: Beruht auf Engels' Aufenthalt in Manchester 1842–1844, wo er im Baumwollunternehmen seiner Familie arbeitete; eine engagierte Anklageschrift, die Beobachtung und Statistik verbindet.
+- id: q-smith-1776
+  kind: primaer
+  authors: ["Smith, Adam"]
+  title: An Inquiry into the Nature and Causes of the Wealth of Nations
+  place: London
+  publisher: W. Strahan / T. Cadell
+  year: 1776
+- id: q-sadler-report
+  kind: primaer
+  title: Report from the Committee on the Bill to Regulate the Labour of Children in the Mills and Factories of the United Kingdom
+  written: London 1832
+  note: Bericht eines Parlamentsausschusses unter Michael Sadler mit Zeugenaussagen von Fabrikkindern und Arbeitern; parteiisch im Sinne der Fabrikreformer zusammengestellt, aber eine eindrückliche Quelle.
+- id: q-factory-act-1833
+  kind: primaer
+  title: Factory Act 1833 (An Act to regulate the Labour of Children and young Persons in the Mills and Factories of the United Kingdom)
+  written: "1833"
+  note: Verbot der Beschäftigung von Kindern unter neun Jahren in Textilfabriken, Begrenzung der Arbeitszeit und Einführung staatlicher Fabrikinspektoren.
+- id: q-watt-patent
+  kind: primaer
+  authors: ["Watt, James"]
+  title: "Patent Nr. 913: A New Invented Method of Lessening the Consumption of Steam and Fuel in Fire Engines"
+  written: "1769"
+  note: Patent auf den getrennten Kondensator, der den Kohleverbrauch der Dampfmaschine erheblich senkte.
+- id: allen-2009-engels-pause
+  kind: sekundaer
+  authors: ["Allen, Robert C."]
+  title: "Engels' pause: Technical change, capital accumulation, and inequality in the British industrial revolution"
+  container: Explorations in Economic History
+  volume: "46"
+  year: 2009
+  pages: 418–435

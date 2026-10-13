@@ -1,0 +1,22 @@
+- id: koenigreich-grossbritannien
+  name: Königreich Großbritannien
+  aliases: [Great Britain]
+  start: "1707"
+  end: "1800"
+  capital: london
+  summary: Durch die Vereinigung Englands und Schottlands 1707 entstandenes Königreich, Ausgangsraum der Industriellen Revolution.
+  regions: [britische-inseln]
+  themes: [politik]
+  successors: [vereinigtes-koenigreich]
+  weight: 2
+- id: vereinigtes-koenigreich
+  name: Vereinigtes Königreich
+  aliases: [Großbritannien, United Kingdom, Britisches Weltreich]
+  start: "1801"
+  spanNote: 1801–1922 Vereinigtes Königreich Großbritannien und Irland, seit 1922/1927 Großbritannien und Nordirland.
+  capital: london
+  summary: Durch die Union mit Irland 1801 entstandener Staat, im 19. Jahrhundert führende Industrie-, See- und Kolonialmacht der Welt.
+  regions: [britische-inseln]
+  themes: [politik, imperien]
+  predecessors: [koenigreich-grossbritannien]
+  weight: 1

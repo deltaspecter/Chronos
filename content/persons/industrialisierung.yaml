@@ -1,0 +1,104 @@
+- id: thomas-newcomen
+  name: Thomas Newcomen
+  born: "1664"
+  died: "1729"
+  roles: [Eisenwarenhändler, Erfinder]
+  summary: Baute 1712 die erste praktisch eingesetzte Dampfmaschine, die vor allem Wasser aus Bergwerken pumpte.
+  regions: [britische-inseln]
+  themes: [wissenschaft-technik]
+- id: abraham-darby
+  name: Abraham Darby I.
+  born: "1678"
+  died: "1717"
+  roles: [Eisenhüttenunternehmer]
+  summary: Quäker und Unternehmer, der 1709 in Coalbrookdale Roheisen mit Koks erschmolz und damit die Eisenerzeugung von Holzkohle unabhängig machte.
+  regions: [britische-inseln]
+  themes: [wissenschaft-technik]
+  places: [coalbrookdale]
+- id: james-hargreaves
+  name: James Hargreaves
+  born: "~1720"
+  died: "1778"
+  roles: [Weber, Erfinder]
+  summary: Weber aus Lancashire, der um 1764 die Spinning Jenny erfand, mit der eine Person mehrere Fäden gleichzeitig spinnen konnte.
+  regions: [britische-inseln]
+  themes: [wissenschaft-technik]
+- id: richard-arkwright
+  name: Richard Arkwright
+  born: "1732"
+  died: "1792"
+  roles: [Unternehmer, Erfinder]
+  summary: Unternehmer, der die wassergetriebene Spinnmaschine (Water Frame) patentieren ließ und 1771 in Cromford eine der ersten Fabriken im modernen Sinn errichtete.
+  regions: [britische-inseln]
+  themes: [wissenschaft-technik, wirtschaft-handel]
+  places: [cromford]
+- id: james-watt
+  name: James Watt
+  born: "1736"
+  died: "1819"
+  roles: [Instrumentenbauer, Ingenieur]
+  summary: Schottischer Ingenieur, dessen getrennter Kondensator (Patent 1769) die Dampfmaschine erheblich sparsamer machte; baute sie ab 1775 mit Matthew Boulton in Serie.
+  regions: [britische-inseln]
+  themes: [wissenschaft-technik]
+  places: [birmingham]
+  related: [matthew-boulton]
+- id: matthew-boulton
+  name: Matthew Boulton
+  born: "1728"
+  died: "1809"
+  roles: [Unternehmer]
+  summary: Fabrikant aus Birmingham, Partner James Watts und Mitglied der Lunar Society, eines Kreises von Unternehmern und Naturforschern.
+  regions: [britische-inseln]
+  themes: [wirtschaft-handel, wissenschaft-technik]
+  places: [birmingham]
+- id: samuel-crompton
+  name: Samuel Crompton
+  born: "1753"
+  died: "1827"
+  roles: [Spinner, Erfinder]
+  summary: Erfand 1779 die Spinnmaschine „Mule“, die feines und festes Garn herstellte und zur wichtigsten Maschine der Baumwollspinnerei wurde.
+  regions: [britische-inseln]
+  themes: [wissenschaft-technik]
+- id: eli-whitney
+  name: Eli Whitney
+  born: "1765"
+  died: "1825"
+  roles: [Erfinder]
+  summary: Amerikanischer Erfinder der Entkörnungsmaschine für Baumwolle (1793), die den Baumwollanbau mit versklavten Menschen in den Südstaaten der USA enorm ausweitete.
+  regions: [nordamerika]
+  themes: [wissenschaft-technik, sklaverei-unfreiheit]
+- id: george-stephenson
+  name: George Stephenson
+  born: "1781"
+  died: "1848"
+  roles: [Ingenieur]
+  summary: Ingenieur aus Northumberland, der die Stockton-and-Darlington- und die Liverpool-and-Manchester-Eisenbahn baute; mit seinem Sohn Robert konstruierte er die Lokomotive „Rocket“.
+  regions: [britische-inseln]
+  themes: [wissenschaft-technik]
+  places: [darlington, liverpool, manchester]
+- id: adam-smith
+  name: Adam Smith
+  born: "1723"
+  died: "1790"
+  roles: [Moralphilosoph, Ökonom]
+  summary: Schottischer Philosoph, dessen „Wealth of Nations“ (1776) Arbeitsteilung und Markt als Quellen des Wohlstands analysierte; Begründer der klassischen Nationalökonomie.
+  regions: [britische-inseln]
+  themes: [wirtschaft-handel]
+- id: robert-owen
+  name: Robert Owen
+  born: "1771"
+  died: "1858"
+  roles: [Unternehmer, Sozialreformer]
+  summary: Walisischer Unternehmer, der in New Lanark bessere Arbeits- und Lebensbedingungen einführte und später genossenschaftliche Gemeinschaften propagierte.
+  regions: [britische-inseln]
+  themes: [gesellschaft]
+  places: [new-lanark]
+- id: friedrich-engels
+  name: Friedrich Engels
+  born: "1820"
+  died: "1895"
+  roles: [Unternehmer, Gesellschaftstheoretiker]
+  summary: Fabrikantensohn aus Barmen, der in Manchester arbeitete, 1845 „Die Lage der arbeitenden Klasse in England“ veröffentlichte und mit Karl Marx das „Kommunistische Manifest“ verfasste.
+  regions: [deutschland, britische-inseln]
+  themes: [gesellschaft, revolutionen]
+  places: [manchester]

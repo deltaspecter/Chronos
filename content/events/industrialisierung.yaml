@@ -1,0 +1,182 @@
+- id: koks-verhuettung
+  title: Eisenerzeugung mit Koks in Coalbrookdale
+  date: "1709"
+  weight: 3
+  kind: entdeckung
+  summary: Abraham Darby erschmilzt Roheisen mit Koks aus Steinkohle statt mit Holzkohle; die Eisenproduktion wird langfristig vom knappen Holz unabhängig.
+  regions: [britische-inseln]
+  themes: [wissenschaft-technik]
+  places: [coalbrookdale]
+  persons: [abraham-darby]
+- id: newcomen-dampfmaschine
+  title: Erste Newcomen-Dampfmaschine
+  date: "1712"
+  weight: 2
+  kind: entdeckung
+  summary: Bei Dudley in den Midlands nimmt Thomas Newcomens atmosphärische Dampfmaschine den Betrieb auf, um Wasser aus einem Kohlebergwerk zu pumpen.
+  regions: [britische-inseln]
+  themes: [wissenschaft-technik]
+  persons: [thomas-newcomen]
+- id: spinning-jenny
+  title: Spinning Jenny
+  date: "~1764"
+  weight: 3
+  kind: entdeckung
+  summary: James Hargreaves erfindet eine handbetriebene Spinnmaschine, mit der eine Person zunächst acht Spindeln gleichzeitig bedienen kann.
+  regions: [britische-inseln]
+  themes: [wissenschaft-technik]
+  persons: [james-hargreaves]
+- id: watt-kondensator
+  title: Watts Patent auf den getrennten Kondensator
+  date: "1769"
+  weight: 2
+  kind: entdeckung
+  summary: James Watt lässt eine Verbesserung patentieren, die den Kohleverbrauch der Dampfmaschine stark senkt.
+  regions: [britische-inseln]
+  themes: [wissenschaft-technik]
+  persons: [james-watt]
+- id: cromford-mill
+  title: Arkwrights Spinnerei in Cromford
+  date: "1771"
+  weight: 2
+  kind: gruendung
+  summary: Richard Arkwright errichtet eine wassergetriebene Baumwollspinnerei mit Schichtarbeit rund um die Uhr – ein Vorbild des Fabriksystems.
+  regions: [britische-inseln]
+  themes: [wirtschaft-handel, gesellschaft]
+  places: [cromford]
+  persons: [richard-arkwright]
+- id: boulton-und-watt
+  title: Partnerschaft Boulton & Watt
+  date: "1775"
+  weight: 3
+  kind: gruendung
+  summary: Matthew Boulton und James Watt beginnen in Birmingham mit dem Bau von Dampfmaschinen; ab 1781 können sie auch Drehbewegungen für Maschinen erzeugen.
+  regions: [britische-inseln]
+  themes: [wissenschaft-technik, wirtschaft-handel]
+  places: [birmingham]
+  persons: [james-watt, matthew-boulton]
+- id: iron-bridge
+  title: Bau der Iron Bridge
+  date: "1779"
+  weight: 3
+  kind: ereignis
+  summary: Über den Severn bei Coalbrookdale wird die erste große Brücke aus Gusseisen errichtet.
+  regions: [britische-inseln]
+  themes: [wissenschaft-technik]
+  places: [coalbrookdale]
+- id: entkoernungsmaschine
+  title: Erfindung der Baumwollentkörnungsmaschine
+  date: "1793"
+  weight: 2
+  kind: entdeckung
+  summary: Eli Whitneys „Cotton Gin“ macht den Anbau kurzfaseriger Baumwolle profitabel; die Sklaverei in den Südstaaten der USA dehnt sich massiv aus.
+  regions: [nordamerika]
+  themes: [wissenschaft-technik, sklaverei-unfreiheit]
+  persons: [eli-whitney]
+- id: verbot-sklavenhandel-1807
+  title: Großbritannien verbietet den Sklavenhandel
+  date: "1807"
+  weight: 2
+  kind: gesetz
+  summary: Das britische Parlament verbietet britischen Untertanen den Handel mit versklavten Menschen; die Sklaverei in den Kolonien bleibt bis 1834 bestehen.
+  regions: [britische-inseln, atlantik]
+  themes: [sklaverei-unfreiheit, verfassung-recht]
+  polities: [vereinigtes-koenigreich]
+- id: ludditen-aufstaende
+  title: Aufstände der Ludditen
+  start: "1811"
+  end: "1816"
+  weight: 3
+  kind: ereignis
+  summary: Textilarbeiter in den Midlands und Nordengland zerstören Maschinen; die Regierung setzt Militär ein und stellt Maschinenzerstörung unter Todesstrafe.
+  regions: [britische-inseln]
+  themes: [gesellschaft]
+  polities: [vereinigtes-koenigreich]
+- id: peterloo
+  title: Massaker von Peterloo
+  date: "1819-08-16"
+  weight: 2
+  kind: ereignis
+  summary: Berittene Truppen greifen in Manchester eine friedliche Massenversammlung für eine Parlamentsreform an; mindestens 15 Menschen sterben, Hunderte werden verletzt.
+  regions: [britische-inseln]
+  themes: [politik, gesellschaft]
+  places: [manchester]
+  polities: [vereinigtes-koenigreich]
+- id: stockton-darlington
+  title: Eröffnung der Stockton-and-Darlington-Eisenbahn
+  date: "1825-09-27"
+  weight: 3
+  kind: ereignis
+  summary: Die erste öffentliche Eisenbahn, auf der Dampflokomotiven fahren, nimmt den Betrieb auf.
+  regions: [britische-inseln]
+  themes: [wissenschaft-technik]
+  places: [darlington]
+  persons: [george-stephenson]
+- id: liverpool-manchester
+  title: Eröffnung der Liverpool-and-Manchester-Eisenbahn
+  date: "1830-09-15"
+  weight: 2
+  kind: ereignis
+  summary: Die erste Eisenbahnlinie mit planmäßigem Personen- und Güterverkehr ausschließlich mit Dampflokomotiven verbindet den Hafen Liverpool mit dem Industriezentrum Manchester.
+  regions: [britische-inseln]
+  themes: [wissenschaft-technik, handelsnetze]
+  places: [liverpool, manchester]
+  persons: [george-stephenson]
+- id: fabrikgesetz-1833
+  title: Fabrikgesetz von 1833
+  date: "1833"
+  weight: 3
+  kind: gesetz
+  summary: Kinder unter neun Jahren dürfen in Textilfabriken nicht mehr arbeiten, die Arbeitszeit älterer Kinder wird begrenzt; erstmals überwachen staatliche Inspektoren die Einhaltung.
+  regions: [britische-inseln]
+  themes: [gesellschaft, verfassung-recht]
+  polities: [vereinigtes-koenigreich]
+- id: abschaffung-sklaverei-britisch
+  title: Abschaffung der Sklaverei im Britischen Empire
+  start: "1833"
+  end: "1838"
+  weight: 2
+  kind: gesetz
+  summary: Das Parlament beschließt 1833 die Abschaffung der Sklaverei in den meisten Kolonien zum 1. August 1834; die Sklavenhalter erhalten 20 Millionen Pfund Entschädigung, die Befreiten müssen bis 1838 als „Lehrlinge“ weiterarbeiten.
+  regions: [atlantik, karibik, britische-inseln]
+  themes: [sklaverei-unfreiheit, verfassung-recht]
+  polities: [vereinigtes-koenigreich]
+- id: chartisten-bewegung
+  title: Chartistenbewegung
+  start: "1838"
+  end: "1848"
+  weight: 3
+  kind: ereignis
+  summary: Millionen unterschreiben Petitionen für das allgemeine Männerwahlrecht und weitere demokratische Reformen; das Parlament lehnt sie ab.
+  regions: [britische-inseln]
+  themes: [politik, gesellschaft]
+  polities: [vereinigtes-koenigreich]
+- id: engels-lage-der-arbeitenden-klasse
+  title: Engels veröffentlicht „Die Lage der arbeitenden Klasse in England“
+  date: "1845"
+  weight: 3
+  kind: ereignis
+  summary: Friedrich Engels beschreibt auf Grundlage seiner Erfahrungen in Manchester das Elend der Industriearbeiter und deutet es als Folge des Kapitalismus.
+  regions: [britische-inseln, deutschland]
+  themes: [gesellschaft, schrift-medien]
+  places: [manchester]
+  persons: [friedrich-engels]
+- id: aufhebung-der-kornzoelle
+  title: Aufhebung der Kornzölle
+  date: "1846"
+  weight: 3
+  kind: gesetz
+  summary: Großbritannien schafft die Schutzzölle auf Getreide ab und wendet sich dem Freihandel zu – ein Sieg der Industrie- über die Grundbesitzerinteressen.
+  regions: [britische-inseln]
+  themes: [wirtschaft-handel, politik]
+  polities: [vereinigtes-koenigreich]
+- id: weltausstellung-1851
+  title: Weltausstellung im Crystal Palace
+  date: "1851-05-01"
+  weight: 2
+  kind: ereignis
+  summary: Im Londoner Hyde Park präsentiert die erste Weltausstellung in einem Glas-Eisen-Palast Industrieprodukte aus aller Welt; Großbritannien inszeniert sich als „Werkstatt der Welt“.
+  regions: [britische-inseln]
+  themes: [wissenschaft-technik, wirtschaft-handel]
+  places: [london]
+  polities: [vereinigtes-koenigreich]
