@@ -1,0 +1,242 @@
+# Quellen und Literatur: Koreakrieg, Kubakrise, Algerienkrieg, Dekolonisierung Afrikas
+
+# --- Koreakrieg ---
+- id: cumings-2010
+  kind: sekundaer
+  authors: ["Cumings, Bruce"]
+  title: The Korean War
+  subtitle: A History
+  place: New York
+  publisher: Modern Library
+  year: 2010
+- id: stueck-1995
+  kind: sekundaer
+  authors: ["Stueck, William"]
+  title: The Korean War
+  subtitle: An International History
+  place: Princeton
+  publisher: Princeton University Press
+  year: 1995
+- id: stoever-2013
+  kind: sekundaer
+  authors: ["Stöver, Bernd"]
+  title: Geschichte des Koreakriegs
+  subtitle: Schlachtfeld der Supermächte und ungelöster Konflikt
+  place: München
+  publisher: C. H. Beck
+  year: 2013
+- id: halberstam-2007
+  kind: sekundaer
+  authors: ["Halberstam, David"]
+  title: The Coldest Winter
+  subtitle: America and the Korean War
+  place: New York
+  publisher: Hyperion
+  year: 2007
+- id: chen-1994
+  kind: sekundaer
+  authors: ["Chen, Jian"]
+  title: China's Road to the Korean War
+  subtitle: The Making of the Sino-American Confrontation
+  place: New York
+  publisher: Columbia University Press
+  year: 1994
+- id: q-unsc-83
+  kind: primaer
+  authors: ["Sicherheitsrat der Vereinten Nationen"]
+  title: Resolution 83 (1950)
+  written: New York, 27. Juni 1950
+  note: Empfiehlt den Mitgliedstaaten, der Republik Korea die Hilfe zu leisten, die nötig ist, um den bewaffneten Angriff abzuwehren; zustande gekommen, weil die Sowjetunion den Sicherheitsrat damals boykottierte.
+- id: q-nsc-68
+  kind: primaer
+  authors: ["National Security Council"]
+  title: "NSC 68 – United States Objectives and Programs for National Security"
+  written: Washington, 14. April 1950
+  note: Geheime Grundsatzdenkschrift, die eine massive Aufrüstung gegen die Sowjetunion forderte; erst der Koreakrieg machte die geforderten Mittel politisch durchsetzbar.
+- id: q-waffenstillstand-korea
+  kind: primaer
+  title: Waffenstillstandsabkommen von Panmunjom (Korean Armistice Agreement)
+  written: Panmunjom, 27. Juli 1953
+  note: Von den Oberbefehlshabern der UN-Truppen, der nordkoreanischen Armee und der chinesischen „Volksfreiwilligen“ unterzeichnet, nicht aber von Südkorea; ein Friedensvertrag wurde nie geschlossen.
+
+# --- Kubakrise ---
+- id: allison-1971
+  kind: sekundaer
+  authors: ["Allison, Graham T."]
+  title: Essence of Decision
+  subtitle: Explaining the Cuban Missile Crisis
+  place: Boston
+  publisher: Little, Brown
+  year: 1971
+- id: dobbs-2008
+  kind: sekundaer
+  authors: ["Dobbs, Michael"]
+  title: One Minute to Midnight
+  subtitle: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War
+  place: New York
+  publisher: Alfred A. Knopf
+  year: 2008
+- id: greiner-2010
+  kind: sekundaer
+  authors: ["Greiner, Bernd"]
+  title: Die Kuba-Krise
+  subtitle: Die Welt an der Schwelle zum Atomkrieg
+  place: München
+  publisher: C. H. Beck
+  year: 2010
+- id: plokhy-2021
+  kind: sekundaer
+  authors: ["Plokhy, Serhii"]
+  title: Nuclear Folly
+  subtitle: A History of the Cuban Missile Crisis
+  place: New York
+  publisher: W. W. Norton
+  year: 2021
+- id: q-kennedy-1962
+  kind: primaer
+  authors: ["Kennedy, John F."]
+  title: Radio and Television Report to the American People on the Soviet Arms Buildup in Cuba
+  written: Washington, 22. Oktober 1962
+  note: Fernsehansprache, in der Kennedy die Entdeckung der Raketenstellungen öffentlich machte und eine „Quarantäne“ – eine Seeblockade – gegen Waffenlieferungen nach Kuba ankündigte.
+- id: q-chruschtschow-1962
+  kind: primaer
+  authors: ["Chruschtschow, Nikita"]
+  title: Briefe an Präsident Kennedy vom 26. und 27. Oktober 1962
+  written: Moskau, 26./27. Oktober 1962
+  note: Der erste, persönlich gehaltene Brief bot den Abzug der Raketen gegen ein Nichtangriffsversprechen an; der zweite, öffentlich verlesene forderte zusätzlich den Abzug amerikanischer Raketen aus der Türkei.
+- id: q-kennedy-tapes
+  kind: edition
+  editors: ["May, Ernest R.", "Zelikow, Philip D."]
+  title: The Kennedy Tapes
+  subtitle: Inside the White House during the Cuban Missile Crisis
+  place: Cambridge, Mass.
+  publisher: Belknap Press of Harvard University Press
+  year: 1997
+  note: Abschriften der heimlich mitgeschnittenen Beratungen Kennedys mit seinem Krisenstab (ExComm).
+
+# --- Algerienkrieg ---
+- id: horne-1977
+  kind: sekundaer
+  authors: ["Horne, Alistair"]
+  title: A Savage War of Peace
+  subtitle: Algeria 1954–1962
+  place: London
+  publisher: Macmillan
+  year: 1977
+- id: stora-1993
+  kind: sekundaer
+  authors: ["Stora, Benjamin"]
+  title: Histoire de la guerre d'Algérie (1954–1962)
+  place: Paris
+  publisher: La Découverte
+  year: 1993
+- id: evans-2012
+  kind: sekundaer
+  authors: ["Evans, Martin"]
+  title: Algeria
+  subtitle: France's Undeclared War
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2012
+- id: connelly-2002
+  kind: sekundaer
+  authors: ["Connelly, Matthew"]
+  title: A Diplomatic Revolution
+  subtitle: Algeria's Fight for Independence and the Origins of the Post-Cold War Era
+  place: New York
+  publisher: Oxford University Press
+  year: 2002
+- id: branche-2001
+  kind: sekundaer
+  authors: ["Branche, Raphaëlle"]
+  title: La torture et l'armée pendant la guerre d'Algérie 1954–1962
+  place: Paris
+  publisher: Gallimard
+  year: 2001
+- id: q-fln-1954
+  kind: primaer
+  authors: ["Front de Libération Nationale"]
+  title: Proklamation vom 1. November 1954
+  written: Algerien, 1. November 1954
+  note: Flugblatt, mit dem sich die FLN in der Nacht der ersten Anschläge an das algerische Volk wandte und als Ziel die „nationale Unabhängigkeit“ und die Wiederherstellung eines souveränen algerischen Staats nannte.
+- id: q-alleg-1958
+  kind: primaer
+  authors: ["Alleg, Henri"]
+  title: La Question
+  written: Paris, 1958
+  note: Bericht des kommunistischen Journalisten über seine Folterung durch französische Fallschirmjäger 1957, in Haft geschrieben und herausgeschmuggelt; das Buch wurde kurz nach Erscheinen beschlagnahmt.
+- id: q-fanon-1961
+  kind: primaer
+  authors: ["Fanon, Frantz"]
+  title: Les Damnés de la terre
+  written: Paris, 1961
+  note: Kampfschrift des aus Martinique stammenden Psychiaters, der sich der FLN angeschlossen hatte; mit einem Vorwort von Jean-Paul Sartre. Auf Deutsch als „Die Verdammten dieser Erde“ erschienen.
+- id: q-evian-1962
+  kind: primaer
+  title: Abkommen von Évian (Accords d'Évian)
+  written: Évian-les-Bains, 18. März 1962
+  note: Vereinbarungen zwischen der französischen Regierung und der algerischen Exilregierung über einen Waffenstillstand ab dem 19. März 1962 und eine Volksabstimmung über die Unabhängigkeit.
+
+# --- Dekolonisierung Afrikas ---
+- id: cooper-2002
+  kind: sekundaer
+  authors: ["Cooper, Frederick"]
+  title: Africa since 1940
+  subtitle: The Past of the Present
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2002
+- id: jansen-osterhammel-2013
+  kind: sekundaer
+  authors: ["Jansen, Jan C.", "Osterhammel, Jürgen"]
+  title: Dekolonisation
+  subtitle: Das Ende der Imperien
+  place: München
+  publisher: C. H. Beck
+  year: 2013
+- id: birmingham-1995
+  kind: sekundaer
+  authors: ["Birmingham, David"]
+  title: The Decolonization of Africa
+  place: London
+  publisher: UCL Press
+  year: 1995
+- id: hargreaves-1988
+  kind: sekundaer
+  authors: ["Hargreaves, John D."]
+  title: Decolonization in Africa
+  place: London
+  publisher: Longman
+  year: 1988
+- id: q-nkrumah-1957
+  kind: primaer
+  authors: ["Nkrumah, Kwame"]
+  title: Rede zur Unabhängigkeit Ghanas
+  written: Accra, 6. März 1957
+  note: Um Mitternacht auf dem Old Polo Ground gehaltene Ansprache, in der Nkrumah die Unabhängigkeit Ghanas mit der Befreiung ganz Afrikas verknüpfte.
+- id: q-macmillan-1960
+  kind: primaer
+  authors: ["Macmillan, Harold"]
+  title: Rede vor dem südafrikanischen Parlament („Wind of Change“)
+  written: Kapstadt, 3. Februar 1960
+  note: Der britische Premierminister erklärte, ein „Wind des Wandels“ wehe durch den Kontinent, und distanzierte sich vorsichtig von der Apartheidpolitik.
+- id: q-lumumba-1960
+  kind: primaer
+  authors: ["Lumumba, Patrice"]
+  title: Rede zur Unabhängigkeit des Kongo
+  written: Léopoldville, 30. Juni 1960
+  note: Nicht im Protokoll vorgesehene Rede des Premierministers, der in Anwesenheit des belgischen Königs Baudouin an Zwangsarbeit, Demütigung und Gewalt der Kolonialzeit erinnerte.
+- id: q-un-res-1514
+  kind: primaer
+  authors: ["Generalversammlung der Vereinten Nationen"]
+  title: "Resolution 1514 (XV) – Erklärung über die Gewährung der Unabhängigkeit an koloniale Länder und Völker"
+  written: New York, 14. Dezember 1960
+  note: Ohne Gegenstimme bei neun Enthaltungen – darunter die Kolonialmächte Großbritannien, Frankreich, Belgien, Portugal und Spanien sowie die USA – angenommene Erklärung, die Kolonialherrschaft als Verstoß gegen die Menschenrechte verurteilt.
+- id: elkins-2005
+  kind: sekundaer
+  authors: ["Elkins, Caroline"]
+  title: Imperial Reckoning
+  subtitle: The Untold Story of Britain's Gulag in Kenya
+  place: New York
+  publisher: Henry Holt
+  year: 2005

@@ -1,0 +1,125 @@
+# Orte: Koreakrieg
+- id: pjoengjang
+  name: Pjöngjang
+  aliases: [Pyongyang]
+  coords: [125.7625, 39.0392]
+  categories: [stadt, hauptstadt]
+  modernName: Pjöngjang (Nordkorea)
+  summary: Hauptstadt Nordkoreas, im Herbst 1950 kurzzeitig von UN-Truppen erobert und im Krieg durch amerikanische Luftangriffe fast vollständig zerstört.
+  regions: [korea]
+  themes: [politik, krieg-militaer]
+- id: busan
+  name: Busan
+  aliases: [Pusan]
+  coords: [129.0756, 35.1796]
+  categories: [stadt, hafen]
+  modernName: Busan (Südkorea)
+  summary: Hafenstadt im Südosten Koreas, um die sich im Sommer 1950 der letzte von UN- und südkoreanischen Truppen gehaltene Brückenkopf bildete; zeitweise Sitz der südkoreanischen Regierung.
+  regions: [korea]
+  themes: [krieg-militaer]
+- id: inchon
+  name: Incheon
+  aliases: [Inchon, Chemulpo]
+  coords: [126.7052, 37.4563]
+  categories: [hafen, schlachtfeld]
+  modernName: Incheon (Südkorea)
+  summary: Hafen westlich von Seoul, an dem amerikanische Truppen am 15. September 1950 landeten und den nordkoreanischen Angreifern in den Rücken fielen.
+  regions: [korea]
+  themes: [krieg-militaer]
+- id: panmunjom
+  name: Panmunjom
+  coords: [126.6772, 37.9560]
+  categories: [fundstaette]
+  modernName: Gemeinsamer Sicherheitsbereich in der Entmilitarisierten Zone
+  summary: Ort an der Waffenstillstandslinie, an dem ab 1951 verhandelt und am 27. Juli 1953 der Waffenstillstand unterzeichnet wurde; bis heute Treffpunkt zwischen Nord und Süd.
+  regions: [korea]
+  themes: [politik, krieg-militaer]
+# Orte: Kubakrise
+- id: schweinebucht
+  name: Schweinebucht
+  aliases: [Bahía de Cochinos, Playa Girón]
+  coords: [-81.1680, 22.0700]
+  categories: [schlachtfeld]
+  modernName: Bahía de Cochinos (Kuba)
+  summary: Bucht an der Südküste Kubas, in der im April 1961 von der CIA ausgebildete Exilkubaner landeten und binnen drei Tagen geschlagen wurden.
+  regions: [karibik]
+  themes: [krieg-militaer]
+- id: guantanamo
+  name: Guantánamo-Bucht
+  aliases: [Guantánamo Bay]
+  coords: [-75.1300, 19.9000]
+  categories: [hafen]
+  modernName: Marinestützpunkt der USA auf Kuba
+  summary: Bucht im Südosten Kubas, die die USA seit 1903 als Marinestützpunkt gepachtet haben; die kubanische Regierung erkennt den Vertrag seit der Revolution nicht an.
+  regions: [karibik]
+  themes: [krieg-militaer, imperien]
+# Orte: Algerienkrieg
+- id: algier
+  name: Algier
+  aliases: [Alger, al-Dschaza'ir]
+  coords: [3.0588, 36.7538]
+  categories: [stadt, hauptstadt, hafen]
+  modernName: Algier (Algerien)
+  summary: Hauptstadt Algeriens, 1830 von Frankreich erobert und Zentrum der Kolonie; 1957 Schauplatz der „Schlacht um Algier“, 1958 und 1961 der Revolten von Armee und Siedlern.
+  regions: [nordafrika]
+  themes: [politik, imperien]
+- id: setif
+  name: Sétif
+  coords: [5.4137, 36.1898]
+  categories: [stadt]
+  modernName: Sétif (Algerien)
+  summary: Stadt im Osten Algeriens, in der eine Kundgebung am 8. Mai 1945 in einen Aufstand mündete, auf den die französische Armee und Siedlermilizen mit Massakern an Tausenden Algeriern antworteten.
+  regions: [nordafrika]
+  themes: [gewalt-genozid]
+- id: evian
+  name: Évian-les-Bains
+  aliases: [Évian]
+  coords: [6.5900, 46.4010]
+  categories: [stadt]
+  modernName: Évian-les-Bains (Frankreich)
+  summary: Kurort am Genfer See, in dem Frankreich und die algerische Exilregierung 1961/62 verhandelten und am 18. März 1962 die Abkommen über Waffenstillstand und Selbstbestimmung schlossen.
+  regions: [frankreich]
+  themes: [politik]
+# Orte: Dekolonisierung Afrikas
+- id: accra
+  name: Accra
+  coords: [-0.1870, 5.6037]
+  categories: [stadt, hauptstadt, hafen]
+  modernName: Accra (Ghana)
+  summary: Hauptstadt der britischen Goldküste und seit 1957 Ghanas; 1958 Gastgeberin der All-African People's Conference, eines Treffens afrikanischer Unabhängigkeitsbewegungen.
+  regions: [westafrika]
+  themes: [politik]
+- id: dakar
+  name: Dakar
+  coords: [-17.4677, 14.7167]
+  categories: [stadt, hauptstadt, hafen]
+  modernName: Dakar (Senegal)
+  summary: Hafenstadt an der Westspitze Afrikas, Hauptstadt Französisch-Westafrikas und seit 1960 Senegals.
+  regions: [westafrika]
+  themes: [politik, imperien]
+- id: conakry
+  name: Conakry
+  coords: [-13.5784, 9.6412]
+  categories: [stadt, hauptstadt, hafen]
+  modernName: Conakry (Guinea)
+  summary: Hauptstadt Guineas, wo Sékou Touré im August 1958 de Gaulle entgegenhielt, man ziehe die Armut in Freiheit dem Reichtum in Sklaverei vor.
+  regions: [westafrika]
+  themes: [politik]
+- id: lubumbashi
+  name: Lubumbashi
+  aliases: [Élisabethville]
+  coords: [27.4794, -11.6609]
+  categories: [stadt]
+  modernName: Lubumbashi (Demokratische Republik Kongo)
+  summary: Bergbaustadt im Kupfergürtel, als Élisabethville Hauptstadt der Provinz Katanga und 1960–1963 des abgespaltenen Staats Katanga; in der Nähe wurde Patrice Lumumba im Januar 1961 ermordet.
+  regions: [zentralafrika]
+  themes: [wirtschaft-handel, politik]
+- id: kapstadt
+  name: Kapstadt
+  aliases: [Cape Town]
+  coords: [18.4241, -33.9249]
+  categories: [stadt, hafen]
+  modernName: Kapstadt (Südafrika)
+  summary: 1652 von der Niederländischen Ostindien-Kompanie gegründete Hafenstadt am Kap der Guten Hoffnung, Sitz des südafrikanischen Parlaments.
+  regions: [suedliches-afrika]
+  themes: [politik, handelsnetze]

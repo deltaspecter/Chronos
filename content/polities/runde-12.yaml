@@ -1,0 +1,107 @@
+# Staaten: Korea
+- id: republik-korea
+  name: Republik Korea
+  aliases: [Südkorea]
+  start: "1948-08-15"
+  capital: seoul
+  summary: Im Süden der amerikanischen Besatzungszone gegründeter Staat, bis in die späten 1980er-Jahre überwiegend autoritär regiert und seither eine Demokratie.
+  regions: [korea]
+  themes: [politik]
+  weight: 2
+- id: demokratische-volksrepublik-korea
+  name: Demokratische Volksrepublik Korea
+  aliases: [Nordkorea]
+  start: "1948-09-09"
+  capital: pjoengjang
+  summary: Im Norden der sowjetischen Besatzungszone unter Kim Il-sung gegründeter kommunistischer Staat, der seither von dessen Familie diktatorisch beherrscht wird.
+  regions: [korea]
+  themes: [politik]
+  weight: 2
+# Staaten: Kuba
+- id: kuba
+  name: Republik Kuba
+  aliases: [Kuba]
+  start: "1902-05-20"
+  capital: havanna
+  spanNote: Nach der Revolution von 1959 ein sozialistischer Einparteienstaat unter Fidel Castro.
+  summary: Nach dem Ende der spanischen Herrschaft und amerikanischer Besatzung gegründeter Staat, lange unter starkem Einfluss der USA; seit 1959 von der Kommunistischen Partei regiert.
+  regions: [karibik]
+  themes: [politik]
+  weight: 2
+# Staaten: Algerien
+- id: franzoesisch-algerien
+  name: Französisch-Algerien
+  aliases: [Algérie française]
+  start: "1830-07-05"
+  end: "1962-07-05"
+  capital: algier
+  spanNote: Seit 1848 rechtlich in französische Départements gegliedert und damit – anders als andere Kolonien – als Teil Frankreichs betrachtet.
+  summary: Von Frankreich ab 1830 eroberte Siedlungskolonie, in der rund eine Million Europäer mit politischen Rechten über eine muslimische Mehrheit ohne gleiche Bürgerrechte herrschten.
+  regions: [nordafrika]
+  themes: [imperien]
+  successors: [algerien]
+  weight: 2
+- id: algerien
+  name: Demokratische Volksrepublik Algerien
+  aliases: [Algerien]
+  start: "1962-07-05"
+  capital: algier
+  summary: Nach acht Jahren Unabhängigkeitskrieg gegründeter Staat, lange von der FLN als Einheitspartei und der Armee beherrscht.
+  regions: [nordafrika]
+  themes: [politik]
+  predecessors: [franzoesisch-algerien]
+  weight: 2
+# Staaten: Afrika
+- id: goldkueste
+  name: Goldküste
+  aliases: [Gold Coast]
+  start: "1874-07-24"
+  end: "1957-03-06"
+  capital: accra
+  spanNote: Hauptstadt war bis 1877 Cape Coast.
+  summary: Britische Kolonie an der westafrikanischen Küste, wichtigster Kakaoexporteur der Welt und 1957 als Ghana unabhängig.
+  regions: [westafrika]
+  themes: [imperien]
+  successors: [ghana]
+  weight: 3
+- id: ghana
+  name: Ghana
+  start: "1957-03-06"
+  capital: accra
+  summary: Erste Kolonie Afrikas südlich der Sahara, die nach dem Zweiten Weltkrieg unabhängig wurde; benannt nach dem mittelalterlichen Reich Ghana.
+  regions: [westafrika]
+  themes: [politik]
+  predecessors: [goldkueste]
+  weight: 2
+- id: franzoesisch-westafrika
+  name: Französisch-Westafrika
+  aliases: [Afrique-Occidentale française, AOF]
+  start: "1895-06-16"
+  end: "1958"
+  capital: dakar
+  spanNote: Hauptstadt war zunächst Saint-Louis, ab 1902 Dakar. Der Verband löste sich 1958/59 auf, als die Kolonien zu autonomen Republiken wurden.
+  summary: Föderation französischer Kolonien von Senegal bis Niger und Dahome, aus der 1958 Guinea und 1960 die übrigen Gebiete als eigene Staaten unabhängig wurden.
+  regions: [westafrika]
+  themes: [imperien]
+  weight: 3
+- id: demokratische-republik-kongo
+  name: Demokratische Republik Kongo
+  aliases: [Kongo-Léopoldville, Kongo-Kinshasa, Zaire]
+  start: "1960-06-30"
+  capital: kinshasa
+  spanNote: 1971–1997 hieß der Staat unter Mobutu Zaire.
+  summary: Aus Belgisch-Kongo hervorgegangener, flächenmäßig zweitgrößter Staat Afrikas, dessen Unabhängigkeit sofort in eine Krise mit Armeemeuterei, Abspaltungen und internationaler Intervention mündete.
+  regions: [zentralafrika]
+  themes: [politik]
+  predecessors: [belgisch-kongo]
+  weight: 2
+- id: staat-katanga
+  name: Staat Katanga
+  aliases: [Katanga]
+  start: "1960-07-11"
+  end: "1963-01-15"
+  capital: lubumbashi
+  summary: Von Moïse Tschombé ausgerufener, international nie anerkannter Staat in der Bergbauprovinz Katanga, den UN-Truppen 1963 beendeten.
+  regions: [zentralafrika]
+  themes: [politik]
+  weight: 3

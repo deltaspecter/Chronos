@@ -1,0 +1,49 @@
+# Begriffe: Koreakrieg und Kubakrise
+- id: nukleare-abschreckung
+  name: Nukleare Abschreckung
+  aliases: [Abschreckung, Gleichgewicht des Schreckens, MAD]
+  definition: Strategie, einen Gegner durch die Drohung mit einem atomaren Vergeltungsschlag von einem Angriff abzuhalten; im Kalten Krieg beruhte sie auf der Gewissheit gegenseitiger Vernichtung („mutual assured destruction“).
+  themes: [krieg-militaer, politik]
+- id: heisser-draht
+  name: Heißer Draht
+  aliases: [Hotline, Rotes Telefon]
+  definition: Nach der Kubakrise 1963 vereinbarte direkte Fernschreibverbindung zwischen Weißem Haus und Kreml, die Missverständnisse in Krisen verhindern sollte – kein Telefon, wie die Legende sagt.
+  themes: [politik]
+- id: begrenzter-krieg
+  name: Begrenzter Krieg
+  aliases: [limited war]
+  definition: Krieg, dessen Ziele, Mittel und Schauplatz bewusst eingeschränkt werden, um eine Eskalation zu verhindern – im Atomzeitalter vor allem der Verzicht auf Kernwaffen und auf Angriffe gegen die Großmacht hinter dem Gegner.
+  themes: [krieg-militaer]
+# Begriffe: Algerienkrieg
+- id: fln
+  name: FLN
+  aliases: [Front de Libération Nationale, Nationale Befreiungsfront]
+  definition: 1954 gegründete algerische Unabhängigkeitsbewegung, die den Krieg gegen Frankreich führte, rivalisierende Nationalisten gewaltsam ausschaltete und nach 1962 als Einheitspartei regierte.
+  themes: [politik, revolutionen]
+- id: pieds-noirs
+  name: Pieds-noirs
+  aliases: [Algerienfranzosen]
+  definition: Bezeichnung für die europäischstämmigen Siedler Algeriens – Nachfahren von Franzosen, Spaniern, Italienern, Maltesern sowie die jüdische Bevölkerung mit französischer Staatsbürgerschaft –, von denen 1962 fast alle nach Frankreich flohen.
+  themes: [gesellschaft, migration]
+- id: harkis
+  name: Harkis
+  definition: Algerische Hilfssoldaten der französischen Armee; nach der Unabhängigkeit wurden Zehntausende von ihnen in Algerien getötet, die nach Frankreich Geflohenen jahrzehntelang in Lagern untergebracht.
+  themes: [krieg-militaer, gewalt-genozid]
+- id: oas
+  name: OAS
+  aliases: [Organisation de l'armée secrète]
+  definition: 1961 gegründete Untergrundorganisation von Offizieren und Siedlern, die die Unabhängigkeit Algeriens mit Terroranschlägen in Algerien und Frankreich und Attentaten auf de Gaulle verhindern wollte.
+  themes: [politik, gewalt-genozid]
+# Begriffe: Dekolonisierung Afrikas
+- id: panafrikanismus
+  name: Panafrikanismus
+  definition: Seit dem späten 19. Jahrhundert von Intellektuellen der afrikanischen Diaspora und Afrikas entwickelte Idee der Zusammengehörigkeit aller Menschen afrikanischer Herkunft; nach 1945 Programm für die Befreiung und Einigung des Kontinents.
+  themes: [politik]
+- id: negritude
+  name: Négritude
+  definition: In den 1930er-Jahren von schwarzen Studenten in Paris, darunter Léopold Sédar Senghor und Aimé Césaire, begründete literarische und politische Bewegung, die afrikanische Kultur und Identität gegen koloniale Herabsetzung behauptete.
+  themes: [kultur-kunst, politik]
+- id: neokolonialismus
+  name: Neokolonialismus
+  definition: Von Kwame Nkrumah verbreiteter Begriff für fortbestehende wirtschaftliche und politische Abhängigkeit formal unabhängiger Staaten von ehemaligen Kolonialmächten und Großmächten.
+  themes: [politik, wirtschaft-handel]

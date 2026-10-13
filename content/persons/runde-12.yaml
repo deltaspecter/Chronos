@@ -1,0 +1,231 @@
+# Personen: Koreakrieg
+- id: kim-il-sung
+  name: Kim Il-sung
+  born: "1912-04-15"
+  died: "1994-07-08"
+  roles: [Staatsgründer Nordkoreas]
+  summary: Kommunistischer Partisan, der aus dem sowjetischen Exil zurückkehrte, 1948 die Demokratische Volksrepublik Korea gründete und 1950 mit Zustimmung Stalins den Süden angriff; bis zu seinem Tod Diktator Nordkoreas.
+  regions: [korea]
+  themes: [politik, krieg-militaer]
+  places: [pjoengjang]
+- id: syngman-rhee
+  name: Syngman Rhee
+  aliases: [Rhee Syng-man, Yi Seung-man]
+  born: "1875-03-26"
+  died: "1965-07-19"
+  roles: [Präsident Südkoreas]
+  summary: Antikommunistischer Nationalist, der lange im amerikanischen Exil lebte, 1948 erster Präsident der Republik Korea wurde, zunehmend autoritär regierte und 1960 nach Studentenprotesten zurücktreten musste.
+  regions: [korea]
+  themes: [politik]
+  places: [seoul, busan]
+- id: douglas-macarthur
+  name: Douglas MacArthur
+  born: "1880-01-26"
+  died: "1964-04-05"
+  roles: [General]
+  summary: Amerikanischer General, der 1945–1951 die Besatzung Japans leitete, im Koreakrieg die UN-Truppen befehligte, mit der Landung bei Incheon die Wende erzwang und 1951 von Präsident Truman wegen offener Insubordination entlassen wurde.
+  regions: [nordamerika, japan, korea]
+  themes: [krieg-militaer]
+  places: [inchon]
+- id: peng-dehuai
+  name: Peng Dehuai
+  born: "1898-10-24"
+  died: "1974-11-29"
+  roles: [General]
+  summary: Chinesischer Marschall, der ab Oktober 1950 die „Volksfreiwilligen“ in Korea befehligte; nach seiner Kritik am „Großen Sprung nach vorn“ 1959 gestürzt, starb er nach Misshandlungen in der Kulturrevolution.
+  regions: [china, korea]
+  themes: [krieg-militaer, politik]
+- id: dwight-d-eisenhower
+  name: Dwight D. Eisenhower
+  born: "1890-10-14"
+  died: "1969-03-28"
+  roles: [General, Präsident der USA]
+  summary: Oberbefehlshaber der Alliierten in Westeuropa im Zweiten Weltkrieg und 1953–1961 Präsident der Vereinigten Staaten, der den Waffenstillstand in Korea erreichte und auf nukleare Abschreckung setzte.
+  regions: [nordamerika]
+  themes: [politik, krieg-militaer]
+  places: [washington]
+# Personen: Kubakrise
+- id: robert-f-kennedy
+  name: Robert F. Kennedy
+  born: "1925-11-20"
+  died: "1968-06-06"
+  roles: [Justizminister der USA]
+  summary: Bruder und engster Berater John F. Kennedys, der in der Kubakrise über den sowjetischen Botschafter Dobrynin den geheimen Kompromiss aushandelte; 1968 als Präsidentschaftsbewerber ermordet.
+  regions: [nordamerika]
+  themes: [politik]
+  places: [washington]
+- id: anatoli-dobrynin
+  name: Anatoli Dobrynin
+  born: "1919-11-16"
+  died: "2010-04-06"
+  roles: [Diplomat]
+  summary: Sowjetischer Botschafter in Washington 1962–1986, über den in der Kubakrise und danach die vertraulichen Kontakte zwischen Kreml und Weißem Haus liefen.
+  regions: [russland, nordamerika]
+  themes: [politik]
+  places: [washington, moskau]
+- id: che-guevara
+  name: Ernesto „Che“ Guevara
+  aliases: [Che Guevara]
+  born: "1928-06-14"
+  died: "1967-10-09"
+  roles: [Revolutionär]
+  summary: Argentinischer Arzt und Guerillaführer der Kubanischen Revolution, danach Minister in Kuba; versuchte die Revolution in den Kongo und nach Bolivien zu tragen, wo er gefangen genommen und erschossen wurde.
+  regions: [karibik, suedamerika]
+  themes: [revolutionen, politik]
+  places: [havanna]
+- id: wassili-archipow
+  name: Wassili Archipow
+  aliases: [Vasily Arkhipov]
+  born: "1926-01-30"
+  died: "1998-08-19"
+  roles: [Marineoffizier]
+  summary: Sowjetischer Offizier an Bord des U-Boots B-59, das am 27. Oktober 1962 von amerikanischen Zerstörern mit Übungswasserbomben zum Auftauchen gezwungen wurde; nach Zeugenberichten widersprach er dem Einsatz des Atomtorpedos.
+  regions: [russland, karibik]
+  themes: [krieg-militaer]
+# Personen: Algerienkrieg
+- id: messali-hadj
+  name: Messali Hadj
+  born: "1898-05-16"
+  died: "1974-06-03"
+  roles: [Politiker]
+  summary: Begründer des algerischen Nationalismus, der schon in den 1920er-Jahren die Unabhängigkeit forderte; seine Bewegung MNA wurde im Krieg von der FLN blutig bekämpft.
+  regions: [nordafrika, frankreich]
+  themes: [politik]
+- id: ferhat-abbas
+  name: Ferhat Abbas
+  born: "1899-10-24"
+  died: "1985-12-24"
+  roles: [Politiker]
+  summary: Gemäßigter algerischer Nationalist, der lange auf Gleichberechtigung innerhalb Frankreichs hoffte, sich 1956 der FLN anschloss und 1958 Präsident der provisorischen Exilregierung wurde.
+  regions: [nordafrika]
+  themes: [politik]
+  places: [setif]
+- id: ahmed-ben-bella
+  name: Ahmed Ben Bella
+  born: "1916-12-25"
+  died: "2012-04-11"
+  roles: [Revolutionär, Präsident Algeriens]
+  summary: Mitgründer der FLN, 1956 bei der Entführung seines Flugzeugs durch die französische Armee gefangen genommen; 1962–1965 erster Präsident Algeriens, dann von Houari Boumedienne gestürzt.
+  regions: [nordafrika]
+  themes: [politik, revolutionen]
+  places: [algier]
+- id: larbi-ben-mhidi
+  name: Larbi Ben M'hidi
+  born: "1923"
+  died: "1957-03-04"
+  roles: [Revolutionär]
+  summary: FLN-Führer, der die Organisation in Algier leitete, im Februar 1957 von Fallschirmjägern gefangen und in der Haft ermordet wurde; die Armee gab den Tod als Selbstmord aus, bis General Aussaresses 2000/2001 die Tötung einräumte.
+  regions: [nordafrika]
+  themes: [revolutionen, gewalt-genozid]
+  places: [algier]
+- id: jacques-massu
+  name: Jacques Massu
+  born: "1908-05-05"
+  died: "2002-10-26"
+  roles: [General]
+  summary: Kommandeur der 10. Fallschirmjägerdivision, die 1957 in der „Schlacht um Algier“ mit systematischer Folter die FLN-Netzwerke zerschlug; beteiligte sich im Mai 1958 an der Revolte, die de Gaulle an die Macht brachte.
+  regions: [frankreich, nordafrika]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [algier]
+- id: frantz-fanon
+  name: Frantz Fanon
+  born: "1925-07-20"
+  died: "1961-12-06"
+  roles: [Psychiater, Schriftsteller]
+  summary: Aus Martinique stammender Psychiater, der in Algerien die seelischen Folgen von Kolonialismus und Krieg behandelte, sich der FLN anschloss und mit „Die Verdammten dieser Erde“ zu einem Vordenker antikolonialer Bewegungen wurde.
+  regions: [karibik, nordafrika]
+  themes: [politik, gesellschaft]
+- id: albert-camus
+  name: Albert Camus
+  born: "1913-11-07"
+  died: "1960-01-04"
+  roles: [Schriftsteller, Philosoph]
+  summary: In Algerien geborener französischer Schriftsteller und Literaturnobelpreisträger, der sich gegen Folter und Terror aussprach, aber die Unabhängigkeit Algeriens ablehnte und für eine Föderation warb.
+  regions: [nordafrika, frankreich]
+  themes: [kultur-kunst]
+  places: [algier]
+# Personen: Dekolonisierung Afrikas
+- id: kwame-nkrumah
+  name: Kwame Nkrumah
+  born: "1909-09-21"
+  died: "1972-04-27"
+  roles: [Staatsgründer Ghanas]
+  summary: Führer der Unabhängigkeitsbewegung der Goldküste, der Ghana 1957 als erste Kolonie südlich der Sahara in die Unabhängigkeit führte, für ein vereinigtes Afrika warb, zunehmend autoritär regierte und 1966 durch einen Militärputsch gestürzt wurde.
+  regions: [westafrika]
+  themes: [politik]
+  places: [accra]
+- id: patrice-lumumba
+  name: Patrice Lumumba
+  born: "1925-07-02"
+  died: "1961-01-17"
+  roles: [Premierminister des Kongo]
+  summary: Erster Premierminister des unabhängigen Kongo, der nach wenigen Wochen abgesetzt, an seine Gegner in Katanga ausgeliefert und dort unter belgischer Beteiligung ermordet wurde.
+  regions: [zentralafrika]
+  themes: [politik]
+  places: [kinshasa, lubumbashi]
+- id: moise-tschombe
+  name: Moïse Tschombé
+  aliases: [Moïse Tshombe]
+  born: "1919-11-10"
+  died: "1969-06-29"
+  roles: [Politiker]
+  summary: Führer der Abspaltung der rohstoffreichen Provinz Katanga 1960–1963, gestützt von belgischen Bergbauinteressen und Söldnern; 1964–1965 Premierminister des Kongo.
+  regions: [zentralafrika]
+  themes: [politik]
+  places: [lubumbashi]
+- id: mobutu-sese-seko
+  name: Mobutu Sese Seko
+  aliases: [Joseph-Désiré Mobutu]
+  born: "1930-10-14"
+  died: "1997-09-07"
+  roles: [Offizier, Diktator]
+  summary: Armeechef, der 1960 Lumumba absetzte, 1965 die Macht übernahm und den Kongo – ab 1971 Zaire – mit westlicher Unterstützung bis 1997 als kleptokratischer Diktator regierte.
+  regions: [zentralafrika]
+  themes: [politik]
+  places: [kinshasa]
+- id: dag-hammarskjoeld
+  name: Dag Hammarskjöld
+  born: "1905-07-29"
+  died: "1961-09-18"
+  roles: [UN-Generalsekretär]
+  summary: Schwedischer Diplomat und UN-Generalsekretär ab 1953, der die Friedenstruppe im Kongo aufbaute und 1961 beim bis heute ungeklärten Absturz seines Flugzeugs bei Ndola starb.
+  regions: [nordeuropa, zentralafrika]
+  themes: [politik]
+  places: [new-york]
+- id: sekou-toure
+  name: Ahmed Sékou Touré
+  aliases: [Sékou Touré]
+  born: "1922-01-09"
+  died: "1984-03-26"
+  roles: [Präsident Guineas]
+  summary: Gewerkschafter, der 1958 Guinea als einzige französische Kolonie in Westafrika zum „Nein“ in de Gaulles Referendum führte; danach Präsident eines Einparteienstaats mit berüchtigten Straflagern.
+  regions: [westafrika]
+  themes: [politik]
+  places: [conakry]
+- id: leopold-sedar-senghor
+  name: Léopold Sédar Senghor
+  born: "1906-10-09"
+  died: "2001-12-20"
+  roles: [Dichter, Präsident Senegals]
+  summary: Dichter und Mitbegründer der Négritude-Bewegung, Abgeordneter in der französischen Nationalversammlung und 1960–1980 erster Präsident Senegals.
+  regions: [westafrika, frankreich]
+  themes: [politik, kultur-kunst]
+  places: [dakar, paris]
+- id: harold-macmillan
+  name: Harold Macmillan
+  born: "1894-02-10"
+  died: "1986-12-29"
+  roles: [Premierminister Großbritanniens]
+  summary: Konservativer britischer Premierminister 1957–1963, der nach dem Suez-Debakel den Rückzug aus den afrikanischen Kolonien beschleunigte und 1960 vom „Wind des Wandels“ sprach.
+  regions: [britische-inseln]
+  themes: [politik, imperien]
+  places: [kapstadt]
+- id: gamal-abdel-nasser
+  name: Gamal Abdel Nasser
+  born: "1918-01-15"
+  died: "1970-09-28"
+  roles: [Präsident Ägyptens]
+  summary: Offizier, der 1952 mit dem Putsch der „Freien Offiziere“ die Monarchie stürzte, 1956 den Suezkanal verstaatlichte und zur Leitfigur des arabischen Nationalismus und der Blockfreien wurde.
+  regions: [aegypten]
+  themes: [politik]
+  places: [kairo]

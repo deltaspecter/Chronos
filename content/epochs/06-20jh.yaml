@@ -95,8 +95,6 @@
   body: ""
   planned:
     - Die Berliner Blockade
-    - Der Koreakrieg
-    - Die Kubakrise
     - Die Entspannungspolitik
 
 - id: dekolonisierung
@@ -109,8 +107,6 @@
   summary: Die Unabhängigkeit Indiens, Indonesiens und der meisten afrikanischen Staaten – auf friedlichem Weg oder in langen Befreiungskriegen.
   body: ""
   planned:
-    - Der Algerienkrieg
-    - Das „Afrikanische Jahr“ 1960
     - Die Bandung-Konferenz 1955
 
 - id: deutschland-1945-1990

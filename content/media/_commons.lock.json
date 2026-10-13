@@ -625,5 +625,30 @@
     "author": "James K. F. Dung, SFC, Photographer",
     "license": "Public domain",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:UH-1D_helicopters_in_Vietnam_1966.jpg"
+  },
+  "lumumba-bruessel-1960": {
+    "file": "lumumba-bruessel-1960.jpg",
+    "width": 1197,
+    "height": 1200,
+    "author": "Harry Pot for Anefo",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:De_Congolese_leider_Patrice_Loemoemba_in_Brussel,_Bestanddeelnr_910-9734.jpg"
+  },
+  "incheon-landung": {
+    "file": "incheon-landung.jpg",
+    "width": 1200,
+    "height": 961,
+    "author": "US Navy (Naval History and Heritage Command, 80-G-420027)",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:80-G-420027_Inchon_Invasion,_September_1950.jpg"
+  },
+  "kuba-raketenstellung": {
+    "file": "kuba-raketenstellung.jpg",
+    "width": 1200,
+    "height": 1013,
+    "author": "US-Verteidigungsministerium (National Archives, 193926)",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:MRBM_Field_Launch_Site_San_Cristobal_No._1_14_October_1962_-_NARA_-_193926.tif"
   }
 }

@@ -1,0 +1,281 @@
+# --- Koreakrieg ---
+- id: teilung-koreas
+  title: Befreiung und Teilung Koreas
+  start: "1945-08-15"
+  end: "1948-09-09"
+  weight: 2
+  kind: ereignis
+  summary: Mit der Kapitulation Japans endet die Kolonialherrschaft über Korea. Die USA und die Sowjetunion teilen das Land am 38. Breitengrad in Besatzungszonen; 1948 entstehen im Süden und im Norden zwei Staaten, die beide ganz Korea beanspruchen.
+  regions: [korea]
+  themes: [politik, imperien]
+  places: [seoul, pjoengjang]
+  persons: [kim-il-sung, syngman-rhee]
+  polities: [republik-korea, demokratische-volksrepublik-korea]
+- id: landung-incheon
+  title: Landung bei Incheon
+  start: "1950-09-15"
+  end: "1950-09-19"
+  weight: 3
+  kind: schlacht
+  summary: Amerikanische Truppen landen unter General MacArthur weit hinter der Front bei Incheon, erobern Ende September Seoul zurück und zwingen die nordkoreanische Armee zum Rückzug.
+  regions: [korea]
+  themes: [krieg-militaer]
+  places: [inchon, seoul]
+  persons: [douglas-macarthur]
+- id: chinesischer-kriegseintritt-korea
+  title: Kriegseintritt Chinas in Korea
+  date: "1950-10-19"
+  weight: 3
+  kind: ereignis
+  summary: Als UN-Truppen auf den Grenzfluss Yalu vorrücken, überqueren chinesische „Volksfreiwillige“ unter Peng Dehuai die Grenze; ihre Offensive treibt die UN-Truppen bis südlich von Seoul zurück.
+  regions: [korea, china]
+  themes: [krieg-militaer]
+  persons: [peng-dehuai, mao-zedong]
+  polities: [volksrepublik-china]
+- id: entlassung-macarthur
+  title: Entlassung MacArthurs
+  date: "1951-04-11"
+  weight: 3
+  kind: ereignis
+  summary: Präsident Truman entlässt General MacArthur, der öffentlich eine Ausweitung des Kriegs auf China gefordert hatte – eine Bekräftigung des Vorrangs der zivilen Führung und der Entscheidung für einen begrenzten Krieg.
+  regions: [nordamerika, korea]
+  themes: [politik, krieg-militaer]
+  persons: [harry-s-truman, douglas-macarthur]
+  polities: [vereinigte-staaten]
+- id: waffenstillstand-panmunjom
+  title: Waffenstillstand von Panmunjom
+  date: "1953-07-27"
+  weight: 2
+  kind: vertrag
+  summary: Nach zwei Jahren Verhandlungen, vor allem über die Rückführung der Kriegsgefangenen, endet der Koreakrieg mit einem Waffenstillstand nahe der Vorkriegsgrenze; ein Friedensvertrag folgt nie.
+  regions: [korea]
+  themes: [krieg-militaer, politik]
+  places: [panmunjom]
+  persons: [dwight-d-eisenhower]
+  polities: [republik-korea, demokratische-volksrepublik-korea, vereinte-nationen]
+# --- Kubakrise ---
+- id: kubanische-revolution
+  title: Kubanische Revolution
+  start: "1956-12-02"
+  end: "1959-01-01"
+  weight: 2
+  kind: revolution
+  summary: Eine kleine Guerillagruppe um Fidel Castro und Che Guevara landet auf Kuba und baut in der Sierra Maestra eine Armee auf; Anfang 1959 flieht Diktator Fulgencio Batista, und die Revolutionäre übernehmen die Macht.
+  regions: [karibik]
+  themes: [revolutionen, politik]
+  places: [havanna]
+  persons: [fidel-castro, che-guevara]
+  polities: [kuba]
+- id: invasion-schweinebucht
+  title: Invasion in der Schweinebucht
+  start: "1961-04-17"
+  end: "1961-04-19"
+  weight: 2
+  kind: schlacht
+  summary: Rund 1400 von der CIA ausgebildete Exilkubaner landen an der Südküste Kubas, um Castro zu stürzen; sie werden binnen drei Tagen besiegt. Das Debakel blamiert die Regierung Kennedy und treibt Kuba enger an die Sowjetunion.
+  regions: [karibik, nordamerika]
+  themes: [krieg-militaer]
+  places: [schweinebucht]
+  persons: [john-f-kennedy, fidel-castro]
+  polities: [kuba, vereinigte-staaten]
+- id: schwarzer-samstag-1962
+  title: „Schwarzer Samstag“ der Kubakrise
+  date: "1962-10-27"
+  weight: 3
+  kind: ereignis
+  summary: Der gefährlichste Tag der Krise – eine sowjetische Flugabwehrrakete schießt über Kuba ein amerikanisches U-2-Aufklärungsflugzeug ab, ein weiteres verirrt sich über sowjetisches Gebiet, und amerikanische Zerstörer zwingen ein mit einem Atomtorpedo bewaffnetes U-Boot zum Auftauchen. Am Abend vereinbaren Robert Kennedy und Botschafter Dobrynin den Kompromiss.
+  regions: [karibik, nordamerika, russland]
+  themes: [krieg-militaer, politik]
+  persons: [robert-f-kennedy, anatoli-dobrynin, wassili-archipow]
+- id: teststoppabkommen-1963
+  title: Vertrag über das Verbot von Kernwaffenversuchen
+  date: "1963-08-05"
+  weight: 3
+  kind: vertrag
+  summary: Die USA, die Sowjetunion und Großbritannien verbieten Atomtests in der Atmosphäre, im Weltraum und unter Wasser – das erste Rüstungskontrollabkommen nach der Kubakrise, kurz nach der Vereinbarung über den „heißen Draht“ zwischen Washington und Moskau.
+  regions: [welt]
+  themes: [politik, krieg-militaer]
+  places: [moskau]
+  polities: [vereinigte-staaten, sowjetunion, vereinigtes-koenigreich]
+# --- Algerienkrieg ---
+- id: massaker-setif
+  title: Massaker von Sétif und Guelma
+  start: "1945-05-08"
+  end: "1945-06-30"
+  weight: 3
+  kind: ereignis
+  summary: Am Tag der deutschen Kapitulation tragen Demonstranten in Sétif algerische Fahnen; nach Schüssen der Polizei töten Aufständische rund hundert Europäer. Armee, Luftwaffe und Siedlermilizen antworten mit Massakern, denen Tausende Algerier zum Opfer fallen.
+  regions: [nordafrika]
+  themes: [gewalt-genozid, imperien]
+  places: [setif]
+  polities: [franzoesisch-algerien]
+- id: algerienkrieg
+  title: Algerienkrieg
+  start: "1954-11-01"
+  end: "1962-03-19"
+  weight: 1
+  kind: krieg
+  summary: Unabhängigkeitskrieg der algerischen FLN gegen Frankreich, geführt mit Terroranschlägen, Guerilla, Folter, Massenumsiedlungen und Bürgerkrieg unter Algeriern; er stürzt die Vierte Republik und endet mit der Unabhängigkeit Algeriens.
+  regions: [nordafrika, frankreich]
+  themes: [krieg-militaer, imperien, gewalt-genozid]
+  places: [algier, paris]
+  persons: [ahmed-ben-bella, charles-de-gaulle, jacques-massu]
+  polities: [franzoesisch-algerien, algerien]
+- id: schlacht-um-algier
+  title: „Schlacht um Algier“
+  start: "1957-01-07"
+  end: "1957-10-08"
+  weight: 3
+  kind: schlacht
+  summary: Nach Bombenanschlägen der FLN erhält die 10. Fallschirmjägerdivision unter General Massu Polizeivollmachten in Algier; mit Massenverhaftungen, systematischer Folter und Morden zerschlägt sie die FLN-Netzwerke der Stadt.
+  regions: [nordafrika]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [algier]
+  persons: [jacques-massu, larbi-ben-mhidi]
+- id: mai-krise-1958
+  title: Maikrise 1958
+  start: "1958-05-13"
+  end: "1958-06-01"
+  weight: 2
+  kind: revolution
+  summary: Siedler und Offiziere übernehmen in Algier die Macht und fordern die Rückkehr de Gaulles; unter der Drohung eines Militärputschs in Frankreich wählt die Nationalversammlung ihn zum Regierungschef. Die neue Verfassung begründet die Fünfte Republik.
+  regions: [frankreich, nordafrika]
+  themes: [politik, verfassung-recht]
+  places: [algier, paris]
+  persons: [charles-de-gaulle, jacques-massu]
+- id: pariser-massaker-1961
+  title: Massaker vom 17. Oktober 1961
+  date: "1961-10-17"
+  weight: 3
+  kind: ereignis
+  summary: Die Pariser Polizei unter Präfekt Maurice Papon geht gewaltsam gegen eine friedliche Demonstration algerischer Arbeiter gegen eine Ausgangssperre vor; Dutzende, nach manchen Schätzungen über hundert Menschen werden getötet, viele in die Seine geworfen.
+  regions: [frankreich]
+  themes: [gewalt-genozid]
+  places: [paris]
+- id: abkommen-evian
+  title: Abkommen von Évian
+  date: "1962-03-18"
+  weight: 2
+  kind: vertrag
+  summary: Frankreich und die provisorische algerische Regierung vereinbaren einen Waffenstillstand und eine Volksabstimmung über die Unabhängigkeit; die Terrororganisation OAS versucht vergeblich, die Umsetzung mit Anschlägen zu verhindern.
+  regions: [frankreich, nordafrika]
+  themes: [politik]
+  places: [evian]
+  persons: [charles-de-gaulle]
+  polities: [franzoesisch-algerien]
+- id: unabhaengigkeit-algeriens
+  title: Unabhängigkeit Algeriens
+  date: "1962-07-05"
+  weight: 2
+  kind: gruendung
+  summary: Nach einer Volksabstimmung mit überwältigender Mehrheit für die Unabhängigkeit wird Algerien am 132. Jahrestag der französischen Eroberung von Algier unabhängig; fast alle Europäer und viele Harkis fliehen nach Frankreich.
+  regions: [nordafrika]
+  themes: [politik, migration]
+  places: [algier]
+  persons: [ahmed-ben-bella]
+  polities: [algerien]
+# --- Dekolonisierung Afrikas ---
+- id: suezkrise
+  title: Suezkrise
+  start: "1956-10-29"
+  end: "1956-11-07"
+  weight: 2
+  kind: krieg
+  summary: Nach der Verstaatlichung des Suezkanals durch Nasser greifen Israel, Großbritannien und Frankreich Ägypten an; unter Druck der USA und der Sowjetunion müssen sie abziehen – ein Wendepunkt für das Ende der europäischen Kolonialmacht.
+  regions: [aegypten, westasien]
+  themes: [krieg-militaer, imperien]
+  places: [kairo]
+  persons: [gamal-abdel-nasser]
+- id: unabhaengigkeit-ghanas
+  title: Unabhängigkeit Ghanas
+  date: "1957-03-06"
+  weight: 2
+  kind: gruendung
+  summary: Die britische Kolonie Goldküste wird unter Kwame Nkrumah als Ghana unabhängig – als erste Kolonie Afrikas südlich der Sahara nach dem Zweiten Weltkrieg, mit Signalwirkung für den ganzen Kontinent.
+  regions: [westafrika]
+  themes: [politik]
+  places: [accra]
+  persons: [kwame-nkrumah]
+  polities: [goldkueste, ghana]
+- id: referendum-1958-guinea
+  title: Guineas „Nein“ zur Französischen Gemeinschaft
+  date: "1958-09-28"
+  weight: 3
+  kind: ereignis
+  summary: In de Gaulles Verfassungsreferendum stimmen alle französischen Kolonien in Afrika für den Verbleib in einer „Französischen Gemeinschaft“ – außer Guinea, das am 2. Oktober unabhängig wird. Frankreich zieht daraufhin Personal, Geld und Ausrüstung ab.
+  regions: [westafrika]
+  themes: [politik]
+  places: [conakry]
+  persons: [sekou-toure, charles-de-gaulle]
+  polities: [franzoesisch-westafrika]
+- id: wind-of-change-rede
+  title: „Wind of Change“-Rede Macmillans
+  date: "1960-02-03"
+  weight: 3
+  kind: ereignis
+  summary: Der britische Premierminister erklärt vor dem Parlament in Kapstadt, ein „Wind des Wandels“ wehe durch Afrika, und signalisiert damit den Rückzug Großbritanniens aus seinen Kolonien.
+  regions: [suedliches-afrika, britische-inseln]
+  themes: [politik, imperien]
+  places: [kapstadt]
+  persons: [harold-macmillan]
+- id: afrikanisches-jahr
+  title: „Afrikanisches Jahr“
+  start: "1960-01-01"
+  end: "1960-11-28"
+  weight: 2
+  kind: ereignis
+  summary: Siebzehn afrikanische Staaten werden 1960 unabhängig, darunter vierzehn bisher französische Kolonien bzw. Treuhandgebiete, der Kongo, Somalia und Nigeria, das bevölkerungsreichste Land des Kontinents.
+  regions: [afrika]
+  themes: [politik, imperien]
+  places: [dakar, kinshasa]
+  polities: [demokratische-republik-kongo, franzoesisch-westafrika]
+- id: kongokrise
+  title: Kongokrise
+  start: "1960-07-05"
+  end: "1965-11-25"
+  weight: 2
+  kind: krieg
+  summary: Wenige Tage nach der Unabhängigkeit meutert die Armee, Katanga spaltet sich ab, Belgien schickt Truppen; die UN entsenden eine Friedensmission, Premier Lumumba wird gestürzt und ermordet. Die Krise endet mit der Machtübernahme Mobutus.
+  regions: [zentralafrika]
+  themes: [krieg-militaer, politik]
+  places: [kinshasa, lubumbashi]
+  persons: [patrice-lumumba, moise-tschombe, mobutu-sese-seko, dag-hammarskjoeld]
+  polities: [demokratische-republik-kongo, staat-katanga, vereinte-nationen]
+- id: ermordung-lumumbas
+  title: Ermordung Patrice Lumumbas
+  date: "1961-01-17"
+  weight: 3
+  kind: ereignis
+  summary: Der abgesetzte Premierminister wird nach Katanga gebracht und dort von katangischen Soldaten unter Aufsicht belgischer Offiziere erschossen; eine belgische Untersuchungskommission bestätigte 2001 die „moralische Verantwortung“ Belgiens.
+  regions: [zentralafrika]
+  themes: [gewalt-genozid, politik]
+  places: [lubumbashi]
+  persons: [patrice-lumumba, moise-tschombe]
+- id: un-resolution-1514
+  title: UN-Erklärung zur Entkolonialisierung
+  date: "1960-12-14"
+  weight: 3
+  kind: ereignis
+  summary: Die Generalversammlung erklärt, Fremdherrschaft verletze die Menschenrechte, und fordert die unverzügliche Unabhängigkeit aller Kolonien; die Kolonialmächte enthalten sich.
+  regions: [welt]
+  themes: [politik, verfassung-recht]
+  places: [new-york]
+  polities: [vereinte-nationen]
+- id: gruendung-oau
+  title: Gründung der Organisation für Afrikanische Einheit
+  date: "1963-05-25"
+  weight: 3
+  kind: gruendung
+  summary: Zweiunddreißig unabhängige afrikanische Staaten gründen in Addis Abeba die OAU; sie unterstützt die Befreiungsbewegungen im südlichen Afrika und bekennt sich 1964 zur Unverletzlichkeit der kolonialen Grenzen.
+  regions: [afrika]
+  themes: [politik]
+  persons: [kwame-nkrumah]
+- id: mau-mau-krieg
+  title: Mau-Mau-Krieg in Kenia
+  start: "1952-10-20"
+  end: "1960-01-12"
+  weight: 3
+  kind: krieg
+  summary: Die britische Kolonialregierung verhängt den Ausnahmezustand gegen die Aufstandsbewegung der „Land and Freedom Army“, die vor allem unter den landlosen Kikuyu Rückhalt hat. Mehr als zehntausend Aufständische werden getötet, über tausend gehängt und Zehntausende Menschen in Lager gesperrt, in denen gefoltert wird.
+  regions: [ostafrika]
+  themes: [krieg-militaer, imperien, gewalt-genozid]
