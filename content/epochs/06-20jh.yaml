@@ -8,8 +8,6 @@
   body: |
     Zwischen 1914 und 1945 wurden die Gesellschaften Europas und großer Teile der Welt durch Krieg, Revolution und Massengewalt erschüttert. Manche Historiker fassen die Jahre 1914 bis 1945 in Anlehnung an den Krieg von 1618 bis 1648 als „zweiten Dreißigjährigen Krieg“ zusammen; diese Deutung ist umstritten, weil sie die Unterschiede zwischen beiden Weltkriegen und die eigenständigen Ursachen der Zwischenkriegskrisen verwischen kann.
   planned:
-    - Die Weimarer Republik
-    - Die Weltwirtschaftskrise
     - Der Faschismus in Italien
     - Der Stalinismus
 
@@ -23,7 +21,6 @@
   summary: Der erste industrialisierte Massenkrieg – je nach Zählweise mit 15 bis 20 Millionen Toten –, der das europäische Staatensystem zerstörte.
   body: ""
   planned:
-    - Der Völkermord an den Armeniern
     - Die Schlacht von Verdun
     - Der Versailler Vertrag
     - Kolonialtruppen im Ersten Weltkrieg
@@ -100,7 +97,6 @@
     - Die Berliner Blockade
     - Der Koreakrieg
     - Die Kubakrise
-    - Der Vietnamkrieg
     - Die Entspannungspolitik
 
 - id: dekolonisierung

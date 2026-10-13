@@ -591,5 +591,39 @@
     "author": "Unbekannter Fotograf (Library of Congress)",
     "license": "Public domain",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:4th_United_States_Colored_Infantry.jpg"
+  },
+  "inflation-geldscheine": {
+    "file": "inflation-geldscheine.jpg",
+    "width": 540,
+    "height": 783,
+    "author": "Pahl, Georg",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_102-00104,_Inflation,_Tapezieren_mit_Geldscheinen.jpg"
+  },
+  "migrant-mother": {
+    "file": "migrant-mother.jpg",
+    "width": 923,
+    "height": 1200,
+    "author": "Dorothea Lange",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lange-MigrantMother02.jpg"
+  },
+  "zizernakaberd": {
+    "file": "zizernakaberd.jpg",
+    "width": 1200,
+    "height": 800,
+    "author": "Gerd Eichmann",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yerevan-Tsitsernakaberd-12-2019-gje.jpg"
+  },
+  "vietnam-hubschrauber": {
+    "file": "vietnam-hubschrauber.jpg",
+    "width": 1200,
+    "height": 775,
+    "author": "James K. F. Dung, SFC, Photographer",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:UH-1D_helicopters_in_Vietnam_1966.jpg"
   }
 }

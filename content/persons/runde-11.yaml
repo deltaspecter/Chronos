@@ -1,0 +1,368 @@
+# Personen: Weimarer Republik
+- id: friedrich-ebert
+  name: Friedrich Ebert
+  born: "1871-02-04"
+  died: "1925-02-28"
+  roles: [Reichspräsident]
+  summary: Sozialdemokratischer Sattler und Parteivorsitzender, der im November 1918 die Regierung übernahm, sich mit der Armeeführung verbündete und 1919–1925 erster Reichspräsident war.
+  regions: [deutschland]
+  themes: [politik]
+  places: [berlin, weimar]
+- id: philipp-scheidemann
+  name: Philipp Scheidemann
+  born: "1865-07-26"
+  died: "1939-11-29"
+  roles: [Politiker]
+  summary: Sozialdemokrat, der am 9. November 1918 die Republik ausrief und 1919 erster Reichsministerpräsident wurde; trat aus Protest gegen den Versailler Vertrag zurück.
+  regions: [deutschland]
+  themes: [politik]
+  places: [reichstagsgebaeude]
+- id: rosa-luxemburg
+  name: Rosa Luxemburg
+  born: "1871-03-05"
+  died: "1919-01-15"
+  roles: [Theoretikerin, Politikerin]
+  summary: In Polen geborene sozialistische Theoretikerin und Mitgründerin der KPD, die nach dem Januaraufstand 1919 von Freikorpssoldaten ermordet wurde.
+  regions: [deutschland, osteuropa]
+  themes: [politik, revolutionen]
+  places: [berlin]
+  related: [karl-liebknecht]
+- id: karl-liebknecht
+  name: Karl Liebknecht
+  born: "1871-08-13"
+  died: "1919-01-15"
+  roles: [Politiker]
+  summary: Sozialistischer Politiker, der 1914 als erster Reichstagsabgeordneter gegen die Kriegskredite stimmte, am 9. November 1918 die „freie sozialistische Republik“ ausrief und im Januar 1919 ermordet wurde.
+  regions: [deutschland]
+  themes: [politik, revolutionen]
+  places: [berlin]
+  related: [rosa-luxemburg]
+- id: gustav-noske
+  name: Gustav Noske
+  born: "1868-07-09"
+  died: "1946-11-30"
+  roles: [Reichswehrminister]
+  summary: Sozialdemokratischer Volksbeauftragter und Reichswehrminister, der 1919 Aufstände von links mit Freikorps niederschlagen ließ.
+  regions: [deutschland]
+  themes: [politik, krieg-militaer]
+- id: marie-juchacz
+  name: Marie Juchacz
+  born: "1879-03-15"
+  died: "1956-01-28"
+  roles: [Politikerin]
+  summary: Sozialdemokratin und Gründerin der Arbeiterwohlfahrt, die am 19. Februar 1919 als erste Frau in einem deutschen Parlament eine Rede hielt.
+  regions: [deutschland]
+  themes: [politik, gesellschaft]
+  places: [weimar]
+- id: matthias-erzberger
+  name: Matthias Erzberger
+  born: "1875-09-20"
+  died: "1921-08-26"
+  roles: [Politiker]
+  summary: Zentrumspolitiker, der im November 1918 den Waffenstillstand unterzeichnete und als Finanzminister das Steuersystem reformierte; 1921 von rechtsextremen Attentätern ermordet.
+  regions: [deutschland]
+  themes: [politik]
+- id: walther-rathenau
+  name: Walther Rathenau
+  born: "1867-09-29"
+  died: "1922-06-24"
+  roles: [Industrieller, Außenminister]
+  summary: Jüdischer Industrieller und Schriftsteller, als Außenminister 1922 von Mitgliedern der rechtsextremen „Organisation Consul“ in Berlin ermordet.
+  regions: [deutschland]
+  themes: [politik]
+  places: [berlin]
+- id: gustav-stresemann
+  name: Gustav Stresemann
+  born: "1878-05-10"
+  died: "1929-10-03"
+  roles: [Reichskanzler, Außenminister]
+  summary: Liberaler Politiker, der 1923 als Kanzler die Inflation beendete und als Außenminister bis 1929 Verständigung mit den Westmächten suchte; Friedensnobelpreis 1926.
+  regions: [deutschland]
+  themes: [politik]
+  places: [locarno]
+- id: heinrich-bruening
+  name: Heinrich Brüning
+  born: "1885-11-26"
+  died: "1970-03-30"
+  roles: [Reichskanzler]
+  summary: Zentrumspolitiker, der 1930–1932 mit Notverordnungen des Reichspräsidenten ohne parlamentarische Mehrheit regierte und mit einer harten Sparpolitik auf die Krise reagierte.
+  regions: [deutschland]
+  themes: [politik, wirtschaft-handel]
+- id: franz-von-papen
+  name: Franz von Papen
+  born: "1879-10-29"
+  died: "1969-05-02"
+  roles: [Reichskanzler]
+  summary: Konservativer Politiker, Reichskanzler 1932, der den Staatsstreich gegen Preußen durchführte und im Januar 1933 Hitlers Ernennung zum Kanzler mit aushandelte.
+  regions: [deutschland]
+  themes: [politik]
+- id: kurt-von-schleicher
+  name: Kurt von Schleicher
+  born: "1882-04-07"
+  died: "1934-06-30"
+  roles: [General, Reichskanzler]
+  summary: General und politischer Strippenzieher, letzter Kanzler vor Hitler (Dezember 1932 bis Januar 1933); 1934 von der SS ermordet.
+  regions: [deutschland]
+  themes: [politik, krieg-militaer]
+- id: otto-wels
+  name: Otto Wels
+  born: "1873-09-15"
+  died: "1939-09-16"
+  roles: [Politiker]
+  summary: SPD-Vorsitzender, der am 23. März 1933 im Reichstag die Ablehnung des Ermächtigungsgesetzes begründete – „Freiheit und Leben kann man uns nehmen, die Ehre nicht.“
+  regions: [deutschland]
+  themes: [politik]
+# Personen: Völkermord an den Armeniern
+- id: talat-pascha
+  name: Talât Pascha
+  aliases: [Mehmed Talât]
+  born: "1874-09-01"
+  died: "1921-03-15"
+  roles: [Innenminister, Großwesir]
+  summary: Führender Politiker des jungtürkischen Komitees für Einheit und Fortschritt und als Innenminister Hauptverantwortlicher für die Deportation und Vernichtung der Armenier; 1921 in Berlin von einem Überlebenden erschossen.
+  regions: [anatolien]
+  themes: [politik, gewalt-genozid]
+  places: [istanbul, berlin]
+- id: enver-pascha
+  name: Enver Pascha
+  born: "1881-11-22"
+  died: "1922-08-04"
+  roles: [Kriegsminister]
+  summary: Jungtürkischer Offizier und Kriegsminister, der das Osmanische Reich an der Seite Deutschlands in den Ersten Weltkrieg führte; nach der Niederlage geflohen, fiel er 1922 in Zentralasien.
+  regions: [anatolien, zentralasien]
+  themes: [krieg-militaer, politik]
+  places: [istanbul]
+- id: johannes-lepsius
+  name: Johannes Lepsius
+  born: "1858-12-15"
+  died: "1926-02-03"
+  roles: [Theologe, Publizist]
+  summary: Evangelischer Theologe, der 1915 nach Konstantinopel reiste, die Vernichtung der Armenier dokumentierte und gegen die Zensur in Deutschland bekannt machte.
+  regions: [deutschland, anatolien]
+  themes: [religion, gewalt-genozid]
+- id: henry-morgenthau-sr
+  name: Henry Morgenthau senior
+  aliases: [Henry Morgenthau]
+  born: "1856-04-26"
+  died: "1946-11-25"
+  roles: [Diplomat]
+  summary: Amerikanischer Botschafter im Osmanischen Reich 1913–1916, der die US-Regierung über die Massaker informierte und Hilfsaktionen anstieß.
+  regions: [nordamerika, anatolien]
+  themes: [politik]
+  places: [istanbul]
+- id: armin-t-wegner
+  name: Armin T. Wegner
+  born: "1886-10-16"
+  died: "1978-05-17"
+  roles: [Schriftsteller, Sanitäter]
+  summary: Deutscher Sanitätsoffizier, der 1915/16 in Syrien und Mesopotamien heimlich Deportationslager fotografierte; 1933 protestierte er bei Hitler gegen die Judenverfolgung und wurde verhaftet.
+  regions: [deutschland, levante]
+  themes: [gewalt-genozid]
+  places: [aleppo, deir-ez-zor]
+- id: komitas
+  name: Komitas
+  aliases: [Soghomon Soghomonian]
+  born: "1869-10-08"
+  died: "1935-10-22"
+  roles: [Priester, Komponist]
+  summary: Armenischer Priester, Komponist und Musikethnologe, der am 24. April 1915 mit Hunderten Intellektuellen verhaftet wurde; er überlebte, zerbrach aber an dem Erlebten.
+  regions: [anatolien]
+  themes: [kultur-kunst]
+  places: [istanbul]
+- id: soghomon-tehlirian
+  name: Soghomon Tehlirian
+  born: "1896-04-02"
+  died: "1960-05-23"
+  roles: [Attentäter]
+  summary: Überlebender des Völkermords, der 1921 in Berlin Talât Pascha erschoss und von einem deutschen Geschworenengericht freigesprochen wurde.
+  regions: [anatolien, deutschland]
+  themes: [gewalt-genozid]
+  places: [berlin]
+- id: raphael-lemkin
+  name: Raphael Lemkin
+  born: "1900-06-24"
+  died: "1959-08-28"
+  roles: [Jurist]
+  summary: Polnisch-jüdischer Jurist, der unter dem Eindruck der Armeniermorde und des Holocaust den Begriff „Genozid“ prägte und die Völkermordkonvention der UN von 1948 durchsetzte.
+  regions: [osteuropa, nordamerika]
+  themes: [verfassung-recht, gewalt-genozid]
+- id: franz-werfel
+  name: Franz Werfel
+  born: "1890-09-10"
+  died: "1945-08-26"
+  roles: [Schriftsteller]
+  summary: Prager Schriftsteller, dessen Roman „Die vierzig Tage des Musa Dagh“ (1933) den Völkermord an den Armeniern weltweit bekannt machte.
+  regions: [mitteleuropa]
+  themes: [kultur-kunst]
+  places: [musa-dagh]
+- id: mustafa-kemal
+  name: Mustafa Kemal Atatürk
+  aliases: [Atatürk, Mustafa Kemal]
+  born: "1881"
+  died: "1938-11-10"
+  roles: [General, Staatspräsident]
+  summary: Osmanischer Offizier, der nach dem Ersten Weltkrieg den Unabhängigkeitskrieg anführte, 1923 die Republik Türkei gründete und sie mit radikalen Reformen umbaute.
+  regions: [anatolien]
+  themes: [politik, krieg-militaer]
+# Personen: Weltwirtschaftskrise
+- id: herbert-hoover
+  name: Herbert Hoover
+  born: "1874-08-10"
+  died: "1964-10-20"
+  roles: [Präsident der USA]
+  summary: Ingenieur und Präsident der USA 1929–1933, dem viele vorwarfen, zu wenig gegen die Krise getan zu haben; schlug 1931 ein Moratorium für Reparationen und Kriegsschulden vor.
+  regions: [nordamerika]
+  themes: [politik]
+  places: [washington]
+- id: john-maynard-keynes
+  name: John Maynard Keynes
+  born: "1883-06-05"
+  died: "1946-04-21"
+  roles: [Ökonom]
+  summary: Britischer Ökonom, der die Reparationen des Versailler Vertrags kritisierte und mit seiner „General Theory“ (1936) die Grundlage für eine aktive staatliche Konjunkturpolitik schuf.
+  regions: [britische-inseln]
+  themes: [wirtschaft-handel]
+  places: [london]
+- id: hjalmar-schacht
+  name: Hjalmar Schacht
+  born: "1877-01-22"
+  died: "1970-06-03"
+  roles: [Bankier, Reichsbankpräsident]
+  summary: Reichsbankpräsident, der 1923/24 die Währung stabilisierte und ab 1933 als Wirtschaftsminister die Aufrüstung des NS-Staats finanzieren half.
+  regions: [deutschland]
+  themes: [wirtschaft-handel]
+- id: dorothea-lange
+  name: Dorothea Lange
+  born: "1895-05-26"
+  died: "1965-10-11"
+  roles: [Fotografin]
+  summary: Amerikanische Fotografin, deren Bilder von Wanderarbeitern in der Weltwirtschaftskrise, besonders „Migrant Mother“ (1936), zu Ikonen der Zeit wurden.
+  regions: [nordamerika]
+  themes: [kultur-kunst, gesellschaft]
+- id: marie-jahoda
+  name: Marie Jahoda
+  born: "1907-01-26"
+  died: "2001-04-28"
+  roles: [Sozialpsychologin]
+  summary: Wiener Sozialforscherin und Mitautorin der Studie „Die Arbeitslosen von Marienthal“, die die lähmenden Folgen der Arbeitslosigkeit zeigte; emigrierte 1937.
+  regions: [mitteleuropa, britische-inseln]
+  themes: [gesellschaft, wissenschaft-technik]
+  places: [marienthal]
+- id: john-steinbeck
+  name: John Steinbeck
+  born: "1902-02-27"
+  died: "1968-12-20"
+  roles: [Schriftsteller]
+  summary: Amerikanischer Schriftsteller, dessen Roman „Früchte des Zorns“ (1939) das Schicksal der aus dem Dust Bowl vertriebenen Farmer erzählt; Literaturnobelpreis 1962.
+  regions: [nordamerika]
+  themes: [kultur-kunst]
+  places: [dust-bowl]
+# Personen: Vietnamkrieg
+- id: vo-nguyen-giap
+  name: Võ Nguyên Giáp
+  born: "1911-08-25"
+  died: "2013-10-04"
+  roles: [General]
+  summary: Geschichtslehrer und Oberbefehlshaber der vietnamesischen Volksarmee, der 1954 bei Điện Biên Phủ die Franzosen besiegte.
+  regions: [suedostasien]
+  themes: [krieg-militaer]
+  places: [dien-bien-phu, hanoi]
+- id: ngo-dinh-diem
+  name: Ngô Đình Diệm
+  born: "1901-01-03"
+  died: "1963-11-02"
+  roles: [Präsident Südvietnams]
+  summary: Katholischer Nationalist und Präsident der Republik Vietnam ab 1955, der autoritär regierte, Buddhisten unterdrückte und 1963 bei einem von den USA geduldeten Putsch ermordet wurde.
+  regions: [suedostasien]
+  themes: [politik]
+  places: [saigon]
+- id: lyndon-b-johnson
+  name: Lyndon B. Johnson
+  born: "1908-08-27"
+  died: "1973-01-22"
+  roles: [Präsident der USA]
+  summary: Präsident der USA 1963–1969, der die Bürgerrechtsgesetze durchsetzte und den Krieg in Vietnam massiv ausweitete; verzichtete 1968 auf eine erneute Kandidatur.
+  regions: [nordamerika]
+  themes: [politik, krieg-militaer]
+  places: [washington]
+- id: richard-nixon
+  name: Richard Nixon
+  born: "1913-01-09"
+  died: "1994-04-22"
+  roles: [Präsident der USA]
+  summary: Präsident der USA 1969–1974, der die amerikanischen Truppen schrittweise abzog, den Krieg zugleich auf Kambodscha und Laos ausweitete und wegen der Watergate-Affäre zurücktrat.
+  regions: [nordamerika]
+  themes: [politik]
+  places: [washington]
+- id: henry-kissinger
+  name: Henry Kissinger
+  born: "1923-05-27"
+  died: "2023-11-29"
+  roles: [Sicherheitsberater, Außenminister]
+  summary: In Fürth geborener amerikanischer Politikwissenschaftler, Sicherheitsberater und Außenminister unter Nixon, der das Pariser Abkommen von 1973 aushandelte; Friedensnobelpreis 1973.
+  regions: [nordamerika]
+  themes: [politik]
+  places: [paris, fuerth]
+- id: le-duc-tho
+  name: Lê Đức Thọ
+  born: "1911-10-14"
+  died: "1990-10-13"
+  roles: [Politiker, Unterhändler]
+  summary: Nordvietnamesischer Politiker und Unterhändler in Paris, der 1973 als einziger Mensch den Friedensnobelpreis ablehnte, weil noch kein Frieden herrsche.
+  regions: [suedostasien]
+  themes: [politik]
+  places: [paris, hanoi]
+- id: le-duan
+  name: Lê Duẩn
+  born: "1907-04-07"
+  died: "1986-07-10"
+  roles: [Parteichef]
+  summary: Generalsekretär der Kommunistischen Partei Vietnams ab 1960 und tatsächlich mächtigster Mann in Hanoi während des Krieges gegen die USA.
+  regions: [suedostasien]
+  themes: [politik]
+  places: [hanoi]
+- id: robert-mcnamara
+  name: Robert McNamara
+  born: "1916-06-09"
+  died: "2009-07-06"
+  roles: [Verteidigungsminister]
+  summary: Verteidigungsminister der USA 1961–1968 und ein Architekt der Eskalation in Vietnam, der später einräumte, die Politik sei „schrecklich falsch“ gewesen.
+  regions: [nordamerika]
+  themes: [krieg-militaer, politik]
+  places: [washington]
+- id: thich-quang-duc
+  name: Thích Quảng Đức
+  died: "1963-06-11"
+  roles: [Mönch]
+  summary: Buddhistischer Mönch, der sich in Saigon aus Protest gegen die Unterdrückung der Buddhisten durch das Diệm-Regime öffentlich verbrannte.
+  regions: [suedostasien]
+  themes: [religion, politik]
+  places: [saigon]
+- id: daniel-ellsberg
+  name: Daniel Ellsberg
+  born: "1931-04-07"
+  died: "2023-06-16"
+  roles: [Militäranalyst]
+  summary: Militäranalyst, der die geheime Vietnam-Studie des Pentagon kopierte und 1971 an die Presse gab.
+  regions: [nordamerika]
+  themes: [politik, schrift-medien]
+- id: pol-pot
+  name: Pol Pot
+  aliases: [Saloth Sar]
+  born: "1925-05-19"
+  died: "1998-04-15"
+  roles: [Diktator]
+  summary: Führer der Roten Khmer, unter deren Herrschaft in Kambodscha 1975–1979 rund 1,7 bis 2 Millionen Menschen durch Hinrichtungen, Zwangsarbeit, Hunger und Krankheiten starben.
+  regions: [suedostasien]
+  themes: [gewalt-genozid, politik]
+  places: [phnom-penh]
+- id: martin-luther-king
+  name: Martin Luther King Jr.
+  aliases: [Martin Luther King, MLK]
+  born: "1929-01-15"
+  died: "1968-04-04"
+  roles: [Pfarrer, Bürgerrechtler]
+  summary: Baptistenpfarrer und Anführer der gewaltfreien Bürgerrechtsbewegung in den USA, Friedensnobelpreis 1964; wandte sich 1967 öffentlich gegen den Vietnamkrieg und wurde 1968 in Memphis ermordet.
+  regions: [nordamerika]
+  themes: [politik, gesellschaft]
+  places: [washington]

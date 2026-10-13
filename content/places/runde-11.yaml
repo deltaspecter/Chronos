@@ -1,0 +1,173 @@
+# Orte: Weimarer Republik
+- id: weimar
+  name: Weimar
+  coords: [11.3235, 50.9795]
+  categories: [stadt, kulturzentrum]
+  modernName: Weimar (Deutschland)
+  summary: Thüringische Residenzstadt der Klassik, in deren Nationaltheater 1919 die Nationalversammlung tagte und die Verfassung der ersten deutschen Republik beriet.
+  regions: [deutschland]
+  themes: [politik, kultur-kunst]
+- id: reichstagsgebaeude
+  name: Reichstagsgebäude
+  aliases: [Reichstag]
+  coords: [13.3761, 52.5186]
+  categories: [fundstaette]
+  modernName: Sitz des Deutschen Bundestags, Berlin
+  summary: Parlamentsgebäude in Berlin, von dessen Balkon Philipp Scheidemann 1918 die Republik ausrief; der Brand im Februar 1933 diente den Nationalsozialisten als Vorwand zur Abschaffung der Grundrechte.
+  regions: [deutschland]
+  themes: [politik]
+- id: feldherrnhalle
+  name: Feldherrnhalle
+  coords: [11.5771, 48.1419]
+  categories: [fundstaette]
+  modernName: Odeonsplatz, München
+  summary: Monument in München, vor dem die bayerische Polizei am 9. November 1923 den Putschversuch Hitlers und Ludendorffs stoppte.
+  regions: [deutschland]
+  themes: [politik]
+- id: locarno
+  name: Locarno
+  coords: [8.7944, 46.1709]
+  categories: [stadt]
+  modernName: Locarno (Schweiz)
+  summary: Kurort am Lago Maggiore, in dem im Oktober 1925 die Verträge über die deutschen Westgrenzen ausgehandelt wurden.
+  regions: [mitteleuropa]
+  themes: [politik]
+# Orte: Völkermord an den Armeniern
+- id: van
+  name: Van
+  coords: [43.3800, 38.4946]
+  categories: [stadt]
+  modernName: Van (Türkei)
+  summary: Stadt im Osten Anatoliens mit großer armenischer Bevölkerung, deren Einwohner sich im April und Mai 1915 gegen die drohende Vernichtung verteidigten.
+  regions: [anatolien]
+  themes: [gewalt-genozid]
+- id: musa-dagh
+  name: Musa Dagh
+  aliases: [Mosesberg]
+  coords: [35.9667, 36.1333]
+  location: ungefaehr
+  categories: [region]
+  modernName: Provinz Hatay (Türkei)
+  summary: Bergmassiv am Mittelmeer, auf dem sich 1915 rund 4.000 armenische Dorfbewohner wochenlang gegen osmanische Truppen verteidigten, bis französische Kriegsschiffe sie retteten.
+  regions: [anatolien, levante]
+  themes: [gewalt-genozid]
+- id: aleppo
+  name: Aleppo
+  aliases: [Halab]
+  coords: [37.1343, 36.2021]
+  categories: [stadt]
+  modernName: Aleppo (Syrien)
+  summary: Großstadt in Nordsyrien und Durchgangsstation der Deportationszüge in die syrische Wüste 1915/16.
+  regions: [levante]
+  themes: [handelsnetze]
+- id: deir-ez-zor
+  name: Deir ez-Zor
+  coords: [40.1408, 35.3359]
+  categories: [stadt]
+  modernName: Deir ez-Zor (Syrien)
+  summary: Stadt am Euphrat, Endpunkt vieler Todesmärsche; in der umliegenden Wüste wurden 1916 Zehntausende deportierte Armenier ermordet oder starben an Hunger.
+  regions: [levante, mesopotamien]
+  themes: [gewalt-genozid]
+- id: erzurum
+  name: Erzurum
+  aliases: [Karin]
+  coords: [41.2769, 39.9086]
+  categories: [stadt]
+  modernName: Erzurum (Türkei)
+  summary: Festungsstadt in Ostanatolien, deren armenische Bevölkerung 1915 deportiert wurde.
+  regions: [anatolien]
+  themes: [gewalt-genozid]
+- id: jerewan
+  name: Jerewan
+  aliases: [Eriwan, Yerevan, Zizernakaberd]
+  coords: [44.5152, 40.1872]
+  categories: [stadt, hauptstadt]
+  modernName: Jerewan (Armenien)
+  summary: Hauptstadt Armeniens; auf dem Hügel Zizernakaberd erinnert seit 1967 eine Gedenkstätte an die Opfer des Völkermords.
+  regions: [westasien]
+  themes: [politik]
+# Orte: Weltwirtschaftskrise
+- id: wall-street
+  name: Wall Street
+  aliases: [New York Stock Exchange]
+  coords: [-74.0090, 40.7060]
+  categories: [fundstaette]
+  modernName: Manhattan, New York (USA)
+  summary: Straße in Manhattan mit der New Yorker Börse, deren Zusammenbruch im Oktober 1929 die Weltwirtschaftskrise einleitete.
+  regions: [nordamerika]
+  themes: [wirtschaft-handel]
+- id: marienthal
+  name: Marienthal
+  aliases: [Gramatneusiedl]
+  coords: [16.4886, 48.0283]
+  categories: [stadt]
+  modernName: Gramatneusiedl (Österreich)
+  summary: Arbeitersiedlung einer Textilfabrik bei Wien, deren arbeitslos gewordene Bewohner 1931/32 in einer berühmten Studie untersucht wurden.
+  regions: [mitteleuropa]
+  themes: [gesellschaft]
+- id: dust-bowl
+  name: Dust Bowl
+  coords: [-101.5000, 36.7000]
+  location: ungefaehr
+  categories: [region]
+  modernName: Great Plains (USA)
+  summary: Region der südlichen Great Plains, in der in den 1930er-Jahren Dürre und Staubstürme auf übernutzten Böden Hunderttausende Farmer vertrieben.
+  regions: [nordamerika]
+  themes: [umwelt-klima, migration]
+# Orte: Vietnamkrieg
+- id: dien-bien-phu
+  name: Điện Biên Phủ
+  aliases: [Dien Bien Phu]
+  coords: [103.0169, 21.3856]
+  categories: [schlachtfeld, stadt]
+  modernName: Điện Biên Phủ (Vietnam)
+  summary: Talkessel im Nordwesten Vietnams, in dem die Viet Minh 1954 eine französische Festung einschlossen und zur Kapitulation zwangen.
+  regions: [suedostasien]
+  themes: [krieg-militaer]
+- id: golf-von-tonkin
+  name: Golf von Tonkin
+  coords: [107.5000, 20.0000]
+  location: ungefaehr
+  categories: [region]
+  modernName: Golf von Bắc Bộ
+  summary: Meeresbucht vor Nordvietnam, in der es im August 1964 zu Zwischenfällen zwischen amerikanischen Zerstörern und nordvietnamesischen Booten kam.
+  regions: [suedostasien]
+  themes: [krieg-militaer]
+- id: hue
+  name: Huế
+  aliases: [Hue]
+  coords: [107.5909, 16.4637]
+  categories: [stadt, hauptstadt]
+  modernName: Huế (Vietnam)
+  summary: Alte Kaiserstadt in Zentralvietnam, um die während der Tet-Offensive 1968 wochenlang gekämpft wurde; dabei ermordeten nordvietnamesische Truppen Tausende Zivilisten.
+  regions: [suedostasien]
+  themes: [krieg-militaer, kultur-kunst]
+- id: my-lai
+  name: Mỹ Lai
+  aliases: [Sơn Mỹ, My Lai]
+  coords: [108.8667, 15.1783]
+  location: ungefaehr
+  categories: [stadt]
+  modernName: Provinz Quảng Ngãi (Vietnam)
+  summary: Weiler, in dem US-Soldaten am 16. März 1968 Hunderte unbewaffnete Zivilisten ermordeten.
+  regions: [suedostasien]
+  themes: [gewalt-genozid]
+- id: ho-chi-minh-pfad
+  name: Ho-Chi-Minh-Pfad
+  aliases: [Truong-Son-Straße]
+  coords: [106.5000, 16.5000]
+  location: ungefaehr
+  categories: [region]
+  modernName: Laos und Kambodscha
+  summary: Netz von Pfaden und Straßen durch Laos und Kambodscha, über das Nordvietnam Soldaten und Material in den Süden brachte; die USA bombardierten es jahrelang.
+  regions: [suedostasien]
+  themes: [krieg-militaer]
+- id: kent-state
+  name: Kent State University
+  aliases: [Kent]
+  coords: [-81.3431, 41.1497]
+  categories: [stadt]
+  modernName: Kent, Ohio (USA)
+  summary: Universität in Ohio, auf deren Gelände Nationalgardisten am 4. Mai 1970 vier Studierende bei einem Protest gegen den Krieg erschossen.
+  regions: [nordamerika]
+  themes: [politik, gewalt-genozid]

@@ -1,0 +1,78 @@
+# Begriffe: Weimarer Republik
+- id: dolchstosslegende
+  name: Dolchstoßlegende
+  aliases: [Dolchstoß]
+  definition: Von der Obersten Heeresleitung um Hindenburg und Ludendorff verbreitete Lüge, das deutsche Heer sei 1918 „im Felde unbesiegt“ gewesen und von Revolutionären, Sozialdemokraten und Juden in der Heimat verraten worden; sie vergiftete das politische Klima der Republik.
+  themes: [politik, geschichtsschreibung]
+- id: notverordnung
+  name: Notverordnung
+  aliases: [Artikel 48]
+  definition: Verordnung des Reichspräsidenten nach Artikel 48 der Weimarer Verfassung, mit der er in Notlagen ohne Parlament Gesetze ersetzen und Grundrechte aussetzen konnte; ab 1930 die Grundlage der Präsidialkabinette.
+  themes: [verfassung-recht, politik]
+- id: praesidialkabinett
+  name: Präsidialkabinett
+  definition: Regierung, die ab 1930 nicht mehr auf einer Mehrheit im Reichstag beruhte, sondern auf dem Vertrauen des Reichspräsidenten und seinem Notverordnungsrecht.
+  themes: [politik]
+- id: reparationen
+  name: Reparationen
+  aliases: [Kriegsentschädigung, Dawes-Plan, Young-Plan]
+  definition: Die Deutschland im Versailler Vertrag auferlegten Zahlungen für Kriegsschäden der Siegermächte; mehrfach neu geregelt und 1932 in Lausanne faktisch beendet.
+  themes: [wirtschaft-handel, politik]
+- id: hyperinflation
+  name: Hyperinflation
+  definition: Extrem schnelle Geldentwertung, bei der die Preise monatlich um mehr als die Hälfte steigen; in Deutschland erreichte sie 1923 ihren Höhepunkt.
+  themes: [wirtschaft-handel]
+# Begriffe: Völkermord an den Armeniern
+- id: jungtuerken
+  name: Jungtürken
+  aliases: [Komitee für Einheit und Fortschritt, İttihat ve Terakki]
+  definition: Reformbewegung osmanischer Offiziere und Beamter, die 1908 die Verfassung wiederherstellte und ab 1913 mit ihrer Partei, dem Komitee für Einheit und Fortschritt, diktatorisch regierte; ihre Führung organisierte den Völkermord an den Armeniern.
+  themes: [politik]
+- id: aghet
+  name: Aghet
+  aliases: [Medz Yeghern]
+  definition: Armenische Bezeichnungen für den Völkermord von 1915/16 – „Katastrophe“ beziehungsweise „Großes Verbrechen“.
+  themes: [gewalt-genozid, geschichtsschreibung]
+- id: genozidleugnung
+  name: Leugnung von Völkermorden
+  aliases: [Genozidleugnung, Leugnung]
+  definition: Das Bestreiten, Verharmlosen oder Umdeuten eines Völkermords; die türkische Regierung erkennt die Vernichtung der Armenier bis heute nicht als Völkermord an. Die Forschung sieht in der Leugnung oft die letzte Phase eines Genozids.
+  themes: [gewalt-genozid, geschichtsschreibung]
+# Begriffe: Weltwirtschaftskrise
+- id: goldstandard
+  name: Goldstandard
+  definition: Währungsordnung, in der der Wert des Geldes an eine feste Menge Gold gebunden ist; in der Weltwirtschaftskrise zwang er Notenbanken zu einer Politik, die die Krise verschärfte.
+  themes: [wirtschaft-handel]
+- id: deflation
+  name: Deflation
+  definition: Anhaltender Rückgang des Preisniveaus; in der Weltwirtschaftskrise fielen Preise und Löhne, während Schulden gleich blieben, was Unternehmen und Bauern in den Ruin trieb.
+  themes: [wirtschaft-handel]
+- id: protektionismus
+  name: Protektionismus
+  aliases: [Schutzzoll]
+  definition: Wirtschaftspolitik, die die einheimische Produktion durch Zölle, Kontingente oder Verbote vor ausländischer Konkurrenz schützt.
+  themes: [wirtschaft-handel]
+- id: keynesianismus
+  name: Keynesianismus
+  definition: Auf John Maynard Keynes zurückgehende Lehre, nach der der Staat in Krisen durch höhere Ausgaben und niedrige Zinsen die Nachfrage stützen soll; prägte die Wirtschaftspolitik vieler Staaten nach 1945.
+  themes: [wirtschaft-handel, politik]
+# Begriffe: Vietnamkrieg
+- id: dominotheorie
+  name: Dominotheorie
+  definition: Vorstellung amerikanischer Regierungen seit den 1950er-Jahren, der Sieg der Kommunisten in einem Land Südostasiens werde wie bei einer Reihe von Dominosteinen die Nachbarländer mitreißen.
+  themes: [politik]
+- id: vietminh
+  name: Viet Minh
+  aliases: [Việt Minh, Liga für die Unabhängigkeit Vietnams]
+  definition: 1941 von Ho Chi Minh gegründete, von Kommunisten geführte Unabhängigkeitsbewegung, die gegen Japan und dann gegen Frankreich kämpfte.
+  themes: [revolutionen, krieg-militaer]
+- id: vietcong
+  name: Vietcong
+  aliases: [Nationale Befreiungsfront, NLF, FNL]
+  definition: Abwertende Bezeichnung für die 1960 gegründete Nationale Front für die Befreiung Südvietnams, eine von Hanoi gelenkte Guerillabewegung im Süden.
+  themes: [krieg-militaer, politik]
+- id: agent-orange
+  name: Agent Orange
+  aliases: [Entlaubungsmittel]
+  definition: Mit Dioxin verunreinigtes Pflanzengift, das die US-Luftwaffe von 1962 bis 1971 über Wäldern und Feldern Vietnams versprühte; es verursachte schwere Krankheiten und Fehlbildungen bis in die folgenden Generationen.
+  themes: [umwelt-klima, gewalt-genozid]

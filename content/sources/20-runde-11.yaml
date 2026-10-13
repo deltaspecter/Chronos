@@ -1,0 +1,318 @@
+# Quellen und Literatur: Weimarer Republik, Völkermord an den Armeniern, Weltwirtschaftskrise, Vietnamkrieg
+
+# --- Weimarer Republik ---
+- id: winkler-1993
+  kind: sekundaer
+  authors: ["Winkler, Heinrich August"]
+  title: Weimar 1918–1933
+  subtitle: Die Geschichte der ersten deutschen Demokratie
+  place: München
+  publisher: C. H. Beck
+  year: 1993
+- id: kolb-1984
+  kind: sekundaer
+  authors: ["Kolb, Eberhard"]
+  title: Die Weimarer Republik
+  series: Oldenbourg Grundriss der Geschichte 16
+  place: München
+  publisher: Oldenbourg
+  year: 1984
+- id: peukert-1987
+  kind: sekundaer
+  authors: ["Peukert, Detlev J. K."]
+  title: Die Weimarer Republik
+  subtitle: Krisenjahre der Klassischen Moderne
+  place: Frankfurt am Main
+  publisher: Suhrkamp
+  year: 1987
+- id: mommsen-1989
+  kind: sekundaer
+  authors: ["Mommsen, Hans"]
+  title: Die verspielte Freiheit
+  subtitle: Der Weg der Republik von Weimar in den Untergang 1918 bis 1933
+  place: Berlin
+  publisher: Propyläen
+  year: 1989
+- id: weitz-2007
+  kind: sekundaer
+  authors: ["Weitz, Eric D."]
+  title: Weimar Germany
+  subtitle: Promise and Tragedy
+  place: Princeton
+  publisher: Princeton University Press
+  year: 2007
+- id: feldman-1993
+  kind: sekundaer
+  authors: ["Feldman, Gerald D."]
+  title: The Great Disorder
+  subtitle: Politics, Economics, and Society in the German Inflation, 1914–1924
+  place: New York
+  publisher: Oxford University Press
+  year: 1993
+- id: bracher-1955
+  kind: sekundaer
+  authors: ["Bracher, Karl Dietrich"]
+  title: Die Auflösung der Weimarer Republik
+  subtitle: Eine Studie zum Problem des Machtverfalls in der Demokratie
+  place: Stuttgart
+  publisher: Ring-Verlag
+  year: 1955
+- id: evans-2003
+  kind: sekundaer
+  authors: ["Evans, Richard J."]
+  title: The Coming of the Third Reich
+  place: London
+  publisher: Allen Lane
+  year: 2003
+- id: q-weimarer-verfassung
+  kind: primaer
+  title: Die Verfassung des Deutschen Reichs (Weimarer Reichsverfassung)
+  written: Schwarzburg, 11. August 1919
+  note: Von der Nationalversammlung in Weimar beschlossene Verfassung mit allgemeinem Wahlrecht für Männer und Frauen, starkem Reichspräsidenten und einem umfangreichen Grundrechtsteil.
+- id: q-scheidemann-1918
+  kind: primaer
+  authors: ["Scheidemann, Philipp"]
+  title: Ausrufung der Republik vom Balkon des Reichstags
+  written: Berlin, 9. November 1918
+  note: Ansprache, deren Wortlaut nur in späteren Erinnerungen Scheidemanns und in Zeitungsberichten überliefert ist; am selben Tag rief Karl Liebknecht die „freie sozialistische Republik“ aus.
+- id: q-kessler-tagebuch
+  kind: edition
+  authors: ["Kessler, Harry Graf"]
+  title: Das Tagebuch 1880–1937
+  place: Stuttgart
+  publisher: Cotta
+  year: 2004–2018
+  note: Tagebuch eines kosmopolitischen Diplomaten, Kunstförderers und Republikaners, eine der lebendigsten Quellen zur Weimarer Zeit.
+
+# --- Völkermord an den Armeniern ---
+- id: suny-2015
+  kind: sekundaer
+  authors: ["Suny, Ronald Grigor"]
+  title: "They Can Live in the Desert but Nowhere Else"
+  subtitle: A History of the Armenian Genocide
+  place: Princeton
+  publisher: Princeton University Press
+  year: 2015
+- id: akcam-2012
+  kind: sekundaer
+  authors: ["Akçam, Taner"]
+  title: The Young Turks' Crime against Humanity
+  subtitle: The Armenian Genocide and Ethnic Cleansing in the Ottoman Empire
+  place: Princeton
+  publisher: Princeton University Press
+  year: 2012
+- id: bloxham-2005
+  kind: sekundaer
+  authors: ["Bloxham, Donald"]
+  title: The Great Game of Genocide
+  subtitle: Imperialism, Nationalism, and the Destruction of the Ottoman Armenians
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2005
+- id: dadrian-1995
+  kind: sekundaer
+  authors: ["Dadrian, Vahakn N."]
+  title: The History of the Armenian Genocide
+  subtitle: Ethnic Conflict from the Balkans to Anatolia to the Caucasus
+  place: Providence
+  publisher: Berghahn Books
+  year: 1995
+- id: hosfeld-2015
+  kind: sekundaer
+  authors: ["Hosfeld, Rolf"]
+  title: Tod in der Wüste
+  subtitle: Der Völkermord an den Armeniern
+  place: München
+  publisher: C. H. Beck
+  year: 2015
+- id: gust-2005
+  kind: edition
+  editors: ["Gust, Wolfgang"]
+  title: Der Völkermord an den Armeniern 1915/16
+  subtitle: Dokumente aus dem Politischen Archiv des deutschen Auswärtigen Amts
+  place: Springe
+  publisher: zu Klampen
+  year: 2005
+- id: q-lepsius-1916
+  kind: primaer
+  authors: ["Lepsius, Johannes"]
+  title: Bericht über die Lage des Armenischen Volkes in der Türkei
+  written: Potsdam, 1916
+  note: Bericht des evangelischen Theologen über die Deportationen und Massaker, der trotz Zensur gedruckt und an Pfarrämter verschickt, dann von den Behörden beschlagnahmt wurde.
+- id: q-bryce-toynbee-1916
+  kind: edition
+  editors: ["Bryce, James", "Toynbee, Arnold J."]
+  title: The Treatment of Armenians in the Ottoman Empire, 1915–16
+  place: London
+  year: 1916
+  note: Im Auftrag der britischen Regierung veröffentlichte Sammlung von Augenzeugenberichten – auch als Kriegspropaganda gedacht, aber in ihren Kernaussagen durch spätere Forschung bestätigt.
+- id: q-morgenthau-1918
+  kind: primaer
+  authors: ["Morgenthau, Henry"]
+  title: Ambassador Morgenthau's Story
+  written: New York, 1918
+  note: Erinnerungen des amerikanischen Botschafters in Konstantinopel 1913–1916, der früh nach Washington über die Vernichtung der Armenier berichtete.
+- id: q-werfel-1933
+  kind: primaer
+  authors: ["Werfel, Franz"]
+  title: Die vierzig Tage des Musa Dagh
+  written: Berlin/Wien, 1933
+  note: Roman über den Widerstand armenischer Dorfbewohner am Musa Dagh 1915, der das Geschehen einem breiten Publikum bekannt machte; im nationalsozialistischen Deutschland bald verboten.
+- id: q-bundestag-2016
+  kind: primaer
+  title: "Erinnerung und Gedenken an den Völkermord an den Armeniern und anderen christlichen Minderheiten in den Jahren 1915 und 1916"
+  written: Beschluss des Deutschen Bundestags, 2. Juni 2016 (Drucksache 18/8613)
+  note: Resolution, die die Verbrechen als Völkermord bezeichnet und die Mitverantwortung des Deutschen Reichs als Verbündeter anerkennt.
+
+# --- Weltwirtschaftskrise ---
+- id: kindleberger-1973
+  kind: sekundaer
+  authors: ["Kindleberger, Charles P."]
+  title: The World in Depression 1929–1939
+  place: Berkeley
+  publisher: University of California Press
+  year: 1973
+- id: eichengreen-1992
+  kind: sekundaer
+  authors: ["Eichengreen, Barry"]
+  title: Golden Fetters
+  subtitle: The Gold Standard and the Great Depression, 1919–1939
+  place: New York
+  publisher: Oxford University Press
+  year: 1992
+- id: friedman-schwartz-1963
+  kind: sekundaer
+  authors: ["Friedman, Milton", "Schwartz, Anna J."]
+  title: A Monetary History of the United States, 1867–1960
+  place: Princeton
+  publisher: Princeton University Press
+  year: 1963
+- id: tooze-2014
+  kind: sekundaer
+  authors: ["Tooze, Adam"]
+  title: The Deluge
+  subtitle: The Great War, America and the Remaking of the Global Order, 1916–1931
+  place: London
+  publisher: Allen Lane
+  year: 2014
+- id: borchardt-1982
+  kind: sekundaer
+  authors: ["Borchardt, Knut"]
+  title: Wachstum, Krisen, Handlungsspielräume der Wirtschaftspolitik
+  subtitle: Studien zur Wirtschaftsgeschichte des 19. und 20. Jahrhunderts
+  place: Göttingen
+  publisher: Vandenhoeck & Ruprecht
+  year: 1982
+- id: kennedy-1999
+  kind: sekundaer
+  authors: ["Kennedy, David M."]
+  title: Freedom from Fear
+  subtitle: The American People in Depression and War, 1929–1945
+  place: New York
+  publisher: Oxford University Press
+  year: 1999
+- id: plumpe-2010
+  kind: sekundaer
+  authors: ["Plumpe, Werner"]
+  title: Wirtschaftskrisen
+  subtitle: Geschichte und Gegenwart
+  series: Beck Wissen
+  place: München
+  publisher: C. H. Beck
+  year: 2010
+- id: q-marienthal-1933
+  kind: primaer
+  authors: ["Jahoda, Marie", "Lazarsfeld, Paul F.", "Zeisel, Hans"]
+  title: Die Arbeitslosen von Marienthal
+  subtitle: Ein soziographischer Versuch
+  written: Leipzig, 1933
+  note: Sozialwissenschaftliche Studie über ein niederösterreichisches Industriedorf, in dem nach der Schließung der Textilfabrik fast alle Familien arbeitslos waren.
+- id: q-roosevelt-1933
+  kind: primaer
+  authors: ["Roosevelt, Franklin D."]
+  title: Erste Antrittsrede (First Inaugural Address)
+  written: Washington, 4. März 1933
+  note: Rede mit dem berühmten Satz, das Einzige, was man fürchten müsse, sei die Furcht selbst.
+- id: q-keynes-1936
+  kind: primaer
+  authors: ["Keynes, John Maynard"]
+  title: The General Theory of Employment, Interest and Money
+  written: London, 1936
+  note: Hauptwerk des britischen Ökonomen, das begründete, warum Märkte dauerhaft in Unterbeschäftigung verharren können und der Staat die Nachfrage stützen soll.
+- id: q-steinbeck-1939
+  kind: primaer
+  authors: ["Steinbeck, John"]
+  title: The Grapes of Wrath (Früchte des Zorns)
+  written: New York, 1939
+  note: Roman über eine Farmerfamilie aus Oklahoma, die durch Dürre und Bankschulden ihr Land verliert und nach Kalifornien zieht.
+
+# --- Vietnamkrieg ---
+- id: logevall-2012
+  kind: sekundaer
+  authors: ["Logevall, Fredrik"]
+  title: Embers of War
+  subtitle: The Fall of an Empire and the Making of America's Vietnam
+  place: New York
+  publisher: Random House
+  year: 2012
+- id: herring-1979
+  kind: sekundaer
+  authors: ["Herring, George C."]
+  title: America's Longest War
+  subtitle: The United States and Vietnam, 1950–1975
+  place: New York
+  publisher: Wiley
+  year: 1979
+- id: frey-1998
+  kind: sekundaer
+  authors: ["Frey, Marc"]
+  title: Geschichte des Vietnamkriegs
+  subtitle: Die Tragödie in Asien und das Ende des amerikanischen Traums
+  place: München
+  publisher: C. H. Beck
+  year: 1998
+- id: greiner-2007
+  kind: sekundaer
+  authors: ["Greiner, Bernd"]
+  title: Krieg ohne Fronten
+  subtitle: Die USA in Vietnam
+  place: Hamburg
+  publisher: Hamburger Edition
+  year: 2007
+- id: nguyen-2012
+  kind: sekundaer
+  authors: ["Nguyen, Lien-Hang T."]
+  title: Hanoi's War
+  subtitle: An International History of the War for Peace in Vietnam
+  place: Chapel Hill
+  publisher: University of North Carolina Press
+  year: 2012
+- id: karnow-1983
+  kind: sekundaer
+  authors: ["Karnow, Stanley"]
+  title: "Vietnam: A History"
+  place: New York
+  publisher: Viking
+  year: 1983
+- id: q-vietnam-unabhaengigkeit
+  kind: primaer
+  authors: ["Ho Chi Minh"]
+  title: Unabhängigkeitserklärung der Demokratischen Republik Vietnam
+  written: Hanoi, 2. September 1945
+  note: Beginnt mit einem Zitat aus der amerikanischen Unabhängigkeitserklärung und verweist auf die französische Menschenrechtserklärung von 1791.
+- id: q-tonkin-resolution
+  kind: primaer
+  title: Tonkin-Resolution (Southeast Asia Resolution)
+  written: Washington, 7. August 1964
+  note: Beschluss des US-Kongresses, der Präsident Johnson ermächtigte, „alle notwendigen Maßnahmen“ in Südostasien zu ergreifen; 1971 aufgehoben.
+- id: q-pentagon-papers
+  kind: primaer
+  title: Pentagon Papers (Report of the Office of the Secretary of Defense Vietnam Task Force)
+  written: 1967–1969; 1971 in Auszügen von der New York Times veröffentlicht
+  note: Geheime Studie des Verteidigungsministeriums über die US-Politik in Vietnam seit 1945, deren Veröffentlichung zeigte, wie Regierungen die Öffentlichkeit getäuscht hatten.
+- id: q-king-1967
+  kind: primaer
+  authors: ["King, Martin Luther, Jr."]
+  title: "Beyond Vietnam: A Time to Break Silence"
+  written: New York, Riverside Church, 4. April 1967
+  note: Rede, in der King den Krieg verurteilte und die USA den „größten Gewaltverursacher der Welt“ nannte.
