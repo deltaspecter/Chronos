@@ -16,7 +16,7 @@
     "preview": "node scripts/serve-dist.ts",
     "typecheck": "tsc -b",
     "test": "vitest run",
-    "check": "npm run content:check && tsc -b && vitest run",
+    "check": "npm run content && tsc -b && vitest run",
     "test:e2e": "node scripts/e2e-smoke.ts"
   },
   "dependencies": {
