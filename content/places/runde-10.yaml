@@ -1,0 +1,308 @@
+# Orte: Industrialisierung in Deutschland
+- id: essen
+  name: Essen
+  coords: [7.0116, 51.4556]
+  categories: [stadt]
+  modernName: Essen (Deutschland)
+  summary: Stadt im Ruhrgebiet, Sitz der Firma Krupp, die hier im 19. Jahrhundert zum größten Industrieunternehmen Europas heranwuchs.
+  regions: [deutschland]
+  themes: [wirtschaft-handel, wissenschaft-technik]
+- id: ruhrgebiet
+  name: Ruhrgebiet
+  aliases: [Ruhr, Revier]
+  coords: [7.2000, 51.5000]
+  location: ungefaehr
+  categories: [region]
+  modernName: Nordrhein-Westfalen (Deutschland)
+  summary: Region zwischen Ruhr, Emscher und Lippe, die sich ab der Mitte des 19. Jahrhunderts durch Steinkohlebergbau und Stahlindustrie zum größten Industriegebiet Europas entwickelte.
+  regions: [deutschland]
+  themes: [wirtschaft-handel, migration]
+- id: fuerth
+  name: Fürth
+  coords: [10.9887, 49.4771]
+  categories: [stadt]
+  modernName: Fürth (Deutschland)
+  summary: Endpunkt der ersten deutschen Eisenbahnstrecke, der Ludwigsbahn von Nürnberg, die im Dezember 1835 eröffnet wurde.
+  regions: [deutschland]
+  themes: [wissenschaft-technik]
+- id: chemnitz
+  name: Chemnitz
+  coords: [12.9214, 50.8278]
+  categories: [stadt]
+  modernName: Chemnitz (Deutschland)
+  summary: Zentrum der sächsischen Textil- und Maschinenbauindustrie, im 19. Jahrhundert „sächsisches Manchester“ genannt.
+  regions: [deutschland]
+  themes: [wirtschaft-handel]
+- id: peterswaldau
+  name: Peterswaldau
+  aliases: [Pieszyce]
+  coords: [16.5833, 50.7167]
+  categories: [stadt]
+  modernName: Pieszyce (Polen)
+  summary: Weberdorf am Eulengebirge in Schlesien, in dem im Juni 1844 der Aufstand der schlesischen Weber begann.
+  regions: [mitteleuropa]
+  themes: [gesellschaft]
+- id: ludwigshafen
+  name: Ludwigshafen
+  coords: [8.4353, 49.4774]
+  categories: [stadt]
+  modernName: Ludwigshafen am Rhein (Deutschland)
+  summary: Stadt am Rhein, in der die 1865 gegründete Badische Anilin- und Soda-Fabrik (BASF) zu einem der größten Chemieunternehmen der Welt wurde.
+  regions: [deutschland]
+  themes: [wissenschaft-technik, wirtschaft-handel]
+- id: oberschlesien
+  name: Oberschlesisches Industriegebiet
+  aliases: [Oberschlesien, Kattowitz]
+  coords: [19.0238, 50.2649]
+  location: ungefaehr
+  categories: [region]
+  modernName: Region Katowice (Polen)
+  summary: Zweitgrößtes Steinkohle- und Hüttenrevier des Deutschen Reichs, nach dem Ersten Weltkrieg zwischen Deutschland und Polen geteilt.
+  regions: [mitteleuropa]
+  themes: [wirtschaft-handel]
+# Orte: Amerikanischer Bürgerkrieg
+- id: fort-sumter
+  name: Fort Sumter
+  coords: [-79.8747, 32.7523]
+  categories: [schlachtfeld]
+  modernName: Charleston, South Carolina (USA)
+  summary: Bundesfestung im Hafen von Charleston, deren Beschießung durch konföderierte Truppen im April 1861 den Bürgerkrieg eröffnete.
+  regions: [nordamerika]
+  themes: [krieg-militaer]
+- id: charleston
+  name: Charleston
+  coords: [-79.9311, 32.7765]
+  categories: [stadt, hafen]
+  modernName: Charleston, South Carolina (USA)
+  summary: Hafenstadt in South Carolina, einer der wichtigsten Ankunftshäfen für verschleppte Afrikaner in Nordamerika und Ausgangspunkt der Sezession 1860.
+  regions: [nordamerika]
+  themes: [sklaverei-unfreiheit]
+- id: richmond
+  name: Richmond
+  coords: [-77.4360, 37.5407]
+  categories: [stadt, hauptstadt]
+  modernName: Richmond, Virginia (USA)
+  summary: Hauptstadt Virginias und von 1861 bis 1865 der Konföderierten Staaten; im April 1865 von Unionstruppen eingenommen.
+  regions: [nordamerika]
+  themes: [politik]
+- id: gettysburg
+  name: Gettysburg
+  coords: [-77.2311, 39.8309]
+  categories: [schlachtfeld, stadt]
+  modernName: Pennsylvania (USA)
+  summary: Kleinstadt in Pennsylvania, bei der im Juli 1863 die verlustreichste Schlacht des Bürgerkriegs stattfand; im November hielt Lincoln hier seine berühmte Rede.
+  regions: [nordamerika]
+  themes: [krieg-militaer]
+- id: antietam
+  name: Antietam
+  aliases: [Sharpsburg]
+  coords: [-77.7447, 39.4740]
+  categories: [schlachtfeld]
+  modernName: Sharpsburg, Maryland (USA)
+  summary: Schlachtfeld in Maryland, auf dem am 17. September 1862 mehr Soldaten fielen als an jedem anderen Tag der amerikanischen Geschichte.
+  regions: [nordamerika]
+  themes: [krieg-militaer]
+- id: vicksburg
+  name: Vicksburg
+  coords: [-90.8779, 32.3526]
+  categories: [stadt, schlachtfeld]
+  modernName: Mississippi (USA)
+  summary: Festungsstadt am Mississippi, deren Kapitulation am 4. Juli 1863 der Union die Kontrolle über den Fluss sicherte.
+  regions: [nordamerika]
+  themes: [krieg-militaer]
+- id: atlanta
+  name: Atlanta
+  coords: [-84.3880, 33.7490]
+  categories: [stadt]
+  modernName: Georgia (USA)
+  summary: Eisenbahnknoten in Georgia, dessen Einnahme durch Sherman im September 1864 Lincolns Wiederwahl sicherte.
+  regions: [nordamerika]
+  themes: [krieg-militaer]
+- id: appomattox
+  name: Appomattox Court House
+  aliases: [Appomattox]
+  coords: [-78.7964, 37.3771]
+  categories: [stadt]
+  modernName: Virginia (USA)
+  summary: Ort in Virginia, an dem General Lee am 9. April 1865 vor Grant kapitulierte.
+  regions: [nordamerika]
+  themes: [krieg-militaer]
+- id: harpers-ferry
+  name: Harpers Ferry
+  coords: [-77.7300, 39.3254]
+  categories: [stadt]
+  modernName: West Virginia (USA)
+  summary: Ort mit einem Bundeswaffenarsenal, das John Brown 1859 überfiel, um einen Sklavenaufstand auszulösen.
+  regions: [nordamerika]
+  themes: [sklaverei-unfreiheit]
+- id: new-orleans
+  name: New Orleans
+  coords: [-90.0715, 29.9511]
+  categories: [stadt, hafen]
+  modernName: Louisiana (USA)
+  summary: Größte Stadt des Südens und wichtigster Sklavenmarkt der USA, 1862 von Unionstruppen eingenommen.
+  regions: [nordamerika]
+  themes: [sklaverei-unfreiheit, handelsnetze]
+# Orte: Meiji-Restauration
+- id: yokohama
+  name: Yokohama
+  coords: [139.6380, 35.4437]
+  categories: [stadt, hafen]
+  modernName: Yokohama (Japan)
+  summary: Fischerdorf, das 1859 als Vertragshafen für Ausländer geöffnet wurde und rasch zu Japans wichtigstem Außenhandelshafen wuchs.
+  regions: [japan]
+  themes: [handelsnetze]
+- id: kagoshima
+  name: Kagoshima
+  coords: [130.5571, 31.5966]
+  categories: [stadt, hauptstadt]
+  modernName: Kagoshima (Japan)
+  summary: Burgstadt des Fürstentums Satsuma im Süden Kyūshūs, Heimat Saigō Takamoris und Ōkubo Toshimichis; 1877 Zentrum der Satsuma-Rebellion.
+  regions: [japan]
+  themes: [politik]
+- id: hagi
+  name: Hagi
+  coords: [131.3990, 34.4081]
+  categories: [stadt]
+  modernName: Hagi (Japan)
+  summary: Burgstadt des Fürstentums Chōshū, aus dem viele Führer der Meiji-Restauration wie Kido Takayoshi und Itō Hirobumi stammten.
+  regions: [japan]
+  themes: [politik]
+- id: shimonoseki
+  name: Shimonoseki
+  coords: [130.9408, 33.9578]
+  categories: [stadt, hafen]
+  modernName: Shimonoseki (Japan)
+  summary: Hafenstadt an der Meerenge zwischen Honshū und Kyūshū, 1863/64 von westlichen Kriegsschiffen beschossen; hier wurde 1895 der Friede mit China geschlossen.
+  regions: [japan]
+  themes: [krieg-militaer, politik]
+- id: tomioka
+  name: Tomioka
+  coords: [138.8878, 36.2557]
+  categories: [stadt, fundstaette]
+  modernName: Tomioka (Japan)
+  summary: Ort der 1872 von der Regierung gegründeten Seidenspinnerei mit französischen Maschinen und Fachleuten, heute UNESCO-Welterbe.
+  regions: [japan]
+  themes: [wirtschaft-handel, wissenschaft-technik]
+- id: hakodate
+  name: Hakodate
+  coords: [140.7290, 41.7687]
+  categories: [stadt, hafen]
+  modernName: Hakodate (Japan)
+  summary: Hafenstadt auf Hokkaidō, in der 1869 die letzten Anhänger des Shogunats kapitulierten.
+  regions: [japan]
+  themes: [krieg-militaer]
+- id: tsushima-strasse
+  name: Straße von Tsushima
+  coords: [129.5000, 34.3000]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Meerenge zwischen Japan und Korea
+  summary: Meerenge, in der die japanische Flotte im Mai 1905 die russische Ostseeflotte vernichtete.
+  regions: [japan, korea]
+  themes: [krieg-militaer]
+- id: port-arthur
+  name: Port Arthur
+  aliases: [Lüshun, Ryojun]
+  coords: [121.2614, 38.8125]
+  categories: [hafen, stadt]
+  modernName: Lüshunkou, Dalian (China)
+  summary: Flottenstützpunkt an der Spitze der Liaodong-Halbinsel, um den Japan und Russland 1904/05 erbittert kämpften.
+  regions: [china]
+  themes: [krieg-militaer, imperien]
+- id: taipeh
+  name: Taipeh
+  aliases: [Taipei]
+  coords: [121.5654, 25.0330]
+  categories: [stadt, hauptstadt]
+  modernName: Taipeh (Taiwan)
+  summary: Hauptstadt Taiwans, das 1895 als erste Kolonie an Japan fiel.
+  regions: [ostasien, china]
+  themes: [imperien]
+# Orte: Berliner Afrika-Konferenz
+- id: reichskanzlerpalais
+  name: Reichskanzlerpalais
+  aliases: [Wilhelmstraße 77]
+  coords: [13.3825, 52.5113]
+  categories: [fundstaette]
+  modernName: Wilhelmstraße, Berlin (nicht erhalten)
+  summary: Amtssitz des Reichskanzlers in der Berliner Wilhelmstraße, in dem 1878 der Berliner Kongress und 1884/85 die Afrika-Konferenz tagten.
+  regions: [deutschland]
+  themes: [politik]
+- id: boma
+  name: Boma
+  coords: [13.0500, -5.8500]
+  categories: [stadt, hafen]
+  modernName: Boma (Demokratische Republik Kongo)
+  summary: Hafenstadt an der Kongomündung, Hauptstadt des Kongo-Freistaats und bis in die 1920er-Jahre von Belgisch-Kongo.
+  regions: [zentralafrika]
+  themes: [imperien]
+- id: kinshasa
+  name: Kinshasa
+  aliases: [Léopoldville]
+  coords: [15.2663, -4.4419]
+  categories: [stadt, hauptstadt]
+  modernName: Kinshasa (Demokratische Republik Kongo)
+  summary: Von Stanley 1881 als Léopoldville gegründete Station am Malebo-Pool; heute Hauptstadt der Demokratischen Republik Kongo.
+  regions: [zentralafrika]
+  themes: [imperien]
+- id: brazzaville
+  name: Brazzaville
+  coords: [15.2429, -4.2634]
+  categories: [stadt, hauptstadt]
+  modernName: Brazzaville (Republik Kongo)
+  summary: Nach Pierre Savorgnan de Brazza benannte französische Station am Nordufer des Malebo-Pools, heute Hauptstadt der Republik Kongo.
+  regions: [zentralafrika]
+  themes: [imperien]
+- id: adua
+  name: Adua
+  aliases: [Adwa]
+  coords: [38.8992, 14.1667]
+  categories: [schlachtfeld, stadt]
+  modernName: Adwa (Äthiopien)
+  summary: Stadt in Tigray, bei der das äthiopische Heer unter Menelik II. am 1. März 1896 die italienische Invasionsarmee schlug.
+  regions: [nordostafrika]
+  themes: [krieg-militaer]
+- id: omdurman
+  name: Omdurman
+  coords: [32.4777, 15.6445]
+  categories: [stadt, schlachtfeld]
+  modernName: Omdurman (Sudan)
+  summary: Hauptstadt des Mahdi-Staats, vor der britisch-ägyptische Truppen 1898 mit Maschinengewehren Tausende sudanesische Kämpfer töteten.
+  regions: [nordostafrika]
+  themes: [krieg-militaer, gewalt-genozid]
+- id: faschoda
+  name: Faschoda
+  aliases: [Kodok]
+  coords: [32.1167, 9.8833]
+  categories: [stadt]
+  modernName: Kodok (Südsudan)
+  summary: Ort am Weißen Nil, an dem 1898 britische und französische Truppen aufeinandertrafen; die Krise endete mit dem Rückzug Frankreichs.
+  regions: [nordostafrika]
+  themes: [imperien]
+- id: kumasi
+  name: Kumasi
+  coords: [-1.6244, 6.6885]
+  categories: [stadt, hauptstadt]
+  modernName: Kumasi (Ghana)
+  summary: Hauptstadt des Asante-Reichs, 1896 von britischen Truppen besetzt; 1900 Schauplatz des Aufstands unter Yaa Asantewaa.
+  regions: [westafrika]
+  themes: [imperien, krieg-militaer]
+- id: daressalam
+  name: Daressalam
+  aliases: [Dar es Salaam]
+  coords: [39.2083, -6.7924]
+  categories: [stadt, hafen, hauptstadt]
+  modernName: Daressalam (Tansania)
+  summary: Hafenstadt an der ostafrikanischen Küste, ab 1891 Hauptstadt der Kolonie Deutsch-Ostafrika.
+  regions: [ostafrika]
+  themes: [imperien]
+- id: luederitz
+  name: Lüderitz
+  aliases: [Angra Pequena, Lüderitzbucht]
+  coords: [15.1594, -26.6481]
+  categories: [stadt, hafen]
+  modernName: Lüderitz (Namibia)
+  summary: Bucht an der Küste Namibias, die der Bremer Kaufmann Adolf Lüderitz 1883 durch einen betrügerischen Vertrag erwarb; 1884 stellte das Reich sie unter seinen „Schutz“.
+  regions: [suedliches-afrika]
+  themes: [imperien]

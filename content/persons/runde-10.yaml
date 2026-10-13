@@ -1,0 +1,446 @@
+# Personen: Industrialisierung in Deutschland
+- id: friedrich-list
+  name: Friedrich List
+  born: "1789-08-06"
+  died: "1846-11-30"
+  roles: [Ökonom, Publizist]
+  summary: Württembergischer Ökonom, der für einen deutschen Zollverein, ein nationales Eisenbahnnetz und Schutzzölle für junge Industrien warb.
+  regions: [deutschland]
+  themes: [wirtschaft-handel]
+- id: alfred-krupp
+  name: Alfred Krupp
+  born: "1812-04-26"
+  died: "1887-07-14"
+  roles: [Unternehmer]
+  summary: Essener Industrieller, der das kleine Familienunternehmen zum größten Stahl- und Rüstungskonzern Europas ausbaute; verband betriebliche Sozialleistungen mit strenger Kontrolle seiner Arbeiter.
+  regions: [deutschland]
+  themes: [wirtschaft-handel, krieg-militaer]
+  places: [essen]
+- id: august-borsig
+  name: August Borsig
+  born: "1804-06-23"
+  died: "1854-07-06"
+  roles: [Unternehmer]
+  summary: Berliner Maschinenbauer, dessen Firma 1841 die erste in Preußen gebaute Lokomotive auslieferte und bald zu den größten Lokomotivfabriken Europas gehörte.
+  regions: [deutschland]
+  themes: [wissenschaft-technik, wirtschaft-handel]
+  places: [berlin]
+- id: werner-von-siemens
+  name: Werner von Siemens
+  born: "1816-12-13"
+  died: "1892-12-06"
+  roles: [Erfinder, Unternehmer]
+  summary: Offizier und Erfinder, der 1847 eine Telegrafenbaufirma gründete und 1866 das dynamoelektrische Prinzip beschrieb, die Grundlage der Elektroindustrie.
+  regions: [deutschland]
+  themes: [wissenschaft-technik]
+  places: [berlin]
+- id: karl-marx
+  name: Karl Marx
+  born: "1818-05-05"
+  died: "1883-03-14"
+  roles: [Philosoph, Ökonom, Publizist]
+  summary: Aus Trier stammender Philosoph und Ökonom, der mit Friedrich Engels das Kommunistische Manifest verfasste und im „Kapital“ den Kapitalismus analysierte; lebte ab 1849 im Londoner Exil.
+  regions: [deutschland, britische-inseln]
+  themes: [wirtschaft-handel, politik]
+  places: [trier, london]
+  related: [friedrich-engels]
+- id: otto-von-bismarck
+  name: Otto von Bismarck
+  aliases: [Bismarck, Fürst Bismarck, Eiserner Kanzler]
+  born: "1815-04-01"
+  died: "1898-07-30"
+  roles: [Ministerpräsident, Reichskanzler]
+  summary: Preußischer Ministerpräsident ab 1862 und erster Reichskanzler 1871–1890, der die Reichsgründung durch drei Kriege herbeiführte, die Sozialdemokratie verfolgte, die Sozialversicherung einführte und 1884/85 die Berliner Afrika-Konferenz leitete.
+  regions: [deutschland]
+  themes: [politik]
+  places: [berlin, reichskanzlerpalais]
+  related: [wilhelm-i]
+- id: wilhelm-i
+  name: Wilhelm I.
+  born: "1797-03-22"
+  died: "1888-03-09"
+  roles: [König von Preußen, Deutscher Kaiser]
+  summary: König von Preußen ab 1861 und ab 1871 erster Deutscher Kaiser, der Bismarck weitgehend gewähren ließ.
+  regions: [deutschland]
+  themes: [politik]
+  places: [berlin, versailles]
+- id: ferdinand-lassalle
+  name: Ferdinand Lassalle
+  born: "1825-04-11"
+  died: "1864-08-31"
+  roles: [Politiker, Publizist]
+  summary: Gründer des Allgemeinen Deutschen Arbeitervereins 1863, der ersten Arbeiterpartei Deutschlands; starb nach einem Duell.
+  regions: [deutschland]
+  themes: [politik, gesellschaft]
+- id: august-bebel
+  name: August Bebel
+  born: "1840-02-22"
+  died: "1913-08-13"
+  roles: [Politiker]
+  summary: Drechslermeister und jahrzehntelanger Vorsitzender der Sozialdemokratie, Autor des vielgelesenen Buchs „Die Frau und der Sozialismus“ (1879).
+  regions: [deutschland]
+  themes: [politik, gesellschaft]
+- id: heinrich-heine
+  name: Heinrich Heine
+  born: "1797-12-13"
+  died: "1856-02-17"
+  roles: [Dichter]
+  summary: Düsseldorfer Dichter jüdischer Herkunft, der ab 1831 in Paris lebte und mit „Die schlesischen Weber“ ein berühmtes Gedicht über soziale Not schrieb.
+  regions: [deutschland, frankreich]
+  themes: [kultur-kunst]
+  places: [paris]
+- id: carl-benz
+  name: Carl Benz
+  born: "1844-11-25"
+  died: "1929-04-04"
+  roles: [Ingenieur, Unternehmer]
+  summary: Mannheimer Ingenieur, der 1886 ein Patent auf einen Motorwagen mit Verbrennungsmotor erhielt.
+  regions: [deutschland]
+  themes: [wissenschaft-technik]
+  related: [bertha-benz]
+- id: bertha-benz
+  name: Bertha Benz
+  born: "1849-05-03"
+  died: "1944-05-05"
+  roles: [Unternehmerin]
+  summary: Ehefrau und Geldgeberin von Carl Benz, die 1888 mit ihren Söhnen die erste Fernfahrt mit einem Automobil von Mannheim nach Pforzheim unternahm.
+  regions: [deutschland]
+  themes: [wissenschaft-technik]
+  related: [carl-benz]
+- id: louise-otto-peters
+  name: Louise Otto-Peters
+  born: "1819-03-26"
+  died: "1895-03-13"
+  roles: [Schriftstellerin, Frauenrechtlerin]
+  summary: Sächsische Schriftstellerin, die 1865 den Allgemeinen Deutschen Frauenverein mitgründete und für das Recht der Frauen auf Bildung und Erwerbsarbeit eintrat.
+  regions: [deutschland]
+  themes: [gesellschaft]
+  places: [leipzig]
+# Personen: Amerikanischer Bürgerkrieg
+- id: abraham-lincoln
+  name: Abraham Lincoln
+  born: "1809-02-12"
+  died: "1865-04-15"
+  roles: [Präsident der USA]
+  summary: Anwalt aus Illinois, der 1860 als Kandidat der Republikaner zum Präsidenten gewählt wurde, die Union im Bürgerkrieg führte, die Emanzipationsproklamation erließ und wenige Tage nach Kriegsende ermordet wurde.
+  regions: [nordamerika]
+  themes: [politik, sklaverei-unfreiheit]
+  places: [washington, gettysburg]
+- id: frederick-douglass
+  name: Frederick Douglass
+  born: "~1818"
+  died: "1895-02-20"
+  roles: [Schriftsteller, Redner, Abolitionist]
+  summary: In Maryland versklavt geboren, floh er 1838 in den Norden und wurde zum bekanntesten afroamerikanischen Gegner der Sklaverei; im Krieg warb er für die Aufnahme schwarzer Soldaten.
+  regions: [nordamerika]
+  themes: [sklaverei-unfreiheit, schrift-medien]
+  places: [washington]
+- id: harriet-tubman
+  name: Harriet Tubman
+  born: "~1822"
+  died: "1913-03-10"
+  roles: [Fluchthelferin, Kundschafterin]
+  summary: Aus der Sklaverei in Maryland geflohen, führte sie Dutzende Menschen über die „Underground Railroad“ in die Freiheit und diente im Krieg als Kundschafterin der Unionsarmee.
+  regions: [nordamerika]
+  themes: [sklaverei-unfreiheit]
+- id: harriet-beecher-stowe
+  name: Harriet Beecher Stowe
+  born: "1811-06-14"
+  died: "1896-07-01"
+  roles: [Schriftstellerin]
+  summary: Schriftstellerin aus Neuengland, deren Roman „Onkel Toms Hütte“ (1852) zum erfolgreichsten Buch des Jahrhunderts in den USA wurde.
+  regions: [nordamerika]
+  themes: [schrift-medien, sklaverei-unfreiheit]
+- id: john-brown
+  name: John Brown
+  born: "1800-05-09"
+  died: "1859-12-02"
+  roles: [Abolitionist]
+  summary: Radikaler Sklavereigegner, der 1859 das Bundesarsenal in Harpers Ferry überfiel, um einen Aufstand der Versklavten auszulösen, und dafür hingerichtet wurde.
+  regions: [nordamerika]
+  themes: [sklaverei-unfreiheit, gewalt-genozid]
+  places: [harpers-ferry]
+- id: jefferson-davis
+  name: Jefferson Davis
+  born: "1808-06-03"
+  died: "1889-12-06"
+  roles: [Präsident der Konföderierten Staaten]
+  summary: Pflanzer und Sklavenhalter aus Mississippi, früherer US-Kriegsminister und von 1861 bis 1865 Präsident der Konföderation.
+  regions: [nordamerika]
+  themes: [politik]
+  places: [richmond]
+- id: alexander-h-stephens
+  name: Alexander H. Stephens
+  born: "1812-02-11"
+  died: "1883-03-04"
+  roles: [Vizepräsident der Konföderation]
+  summary: Politiker aus Georgia, der 1861 in seiner „Cornerstone Speech“ die Sklaverei zum Fundament des neuen Staates erklärte.
+  regions: [nordamerika]
+  themes: [politik, sklaverei-unfreiheit]
+- id: robert-e-lee
+  name: Robert E. Lee
+  born: "1807-01-19"
+  died: "1870-10-12"
+  roles: [General]
+  summary: Offizier aus Virginia, der das Angebot eines Kommandos in der Unionsarmee ablehnte und die wichtigste Armee der Konföderation führte; kapitulierte im April 1865 in Appomattox.
+  regions: [nordamerika]
+  themes: [krieg-militaer]
+  places: [antietam, gettysburg, appomattox, richmond]
+- id: ulysses-s-grant
+  name: Ulysses S. Grant
+  born: "1822-04-27"
+  died: "1885-07-23"
+  roles: [General, Präsident der USA]
+  summary: Unionsgeneral, der 1863 Vicksburg eroberte, ab 1864 alle Unionsarmeen befehligte und 1869–1877 Präsident war.
+  regions: [nordamerika]
+  themes: [krieg-militaer, politik]
+  places: [vicksburg, appomattox]
+- id: william-t-sherman
+  name: William T. Sherman
+  born: "1820-02-08"
+  died: "1891-02-14"
+  roles: [General]
+  summary: Unionsgeneral, der 1864 Atlanta einnahm und auf seinem „Marsch zum Meer“ durch Georgia die wirtschaftlichen Grundlagen der Konföderation zerstörte.
+  regions: [nordamerika]
+  themes: [krieg-militaer]
+  places: [atlanta]
+- id: dred-scott
+  name: Dred Scott
+  born: "~1799"
+  died: "1858-09-17"
+  roles: [Kläger]
+  summary: Versklavter Mann, dessen Klage auf Freiheit der Oberste Gerichtshof 1857 abwies – mit der Begründung, Schwarze könnten keine Bürger der USA sein.
+  regions: [nordamerika]
+  themes: [verfassung-recht, sklaverei-unfreiheit]
+- id: andrew-johnson
+  name: Andrew Johnson
+  born: "1808-12-29"
+  died: "1875-07-31"
+  roles: [Präsident der USA]
+  summary: Lincolns Vizepräsident und Nachfolger, der sich der Gleichberechtigung der befreiten Afroamerikaner widersetzte; 1868 entging er in einem Amtsenthebungsverfahren nur um eine Stimme der Absetzung.
+  regions: [nordamerika]
+  themes: [politik]
+  places: [washington]
+# Personen: Meiji-Restauration
+- id: kaiser-meiji
+  name: Kaiser Meiji
+  aliases: [Mutsuhito, Meiji-tennō]
+  born: "1852-11-03"
+  died: "1912-07-30"
+  roles: [Kaiser von Japan]
+  summary: Japanischer Kaiser von 1867 bis 1912, in dessen Namen die Restauration und die Modernisierung Japans durchgeführt wurden; wurde zum Symbol des neuen Nationalstaats.
+  regions: [japan]
+  themes: [politik]
+  places: [heian-kyo, edo]
+- id: tokugawa-yoshinobu
+  name: Tokugawa Yoshinobu
+  born: "1837-10-28"
+  died: "1913-11-22"
+  roles: [Shōgun]
+  summary: Letzter Shōgun (1866–1867), der Ende 1867 die Regierungsgewalt an den Kaiser zurückgab und nach dem Boshin-Krieg zurückgezogen lebte.
+  regions: [japan]
+  themes: [politik]
+  places: [edo, heian-kyo]
+- id: saigo-takamori
+  name: Saigō Takamori
+  born: "1828-01-23"
+  died: "1877-09-24"
+  roles: [Samurai, Feldherr]
+  summary: Samurai aus Satsuma und militärischer Führer der Restauration, der sich später mit der Regierung überwarf und 1877 in der Satsuma-Rebellion fiel.
+  regions: [japan]
+  themes: [krieg-militaer, politik]
+  places: [kagoshima, edo]
+- id: okubo-toshimichi
+  name: Ōkubo Toshimichi
+  born: "1830-09-26"
+  died: "1878-05-14"
+  roles: [Staatsmann]
+  summary: Samurai aus Satsuma und einer der einflussreichsten Architekten des Meiji-Staats, der Steuer- und Wirtschaftsreformen vorantrieb und 1878 ermordet wurde.
+  regions: [japan]
+  themes: [politik, wirtschaft-handel]
+  places: [kagoshima]
+- id: kido-takayoshi
+  name: Kido Takayoshi
+  aliases: [Kido Kōin]
+  born: "1833-08-11"
+  died: "1877-05-26"
+  roles: [Staatsmann]
+  summary: Samurai aus Chōshū, einer der „drei großen Helden“ der Restauration, Mitverfasser des Charta-Eids von 1868.
+  regions: [japan]
+  themes: [politik]
+  places: [hagi]
+- id: iwakura-tomomi
+  name: Iwakura Tomomi
+  born: "1825-10-26"
+  died: "1883-07-20"
+  roles: [Hofadliger, Staatsmann]
+  summary: Hofadliger, der die Restauration am Kaiserhof vorbereitete und 1871–1873 die große Gesandtschaft nach Amerika und Europa leitete.
+  regions: [japan]
+  themes: [politik]
+  places: [heian-kyo]
+- id: ito-hirobumi
+  name: Itō Hirobumi
+  born: "1841-10-16"
+  died: "1909-10-26"
+  roles: [Premierminister]
+  summary: Politiker aus Chōshū, der die Verfassung von 1889 nach Studien in Europa entwarf, viermal Premierminister war und als Generalresident in Korea 1909 von einem koreanischen Unabhängigkeitskämpfer erschossen wurde.
+  regions: [japan, korea]
+  themes: [politik, verfassung-recht]
+  places: [hagi]
+- id: fukuzawa-yukichi
+  name: Fukuzawa Yukichi
+  born: "1835-01-10"
+  died: "1901-02-03"
+  roles: [Gelehrter, Publizist]
+  summary: Einflussreichster Vermittler westlichen Wissens in Japan, Gründer der späteren Keiō-Universität und Autor viel gelesener Schriften über Bildung und Zivilisation.
+  regions: [japan]
+  themes: [schrift-medien, wissenschaft-technik]
+- id: itagaki-taisuke
+  name: Itagaki Taisuke
+  born: "1837-05-21"
+  died: "1919-07-16"
+  roles: [Politiker]
+  summary: Anführer der „Bewegung für Freiheit und Volksrechte“, die in den 1870er- und 1880er-Jahren ein gewähltes Parlament forderte; gründete 1881 die Liberale Partei.
+  regions: [japan]
+  themes: [politik]
+- id: tsuda-umeko
+  name: Tsuda Umeko
+  born: "1864-12-31"
+  died: "1929-08-16"
+  roles: [Pädagogin]
+  summary: Wurde mit sechs Jahren mit der Iwakura-Gesandtschaft zum Studium in die USA geschickt und gründete 1900 eine der ersten Hochschulen für Frauen in Japan.
+  regions: [japan, nordamerika]
+  themes: [gesellschaft]
+- id: shibusawa-eiichi
+  name: Shibusawa Eiichi
+  born: "1840-03-16"
+  died: "1931-11-11"
+  roles: [Unternehmer, Beamter]
+  summary: Früherer Beamter, der Hunderte Unternehmen und Japans erste moderne Bank mitgründete und als „Vater des japanischen Kapitalismus“ gilt.
+  regions: [japan]
+  themes: [wirtschaft-handel]
+- id: an-jung-geun
+  name: An Jung-geun
+  born: "1879-09-02"
+  died: "1910-03-26"
+  roles: [Unabhängigkeitskämpfer]
+  summary: Koreanischer Patriot, der 1909 in Harbin Itō Hirobumi erschoss und 1910 von den japanischen Behörden hingerichtet wurde; in Korea als Nationalheld verehrt.
+  regions: [korea]
+  themes: [politik]
+# Personen: Berliner Afrika-Konferenz
+- id: leopold-ii
+  name: Leopold II.
+  born: "1835-04-09"
+  died: "1909-12-17"
+  roles: [König der Belgier]
+  summary: König der Belgier, der das Kongobecken als persönlichen Besitz erwarb und dort ein Regime der Zwangsarbeit errichtete, das Millionen Menschen das Leben kostete; 1908 musste er den Kongo an den belgischen Staat abgeben.
+  regions: [westeuropa, zentralafrika]
+  themes: [imperien, gewalt-genozid]
+  places: [boma]
+- id: henry-morton-stanley
+  name: Henry Morton Stanley
+  born: "1841-01-28"
+  died: "1904-05-10"
+  roles: [Journalist, Forschungsreisender]
+  summary: Walisisch-amerikanischer Journalist, der 1874–1877 Afrika von Ost nach West durchquerte und anschließend im Auftrag Leopolds II. Verträge mit Herrschern am Kongo schloss.
+  regions: [zentralafrika, ostafrika]
+  themes: [imperien]
+  places: [kinshasa, boma]
+  related: [leopold-ii]
+- id: pierre-savorgnan-de-brazza
+  name: Pierre Savorgnan de Brazza
+  born: "1852-01-26"
+  died: "1905-09-14"
+  roles: [Forschungsreisender, Kolonialbeamter]
+  summary: In Italien geborener französischer Marineoffizier, der 1880 durch einen Vertrag mit dem Makoko der Teke das Nordufer des Kongo für Frankreich erwarb.
+  regions: [zentralafrika]
+  themes: [imperien]
+  places: [brazzaville]
+- id: adolf-luederitz
+  name: Adolf Lüderitz
+  born: "1834-07-16"
+  died: "1886-10"
+  roles: [Kaufmann]
+  summary: Bremer Tabakhändler, der 1883 an der Küste Namibias Land erwarb, wobei er die Verkäufer über das Maß der Meilen täuschte; Ausgangspunkt der Kolonie Deutsch-Südwestafrika.
+  regions: [suedliches-afrika, deutschland]
+  themes: [imperien]
+  places: [luederitz]
+- id: carl-peters
+  name: Carl Peters
+  born: "1856-09-27"
+  died: "1918-09-10"
+  roles: [Kolonialpolitiker]
+  summary: Gründer der Gesellschaft für deutsche Kolonisation, der 1884 in Ostafrika „Schutzverträge“ erwarb; wegen der Hinrichtung von Afrikanern 1897 aus dem Reichsdienst entlassen.
+  regions: [ostafrika, deutschland]
+  themes: [imperien, gewalt-genozid]
+  places: [daressalam]
+- id: gustav-nachtigal
+  name: Gustav Nachtigal
+  born: "1834-02-23"
+  died: "1885-04-20"
+  roles: [Arzt, Forschungsreisender]
+  summary: Afrikareisender, der 1884 als Reichskommissar die „Schutzherrschaft“ über Togo und Kamerun erklärte.
+  regions: [westafrika, zentralafrika]
+  themes: [imperien]
+- id: menelik-ii
+  name: Menelik II.
+  born: "1844-08-17"
+  died: "1913-12-12"
+  roles: [Kaiser von Äthiopien]
+  summary: Kaiser von Äthiopien ab 1889, der das Reich nach Süden erweiterte, modernisierte und 1896 bei Adua die italienische Invasion zurückschlug.
+  regions: [nordostafrika]
+  themes: [imperien, krieg-militaer]
+  places: [adua]
+  related: [taytu-betul]
+- id: taytu-betul
+  name: Taytu Betul
+  born: "~1851"
+  died: "1918-02-11"
+  roles: [Kaiserin]
+  summary: Kaiserin von Äthiopien und Gründerin von Addis Abeba, die sich entschieden gegen italienische Ansprüche stellte und bei Adua eigene Truppen befehligte.
+  regions: [nordostafrika]
+  themes: [politik]
+  places: [adua]
+  related: [menelik-ii]
+- id: samori-toure
+  name: Samori Touré
+  born: "~1830"
+  died: "1900-06-02"
+  roles: [Herrscher, Feldherr]
+  summary: Gründer eines großen Reichs in Westafrika, der fast zwei Jahrzehnte lang der französischen Eroberung Widerstand leistete; 1898 gefangen genommen und nach Gabun verbannt.
+  regions: [westafrika]
+  themes: [krieg-militaer, imperien]
+- id: yaa-asantewaa
+  name: Yaa Asantewaa
+  born: "~1840"
+  died: "1921-10-17"
+  roles: [Königinmutter, Anführerin]
+  summary: Königinmutter von Ejisu im Asante-Reich, die 1900 den Aufstand gegen die britische Herrschaft anführte, nachdem der britische Gouverneur den Goldenen Stuhl gefordert hatte.
+  regions: [westafrika]
+  themes: [krieg-militaer]
+  places: [kumasi]
+- id: george-washington-williams
+  name: George Washington Williams
+  born: "1849-10-16"
+  died: "1891-08-02"
+  roles: [Historiker, Pfarrer]
+  summary: Afroamerikanischer Bürgerkriegsveteran und Historiker, der nach einer Reise 1890 in einem offenen Brief an Leopold II. die Verbrechen im Kongo anklagte.
+  regions: [nordamerika, zentralafrika]
+  themes: [geschichtsschreibung]
+- id: roger-casement
+  name: Roger Casement
+  born: "1864-09-01"
+  died: "1916-08-03"
+  roles: [Diplomat]
+  summary: Irischer britischer Konsul, dessen Bericht von 1904 die Gräuel im Kongo-Freistaat dokumentierte; 1916 wegen Unterstützung des irischen Osteraufstands hingerichtet.
+  regions: [britische-inseln, zentralafrika]
+  themes: [gewalt-genozid]
+- id: edmund-dene-morel
+  name: Edmund Dene Morel
+  aliases: [E. D. Morel]
+  born: "1873-07-10"
+  died: "1924-11-12"
+  roles: [Journalist]
+  summary: Britischer Journalist, der als Angestellter einer Reederei die Ausbeutung des Kongo aufdeckte und 1904 die Congo Reform Association gründete.
+  regions: [britische-inseln]
+  themes: [schrift-medien]

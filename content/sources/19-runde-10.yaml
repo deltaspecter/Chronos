@@ -1,0 +1,340 @@
+# Quellen und Literatur: Industrialisierung in Deutschland, Amerikanischer Bürgerkrieg, Meiji-Restauration, Berliner Afrika-Konferenz
+
+# --- Industrialisierung in Deutschland ---
+- id: wehler-1995
+  kind: sekundaer
+  authors: ["Wehler, Hans-Ulrich"]
+  title: Deutsche Gesellschaftsgeschichte, Band 3
+  subtitle: Von der „Deutschen Doppelrevolution“ bis zum Beginn des Ersten Weltkrieges 1849–1914
+  place: München
+  publisher: C. H. Beck
+  year: 1995
+- id: hahn-2011
+  kind: sekundaer
+  authors: ["Hahn, Hans-Werner"]
+  title: Die Industrielle Revolution in Deutschland
+  edition: 3. Auflage
+  series: Enzyklopädie deutscher Geschichte 49
+  place: München
+  publisher: Oldenbourg
+  year: 2011
+- id: ziegler-2005
+  kind: sekundaer
+  authors: ["Ziegler, Dieter"]
+  title: Die Industrielle Revolution
+  series: Geschichte kompakt
+  place: Darmstadt
+  publisher: Wissenschaftliche Buchgesellschaft
+  year: 2005
+- id: pierenkemper-1994
+  kind: sekundaer
+  authors: ["Pierenkemper, Toni"]
+  title: Gewerbe und Industrie im 19. und 20. Jahrhundert
+  series: Enzyklopädie deutscher Geschichte 29
+  place: München
+  publisher: Oldenbourg
+  year: 1994
+- id: tilly-1990
+  kind: sekundaer
+  authors: ["Tilly, Richard H."]
+  title: Vom Zollverein zum Industriestaat
+  subtitle: Die wirtschaftlich-soziale Entwicklung Deutschlands 1834 bis 1914
+  place: München
+  publisher: dtv
+  year: 1990
+- id: kocka-1990
+  kind: sekundaer
+  authors: ["Kocka, Jürgen"]
+  title: Arbeitsverhältnisse und Arbeiterexistenzen
+  subtitle: Grundlagen der Klassenbildung im 19. Jahrhundert
+  place: Bonn
+  publisher: Dietz
+  year: 1990
+- id: nipperdey-1990
+  kind: sekundaer
+  authors: ["Nipperdey, Thomas"]
+  title: Deutsche Geschichte 1866–1918, Band 1
+  subtitle: Arbeitswelt und Bürgergeist
+  place: München
+  publisher: C. H. Beck
+  year: 1990
+- id: ritter-tenfelde-1992
+  kind: sekundaer
+  authors: ["Ritter, Gerhard A.", "Tenfelde, Klaus"]
+  title: Arbeiter im Deutschen Kaiserreich 1871 bis 1914
+  place: Bonn
+  publisher: Dietz
+  year: 1992
+- id: q-heine-weber
+  kind: primaer
+  authors: ["Heine, Heinrich"]
+  title: Die schlesischen Weber
+  written: 1844
+  note: Gedicht unter dem Eindruck des Weberaufstands im Juli 1844, zuerst in Karl Marx’ Pariser Zeitschrift „Vorwärts!“ veröffentlicht.
+- id: q-list-1841
+  kind: primaer
+  authors: ["List, Friedrich"]
+  title: Das nationale System der politischen Ökonomie
+  written: Stuttgart, 1841
+  note: Forderte Schutzzölle für junge Industrien und ein nationales Eisenbahnnetz – Gegenentwurf zur Freihandelslehre von Adam Smith.
+- id: q-kommunistisches-manifest
+  kind: primaer
+  authors: ["Marx, Karl", "Engels, Friedrich"]
+  title: Manifest der Kommunistischen Partei
+  written: London, Februar 1848
+  note: Programmschrift für den Bund der Kommunisten, die die Geschichte als Geschichte von Klassenkämpfen deutete und den Sieg des Proletariats voraussagte.
+- id: q-sozialistengesetz
+  kind: primaer
+  title: Gesetz gegen die gemeingefährlichen Bestrebungen der Sozialdemokratie
+  written: 21. Oktober 1878
+  note: Verbot sozialdemokratische Vereine, Versammlungen und Schriften; bis 1890 mehrfach verlängert.
+- id: q-kaiserliche-botschaft-1881
+  kind: primaer
+  title: Kaiserliche Botschaft zur Sozialversicherung
+  written: 17. November 1881
+  note: Von Bismarck formulierte, von Wilhelm I. verlesene Botschaft an den Reichstag, die eine staatliche Versicherung der Arbeiter gegen Krankheit, Unfall, Alter und Invalidität ankündigte.
+
+# --- Amerikanischer Bürgerkrieg ---
+- id: mcpherson-1988
+  kind: sekundaer
+  authors: ["McPherson, James M."]
+  title: Battle Cry of Freedom
+  subtitle: The Civil War Era
+  place: New York
+  publisher: Oxford University Press
+  year: 1988
+- id: foner-1988
+  kind: sekundaer
+  authors: ["Foner, Eric"]
+  title: Reconstruction
+  subtitle: America's Unfinished Revolution, 1863–1877
+  place: New York
+  publisher: Harper & Row
+  year: 1988
+- id: foner-2010
+  kind: sekundaer
+  authors: ["Foner, Eric"]
+  title: The Fiery Trial
+  subtitle: Abraham Lincoln and American Slavery
+  place: New York
+  publisher: W. W. Norton
+  year: 2010
+- id: blight-2001
+  kind: sekundaer
+  authors: ["Blight, David W."]
+  title: Race and Reunion
+  subtitle: The Civil War in American Memory
+  place: Cambridge, Mass.
+  publisher: Belknap Press of Harvard University Press
+  year: 2001
+- id: faust-2008
+  kind: sekundaer
+  authors: ["Faust, Drew Gilpin"]
+  title: This Republic of Suffering
+  subtitle: Death and the American Civil War
+  place: New York
+  publisher: Alfred A. Knopf
+  year: 2008
+- id: hacker-2011
+  kind: sekundaer
+  authors: ["Hacker, J. David"]
+  title: A Census-Based Count of the Civil War Dead
+  container: Civil War History
+  volume: "57"
+  year: 2011
+  pages: 307–348
+- id: hochgeschwender-2010
+  kind: sekundaer
+  authors: ["Hochgeschwender, Michael"]
+  title: Der amerikanische Bürgerkrieg
+  series: Beck Wissen
+  place: München
+  publisher: C. H. Beck
+  year: 2010
+- id: nagler-2009
+  kind: sekundaer
+  authors: ["Nagler, Jörg"]
+  title: Abraham Lincoln
+  subtitle: Amerikas großer Präsident. Eine Biographie
+  place: München
+  publisher: C. H. Beck
+  year: 2009
+- id: q-douglass-1845
+  kind: primaer
+  authors: ["Douglass, Frederick"]
+  title: Narrative of the Life of Frederick Douglass, an American Slave
+  written: Boston, 1845
+  note: Autobiographie eines aus der Sklaverei geflohenen Mannes, eines der einflussreichsten Werke der Bewegung gegen die Sklaverei.
+- id: q-stowe-1852
+  kind: primaer
+  authors: ["Stowe, Harriet Beecher"]
+  title: Uncle Tom's Cabin (Onkel Toms Hütte)
+  written: Boston, 1852
+  note: Roman über das Leiden Versklavter, der im ersten Jahr in den USA rund 300.000 Mal verkauft wurde und die Sklavereigegner im Norden mobilisierte.
+- id: q-south-carolina-1860
+  kind: primaer
+  title: Declaration of the Immediate Causes Which Induce and Justify the Secession of South Carolina from the Federal Union
+  written: Charleston, 24. Dezember 1860
+  note: Begründung der Abspaltung South Carolinas, die die Bedrohung der Sklaverei durch die Wahl Lincolns in den Mittelpunkt stellt.
+- id: q-cornerstone-speech
+  kind: primaer
+  authors: ["Stephens, Alexander H."]
+  title: Rede in Savannah („Cornerstone Speech“)
+  written: 21. März 1861
+  note: Rede des Vizepräsidenten der Konföderation, der die Sklaverei und die angebliche Ungleichheit der Rassen als „Eckstein“ des neuen Staates bezeichnete.
+- id: q-emancipation-proclamation
+  kind: primaer
+  authors: ["Lincoln, Abraham"]
+  title: Emancipation Proclamation (Emanzipationsproklamation)
+  written: Washington, 1. Januar 1863
+  note: Erklärte die Versklavten in den aufständischen Gebieten für frei und erlaubte die Aufnahme schwarzer Soldaten in die Unionsarmee.
+- id: q-gettysburg-address
+  kind: primaer
+  authors: ["Lincoln, Abraham"]
+  title: Gettysburg Address
+  written: Gettysburg, 19. November 1863
+  note: Kurze Rede bei der Einweihung des Soldatenfriedhofs, die den Krieg als Bewährungsprobe einer Regierung „des Volkes, durch das Volk und für das Volk“ deutete.
+
+# --- Meiji-Restauration ---
+- id: gordon-2003
+  kind: sekundaer
+  authors: ["Gordon, Andrew"]
+  title: A Modern History of Japan
+  subtitle: From Tokugawa Times to the Present
+  place: New York
+  publisher: Oxford University Press
+  year: 2003
+- id: beasley-1972
+  kind: sekundaer
+  authors: ["Beasley, W. G."]
+  title: The Meiji Restoration
+  place: Stanford
+  publisher: Stanford University Press
+  year: 1972
+- id: gluck-1985
+  kind: sekundaer
+  authors: ["Gluck, Carol"]
+  title: Japan's Modern Myths
+  subtitle: Ideology in the Late Meiji Period
+  place: Princeton
+  publisher: Princeton University Press
+  year: 1985
+- id: zoellner-2006
+  kind: sekundaer
+  authors: ["Zöllner, Reinhard"]
+  title: Geschichte Japans
+  subtitle: Von 1800 bis zur Gegenwart
+  place: Paderborn
+  publisher: Schöningh (UTB)
+  year: 2006
+- id: keene-2002
+  kind: sekundaer
+  authors: ["Keene, Donald"]
+  title: Emperor of Japan
+  subtitle: Meiji and His World, 1852–1912
+  place: New York
+  publisher: Columbia University Press
+  year: 2002
+- id: duus-1995
+  kind: sekundaer
+  authors: ["Duus, Peter"]
+  title: The Abacus and the Sword
+  subtitle: The Japanese Penetration of Korea, 1895–1910
+  place: Berkeley
+  publisher: University of California Press
+  year: 1995
+- id: q-charta-eid
+  kind: primaer
+  title: Charta-Eid in fünf Artikeln (Gokajō no Goseimon)
+  written: Kyōto, 6. April 1868
+  note: Grundsatzerklärung der neuen Regierung im Namen des jungen Kaisers, die beratende Versammlungen und die Suche nach Wissen „in der ganzen Welt“ versprach.
+- id: q-meiji-verfassung
+  kind: primaer
+  title: Verfassung des Kaiserreichs Japan (Meiji-Verfassung)
+  written: Tokio, 11. Februar 1889
+  note: Vom Kaiser „gewährte“ Verfassung nach preußischem Vorbild mit einem Zweikammerparlament und starken Vorrechten des Monarchen.
+- id: q-erziehungsedikt
+  kind: primaer
+  title: Kaiserliches Erziehungsedikt (Kyōiku Chokugo)
+  written: 30. Oktober 1890
+  note: Kurzer Erlass, der Loyalität gegenüber dem Kaiser und konfuzianische Tugenden zur Grundlage der Schulbildung machte; in den Schulen regelmäßig feierlich verlesen.
+- id: q-fukuzawa-1872
+  kind: primaer
+  authors: ["Fukuzawa Yukichi"]
+  title: Gakumon no susume (Ermunterung zum Lernen)
+  written: 1872–1876
+  note: Vielgelesene Schriftenreihe, die mit dem Satz beginnt, der Himmel erschaffe keinen Menschen über und keinen unter einem anderen, und zu praktischem westlichem Wissen aufrief.
+
+# --- Berliner Afrika-Konferenz und Kolonialisierung Afrikas ---
+- id: pakenham-1991
+  kind: sekundaer
+  authors: ["Pakenham, Thomas"]
+  title: The Scramble for Africa 1876–1912
+  place: London
+  publisher: Weidenfeld & Nicolson
+  year: 1991
+- id: wesseling-1996
+  kind: sekundaer
+  authors: ["Wesseling, H. L."]
+  title: Divide and Rule
+  subtitle: The Partition of Africa, 1880–1914
+  place: Westport
+  publisher: Praeger
+  year: 1996
+- id: foerster-1988
+  kind: sekundaer
+  editors: ["Förster, Stig", "Mommsen, Wolfgang J.", "Robinson, Ronald"]
+  title: Bismarck, Europe, and Africa
+  subtitle: The Berlin Africa Conference 1884–1885 and the Onset of Partition
+  place: Oxford
+  publisher: Oxford University Press
+  year: 1988
+- id: hochschild-1998
+  kind: sekundaer
+  authors: ["Hochschild, Adam"]
+  title: King Leopold's Ghost
+  subtitle: A Story of Greed, Terror, and Heroism in Colonial Africa
+  place: Boston
+  publisher: Houghton Mifflin
+  year: 1998
+- id: iliffe-1995
+  kind: sekundaer
+  authors: ["Iliffe, John"]
+  title: Africans
+  subtitle: The History of a Continent
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1995
+- id: boahen-1987
+  kind: sekundaer
+  authors: ["Boahen, A. Adu"]
+  title: African Perspectives on Colonialism
+  place: Baltimore
+  publisher: Johns Hopkins University Press
+  year: 1987
+- id: van-reybrouck-2010
+  kind: sekundaer
+  authors: ["Van Reybrouck, David"]
+  title: Congo
+  subtitle: Een geschiedenis
+  place: Amsterdam
+  publisher: De Bezige Bij
+  year: 2010
+  note: Deutsch 2012 unter dem Titel „Kongo. Eine Geschichte“.
+- id: q-kongoakte
+  kind: primaer
+  title: Generalakte der Berliner Konferenz (Kongoakte)
+  written: Berlin, 26. Februar 1885
+  note: Von 14 Staaten unterzeichnetes Abkommen über Handelsfreiheit im Kongobecken, die Schifffahrt auf Kongo und Niger und die Bedingungen für künftige Besitzergreifungen an den Küsten Afrikas.
+- id: q-williams-1890
+  kind: primaer
+  authors: ["Williams, George Washington"]
+  title: An Open Letter to His Serene Majesty Leopold II, King of the Belgians
+  written: Stanley Falls, Juli 1890
+  note: Bericht eines afroamerikanischen Historikers und Bürgerkriegsveteranen über Gewalt und Betrug im Kongo-Freistaat – eine der frühesten öffentlichen Anklagen.
+- id: q-casement-1904
+  kind: primaer
+  authors: ["Casement, Roger"]
+  title: Bericht des britischen Konsuls über die Verwaltung des Kongo-Freistaats
+  written: London, 1904 (Parlamentspapier)
+  note: Auf Reisen im Jahr 1903 beruhender Bericht über Zwangsarbeit, Geiselnahmen und Verstümmelungen bei der Kautschukgewinnung.

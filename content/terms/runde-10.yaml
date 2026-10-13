@@ -1,0 +1,80 @@
+# Begriffe: Industrialisierung in Deutschland
+- id: zollverein
+  name: Deutscher Zollverein
+  aliases: [Zollverein]
+  definition: 1834 unter preußischer Führung gegründeter Zusammenschluss deutscher Staaten zu einem gemeinsamen Zoll- und Handelsgebiet ohne Österreich; gilt als wirtschaftliche Vorstufe der Reichsgründung.
+  themes: [wirtschaft-handel]
+- id: proletariat
+  name: Proletariat
+  aliases: [Proletarier, Arbeiterklasse]
+  definition: Im 19. Jahrhundert verbreiteter, von Marx und Engels geprägter Begriff für die Schicht der Lohnarbeiter, die außer ihrer Arbeitskraft kein Eigentum an Produktionsmitteln besitzen.
+  themes: [gesellschaft, wirtschaft-handel]
+- id: sozialdemokratie
+  name: Sozialdemokratie
+  aliases: [SPD, Sozialdemokratische Partei]
+  definition: Politische Bewegung der Arbeiterschaft, die in Deutschland aus dem Zusammenschluss zweier Arbeiterparteien 1875 entstand, unter dem Sozialistengesetz verfolgt wurde und 1912 stärkste Fraktion im Reichstag war.
+  themes: [politik, gesellschaft]
+- id: sozialstaat
+  name: Sozialstaat
+  aliases: [Sozialversicherung, Wohlfahrtsstaat]
+  definition: Staat, der seine Bürger gegen Lebensrisiken wie Krankheit, Unfall, Invalidität, Alter und Arbeitslosigkeit absichert; in Deutschland begann er mit der Sozialversicherung der 1880er-Jahre.
+  themes: [gesellschaft, politik]
+- id: gruenderzeit
+  name: Gründerzeit
+  definition: Die Jahre nach der Reichsgründung 1871, als mit dem Geld der französischen Kriegsentschädigung zahlreiche Unternehmen und Banken gegründet wurden und ein Bauboom einsetzte, bis zum Börsenkrach 1873; im weiteren Sinn die Zeit bis um 1900.
+  themes: [wirtschaft-handel]
+# Begriffe: Amerikanischer Bürgerkrieg
+- id: underground-railroad
+  name: Underground Railroad
+  aliases: [Untergrundbahn]
+  definition: Netzwerk von Fluchthelfern, Schwarzen wie Weißen, das versklavten Menschen vor dem Bürgerkrieg half, in die Nordstaaten oder nach Kanada zu fliehen.
+  themes: [sklaverei-unfreiheit]
+- id: sezession
+  name: Sezession
+  definition: Die Abspaltung eines Teilgebiets von einem Staat; in den USA der Austritt der elf Südstaaten aus der Union 1860/61, den die Union als verfassungswidrig betrachtete.
+  themes: [politik, verfassung-recht]
+- id: jim-crow
+  name: Jim-Crow-Gesetze
+  aliases: [Jim Crow, Rassentrennung]
+  definition: Gesetze in den Südstaaten der USA vom späten 19. Jahrhundert bis in die 1960er-Jahre, die Schwarze vom Wahlrecht ausschlossen und die Trennung nach „Rassen“ in Schulen, Verkehrsmitteln und öffentlichen Einrichtungen vorschrieben.
+  themes: [verfassung-recht, gesellschaft]
+- id: ku-klux-klan
+  name: Ku-Klux-Klan
+  aliases: [KKK]
+  definition: 1865 von ehemaligen konföderierten Soldaten gegründete rassistische Geheimorganisation, die mit Terror und Morden gegen Afroamerikaner und ihre Unterstützer die Reconstruction bekämpfte.
+  themes: [gewalt-genozid]
+# Begriffe: Meiji-Restauration
+- id: fukoku-kyohei
+  name: Fukoku kyōhei
+  aliases: [Reiches Land, starke Armee]
+  definition: „Reiches Land, starke Armee“ – Leitspruch der Meiji-Regierung, die Japan durch Industrialisierung und militärische Stärke auf eine Stufe mit den westlichen Mächten bringen wollte.
+  themes: [politik, wirtschaft-handel]
+- id: bunmei-kaika
+  name: Bunmei kaika
+  aliases: [Zivilisation und Aufklärung]
+  definition: „Zivilisation und Aufklärung“ – Schlagwort der frühen Meiji-Zeit für die Übernahme westlicher Wissenschaft, Kleidung, Bauweisen und Institutionen.
+  themes: [kultur-kunst, wissenschaft-technik]
+- id: genro
+  name: Genrō
+  aliases: [Ältere Staatsmänner]
+  definition: Kleiner Kreis führender Politiker der Meiji-Zeit wie Itō Hirobumi und Yamagata Aritomo, die ohne verfassungsrechtliche Grundlage bis in die 1920er-Jahre die Premierminister vorschlugen.
+  themes: [politik]
+- id: staats-shinto
+  name: Staats-Shintō
+  definition: Die von der Meiji-Regierung geförderte Verbindung von Shintō-Kult und Kaiserverehrung, die als „nicht religiöse“ Pflicht aller Untertanen galt; 1945 von der Besatzungsmacht abgeschafft.
+  themes: [religion, politik]
+# Begriffe: Imperialismus
+- id: imperialismus
+  name: Imperialismus
+  aliases: [Hochimperialismus, Scramble for Africa]
+  definition: Das Streben von Staaten nach Herrschaft über fremde Gebiete und Bevölkerungen; im engeren Sinn die Phase zwischen etwa 1880 und 1914, in der europäische Mächte, die USA und Japan fast ganz Afrika und große Teile Asiens und des Pazifiks unter sich aufteilten.
+  themes: [imperien, politik]
+- id: effektive-okkupation
+  name: Effektive Okkupation
+  definition: In der Kongoakte von 1885 festgelegter Grundsatz, dass Besitzansprüche an neuen Küstengebieten Afrikas den anderen Mächten angezeigt und durch eine tatsächliche Verwaltung untermauert werden müssen.
+  themes: [imperien, verfassung-recht]
+- id: schutzvertrag
+  name: Schutzvertrag
+  aliases: [Schutzgebiet, Protektorat]
+  definition: Vertrag, mit dem ein afrikanischer Herrscher angeblich seine Souveränität an eine europäische Macht abtrat; viele wurden unter Täuschung, Druck oder ohne Verständnis ihres Inhalts geschlossen.
+  themes: [imperien, verfassung-recht]

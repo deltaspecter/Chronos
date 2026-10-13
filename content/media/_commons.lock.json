@@ -559,5 +559,37 @@
     "author": "SPC Gibran Torres, United States Army",
     "license": "Public domain",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Citadelle_Laferri%C3%A8re_Aerial_View.jpg"
+  },
+  "menzel-eisenwalzwerk": {
+    "file": "menzel-eisenwalzwerk.jpg",
+    "width": 1200,
+    "height": 744,
+    "author": "Adolph von Menzel",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adolph_Menzel_-_Eisenwalzwerk_-_Google_Art_Project.jpg"
+  },
+  "iwakura-mission-foto": {
+    "file": "iwakura-mission-foto.jpg",
+    "width": 1200,
+    "height": 945,
+    "author": "Urheber unbekannt",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iwakura_mission.jpg"
+  },
+  "kongokonferenz-stich": {
+    "file": "kongokonferenz-stich.jpg",
+    "width": 1200,
+    "height": 923,
+    "author": "Adalbert von Roessler",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kongokonferenz.jpg"
+  },
+  "us-colored-infantry": {
+    "file": "us-colored-infantry.jpg",
+    "width": 1200,
+    "height": 879,
+    "author": "Unbekannter Fotograf (Library of Congress)",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:4th_United_States_Colored_Infantry.jpg"
   }
 }

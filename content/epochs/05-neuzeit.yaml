@@ -82,9 +82,7 @@
   planned:
     - Die Revolutionen von 1848/49
     - Die deutsche Reichsgründung 1871
-    - Die Meiji-Restauration in Japan
     - Die Opiumkriege
-    - Der Amerikanische Bürgerkrieg
 
 - id: industrialisierung
   title: Industrialisierung
@@ -96,8 +94,6 @@
   summary: Von der mechanisierten Textilproduktion in Großbritannien zur weltweiten Industriegesellschaft – mit tiefgreifenden Folgen für Arbeit, Umwelt und soziale Ordnung.
   body: ""
   planned:
-    - Die soziale Frage und die Arbeiterbewegung
-    - Industrialisierung in Deutschland
 
 - id: imperialismus
   title: Imperialismus
@@ -109,6 +105,4 @@
   summary: Die Zeit des Hochimperialismus, in der europäische Mächte, die USA und Japan große Teile Afrikas, Asiens und Ozeaniens unter ihre Herrschaft brachten.
   body: ""
   planned:
-    - Die Berliner Afrika-Konferenz 1884/85
     - Britische Herrschaft in Indien
-    - Der Kongo-Freistaat

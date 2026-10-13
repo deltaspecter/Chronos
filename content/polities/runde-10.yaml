@@ -1,0 +1,101 @@
+# Staaten: Deutschland im 19. Jahrhundert
+- id: deutscher-bund
+  name: Deutscher Bund
+  start: "1815-06-08"
+  end: "1866-08-23"
+  summary: Auf dem Wiener Kongress gegründeter Staatenbund von zuletzt 39 souveränen deutschen Staaten und Städten unter Führung Österreichs; zerbrach im Deutschen Krieg 1866.
+  regions: [deutschland, mitteleuropa]
+  themes: [politik]
+  predecessors: [heiliges-roemisches-reich, rheinbund]
+  successors: [norddeutscher-bund]
+  weight: 2
+- id: norddeutscher-bund
+  name: Norddeutscher Bund
+  start: "1867-07-01"
+  end: "1870-12-31"
+  capital: berlin
+  summary: Nach dem Sieg Preußens über Österreich gegründeter Bundesstaat nördlich des Mains, dessen Verfassung und Reichstag 1871 in das Kaiserreich übergingen.
+  regions: [deutschland]
+  themes: [politik]
+  predecessors: [deutscher-bund]
+  successors: [deutsches-kaiserreich]
+  weight: 3
+# Staaten: Amerikanischer Bürgerkrieg
+- id: konfoederierte-staaten
+  name: Konföderierte Staaten von Amerika
+  aliases: [Konföderation, Confederate States of America, Südstaaten]
+  start: "1861-02-08"
+  end: "1865-05"
+  spanNote: Von der Gründung in Montgomery bis zur Auflösung nach der Kapitulation der Armeen und der Gefangennahme Jefferson Davis’ im Mai 1865.
+  capital: richmond
+  summary: Von elf sklavenhaltenden Südstaaten gegründeter Staat, der sich zur Verteidigung der Sklaverei von den Vereinigten Staaten lossagte und von keinem anderen Staat anerkannt wurde.
+  regions: [nordamerika]
+  themes: [politik, sklaverei-unfreiheit]
+  weight: 2
+# Staaten: Ostasien
+- id: koreanisches-kaiserreich
+  name: Koreanisches Kaiserreich
+  aliases: [Daehan Jeguk, Joseon, Korea]
+  start: "1897-10-12"
+  end: "1910-08-29"
+  spanNote: Nachfolger des Königreichs Joseon (1392–1897); 1905 japanisches Protektorat, 1910 von Japan annektiert.
+  capital: seoul
+  summary: Das letzte unabhängige koreanische Staatswesen vor der japanischen Kolonialherrschaft.
+  regions: [korea]
+  themes: [politik, imperien]
+  successors: [kaiserreich-japan]
+  weight: 3
+# Staaten: Afrika im Zeitalter des Imperialismus
+- id: kongo-freistaat
+  name: Kongo-Freistaat
+  aliases: [État indépendant du Congo, Congo Free State]
+  start: "1885-07-01"
+  end: "1908-11-15"
+  capital: boma
+  summary: Von Leopold II. persönlich beherrschter Staat im Kongobecken, in dem ein System der Zwangsarbeit für Kautschuk und Elfenbein Millionen Menschen das Leben kostete.
+  regions: [zentralafrika]
+  themes: [imperien, gewalt-genozid, sklaverei-unfreiheit]
+  successors: [belgisch-kongo]
+  weight: 2
+- id: belgisch-kongo
+  name: Belgisch-Kongo
+  start: "1908-11-15"
+  end: "1960-06-30"
+  capital: boma
+  spanNote: Hauptstadt war zunächst Boma, ab den 1920er-Jahren Léopoldville (Kinshasa).
+  summary: Belgische Kolonie, die nach internationalem Protest aus dem Kongo-Freistaat hervorging und 1960 unabhängig wurde.
+  regions: [zentralafrika]
+  themes: [imperien]
+  predecessors: [kongo-freistaat]
+  weight: 3
+- id: kaiserreich-aethiopien
+  name: Kaiserreich Äthiopien
+  aliases: [Abessinien, Äthiopien]
+  start: "1270"
+  end: "1974-09-12"
+  spanNote: Hier ab der Herrschaft der salomonischen Dynastie; 1936–1941 von Italien besetzt, 1974 durch eine Militärrevolution beendet.
+  summary: Christliches Kaiserreich am Horn von Afrika, das als einziger afrikanischer Staat neben Liberia die Aufteilung des Kontinents im 19. Jahrhundert überstand.
+  regions: [nordostafrika]
+  themes: [imperien, religion]
+  weight: 2
+- id: mahdi-staat
+  name: Mahdi-Staat
+  aliases: [Mahdiyya]
+  start: "1885"
+  end: "1898-09-02"
+  capital: omdurman
+  summary: Von Muhammad Ahmad, dem selbsternannten Mahdi, und seinem Nachfolger Abdallahi im Sudan errichteter Staat nach dem Sieg über die ägyptisch-britische Herrschaft; 1898 bei Omdurman zerschlagen.
+  regions: [nordostafrika]
+  themes: [religion, imperien]
+  weight: 3
+- id: deutsch-ostafrika
+  name: Deutsch-Ostafrika
+  start: "1885"
+  end: "1919"
+  spanNote: 1885 kaiserlicher Schutzbrief für die Deutsch-Ostafrikanische Gesellschaft, 1891 Kolonie des Reichs; im Ersten Weltkrieg erobert, 1919 als Mandatsgebiet aufgeteilt.
+  capital: daressalam
+  summary: Deutsche Kolonie im Gebiet der heutigen Staaten Tansania, Ruanda und Burundi; Schauplatz des Maji-Maji-Kriegs 1905–1907.
+  regions: [ostafrika]
+  themes: [imperien, gewalt-genozid]
+  successors: [ruanda-urundi]
+  weight: 3

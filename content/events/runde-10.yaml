@@ -1,0 +1,530 @@
+# --- Industrialisierung in Deutschland ---
+- id: deutscher-zollverein
+  title: Gründung des Deutschen Zollvereins
+  date: "1834-01-01"
+  weight: 2
+  kind: vertrag
+  summary: Unter preußischer Führung schaffen 18 deutsche Staaten die Zollgrenzen untereinander ab; ein gemeinsamer Markt mit rund 23 Millionen Menschen entsteht – ohne Österreich.
+  regions: [deutschland]
+  themes: [wirtschaft-handel]
+  persons: [friedrich-list]
+  polities: [koenigreich-preussen, deutscher-bund]
+- id: ludwigsbahn
+  title: Erste deutsche Eisenbahn
+  date: "1835-12-07"
+  weight: 2
+  kind: entdeckung
+  summary: Die Ludwigsbahn zwischen Nürnberg und Fürth nimmt mit der in England gebauten Lokomotive „Adler“ den Betrieb auf; in den folgenden Jahrzehnten wird der Eisenbahnbau zum Motor der Industrialisierung.
+  regions: [deutschland]
+  themes: [wissenschaft-technik]
+  places: [nuernberg, fuerth]
+- id: weberaufstand-1844
+  title: Aufstand der schlesischen Weber
+  start: "1844-06-04"
+  end: "1844-06-06"
+  weight: 3
+  kind: ereignis
+  summary: Hungernde Heimweber in Peterswaldau und Langenbielau zerstören Häuser von Textilverlegern; preußisches Militär schlägt den Aufstand nieder, elf Menschen sterben. Der Aufstand wird zum Symbol der sozialen Not.
+  regions: [mitteleuropa]
+  themes: [gesellschaft]
+  places: [peterswaldau]
+  persons: [heinrich-heine]
+  polities: [koenigreich-preussen]
+- id: revolution-1848
+  title: Revolution von 1848/49 in Deutschland
+  start: "1848-03"
+  end: "1849-07"
+  weight: 2
+  kind: revolution
+  summary: Märzrevolutionen in den deutschen Staaten erzwingen liberale Regierungen und eine Nationalversammlung in der Frankfurter Paulskirche, deren Reichsverfassung scheitert; Militär schlägt die letzten Aufstände nieder.
+  regions: [deutschland, mitteleuropa]
+  themes: [revolutionen, politik]
+  places: [berlin]
+  polities: [deutscher-bund, koenigreich-preussen]
+- id: kommunistisches-manifest
+  title: Das Kommunistische Manifest
+  date: "1848-02"
+  weight: 3
+  kind: ereignis
+  summary: Karl Marx und Friedrich Engels veröffentlichen in London ihr Programm für den Bund der Kommunisten mit dem Schlussaufruf „Proletarier aller Länder, vereinigt euch!“
+  regions: [britische-inseln, europa]
+  themes: [politik, schrift-medien]
+  places: [london]
+  persons: [karl-marx, friedrich-engels]
+- id: gruendung-adav
+  title: Gründung des Allgemeinen Deutschen Arbeitervereins
+  date: "1863-05-23"
+  weight: 3
+  kind: gruendung
+  summary: In Leipzig gründet Ferdinand Lassalle die erste dauerhafte Arbeiterpartei Deutschlands; 1875 vereint sie sich mit der Partei Bebels zur späteren SPD.
+  regions: [deutschland]
+  themes: [politik, gesellschaft]
+  places: [leipzig]
+  persons: [ferdinand-lassalle, august-bebel]
+- id: reichsgruendung-1871
+  title: Reichsgründung
+  date: "1871-01-18"
+  weight: 1
+  kind: gruendung
+  summary: Nach drei Kriegen gegen Dänemark, Österreich und Frankreich wird im Spiegelsaal von Versailles der preußische König Wilhelm I. zum Deutschen Kaiser ausgerufen.
+  regions: [deutschland, frankreich]
+  themes: [politik, krieg-militaer]
+  places: [versailles]
+  persons: [otto-von-bismarck, wilhelm-i]
+  polities: [deutsches-kaiserreich, koenigreich-preussen, norddeutscher-bund]
+- id: gruenderkrach-1873
+  title: Gründerkrach
+  date: "1873-05"
+  weight: 3
+  kind: katastrophe
+  summary: Nach einem Spekulationsboom, befeuert von den französischen Kriegsentschädigungen, bricht im Mai 1873 der Wiener Börsenkrach aus; es folgen Jahre niedriger Preise und Gewinne, die das Vertrauen in den Liberalismus erschüttern.
+  regions: [deutschland, mitteleuropa]
+  themes: [wirtschaft-handel]
+  places: [wien, berlin]
+  polities: [deutsches-kaiserreich]
+- id: sozialistengesetz
+  title: Sozialistengesetz
+  start: "1878-10-21"
+  end: "1890-09-30"
+  weight: 3
+  kind: gesetz
+  summary: Nach zwei Attentaten auf Wilhelm I. verbietet der Reichstag auf Bismarcks Betreiben sozialdemokratische Vereine und Schriften; die Partei kann aber weiter Abgeordnete stellen und wächst.
+  regions: [deutschland]
+  themes: [politik]
+  persons: [otto-von-bismarck, august-bebel]
+  polities: [deutsches-kaiserreich]
+- id: sozialversicherung
+  title: Einführung der Sozialversicherung
+  start: "1883"
+  end: "1889"
+  dateNote: Krankenversicherung 1883, Unfallversicherung 1884, Invaliditäts- und Altersversicherung 1889.
+  weight: 2
+  kind: gesetz
+  summary: Als erstes Land der Welt führt das Deutsche Reich eine gesetzliche Kranken-, Unfall- und Rentenversicherung für Arbeiter ein – auch, um sie der Sozialdemokratie zu entfremden.
+  regions: [deutschland]
+  themes: [gesellschaft, politik]
+  persons: [otto-von-bismarck, wilhelm-i]
+  polities: [deutsches-kaiserreich]
+- id: benz-motorwagen
+  title: Patent für den Benz-Motorwagen
+  date: "1886-01-29"
+  weight: 3
+  kind: entdeckung
+  summary: Carl Benz erhält ein Patent für ein „Fahrzeug mit Gasmotorenbetrieb“ – einen dreirädrigen Wagen, der als erstes praxistaugliches Automobil gilt.
+  regions: [deutschland]
+  themes: [wissenschaft-technik]
+  persons: [carl-benz, bertha-benz]
+  polities: [deutsches-kaiserreich]
+- id: bergarbeiterstreik-1889
+  title: Großer Bergarbeiterstreik
+  date: "1889-05"
+  weight: 3
+  kind: ereignis
+  summary: Rund 90.000 Bergleute im Ruhrgebiet legen die Arbeit nieder und fordern kürzere Schichten und höhere Löhne – einer der größten Streiks des Kaiserreichs.
+  regions: [deutschland]
+  themes: [gesellschaft]
+  places: [ruhrgebiet, essen]
+  polities: [deutsches-kaiserreich]
+# --- Amerikanischer Bürgerkrieg ---
+- id: dred-scott-urteil
+  title: Dred-Scott-Urteil
+  date: "1857-03-06"
+  weight: 3
+  kind: gesetz
+  summary: Der Oberste Gerichtshof entscheidet, dass Afroamerikaner keine Bürger der USA sein können und der Kongress die Sklaverei in den Territorien nicht verbieten darf.
+  regions: [nordamerika]
+  themes: [verfassung-recht, sklaverei-unfreiheit]
+  persons: [dred-scott]
+  polities: [vereinigte-staaten]
+- id: harpers-ferry-ueberfall
+  title: Überfall auf Harpers Ferry
+  date: "1859-10-16"
+  weight: 3
+  kind: ereignis
+  summary: John Brown und 21 Gefolgsleute besetzen das Bundesarsenal, um Versklavte zu bewaffnen; nach zwei Tagen werden sie überwältigt, Brown wird gehängt.
+  regions: [nordamerika]
+  themes: [sklaverei-unfreiheit, gewalt-genozid]
+  places: [harpers-ferry]
+  persons: [john-brown, robert-e-lee]
+  polities: [vereinigte-staaten]
+- id: wahl-lincolns
+  title: Wahl Abraham Lincolns
+  date: "1860-11-06"
+  weight: 2
+  kind: ereignis
+  summary: Der Republikaner Lincoln, der die Ausbreitung der Sklaverei in neue Gebiete verhindern will, gewinnt die Präsidentschaftswahl, ohne einen einzigen Wahlmann aus den Südstaaten zu erhalten; in den meisten von ihnen stand er nicht einmal auf dem Stimmzettel.
+  regions: [nordamerika]
+  themes: [politik]
+  persons: [abraham-lincoln]
+  polities: [vereinigte-staaten]
+- id: sezession-1860
+  title: Sezession der Südstaaten
+  start: "1860-12-20"
+  end: "1861-06"
+  weight: 2
+  kind: ereignis
+  summary: Beginnend mit South Carolina erklären elf Sklavenstaaten ihren Austritt aus der Union und gründen im Februar 1861 die Konföderierten Staaten von Amerika.
+  regions: [nordamerika]
+  themes: [politik, sklaverei-unfreiheit]
+  places: [charleston, richmond]
+  persons: [jefferson-davis, alexander-h-stephens]
+  polities: [konfoederierte-staaten, vereinigte-staaten]
+- id: amerikanischer-buergerkrieg
+  title: Amerikanischer Bürgerkrieg
+  aliases: [Sezessionskrieg, Civil War]
+  start: "1861-04-12"
+  end: "1865-05"
+  weight: 1
+  kind: krieg
+  summary: Krieg zwischen den Vereinigten Staaten und den abgespaltenen Sklavenstaaten des Südens; er endet mit dem Sieg der Union, der Abschaffung der Sklaverei und rund 750.000 toten Soldaten.
+  regions: [nordamerika]
+  themes: [krieg-militaer, sklaverei-unfreiheit]
+  places: [fort-sumter, antietam, gettysburg, vicksburg, atlanta, richmond, appomattox]
+  persons: [abraham-lincoln, jefferson-davis, robert-e-lee, ulysses-s-grant, william-t-sherman]
+  polities: [vereinigte-staaten, konfoederierte-staaten]
+- id: beschiessung-fort-sumter
+  title: Beschießung von Fort Sumter
+  date: "1861-04-12"
+  weight: 3
+  kind: schlacht
+  summary: Konföderierte Batterien eröffnen das Feuer auf die Bundesfestung im Hafen von Charleston; Lincoln ruft 75.000 Freiwillige zu den Waffen.
+  regions: [nordamerika]
+  themes: [krieg-militaer]
+  places: [fort-sumter, charleston]
+  persons: [abraham-lincoln]
+  polities: [konfoederierte-staaten, vereinigte-staaten]
+- id: schlacht-am-antietam
+  title: Schlacht am Antietam
+  date: "1862-09-17"
+  weight: 3
+  kind: schlacht
+  summary: Am blutigsten Tag der amerikanischen Geschichte mit rund 23.000 Toten, Verwundeten und Vermissten stoppt die Union Lees Vorstoß nach Maryland; Lincoln nutzt den Erfolg, um die Emanzipation anzukündigen.
+  regions: [nordamerika]
+  themes: [krieg-militaer]
+  places: [antietam]
+  persons: [robert-e-lee]
+  polities: [vereinigte-staaten, konfoederierte-staaten]
+- id: emanzipationsproklamation
+  title: Emanzipationsproklamation
+  date: "1863-01-01"
+  weight: 2
+  kind: gesetz
+  summary: Lincoln erklärt alle Versklavten in den aufständischen Gebieten für frei und öffnet die Unionsarmee für schwarze Soldaten; aus dem Krieg um die Union wird ein Krieg gegen die Sklaverei.
+  regions: [nordamerika]
+  themes: [sklaverei-unfreiheit, verfassung-recht]
+  places: [washington]
+  persons: [abraham-lincoln, frederick-douglass]
+  polities: [vereinigte-staaten]
+- id: schlacht-von-gettysburg
+  title: Schlacht von Gettysburg
+  start: "1863-07-01"
+  end: "1863-07-03"
+  weight: 2
+  kind: schlacht
+  summary: In der verlustreichsten Schlacht des Kriegs scheitert Lees Invasion des Nordens; am folgenden Tag fällt im Westen Vicksburg.
+  regions: [nordamerika]
+  themes: [krieg-militaer]
+  places: [gettysburg, vicksburg]
+  persons: [robert-e-lee, ulysses-s-grant]
+  polities: [vereinigte-staaten, konfoederierte-staaten]
+- id: gettysburg-address
+  title: Gettysburg Address
+  date: "1863-11-19"
+  weight: 3
+  kind: ereignis
+  summary: In einer Rede von kaum drei Minuten deutet Lincoln den Krieg als Prüfung, ob eine Regierung „des Volkes, durch das Volk und für das Volk“ bestehen kann.
+  regions: [nordamerika]
+  themes: [politik]
+  places: [gettysburg]
+  persons: [abraham-lincoln]
+  polities: [vereinigte-staaten]
+- id: marsch-zum-meer
+  title: Shermans Marsch zum Meer
+  start: "1864-11-15"
+  end: "1864-12-21"
+  weight: 3
+  kind: krieg
+  summary: Nach der Einnahme Atlantas zieht Shermans Armee durch Georgia nach Savannah und zerstört Eisenbahnen, Vorräte und Plantagen; Tausende Versklavte schließen sich ihr an.
+  regions: [nordamerika]
+  themes: [krieg-militaer]
+  places: [atlanta]
+  persons: [william-t-sherman]
+  polities: [vereinigte-staaten, konfoederierte-staaten]
+- id: kapitulation-appomattox
+  title: Kapitulation von Appomattox
+  date: "1865-04-09"
+  weight: 2
+  kind: ereignis
+  summary: Robert E. Lee ergibt sich mit seiner Armee General Grant; die übrigen konföderierten Truppen kapitulieren in den folgenden Wochen.
+  regions: [nordamerika]
+  themes: [krieg-militaer]
+  places: [appomattox]
+  persons: [robert-e-lee, ulysses-s-grant]
+  polities: [konfoederierte-staaten, vereinigte-staaten]
+- id: ermordung-lincolns
+  title: Ermordung Lincolns
+  date: "1865-04-14"
+  weight: 2
+  kind: ereignis
+  summary: Der Schauspieler und Südstaatenanhänger John Wilkes Booth schießt Lincoln im Ford’s Theatre in Washington nieder; Lincoln stirbt am nächsten Morgen.
+  regions: [nordamerika]
+  themes: [politik, gewalt-genozid]
+  places: [washington]
+  persons: [abraham-lincoln, andrew-johnson]
+  polities: [vereinigte-staaten]
+- id: reconstruction
+  title: Reconstruction
+  aliases: [Wiederaufbau des Südens]
+  start: "1865"
+  end: "1877"
+  weight: 2
+  kind: entwicklung
+  summary: Unter Aufsicht des Bundes werden die Südstaaten wieder eingegliedert; Afroamerikaner erhalten Bürger- und Wahlrecht und werden in Ämter gewählt, doch Terror des Ku-Klux-Klans und der Rückzug der Bundestruppen 1877 beenden das Experiment.
+  regions: [nordamerika]
+  themes: [politik, verfassung-recht, gesellschaft]
+  persons: [andrew-johnson, ulysses-s-grant, frederick-douglass]
+  polities: [vereinigte-staaten]
+- id: verfassungszusaetze-14-15
+  title: 14. und 15. Verfassungszusatz
+  start: "1868-07-09"
+  end: "1870-02-03"
+  weight: 3
+  kind: gesetz
+  summary: Der 14. Zusatzartikel garantiert allen in den USA Geborenen die Staatsbürgerschaft und gleichen Schutz durch das Gesetz, der 15. verbietet, das Wahlrecht wegen der „Rasse“ zu verweigern.
+  regions: [nordamerika]
+  themes: [verfassung-recht]
+  polities: [vereinigte-staaten]
+# --- Meiji-Restauration ---
+- id: ungleiche-vertraege-japan
+  title: Handelsverträge mit den Westmächten
+  date: "1858-07-29"
+  weight: 3
+  kind: vertrag
+  summary: Das Shogunat schließt mit den USA und danach mit weiteren Mächten Verträge, die Häfen öffnen, Zölle festschreiben und Ausländern eigene Gerichtsbarkeit gewähren.
+  regions: [japan]
+  themes: [handelsnetze, imperien]
+  places: [yokohama]
+  polities: [tokugawa-shogunat, vereinigte-staaten]
+- id: boshin-krieg
+  title: Boshin-Krieg
+  start: "1868-01-27"
+  end: "1869-06-27"
+  weight: 2
+  kind: krieg
+  summary: Truppen der Fürstentümer Satsuma und Chōshū, die im Namen des Kaisers kämpfen, besiegen die Anhänger des Shogunats; Edo wird 1868 kampflos übergeben, die letzten Gegner kapitulieren in Hakodate.
+  regions: [japan]
+  themes: [krieg-militaer]
+  places: [edo, heian-kyo, hakodate]
+  persons: [saigo-takamori, tokugawa-yoshinobu]
+  polities: [tokugawa-shogunat, kaiserreich-japan]
+- id: charta-eid-1868
+  title: Charta-Eid
+  date: "1868-04-06"
+  weight: 3
+  kind: ereignis
+  summary: Im Namen des Kaisers verspricht die neue Regierung, Entscheidungen nach öffentlicher Beratung zu treffen, „üble Bräuche der Vergangenheit“ abzuschaffen und Wissen in der ganzen Welt zu suchen.
+  regions: [japan]
+  themes: [politik]
+  places: [heian-kyo]
+  persons: [kaiser-meiji, kido-takayoshi]
+  polities: [kaiserreich-japan]
+- id: abschaffung-der-han
+  title: Abschaffung der Fürstentümer
+  date: "1871-08-29"
+  weight: 3
+  kind: gesetz
+  summary: Die rund 270 Fürstentümer (Han) werden durch Präfekturen unter zentraler Verwaltung ersetzt; die Fürsten erhalten Pensionen.
+  regions: [japan]
+  themes: [politik]
+  persons: [okubo-toshimichi, kido-takayoshi]
+  polities: [kaiserreich-japan]
+- id: iwakura-mission
+  title: Iwakura-Gesandtschaft
+  start: "1871-12-23"
+  end: "1873-09-13"
+  weight: 3
+  kind: ereignis
+  summary: Fast die Hälfte der Regierung reist unter Iwakura Tomomi durch die USA und Europa, um die Verträge neu zu verhandeln – erfolglos – und westliche Staaten, Fabriken und Schulen zu studieren.
+  regions: [japan, nordamerika, europa]
+  themes: [politik, wissenschaft-technik]
+  persons: [iwakura-tomomi, okubo-toshimichi, kido-takayoshi, ito-hirobumi, tsuda-umeko]
+  polities: [kaiserreich-japan]
+- id: meiji-reformen-1872-1873
+  title: Schulpflicht, Wehrpflicht und Bodensteuer
+  start: "1872"
+  end: "1873"
+  weight: 3
+  kind: gesetz
+  summary: Die Regierung führt die allgemeine Schulpflicht, die Wehrpflicht für Männer aller Stände und eine Geldsteuer auf Land ein; der Samuraistand verliert seine Vorrechte.
+  regions: [japan]
+  themes: [gesellschaft, krieg-militaer, wirtschaft-handel]
+  polities: [kaiserreich-japan]
+- id: satsuma-rebellion
+  title: Satsuma-Rebellion
+  start: "1877-01"
+  end: "1877-09-24"
+  weight: 3
+  kind: krieg
+  summary: Unzufriedene Samurai unter Saigō Takamori erheben sich in Satsuma gegen die Regierung; die neue Wehrpflichtarmee schlägt sie nieder, Saigō stirbt.
+  regions: [japan]
+  themes: [krieg-militaer]
+  places: [kagoshima]
+  persons: [saigo-takamori, okubo-toshimichi]
+  polities: [kaiserreich-japan]
+- id: meiji-verfassung
+  title: Meiji-Verfassung
+  date: "1889-02-11"
+  weight: 2
+  kind: gesetz
+  summary: Der Kaiser „gewährt“ eine Verfassung nach preußischem Vorbild mit einem gewählten Unterhaus; das Wahlrecht haben anfangs nur rund ein Prozent der Bevölkerung.
+  regions: [japan]
+  themes: [verfassung-recht, politik]
+  places: [edo]
+  persons: [kaiser-meiji, ito-hirobumi]
+  polities: [kaiserreich-japan]
+- id: chinesisch-japanischer-krieg-1894
+  title: Erster Chinesisch-Japanischer Krieg
+  start: "1894-07-25"
+  end: "1895-04-17"
+  weight: 2
+  kind: krieg
+  summary: Im Streit um Korea besiegt Japan das Qing-Reich; im Frieden von Shimonoseki erhält es Taiwan und eine hohe Kriegsentschädigung, China muss Koreas Unabhängigkeit anerkennen.
+  regions: [ostasien, korea, china]
+  themes: [krieg-militaer, imperien]
+  places: [shimonoseki, taipeh]
+  persons: [ito-hirobumi]
+  polities: [kaiserreich-japan, qing-dynastie]
+- id: russisch-japanischer-krieg
+  title: Russisch-Japanischer Krieg
+  start: "1904-02-08"
+  end: "1905-09-05"
+  weight: 2
+  kind: krieg
+  summary: Japan besiegt Russland in der Mandschurei und vernichtet in der Straße von Tsushima die russische Flotte – der erste Sieg einer asiatischen über eine europäische Großmacht in der Moderne.
+  regions: [ostasien, russland, korea, china]
+  themes: [krieg-militaer, imperien]
+  places: [port-arthur, tsushima-strasse]
+  polities: [kaiserreich-japan, russisches-kaiserreich]
+- id: annexion-koreas
+  title: Annexion Koreas
+  date: "1910-08-29"
+  weight: 2
+  kind: herrschaft
+  summary: Nachdem Korea 1905 Protektorat geworden war, annektiert Japan das Land; die Kolonialherrschaft dauert bis 1945.
+  regions: [korea]
+  themes: [imperien]
+  places: [seoul]
+  persons: [ito-hirobumi, an-jung-geun]
+  polities: [kaiserreich-japan, koreanisches-kaiserreich]
+# --- Berliner Afrika-Konferenz ---
+- id: stanley-durchquerung
+  title: Stanleys Durchquerung Afrikas
+  start: "1874-11"
+  end: "1877-08"
+  weight: 3
+  kind: entdeckung
+  summary: Henry Morton Stanley folgt mit einer großen, bewaffneten Expedition dem Lauf des Kongo bis zur Mündung; seine Berichte wecken das Interesse Leopolds II.
+  regions: [zentralafrika, ostafrika]
+  themes: [imperien]
+  persons: [henry-morton-stanley]
+- id: deutsche-schutzgebiete-1884
+  title: Deutsche „Schutzgebiete“ in Afrika
+  date: "1884"
+  dateNote: Südwestafrika im April, Togo im Juli, Kamerun im Juli 1884; Ostafrika folgte im Februar 1885.
+  weight: 3
+  kind: herrschaft
+  summary: Das Deutsche Reich stellt Erwerbungen von Kaufleuten und Abenteurern in Südwestafrika, Togo und Kamerun unter seinen „Schutz“ und wird Kolonialmacht.
+  regions: [suedliches-afrika, westafrika, zentralafrika]
+  themes: [imperien]
+  places: [luederitz]
+  persons: [otto-von-bismarck, adolf-luederitz, gustav-nachtigal]
+  polities: [deutsches-kaiserreich, deutsch-suedwestafrika]
+- id: berliner-afrika-konferenz
+  title: Berliner Afrika-Konferenz
+  aliases: [Kongokonferenz, Berliner Westafrika-Konferenz]
+  start: "1884-11-15"
+  end: "1885-02-26"
+  weight: 1
+  kind: vertrag
+  summary: Auf Einladung Bismarcks verhandeln Vertreter von 14 Staaten in Berlin über Handelsfreiheit im Kongobecken und Regeln für künftige Besitzergreifungen in Afrika; kein Afrikaner ist beteiligt. Am Rande wird Leopolds Kongo-Staat anerkannt.
+  regions: [deutschland, zentralafrika, afrika]
+  themes: [imperien, politik]
+  places: [berlin, reichskanzlerpalais]
+  persons: [otto-von-bismarck, leopold-ii, henry-morton-stanley]
+  polities: [deutsches-kaiserreich, kongo-freistaat, vereinigtes-koenigreich]
+- id: kongo-greuel
+  title: „Kongogräuel“
+  start: "1890"
+  end: "1908"
+  weight: 2
+  kind: ereignis
+  summary: Um Kautschuk zu gewinnen, zwingen Beamte und Söldner im Kongo-Freistaat die Bevölkerung mit Geiselnahmen, Auspeitschungen, Verstümmelungen und Morden zur Arbeit; Millionen Menschen sterben durch Gewalt, Hunger und Krankheiten.
+  regions: [zentralafrika]
+  themes: [gewalt-genozid, sklaverei-unfreiheit]
+  persons: [leopold-ii, roger-casement, edmund-dene-morel, george-washington-williams]
+  polities: [kongo-freistaat]
+- id: schlacht-von-adua
+  title: Schlacht von Adua
+  date: "1896-03-01"
+  weight: 2
+  kind: schlacht
+  summary: Das äthiopische Heer unter Menelik II. schlägt die italienische Invasionsarmee vernichtend; Italien muss die Unabhängigkeit Äthiopiens anerkennen.
+  regions: [nordostafrika]
+  themes: [krieg-militaer, imperien]
+  places: [adua]
+  persons: [menelik-ii, taytu-betul]
+  polities: [kaiserreich-aethiopien]
+- id: schlacht-von-omdurman
+  title: Schlacht von Omdurman
+  date: "1898-09-02"
+  weight: 3
+  kind: schlacht
+  summary: Eine britisch-ägyptische Armee mit Maschinengewehren tötet rund 10.000 Kämpfer des Mahdi-Staats bei geringen eigenen Verlusten.
+  regions: [nordostafrika]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [omdurman]
+  polities: [mahdi-staat, vereinigtes-koenigreich]
+- id: faschoda-krise
+  title: Faschoda-Krise
+  date: "1898-09"
+  weight: 3
+  kind: ereignis
+  summary: Britische und französische Truppen stehen sich am Oberen Nil gegenüber; Frankreich zieht sich zurück, und beide Mächte grenzen 1899 ihre Interessensphären ab.
+  regions: [nordostafrika]
+  themes: [imperien]
+  places: [faschoda]
+  polities: [vereinigtes-koenigreich]
+- id: yaa-asantewaa-krieg
+  title: Krieg des Goldenen Stuhls
+  start: "1900-03"
+  end: "1900-09"
+  weight: 3
+  kind: krieg
+  summary: Nachdem der britische Gouverneur die Übergabe des Goldenen Stuhls, des heiligsten Symbols der Asante, verlangt hat, belagern Asante-Krieger unter Yaa Asantewaa die britische Festung in Kumasi; die Briten schlagen den Aufstand nieder, den Stuhl erhalten sie nicht.
+  regions: [westafrika]
+  themes: [krieg-militaer]
+  places: [kumasi]
+  persons: [yaa-asantewaa]
+  polities: [asante-reich, vereinigtes-koenigreich]
+- id: maji-maji-krieg
+  title: Maji-Maji-Krieg
+  start: "1905-07"
+  end: "1907"
+  weight: 2
+  kind: krieg
+  summary: Im Süden Deutsch-Ostafrikas erheben sich zahlreiche Gruppen gegen Zwangsanbau von Baumwolle und Kolonialherrschaft; die deutsche Kriegführung mit verbrannter Erde löst eine Hungersnot aus, nach Schätzungen sterben bis zu 300.000 Menschen.
+  regions: [ostafrika]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [daressalam]
+  polities: [deutsch-ostafrika, deutsches-kaiserreich]
+- id: uebergabe-kongo-belgien
+  title: Belgien übernimmt den Kongo
+  date: "1908-11-15"
+  weight: 3
+  kind: herrschaft
+  summary: Nach jahrelanger internationaler Kampagne gegen die Gräuel geht der Kongo-Freistaat von Leopold II. an den belgischen Staat über.
+  regions: [zentralafrika]
+  themes: [imperien]
+  places: [boma]
+  persons: [leopold-ii, edmund-dene-morel]
+  polities: [kongo-freistaat, belgisch-kongo]
