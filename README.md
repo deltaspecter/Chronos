@@ -8,16 +8,16 @@ Die App läuft im Browser auf Smartphone, Tablet und Desktop und lässt sich auf
 
 | Bereich | Stand |
 |---|---|
-| **Artikel** | 36 ausführliche Artikel (rund 61.000 Wörter) von der Urgeschichte bis 1991 – mit Afrika, West-, Süd-, Südost- und Ostasien, Europa und den Amerikas –, darunter eine fünfteilige Reihe zur Römischen Republik |
-| **Wissensnetz** | rund 270 Personen, 280 Orte, 370 Ereignisse, 80 Staaten und Reiche, Kulturen, Begriffe, Routen |
-| **Quellen** | über 430 Titel, getrennt nach Primärquellen, Editionen, Forschungsliteratur und Institutionen; über 1.000 Einzelbelege im Text |
+| **Artikel** | 40 ausführliche Artikel (rund 66.000 Wörter) von der Urgeschichte bis 1991 – mit Afrika, West-, Süd-, Südost- und Ostasien, Europa und den Amerikas –, darunter eine fünfteilige Reihe zur Römischen Republik |
+| **Wissensnetz** | rund 300 Personen, 300 Orte, 410 Ereignisse, 95 Staaten und Reiche, Kulturen, Begriffe, Routen |
+| **Quellen** | über 470 Titel, getrennt nach Primärquellen, Editionen, Forschungsliteratur und Institutionen; über 1.100 Einzelbelege im Text |
 | **Epochen** | 47 regional differenzierte Epochen und Teilbereiche mit Einführungstexten und offen ausgewiesenem Redaktionsplan („Im Aufbau“) |
 | **Zeitleiste** | Spuren nach Weltregionen, umschaltbare Zeitskala, Filter nach Region und Thema, Kennzeichnung unsicherer Datierungen, Listenansicht für Smartphones |
 | **Atlas** | Weltkarte (Natural Earth, offline), Orte nach Kategorien, Routen, fünf schematische Herrschaftsgebiete, Zeitfilter |
 | **Suche** | Volltext, Autovervollständigung, Schreibvarianten, Tippfehlertoleranz, Synonyme, Jahres- und Jahrhundertsuche, Filter |
 | **Persönlich** | Lesezeichen, Notizen (auch zu Abschnitten), Verlauf, Lesefortschritt, „Weiterlesen“, Export und Import – alles nur auf dem Gerät |
 | **Offline** | App, Kerndaten, Suche, Zeitleiste und Atlas offline nutzbar; Artikel gezielt speicherbar; kontrollierte Updates |
-| **Abbildungen** | 43 Bilder aus Wikimedia Commons mit automatisch geprüften Lizenzen und Bildnachweisen |
+| **Abbildungen** | 47 Bilder aus Wikimedia Commons mit automatisch geprüften Lizenzen und Bildnachweisen |
 
 Alle Artikel tragen den Status **„Erstfassung“**: Sie wurden mit Unterstützung eines KI-Sprachmodells auf Grundlage der angegebenen Literatur erarbeitet und sind noch nicht fachwissenschaftlich begutachtet (siehe [docs/INHALTE.md](docs/INHALTE.md#qualität-und-prüfstatus)).
 

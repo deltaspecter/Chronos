@@ -1,0 +1,267 @@
+# Quellen und Literatur: Mogulreich, Qing-Dynastie, Tokugawa-Japan, Unabhängigkeit Lateinamerikas
+
+# --- Mogulreich ---
+- id: richards-1993
+  kind: sekundaer
+  authors: ["Richards, John F."]
+  title: The Mughal Empire
+  series: The New Cambridge History of India I.5
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1993
+- id: dale-2010
+  kind: sekundaer
+  authors: ["Dale, Stephen F."]
+  title: The Muslim Empires of the Ottomans, Safavids, and Mughals
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2010
+- id: truschke-2017
+  kind: sekundaer
+  authors: ["Truschke, Audrey"]
+  title: Aurangzeb
+  subtitle: The Life and Legacy of India's Most Controversial King
+  place: Stanford
+  publisher: Stanford University Press
+  year: 2017
+- id: alam-subrahmanyam-2011
+  kind: sekundaer
+  authors: ["Alam, Muzaffar", "Subrahmanyam, Sanjay"]
+  title: Writing the Mughal World
+  subtitle: Studies on Culture and Politics
+  place: New York
+  publisher: Columbia University Press
+  year: 2011
+- id: schimmel-2000
+  kind: sekundaer
+  authors: ["Schimmel, Annemarie"]
+  title: Im Reich der Großmoguln
+  subtitle: Geschichte, Kunst, Kultur
+  place: München
+  publisher: C. H. Beck
+  year: 2000
+- id: habib-1963
+  kind: sekundaer
+  authors: ["Habib, Irfan"]
+  title: The Agrarian System of Mughal India, 1556–1707
+  place: Bombay
+  publisher: Asia Publishing House
+  year: 1963
+- id: koch-2006
+  kind: sekundaer
+  authors: ["Koch, Ebba"]
+  title: The Complete Taj Mahal and the Riverfront Gardens of Agra
+  place: London
+  publisher: Thames & Hudson
+  year: 2006
+- id: q-baburnama
+  kind: primaer
+  authors: ["Babur"]
+  title: Baburnama (Erinnerungen Baburs)
+  written: um 1520–1530
+  note: Autobiografie des Reichsgründers in Tschagatai-Türkisch, mit Beobachtungen zu Politik, Natur und Gesellschaft – eine der frühesten Autobiografien der islamischen Welt.
+- id: q-akbarnama
+  kind: primaer
+  authors: ["Abu'l-Fazl"]
+  title: Akbarnama mit Ain-i Akbari
+  written: um 1590–1602
+  note: Offizielle Geschichte der Herrschaft Akbars in persischer Sprache aus der Feder seines Vertrauten; der Teil „Ain-i Akbari“ beschreibt Verwaltung, Steuern und Gesellschaft des Reiches. Eine Lobschrift, aber auch eine reiche statistische Quelle.
+- id: q-bernier
+  kind: primaer
+  authors: ["Bernier, François"]
+  title: Histoire de la dernière révolution des États du Grand Mogol
+  written: Paris 1670–1671
+  note: Bericht eines französischen Arztes, der etwa zwölf Jahre im Mogulreich lebte und den Thronkampf nach 1657 miterlebte; sein Bild einer Herrschaft ohne Privateigentum an Land prägte europäische Vorstellungen von „orientalischer Despotie“.
+
+# --- Qing ---
+- id: rowe-2009
+  kind: sekundaer
+  authors: ["Rowe, William T."]
+  title: China's Last Empire
+  subtitle: The Great Qing
+  place: Cambridge, Mass.
+  publisher: Belknap Press of Harvard University Press
+  year: 2009
+- id: spence-1990
+  kind: sekundaer
+  authors: ["Spence, Jonathan D."]
+  title: The Search for Modern China
+  place: New York
+  publisher: W. W. Norton
+  year: 1990
+- id: crossley-1997
+  kind: sekundaer
+  authors: ["Crossley, Pamela Kyle"]
+  title: The Manchus
+  place: Oxford
+  publisher: Blackwell
+  year: 1997
+- id: elliott-2001
+  kind: sekundaer
+  authors: ["Elliott, Mark C."]
+  title: The Manchu Way
+  subtitle: The Eight Banners and Ethnic Identity in Late Imperial China
+  place: Stanford
+  publisher: Stanford University Press
+  year: 2001
+- id: perdue-2005
+  kind: sekundaer
+  authors: ["Perdue, Peter C."]
+  title: China Marches West
+  subtitle: The Qing Conquest of Central Eurasia
+  place: Cambridge, Mass.
+  publisher: Belknap Press of Harvard University Press
+  year: 2005
+- id: platt-2012
+  kind: sekundaer
+  authors: ["Platt, Stephen R."]
+  title: Autumn in the Heavenly Kingdom
+  subtitle: China, the West, and the Epic Story of the Taiping Civil War
+  place: New York
+  publisher: Alfred A. Knopf
+  year: 2012
+- id: osterhammel-1989
+  kind: sekundaer
+  authors: ["Osterhammel, Jürgen"]
+  title: China und die Weltgesellschaft
+  subtitle: Vom 18. Jahrhundert bis in unsere Zeit
+  place: München
+  publisher: C. H. Beck
+  year: 1989
+- id: q-qianlong-edikt
+  kind: primaer
+  authors: ["Kaiser Qianlong"]
+  title: Edikt an König Georg III. von Großbritannien
+  written: "1793"
+  note: Antwort auf die britische Gesandtschaft unter Lord Macartney, in der der Kaiser britische Forderungen nach Handelserleichterungen und einer ständigen Gesandtschaft zurückweist; oft als Zeichen chinesischer Abschottung zitiert, was die Forschung heute relativiert.
+- id: q-lin-zexu-brief
+  kind: primaer
+  authors: ["Lin Zexu"]
+  title: Brief an Königin Victoria
+  written: "1839"
+  note: Schreiben des kaiserlichen Kommissars in Kanton, der Großbritannien aufforderte, den Opiumhandel zu unterbinden, da es den Opiumkonsum im eigenen Land verbiete.
+- id: q-vertrag-nanking
+  kind: primaer
+  title: Vertrag von Nanking
+  written: 29. August 1842
+  note: Friedensvertrag nach dem Ersten Opiumkrieg – Abtretung Hongkongs, Öffnung von fünf Häfen für den Handel, Entschädigungszahlungen; der erste der „ungleichen Verträge“.
+
+# --- Tokugawa-Japan ---
+- id: jansen-2000
+  kind: sekundaer
+  authors: ["Jansen, Marius B."]
+  title: The Making of Modern Japan
+  place: Cambridge, Mass.
+  publisher: Belknap Press of Harvard University Press
+  year: 2000
+- id: totman-1993
+  kind: sekundaer
+  authors: ["Totman, Conrad"]
+  title: Early Modern Japan
+  place: Berkeley
+  publisher: University of California Press
+  year: 1993
+- id: berry-1982
+  kind: sekundaer
+  authors: ["Berry, Mary Elizabeth"]
+  title: Hideyoshi
+  place: Cambridge, Mass.
+  publisher: Harvard University Press
+  year: 1982
+- id: toby-1984
+  kind: sekundaer
+  authors: ["Toby, Ronald P."]
+  title: State and Diplomacy in Early Modern Japan
+  subtitle: Asia in the Development of the Tokugawa Bakufu
+  place: Princeton
+  publisher: Princeton University Press
+  year: 1984
+- id: vaporis-2008
+  kind: sekundaer
+  authors: ["Vaporis, Constantine Nomikos"]
+  title: Tour of Duty
+  subtitle: Samurai, Military Service in Edo, and the Culture of Early Modern Japan
+  place: Honolulu
+  publisher: University of Hawai'i Press
+  year: 2008
+- id: q-buke-shohatto
+  kind: primaer
+  title: Buke shohatto (Gesetze für die Kriegerhäuser)
+  written: 1615, mehrfach überarbeitet
+  note: Regeln des Shogunats für die Daimyō über Burgenbau, Heiraten, Lebensführung und – in der Fassung von 1635 – die Pflicht zum Wechselaufenthalt in Edo.
+- id: q-sakoku-edikte
+  kind: primaer
+  title: Edikte zur Beschränkung des Außenverkehrs
+  written: 1633–1639
+  note: Erlasse des Shogunats, die Japanern Auslandsreisen bei Todesstrafe verboten, das Christentum unterdrückten und die Portugiesen 1639 auswiesen.
+- id: q-kaempfer
+  kind: primaer
+  authors: ["Kaempfer, Engelbert"]
+  title: Geschichte und Beschreibung von Japan
+  written: Aufenthalt 1690–1692; englisch London 1727, deutsch Lemgo 1777–1779
+  note: Bericht des westfälischen Arztes der Niederländischen Ostindien-Kompanie in Dejima, der zweimal an den Hof des Shōgun reiste; prägte das europäische Japanbild für über hundert Jahre.
+
+# --- Unabhängigkeit Lateinamerikas ---
+- id: lynch-1986
+  kind: sekundaer
+  authors: ["Lynch, John"]
+  title: The Spanish American Revolutions 1808–1826
+  edition: 2. Auflage
+  place: New York
+  publisher: W. W. Norton
+  year: 1986
+- id: lynch-2006
+  kind: sekundaer
+  authors: ["Lynch, John"]
+  title: Simón Bolívar
+  subtitle: A Life
+  place: New Haven
+  publisher: Yale University Press
+  year: 2006
+- id: rodriguez-1998
+  kind: sekundaer
+  authors: ["Rodríguez O., Jaime E."]
+  title: The Independence of Spanish America
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1998
+- id: adelman-2006
+  kind: sekundaer
+  authors: ["Adelman, Jeremy"]
+  title: Sovereignty and Revolution in the Iberian Atlantic
+  place: Princeton
+  publisher: Princeton University Press
+  year: 2006
+- id: rinke-2010
+  kind: sekundaer
+  authors: ["Rinke, Stefan"]
+  title: Revolutionen in Lateinamerika
+  subtitle: Wege in die Unabhängigkeit 1760–1830
+  place: München
+  publisher: C. H. Beck
+  year: 2010
+- id: van-young-2001
+  kind: sekundaer
+  authors: ["Van Young, Eric"]
+  title: The Other Rebellion
+  subtitle: Popular Violence, Ideology, and the Mexican Struggle for Independence, 1810–1821
+  place: Stanford
+  publisher: Stanford University Press
+  year: 2001
+- id: q-carta-de-jamaica
+  kind: primaer
+  authors: ["Bolívar, Simón"]
+  title: Carta de Jamaica (Brief aus Jamaika)
+  written: 6. September 1815
+  note: Im Exil auf Jamaika verfasster Brief, in dem Bolívar die Lage Spanisch-Amerikas analysiert und seine Vorstellungen von unabhängigen Republiken entwirft.
+- id: q-verfassung-cadiz
+  kind: primaer
+  title: Verfassung von Cádiz (Constitución Política de la Monarquía Española)
+  written: 19. März 1812
+  note: Liberale Verfassung, die von Abgeordneten aus Spanien und Amerika beschlossen wurde und die Bewohner der Kolonien – mit Einschränkungen für Menschen afrikanischer Herkunft – als gleichberechtigte Spanier anerkannte.
+- id: q-monroe-doktrin
+  kind: primaer
+  authors: ["Monroe, James"]
+  title: Botschaft an den Kongress (Monroe-Doktrin)
+  written: 2. Dezember 1823
+  note: Der US-Präsident erklärt den amerikanischen Kontinent für weitere europäische Kolonisierung als geschlossen und warnt die europäischen Mächte vor Eingriffen.

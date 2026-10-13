@@ -1,0 +1,134 @@
+- id: mogulreich
+  name: Mogulreich
+  aliases: [Moguln, Mughal-Reich, Großmogul]
+  start: "1526"
+  end: "1857"
+  spanNote: 1540–1555 von der Herrschaft Sher Shah Suris unterbrochen; ab dem frühen 18. Jahrhundert faktisch zerfallen, der letzte Mogul wurde 1858 von den Briten abgesetzt.
+  capital: agra
+  summary: Von Babur begründetes Reich, das auf seinem Höhepunkt um 1700 fast den ganzen indischen Subkontinent beherrschte und zu den bevölkerungsreichsten und wohlhabendsten Staaten der Welt gehörte.
+  regions: [suedasien]
+  themes: [imperien]
+  successors: [britisch-indien]
+  weight: 1
+- id: marathenreich
+  name: Marathenreich
+  aliases: [Marathen, Maratha-Konföderation]
+  start: "1674"
+  end: "1818"
+  capital: raigad
+  summary: Von Shivaji begründeter Staat im westlichen Indien, der im 18. Jahrhundert zur stärksten Macht Indiens aufstieg, bis ihn die britische Ostindien-Kompanie 1818 besiegte.
+  regions: [suedasien]
+  themes: [imperien]
+  weight: 2
+- id: ostindien-kompanie
+  name: Britische Ostindien-Kompanie
+  aliases: [East India Company, EIC, Honourable East India Company]
+  start: "1600"
+  end: "1874"
+  summary: Englische, später britische Handelsgesellschaft, die ab 1757 große Teile Indiens eroberte und bis 1858 regierte.
+  regions: [suedasien, britische-inseln]
+  themes: [handelsnetze, imperien]
+  weight: 2
+- id: ming-dynastie
+  name: Ming-Dynastie
+  aliases: [Ming]
+  start: "1368"
+  end: "1644"
+  summary: Chinesische Dynastie, die nach der Vertreibung der Mongolen herrschte und 1644 nach Aufständen und dem Einfall der Mandschu unterging.
+  regions: [china]
+  themes: [imperien]
+  predecessors: [yuan-dynastie]
+  successors: [qing-dynastie]
+  weight: 1
+- id: qing-dynastie
+  name: Qing-Dynastie
+  aliases: [Qing, Mandschu-Dynastie, Großes Qing]
+  start: "1644"
+  end: "1912"
+  spanNote: 1636 nahm das Mandschu-Reich den Namen Qing an; 1644 eroberte es Peking. Der letzte Kaiser dankte am 12. Februar 1912 ab.
+  capital: dadu
+  summary: Letzte Kaiserdynastie Chinas, von Mandschu begründet, die das Reich im 18. Jahrhundert auf seine größte Ausdehnung brachte und im 19. Jahrhundert unter inneren Aufständen und imperialistischem Druck zerfiel.
+  regions: [china, zentralasien]
+  themes: [imperien]
+  predecessors: [ming-dynastie]
+  successors: [republik-china]
+  weight: 1
+- id: dsungaren-khanat
+  name: Dsungaren-Khanat
+  aliases: [Dsungaren, Dzungar-Khanat, Oiraten]
+  start: "~1634"
+  end: "1758"
+  summary: Letztes großes Reich der Steppennomaden in Zentralasien, das von den Qing in den 1750er Jahren zerstört wurde; dabei kam ein großer Teil der Dsungaren ums Leben.
+  regions: [zentralasien]
+  themes: [imperien]
+  weight: 3
+- id: taiping-reich
+  name: Himmlisches Reich des Großen Friedens (Taiping)
+  aliases: [Taiping, Taiping-Reich]
+  start: "1851"
+  end: "1864"
+  capital: nanjing
+  summary: Von Hong Xiuquan begründeter Gegenstaat mit Hauptstadt Nanjing, der große Teile Südchinas beherrschte, bis Truppen der Qing ihn 1864 vernichteten.
+  regions: [china]
+  themes: [revolutionen, religion]
+  weight: 2
+- id: tokugawa-shogunat
+  name: Tokugawa-Shogunat
+  aliases: [Edo-Zeit, Tokugawa-Bakufu, Edo-Bakufu]
+  start: "1603"
+  end: "1868"
+  capital: edo
+  summary: Kriegerregierung der Tokugawa-Shōgune mit Sitz in Edo, die Japan über 250 Jahre einen inneren Frieden brachte und die Außenbeziehungen streng kontrollierte.
+  regions: [japan]
+  themes: [politik]
+  successors: [kaiserreich-japan]
+  weight: 1
+- id: spanisches-kolonialreich
+  name: Spanisches Kolonialreich
+  aliases: [Spanisches Weltreich, Spanische Monarchie]
+  start: "1492"
+  end: "1898"
+  spanNote: Die meisten amerikanischen Gebiete wurden zwischen 1810 und 1825 unabhängig; Kuba, Puerto Rico und die Philippinen gingen 1898 verloren.
+  summary: Die Herrschaft der spanischen Krone über weite Teile Amerikas, die Philippinen und andere Gebiete.
+  regions: [amerika, iberische-halbinsel]
+  themes: [imperien]
+  weight: 1
+- id: vizekoenigreich-rio-de-la-plata
+  name: Vizekönigreich Río de la Plata
+  start: "1776"
+  end: "1814"
+  capital: buenos-aires
+  summary: Spanisches Vizekönigreich im Süden Südamerikas mit Hauptstadt Buenos Aires, aus dem Argentinien, Uruguay, Paraguay und Bolivien hervorgingen.
+  regions: [suedamerika]
+  themes: [imperien]
+  weight: 3
+- id: gross-kolumbien
+  name: Groß-Kolumbien
+  aliases: [Gran Colombia, República de Colombia]
+  start: "1819"
+  end: "1831"
+  capital: bogota
+  summary: Von Bolívar gegründete Republik, die die heutigen Staaten Kolumbien, Venezuela, Ecuador und Panama umfasste und 1830/31 zerfiel.
+  regions: [suedamerika, andenraum]
+  themes: [politik]
+  weight: 2
+- id: mexiko
+  name: Mexiko
+  aliases: [Vereinigte Mexikanische Staaten, Mexikanisches Kaiserreich]
+  start: "1821"
+  capital: mexiko-stadt
+  spanNote: 1822/23 Kaiserreich unter Iturbide, seit 1824 Republik.
+  summary: 1821 aus dem Vizekönigreich Neuspanien hervorgegangener Staat.
+  regions: [mesoamerika, nordamerika]
+  themes: [politik]
+  predecessors: [neuspanien]
+  weight: 2
+- id: kaiserreich-brasilien
+  name: Kaiserreich Brasilien
+  start: "1822"
+  end: "1889"
+  capital: rio-de-janeiro
+  summary: Nach der Unabhängigkeit von Portugal 1822 entstandene Monarchie, die bis zur Ausrufung der Republik 1889 bestand.
+  regions: [suedamerika]
+  themes: [politik]
+  weight: 2

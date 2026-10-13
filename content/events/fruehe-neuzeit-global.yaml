@@ -1,0 +1,468 @@
+# --- Mogulreich ---
+- id: erste-schlacht-von-panipat
+  title: Erste Schlacht von Panipat
+  date: "1526-04-21"
+  weight: 2
+  kind: schlacht
+  summary: Babur besiegt mit Feldartillerie und berittenen Bogenschützen das weit größere Heer Sultan Ibrahim Lodis von Delhi; Beginn des Mogulreiches.
+  regions: [suedasien]
+  themes: [krieg-militaer, imperien]
+  places: [panipat]
+  persons: [babur]
+  polities: [mogulreich]
+- id: akbars-herrschaftsantritt
+  title: Akbar wird Herrscher
+  date: "1556"
+  weight: 2
+  kind: herrschaft
+  summary: Nach dem Tod Humayuns besteigt der 13-jährige Akbar den Thron; der Sieg in der zweiten Schlacht von Panipat sichert die Herrschaft der Moguln.
+  regions: [suedasien]
+  themes: [politik]
+  places: [panipat]
+  persons: [akbar, humayun]
+  polities: [mogulreich]
+- id: abschaffung-jizya-1564
+  title: Akbar schafft die Kopfsteuer für Nichtmuslime ab
+  date: "1564"
+  weight: 3
+  kind: gesetz
+  summary: Akbar hebt die Dschizya auf, die Nichtmuslime nach islamischem Recht zu zahlen hatten – ein Zeichen seiner Politik der Einbindung hinduistischer Eliten.
+  regions: [suedasien]
+  themes: [religion, politik]
+  persons: [akbar]
+  polities: [mogulreich]
+- id: ibadat-khana
+  title: Religionsgespräche in Fatehpur Sikri
+  start: "1575"
+  end: "~1582"
+  weight: 3
+  kind: ereignis
+  summary: Akbar lässt im „Haus der Anbetung“ Gelehrte des Islam, des Hinduismus, des Jainismus, des Zoroastrismus und jesuitische Missionare miteinander diskutieren.
+  regions: [suedasien]
+  themes: [religion]
+  places: [fatehpur-sikri]
+  persons: [akbar, abul-fazl]
+  polities: [mogulreich]
+- id: bau-des-taj-mahal
+  title: Bau des Taj Mahal
+  start: "1632"
+  end: "~1648"
+  weight: 2
+  kind: entwicklung
+  summary: Shah Jahan lässt für seine verstorbene Frau Mumtaz Mahal in Agra ein Grabmal aus weißem Marmor errichten; Nebengebäude und Gärten werden bis in die 1650er Jahre vollendet.
+  regions: [suedasien]
+  themes: [kultur-kunst, religion]
+  places: [taj-mahal, agra]
+  persons: [shah-jahan, mumtaz-mahal]
+  polities: [mogulreich]
+- id: thronkampf-1658
+  title: Thronkampf der Söhne Shah Jahans
+  start: "1657"
+  end: "1659"
+  weight: 3
+  kind: krieg
+  summary: Nach einer Erkrankung Shah Jahans kämpfen seine Söhne um die Nachfolge; Aurangzeb siegt, setzt seinen Vater gefangen und lässt seinen Bruder Dara Shikoh hinrichten.
+  regions: [suedasien]
+  themes: [politik, krieg-militaer]
+  places: [agra, delhi]
+  persons: [aurangzeb, dara-shikoh, shah-jahan]
+  polities: [mogulreich]
+- id: kroenung-shivajis
+  title: Krönung Shivajis
+  date: "1674"
+  weight: 3
+  kind: herrschaft
+  summary: Der Marathenführer Shivaji lässt sich in Raigad zum König krönen und fordert die Moguln im Dekkan heraus.
+  regions: [suedasien]
+  themes: [politik]
+  places: [raigad]
+  persons: [shivaji]
+  polities: [marathenreich]
+- id: tod-aurangzebs
+  title: Tod Aurangzebs
+  date: "1707"
+  weight: 3
+  kind: ereignis
+  summary: Mit dem Tod des 88-jährigen Herrschers beginnt der rasche Zerfall der Zentralgewalt des Mogulreiches.
+  regions: [suedasien]
+  themes: [politik]
+  persons: [aurangzeb]
+  polities: [mogulreich]
+- id: pluenderung-delhis-1739
+  title: Nader Schah plündert Delhi
+  date: "1739"
+  weight: 3
+  kind: krieg
+  summary: Der Herrscher Irans besiegt das Mogulheer, plündert Delhi und führt unermessliche Schätze ab, darunter den Pfauenthron.
+  regions: [suedasien, iran]
+  themes: [krieg-militaer]
+  places: [delhi]
+  polities: [mogulreich]
+- id: schlacht-bei-plassey
+  title: Schlacht bei Plassey
+  date: "1757-06-23"
+  weight: 2
+  kind: schlacht
+  summary: Truppen der britischen Ostindien-Kompanie unter Robert Clive besiegen den Nawab von Bengalen, auch durch Verrat in dessen Lager; Beginn der britischen Territorialherrschaft in Indien.
+  regions: [suedasien]
+  themes: [krieg-militaer, imperien]
+  places: [plassey]
+  polities: [ostindien-kompanie, mogulreich]
+- id: indischer-aufstand-1857
+  title: Indischer Aufstand von 1857
+  start: "1857-05"
+  end: "1858"
+  weight: 2
+  kind: krieg
+  summary: Indische Soldaten der Ostindien-Kompanie erheben sich, viele Teile Nordindiens schließen sich an; die Briten schlagen den Aufstand brutal nieder, setzen den letzten Mogul ab und übernehmen 1858 die direkte Herrschaft.
+  regions: [suedasien]
+  themes: [krieg-militaer, imperien]
+  places: [delhi]
+  polities: [mogulreich, ostindien-kompanie, britisch-indien]
+# --- Qing ---
+- id: eroberung-pekings-1644
+  title: Die Mandschu erobern Peking
+  date: "1644"
+  weight: 1
+  kind: krieg
+  summary: Nach dem Sturz der Ming durch Aufständische ziehen Mandschu-Truppen mit Unterstützung eines Ming-Generals in Peking ein und begründen die Herrschaft der Qing über China.
+  regions: [china]
+  themes: [krieg-militaer, imperien]
+  places: [dadu]
+  polities: [ming-dynastie, qing-dynastie]
+- id: zopferlass-1645
+  title: Zopferlass
+  date: "1645"
+  weight: 3
+  kind: gesetz
+  summary: Alle Männer müssen den Kopf nach Mandschu-Art vorn rasieren und einen Zopf tragen – Verweigerung wird mit dem Tod bestraft.
+  regions: [china]
+  themes: [politik, gesellschaft]
+  polities: [qing-dynastie]
+- id: aufstand-der-drei-feudalherren
+  title: Aufstand der Drei Feudalherren
+  start: "1673"
+  end: "1681"
+  weight: 3
+  kind: krieg
+  summary: Drei mächtige Generäle im Süden erheben sich gegen den jungen Kaiser Kangxi, der den Aufstand nach acht Jahren niederschlägt.
+  regions: [china]
+  themes: [krieg-militaer]
+  persons: [kangxi]
+  polities: [qing-dynastie]
+- id: eroberung-dsungariens
+  title: Vernichtung des Dsungaren-Khanats
+  start: "1755"
+  end: "1759"
+  weight: 2
+  kind: krieg
+  summary: Qing-Truppen unter Kaiser Qianlong erobern das Reich der Dsungaren; ein großer Teil der Bevölkerung wird getötet oder stirbt an Pocken. Das Gebiet wird als „Xinjiang“ („Neue Grenze“) eingegliedert.
+  regions: [zentralasien]
+  themes: [krieg-militaer, gewalt-genozid, imperien]
+  persons: [qianlong]
+  polities: [qing-dynastie, dsungaren-khanat]
+- id: kanton-system
+  title: Beginn des Kanton-Systems
+  date: "1757"
+  weight: 3
+  kind: gesetz
+  summary: Der Handel mit europäischen Kaufleuten wird auf den Hafen Kanton beschränkt und über lizenzierte chinesische Händler abgewickelt.
+  regions: [china]
+  themes: [handelsnetze]
+  places: [guangzhou]
+  polities: [qing-dynastie]
+- id: macartney-gesandtschaft
+  title: Gesandtschaft Macartneys
+  date: "1793"
+  weight: 3
+  kind: ereignis
+  summary: Eine britische Gesandtschaft erreicht den Kaiser in Chengde; ihre Forderungen nach freierem Handel und einer ständigen Botschaft werden zurückgewiesen.
+  regions: [china]
+  themes: [politik, handelsnetze]
+  places: [chengde]
+  persons: [george-macartney, qianlong]
+  polities: [qing-dynastie, vereinigtes-koenigreich]
+- id: erster-opiumkrieg
+  title: Erster Opiumkrieg
+  start: "1839"
+  end: "1842"
+  weight: 1
+  kind: krieg
+  summary: Nachdem Lin Zexu in Kanton beschlagnahmtes Opium vernichten lässt, führt Großbritannien Krieg gegen China; der Vertrag von Nanking 1842 öffnet Häfen und tritt Hongkong ab.
+  regions: [china]
+  themes: [krieg-militaer, imperien, handelsnetze]
+  places: [guangzhou, hongkong, nanjing]
+  persons: [lin-zexu]
+  polities: [qing-dynastie, vereinigtes-koenigreich]
+- id: taiping-krieg
+  title: Taiping-Krieg
+  start: "1850"
+  end: "1864"
+  weight: 1
+  kind: krieg
+  summary: Die religiös-revolutionäre Bewegung Hong Xiuquans erobert große Teile Südchinas und Nanjing; im Krieg mit den Qing sterben nach Schätzungen 20 bis 30 Millionen Menschen.
+  regions: [china]
+  themes: [krieg-militaer, revolutionen, religion]
+  places: [nanjing]
+  persons: [hong-xiuquan]
+  polities: [qing-dynastie, taiping-reich]
+- id: zerstoerung-yuanmingyuan
+  title: Zerstörung des Alten Sommerpalastes
+  date: "1860-10"
+  weight: 3
+  kind: krieg
+  summary: Am Ende des Zweiten Opiumkriegs plündern britische und französische Truppen die kaiserliche Palastanlage bei Peking und brennen sie nieder.
+  regions: [china]
+  themes: [krieg-militaer, kultur-kunst]
+  places: [yuanmingyuan]
+  polities: [qing-dynastie, vereinigtes-koenigreich]
+- id: boxeraufstand
+  title: Boxeraufstand
+  start: "1899"
+  end: "1901"
+  weight: 2
+  kind: krieg
+  summary: Eine fremdenfeindliche Bewegung greift Missionare und chinesische Christen an und belagert die Gesandtschaften in Peking; ein internationales Heer, darunter deutsche Truppen, schlägt den Aufstand mit großer Brutalität nieder.
+  regions: [china]
+  themes: [krieg-militaer, imperien]
+  places: [dadu]
+  persons: [cixi, wilhelm-ii]
+  polities: [qing-dynastie, deutsches-kaiserreich]
+- id: xinhai-revolution
+  title: Xinhai-Revolution
+  start: "1911-10-10"
+  end: "1912-02-12"
+  weight: 1
+  kind: revolution
+  summary: Ein Militäraufstand in Wuchang breitet sich über die Provinzen aus; der letzte Kaiser Puyi dankt ab, China wird Republik.
+  regions: [china]
+  themes: [revolutionen]
+  places: [wuchang, nanjing]
+  persons: [sun-yat-sen, puyi]
+  polities: [qing-dynastie, republik-china]
+# --- Tokugawa-Japan ---
+- id: schlacht-von-sekigahara
+  title: Schlacht von Sekigahara
+  date: "1600-10-21"
+  weight: 2
+  kind: schlacht
+  summary: Tokugawa Ieyasu besiegt eine Koalition von Daimyō, die im Namen des Erben Hideyoshis kämpft, und wird zum mächtigsten Mann Japans.
+  regions: [japan]
+  themes: [krieg-militaer]
+  places: [sekigahara]
+  persons: [tokugawa-ieyasu]
+  polities: [tokugawa-shogunat]
+- id: ieyasu-shogun
+  title: Tokugawa Ieyasu wird Shōgun
+  date: "1603"
+  weight: 1
+  kind: herrschaft
+  summary: Der Kaiser ernennt Ieyasu zum Shōgun; Edo wird zum Sitz der Regierung, die Edo-Zeit beginnt.
+  regions: [japan]
+  themes: [politik]
+  places: [edo]
+  persons: [tokugawa-ieyasu]
+  polities: [tokugawa-shogunat]
+- id: sankin-kotai
+  title: Wechselaufenthalt der Daimyō in Edo wird Pflicht
+  date: "1635"
+  weight: 3
+  kind: gesetz
+  summary: Die überarbeiteten Gesetze für die Kriegerhäuser verpflichten die Daimyō, jedes zweite Jahr in Edo zu leben; ihre Familien bleiben dauerhaft dort.
+  regions: [japan]
+  themes: [politik]
+  places: [edo]
+  persons: [tokugawa-iemitsu]
+  polities: [tokugawa-shogunat]
+- id: shimabara-aufstand
+  title: Shimabara-Aufstand
+  start: "1637-12"
+  end: "1638-04"
+  weight: 3
+  kind: krieg
+  summary: Bauern und Christen auf Kyūshū erheben sich gegen Steuerdruck und Verfolgung; nach der Niederschlagung werden Zehntausende getötet und das Christentum noch härter unterdrückt.
+  regions: [japan]
+  themes: [religion, krieg-militaer]
+  places: [shimabara]
+  polities: [tokugawa-shogunat]
+- id: ausweisung-der-portugiesen
+  title: Ausweisung der Portugiesen
+  date: "1639"
+  weight: 3
+  kind: gesetz
+  summary: Das Shogunat verbietet portugiesischen Schiffen das Anlaufen Japans; ab 1641 dürfen nur noch die Niederländer auf Dejima Handel treiben.
+  regions: [japan]
+  themes: [handelsnetze, religion]
+  places: [dejima]
+  persons: [tokugawa-iemitsu]
+  polities: [tokugawa-shogunat]
+- id: kaitai-shinsho
+  title: Übersetzung eines niederländischen Anatomiebuches
+  date: "1774"
+  weight: 3
+  kind: entdeckung
+  summary: Japanische Ärzte veröffentlichen das „Kaitai Shinsho“, eine Übersetzung eines anatomischen Lehrbuchs aus dem Niederländischen – ein Meilenstein der „Hollandkunde“.
+  regions: [japan]
+  themes: [wissenschaft-technik]
+  places: [edo]
+  polities: [tokugawa-shogunat]
+- id: perry-in-japan
+  title: Ankunft Commodore Perrys
+  date: "1853-07-08"
+  weight: 2
+  kind: ereignis
+  summary: Vier amerikanische Kriegsschiffe, darunter zwei Dampfer, ankern vor Uraga; Perry überbringt einen Brief des US-Präsidenten, der die Öffnung Japans verlangt.
+  regions: [japan]
+  themes: [politik, imperien]
+  places: [uraga, edo]
+  persons: [matthew-perry]
+  polities: [tokugawa-shogunat, vereinigte-staaten]
+- id: vertrag-von-kanagawa
+  title: Vertrag von Kanagawa
+  date: "1854-03-31"
+  weight: 3
+  kind: vertrag
+  summary: Japan öffnet zwei Häfen für amerikanische Schiffe; 1858 folgen Handelsverträge mit den USA und europäischen Mächten, die Japan als ungleich empfand.
+  regions: [japan]
+  themes: [politik, handelsnetze]
+  persons: [matthew-perry]
+  polities: [tokugawa-shogunat, vereinigte-staaten]
+- id: meiji-restauration
+  title: Meiji-Restauration
+  date: "1868-01-03"
+  weight: 1
+  kind: revolution
+  summary: Gegner des Shogunats erklären die Regierungsgewalt des Kaisers für wiederhergestellt; nach dem Boshin-Krieg endet die Herrschaft der Tokugawa, Japan beginnt eine radikale Modernisierung.
+  regions: [japan]
+  themes: [revolutionen, politik]
+  places: [heian-kyo, edo]
+  polities: [tokugawa-shogunat, kaiserreich-japan]
+# --- Lateinamerika ---
+- id: aufstand-tupac-amaru-ii
+  title: Aufstand des Túpac Amaru II.
+  start: "1780-11"
+  end: "1781"
+  weight: 2
+  kind: revolution
+  summary: Der größte Aufstand gegen die spanische Herrschaft in den Anden erfasst große Teile Perus und Boliviens; er wird blutig niedergeschlagen, sein Anführer in Cusco hingerichtet.
+  regions: [andenraum]
+  themes: [revolutionen, gewalt-genozid]
+  places: [cusco]
+  persons: [tupac-amaru-ii]
+  polities: [vizekoenigreich-peru]
+- id: abdankungen-von-bayonne
+  title: Abdankungen von Bayonne
+  date: "1808-05"
+  weight: 2
+  kind: ereignis
+  summary: Napoleon zwingt den spanischen König und seinen Sohn zum Verzicht auf den Thron und setzt seinen Bruder Joseph ein; in Spanien und Amerika entsteht eine Legitimitätskrise.
+  regions: [iberische-halbinsel, frankreich]
+  themes: [politik]
+  persons: [napoleon-bonaparte]
+  polities: [spanisches-kolonialreich]
+- id: juntas-1810
+  title: Bildung der Juntas in Spanisch-Amerika
+  start: "1810-04-19"
+  end: "1810-09-18"
+  weight: 2
+  kind: revolution
+  summary: In Caracas, Buenos Aires, Bogotá, Santiago und anderen Städten übernehmen Räte die Regierung, zunächst im Namen des gefangenen Königs.
+  regions: [suedamerika]
+  themes: [revolutionen, politik]
+  places: [caracas, buenos-aires, bogota, santiago-de-chile]
+  polities: [spanisches-kolonialreich]
+- id: grito-de-dolores
+  title: Grito de Dolores
+  date: "1810-09-16"
+  weight: 2
+  kind: revolution
+  summary: Der Priester Miguel Hidalgo ruft in Dolores zum Aufstand auf; Zehntausende Indigene und Mestizen schließen sich an.
+  regions: [mesoamerika]
+  themes: [revolutionen]
+  places: [dolores]
+  persons: [miguel-hidalgo]
+  polities: [neuspanien]
+- id: verfassung-von-cadiz
+  title: Verfassung von Cádiz
+  date: "1812-03-19"
+  weight: 3
+  kind: gesetz
+  summary: Die Cortes in Cádiz, mit Abgeordneten aus Amerika, beschließen eine liberale Verfassung für die gesamte spanische Monarchie.
+  regions: [iberische-halbinsel, amerika]
+  themes: [verfassung-recht]
+  places: [cadiz]
+  polities: [spanisches-kolonialreich]
+- id: unabhaengigkeit-argentiniens
+  title: Unabhängigkeitserklärung von Tucumán
+  date: "1816-07-09"
+  weight: 3
+  kind: gruendung
+  summary: Ein Kongress in Tucumán erklärt die Unabhängigkeit der Vereinigten Provinzen in Südamerika, des späteren Argentinien.
+  regions: [suedamerika]
+  themes: [politik]
+  polities: [vizekoenigreich-rio-de-la-plata]
+- id: anden-ueberquerung
+  title: San Martín überquert die Anden
+  start: "1817-01"
+  end: "1817-02-12"
+  weight: 3
+  kind: krieg
+  summary: Das Heer San Martíns überquert die Anden und besiegt die Spanier bei Chacabuco; nach dem Sieg bei Maipú 1818 ist Chile unabhängig.
+  regions: [suedamerika]
+  themes: [krieg-militaer]
+  places: [santiago-de-chile]
+  persons: [jose-de-san-martin, bernardo-ohiggins]
+- id: schlacht-von-boyaca
+  title: Schlacht von Boyacá
+  date: "1819-08-07"
+  weight: 3
+  kind: schlacht
+  summary: Nach einem Marsch über die Anden besiegt Bolívar die Spanier in Neugranada; Bogotá wird befreit, Groß-Kolumbien gegründet.
+  regions: [suedamerika]
+  themes: [krieg-militaer]
+  places: [bogota]
+  persons: [simon-bolivar]
+  polities: [gross-kolumbien]
+- id: unabhaengigkeit-mexikos
+  title: Unabhängigkeit Mexikos
+  date: "1821-09-27"
+  weight: 2
+  kind: gruendung
+  summary: Nach dem Plan von Iguala, der Unabhängigkeit, katholische Religion und Gleichheit verspricht, zieht Iturbides Armee in Mexiko-Stadt ein.
+  regions: [mesoamerika]
+  themes: [politik]
+  places: [mexiko-stadt]
+  persons: [agustin-de-iturbide]
+  polities: [neuspanien, mexiko]
+- id: unabhaengigkeit-brasiliens
+  title: Unabhängigkeit Brasiliens
+  date: "1822-09-07"
+  weight: 2
+  kind: gruendung
+  summary: Prinz Pedro, Sohn des portugiesischen Königs, erklärt Brasilien für unabhängig und wird zum Kaiser gekrönt.
+  regions: [suedamerika]
+  themes: [politik]
+  places: [rio-de-janeiro]
+  persons: [pedro-i-brasilien]
+  polities: [kaiserreich-brasilien]
+- id: monroe-doktrin
+  title: Monroe-Doktrin
+  date: "1823-12-02"
+  weight: 3
+  kind: ereignis
+  summary: Die USA erklären, sie würden keine weitere europäische Kolonisierung und Einmischung in Amerika dulden.
+  regions: [nordamerika, amerika]
+  themes: [politik, imperien]
+  places: [washington]
+  polities: [vereinigte-staaten]
+- id: schlacht-von-ayacucho
+  title: Schlacht von Ayacucho
+  date: "1824-12-09"
+  weight: 2
+  kind: schlacht
+  summary: Ein Heer unter Antonio José de Sucre besiegt die letzte große spanische Armee in Südamerika; die spanische Herrschaft auf dem Festland ist beendet.
+  regions: [andenraum]
+  themes: [krieg-militaer]
+  places: [ayacucho]
+  persons: [antonio-jose-de-sucre, simon-bolivar]
+  polities: [vizekoenigreich-peru]

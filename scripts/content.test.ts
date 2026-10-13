@@ -88,6 +88,8 @@ describe('Suche', () => {
     expect(titles('Kyoto')).toContain('heian-kyo')
     expect(titles('WWII')).toContain('zweiter-weltkrieg')
     expect(titles('Partition')).toContain('indien-1947')
+    expect(titles('Mughal')).toContain('mogulreich')
+    expect(titles('Libertador')).toContain('simon-bolivar')
   })
   it('findet Volltext in neuen Artikeln', () => {
     expect(titles('Spinning Jenny').slice(0, 3)).toContain('spinning-jenny')
@@ -97,5 +99,7 @@ describe('Suche', () => {
     expect(titles('Angkor Wat')).toContain('angkor-wat')
     expect(titles('Vernichtungsbefehl')).toContain('voelkermord-herero-nama')
     expect(titles('1962').slice(0, 10)).toContain('kubakrise')
+    expect(titles('Opiumkrieg')).toContain('erster-opiumkrieg')
+    expect(titles('Edo-Zeit')).toContain('tokugawa-japan')
   })
 })

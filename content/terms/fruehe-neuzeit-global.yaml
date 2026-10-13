@@ -1,0 +1,54 @@
+- id: mansabdar
+  name: Mansabdar-System
+  aliases: [Mansab, Mansabdar]
+  definition: Rangordnung der Mogulverwaltung, in der Offiziere und Beamte einen nummerierten Rang (mansab) erhielten, der Besoldung und die Zahl der zu stellenden Reiter festlegte; bezahlt wurden sie meist mit dem Steueraufkommen bestimmter Gebiete (jagir).
+  themes: [politik, krieg-militaer]
+- id: sulh-i-kull
+  name: Sulh-i kull
+  aliases: [Frieden mit allen]
+  definition: „Frieden mit allen“ – Leitgedanke der Religionspolitik Akbars, nach dem der Herrscher über den Glaubensgemeinschaften stand und alle schützte.
+  themes: [religion, politik]
+- id: acht-banner
+  name: Acht Banner
+  aliases: [Bannertruppen, Bannerleute]
+  definition: Militärische und gesellschaftliche Organisation der Mandschu, in der Familien erblich einer von acht Einheiten angehörten; Grundlage der Qing-Herrschaft.
+  themes: [krieg-militaer, gesellschaft]
+- id: ungleiche-vertraege
+  name: Ungleiche Verträge
+  definition: Im 19. Jahrhundert China, Japan, Korea und anderen Staaten aufgezwungene Verträge, die westlichen Mächten Häfen, Zollvorteile und Exterritorialität für ihre Bürger sicherten.
+  themes: [imperien, verfassung-recht]
+- id: opium
+  name: Opiumhandel
+  aliases: [Opium]
+  definition: Der von der britischen Ostindien-Kompanie organisierte Anbau von Opium in Indien und sein Schmuggel nach China, der dort zu Sucht und Silberabfluss führte und Auslöser der Opiumkriege war.
+  themes: [handelsnetze, imperien]
+- id: daimyo
+  name: Daimyō
+  aliases: [Daimyo, Fürst]
+  definition: Territorialfürsten im vormodernen Japan, die unter den Tokugawa rund 260 Herrschaftsgebiete (han) verwalteten.
+  themes: [politik]
+- id: sankin-kotai-begriff
+  name: Sankin-kōtai
+  aliases: [Wechselaufenthalt, alternierende Anwesenheit]
+  definition: Pflicht der Daimyō, im Wechsel ein Jahr in Edo und eines in ihrem Herrschaftsgebiet zu leben; die Prozessionen und Residenzen kosteten die Fürsten einen großen Teil ihrer Einnahmen.
+  themes: [politik, wirtschaft-handel]
+- id: sakoku
+  name: Sakoku
+  aliases: [Landesabschließung, Abschließung Japans]
+  definition: „Abgeschlossenes Land“ – im 19. Jahrhundert geprägter Begriff für die Außenpolitik der Tokugawa; tatsächlich unterhielt Japan kontrollierte Beziehungen zu Korea, China, den Ryūkyū-Inseln, den Ainu und den Niederlanden.
+  themes: [politik, handelsnetze]
+- id: rangaku
+  name: Rangaku
+  aliases: [Hollandkunde]
+  definition: Studium westlicher Wissenschaften in Japan über niederländische Bücher, besonders in Medizin, Astronomie und Geografie.
+  themes: [wissenschaft-technik]
+- id: kreolen
+  name: Kreolen
+  aliases: [Criollos, Kreole]
+  definition: In Spanisch-Amerika in Amerika geborene Nachfahren von Spaniern, die gegenüber den in Spanien Geborenen (Peninsulares) bei Ämtern benachteiligt waren und die Unabhängigkeitsbewegungen anführten.
+  themes: [gesellschaft]
+- id: casta-system
+  name: Sociedad de castas
+  aliases: [Kastensystem Spanisch-Amerikas, Castas]
+  definition: Rechtliche und soziale Rangordnung in Spanisch-Amerika nach Herkunft und „Mischung“ von Europäern, Indigenen und Afrikanern, die Rechte und Steuern bestimmte.
+  themes: [gesellschaft]

@@ -1,0 +1,210 @@
+# Orte: Mogulreich
+- id: agra
+  name: Agra
+  coords: [78.0081, 27.1767]
+  categories: [stadt, hauptstadt]
+  modernName: Agra (Uttar Pradesh)
+  summary: Stadt an der Yamuna, unter Akbar und Shah Jahan zeitweise Hauptstadt des Mogulreiches; hier stehen das Rote Fort und das Taj Mahal.
+  regions: [suedasien]
+- id: taj-mahal
+  name: Taj Mahal
+  coords: [78.0421, 27.1751]
+  categories: [heiligtum]
+  modernName: Agra (Indien)
+  summary: Grabmal, das Shah Jahan ab 1632 für seine Frau Mumtaz Mahal errichten ließ; seit 1983 UNESCO-Welterbe.
+  regions: [suedasien]
+  themes: [kultur-kunst, religion]
+- id: fatehpur-sikri
+  name: Fatehpur Sikri
+  coords: [77.6679, 27.0945]
+  categories: [stadt, hauptstadt]
+  modernName: Uttar Pradesh (Indien)
+  summary: Von Akbar ab etwa 1571 errichtete Residenzstadt aus rotem Sandstein, in der er Gelehrte verschiedener Religionen zu Gesprächen empfing; nach wenigen Jahren wieder aufgegeben.
+  regions: [suedasien]
+  themes: [religion, kultur-kunst]
+- id: panipat
+  name: Panipat
+  coords: [76.9635, 29.3909]
+  categories: [schlachtfeld]
+  modernName: Haryana (Indien)
+  summary: Ebene nördlich von Delhi, auf der 1526 Babur den Sultan von Delhi besiegte und 1556 Akbars Heer die Herrschaft der Moguln sicherte.
+  regions: [suedasien]
+  themes: [krieg-militaer]
+- id: plassey
+  name: Plassey (Palashi)
+  aliases: [Palashi]
+  coords: [88.2500, 23.8000]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Westbengalen (Indien)
+  summary: Ort in Bengalen, an dem 1757 Truppen der britischen Ostindien-Kompanie unter Robert Clive den Nawab von Bengalen besiegten.
+  regions: [suedasien]
+  themes: [krieg-militaer, imperien]
+- id: raigad
+  name: Raigad
+  coords: [73.4407, 18.2335]
+  categories: [stadt, hauptstadt]
+  modernName: Maharashtra (Indien)
+  summary: Bergfestung, in der Shivaji 1674 zum König (Chhatrapati) der Marathen gekrönt wurde.
+  regions: [suedasien]
+# Orte: Qing-China
+- id: mukden
+  name: Mukden (Shenyang)
+  aliases: [Shenyang, Shengjing]
+  coords: [123.4315, 41.8057]
+  categories: [stadt, hauptstadt]
+  modernName: Shenyang (China)
+  summary: Hauptstadt der Mandschu vor der Eroberung Chinas (ab 1625), mit einem eigenen Kaiserpalast.
+  regions: [china]
+- id: chengde
+  name: Chengde
+  aliases: [Jehol, Rehe]
+  coords: [117.9322, 40.9739]
+  categories: [stadt]
+  modernName: Hebei (China)
+  summary: Sommerresidenz der Qing-Kaiser nördlich der Großen Mauer, wo sie Gesandte aus der Mongolei, Tibet und Zentralasien empfingen und 1793 Lord Macartney.
+  regions: [china]
+- id: yuanmingyuan
+  name: Yuanmingyuan (Alter Sommerpalast)
+  aliases: [Alter Sommerpalast, Old Summer Palace]
+  coords: [116.2980, 40.0080]
+  categories: [fundstaette]
+  modernName: Peking (China)
+  summary: Weitläufige Garten- und Palastanlage der Qing-Kaiser bei Peking, die britische und französische Truppen im Oktober 1860 plünderten und niederbrannten.
+  regions: [china]
+  themes: [kultur-kunst]
+- id: hongkong
+  name: Hongkong
+  aliases: [Hong Kong]
+  coords: [114.1694, 22.3193]
+  categories: [stadt, hafen]
+  modernName: Hongkong (China)
+  summary: Insel an der Mündung des Perlflusses, 1842 an Großbritannien abgetreten und bis 1997 britische Kolonie.
+  regions: [china]
+  themes: [imperien, handelsnetze]
+- id: wuchang
+  name: Wuchang (Wuhan)
+  aliases: [Wuhan]
+  coords: [114.3055, 30.5928]
+  categories: [stadt]
+  modernName: Wuhan (China)
+  summary: Stadt am Jangtse, in der am 10. Oktober 1911 ein Militäraufstand die Revolution auslöste, die das Kaiserreich beendete.
+  regions: [china]
+# Orte: Tokugawa-Japan
+- id: edo
+  name: Edo (Tokio)
+  aliases: [Tokio, Tokyo, Tōkyō]
+  coords: [139.6917, 35.6895]
+  categories: [stadt, hauptstadt]
+  modernName: Tokio (Japan)
+  summary: Sitz der Tokugawa-Shōgune, im 18. Jahrhundert mit rund einer Million Einwohnern eine der größten Städte der Welt; seit 1868 als Tokio Hauptstadt Japans.
+  regions: [japan]
+- id: sekigahara
+  name: Sekigahara
+  coords: [136.4669, 35.3653]
+  categories: [schlachtfeld]
+  modernName: Präfektur Gifu (Japan)
+  summary: Ort der Schlacht vom Oktober 1600, mit der Tokugawa Ieyasu die Vorherrschaft in Japan errang.
+  regions: [japan]
+  themes: [krieg-militaer]
+- id: osaka
+  name: Osaka
+  coords: [135.5023, 34.6937]
+  categories: [stadt, hafen]
+  modernName: Osaka (Japan)
+  summary: Handelszentrum Japans; die Burg der Toyotomi wurde 1615 von den Tokugawa erobert.
+  regions: [japan]
+  themes: [handelsnetze]
+- id: dejima
+  name: Dejima
+  coords: [129.8733, 32.7439]
+  categories: [hafen]
+  modernName: Nagasaki (Japan)
+  summary: Künstliche Insel im Hafen von Nagasaki, auf der von 1641 bis 1859 die Niederländische Ostindien-Kompanie als einzige europäische Handelsniederlassung zugelassen war.
+  regions: [japan]
+  themes: [handelsnetze]
+- id: shimabara
+  name: Shimabara
+  coords: [130.3700, 32.7881]
+  categories: [stadt, schlachtfeld]
+  modernName: Präfektur Nagasaki (Japan)
+  summary: Halbinsel auf Kyūshū, auf der 1637/38 ein Aufstand von Bauern und Christen blutig niedergeschlagen wurde.
+  regions: [japan]
+  themes: [religion, krieg-militaer]
+- id: uraga
+  name: Uraga
+  coords: [139.7200, 35.2400]
+  categories: [hafen]
+  modernName: Yokosuka (Japan)
+  summary: Hafen am Eingang der Bucht von Edo, vor dem im Juli 1853 die amerikanischen Kriegsschiffe unter Commodore Perry ankerten.
+  regions: [japan]
+# Orte: Lateinamerika
+- id: caracas
+  name: Caracas
+  coords: [-66.9036, 10.4806]
+  categories: [stadt, hauptstadt]
+  modernName: Caracas (Venezuela)
+  summary: Hauptstadt Venezuelas und Geburtsort Simón Bolívars; 1810 entstand hier eine der ersten Juntas Spanisch-Amerikas.
+  regions: [suedamerika]
+- id: buenos-aires
+  name: Buenos Aires
+  coords: [-58.3816, -34.6037]
+  categories: [stadt, hauptstadt, hafen]
+  modernName: Buenos Aires (Argentinien)
+  summary: Hauptstadt des Vizekönigreichs Río de la Plata, in der im Mai 1810 ein Stadtrat die Regierung übernahm.
+  regions: [suedamerika]
+- id: bogota
+  name: Bogotá
+  aliases: [Santa Fe de Bogotá]
+  coords: [-74.0721, 4.7110]
+  categories: [stadt, hauptstadt]
+  modernName: Bogotá (Kolumbien)
+  summary: Hauptstadt des Vizekönigreichs Neugranada und später Groß-Kolumbiens.
+  regions: [suedamerika]
+- id: santiago-de-chile
+  name: Santiago de Chile
+  coords: [-70.6693, -33.4489]
+  categories: [stadt, hauptstadt]
+  modernName: Santiago (Chile)
+  summary: Hauptstadt Chiles, dessen Unabhängigkeit nach dem Sieg bei Maipú 1818 gesichert war.
+  regions: [suedamerika]
+- id: dolores
+  name: Dolores
+  aliases: [Dolores Hidalgo]
+  coords: [-100.9339, 21.1567]
+  categories: [stadt]
+  modernName: Dolores Hidalgo (Guanajuato, Mexiko)
+  summary: Dorf, in dem der Priester Miguel Hidalgo am 16. September 1810 zum Aufstand aufrief – heute Mexikos Nationalfeiertag.
+  regions: [mesoamerika]
+- id: mexiko-stadt
+  name: Mexiko-Stadt
+  aliases: [Ciudad de México]
+  coords: [-99.1332, 19.4326]
+  categories: [stadt, hauptstadt]
+  start: "1521"
+  modernName: Mexiko-Stadt (Mexiko)
+  summary: Auf den Ruinen Tenochtitlans errichtete Hauptstadt Neuspaniens und seit 1821 des unabhängigen Mexiko.
+  regions: [mesoamerika]
+- id: ayacucho
+  name: Ayacucho
+  coords: [-74.1300, -13.0500]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Pampa de Quinua (Peru)
+  summary: Hochebene in den Anden, auf der am 9. Dezember 1824 ein Heer unter Antonio José de Sucre die letzte große spanische Armee in Südamerika besiegte.
+  regions: [andenraum]
+  themes: [krieg-militaer]
+- id: cadiz
+  name: Cádiz
+  coords: [-6.2886, 36.5271]
+  categories: [stadt, hafen]
+  modernName: Cádiz (Andalusien)
+  summary: Hafenstadt, in der während der französischen Besetzung Spaniens die Cortes 1812 eine liberale Verfassung für Spanien und Amerika beschlossen.
+  regions: [iberische-halbinsel]
+- id: guayaquil
+  name: Guayaquil
+  coords: [-79.8891, -2.1894]
+  categories: [stadt, hafen]
+  modernName: Guayaquil (Ecuador)
+  summary: Hafenstadt, in der sich im Juli 1822 Bolívar und San Martín zu ihrem einzigen Treffen begegneten.
+  regions: [andenraum]

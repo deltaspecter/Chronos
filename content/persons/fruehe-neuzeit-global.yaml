@@ -1,0 +1,346 @@
+# Personen: Mogulreich
+- id: babur
+  name: Babur
+  aliases: [Zahir ud-Din Muhammad Babur]
+  born: "1483"
+  died: "1530"
+  roles: [Herrscher, Reichsgründer, Autor]
+  summary: Nachfahre Timurs und Dschingis Khans aus dem Ferghanatal, der 1526 bei Panipat den Sultan von Delhi besiegte und das Mogulreich begründete; Verfasser einer berühmten Autobiografie.
+  regions: [zentralasien, suedasien]
+  themes: [imperien, krieg-militaer]
+  places: [samarkand, kabul, panipat, agra]
+- id: humayun
+  name: Humayun
+  born: "1508"
+  died: "1556"
+  roles: [Herrscher]
+  summary: Sohn Baburs, der das Reich 1540 an Sher Shah Suri verlor, im Exil in Iran lebte und 1555 Delhi zurückeroberte.
+  regions: [suedasien]
+  themes: [politik]
+  places: [delhi]
+- id: akbar
+  name: Akbar
+  aliases: [Akbar der Große, Jalal ud-Din Muhammad Akbar]
+  born: "1542"
+  died: "1605"
+  roles: [Herrscher]
+  summary: Mogulherrscher (1556–1605), der das Reich über ganz Nordindien ausdehnte, Verwaltung und Steuern neu ordnete und eine Politik des „Friedens mit allen“ gegenüber den Religionen verfolgte.
+  regions: [suedasien]
+  themes: [politik, imperien, religion]
+  places: [agra, fatehpur-sikri, panipat, lahore]
+- id: jahangir
+  name: Jahangir
+  born: "1569"
+  died: "1627"
+  roles: [Herrscher]
+  summary: Sohn Akbars und Mogulherrscher (1605–1627), Förderer der Malerei, der in seinen Memoiren Natur und Kunst genau beschrieb.
+  regions: [suedasien]
+  themes: [politik, kultur-kunst]
+  places: [agra, lahore]
+- id: nur-jahan
+  name: Nur Jahan
+  born: "1577"
+  died: "1645"
+  roles: [Herrscherin]
+  summary: Hauptfrau Jahangirs, die als einzige Mogulherrscherin Münzen in ihrem Namen prägen ließ und großen politischen Einfluss ausübte.
+  regions: [suedasien]
+  themes: [politik]
+  places: [agra, lahore]
+- id: shah-jahan
+  name: Shah Jahan
+  born: "1592"
+  died: "1666"
+  roles: [Herrscher]
+  summary: Mogulherrscher (1628–1658), Bauherr des Taj Mahal und der neuen Hauptstadt Shahjahanabad (Delhi); von seinem Sohn Aurangzeb abgesetzt und bis zu seinem Tod in Agra festgehalten.
+  regions: [suedasien]
+  themes: [politik, kultur-kunst]
+  places: [agra, taj-mahal, delhi]
+  related: [mumtaz-mahal, aurangzeb]
+- id: mumtaz-mahal
+  name: Mumtaz Mahal
+  born: "1593"
+  died: "1631"
+  roles: [Herrscherin]
+  summary: Hauptfrau Shah Jahans, die bei der Geburt ihres vierzehnten Kindes starb; für sie wurde das Taj Mahal errichtet.
+  regions: [suedasien]
+  places: [taj-mahal]
+- id: dara-shikoh
+  name: Dara Shikoh
+  born: "1615"
+  died: "1659"
+  roles: [Prinz, Gelehrter]
+  summary: Ältester Sohn Shah Jahans, Gelehrter, der die Upanishaden ins Persische übersetzen ließ; im Thronkampf von Aurangzeb besiegt und hingerichtet.
+  regions: [suedasien]
+  themes: [religion, schrift-medien]
+  places: [delhi]
+- id: aurangzeb
+  name: Aurangzeb
+  aliases: [Alamgir]
+  born: "1618"
+  died: "1707"
+  roles: [Herrscher]
+  summary: Mogulherrscher (1658–1707), unter dem das Reich seine größte Ausdehnung erreichte; führte die Kopfsteuer für Nichtmuslime wieder ein und kämpfte jahrzehntelang im Dekkan.
+  regions: [suedasien]
+  themes: [politik, religion, krieg-militaer]
+  places: [delhi, agra]
+- id: abul-fazl
+  name: Abu'l-Fazl
+  born: "1551"
+  died: "1602"
+  roles: [Historiker, Wesir]
+  summary: Vertrauter und Geschichtsschreiber Akbars, Verfasser des „Akbarnama“; auf Veranlassung des Prinzen Salim, des späteren Jahangir, ermordet.
+  regions: [suedasien]
+  themes: [geschichtsschreibung]
+  places: [agra, fatehpur-sikri]
+- id: shivaji
+  name: Shivaji
+  aliases: [Chhatrapati Shivaji]
+  born: "1630"
+  died: "1680"
+  roles: [König der Marathen]
+  summary: Begründer des Marathenreiches im westlichen Dekkan, der sich gegen die Moguln behauptete und sich 1674 zum König krönen ließ.
+  regions: [suedasien]
+  themes: [politik, krieg-militaer]
+  places: [raigad]
+# Personen: Qing
+- id: nurhaci
+  name: Nurhaci
+  born: "1559"
+  died: "1626"
+  roles: [Khan der Jurchen]
+  summary: Führer der Jurchen, der die Acht Banner schuf und 1616 ein eigenes Reich ausrief – Grundlage der späteren Qing-Dynastie.
+  regions: [china]
+  themes: [politik, krieg-militaer]
+  places: [mukden]
+- id: kangxi
+  name: Kangxi
+  aliases: [Kaiser Kangxi]
+  born: "1654"
+  died: "1722"
+  roles: [Kaiser]
+  summary: Qing-Kaiser (1661–1722), der die Herrschaft der Dynastie festigte, Taiwan eroberte, die Mongolen unterwarf und Gelehrte und Jesuiten an seinen Hof holte.
+  regions: [china]
+  themes: [politik]
+  places: [dadu, chengde]
+- id: qianlong
+  name: Qianlong
+  aliases: [Kaiser Qianlong]
+  born: "1711"
+  died: "1799"
+  roles: [Kaiser]
+  summary: Qing-Kaiser (1735–1796), unter dem das Reich seine größte Ausdehnung erreichte; empfing 1793 die britische Gesandtschaft Macartneys.
+  regions: [china, zentralasien]
+  themes: [politik, imperien, kultur-kunst]
+  places: [dadu, chengde, yuanmingyuan]
+- id: george-macartney
+  name: George Macartney
+  born: "1737"
+  died: "1806"
+  roles: [Diplomat]
+  summary: Britischer Diplomat, der 1792–1794 die erste britische Gesandtschaft an den Kaiserhof in China leitete.
+  regions: [britische-inseln, china]
+  themes: [politik, handelsnetze]
+  places: [chengde]
+- id: lin-zexu
+  name: Lin Zexu
+  born: "1785"
+  died: "1850"
+  roles: [Beamter]
+  summary: Kaiserlicher Kommissar, der 1839 in Kanton über 1.000 Tonnen Opium vernichten ließ, was den Ersten Opiumkrieg auslöste; heute als Nationalheld verehrt.
+  regions: [china]
+  themes: [politik]
+  places: [guangzhou]
+- id: hong-xiuquan
+  name: Hong Xiuquan
+  born: "1814"
+  died: "1864"
+  roles: [Religionsstifter, Rebellenführer]
+  summary: Gescheiterter Prüfungskandidat, der sich nach Visionen für den jüngeren Bruder Jesu hielt und das „Himmlische Reich des Großen Friedens“ (Taiping) gründete.
+  regions: [china]
+  themes: [religion, revolutionen]
+  places: [nanjing]
+- id: cixi
+  name: Cixi
+  aliases: [Kaiserinwitwe Cixi]
+  born: "1835"
+  died: "1908"
+  roles: [Kaiserinwitwe, Regentin]
+  summary: Kaiserinwitwe, die von 1861 bis 1908 fast ununterbrochen die Politik des Qing-Hofes bestimmte; ihre Rolle zwischen Reform und Beharrung ist umstritten.
+  regions: [china]
+  themes: [politik]
+  places: [dadu]
+- id: sun-yat-sen
+  name: Sun Yat-sen
+  aliases: [Sun Zhongshan]
+  born: "1866"
+  died: "1925"
+  roles: [Revolutionär, Politiker]
+  summary: Revolutionär und Gründer der Nationalpartei, der 1912 erster provisorischer Präsident der Republik China wurde.
+  regions: [china]
+  themes: [revolutionen, politik]
+  places: [nanjing]
+- id: puyi
+  name: Puyi
+  aliases: [Xuantong]
+  born: "1906"
+  died: "1967"
+  roles: [Kaiser]
+  summary: Letzter Kaiser Chinas, der 1912 als Kind abdankte; später von Japan als Herrscher des Marionettenstaates Mandschukuo eingesetzt.
+  regions: [china]
+  themes: [politik]
+# Personen: Tokugawa-Japan
+- id: oda-nobunaga
+  name: Oda Nobunaga
+  born: "1534"
+  died: "1582"
+  roles: [Feldherr]
+  summary: Kriegsherr, der mit Feuerwaffen und harter Gewalt große Teile Zentraljapans unterwarf; von einem eigenen Gefolgsmann zum Selbstmord getrieben.
+  regions: [japan]
+  themes: [krieg-militaer, politik]
+- id: toyotomi-hideyoshi
+  name: Toyotomi Hideyoshi
+  born: "1537"
+  died: "1598"
+  roles: [Feldherr, Reichseiniger]
+  summary: Aus einfachen Verhältnissen aufgestiegener Feldherr, der Japan 1590 einte, die Bauern entwaffnete und zweimal vergeblich Korea angriff.
+  regions: [japan, korea]
+  themes: [politik, krieg-militaer]
+  places: [osaka]
+- id: tokugawa-ieyasu
+  name: Tokugawa Ieyasu
+  born: "1543"
+  died: "1616"
+  roles: [Shōgun]
+  summary: Sieger von Sekigahara 1600 und ab 1603 erster Shōgun der Tokugawa, deren Herrschaft über 250 Jahre bestand.
+  regions: [japan]
+  themes: [politik, krieg-militaer]
+  places: [sekigahara, edo, osaka]
+- id: tokugawa-iemitsu
+  name: Tokugawa Iemitsu
+  born: "1604"
+  died: "1651"
+  roles: [Shōgun]
+  summary: Dritter Tokugawa-Shōgun, unter dem der Wechselaufenthalt der Daimyō in Edo und die Beschränkung des Außenverkehrs festgeschrieben wurden.
+  regions: [japan]
+  themes: [politik]
+  places: [edo, dejima]
+- id: matsuo-basho
+  name: Matsuo Bashō
+  born: "1644"
+  died: "1694"
+  roles: [Dichter]
+  summary: Dichter, der den Haikai-Vers, aus dem das Haiku hervorging, zur Kunstform erhob; berühmt ist sein Reisetagebuch „Auf schmalen Pfaden durchs Hinterland“.
+  regions: [japan]
+  themes: [kultur-kunst]
+  places: [edo]
+- id: engelbert-kaempfer
+  name: Engelbert Kaempfer
+  born: "1651"
+  died: "1716"
+  roles: [Arzt, Forschungsreisender]
+  summary: Westfälischer Arzt im Dienst der Niederländischen Ostindien-Kompanie, der 1690–1692 in Dejima lebte und eine einflussreiche Beschreibung Japans verfasste.
+  regions: [deutschland, japan]
+  themes: [wissenschaft-technik]
+  places: [dejima, edo]
+- id: katsushika-hokusai
+  name: Katsushika Hokusai
+  born: "1760"
+  died: "1849"
+  roles: [Maler, Holzschnittkünstler]
+  summary: Maler und Holzschnittkünstler aus Edo, dessen „Große Welle vor Kanagawa“ (um 1831) zu den bekanntesten Bildern der Welt gehört.
+  regions: [japan]
+  themes: [kultur-kunst]
+  places: [edo]
+- id: matthew-perry
+  name: Matthew C. Perry
+  born: "1794"
+  died: "1858"
+  roles: [Marineoffizier]
+  summary: Amerikanischer Commodore, der 1853 mit Kriegsschiffen in der Bucht von Edo erschien und 1854 die Öffnung japanischer Häfen erzwang.
+  regions: [nordamerika, japan]
+  themes: [krieg-militaer, politik]
+  places: [uraga, edo]
+# Personen: Lateinamerika
+- id: simon-bolivar
+  name: Simón Bolívar
+  aliases: [El Libertador, Bolivar]
+  born: "1783"
+  died: "1830"
+  roles: [General, Staatsmann]
+  summary: Venezolanischer Kreole, der als „Befreier“ die Unabhängigkeit Venezuelas, Kolumbiens, Ecuadors, Perus und Boliviens erkämpfte; sein Traum eines vereinten Amerika scheiterte.
+  regions: [suedamerika, andenraum]
+  themes: [revolutionen, krieg-militaer, politik]
+  places: [caracas, bogota, guayaquil, lima]
+- id: jose-de-san-martin
+  name: José de San Martín
+  born: "1778"
+  died: "1850"
+  roles: [General]
+  summary: Argentinischer General, der mit der Überquerung der Anden 1817 die Befreiung Chiles einleitete und 1821 die Unabhängigkeit Perus ausrief.
+  regions: [suedamerika, andenraum]
+  themes: [krieg-militaer]
+  places: [buenos-aires, santiago-de-chile, lima, guayaquil]
+- id: miguel-hidalgo
+  name: Miguel Hidalgo y Costilla
+  born: "1753"
+  died: "1811"
+  roles: [Priester, Aufständischer]
+  summary: Dorfpfarrer, dessen Aufruf von Dolores 1810 einen Massenaufstand gegen die spanische Herrschaft in Mexiko auslöste; 1811 gefangen genommen und hingerichtet.
+  regions: [mesoamerika]
+  themes: [revolutionen, religion]
+  places: [dolores]
+- id: jose-maria-morelos
+  name: José María Morelos
+  born: "1765"
+  died: "1815"
+  roles: [Priester, Aufständischer]
+  summary: Nachfolger Hidalgos als Anführer des mexikanischen Aufstands, der 1813 die Unabhängigkeit und die Abschaffung der Sklaverei und der Kastenunterschiede forderte; 1815 hingerichtet.
+  regions: [mesoamerika]
+  themes: [revolutionen]
+- id: antonio-jose-de-sucre
+  name: Antonio José de Sucre
+  born: "1795"
+  died: "1830"
+  roles: [General]
+  summary: Venezolanischer General und engster Vertrauter Bolívars, Sieger von Ayacucho 1824 und erster Präsident Boliviens.
+  regions: [suedamerika, andenraum]
+  themes: [krieg-militaer]
+  places: [ayacucho]
+- id: bernardo-ohiggins
+  name: Bernardo O'Higgins
+  born: "1778"
+  died: "1842"
+  roles: [General, Staatschef]
+  summary: Chilenischer Unabhängigkeitsführer irischer Abstammung, der mit San Martín die Spanier besiegte und 1818 die Unabhängigkeit Chiles proklamierte.
+  regions: [suedamerika]
+  themes: [revolutionen, krieg-militaer]
+  places: [santiago-de-chile]
+- id: agustin-de-iturbide
+  name: Agustín de Iturbide
+  born: "1783"
+  died: "1824"
+  roles: [Offizier, Kaiser]
+  summary: Royalistischer Offizier, der 1821 die Seiten wechselte, die Unabhängigkeit Mexikos durchsetzte und sich 1822 zum Kaiser krönen ließ; 1824 hingerichtet.
+  regions: [mesoamerika]
+  themes: [politik]
+  places: [mexiko-stadt]
+- id: pedro-i-brasilien
+  name: Pedro I.
+  aliases: [Peter I. von Brasilien, Pedro IV. von Portugal]
+  born: "1798"
+  died: "1834"
+  roles: [Kaiser von Brasilien]
+  summary: Sohn des portugiesischen Königs, der 1822 die Unabhängigkeit Brasiliens erklärte und dessen erster Kaiser wurde.
+  regions: [suedamerika]
+  themes: [politik]
+  places: [rio-de-janeiro]
+- id: tupac-amaru-ii
+  name: Túpac Amaru II.
+  aliases: [José Gabriel Condorcanqui]
+  born: "1738"
+  died: "1781"
+  roles: [Kuraka (Ortsvorsteher), Aufständischer]
+  summary: Andiner Adliger, der sich auf den letzten Inka berief und 1780 den größten Aufstand gegen die spanische Kolonialherrschaft anführte; 1781 in Cusco hingerichtet.
+  regions: [andenraum]
+  themes: [revolutionen]
+  places: [cusco]

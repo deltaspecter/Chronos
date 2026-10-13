@@ -365,5 +365,38 @@
     "author": "Urheber unbekannt",
     "license": "Public domain",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Herero_chained.jpg"
+  },
+  "taj-mahal-ansicht": {
+    "file": "taj-mahal-ansicht.jpg",
+    "width": 1200,
+    "height": 789,
+    "author": "Yann; edited by Jim Carter",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_(Edited).jpeg"
+  },
+  "opiumkrieg-nemesis": {
+    "file": "opiumkrieg-nemesis.jpg",
+    "width": 1040,
+    "height": 681,
+    "author": "Edward Duncan",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Destroying_Chinese_war_junks,_by_E._Duncan_(1843).jpg"
+  },
+  "hokusai-grosse-welle": {
+    "file": "hokusai-grosse-welle.jpg",
+    "width": 1200,
+    "height": 806,
+    "author": "Katsushika Hokusai",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tsunami_by_hokusai_19th_century.jpg"
+  },
+  "schlacht-ayacucho-gemaelde": {
+    "file": "schlacht-ayacucho-gemaelde.jpg",
+    "width": 1200,
+    "height": 846,
+    "author": "Martín Tovar y Tovar",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Batalla_de_Ayacucho_by_Mart%C3%ADn_Tovar_y_Tovar_(1827_-_1902).jpg"
   }
 }
