@@ -1,0 +1,375 @@
+# Ereignisse: Die Revolutionen von 1848/49
+- id: hungerkrise-1846-47
+  title: Hunger- und Teuerungskrise 1846/47
+  aliases: [Kartoffelkrankheit, Kartoffelrevolution]
+  start: "1845"
+  end: "1847"
+  weight: 2
+  kind: katastrophe
+  summary: Die seit 1845 grassierende Kartoffelfäule und schlechte Getreideernten 1846 ließen die Lebensmittelpreise 1847 in weiten Teilen Europas auf ein Vielfaches steigen; es kam zu Hungerunruhen, etwa der Berliner „Kartoffelrevolution“ im April 1847. Zugleich traf eine Handels- und Gewerbekrise Handwerker und Heimarbeiter. In Irland wurde die Missernte zur großen Hungersnot.
+  regions: [europa, deutschland, britische-inseln]
+  themes: [landwirtschaft, wirtschaft-handel, umwelt-klima, gesellschaft]
+  places: [berlin]
+- id: aufstand-palermo-1848
+  title: Aufstand in Palermo
+  date: "1848-01-12"
+  weight: 3
+  kind: revolution
+  summary: In Palermo erheben sich die Sizilianer gegen die bourbonische Regierung in Neapel und erzwingen eine Verfassung – die erste Revolution des Jahres 1848, noch vor dem Umsturz in Paris.
+  regions: [italien]
+  themes: [revolutionen]
+  places: [palermo]
+- id: februarrevolution-1848
+  title: Februarrevolution in Paris
+  start: "1848-02-22"
+  end: "1848-02-24"
+  weight: 1
+  kind: revolution
+  summary: Nach dem Verbot eines Reformbanketts errichten Pariser Arbeiter, Handwerker und Studenten Barrikaden; Schüsse von Soldaten auf Demonstranten verschärfen den Aufstand. König Louis-Philippe dankt ab, eine Provisorische Regierung ruft die Republik aus und führt das allgemeine Männerwahlrecht ein. Die Nachricht löst in ganz Mitteleuropa Erhebungen aus.
+  regions: [frankreich, europa]
+  themes: [revolutionen, politik]
+  places: [paris]
+  persons: [louis-philippe, alphonse-de-lamartine, louis-blanc]
+  polities: [julimonarchie, zweite-franzoesische-republik]
+- id: mannheimer-volksversammlung-1848
+  title: Mannheimer Volksversammlung
+  date: "1848-02-27"
+  weight: 3
+  kind: ereignis
+  summary: Eine Volksversammlung in Mannheim fordert Volksbewaffnung, unbeschränkte Pressefreiheit, Schwurgerichte und die sofortige Einberufung eines deutschen Parlaments – Grundmuster der „Märzforderungen“, die in den folgenden Wochen in fast allen deutschen Staaten erhoben wurden.
+  regions: [deutschland]
+  themes: [politik, revolutionen]
+  places: [mannheim]
+  polities: [grossherzogtum-baden, deutscher-bund]
+- id: wiener-maerzrevolution
+  title: Märzrevolution in Wien
+  start: "1848-03-13"
+  end: "1848-03-15"
+  weight: 2
+  kind: revolution
+  summary: Demonstrationen von Studenten, Bürgern und Vorstadtarbeitern und blutige Zusammenstöße mit Militär zwingen Staatskanzler Metternich am 13. März zum Rücktritt und zur Flucht; der Hof hebt die Zensur auf, genehmigt eine Nationalgarde und verspricht eine Verfassung.
+  regions: [mitteleuropa]
+  themes: [revolutionen, politik]
+  places: [wien]
+  persons: [klemens-von-metternich, ferdinand-i-oesterreich]
+  polities: [habsburgermonarchie]
+- id: ungarische-revolution-1848
+  title: Ungarische Revolution und Unabhängigkeitskrieg
+  start: "1848-03-15"
+  end: "1849-10-06"
+  weight: 1
+  kind: revolution
+  summary: Am 15. März 1848 erheben sich in Pest Studenten und Intellektuelle um Sándor Petőfi; mit den Aprilgesetzen erhält Ungarn eine eigene verantwortliche Regierung, die Leibeigenschaft wird aufgehoben. Ab Herbst 1848 eskaliert der Konflikt mit Wien und mit Kroaten, Serben und Rumänen zum Krieg, der 1849 mit russischer Hilfe niedergeschlagen wird.
+  regions: [mitteleuropa, suedosteuropa]
+  themes: [revolutionen, krieg-militaer, politik]
+  places: [budapest, debrecen, vilagos]
+  persons: [lajos-kossuth, lajos-batthyany, sandor-petofi, artur-goergei, josip-jelacic]
+  polities: [habsburgermonarchie, russisches-kaiserreich]
+- id: berliner-maerzrevolution
+  title: Barrikadenkämpfe in Berlin
+  aliases: [18. März 1848, Märzgefallene]
+  start: "1848-03-18"
+  end: "1848-03-19"
+  weight: 2
+  kind: revolution
+  summary: Als Soldaten auf dem Schlossplatz in die Menge schießen, errichten Berliner Handwerker, Arbeiter und Studenten Barrikaden und kämpfen eine Nacht lang gegen das Militär. König Friedrich Wilhelm IV. lässt die Truppen abziehen und muss sich vor den aufgebahrten Toten verneigen; Schätzungen der Getöteten auf Seiten der Aufständischen reichen von etwa 250 bis über 300.
+  regions: [deutschland]
+  themes: [revolutionen, gewalt-genozid]
+  places: [berlin]
+  persons: [friedrich-wilhelm-iv]
+  polities: [koenigreich-preussen]
+- id: mailaender-fuenf-tage
+  title: Fünf Tage von Mailand
+  aliases: [Cinque Giornate]
+  start: "1848-03-18"
+  end: "1848-03-22"
+  weight: 3
+  kind: revolution
+  summary: In fünftägigen Straßenkämpfen vertreiben die Mailänder die österreichische Garnison unter Radetzky; zugleich ruft Venedig unter Daniele Manin die Republik San Marco aus, und Sardinien-Piemont erklärt Österreich den Krieg.
+  regions: [italien]
+  themes: [revolutionen, krieg-militaer]
+  places: [mailand, venedig]
+  persons: [joseph-radetzky, karl-albert-sardinien]
+  polities: [habsburgermonarchie, koenigreich-sardinien]
+- id: vorparlament
+  title: Vorparlament in Frankfurt
+  start: "1848-03-31"
+  end: "1848-04-03"
+  weight: 3
+  kind: ereignis
+  summary: Über 500 liberale und demokratische Politiker, meist Mitglieder deutscher Landtage, beschließen in Frankfurt Wahlen zu einer deutschen Nationalversammlung; der Antrag der Radikalen, sich zum permanenten Revolutionsorgan zu erklären, scheitert.
+  regions: [deutschland]
+  themes: [politik, verfassung-recht]
+  places: [frankfurt, paulskirche]
+  polities: [deutscher-bund]
+- id: heckerzug
+  title: Heckerzug
+  aliases: [Heckeraufstand, Gefecht auf der Scheideck]
+  start: "1848-04-12"
+  end: "1848-04-20"
+  weight: 3
+  kind: revolution
+  summary: Friedrich Hecker ruft in Konstanz zum bewaffneten Zug für eine deutsche Republik auf; die wenigen tausend Freischärler werden am 20. April bei Kandern von Bundestruppen geschlagen, deren Befehlshaber Friedrich von Gagern im Gefecht fällt.
+  regions: [deutschland]
+  themes: [revolutionen, krieg-militaer]
+  places: [konstanz]
+  persons: [friedrich-hecker, gustav-struve]
+  polities: [grossherzogtum-baden]
+- id: abschaffung-sklaverei-frankreich-1848
+  title: Endgültige Abolition in den französischen Kolonien 1848
+  date: "1848-04-27"
+  weight: 2
+  kind: gesetz
+  summary: Auf Betreiben Victor Schœlchers schafft die Provisorische Regierung der Zweiten Republik die Sklaverei in allen französischen Kolonien ab; rund eine Viertelmillion Menschen auf Martinique, Guadeloupe, Réunion, in Französisch-Guayana und Senegal werden frei, die Eigentümer erhalten eine Entschädigung.
+  regions: [frankreich, karibik, westafrika, indischer-ozean]
+  themes: [sklaverei-unfreiheit, verfassung-recht]
+  places: [paris]
+  persons: [victor-schoelcher]
+  polities: [zweite-franzoesische-republik]
+- id: frankfurter-nationalversammlung
+  title: Frankfurter Nationalversammlung
+  aliases: [Paulskirchenparlament, Deutsche Nationalversammlung, Rumpfparlament]
+  start: "1848-05-18"
+  end: "1849-06-18"
+  dateNote: Nach dem Auszug der österreichischen, preußischen und vieler anderer Abgeordneter tagte ein Rumpfparlament ab dem 6. Juni 1849 in Stuttgart, bis württembergisches Militär es am 18. Juni auflöste.
+  weight: 1
+  kind: ereignis
+  summary: Erste aus allgemeinen, wenn auch je nach Staat unterschiedlich geregelten Männerwahlen hervorgegangene gesamtdeutsche Volksvertretung; sie tagt in der Frankfurter Paulskirche, wählt einen Reichsverweser, beschließt Grundrechte und eine Reichsverfassung, kann diese aber gegen die Fürsten nicht durchsetzen.
+  regions: [deutschland, mitteleuropa]
+  themes: [politik, verfassung-recht, revolutionen]
+  places: [paulskirche, frankfurt]
+  persons: [heinrich-von-gagern, eduard-simson, robert-blum, erzherzog-johann, gabriel-riesser]
+  polities: [deutscher-bund]
+- id: slawenkongress
+  title: Slawenkongress in Prag
+  start: "1848-06-02"
+  end: "1848-06-12"
+  weight: 3
+  kind: ereignis
+  summary: Mehrere hundert Vertreter slawischer Völker vor allem der Habsburgermonarchie beraten unter dem Vorsitz František Palackýs über ihre Stellung; die Mehrheit fordert einen Umbau Österreichs zu einem Bund gleichberechtigter Nationen statt eines Anschlusses an ein deutsches Reich.
+  regions: [mitteleuropa, osteuropa]
+  themes: [politik]
+  places: [prag]
+  persons: [frantisek-palacky]
+  polities: [habsburgermonarchie]
+- id: prager-pfingstaufstand
+  title: Prager Pfingstaufstand
+  start: "1848-06-12"
+  end: "1848-06-17"
+  weight: 3
+  kind: revolution
+  summary: Ein Aufstand tschechischer Studenten und Arbeiter gegen das Militär endet nach der Beschießung der Stadt durch Truppen des Fürsten Windischgrätz mit der Kapitulation; der Slawenkongress wird aufgelöst. Es ist der erste große Sieg der Gegenrevolution in Mitteleuropa.
+  regions: [mitteleuropa]
+  themes: [revolutionen, krieg-militaer]
+  places: [prag]
+  persons: [alfred-zu-windischgraetz]
+  polities: [habsburgermonarchie]
+- id: junischlacht-1848
+  title: Juniaufstand in Paris
+  aliases: [Junischlacht, Journées de Juin]
+  start: "1848-06-23"
+  end: "1848-06-26"
+  weight: 2
+  kind: revolution
+  summary: Die Schließung der Nationalwerkstätten, die Arbeitslose beschäftigt hatten, treibt Pariser Arbeiter auf die Barrikaden. General Cavaignac schlägt den Aufstand mit Armee und Nationalgarde nieder; Tausende sterben, Tausende werden verhaftet und viele nach Algerien deportiert. Der Bruch zwischen bürgerlicher Republik und Arbeiterschaft prägt die Wahrnehmung der Revolution in ganz Europa.
+  regions: [frankreich]
+  themes: [revolutionen, gesellschaft, gewalt-genozid]
+  places: [paris]
+  polities: [zweite-franzoesische-republik]
+- id: schlacht-bei-custozza-1848
+  title: Schlacht bei Custozza
+  start: "1848-07-23"
+  end: "1848-07-25"
+  weight: 3
+  kind: schlacht
+  summary: Feldmarschall Radetzky besiegt die Armee Sardinien-Piemonts südwestlich von Verona; Österreich gewinnt Mailand und die Lombardei zurück, ein Waffenstillstand folgt im August.
+  regions: [italien]
+  themes: [krieg-militaer]
+  persons: [joseph-radetzky, karl-albert-sardinien]
+  polities: [habsburgermonarchie, koenigreich-sardinien]
+- id: bauernbefreiung-oesterreich-1848
+  title: Grundentlastung in Österreich
+  aliases: [Bauernbefreiung 1848, Aufhebung der Untertänigkeit]
+  date: "1848-09-07"
+  weight: 3
+  kind: gesetz
+  summary: Auf Antrag des schlesischen Abgeordneten Hans Kudlich hebt der österreichische Reichstag Untertänigkeit, Robot und grundherrliche Lasten auf, teils gegen Entschädigung der Grundherren – eine der dauerhaftesten Errungenschaften der Revolution, die auch die neoabsolutistische Regierung nicht zurücknahm.
+  regions: [mitteleuropa]
+  themes: [landwirtschaft, sklaverei-unfreiheit, gesellschaft]
+  places: [wien]
+  polities: [habsburgermonarchie]
+- id: septemberunruhen-frankfurt-1848
+  title: Septemberaufstand in Frankfurt
+  date: "1848-09-18"
+  weight: 3
+  kind: revolution
+  summary: Nachdem die Nationalversammlung den von Preußen eigenmächtig geschlossenen Waffenstillstand von Malmö mit Dänemark hingenommen hat, kommt es in Frankfurt zu Barrikadenkämpfen; zwei konservative Abgeordnete werden ermordet, preußische und österreichische Truppen schlagen den Aufstand nieder. Das Parlament ist fortan auf den Schutz der Fürsten angewiesen.
+  regions: [deutschland]
+  themes: [revolutionen, politik]
+  places: [frankfurt, paulskirche]
+  polities: [deutscher-bund, koenigreich-preussen]
+- id: wiener-oktoberaufstand
+  title: Wiener Oktoberaufstand
+  start: "1848-10-06"
+  end: "1848-10-31"
+  weight: 2
+  kind: revolution
+  summary: Um den Abmarsch von Truppen gegen Ungarn zu verhindern, erheben sich Wiener Arbeiter, Studenten und Nationalgardisten; Kriegsminister Latour wird gelyncht, der Hof flieht nach Olmütz. Truppen unter Windischgrätz und Jelačić belagern und erobern die Stadt; die Zahl der Toten wird sehr unterschiedlich, meist auf über 2.000, geschätzt.
+  regions: [mitteleuropa]
+  themes: [revolutionen, krieg-militaer]
+  places: [wien, olmuetz]
+  persons: [alfred-zu-windischgraetz, josip-jelacic, robert-blum]
+  polities: [habsburgermonarchie]
+- id: hinrichtung-robert-blum
+  title: Hinrichtung Robert Blums
+  date: "1848-11-09"
+  weight: 3
+  kind: ereignis
+  summary: Der Frankfurter Abgeordnete Robert Blum, der im belagerten Wien mitgekämpft hatte, wird trotz parlamentarischer Immunität von einem Standgericht verurteilt und in der Brigittenau erschossen – ein demonstrativer Schlag der Gegenrevolution gegen das Frankfurter Parlament.
+  regions: [mitteleuropa, deutschland]
+  themes: [politik, gewalt-genozid]
+  places: [wien]
+  persons: [robert-blum, alfred-zu-windischgraetz]
+  polities: [habsburgermonarchie]
+- id: gegenrevolution-preussen-1848
+  title: Staatsstreich in Preußen und oktroyierte Verfassung
+  start: "1848-11-09"
+  end: "1848-12-05"
+  weight: 3
+  kind: gesetz
+  summary: Friedrich Wilhelm IV. verlegt die preußische Nationalversammlung, lässt Berlin am 10. November von General Wrangel besetzen und den Belagerungszustand verhängen; am 5. Dezember löst er die Versammlung auf und erlässt aus eigener Machtvollkommenheit eine Verfassung, die 1849 durch das Dreiklassenwahlrecht ergänzt wird.
+  regions: [deutschland]
+  themes: [verfassung-recht, politik]
+  places: [berlin]
+  persons: [friedrich-wilhelm-iv]
+  polities: [koenigreich-preussen]
+- id: thronwechsel-oesterreich-1848
+  title: Thronwechsel in Olmütz
+  date: "1848-12-02"
+  weight: 3
+  kind: herrschaft
+  summary: Kaiser Ferdinand I. dankt zugunsten seines 18-jährigen Neffen Franz Joseph ab, der nicht an die Zusagen seines Vorgängers gebunden sein soll; im März 1849 lässt die Regierung Schwarzenberg den Reichstag in Kremsier auflösen und oktroyiert eine Verfassung für den Gesamtstaat.
+  regions: [mitteleuropa]
+  themes: [politik]
+  places: [olmuetz, kremsier]
+  persons: [ferdinand-i-oesterreich, franz-joseph-i, felix-zu-schwarzenberg]
+  polities: [habsburgermonarchie]
+- id: praesidentenwahl-frankreich-1848
+  title: Präsidentenwahl in Frankreich
+  date: "1848-12-10"
+  weight: 3
+  kind: ereignis
+  summary: Bei der ersten Präsidentenwahl nach allgemeinem Männerwahlrecht siegt Louis-Napoléon Bonaparte, ein Neffe Napoleons I., mit rund drei Vierteln der Stimmen, getragen vor allem von der Landbevölkerung; General Cavaignac und Lamartine unterliegen deutlich.
+  regions: [frankreich]
+  themes: [politik]
+  persons: [napoleon-iii, alphonse-de-lamartine]
+  polities: [zweite-franzoesische-republik]
+- id: grundrechte-des-deutschen-volkes
+  title: Grundrechte des deutschen Volkes
+  date: "1848-12-27"
+  weight: 2
+  kind: gesetz
+  summary: Die Nationalversammlung verkündet als Reichsgesetz einen Katalog von Grundrechten – Gleichheit vor dem Gesetz, Aufhebung der Standesvorrechte des Adels, Freiheit der Person, Presse-, Glaubens-, Versammlungs- und Vereinsfreiheit, Abschaffung der Todesstrafe außer im Kriegsrecht; mehrere große Staaten, darunter Preußen und Österreich, verweigern die Einführung, der Deutsche Bund hebt sie 1851 auf.
+  regions: [deutschland]
+  themes: [verfassung-recht]
+  places: [paulskirche]
+  polities: [deutscher-bund]
+- id: reichsverfassung-1849
+  title: Reichsverfassung der Paulskirche
+  aliases: [Paulskirchenverfassung, Frankfurter Reichsverfassung]
+  date: "1849-03-28"
+  weight: 1
+  kind: gesetz
+  summary: Die Nationalversammlung verabschiedet eine Verfassung für einen deutschen Bundesstaat ohne die nichtdeutschen Gebiete Österreichs – mit einem erblichen Kaiser, einem Reichstag aus Volks- und Staatenhaus, allgemeinem Männerwahlrecht für das Volkshaus und den Grundrechten; am selben Tag wählt sie den preußischen König zum Kaiser. Die Verfassung tritt nie in Kraft, wird aber Vorbild für die Weimarer Reichsverfassung und das Grundgesetz.
+  regions: [deutschland]
+  themes: [verfassung-recht, politik]
+  places: [paulskirche]
+  persons: [heinrich-von-gagern, eduard-simson, friedrich-wilhelm-iv]
+  polities: [deutscher-bund]
+- id: schlacht-bei-novara
+  title: Schlacht bei Novara
+  date: "1849-03-23"
+  weight: 3
+  kind: schlacht
+  summary: Radetzkys Armee besiegt Sardinien-Piemont, das den Krieg gegen Österreich wiederaufgenommen hatte; König Karl Albert dankt noch am Abend zugunsten Viktor Emanuels II. ab.
+  regions: [italien]
+  themes: [krieg-militaer]
+  persons: [joseph-radetzky, karl-albert-sardinien]
+  polities: [habsburgermonarchie, koenigreich-sardinien]
+- id: ablehnung-der-kaiserkrone
+  title: Ablehnung der Kaiserkrone
+  aliases: [Kaiserdeputation]
+  start: "1849-04-03"
+  end: "1849-04-28"
+  weight: 2
+  kind: ereignis
+  summary: Friedrich Wilhelm IV. empfängt am 3. April 1849 die Kaiserdeputation der Nationalversammlung unter Eduard Simson und antwortet ausweichend, er könne die Krone nur mit Zustimmung der Fürsten annehmen; am 28. April lehnt Preußen die Krone und die Reichsverfassung endgültig ab, obwohl 28 kleinere und mittlere Staaten sie angenommen haben.
+  regions: [deutschland]
+  themes: [politik, verfassung-recht]
+  places: [berlin]
+  persons: [friedrich-wilhelm-iv, eduard-simson]
+  polities: [koenigreich-preussen]
+- id: ungarische-unabhaengigkeitserklaerung
+  title: Ungarische Unabhängigkeitserklärung
+  date: "1849-04-14"
+  weight: 3
+  kind: ereignis
+  summary: Das nach Debrecen ausgewichene ungarische Parlament erklärt das Haus Habsburg-Lothringen für abgesetzt und wählt Lajos Kossuth zum Regenten-Präsidenten; der junge Kaiser Franz Joseph bittet daraufhin den Zaren um militärische Hilfe.
+  regions: [mitteleuropa]
+  themes: [politik, revolutionen]
+  places: [debrecen]
+  persons: [lajos-kossuth, franz-joseph-i]
+  polities: [habsburgermonarchie]
+- id: reichsverfassungskampagne
+  title: Reichsverfassungskampagne
+  start: "1849-05"
+  end: "1849-07-23"
+  weight: 2
+  kind: revolution
+  summary: Volksvereine, Bürgerwehren und Teile des Militärs versuchen, die Reichsverfassung gegen die Fürsten durchzusetzen; es kommt zu Aufständen in Sachsen, im Rheinland und in Westfalen, in der bayerischen Pfalz und in Baden. Preußische Truppen und Bundestruppen schlagen die Bewegung bis Juli 1849 nieder.
+  regions: [deutschland]
+  themes: [revolutionen, krieg-militaer, verfassung-recht]
+  places: [dresden, rastatt]
+  persons: [carl-schurz, mathilde-franziska-anneke, gustav-struve]
+  polities: [koenigreich-preussen, grossherzogtum-baden]
+- id: dresdner-maiaufstand
+  title: Dresdner Maiaufstand
+  start: "1849-05-03"
+  end: "1849-05-09"
+  weight: 3
+  kind: revolution
+  summary: Als der sächsische König die Reichsverfassung ablehnt und den Landtag auflöst, erheben sich Dresdner Bürger und Arbeiter; unter den Beteiligten sind der Hofkapellmeister Richard Wagner, der Architekt Gottfried Semper und der russische Anarchist Michail Bakunin. Sächsische und preußische Truppen schlagen den Aufstand nieder.
+  regions: [deutschland]
+  themes: [revolutionen]
+  places: [dresden]
+  polities: [koenigreich-preussen]
+- id: kapitulation-rastatt
+  title: Kapitulation der Festung Rastatt
+  date: "1849-07-23"
+  weight: 2
+  kind: ereignis
+  summary: Nach dreiwöchiger Belagerung durch preußische Truppen ergibt sich die von badischen Revolutionstruppen gehaltene Festung Rastatt; Standgerichte verurteilen zahlreiche Revolutionäre zum Tod. Mit der Kapitulation endet die Revolution in Deutschland, Tausende Badener fliehen in die Schweiz und nach Amerika.
+  regions: [deutschland]
+  themes: [krieg-militaer, revolutionen, migration]
+  places: [rastatt]
+  persons: [carl-schurz]
+  polities: [grossherzogtum-baden, koenigreich-preussen]
+- id: kapitulation-vilagos
+  title: Kapitulation von Világos
+  date: "1849-08-13"
+  weight: 2
+  kind: ereignis
+  summary: Die ungarische Hauptarmee unter Artúr Görgei streckt vor der russischen Interventionsarmee die Waffen. Kossuth flieht ins Osmanische Reich; am 6. Oktober 1849 lässt die österreichische Militärjustiz in Arad dreizehn Generäle und in Pest den früheren Ministerpräsidenten Batthyány hinrichten.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [vilagos]
+  persons: [artur-goergei, lajos-kossuth, lajos-batthyany, nikolaus-i]
+  polities: [habsburgermonarchie, russisches-kaiserreich]
+- id: emanzipation-daenisch-westindien
+  title: Sklavenbefreiung in Dänisch-Westindien
+  date: "1848-07-03"
+  weight: 3
+  kind: gesetz
+  summary: Nach einem Aufstand versklavter Menschen auf der Insel St. Croix verkündet Generalgouverneur Peter von Scholten eigenmächtig die sofortige Freiheit aller Unfreien in der dänischen Karibikkolonie – ein Beispiel dafür, dass 1848 auch jenseits Europas Freiheit erkämpft wurde.
+  regions: [karibik, nordeuropa]
+  themes: [sklaverei-unfreiheit, revolutionen]

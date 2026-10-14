@@ -1,0 +1,166 @@
+# Quellen und Literatur: Der Dreißigjährige Krieg und der Westfälische Frieden
+
+# --- Primärquellen und Editionen ---
+- id: q-instrumentum-pacis-osnabrugense
+  kind: primaer
+  title: Instrumentum Pacis Osnabrugense
+  subtitle: Friedensvertrag zwischen Kaiser und Reich und der Krone Schweden
+  written: Osnabrück ausgehandelt, unterzeichnet in Münster am 24. Oktober 1648
+  note: Lateinischer Friedensvertrag (IPO) zwischen Kaiser Ferdinand III., den Reichsständen und Schweden, der unter anderem die Religionsverhältnisse im Reich, das Normaljahr 1624 und die schwedischen Gebietsgewinne regelte.
+- id: q-instrumentum-pacis-monasteriense
+  kind: primaer
+  title: Instrumentum Pacis Monasteriense
+  subtitle: Friedensvertrag zwischen Kaiser und Reich und der Krone Frankreich
+  written: Münster, 24. Oktober 1648
+  note: Lateinischer Friedensvertrag (IPM) zwischen dem Kaiser, den Reichsständen und Frankreich, der Frankreich die Bistümer Metz, Toul und Verdun bestätigte und ihm habsburgische Rechte im Elsass übertrug.
+- id: q-restitutionsedikt-1629
+  kind: primaer
+  authors: ["Ferdinand II."]
+  title: Restitutionsedikt
+  written: Wien, 6. März 1629
+  note: Kaiserlicher Erlass, der die Rückgabe aller seit dem Passauer Vertrag von 1552 von Protestanten eingezogenen geistlichen Güter an die katholische Kirche anordnete.
+- id: q-prager-frieden-1635
+  kind: primaer
+  title: Prager Frieden
+  written: Prag, 30. Mai 1635
+  note: Friedensvertrag zwischen Kaiser Ferdinand II. und Kurfürst Johann Georg I. von Sachsen, dem sich fast alle Reichsstände anschlossen; er setzte das Restitutionsedikt faktisch aus und verbot Sonderbündnisse.
+- id: q-grimmelshausen-simplicissimus
+  kind: primaer
+  authors: ["Grimmelshausen, Hans Jakob Christoffel von"]
+  title: Der Abentheurliche Simplicissimus Teutsch
+  written: Nürnberg, erschienen 1668 (Titelblatt 1669)
+  note: Roman in Ich-Form über einen Jungen, der im Krieg aufwächst; literarische Verarbeitung von Gewalterfahrungen durch einen Autor, der selbst als Kind in den Krieg geriet und als Soldat und Regimentsschreiber diente.
+- id: q-gryphius-thraenen
+  kind: primaer
+  authors: ["Gryphius, Andreas"]
+  title: Thränen des Vatterlandes. Anno 1636
+  written: Sonett, erstmals gedruckt 1637, später überarbeitet
+  note: Berühmtes Barocksonett über die Verwüstung Deutschlands durch Krieg, Brand, Seuchen und Hunger.
+- id: peters-1993
+  kind: edition
+  editors: ["Peters, Jan"]
+  title: Ein Söldnerleben im Dreißigjährigen Krieg
+  subtitle: Eine Quelle zur Sozialgeschichte
+  place: Berlin
+  publisher: Akademie Verlag
+  year: 1993
+  note: Edition des Tagebuchs eines einfachen Söldners, der von 1625 bis 1649 in bayerischen, kaiserlichen und schwedischen Diensten stand; der Verfasser wurde später als Peter Hagendorf identifiziert.
+- id: acta-pacis-westphalicae
+  kind: edition
+  editors: ["Braubach, Max", "Repgen, Konrad"]
+  title: Acta Pacis Westphalicae
+  place: Münster
+  publisher: Aschendorff
+  year: 1962 ff.
+  note: Große Edition der Verhandlungsakten, Korrespondenzen und Protokolle des Westfälischen Friedenskongresses, herausgegeben von der Vereinigung zur Erforschung der Neueren Geschichte.
+
+# --- Forschung ---
+- id: wilson-2009
+  kind: sekundaer
+  authors: ["Wilson, Peter H."]
+  title: Europe's Tragedy
+  subtitle: A History of the Thirty Years War
+  place: London
+  publisher: Allen Lane
+  year: 2009
+- id: schmidt-2018
+  kind: sekundaer
+  authors: ["Schmidt, Georg"]
+  title: Die Reiter der Apokalypse
+  subtitle: Geschichte des Dreißigjährigen Krieges
+  place: München
+  publisher: C.H. Beck
+  year: 2018
+- id: burkhardt-1992
+  kind: sekundaer
+  authors: ["Burkhardt, Johannes"]
+  title: Der Dreißigjährige Krieg
+  place: Frankfurt am Main
+  publisher: Suhrkamp
+  year: 1992
+- id: burkhardt-2018
+  kind: sekundaer
+  authors: ["Burkhardt, Johannes"]
+  title: Der Krieg der Kriege
+  subtitle: Eine neue Geschichte des Dreißigjährigen Krieges
+  place: Stuttgart
+  publisher: Klett-Cotta
+  year: 2018
+- id: muenkler-2017
+  kind: sekundaer
+  authors: ["Münkler, Herfried"]
+  title: Der Dreißigjährige Krieg
+  subtitle: Europäische Katastrophe, deutsches Trauma 1618–1648
+  place: Berlin
+  publisher: Rowohlt Berlin
+  year: 2017
+- id: kampmann-2008
+  kind: sekundaer
+  authors: ["Kampmann, Christoph"]
+  title: Europa und das Reich im Dreißigjährigen Krieg
+  subtitle: Geschichte eines europäischen Konflikts
+  place: Stuttgart
+  publisher: Kohlhammer
+  year: 2008
+- id: parker-2013
+  kind: sekundaer
+  authors: ["Parker, Geoffrey"]
+  title: Global Crisis
+  subtitle: War, Climate Change and Catastrophe in the Seventeenth Century
+  place: New Haven / London
+  publisher: Yale University Press
+  year: 2013
+- id: parker-1984
+  kind: sekundaer
+  editors: ["Parker, Geoffrey"]
+  title: The Thirty Years' War
+  place: London
+  publisher: Routledge & Kegan Paul
+  year: 1984
+- id: medick-2018
+  kind: sekundaer
+  authors: ["Medick, Hans"]
+  title: Der Dreißigjährige Krieg
+  subtitle: Zeugnisse vom Leben mit Gewalt
+  place: Göttingen
+  publisher: Wallstein
+  year: 2018
+- id: mann-1971
+  kind: sekundaer
+  authors: ["Mann, Golo"]
+  title: Wallenstein
+  place: Frankfurt am Main
+  publisher: S. Fischer
+  year: 1971
+- id: franz-1940
+  kind: sekundaer
+  authors: ["Franz, Günther"]
+  title: Der Dreißigjährige Krieg und das deutsche Volk
+  subtitle: Untersuchungen zur Bevölkerungs- und Agrargeschichte
+  place: Jena
+  publisher: Gustav Fischer
+  year: 1940
+  note: Mehrfach neu aufgelegt, zuletzt in 4. Auflage Stuttgart 1979; trotz methodischer Kritik und der NS-Belastung des Autors lange die maßgebliche Schätzung der Bevölkerungsverluste.
+- id: dickmann-1959
+  kind: sekundaer
+  authors: ["Dickmann, Fritz"]
+  title: Der Westfälische Frieden
+  place: Münster
+  publisher: Aschendorff
+  year: 1959
+- id: gross-1948
+  kind: sekundaer
+  authors: ["Gross, Leo"]
+  title: The Peace of Westphalia, 1648–1948
+  container: American Journal of International Law
+  volume: "42"
+  year: 1948
+  pages: 20–41
+- id: osiander-2001
+  kind: sekundaer
+  authors: ["Osiander, Andreas"]
+  title: Sovereignty, International Relations, and the Westphalian Myth
+  container: International Organization
+  volume: "55"
+  year: 2001
+  pages: 251–287

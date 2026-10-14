@@ -1,0 +1,120 @@
+# Orte: Die Opiumkriege (r14-opium)
+- id: humen
+  name: Humen
+  aliases: [Bocca Tigris, Bogue, Tigermund]
+  coords: [113.6700, 22.8200]
+  location: ungefaehr
+  categories: [hafen, schlachtfeld]
+  modernName: Humen, Dongguan (Provinz Guangdong, China)
+  summary: Befestigte Engstelle an der Mündung des Perlflusses, an der Lin Zexu im Juni 1839 rund 20.000 Kisten Opium vernichten ließ; um die Forts wurde in beiden Opiumkriegen gekämpft, 1843 wurde hier ein Zusatzvertrag zum Vertrag von Nanjing geschlossen.
+  regions: [china]
+  themes: [krieg-militaer, handelsnetze]
+- id: peking
+  name: Peking
+  aliases: [Beijing, Peking (Beijing)]
+  coords: [116.4074, 39.9042]
+  categories: [stadt, hauptstadt]
+  modernName: Peking (China)
+  summary: Hauptstadt der Ming- und Qing-Kaiser; im Oktober 1860 von britischen und französischen Truppen besetzt, die hier die Konventionen von Peking erzwangen; seit 1949 Hauptstadt der Volksrepublik China.
+  regions: [china]
+  themes: [politik, imperien]
+- id: shanghai
+  name: Shanghai
+  coords: [121.4737, 31.2304]
+  categories: [stadt, hafen]
+  modernName: Shanghai (China)
+  summary: Kreisstadt an der Mündung des Huangpu in den Yangzi, 1842 als einer der fünf Vertragshäfen geöffnet; mit seinen ausländischen Niederlassungen wurde es im späten 19. Jahrhundert zur größten Handelsstadt Chinas.
+  regions: [china]
+  themes: [handelsnetze, imperien]
+- id: xiamen
+  name: Xiamen
+  aliases: [Amoy]
+  coords: [118.0894, 24.4798]
+  categories: [stadt, hafen]
+  modernName: Xiamen (Provinz Fujian, China)
+  summary: Hafenstadt in Fujian, 1841 von britischen Truppen eingenommen und 1842 als Vertragshafen geöffnet.
+  regions: [china]
+  themes: [handelsnetze]
+- id: fuzhou
+  name: Fuzhou
+  aliases: [Foochow]
+  coords: [119.2965, 26.0745]
+  categories: [stadt, hafen]
+  modernName: Fuzhou (Provinz Fujian, China)
+  summary: Hauptstadt der Provinz Fujian und Heimatstadt Lin Zexus, 1842 als Vertragshafen geöffnet; später wichtiger Ausfuhrhafen für Tee.
+  regions: [china]
+  themes: [handelsnetze]
+- id: ningbo
+  name: Ningbo
+  aliases: [Ningpo]
+  coords: [121.5440, 29.8683]
+  categories: [stadt, hafen]
+  modernName: Ningbo (Provinz Zhejiang, China)
+  summary: Alte Handelsstadt in Zhejiang, 1841 von britischen Truppen besetzt und 1842 als Vertragshafen geöffnet.
+  regions: [china]
+  themes: [handelsnetze]
+- id: zhenjiang
+  name: Zhenjiang
+  aliases: [Chinkiang]
+  coords: [119.4250, 32.1880]
+  categories: [stadt, hafen, schlachtfeld]
+  modernName: Zhenjiang (Provinz Jiangsu, China)
+  summary: Stadt am Kreuzungspunkt von Yangzi und Kaiserkanal, deren mandschurische Bannergarnison im Juli 1842 erbitterten Widerstand leistete; ihr Fall öffnete den Briten den Weg nach Nanjing.
+  regions: [china]
+  themes: [krieg-militaer]
+- id: tianjin
+  name: Tianjin
+  aliases: [Tientsin]
+  coords: [117.2010, 39.0842]
+  categories: [stadt, hafen]
+  modernName: Tianjin (China)
+  summary: Hafenstadt am Kaiserkanal und Zugang Pekings zum Meer, in der 1858 die Verträge von Tianjin unterzeichnet wurden; 1860 als Vertragshafen geöffnet.
+  regions: [china]
+  themes: [handelsnetze, politik]
+- id: dagu
+  name: Dagu-Forts
+  aliases: [Taku-Forts, Dagu]
+  coords: [117.7100, 38.9700]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Tanggu, Binhai (Tianjin, China)
+  summary: Befestigungen an der Mündung des Hai-Flusses, die den Zugang nach Tianjin und Peking deckten; 1858 und 1860 von britisch-französischen Truppen erobert, 1859 erfolgreich verteidigt.
+  regions: [china]
+  themes: [krieg-militaer]
+- id: baliqiao
+  name: Baliqiao
+  aliases: [Palikao, Brücke von Baliqiao]
+  coords: [116.6700, 39.9200]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Tongzhou, Peking (China)
+  summary: Steinbrücke über einen Kanal östlich von Peking, an der britisch-französische Truppen am 21. September 1860 das Heer Sengge Rinchens schlugen.
+  regions: [china]
+  themes: [krieg-militaer]
+- id: kowloon
+  name: Kowloon
+  aliases: [Jiulong, Kaulun]
+  coords: [114.1830, 22.3190]
+  categories: [stadt, hafen]
+  modernName: Kowloon, Hongkong (China)
+  summary: Halbinsel gegenüber der Insel Hongkong, deren Südspitze China 1860 in der Konvention von Peking an Großbritannien abtrat.
+  regions: [china]
+  themes: [imperien]
+- id: lintin
+  name: Lintin
+  aliases: [Neilingding, Lingding]
+  coords: [113.7900, 22.4200]
+  location: ungefaehr
+  categories: [hafen]
+  modernName: Neilingding-Insel, Shenzhen (China)
+  summary: Insel in der Perlflussmündung, vor der in den 1820er und 1830er Jahren Lagerschiffe ausländischer Händler ankerten, von denen aus chinesische Schmuggler das Opium an Land brachten.
+  regions: [china]
+  themes: [handelsnetze]
+- id: patna
+  name: Patna
+  coords: [85.1376, 25.5941]
+  categories: [stadt]
+  modernName: Patna (Bihar, Indien)
+  summary: Stadt am Ganges, Sitz einer der beiden Opiumagenturen der britischen Ostindien-Kompanie in Bengalen, die den Mohnanbau überwachte und das Opium für den Export nach China verarbeiten ließ.
+  regions: [suedasien]
+  themes: [wirtschaft-handel]

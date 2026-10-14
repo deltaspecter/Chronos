@@ -1,0 +1,47 @@
+# Staaten: Die deutsche Reichsgründung 1871
+- id: zweites-franzoesisches-kaiserreich
+  name: Zweites Französisches Kaiserreich
+  aliases: [Second Empire, Second Empire français, Zweites Kaiserreich]
+  start: "1852-12-02"
+  end: "1870-09-04"
+  capital: paris
+  summary: Monarchie Napoleons III., der sich ein Jahr nach seinem Staatsstreich durch Volksabstimmung zum Kaiser machen ließ; endete nach der Niederlage von Sedan mit der Ausrufung der Republik in Paris.
+  regions: [frankreich]
+  themes: [politik, imperien]
+  predecessors: [zweite-franzoesische-republik]
+  successors: [dritte-franzoesische-republik]
+  weight: 2
+- id: dritte-franzoesische-republik
+  name: Dritte Französische Republik
+  aliases: [Troisième République, Dritte Republik]
+  start: "1870-09-04"
+  end: "1940-07-10"
+  spanNote: Am 4. September 1870 ausgerufen; ihre Verfassungsgesetze stammen erst von 1875. Sie endete, als die Nationalversammlung nach der Niederlage gegen Deutschland Marschall Pétain Vollmachten erteilte.
+  capital: paris
+  summary: Nach dem Sturz Napoleons III. ausgerufene Republik, die 1871 den Frieden mit Deutschland schloss, die Pariser Kommune niederschlug und zur langlebigsten Staatsform Frankreichs seit 1789 wurde.
+  regions: [frankreich]
+  themes: [politik]
+  predecessors: [zweites-franzoesisches-kaiserreich]
+  weight: 2
+- id: elsass-lothringen
+  name: Reichsland Elsass-Lothringen
+  aliases: [Elsaß-Lothringen, Alsace-Lorraine, Reichsland]
+  start: "1871-05-10"
+  end: "1918-11"
+  spanNote: Abgetreten im Frankfurter Frieden vom 10. Mai 1871; im November 1918 von französischen Truppen besetzt, im Versailler Vertrag 1919 an Frankreich zurückgegeben.
+  capital: strassburg
+  summary: Aus dem Elsass (ohne Belfort) und dem Nordosten Lothringens gebildetes Gebiet, das kein eigener Bundesstaat war, sondern als Reichsland unmittelbar dem Reich unterstand; erhielt erst 1911 eine eigene Verfassung mit Landtag.
+  regions: [frankreich, deutschland, westeuropa]
+  themes: [politik]
+  weight: 3
+- id: koenigreich-bayern
+  name: Königreich Bayern
+  aliases: [Bayern]
+  start: "1806-01-01"
+  end: "1918-11-08"
+  spanNote: Von der Erhebung zum Königreich unter Napoleons Schutz bis zur Ausrufung des Freistaats durch Kurt Eisner; ab 1871 Bundesstaat des Deutschen Reichs mit Sonderrechten.
+  capital: muenchen
+  summary: Zweitgrößter deutscher Staat nach Preußen, der 1866 an der Seite Österreichs unterlag und 1870 gegen erhebliche Vorbehalte im eigenen Land dem Reich beitrat; behielt unter anderem ein eigenes Heer im Frieden, Post und Eisenbahn.
+  regions: [deutschland]
+  themes: [politik]
+  weight: 3

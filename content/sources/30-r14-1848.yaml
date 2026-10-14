@@ -1,0 +1,174 @@
+# Quellen und Literatur: Die Revolutionen von 1848/49
+
+# --- Forschung ---
+- id: siemann-1985
+  kind: sekundaer
+  authors: ["Siemann, Wolfram"]
+  title: Die deutsche Revolution von 1848/49
+  series: Neue Historische Bibliothek
+  place: Frankfurt am Main
+  publisher: Suhrkamp
+  year: 1985
+- id: langewiesche-1985
+  kind: sekundaer
+  authors: ["Langewiesche, Dieter"]
+  title: Europa zwischen Restauration und Revolution 1815–1849
+  series: Oldenbourg Grundriss der Geschichte, Bd. 13
+  place: München
+  publisher: Oldenbourg
+  year: 1985
+- id: wehler-1987
+  kind: sekundaer
+  authors: ["Wehler, Hans-Ulrich"]
+  title: Deutsche Gesellschaftsgeschichte, Band 2
+  subtitle: Von der Reformära bis zur industriellen und politischen „Deutschen Doppelrevolution“ 1815–1845/49
+  place: München
+  publisher: C. H. Beck
+  year: 1987
+- id: hachtmann-1997
+  kind: sekundaer
+  authors: ["Hachtmann, Rüdiger"]
+  title: Berlin 1848
+  subtitle: Eine Politik- und Gesellschaftsgeschichte der Revolution
+  place: Bonn
+  publisher: J. H. W. Dietz Nachf.
+  year: 1997
+- id: mommsen-1998
+  kind: sekundaer
+  authors: ["Mommsen, Wolfgang J."]
+  title: 1848 – Die ungewollte Revolution
+  subtitle: Die revolutionären Bewegungen in Europa 1830–1849
+  place: Frankfurt am Main
+  publisher: S. Fischer
+  year: 1998
+- id: dowe-1998
+  kind: sekundaer
+  editors: ["Dowe, Dieter", "Haupt, Heinz-Gerhard", "Langewiesche, Dieter"]
+  title: Europa 1848
+  subtitle: Revolution und Reform
+  place: Bonn
+  publisher: J. H. W. Dietz Nachf.
+  year: 1998
+- id: sperber-1994
+  kind: sekundaer
+  authors: ["Sperber, Jonathan"]
+  title: The European Revolutions, 1848–1851
+  series: New Approaches to European History
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1994
+  note: Eine erweiterte zweite Auflage erschien 2005.
+- id: clark-2023
+  kind: sekundaer
+  authors: ["Clark, Christopher"]
+  title: Revolutionary Spring
+  subtitle: Fighting for a New World 1848–1849
+  place: London
+  publisher: Allen Lane
+  year: 2023
+  note: Deutsch als „Frühling der Revolution. Europa 1848/49 und der Kampf für eine neue Welt“, München 2023.
+- id: deak-1979
+  kind: sekundaer
+  authors: ["Deák, István"]
+  title: The Lawful Revolution
+  subtitle: Louis Kossuth and the Hungarians, 1848–1849
+  place: New York
+  publisher: Columbia University Press
+  year: 1979
+- id: hobsbawm-1975
+  kind: sekundaer
+  authors: ["Hobsbawm, Eric J."]
+  title: The Age of Capital
+  subtitle: 1848–1875
+  place: London
+  publisher: Weidenfeld & Nicolson
+  year: 1975
+- id: taylor-1945
+  kind: sekundaer
+  authors: ["Taylor, A. J. P."]
+  title: The Course of German History
+  subtitle: A Survey of the Development of Germany since 1815
+  place: London
+  publisher: Hamish Hamilton
+  year: 1945
+
+# --- Edition ---
+- id: huber-1961
+  kind: edition
+  editors: ["Huber, Ernst Rudolf"]
+  title: Dokumente zur deutschen Verfassungsgeschichte, Band 1
+  subtitle: Deutsche Verfassungsdokumente 1803–1850
+  place: Stuttgart
+  publisher: Kohlhammer
+  year: 1961
+  note: Enthält u. a. die Grundrechte von 1848 und die Reichsverfassung von 1849; spätere Auflagen 1978 und 1986.
+
+# --- Primärquellen ---
+- id: q-offenburger-programm
+  kind: primaer
+  authors: ["Hecker, Friedrich", "Struve, Gustav"]
+  title: Die Forderungen des Volkes
+  written: Offenburg, 12. September 1847
+  note: Auf einer Versammlung badischer Demokraten beschlossenes Programm, das Pressefreiheit, Volksbewaffnung, Geschworenengerichte, eine gerechte Besteuerung und eine Volksvertretung beim Deutschen Bund forderte.
+- id: q-mannheimer-petition
+  kind: primaer
+  title: Petition der Mannheimer Volksversammlung
+  written: Mannheim, 27. Februar 1848
+  note: Kurz nach der Pariser Februarrevolution verabschiedete Forderung nach Volksbewaffnung, Pressefreiheit, Schwurgerichten und einem deutschen Parlament – das Muster der „Märzforderungen“.
+- id: q-fw4-berliner
+  kind: primaer
+  authors: ["Friedrich Wilhelm IV."]
+  title: An meine lieben Berliner
+  written: Berlin, Nacht vom 18. zum 19. März 1848
+  note: Aufruf des Königs nach den Barrikadenkämpfen, der den Abzug der Truppen in Aussicht stellte, sobald die Barrikaden geräumt seien.
+- id: q-fw4-deutsche-nation
+  kind: primaer
+  authors: ["Friedrich Wilhelm IV."]
+  title: An mein Volk und an die deutsche Nation
+  written: Berlin, 21. März 1848
+  note: Proklamation, in der der König sich an die Spitze der nationalen Bewegung zu stellen versprach und erklärte, Preußen gehe fortan in Deutschland auf.
+- id: q-fw4-bunsen
+  kind: primaer
+  authors: ["Friedrich Wilhelm IV."]
+  title: Brief an Christian Carl Josias von Bunsen
+  written: Dezember 1848
+  note: Privatbrief, in dem der König eine vom Parlament angebotene Kaiserkrone als von der Revolution befleckten „Reif aus Dreck und Letten“ verhöhnte.
+- id: q-palacky-1848
+  kind: primaer
+  authors: ["Palacký, František"]
+  title: Schreiben an den Fünfzigerausschuss in Frankfurt
+  written: Prag, 11. April 1848
+  note: Absage des tschechischen Historikers an die Einladung, an den Vorbereitungen des deutschen Parlaments teilzunehmen; begründet mit der tschechischen Nationalität und dem Wert eines föderalen Österreich für die kleinen Völker Mitteleuropas.
+- id: q-petofi-nemzeti-dal
+  kind: primaer
+  authors: ["Petőfi, Sándor"]
+  title: Nemzeti dal (Nationallied)
+  written: Pest, März 1848
+  note: Am 15. März 1848 in Pest öffentlich vorgetragenes Gedicht, das zum Lied der ungarischen Revolution wurde.
+- id: q-abolitionsdekret-1848
+  kind: primaer
+  title: Dekret der Provisorischen Regierung über die Abschaffung der Sklaverei in den Kolonien
+  written: Paris, 27. April 1848
+  note: Von Victor Schœlcher vorbereitetes Dekret, das die Sklaverei in allen französischen Kolonien und Besitzungen abschaffte.
+- id: q-grundrechte-1848
+  kind: primaer
+  title: Gesetz, betreffend die Grundrechte des deutschen Volkes
+  written: Frankfurt am Main, 27. Dezember 1848
+  note: Von der Nationalversammlung beschlossener und als Reichsgesetz verkündeter Grundrechtskatalog, später Abschnitt VI der Reichsverfassung.
+- id: q-paulskirchenverfassung
+  kind: primaer
+  title: Verfassung des Deutschen Reiches
+  written: Frankfurt am Main, 28. März 1849
+  note: Von der Nationalversammlung beschlossene Reichsverfassung mit Erbkaisertum, Reichstag aus zwei Kammern und Grundrechtskatalog; trat nie in Kraft.
+- id: q-tocqueville-souvenirs
+  kind: primaer
+  authors: ["Tocqueville, Alexis de"]
+  title: Souvenirs
+  written: Frankreich, 1850–1851; veröffentlicht 1893
+  note: Erinnerungen des liberalen Abgeordneten und kurzzeitigen Außenministers an die Februarrevolution und die Junikämpfe in Paris.
+- id: q-schurz-lebenserinnerungen
+  kind: primaer
+  authors: ["Schurz, Carl"]
+  title: Lebenserinnerungen
+  written: USA, erschienen 1906–1912
+  note: Autobiografie eines Bonner Studenten, der 1849 in Baden kämpfte, aus Rastatt entkam und später in den USA Senator und Innenminister wurde.

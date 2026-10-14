@@ -8,9 +8,9 @@ Die App läuft im Browser auf Smartphone, Tablet und Desktop und lässt sich auf
 
 | Bereich | Stand |
 |---|---|
-| **Artikel** | 72 ausführliche Artikel (rund 112.000 Wörter) von der Urgeschichte bis in die 1990er Jahre – mit Afrika, West-, Süd-, Südost- und Ostasien, Europa, den Amerikas und Ozeanien –, darunter eine fünfteilige Reihe zur Römischen Republik |
-| **Wissensnetz** | rund 615 Personen, 505 Orte, 765 Ereignisse, 170 Staaten und Reiche, Kulturen, Begriffe, Routen |
-| **Quellen** | rund 800 Titel, getrennt nach Primärquellen, Editionen, Forschungsliteratur und Institutionen; fast 2.500 Einzelbelege im Text |
+| **Artikel** | 80 ausführliche Artikel (rund 130.000 Wörter) von der Urgeschichte bis in die 1990er Jahre – mit Afrika, West-, Süd-, Südost- und Ostasien, Europa, den Amerikas und Ozeanien –, darunter eine fünfteilige Reihe zur Römischen Republik |
+| **Wissensnetz** | rund 770 Personen, 600 Orte, 920 Ereignisse, 190 Staaten und Reiche, Kulturen, Begriffe, Routen |
+| **Quellen** | rund 990 Titel, getrennt nach Primärquellen, Editionen, Forschungsliteratur und Institutionen; über 3100 Einzelbelege im Text |
 | **Epochen** | 48 regional differenzierte Epochen und Teilbereiche mit Einführungstexten und offen ausgewiesenem Redaktionsplan („Im Aufbau“) |
 | **Zeitleiste** | Spuren nach Weltregionen, umschaltbare Zeitskala, Filter nach Region und Thema, Kennzeichnung unsicherer Datierungen, Listenansicht für Smartphones |
 | **Atlas** | Weltkarte (Natural Earth, offline), Orte nach Kategorien, Routen, fünf schematische Herrschaftsgebiete, Zeitfilter |

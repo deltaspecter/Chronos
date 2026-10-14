@@ -1,0 +1,41 @@
+# Begriffe: Die Opiumkriege (r14-opium)
+- id: cohong
+  name: Cohong
+  aliases: [Gonghang, Hong-Kaufleute, Hong-Händler]
+  definition: Gilde der vom Qing-Staat lizenzierten Kaufleute in Kanton, die im Kanton-System den gesamten Handel mit den Europäern abwickelten, für deren Verhalten bürgten und die Zölle einzogen; 1842 im Vertrag von Nanjing abgeschafft.
+  themes: [handelsnetze, wirtschaft-handel]
+- id: vertragshafen
+  name: Vertragshafen
+  aliases: [Vertragshäfen, Treaty Ports, Treaty Port]
+  definition: Durch Vertrag für den Handel und die Niederlassung von Ausländern geöffnete Hafenstadt in China, Japan oder Korea, in der fremde Konsuln, eigene Viertel und oft ausländisch verwaltete Niederlassungen bestanden; in China ab 1842 fünf, bis zum frühen 20. Jahrhundert mehrere Dutzend.
+  themes: [handelsnetze, imperien]
+- id: exterritorialitaet
+  name: Exterritorialität
+  aliases: [Konsulargerichtsbarkeit, Extraterritorialität]
+  definition: Im Rahmen der ungleichen Verträge das Recht von Ausländern, nicht den Gerichten des Gastlandes, sondern den Konsulargerichten ihres eigenen Staates zu unterstehen; in China ab 1843/44 eingeführt und erst 1943 von Großbritannien und den USA aufgegeben.
+  themes: [verfassung-recht, imperien]
+- id: meistbeguenstigung
+  name: Meistbegünstigung
+  aliases: [Meistbegünstigungsklausel, Most-favoured-nation clause]
+  definition: Vertragsklausel, nach der ein Staat automatisch jedes Vorrecht erhält, das ein anderer Staat später zugestanden bekommt; in den ungleichen Verträgen einseitig zugunsten der Westmächte, sodass jedes Zugeständnis Chinas an eine Macht allen zugutekam.
+  themes: [verfassung-recht, handelsnetze]
+- id: kanonenbootpolitik
+  name: Kanonenbootpolitik
+  aliases: [Gunboat diplomacy, Kanonenbootdiplomatie]
+  definition: Durchsetzung politischer oder wirtschaftlicher Forderungen durch die Drohung mit oder den begrenzten Einsatz von Kriegsschiffen gegen schwächere Staaten; typisch für die britische Politik gegenüber China im 19. Jahrhundert.
+  themes: [krieg-militaer, imperien]
+- id: freihandelsimperialismus
+  name: Freihandelsimperialismus
+  aliases: [Informeller Imperialismus, Informal Empire, Imperialism of Free Trade]
+  definition: Von John Gallagher und Ronald Robinson 1953 geprägtes Konzept, nach dem Großbritannien im 19. Jahrhundert seine Interessen bevorzugt ohne förmliche Kolonialherrschaft durch Handelsverträge, Kredite und notfalls militärischen Druck durchsetzte.
+  themes: [imperien, wirtschaft-handel, geschichtsschreibung]
+- id: jahrhundert-der-demuetigung
+  name: Jahrhundert der Demütigung
+  aliases: [Bainian guochi, Century of Humiliation, Hundert Jahre nationaler Schande]
+  definition: In der chinesischen Geschichtsdeutung die Zeit vom Ersten Opiumkrieg 1839/42 bis zur Gründung der Volksrepublik 1949, in der China durch fremde Mächte besiegt, geteilt und ausgebeutet worden sei; zentraler Bezugspunkt des chinesischen Nationalismus und der patriotischen Erziehung.
+  themes: [geschichtsschreibung, politik]
+- id: selbststaerkungsbewegung
+  name: Selbststärkungsbewegung
+  aliases: [Ziqiang yundong, Self-Strengthening Movement, Yangwu-Bewegung]
+  definition: Reformpolitik chinesischer Beamter nach 1860, die mit Arsenalen, Werften, Fabriken und Übersetzungsschulen westliche Technik übernehmen wollte, um die Qing-Ordnung zu bewahren; sie scheiterte spätestens mit der Niederlage gegen Japan 1895.
+  themes: [politik, wissenschaft-technik]

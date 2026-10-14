@@ -1,0 +1,51 @@
+# Begriffe: Die Revolutionen von 1848/49
+- id: vormaerz
+  name: Vormärz
+  definition: Bezeichnung für die Jahrzehnte vor der Märzrevolution 1848 in Deutschland, meist ab 1815 oder 1830 gerechnet; geprägt von Zensur und Unterdrückung politischer Opposition im Deutschen Bund, zugleich von einer wachsenden liberalen und nationalen Bewegung, politischer Lyrik und sozialer Not.
+  themes: [politik, gesellschaft]
+- id: maerzforderungen
+  name: Märzforderungen
+  aliases: [Märzerrungenschaften]
+  definition: Im Februar und März 1848 in fast allen deutschen Staaten erhobene Kernforderungen der Opposition – Pressefreiheit, Versammlungs- und Vereinsfreiheit, Schwurgerichte, Volksbewaffnung, Bauernbefreiung, konstitutionelle Verfassungen und ein gesamtdeutsches Parlament. Was die Fürsten davon zugestanden, hieß Märzerrungenschaften.
+  themes: [politik, verfassung-recht, revolutionen]
+- id: maerzministerien
+  name: Märzministerien
+  definition: Die im März 1848 von den deutschen Fürsten unter dem Druck der Revolution berufenen Regierungen aus Vertretern der liberalen Opposition, etwa Camphausen und Hansemann in Preußen oder Heinrich von Gagern in Hessen-Darmstadt.
+  themes: [politik]
+- id: grundrechte
+  name: Grundrechte
+  aliases: [Menschen- und Bürgerrechte, Grundrechtskatalog]
+  definition: Verfassungsrechtlich garantierte Rechte des Einzelnen gegenüber dem Staat, etwa Freiheit der Person, Meinungs-, Presse- und Glaubensfreiheit und Gleichheit vor dem Gesetz. In Deutschland wurden sie erstmals 1848 von der Frankfurter Nationalversammlung als gesamtstaatliches Recht beschlossen.
+  themes: [verfassung-recht]
+- id: kleindeutsche-loesung
+  name: Kleindeutsche Lösung
+  definition: Konzept eines deutschen Nationalstaats ohne Österreich unter Führung Preußens; 1849 von der Mehrheit der Nationalversammlung in der Reichsverfassung verankert und 1871 – unter monarchisch-konservativen Vorzeichen – mit der Reichsgründung verwirklicht.
+  themes: [politik]
+- id: grossdeutsche-loesung
+  name: Großdeutsche Lösung
+  definition: Konzept eines deutschen Nationalstaats unter Einschluss der deutschsprachigen Gebiete Österreichs (und meist Böhmens); scheiterte 1848/49 vor allem daran, dass die Habsburgermonarchie ihren Vielvölkerstaat nicht teilen wollte.
+  themes: [politik]
+- id: liberalismus
+  name: Liberalismus
+  definition: Im 19. Jahrhundert führende politische Bewegung des Bürgertums, die individuelle Freiheitsrechte, Rechtsstaat, Verfassung, gewählte Volksvertretung und Wirtschaftsfreiheit forderte; im Unterschied zu den Demokraten bejahten die meisten Liberalen 1848 die Monarchie und ein an Besitz oder Bildung gebundenes Wahlrecht.
+  themes: [politik, gesellschaft]
+- id: nationalismus
+  name: Nationalismus
+  aliases: [Nationalbewegung]
+  definition: Politische Ideologie und Bewegung, die die Nation als höchsten Bezugspunkt von Loyalität betrachtet und für sie einen eigenen Staat fordert. Im Vormärz meist mit Freiheitsforderungen verbunden, geriet sie 1848 in Mitteleuropa in Konflikt, weil sich die Ansprüche verschiedener Nationalbewegungen auf dieselben Gebiete überschnitten.
+  themes: [politik]
+- id: pauperismus
+  name: Pauperismus
+  aliases: [Massenarmut]
+  definition: Zeitgenössischer Begriff für die Massenarmut in der ersten Hälfte des 19. Jahrhunderts, die aus Bevölkerungswachstum, Mangel an Arbeitsplätzen und dem Niedergang traditioneller Gewerbe entstand – noch vor dem Durchbruch der Industrialisierung.
+  themes: [gesellschaft, wirtschaft-handel]
+- id: achtundvierziger
+  name: Achtundvierziger
+  aliases: [Forty-Eighters]
+  definition: Teilnehmer der Revolutionen von 1848/49, insbesondere die politischen Flüchtlinge, die nach der Niederlage in die Schweiz, nach Großbritannien und vor allem in die USA auswanderten, wo viele in Presse, Politik und im Bürgerkrieg auf der Seite der Union hervortraten.
+  themes: [migration, politik]
+- id: voelkerfruehling
+  name: Völkerfrühling
+  aliases: [Springtime of Peoples, Printemps des peuples]
+  definition: Zeitgenössische und spätere Bezeichnung für die Revolutionen von 1848, die die Hoffnung auf eine gleichzeitige Befreiung aller europäischen Völker ausdrückt; die Erfahrung der Nationalitätenkonflikte von 1848/49 widersprach diesem Bild.
+  themes: [revolutionen, politik]

@@ -1,0 +1,56 @@
+# Begriffe: Das Osmanische Reich auf dem Höhepunkt (r14-osman)
+- id: timar
+  name: Timar
+  aliases: [Timar-System, Timariot, Sipahi, Militärpfründe]
+  definition: Osmanische Militärpfründe – ein Reiter (Sipahi) erhielt das Recht, festgelegte Abgaben bestimmter Dörfer einzuziehen, und musste dafür mit Ausrüstung und je nach Ertrag mit Gefolgsleuten in den Krieg ziehen. Das Land blieb Eigentum des Staates, die Pfründe war nicht erblich; Grundlage waren die Steuerregister (tahrir). Ab dem späten 16. Jahrhundert verlor das System gegenüber besoldeten Truppen und Steuerpacht an Bedeutung.
+  themes: [krieg-militaer, wirtschaft-handel, landwirtschaft]
+- id: kanun
+  name: Kanun
+  aliases: [Kanunname, Qanun, sultanisches Recht]
+  definition: Vom Sultan erlassenes weltliches Recht, das neben der Scharia vor allem Steuern, Bodenrecht, Strafrecht und Verwaltung regelte; für einzelne Provinzen wurden eigene Gesetzbücher (Kanunname) angelegt, die oft ältere örtliche Regeln übernahmen.
+  themes: [verfassung-recht]
+- id: scharia
+  name: Scharia
+  aliases: [Schari'a, Sharia, šarīʿa, islamisches Recht]
+  definition: Die aus Koran, Prophetentradition und der Arbeit der Rechtsgelehrten abgeleitete Ordnung des islamischen Rechts und der religiösen Pflichten; im Osmanischen Reich nach der hanafitischen Rechtsschule von Kadis an Gerichten angewandt.
+  themes: [verfassung-recht, religion]
+- id: grosswesir
+  name: Großwesir
+  aliases: [Sadrazam, Vezir-i azam]
+  definition: Ranghöchster Minister des osmanischen Sultans, Leiter des Großherrlichen Rates (Divan) und oft Oberbefehlshaber im Feld; im 16. Jahrhundert meist ein aus der Knabenlese oder der Sklaverei aufgestiegener Diener (kul) des Sultans, der jederzeit abgesetzt oder hingerichtet werden konnte.
+  themes: [politik]
+- id: scheichuelislam
+  name: Scheichülislam
+  aliases: [Şeyhülislam, Mufti von Istanbul, Großmufti]
+  definition: Titel des obersten Muftis von Istanbul, der zum Haupt der osmanischen Religionsgelehrten aufstieg; seine Rechtsgutachten (Fetwas) konnten Entscheidungen des Sultans religiös legitimieren.
+  themes: [religion, verfassung-recht]
+- id: dhimmi
+  name: Dhimmi
+  aliases: [Zimmi, Schutzbefohlene, ahl adh-dhimma]
+  definition: Nach islamischem Recht nichtmuslimische Untertanen, vor allem Christen und Juden, die gegen eine Kopfsteuer und die Anerkennung muslimischer Herrschaft Schutz von Leben, Eigentum und Religionsausübung genossen, aber rechtlich und gesellschaftlich Muslimen nachgeordnet waren.
+  themes: [religion, verfassung-recht, gesellschaft]
+- id: dschizya
+  name: Dschizya
+  aliases: [Cizye, Jizya, Kopfsteuer]
+  definition: Kopfsteuer, die erwachsene männliche Nichtmuslime (Dhimmis) unter muslimischer Herrschaft zahlten; im Osmanischen Reich eine der wichtigsten Einnahmequellen des Staates.
+  themes: [religion, wirtschaft-handel]
+- id: millet
+  name: Millet
+  aliases: [Millet-System]
+  definition: Osmanisch-türkisch „Religionsgemeinschaft, Volk“. Als „Millet-System“ bezeichnet man die Selbstverwaltung der nichtmuslimischen Gemeinschaften unter eigenen geistlichen Oberhäuptern. Die Forschung hat gezeigt, dass diese einheitliche Ordnung erst im 18. und vor allem 19. Jahrhundert entstand; davor waren die Beziehungen zwischen Staat und Gemeinden örtlich verschieden und wenig formalisiert.
+  themes: [religion, verfassung-recht, gesellschaft]
+- id: kizilbasch
+  name: Kızılbaş
+  aliases: [Kizilbasch, Rotköpfe, Qizilbash]
+  definition: „Rotköpfe“ nach ihrer roten Kopfbedeckung – turkmenische Anhänger des Safawiden-Ordens in Anatolien und Iran, die das Rückgrat des Heeres Schah Ismails bildeten; von den Osmanen als politische Feinde und religiöse Abweichler verfolgt. Aus ihren Gemeinschaften gingen Teile der heutigen Aleviten hervor.
+  themes: [religion, krieg-militaer]
+- id: kapitulationen
+  name: Kapitulationen
+  aliases: [Ahdname, Kapitulationsverträge]
+  definition: Vom Sultan gewährte Privilegien (nach den „capitula“, den Kapiteln der Urkunden) für Kaufleute fremder Staaten, etwa Venedigs oder Frankreichs, mit Handelsrechten, niedrigen Zöllen und eigener Gerichtsbarkeit der Konsuln; im 19. Jahrhundert zum Instrument europäischer Einflussnahme geworden.
+  themes: [wirtschaft-handel, verfassung-recht]
+- id: niedergangsthese
+  name: Niedergangsthese
+  aliases: [Ottoman Decline Thesis, Verfall des Osmanischen Reiches]
+  definition: Lange vorherrschende Deutung, nach der das Osmanische Reich nach dem Tod Süleymans 1566 einem stetigen Verfall erlag; sie stützte sich auf osmanische Ratgeberschriften und europäische Vorstellungen und wird von der Forschung seit den 1980er Jahren als zu einfach kritisiert und durch Modelle der Transformation ersetzt.
+  themes: [geschichtsschreibung, imperien]

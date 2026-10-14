@@ -1,0 +1,181 @@
+# Ereignisse: Die Opiumkriege (r14-opium)
+- id: opiumvernichtung-humen
+  title: Vernichtung des Opiums in Humen
+  start: "1839-06-03"
+  end: "1839-06-25"
+  weight: 2
+  kind: ereignis
+  summary: Auf Befehl Lin Zexus werden rund 20.000 Kisten Opium, die ausländische Händler herausgeben mussten, in Gruben mit Salz und Kalk zersetzt und ins Meer gespült.
+  regions: [china]
+  themes: [handelsnetze, politik]
+  places: [humen]
+  persons: [lin-zexu, charles-elliot]
+  polities: [qing-dynastie, vereinigtes-koenigreich]
+- id: opiumdebatte-unterhaus-1840
+  title: Chinadebatte im britischen Unterhaus
+  date: "1840-04"
+  weight: 3
+  kind: ereignis
+  summary: Ein Tadelsantrag der konservativen Opposition gegen die China-Politik der Regierung scheitert nach mehrtägiger Debatte knapp; William Gladstone verurteilt den Krieg als ungerecht.
+  regions: [britische-inseln]
+  themes: [politik]
+  places: [london]
+  persons: [william-gladstone, lord-palmerston]
+  polities: [vereinigtes-koenigreich]
+- id: konvention-von-chuanbi
+  title: Konvention von Chuanbi
+  date: "1841-01-20"
+  weight: 3
+  kind: vertrag
+  summary: Charles Elliot und Qishan vereinbaren einen vorläufigen Frieden mit der Abtretung Hongkongs; beide Regierungen lehnen das Abkommen ab, Elliot und Qishan werden abberufen. Britische Truppen besetzen Hongkong am 26. Januar 1841.
+  regions: [china]
+  themes: [politik, imperien]
+  places: [humen, hongkong]
+  persons: [charles-elliot, qishan]
+  polities: [qing-dynastie, vereinigtes-koenigreich]
+- id: vorfall-von-sanyuanli
+  title: Vorfall von Sanyuanli
+  date: "1841-05"
+  weight: 3
+  kind: ereignis
+  summary: Bewaffnete Dorfbewohner aus der Umgebung Kantons stellen britische und indische Truppen nach Plünderungen und Übergriffen; das Ereignis wurde in China später zum Symbol des Volkswiderstands verklärt.
+  regions: [china]
+  themes: [krieg-militaer, gesellschaft]
+  places: [guangzhou]
+  polities: [qing-dynastie, vereinigtes-koenigreich]
+- id: schlacht-von-zhenjiang
+  title: Einnahme von Zhenjiang
+  date: "1842-07-21"
+  weight: 3
+  kind: schlacht
+  summary: Britische Truppen erstürmen die Stadt am Kaiserkanal gegen erbitterten Widerstand der mandschurischen Bannergarnison; viele Bannerfamilien töten sich selbst. Die Sperrung des Kanals zwingt den Hof zu Verhandlungen.
+  regions: [china]
+  themes: [krieg-militaer]
+  places: [zhenjiang]
+  persons: [henry-pottinger]
+  polities: [qing-dynastie, vereinigtes-koenigreich]
+- id: vertrag-von-nanjing
+  title: Vertrag von Nanjing
+  aliases: [Vertrag von Nanking]
+  date: "1842-08-29"
+  weight: 1
+  kind: vertrag
+  summary: Auf einem britischen Kriegsschiff vor Nanjing unterzeichnet – China tritt Hongkong ab, öffnet Kanton, Xiamen, Fuzhou, Ningbo und Shanghai, zahlt 21 Millionen Silberdollar und gibt das Handelsmonopol der Hong-Kaufleute auf.
+  regions: [china]
+  themes: [politik, imperien, handelsnetze]
+  places: [nanjing, hongkong, shanghai, xiamen, fuzhou, ningbo, guangzhou]
+  persons: [qiying, henry-pottinger, daoguang]
+  polities: [qing-dynastie, vereinigtes-koenigreich]
+- id: vertrag-von-humen
+  title: Zusatzvertrag von Humen
+  aliases: [Vertrag von der Bogue, Treaty of the Bogue]
+  date: "1843-10-08"
+  weight: 3
+  kind: vertrag
+  summary: Ergänzung zum Vertrag von Nanjing, die feste Zölle, die Meistbegünstigung Großbritanniens und die Gerichtsbarkeit britischer Konsuln über britische Untertanen festschreibt.
+  regions: [china]
+  themes: [verfassung-recht, handelsnetze]
+  places: [humen]
+  persons: [qiying, henry-pottinger]
+  polities: [qing-dynastie, vereinigtes-koenigreich]
+- id: vertrag-von-wangxia
+  title: Vertrag von Wangxia
+  date: "1844-07-03"
+  weight: 3
+  kind: vertrag
+  summary: Die USA erhalten in einem Dorf bei Macau dieselben Handelsrechte wie Großbritannien und eine ausführlich geregelte Exterritorialität für ihre Bürger.
+  regions: [china]
+  themes: [verfassung-recht, handelsnetze]
+  persons: [qiying]
+  polities: [qing-dynastie, vereinigte-staaten]
+- id: vertrag-von-whampoa
+  title: Vertrag von Whampoa
+  aliases: [Vertrag von Huangpu]
+  date: "1844-10-24"
+  weight: 3
+  kind: vertrag
+  summary: Frankreich erhält gleiche Handelsrechte wie Großbritannien; in der Folge lässt der Qing-Hof die Ausübung des Christentums wieder zu.
+  regions: [china]
+  themes: [verfassung-recht, religion]
+  places: [guangzhou]
+  persons: [qiying]
+  polities: [qing-dynastie]
+- id: arrow-zwischenfall
+  title: Arrow-Zwischenfall
+  date: "1856-10-08"
+  weight: 3
+  kind: ereignis
+  summary: Chinesische Beamte verhaften in Kanton die chinesische Besatzung der Lorcha Arrow, die unter britischer Flagge fuhr, obwohl ihre Registrierung in Hongkong abgelaufen war; Konsul Harry Parkes macht daraus einen Kriegsgrund.
+  regions: [china]
+  themes: [politik]
+  places: [guangzhou]
+  persons: [harry-parkes, ye-mingchen]
+  polities: [qing-dynastie, vereinigtes-koenigreich]
+- id: zweiter-opiumkrieg
+  title: Zweiter Opiumkrieg
+  aliases: [Arrow-Krieg, Lorcha-Krieg]
+  start: "1856-10"
+  end: "1860-10"
+  weight: 1
+  kind: krieg
+  summary: Großbritannien und Frankreich erzwingen in zwei Feldzügen weitere Häfen, Gesandtschaften in Peking, Reisefreiheit, Missionsrechte und die Legalisierung des Opiumimports; der Krieg endet mit der Einnahme Pekings und der Zerstörung des Sommerpalasts.
+  regions: [china]
+  themes: [krieg-militaer, imperien, handelsnetze]
+  places: [guangzhou, dagu, tianjin, baliqiao, peking, yuanmingyuan]
+  persons: [lord-palmerston, lord-elgin, baron-gros, ye-mingchen, xianfeng, yixin, sengge-rinchen]
+  polities: [qing-dynastie, vereinigtes-koenigreich, zweites-franzoesisches-kaiserreich]
+- id: vertrag-von-aigun
+  title: Vertrag von Aigun
+  date: "1858-05-28"
+  weight: 3
+  kind: vertrag
+  summary: Unter dem Druck der Lage im Süden tritt China das Gebiet nördlich des Amur an Russland ab.
+  regions: [china, russland]
+  themes: [imperien, politik]
+  polities: [qing-dynastie, russisches-kaiserreich]
+- id: vertraege-von-tianjin
+  title: Verträge von Tianjin
+  start: "1858-06-13"
+  end: "1858-06-27"
+  weight: 2
+  kind: vertrag
+  summary: Russland, die USA, Großbritannien und Frankreich erzwingen nacheinander Verträge mit ständigen Gesandtschaften in Peking, weiteren Vertragshäfen auch am Yangzi, Reisefreiheit im Landesinneren, Missionsfreiheit und Entschädigungen.
+  regions: [china]
+  themes: [verfassung-recht, imperien]
+  places: [tianjin]
+  persons: [lord-elgin, baron-gros]
+  polities: [qing-dynastie, vereinigtes-koenigreich, zweites-franzoesisches-kaiserreich, russisches-kaiserreich, vereinigte-staaten]
+- id: schlacht-um-die-dagu-forts-1859
+  title: Abwehr an den Dagu-Forts
+  date: "1859-06-25"
+  weight: 3
+  kind: schlacht
+  summary: Als britische und französische Schiffe die Mündung des Hai-Flusses gewaltsam passieren wollen, um die Ratifikation der Verträge in Peking zu erzwingen, schlagen die Qing-Truppen sie unter schweren Verlusten zurück.
+  regions: [china]
+  themes: [krieg-militaer]
+  places: [dagu]
+  persons: [sengge-rinchen]
+  polities: [qing-dynastie, vereinigtes-koenigreich, zweites-franzoesisches-kaiserreich]
+- id: schlacht-von-baliqiao
+  title: Schlacht von Baliqiao
+  date: "1860-09-21"
+  weight: 3
+  kind: schlacht
+  summary: Britisch-französische Truppen schlagen das Heer Sengge Rinchens östlich von Peking; Kaiser Xianfeng flieht nach Chengde.
+  regions: [china]
+  themes: [krieg-militaer]
+  places: [baliqiao]
+  persons: [sengge-rinchen, xianfeng]
+  polities: [qing-dynastie, vereinigtes-koenigreich, zweites-franzoesisches-kaiserreich]
+- id: konventionen-von-peking
+  title: Konventionen von Peking
+  start: "1860-10-24"
+  end: "1860-11-14"
+  weight: 2
+  kind: vertrag
+  summary: Prinz Gong bestätigt die Verträge von Tianjin, erhöht die Entschädigungen, öffnet Tianjin, tritt die Südspitze Kowloons an Großbritannien und das Gebiet östlich des Ussuri an Russland ab.
+  regions: [china, russland]
+  themes: [verfassung-recht, imperien]
+  places: [peking, kowloon]
+  persons: [yixin, lord-elgin, baron-gros]
+  polities: [qing-dynastie, vereinigtes-koenigreich, zweites-franzoesisches-kaiserreich, russisches-kaiserreich]

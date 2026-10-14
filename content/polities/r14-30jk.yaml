@@ -1,0 +1,66 @@
+# Staaten: Der Dreißigjährige Krieg und der Westfälische Frieden
+- id: koenigreich-schweden
+  name: Königreich Schweden
+  aliases: [Schweden, Schwedisches Großmachtreich, Stormaktstiden]
+  start: "1523"
+  spanNote: 1523 wurde Gustav Wasa zum König gewählt und die Kalmarer Union mit Dänemark endgültig verlassen; als Großmachtzeit gilt meist die Spanne von 1611 bis 1721.
+  capital: stockholm
+  summary: Lutherische Monarchie im Norden Europas, die unter Gustav II. Adolf und seinen Nachfolgern zur Vormacht im Ostseeraum aufstieg und 1648 Vorpommern, Wismar sowie die Stifte Bremen und Verden als Reichslehen erhielt.
+  regions: [nordeuropa]
+  themes: [politik, krieg-militaer, imperien]
+  weight: 2
+- id: daenemark-norwegen
+  name: Dänemark-Norwegen
+  aliases: [Dänemark, Königreich Dänemark]
+  start: "1524"
+  end: "1814"
+  spanNote: Personal- und später Realunion der Königreiche Dänemark und Norwegen unter dem Haus Oldenburg; das Anfangsdatum wird unterschiedlich angesetzt (1380, 1524 oder 1536).
+  capital: kopenhagen
+  summary: Lutherische Doppelmonarchie, die über den Öresundzoll an der Ostsee verdiente und als Herzog von Holstein im Reich vertreten war; ihr Eingreifen 1625–1629 scheiterte.
+  regions: [nordeuropa]
+  themes: [politik, handelsnetze]
+  weight: 3
+- id: republik-der-vereinigten-niederlande
+  name: Republik der Vereinigten Niederlande
+  aliases: [Generalstaaten, Republik der Sieben Vereinigten Provinzen, Niederländische Republik]
+  start: "1581"
+  end: "1795"
+  spanNote: 1581 sagten sich die aufständischen Provinzen von Philipp II. los; Spanien erkannte ihre Unabhängigkeit erst im Frieden von Münster 1648 an.
+  summary: Aus dem Aufstand gegen Spanien hervorgegangener Bund nördlicher niederländischer Provinzen, im 17. Jahrhundert führende Handels- und Seemacht mit Kolonien und Stützpunkten in Asien, Afrika und Amerika.
+  regions: [westeuropa]
+  themes: [politik, wirtschaft-handel, handelsnetze]
+  weight: 2
+- id: kurpfalz
+  name: Kurpfalz
+  aliases: [Pfalz, Kurfürstentum Pfalz, Pfalzgrafschaft bei Rhein]
+  start: "1356"
+  end: "1803"
+  spanNote: Die Pfalzgrafen bei Rhein besaßen die Kurwürde schon zuvor; die Goldene Bulle von 1356 schrieb sie fest. 1623 ging die Kur an Bayern, 1648 wurde für die Pfalz eine achte Kur geschaffen.
+  capital: heidelberg
+  summary: Calvinistisch geprägtes Kurfürstentum am Rhein mit der Residenz Heidelberg, dessen Kurfürst Friedrich V. 1619 die böhmische Krone annahm; das Land wurde im Krieg schwer verwüstet.
+  regions: [deutschland]
+  themes: [politik, religion]
+  weight: 3
+- id: kurfuerstentum-sachsen
+  name: Kurfürstentum Sachsen
+  aliases: [Kursachsen]
+  start: "1356"
+  end: "1806"
+  spanNote: Seit 1547 im Besitz der albertinischen Linie der Wettiner.
+  capital: dresden
+  summary: Lutherisches Kurfürstentum an der Elbe, unter Johann Georg I. lange Stütze des Kaisers, 1631–1635 mit Schweden verbündet und Partner des Prager Friedens; erhielt 1635 die Lausitzen.
+  regions: [deutschland]
+  themes: [politik]
+  weight: 3
+- id: koenigreich-boehmen
+  name: Königreich Böhmen
+  aliases: [Böhmen, Länder der böhmischen Krone]
+  start: "1198"
+  end: "1918"
+  spanNote: 1198 erhielten die Přemysliden die erbliche Königswürde; ab 1526 herrschten die Habsburger, bis 1918 die Tschechoslowakei entstand.
+  capital: prag
+  summary: Kurfürstentum und Königreich mit überwiegend protestantischen Ständen, deren Aufstand 1618 den Krieg auslöste; nach 1620 rekatholisiert und durch die Verneuerte Landesordnung von 1627 enger an die Habsburger gebunden.
+  regions: [mitteleuropa]
+  themes: [politik, religion]
+  predecessors: []
+  weight: 2

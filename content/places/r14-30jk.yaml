@@ -1,0 +1,121 @@
+# Orte: Der Dreißigjährige Krieg und der Westfälische Frieden
+- id: prager-burg
+  name: Prager Burg
+  aliases: [Hradschin, Hradčany, Pražský hrad]
+  coords: [14.4005, 50.0904]
+  categories: [hauptstadt, kulturzentrum]
+  modernName: Prager Burg, Prag (Tschechien)
+  summary: Burgkomplex über der Prager Kleinseite und Sitz der böhmischen Könige; hier warfen protestantische Adlige am 23. Mai 1618 zwei königliche Statthalter und einen Sekretär aus einem Fenster der Böhmischen Kanzlei.
+  regions: [mitteleuropa]
+  themes: [politik]
+- id: weisser-berg
+  name: Weißer Berg
+  aliases: [Bílá hora]
+  coords: [14.3210, 50.0780]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Bílá hora, Prag-Řepy (Tschechien)
+  summary: Anhöhe am westlichen Stadtrand Prags, an der am 8. November 1620 das Heer der böhmischen Stände von kaiserlichen und ligistischen Truppen geschlagen wurde.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+- id: heidelberg
+  name: Heidelberg
+  coords: [8.6724, 49.3988]
+  categories: [stadt, hauptstadt, kulturzentrum]
+  modernName: Heidelberg (Baden-Württemberg)
+  summary: Residenz der Kurfürsten von der Pfalz und Universitätsstadt; 1622 von ligistischen Truppen unter Tilly erobert, worauf die berühmte Bibliotheca Palatina als Geschenk an den Papst nach Rom gebracht wurde.
+  regions: [deutschland]
+  themes: [politik, kultur-kunst]
+- id: lutter-am-barenberge
+  name: Lutter am Barenberge
+  aliases: [Lutter]
+  coords: [10.2700, 51.9850]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Lutter am Barenberge, Gemeinde Langelsheim (Niedersachsen)
+  summary: Ort im nördlichen Harzvorland, bei dem Tilly am 27. August 1626 das Heer König Christians IV. von Dänemark schlug.
+  regions: [deutschland]
+  themes: [krieg-militaer]
+- id: stralsund
+  name: Stralsund
+  coords: [13.0815, 54.3091]
+  categories: [stadt, hafen]
+  modernName: Stralsund (Mecklenburg-Vorpommern)
+  summary: Hansestadt an der Ostsee, die 1628 mit dänischer und schwedischer Hilfe einer Belagerung durch Wallenstein standhielt und danach ein Bündnis mit Schweden schloss; nach 1648 schwedisch.
+  regions: [deutschland, nordeuropa]
+  themes: [krieg-militaer, handelsnetze]
+- id: magdeburg
+  name: Magdeburg
+  coords: [11.6276, 52.1205]
+  categories: [stadt]
+  modernName: Magdeburg (Sachsen-Anhalt)
+  summary: Bedeutende protestantische Stadt an der Elbe und Sitz eines Erzbistums, die am 20. Mai 1631 von kaiserlich-ligistischen Truppen erstürmt und fast vollständig niedergebrannt wurde; Schätzungen nennen rund 20.000 Tote.
+  regions: [deutschland]
+  themes: [krieg-militaer, gewalt-genozid, religion]
+- id: breitenfeld
+  name: Breitenfeld
+  coords: [12.3330, 51.4100]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Breitenfeld, Ortsteil von Leipzig (Sachsen)
+  summary: Dorf nördlich von Leipzig, bei dem Gustav Adolf am 17. September 1631 Tilly besiegte; 1642 siegten die Schweden hier ein zweites Mal.
+  regions: [deutschland]
+  themes: [krieg-militaer]
+- id: luetzen
+  name: Lützen
+  coords: [12.1417, 51.2575]
+  categories: [schlachtfeld, stadt]
+  modernName: Lützen (Sachsen-Anhalt)
+  summary: Kleinstadt südwestlich von Leipzig, bei der am 16. November 1632 das schwedische Heer gegen Wallenstein kämpfte; König Gustav Adolf fiel in der Schlacht.
+  regions: [deutschland]
+  themes: [krieg-militaer]
+- id: eger
+  name: Eger
+  aliases: [Cheb]
+  coords: [12.3707, 50.0796]
+  categories: [stadt]
+  modernName: Cheb (Tschechien)
+  summary: Stadt im Westen Böhmens, in der Albrecht von Wallenstein am 25. Februar 1634 von kaisertreuen Offizieren ermordet wurde.
+  regions: [mitteleuropa]
+  themes: [politik, krieg-militaer]
+- id: noerdlingen
+  name: Nördlingen
+  coords: [10.4883, 48.8513]
+  categories: [stadt, schlachtfeld]
+  modernName: Nördlingen (Bayern)
+  summary: Reichsstadt im Ries, bei der am 6. September 1634 ein kaiserlich-spanisches Heer die Schweden und ihre protestantischen Verbündeten vernichtend schlug.
+  regions: [deutschland]
+  themes: [krieg-militaer]
+- id: muenster
+  name: Münster
+  coords: [7.6261, 51.9607]
+  categories: [stadt, kulturzentrum]
+  modernName: Münster (Nordrhein-Westfalen)
+  summary: Bischofsstadt in Westfalen und einer der beiden Orte des Friedenskongresses, an dem vor allem der Kaiser mit Frankreich sowie Spanien mit den Niederlanden verhandelten; der Friedenssaal im Rathaus erinnert daran.
+  regions: [deutschland]
+  themes: [politik, verfassung-recht]
+- id: osnabrueck
+  name: Osnabrück
+  coords: [8.0472, 52.2799]
+  categories: [stadt]
+  modernName: Osnabrück (Niedersachsen)
+  summary: Bischofsstadt in Westfalen und zweiter Ort des Friedenskongresses, an dem der Kaiser mit Schweden und den protestantischen Reichsständen verhandelte.
+  regions: [deutschland]
+  themes: [politik, verfassung-recht]
+- id: stockholm
+  name: Stockholm
+  coords: [18.0686, 59.3293]
+  categories: [stadt, hauptstadt, hafen]
+  modernName: Stockholm (Schweden)
+  summary: Hauptstadt des Königreichs Schweden, von dem aus im 17. Jahrhundert ein Großmachtreich rund um die Ostsee regiert wurde.
+  regions: [nordeuropa]
+  themes: [politik]
+- id: kopenhagen
+  name: Kopenhagen
+  aliases: [København]
+  coords: [12.5683, 55.6761]
+  categories: [stadt, hauptstadt, hafen]
+  modernName: Kopenhagen (Dänemark)
+  summary: Residenz der dänischen Könige, die den Zugang zur Ostsee am Öresund kontrollierten.
+  regions: [nordeuropa]
+  themes: [politik, handelsnetze]

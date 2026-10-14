@@ -1,0 +1,174 @@
+# Quellen und Literatur: Die Opiumkriege (r14-opium)
+
+# --- Forschung ---
+- id: lovell-2011
+  kind: sekundaer
+  authors: ["Lovell, Julia"]
+  title: The Opium War
+  subtitle: Drugs, Dreams and the Making of China
+  place: London
+  publisher: Picador
+  year: 2011
+- id: platt-2018
+  kind: sekundaer
+  authors: ["Platt, Stephen R."]
+  title: Imperial Twilight
+  subtitle: The Opium War and the End of China's Last Golden Age
+  place: New York
+  publisher: Alfred A. Knopf
+  year: 2018
+- id: fay-1975
+  kind: sekundaer
+  authors: ["Fay, Peter Ward"]
+  title: The Opium War, 1840–1842
+  place: Chapel Hill
+  publisher: University of North Carolina Press
+  year: 1975
+- id: chang-1964
+  kind: sekundaer
+  authors: ["Chang, Hsin-pao"]
+  title: Commissioner Lin and the Opium War
+  place: Cambridge, Mass.
+  publisher: Harvard University Press
+  year: 1964
+- id: polachek-1992
+  kind: sekundaer
+  authors: ["Polachek, James M."]
+  title: The Inner Opium War
+  place: Cambridge, Mass.
+  publisher: Council on East Asian Studies, Harvard University
+  year: 1992
+- id: hevia-2003
+  kind: sekundaer
+  authors: ["Hevia, James L."]
+  title: English Lessons
+  subtitle: The Pedagogy of Imperialism in Nineteenth-Century China
+  place: Durham
+  publisher: Duke University Press
+  year: 2003
+- id: wang-2012
+  kind: sekundaer
+  authors: ["Wang, Zheng"]
+  title: Never Forget National Humiliation
+  subtitle: Historical Memory in Chinese Politics and Foreign Relations
+  place: New York
+  publisher: Columbia University Press
+  year: 2012
+- id: wong-1998
+  kind: sekundaer
+  authors: ["Wong, J. Y."]
+  title: Deadly Dreams
+  subtitle: Opium, Imperialism, and the Arrow War (1856–1860) in China
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1998
+- id: lin-2006
+  kind: sekundaer
+  authors: ["Lin, Man-houng"]
+  title: China Upside Down
+  subtitle: Currency, Society, and Ideologies, 1808–1856
+  place: Cambridge, Mass.
+  publisher: Harvard University Asia Center
+  year: 2006
+- id: van-dyke-2005
+  kind: sekundaer
+  authors: ["Van Dyke, Paul A."]
+  title: The Canton Trade
+  subtitle: Life and Enterprise on the China Coast, 1700–1845
+  place: Hongkong
+  publisher: Hong Kong University Press
+  year: 2005
+- id: wakeman-1966
+  kind: sekundaer
+  authors: ["Wakeman, Frederic, Jr."]
+  title: Strangers at the Gate
+  subtitle: Social Disorder in South China, 1839–1861
+  place: Berkeley
+  publisher: University of California Press
+  year: 1966
+- id: fairbank-1953
+  kind: sekundaer
+  authors: ["Fairbank, John King"]
+  title: Trade and Diplomacy on the China Coast
+  subtitle: The Opening of the Treaty Ports, 1842–1854
+  place: Cambridge, Mass.
+  publisher: Harvard University Press
+  year: 1953
+- id: dikoetter-2004
+  kind: sekundaer
+  authors: ["Dikötter, Frank", "Laamann, Lars", "Zhou, Xun"]
+  title: Narcotic Culture
+  subtitle: A History of Drugs in China
+  place: London
+  publisher: Hurst & Company
+  year: 2004
+- id: trocki-1999
+  kind: sekundaer
+  authors: ["Trocki, Carl A."]
+  title: Opium, Empire and the Global Political Economy
+  subtitle: A Study of the Asian Opium Trade, 1750–1950
+  place: London
+  publisher: Routledge
+  year: 1999
+- id: bickers-2011
+  kind: sekundaer
+  authors: ["Bickers, Robert"]
+  title: The Scramble for China
+  subtitle: Foreign Devils in the Qing Empire, 1832–1914
+  place: London
+  publisher: Allen Lane
+  year: 2011
+- id: cohen-1984
+  kind: sekundaer
+  authors: ["Cohen, Paul A."]
+  title: Discovering History in China
+  subtitle: American Historical Writing on the Recent Chinese Past
+  place: New York
+  publisher: Columbia University Press
+  year: 1984
+- id: gallagher-robinson-1953
+  kind: sekundaer
+  authors: ["Gallagher, John", "Robinson, Ronald"]
+  title: The Imperialism of Free Trade
+  container: The Economic History Review, Second Series
+  volume: 6
+  pages: 1–15
+  year: 1953
+
+# --- Primärquellen und Editionen ---
+- id: q-gladstone-1840
+  kind: primaer
+  authors: ["Gladstone, William Ewart"]
+  title: Rede im britischen Unterhaus zum Krieg gegen China
+  written: London, April 1840
+  note: Beitrag des jungen konservativen Abgeordneten in der Unterhausdebatte über einen Tadelsantrag gegen die Regierung, in der er den Krieg als ungerecht und als Schande für Großbritannien verurteilte; überliefert in den Parlamentsprotokollen (Hansard).
+- id: q-vertrag-tianjin
+  kind: primaer
+  title: Vertrag von Tianjin zwischen Großbritannien und China
+  written: Tianjin, 26. Juni 1858
+  note: Friedens- und Handelsvertrag im Zweiten Opiumkrieg – ständige Gesandtschaft in Peking, neue Vertragshäfen, Reisefreiheit im Landesinneren, Schutz der Mission und Entschädigungen; ähnliche Verträge schlossen Frankreich, Russland und die USA.
+- id: q-konvention-peking
+  kind: primaer
+  title: Konvention von Peking zwischen Großbritannien und China
+  written: Peking, 24. Oktober 1860
+  note: Abkommen nach der Einnahme Pekings, das den Vertrag von Tianjin bestätigte, die Entschädigungen erhöhte, Tianjin öffnete und die Südspitze der Halbinsel Kowloon an Großbritannien abtrat; am folgenden Tag schloss Frankreich eine entsprechende Konvention.
+- id: q-haiguo-tuzhi
+  kind: primaer
+  authors: ["Wei Yuan"]
+  title: Haiguo tuzhi (Illustrierte Abhandlung über die Länder jenseits der Meere)
+  written: China, erste Fassung um 1843/44, bis 1852 erweitert
+  note: Geografisches Sammelwerk über die westlichen Länder, das auf Material zurückgriff, das Lin Zexu in Kanton hatte übersetzen lassen, und forderte, von den überlegenen Techniken der Fremden zu lernen, um sie abzuwehren.
+- id: q-hugo-1861
+  kind: primaer
+  authors: ["Hugo, Victor"]
+  title: Brief an Hauptmann Butler über die Plünderung des Sommerpalasts
+  written: Hauteville House (Guernsey), 25. November 1861
+  note: Antwort des im Exil lebenden Schriftstellers auf die Bitte um Zustimmung zur Chinaexpedition, in der er die Plünderung und Zerstörung des Yuanmingyuan als Tat zweier Räuber – Frankreich und England – verurteilte; später in „Actes et paroles“ veröffentlicht.
+- id: q-elgin-1872
+  kind: edition
+  editors: ["Walrond, Theodore"]
+  title: Letters and Journals of James, Eighth Earl of Elgin
+  place: London
+  publisher: John Murray
+  year: 1872
+  note: Briefe und Tagebücher des britischen Sonderbevollmächtigten in China 1857–1860, der die Verträge von Tianjin und Peking aushandelte und die Zerstörung des Sommerpalasts befahl.

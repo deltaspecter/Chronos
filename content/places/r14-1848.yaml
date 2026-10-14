@@ -1,0 +1,87 @@
+# Orte: Die Revolutionen von 1848/49
+- id: paulskirche
+  name: Paulskirche
+  aliases: [Paulskirche Frankfurt]
+  coords: [8.6809, 50.1114]
+  categories: [kulturzentrum]
+  modernName: Paulskirche, Frankfurt am Main
+  summary: Evangelische Kirche in Frankfurt am Main, die 1848/49 der ersten frei gewählten gesamtdeutschen Nationalversammlung als Tagungsort diente; nach Kriegszerstörung 1948 als Gedenkstätte wiederaufgebaut.
+  regions: [deutschland]
+  themes: [politik, verfassung-recht]
+- id: rastatt
+  name: Rastatt
+  coords: [8.2031, 48.8584]
+  categories: [stadt]
+  modernName: Rastatt (Baden-Württemberg)
+  summary: Badische Residenz- und Bundesfestungsstadt, in der im Mai 1849 die Meuterei der Garnison die badische Revolution auslöste und deren Kapitulation am 23. Juli 1849 die Revolution in Deutschland beendete.
+  regions: [deutschland]
+  themes: [krieg-militaer, revolutionen]
+- id: offenburg
+  name: Offenburg
+  coords: [7.9407, 48.4708]
+  categories: [stadt]
+  modernName: Offenburg (Baden-Württemberg)
+  summary: Badische Stadt, in der badische Demokraten am 12. September 1847 die „Forderungen des Volkes“ beschlossen, eines der frühesten radikaldemokratischen Programme in Deutschland.
+  regions: [deutschland]
+  themes: [politik, revolutionen]
+- id: dresden
+  name: Dresden
+  coords: [13.7373, 51.0504]
+  categories: [stadt, hauptstadt]
+  modernName: Dresden (Sachsen)
+  summary: Residenzstadt des Königreichs Sachsen, in der im Mai 1849 ein Aufstand für die Reichsverfassung ausbrach, an dem unter anderen Richard Wagner, Gottfried Semper und Michail Bakunin beteiligt waren.
+  regions: [deutschland]
+  themes: [politik, revolutionen, kultur-kunst]
+- id: palermo
+  name: Palermo
+  coords: [13.3615, 38.1157]
+  categories: [stadt, hafen]
+  modernName: Palermo (Sizilien, Italien)
+  summary: Hauptstadt Siziliens, wo am 12. Januar 1848 der Aufstand gegen die bourbonische Regierung in Neapel ausbrach – die erste Revolution des Jahres 1848.
+  regions: [italien, mittelmeer]
+  themes: [revolutionen]
+- id: kremsier
+  name: Kremsier
+  aliases: [Kroměříž]
+  coords: [17.3931, 49.2979]
+  categories: [stadt]
+  modernName: Kroměříž (Tschechien)
+  summary: Mährische Bischofsstadt, in die der österreichische Reichstag nach dem Wiener Oktoberaufstand verlegt wurde; sein Verfassungsentwurf für einen Bund gleichberechtigter Völker wurde mit der Auflösung im März 1849 hinfällig.
+  regions: [mitteleuropa]
+  themes: [verfassung-recht]
+- id: olmuetz
+  name: Olmütz
+  aliases: [Olomouc]
+  coords: [17.2509, 49.5938]
+  categories: [stadt]
+  modernName: Olomouc (Tschechien)
+  summary: Mährische Festungsstadt, in die der Wiener Hof im Oktober 1848 floh und wo Kaiser Ferdinand I. am 2. Dezember 1848 zugunsten Franz Josephs abdankte; 1850 Ort der Olmützer Punktation zwischen Österreich und Preußen.
+  regions: [mitteleuropa]
+  themes: [politik]
+- id: debrecen
+  name: Debrecen
+  aliases: [Debreczin]
+  coords: [21.6273, 47.5316]
+  categories: [stadt]
+  modernName: Debrecen (Ungarn)
+  summary: Ostungarische Stadt, in die Parlament und Regierung Anfang 1849 auswichen und wo am 14. April 1849 die Unabhängigkeit Ungarns und die Absetzung der Habsburger verkündet wurden.
+  regions: [mitteleuropa]
+  themes: [politik, revolutionen]
+- id: vilagos
+  name: Világos
+  aliases: [Şiria]
+  coords: [21.6333, 46.2667]
+  location: ungefaehr
+  categories: [stadt, schlachtfeld]
+  modernName: Şiria (Rumänien)
+  summary: Ort in der Nähe von Arad, bei dem die ungarische Hauptarmee unter Görgei am 13. August 1849 vor den russischen Truppen die Waffen streckte; die Kapitulation fand auf einem Feld beim nahen Szőlős statt.
+  regions: [mitteleuropa, suedosteuropa]
+  themes: [krieg-militaer]
+- id: mannheim
+  name: Mannheim
+  coords: [8.4660, 49.4875]
+  categories: [stadt]
+  modernName: Mannheim (Baden-Württemberg)
+  summary: Badische Handelsstadt an Rhein und Neckar, Wirkungsort Friedrich Heckers; die Mannheimer Volksversammlung vom 27. Februar 1848 formulierte die ersten Märzforderungen in Deutschland.
+  regions: [deutschland]
+  themes: [politik, revolutionen]

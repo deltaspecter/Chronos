@@ -1,0 +1,209 @@
+# Quellen und Literatur: Das Osmanische Reich auf dem Höhepunkt (r14-osman)
+
+# --- Forschung ---
+- id: inalcik-1973
+  kind: sekundaer
+  authors: ["İnalcık, Halil"]
+  title: The Ottoman Empire
+  subtitle: The Classical Age 1300–1600
+  place: London
+  publisher: Weidenfeld and Nicolson
+  year: 1973
+- id: finkel-2005
+  kind: sekundaer
+  authors: ["Finkel, Caroline"]
+  title: Osman's Dream
+  subtitle: The Story of the Ottoman Empire 1300–1923
+  place: London
+  publisher: John Murray
+  year: 2005
+- id: faroqhi-2000
+  kind: sekundaer
+  authors: ["Faroqhi, Suraiya"]
+  title: Geschichte des Osmanischen Reiches
+  series: Beck'sche Reihe
+  place: München
+  publisher: C. H. Beck
+  year: 2000
+- id: matuz-1985
+  kind: sekundaer
+  authors: ["Matuz, Josef"]
+  title: Das Osmanische Reich
+  subtitle: Grundlinien seiner Geschichte
+  place: Darmstadt
+  publisher: Wissenschaftliche Buchgesellschaft
+  year: 1985
+- id: imber-2002
+  kind: sekundaer
+  authors: ["Imber, Colin"]
+  title: The Ottoman Empire, 1300–1650
+  subtitle: The Structure of Power
+  place: Basingstoke
+  publisher: Palgrave Macmillan
+  year: 2002
+- id: imber-1997
+  kind: sekundaer
+  authors: ["Imber, Colin"]
+  title: "Ebu's-su'ud"
+  subtitle: The Islamic Legal Tradition
+  place: Edinburgh
+  publisher: Edinburgh University Press
+  year: 1997
+- id: peirce-1993
+  kind: sekundaer
+  authors: ["Peirce, Leslie P."]
+  title: The Imperial Harem
+  subtitle: Women and Sovereignty in the Ottoman Empire
+  place: New York
+  publisher: Oxford University Press
+  year: 1993
+- id: necipoglu-2005
+  kind: sekundaer
+  authors: ["Necipoğlu, Gülru"]
+  title: The Age of Sinan
+  subtitle: Architectural Culture in the Ottoman Empire
+  place: London
+  publisher: Reaktion Books
+  year: 2005
+- id: casale-2010
+  kind: sekundaer
+  authors: ["Casale, Giancarlo"]
+  title: The Ottoman Age of Exploration
+  place: New York
+  publisher: Oxford University Press
+  year: 2010
+- id: tezcan-2010
+  kind: sekundaer
+  authors: ["Tezcan, Baki"]
+  title: The Second Ottoman Empire
+  subtitle: Political and Social Transformation in the Early Modern World
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2010
+- id: barkey-2008
+  kind: sekundaer
+  authors: ["Barkey, Karen"]
+  title: Empire of Difference
+  subtitle: The Ottomans in Comparative Perspective
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2008
+- id: hess-1978
+  kind: sekundaer
+  authors: ["Hess, Andrew C."]
+  title: The Forgotten Frontier
+  subtitle: A History of the Sixteenth-Century Ibero-African Frontier
+  place: Chicago
+  publisher: University of Chicago Press
+  year: 1978
+- id: braude-lewis-1982
+  kind: sekundaer
+  editors: ["Braude, Benjamin", "Lewis, Bernard"]
+  title: Christians and Jews in the Ottoman Empire
+  subtitle: The Functioning of a Plural Society
+  volume: "2 Bde."
+  place: New York
+  publisher: Holmes & Meier
+  year: 1982
+- id: kunt-woodhead-1995
+  kind: sekundaer
+  editors: ["Kunt, Metin", "Woodhead, Christine"]
+  title: Süleyman the Magnificent and His Age
+  subtitle: The Ottoman Empire in the Early Modern World
+  place: London
+  publisher: Longman
+  year: 1995
+- id: fleischer-1986
+  kind: sekundaer
+  authors: ["Fleischer, Cornell H."]
+  title: Bureaucrat and Intellectual in the Ottoman Empire
+  subtitle: The Historian Mustafa Âli (1541–1600)
+  place: Princeton
+  publisher: Princeton University Press
+  year: 1986
+- id: hathaway-2008
+  kind: sekundaer
+  authors: ["Hathaway, Jane"]
+  title: The Arab Lands under Ottoman Rule, 1516–1800
+  place: Harlow
+  publisher: Pearson Longman
+  year: 2008
+
+# --- Editionen und Übersetzungen ---
+- id: forster-1927
+  kind: edition
+  authors: ["Busbecq, Ogier Ghiselin de"]
+  editors: ["Forster, Edward Seymour"]
+  title: The Turkish Letters of Ogier Ghiselin de Busbecq, Imperial Ambassador at Constantinople 1554–1562
+  place: Oxford
+  publisher: Clarendon Press
+  year: 1927
+  note: Englische Übersetzung der lateinischen „Türkischen Briefe“ Busbecqs.
+- id: tietze-1979
+  kind: edition
+  authors: ["Mustafa Âli"]
+  editors: ["Tietze, Andreas"]
+  title: "Muṣṭafā ʿĀlī's Counsel for Sultans of 1581"
+  volume: "2 Bde."
+  place: Wien
+  publisher: Verlag der Österreichischen Akademie der Wissenschaften
+  year: "1979–1982"
+  note: Edition und englische Übersetzung der Ratgeberschrift Nushatü's-selatin.
+- id: crane-akin-2006
+  kind: edition
+  editors: ["Crane, Howard", "Akın, Esra"]
+  title: "Sinan's Autobiographies"
+  subtitle: Five Sixteenth-Century Texts
+  place: Leiden
+  publisher: Brill
+  year: 2006
+  note: Kritische Edition und englische Übersetzung (von Howard Crane und Esra Akın, mit einem Vorwort von Gülru Necipoğlu) der Texte, die der Dichter Sai Mustafa Çelebi nach den Erzählungen Sinans niederschrieb.
+
+# --- Primärquellen ---
+- id: q-busbecq
+  kind: primaer
+  authors: ["Busbecq, Ogier Ghiselin de"]
+  title: Legationis Turcicae epistolae quattuor (Türkische Briefe)
+  written: "Istanbul, Amasya und Wien, 1555–1562; vollständig gedruckt Paris 1589"
+  note: Vier lateinische Briefe des habsburgischen Gesandten am Hof Süleymans, die den Hof, das Heer und das Alltagsleben im Osmanischen Reich beschreiben und in Europa viel gelesen wurden.
+- id: q-mustafa-ali-nushat
+  kind: primaer
+  authors: ["Mustafa Âli"]
+  title: Nushatü's-selatin (Rat für Sultane)
+  written: "Istanbul, 1581"
+  note: Osmanische Ratgeberschrift, in der der Historiker und Beamte Mustafa Âli Missstände in Verwaltung und Ämtervergabe beklagt und an der idealisierten Ordnung der Süleyman-Zeit misst.
+- id: q-tezkiretul-bunyan
+  kind: primaer
+  authors: ["Sai Mustafa Çelebi"]
+  title: Tezkiretü'l-bünyan (Denkschrift über die Bauten)
+  written: "Istanbul, 1580er Jahre"
+  note: Lebensbeschreibung und Werkliste des Architekten Sinan, aufgezeichnet nach dessen eigenen Erzählungen.
+- id: q-kitab-i-bahriye
+  kind: primaer
+  authors: ["Piri Reis"]
+  title: Kitab-ı Bahriye (Buch der Seefahrt)
+  written: "Gallipoli, 1521, überarbeitet 1526"
+  note: Segelhandbuch mit Karten und Beschreibungen der Küsten und Häfen des Mittelmeers, das der osmanische Seeoffizier Süleyman widmete.
+- id: q-seydi-ali-reis
+  kind: primaer
+  authors: ["Seydi Ali Reis"]
+  title: Mir'atü'l-memalik (Spiegel der Länder)
+  written: "Istanbul, 1557"
+  note: Reisebericht eines osmanischen Admirals, der 1554 mit seiner Flotte an die Küste Gujarats verschlagen wurde und über Indien, Zentralasien und Iran nach Istanbul zurückkehrte.
+- id: q-ebussuud-fetwas
+  kind: primaer
+  authors: ["Ebussuud Efendi"]
+  title: Fetwas (Rechtsgutachten)
+  written: "Istanbul, um 1545–1574"
+  note: Tausende Rechtsgutachten des obersten Muftis, überliefert in Sammelhandschriften, darunter Gutachten zum Bodenrecht, zu frommen Stiftungen und gegen die Kızılbaş.
+- id: q-tahrir-defterleri
+  kind: primaer
+  title: Tahrir defterleri (osmanische Steuer- und Katasterregister)
+  written: "Osmanisches Reich, 15. und 16. Jahrhundert"
+  note: Register, in denen die Verwaltung Provinz für Provinz Haushalte, Dörfer, Abgaben und die Vergabe von Timar-Pfründen verzeichnete; heute vor allem in den Staatsarchiven in Istanbul und Ankara.
+- id: q-huerrem-briefe
+  kind: primaer
+  authors: ["Hürrem Sultan"]
+  title: Briefe an Sultan Süleyman und an König Sigismund II. August von Polen
+  written: "Istanbul, um 1530–1558"
+  note: Erhaltene Briefe der Gemahlin Süleymans, die Einblick in ihre persönliche Beziehung zum Sultan und in ihre diplomatische Rolle geben.

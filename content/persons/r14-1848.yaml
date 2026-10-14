@@ -1,0 +1,271 @@
+# Personen: Die Revolutionen von 1848/49
+- id: friedrich-wilhelm-iv
+  name: Friedrich Wilhelm IV.
+  aliases: [Friedrich Wilhelm IV. von Preußen]
+  born: "1795-10-15"
+  died: "1861-01-02"
+  roles: [König von Preußen]
+  summary: König von Preußen 1840–1861 (ab 1858 durch Krankheit regierungsunfähig), der im März 1848 vor den Berliner Barrikadenkämpfern zurückwich, im Herbst die Gegenrevolution einleitete und im April 1849 die ihm von der Frankfurter Nationalversammlung angetragene Kaiserkrone ablehnte.
+  regions: [deutschland]
+  themes: [politik, revolutionen]
+  places: [berlin]
+  related: [heinrich-von-gagern]
+- id: robert-blum
+  name: Robert Blum
+  born: "1807-11-10"
+  died: "1848-11-09"
+  roles: [Publizist, Verleger, Abgeordneter der Nationalversammlung]
+  summary: Aus Köln stammender, in Leipzig wirkender Verleger und Führer der gemäßigten Demokraten in der Paulskirche; im Oktober 1848 im aufständischen Wien gefangen genommen und trotz seiner Immunität als Abgeordneter standrechtlich erschossen.
+  regions: [deutschland, mitteleuropa]
+  themes: [politik, revolutionen]
+  places: [leipzig, frankfurt, wien]
+- id: heinrich-von-gagern
+  name: Heinrich von Gagern
+  born: "1799-08-20"
+  died: "1880-05-22"
+  roles: [Präsident der Nationalversammlung, Reichsministerpräsident]
+  summary: Hessen-darmstädtischer Liberaler, im März 1848 Ministerpräsident seines Landes und im Mai 1848 Präsident der Frankfurter Nationalversammlung; ab Dezember 1848 Reichsministerpräsident und Wortführer der kleindeutschen Lösung mit preußischem Erbkaiser.
+  regions: [deutschland]
+  themes: [politik, verfassung-recht]
+  places: [frankfurt, paulskirche]
+- id: eduard-simson
+  name: Eduard Simson
+  aliases: [Eduard von Simson]
+  born: "1810-11-10"
+  died: "1899-05-02"
+  roles: [Jurist, Präsident der Nationalversammlung]
+  summary: Königsberger Jurist, ab Dezember 1848 Präsident der Nationalversammlung, der im April 1849 die Kaiserdeputation nach Berlin führte; später Präsident des Reichstags und 1879 erster Präsident des Reichsgerichts.
+  regions: [deutschland]
+  themes: [politik, verfassung-recht]
+  places: [paulskirche, berlin]
+- id: erzherzog-johann
+  name: Erzherzog Johann von Österreich
+  aliases: [Johann von Österreich, Reichsverweser]
+  born: "1782-01-20"
+  died: "1859-05-11"
+  roles: [Reichsverweser]
+  summary: Habsburgischer Erzherzog, der als volksnah galt und am 29. Juni 1848 von der Nationalversammlung zum Reichsverweser an der Spitze einer provisorischen Zentralgewalt gewählt wurde, die jedoch ohne eigene Machtmittel blieb.
+  regions: [mitteleuropa, deutschland]
+  themes: [politik]
+  places: [frankfurt, wien]
+- id: gabriel-riesser
+  name: Gabriel Riesser
+  born: "1806-04-02"
+  died: "1863-04-22"
+  roles: [Jurist, Vizepräsident der Nationalversammlung]
+  summary: Hamburger Jurist und Vorkämpfer der rechtlichen Gleichstellung der Juden, 1848/49 Vizepräsident der Nationalversammlung; 1860 als erster Jude Richter an einem deutschen Obergericht.
+  regions: [deutschland]
+  themes: [verfassung-recht, religion]
+  places: [paulskirche]
+- id: friedrich-hecker
+  name: Friedrich Hecker
+  born: "1811-09-28"
+  died: "1881-03-24"
+  roles: [Rechtsanwalt, Revolutionär]
+  summary: Mannheimer Anwalt und Wortführer der badischen Radikaldemokraten, der im April 1848 vergeblich mit einem Freischarenzug die Republik zu erkämpfen suchte; emigrierte in die USA, wo er Farmer wurde und im Bürgerkrieg als Oberst der Union diente.
+  regions: [deutschland, nordamerika]
+  themes: [revolutionen, migration]
+  places: [mannheim, offenburg, konstanz]
+  related: [gustav-struve]
+- id: gustav-struve
+  name: Gustav Struve
+  aliases: [Gustav von Struve]
+  born: "1805-10-11"
+  died: "1870-08-21"
+  roles: [Publizist, Revolutionär]
+  summary: Radikaldemokratischer Publizist, der mit Hecker 1847 das Offenburger Programm verfasste, im September 1848 in Lörrach die deutsche Republik ausrief und 1849 an der badischen Revolution teilnahm; lebte danach lange in den USA.
+  regions: [deutschland, nordamerika]
+  themes: [revolutionen, migration]
+  places: [offenburg]
+  related: [friedrich-hecker]
+- id: carl-schurz
+  name: Carl Schurz
+  born: "1829-03-02"
+  died: "1906-05-14"
+  roles: [Revolutionär, Senator, Innenminister der USA]
+  summary: Bonner Student, der 1849 in der Reichsverfassungskampagne kämpfte, aus der belagerten Festung Rastatt entkam und 1850 seinen Lehrer Gottfried Kinkel aus dem Zuchthaus Spandau befreite; in den USA General im Bürgerkrieg, Senator und 1877–1881 Innenminister.
+  regions: [deutschland, nordamerika]
+  themes: [revolutionen, migration, politik]
+  places: [rastatt, new-york]
+- id: mathilde-franziska-anneke
+  name: Mathilde Franziska Anneke
+  born: "1817-04-03"
+  died: "1884-11-25"
+  roles: [Schriftstellerin, Frauenrechtlerin]
+  summary: Westfälische Publizistin, die 1848 in Köln eine Frauenzeitung herausgab, 1849 ihren Mann im pfälzisch-badischen Feldzug begleitete und nach der Emigration in den USA für Frauenwahlrecht und gegen Sklaverei eintrat.
+  regions: [deutschland, nordamerika]
+  themes: [gesellschaft, migration, revolutionen]
+- id: louis-philippe
+  name: Louis-Philippe
+  aliases: [Louis-Philippe I., Bürgerkönig]
+  born: "1773-10-06"
+  died: "1850-08-26"
+  roles: [König der Franzosen]
+  summary: Aus dem Haus Orléans stammender „Bürgerkönig“, der nach der Julirevolution 1830 König der Franzosen wurde, eine Wahlrechtsreform verweigerte und am 24. Februar 1848 abdankte; starb im englischen Exil.
+  regions: [frankreich]
+  themes: [politik]
+  places: [paris, london]
+- id: alphonse-de-lamartine
+  name: Alphonse de Lamartine
+  born: "1790-10-21"
+  died: "1869-02-28"
+  roles: [Dichter, Außenminister]
+  summary: Romantischer Dichter und Historiker, der am 24. Februar 1848 die Republik mit ausrief und als Außenminister der Provisorischen Regierung zum populärsten Gesicht der Februarrevolution wurde; bei der Präsidentenwahl im Dezember 1848 erhielt er nur einen winzigen Stimmenanteil.
+  regions: [frankreich]
+  themes: [politik, kultur-kunst]
+  places: [paris]
+- id: louis-blanc
+  name: Louis Blanc
+  born: "1811-10-29"
+  died: "1882-12-06"
+  roles: [Sozialist, Publizist]
+  summary: Sozialistischer Theoretiker („Organisation der Arbeit“) und Mitglied der Provisorischen Regierung von 1848, der das Recht auf Arbeit forderte und die Arbeiterkommission im Palais du Luxembourg leitete; nach den Junikämpfen im Exil in England.
+  regions: [frankreich]
+  themes: [politik, gesellschaft]
+  places: [paris, london]
+- id: victor-schoelcher
+  name: Victor Schœlcher
+  aliases: [Victor Schoelcher]
+  born: "1804-07-22"
+  died: "1893-12-25"
+  roles: [Abolitionist, Unterstaatssekretär]
+  summary: Französischer Gegner der Sklaverei, der als Unterstaatssekretär für die Kolonien das Dekret vom 27. April 1848 vorbereitete, mit dem die Sklaverei in allen französischen Kolonien abgeschafft wurde.
+  regions: [frankreich, karibik]
+  themes: [sklaverei-unfreiheit, politik]
+  places: [paris]
+- id: ferdinand-i-oesterreich
+  name: Ferdinand I. von Österreich
+  aliases: [Ferdinand der Gütige]
+  born: "1793-04-19"
+  died: "1875-06-29"
+  roles: [Kaiser von Österreich]
+  summary: Kaiser von Österreich 1835–1848, der wegen Krankheit kaum selbst regierte; nach den Märzunruhen entließ er Metternich, am 2. Dezember 1848 dankte er in Olmütz zugunsten seines Neffen Franz Joseph ab.
+  regions: [mitteleuropa]
+  themes: [politik]
+  places: [wien, olmuetz]
+- id: felix-zu-schwarzenberg
+  name: Felix zu Schwarzenberg
+  aliases: [Felix Fürst zu Schwarzenberg]
+  born: "1800-10-02"
+  died: "1852-04-05"
+  roles: [Ministerpräsident Österreichs]
+  summary: Ab November 1848 österreichischer Ministerpräsident, der die Gegenrevolution organisierte, auf einem ungeteilten Gesamtstaat bestand und damit die großdeutsche Lösung in Frankfurt unmöglich machte; erzwang 1850 Preußens Nachgeben in Olmütz.
+  regions: [mitteleuropa]
+  themes: [politik]
+  places: [wien, kremsier, olmuetz]
+- id: alfred-zu-windischgraetz
+  name: Alfred zu Windischgrätz
+  aliases: [Alfred Fürst zu Windischgrätz]
+  born: "1787-05-11"
+  died: "1862-03-21"
+  roles: [Feldmarschall]
+  summary: Österreichischer Feldmarschall, der im Juni 1848 den Prager Pfingstaufstand niederschlug, Ende Oktober 1848 das aufständische Wien erobern ließ und 1849 im Krieg gegen Ungarn scheiterte.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+  places: [prag, wien]
+- id: joseph-radetzky
+  name: Joseph Wenzel Radetzky
+  aliases: [Radetzky, Josef Graf Radetzky von Radetz]
+  born: "1766-11-02"
+  died: "1858-01-05"
+  roles: [Feldmarschall, Generalgouverneur]
+  summary: Österreichischer Feldmarschall, der nach dem Mailänder Aufstand 1848 die Lombardei räumen musste, dann Sardinien-Piemont bei Custozza (1848) und Novara (1849) schlug und die habsburgische Herrschaft in Oberitalien wiederherstellte.
+  regions: [italien, mitteleuropa]
+  themes: [krieg-militaer]
+  places: [mailand, venedig]
+- id: karl-albert-sardinien
+  name: Karl Albert von Sardinien
+  aliases: [Carlo Alberto]
+  born: "1798-10-02"
+  died: "1849-07-28"
+  roles: [König von Sardinien-Piemont]
+  summary: König von Sardinien-Piemont 1831–1849, der im März 1848 das Statuto Albertino erließ und Österreich den Krieg erklärte; nach der Niederlage von Novara dankte er zugunsten seines Sohnes Viktor Emanuel II. ab und starb kurz darauf im portugiesischen Exil.
+  regions: [italien]
+  themes: [politik, krieg-militaer]
+- id: giuseppe-mazzini
+  name: Giuseppe Mazzini
+  born: "1805-06-22"
+  died: "1872-03-10"
+  roles: [Revolutionär, Triumvir der Römischen Republik]
+  summary: Genuesischer Verfechter einer demokratischen, geeinten italienischen Republik und Gründer des „Jungen Italien“; 1849 einer der drei Triumvirn der Römischen Republik, danach wieder im Londoner Exil.
+  regions: [italien, britische-inseln]
+  themes: [politik, revolutionen]
+  places: [rom, london]
+- id: giuseppe-garibaldi
+  name: Giuseppe Garibaldi
+  born: "1807-07-04"
+  died: "1882-06-02"
+  roles: [Freischarenführer, General]
+  summary: Freiheitskämpfer, der nach Jahren in Südamerika 1848 nach Italien zurückkehrte, 1849 die Römische Republik gegen französische Truppen verteidigte und 1860 mit dem „Zug der Tausend“ Süditalien für die Einigung Italiens eroberte.
+  regions: [italien, suedamerika]
+  themes: [krieg-militaer, revolutionen]
+  places: [rom]
+- id: frantisek-palacky
+  name: František Palacký
+  aliases: [Franz Palacky]
+  born: "1798-06-14"
+  died: "1876-05-26"
+  roles: [Historiker, Politiker]
+  summary: Tschechischer Historiker und Begründer der modernen tschechischen Nationalgeschichtsschreibung, der im April 1848 die Teilnahme am Frankfurter Parlament ablehnte, im Juni den Prager Slawenkongress leitete und für ein föderales Österreich gleichberechtigter Völker eintrat (Austroslawismus).
+  regions: [mitteleuropa]
+  themes: [politik, geschichtsschreibung]
+  places: [prag, kremsier]
+- id: lajos-kossuth
+  name: Lajos Kossuth
+  aliases: [Ludwig Kossuth, Kossuth Lajos]
+  born: "1802-09-19"
+  died: "1894-03-20"
+  roles: [Finanzminister, Regent-Präsident Ungarns]
+  summary: Wortführer der ungarischen Liberalen, 1848 Finanzminister, dann Leiter der Landesverteidigung und nach der Unabhängigkeitserklärung vom April 1849 Regent-Präsident Ungarns; ging nach der Niederlage ins Exil, warb in Großbritannien und den USA für die ungarische Sache und starb in Turin.
+  regions: [mitteleuropa, britische-inseln, nordamerika]
+  themes: [politik, revolutionen]
+  places: [budapest, debrecen]
+- id: lajos-batthyany
+  name: Lajos Batthyány
+  aliases: [Ludwig Batthyány]
+  born: "1807-02-10"
+  died: "1849-10-06"
+  roles: [Ministerpräsident Ungarns]
+  summary: Liberaler Magnat und im April 1848 erster Ministerpräsident einer verantwortlichen ungarischen Regierung; trat im September 1848 zurück und wurde nach der Niederlage am 6. Oktober 1849 in Pest erschossen.
+  regions: [mitteleuropa]
+  themes: [politik]
+  places: [budapest]
+- id: sandor-petofi
+  name: Sándor Petőfi
+  aliases: [Alexander Petőfi, Petőfi Sándor]
+  born: "1823-01-01"
+  died: "1849-07-31"
+  roles: [Dichter]
+  summary: Ungarischer Nationaldichter, der am 15. März 1848 in Pest sein „Nationallied“ vortrug; seit der Schlacht bei Segesvár (Schäßburg) am 31. Juli 1849 verschollen und vermutlich gefallen.
+  regions: [mitteleuropa]
+  themes: [kultur-kunst, revolutionen]
+  places: [budapest]
+- id: artur-goergei
+  name: Artúr Görgei
+  aliases: [Arthur Görgey]
+  born: "1818-01-30"
+  died: "1916-05-21"
+  roles: [General]
+  summary: Erfolgreichster Feldherr der ungarischen Honvéd-Armee, der am 13. August 1849 bei Világos vor der russischen Armee kapitulierte; überlebte, galt aber vielen Landsleuten lange als Verräter.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+  places: [vilagos]
+- id: josip-jelacic
+  name: Josip Jelačić
+  aliases: [Joseph Jellačić]
+  born: "1801-10-16"
+  died: "1859-05-20"
+  roles: [Banus von Kroatien, General]
+  summary: Seit 1848 Banus von Kroatien, der sich gegen die ungarische Regierung stellte, im September 1848 mit Truppen in Ungarn einmarschierte und im Oktober an der Rückeroberung Wiens beteiligt war; in Kroatien bis heute Nationalheld.
+  regions: [suedosteuropa, mitteleuropa]
+  themes: [krieg-militaer, politik]
+  places: [wien]
+- id: nikolaus-i
+  name: Nikolaus I.
+  aliases: [Nikolai I.]
+  born: "1796-07-06"
+  died: "1855-03-02"
+  roles: [Zar von Russland]
+  summary: Russischer Zar 1825–1855, Verfechter der monarchischen Ordnung, der 1849 dem österreichischen Kaiser eine Armee von schätzungsweise 200.000 Mann zur Niederwerfung der ungarischen Revolution schickte und als „Gendarm Europas“ galt.
+  regions: [russland, osteuropa]
+  themes: [politik, krieg-militaer]

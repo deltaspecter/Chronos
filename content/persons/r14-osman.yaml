@@ -1,0 +1,271 @@
+# Personen: Das Osmanische Reich auf dem Höhepunkt (r14-osman)
+- id: bayezid-ii
+  name: Bayezid II.
+  aliases: [Bayezid Veli]
+  born: "~1447"
+  died: "1512"
+  roles: [Sultan]
+  summary: Sohn Mehmeds II. und osmanischer Sultan 1481–1512, der die Eroberungen seines Vaters festigte und 1492 aus Spanien vertriebene Juden im Reich aufnahm; 1512 von seinem Sohn Selim zur Abdankung gezwungen, starb er kurz darauf.
+  regions: [anatolien, suedosteuropa]
+  themes: [imperien, politik]
+  places: [istanbul, edirne]
+  related: [mehmed-ii, selim-i]
+- id: selim-i
+  name: Selim I.
+  aliases: [Yavuz Sultan Selim, Selim der Gestrenge]
+  born: "~1470"
+  died: "1520-09-22"
+  roles: [Sultan]
+  summary: Osmanischer Sultan 1512–1520, der seinen Vater verdrängte, 1514 bei Tschaldiran den Safawidenschah Ismail besiegte und 1516/17 das Mamlukensultanat mit Syrien, Ägypten und der Schutzherrschaft über Mekka und Medina eroberte.
+  regions: [anatolien, levante, aegypten]
+  themes: [imperien, krieg-militaer]
+  places: [istanbul, kairo, tschaldiran, mardsch-dabiq]
+  related: [bayezid-ii, sueleyman-i, ismail-i, tumanbay-ii]
+- id: sueleyman-i
+  name: Süleyman I.
+  aliases: [Süleyman der Prächtige, Kanuni Sultan Süleyman, Süleyman der Gesetzgeber, Soliman]
+  born: "~1495"
+  died: "1566-09"
+  roles: [Sultan]
+  summary: Osmanischer Sultan 1520–1566, unter dem das Reich mit Belgrad, Rhodos, Ungarn, dem Irak und Nordafrika seine größte Ausdehnung in Europa erreichte; als Kanuni (Gesetzgeber) erinnert, Bauherr der Süleymaniye; starb während der Belagerung von Szigetvár.
+  regions: [anatolien, suedosteuropa, mitteleuropa, westasien]
+  themes: [imperien, krieg-militaer, verfassung-recht, kultur-kunst]
+  places: [istanbul, belgrad, mohacs, wien, budapest, szigetvar, sueleymaniye-moschee]
+  related: [selim-i, huerrem-sultan, ibrahim-pascha, mimar-sinan, karl-v, ferdinand-i]
+  certainty: wahrscheinlich
+- id: selim-ii
+  name: Selim II.
+  born: "1524"
+  died: "1574"
+  roles: [Sultan]
+  summary: Sohn Süleymans und Hürrems und osmanischer Sultan 1566–1574, in dessen Regierungszeit Zypern erobert und die osmanische Flotte bei Lepanto geschlagen wurde; die Regierungsgeschäfte führte weitgehend der Großwesir Sokollu Mehmed Pascha.
+  regions: [anatolien, suedosteuropa]
+  themes: [imperien, politik]
+  places: [istanbul, edirne, selimiye-moschee]
+  related: [sueleyman-i, huerrem-sultan, sokollu-mehmed-pascha]
+- id: ismail-i
+  name: Ismail I.
+  aliases: [Schah Ismail, Esmāʿil]
+  born: "1487"
+  died: "1524"
+  roles: [Schah, Reichsgründer, Dichter]
+  summary: Oberhaupt des Safawiden-Ordens, der sich 1501 in Tabriz zum Schah ausrufen ließ, das Zwölferschiitentum zur Staatsreligion Irans machte und unter den turkmenischen Kızılbaş Anatoliens viele Anhänger hatte; 1514 bei Tschaldiran von Selim I. geschlagen.
+  regions: [iran, anatolien]
+  themes: [imperien, religion]
+  places: [tabriz, tschaldiran]
+  related: [selim-i, tahmasp-i]
+- id: tahmasp-i
+  name: Tahmasp I.
+  born: "1514"
+  died: "1576"
+  roles: [Schah]
+  summary: Sohn Ismails und Schah von Iran 1524–1576, der sich in mehreren Kriegen gegen Süleyman behauptete und 1555 den Frieden von Amasya schloss, in dem der Irak osmanisch und Aserbaidschan safawidisch blieb.
+  regions: [iran]
+  themes: [imperien, krieg-militaer]
+  places: [tabriz, amasya]
+  related: [ismail-i, sueleyman-i]
+- id: qansuh-al-ghuri
+  name: Qansuh al-Ghuri
+  aliases: [Kansu Gavri, al-Ashraf Qansuh al-Ghawri]
+  died: "1516-08-24"
+  roles: [Sultan]
+  summary: Vorletzter Mamlukensultan (1501–1516), der Flotten gegen die Portugiesen ins Rote Meer und den Indischen Ozean schickte und in der Schlacht von Mardsch Dabiq gegen Selim I. ums Leben kam.
+  regions: [aegypten, levante]
+  themes: [imperien, krieg-militaer]
+  places: [kairo, mardsch-dabiq]
+  related: [tumanbay-ii, selim-i]
+- id: tumanbay-ii
+  name: Tumanbay II.
+  aliases: [al-Ashraf Tuman Bay, Tomanbay]
+  died: "1517-04"
+  roles: [Sultan]
+  summary: Letzter Mamlukensultan (1516–1517), der nach der Niederlage bei Ridaniya den Widerstand fortsetzte, gefangen genommen und im April 1517 am Stadttor Bab Zuwayla in Kairo gehängt wurde.
+  regions: [aegypten]
+  themes: [imperien, krieg-militaer]
+  places: [kairo]
+  related: [qansuh-al-ghuri, selim-i]
+- id: ludwig-ii-ungarn
+  name: Ludwig II. von Ungarn
+  aliases: [II. Lajos, Ludvík Jagellonský]
+  born: "1506-07-01"
+  died: "1526-08-29"
+  roles: [König von Ungarn und Böhmen]
+  summary: Jagiellonischer König von Ungarn und Böhmen seit 1516, der in der Schlacht bei Mohács gegen Süleyman unterlag und auf der Flucht ertrank; sein Tod ohne Erben führte zur Doppelwahl Ferdinands von Habsburg und Johann Zápolyas.
+  regions: [mitteleuropa]
+  themes: [politik, krieg-militaer]
+  places: [mohacs, budapest]
+  related: [ferdinand-i, johann-zapolya, sueleyman-i]
+- id: ferdinand-i
+  name: Ferdinand I.
+  aliases: [Ferdinand von Habsburg]
+  born: "1503-03-10"
+  died: "1564-07-25"
+  roles: [König von Böhmen und Ungarn, Kaiser]
+  summary: Jüngerer Bruder Karls V., seit 1526 König von Böhmen und (umstritten) von Ungarn, ab 1556 Kaiser; verteidigte 1529 Wien gegen Süleyman und musste dem Sultan ab 1547 für den von ihm gehaltenen Teil Ungarns jährliche Zahlungen leisten.
+  regions: [mitteleuropa, deutschland]
+  themes: [politik, imperien]
+  places: [wien]
+  related: [karl-v, johann-zapolya, sueleyman-i, busbecq]
+- id: johann-zapolya
+  name: Johann Zápolya
+  aliases: [Szapolyai János, Johann I. von Ungarn]
+  born: "1487"
+  died: "1540-07-22"
+  roles: [Woiwode von Siebenbürgen, König von Ungarn]
+  summary: Siebenbürgischer Magnat, den der ungarische Adel nach Mohács 1526 zum König wählte; im Kampf gegen den Gegenkönig Ferdinand unterstellte er sich dem Schutz Süleymans. Nach seinem Tod gliederte der Sultan Buda 1541 seinem Reich ein.
+  regions: [mitteleuropa]
+  themes: [politik]
+  places: [budapest]
+  related: [ferdinand-i, sueleyman-i, ludwig-ii-ungarn]
+- id: franz-i
+  name: Franz I. von Frankreich
+  aliases: [François Ier]
+  born: "1494-09-12"
+  died: "1547-03-31"
+  roles: [König von Frankreich]
+  summary: König von Frankreich 1515–1547 und großer Rivale Karls V., der nach seiner Gefangennahme bei Pavia 1525 die Zusammenarbeit mit Süleyman suchte; 1543 belagerten eine osmanische und eine französische Flotte gemeinsam Nizza.
+  regions: [frankreich]
+  themes: [politik, krieg-militaer]
+  related: [karl-v, sueleyman-i, hayreddin-barbarossa]
+- id: ibrahim-pascha
+  name: Ibrahim Pascha
+  aliases: [Pargalı İbrahim Paşa, Makbul İbrahim Paşa, Maktul İbrahim Paşa]
+  born: "~1495"
+  died: "1536-03-15"
+  roles: [Großwesir, Feldherr]
+  summary: Aus Parga an der epirotischen Küste stammender, als Junge versklavter Christ, Jugendfreund Süleymans und Großwesir 1523–1536; ordnete 1525 die Verwaltung Ägyptens neu und führte Feldzüge gegen Ungarn und Iran, bis ihn der Sultan 1536 hinrichten ließ.
+  regions: [anatolien, suedosteuropa]
+  themes: [politik, krieg-militaer]
+  places: [istanbul, topkapi-palast]
+  related: [sueleyman-i, huerrem-sultan]
+- id: huerrem-sultan
+  name: Hürrem Sultan
+  aliases: [Roxelane, Roxelana, Haseki Hürrem]
+  born: "~1505"
+  died: "1558-04-15"
+  roles: [Gemahlin des Sultans, Stifterin]
+  summary: Aus Ruthenien (heute Ukraine) stammende, als Sklavin in den Harem gelangte Favoritin Süleymans, die er gegen alle Gewohnheit freiließ und heiratete; Mutter Selims II., einflussreiche Briefpartnerin des Sultans und ausländischer Herrscher und Stifterin großer Wohltätigkeitsbauten in Istanbul und Jerusalem.
+  regions: [anatolien, osteuropa]
+  themes: [politik, gesellschaft, sklaverei-unfreiheit]
+  places: [istanbul, topkapi-palast, jerusalem]
+  related: [sueleyman-i, selim-ii, rustem-pascha]
+  certainty: wahrscheinlich
+- id: rustem-pascha
+  name: Rüstem Pascha
+  aliases: [Rüstem Paşa]
+  born: "~1500"
+  died: "1561"
+  roles: [Großwesir]
+  summary: Aus der Knabenlese hervorgegangener Großwesir (1544–1553 und 1555–1561), Schwiegersohn Süleymans und Hürrems durch die Ehe mit Mihrimah Sultan; stärkte die Staatsfinanzen und galt Zeitgenossen als Mitbetreiber der Hinrichtung des Prinzen Mustafa.
+  regions: [anatolien, suedosteuropa]
+  themes: [politik, wirtschaft-handel]
+  places: [istanbul]
+  related: [sueleyman-i, huerrem-sultan, sehzade-mustafa]
+- id: sehzade-mustafa
+  name: Şehzade Mustafa
+  aliases: [Prinz Mustafa]
+  born: "~1515"
+  died: "1553-10-06"
+  roles: [Prinz, Provinzgouverneur]
+  summary: Ältester Sohn Süleymans aus der Verbindung mit Mahidevran, bei Janitscharen populär, den sein Vater auf dem Persienfeldzug 1553 bei Ereğli unter dem Vorwurf des Aufruhrs erdrosseln ließ – ein Ereignis, das Zeitgenossen erschütterte und Hürrem und Rüstem zugeschrieben wurde.
+  regions: [anatolien]
+  themes: [politik]
+  related: [sueleyman-i, huerrem-sultan, rustem-pascha]
+- id: sokollu-mehmed-pascha
+  name: Sokollu Mehmed Pascha
+  aliases: [Mehmed-paša Sokolović]
+  born: "~1505"
+  died: "1579-10"
+  roles: [Großwesir, Admiral]
+  summary: Aus einer serbisch-orthodoxen Familie in Bosnien stammender Knabenlese-Rekrut, Großadmiral und von 1565 bis zu seiner Ermordung 1579 Großwesir unter Süleyman, Selim II. und Murad III.; verfolgte weit ausgreifende Pläne bis zu einem Kanal am Isthmus von Suez.
+  regions: [suedosteuropa, anatolien]
+  themes: [politik, imperien]
+  places: [istanbul, szigetvar]
+  related: [sueleyman-i, selim-ii, mimar-sinan]
+- id: hayreddin-barbarossa
+  name: Hayreddin Barbarossa
+  aliases: [Hızır Reis, Barbaros Hayreddin Paşa, Chaireddin Barbarossa]
+  born: "~1478"
+  died: "1546-07"
+  roles: [Korsar, Großadmiral, Gouverneur von Algier]
+  summary: Von der Insel Lesbos stammender Korsar, der Algier unter osmanische Oberhoheit brachte, 1533 Großadmiral (Kapudan Pascha) wurde und 1538 bei Preveza die Flotte der Heiligen Liga unter Andrea Doria schlug.
+  regions: [mittelmeer, nordafrika]
+  themes: [krieg-militaer, imperien]
+  places: [algier, tunis, preveza, istanbul]
+  related: [sueleyman-i, andrea-doria, franz-i]
+  certainty: wahrscheinlich
+- id: andrea-doria
+  name: Andrea Doria
+  born: "1466"
+  died: "1560"
+  roles: [Admiral, Staatsmann]
+  summary: Genuesischer Admiral, der ab 1528 im Dienst Karls V. stand, 1535 an der Eroberung von Tunis beteiligt war und 1538 die Flotte der Heiligen Liga bei Preveza befehligte.
+  regions: [italien, mittelmeer]
+  themes: [krieg-militaer]
+  places: [tunis, preveza]
+  related: [karl-v, hayreddin-barbarossa]
+- id: piri-reis
+  name: Piri Reis
+  aliases: [Ahmed Muhiddin Piri]
+  born: "~1470"
+  died: "~1553"
+  roles: [Seeoffizier, Kartograf]
+  summary: Osmanischer Seeoffizier und Kartograf, Neffe des Korsaren Kemal Reis, der 1513 eine Weltkarte unter Verwendung einer Kolumbus-Karte und 1521/1526 das Segelhandbuch Kitab-ı Bahriye schuf; nach einem gescheiterten Angriff auf Hormus in Kairo hingerichtet.
+  regions: [mittelmeer, indischer-ozean]
+  themes: [wissenschaft-technik, krieg-militaer]
+  places: [hormus, kairo]
+  related: [sueleyman-i, seydi-ali-reis]
+- id: seydi-ali-reis
+  name: Seydi Ali Reis
+  died: "1563"
+  roles: [Admiral, Autor]
+  summary: Osmanischer Admiral, dessen Flotte 1554 im Indischen Ozean in einen Sturm geriet und nach Gujarat verschlagen wurde; er kehrte über Land nach Istanbul zurück und beschrieb die Reise im „Spiegel der Länder“.
+  regions: [indischer-ozean, suedasien, zentralasien]
+  themes: [handelsnetze, schrift-medien]
+  places: [basra]
+  related: [piri-reis, sueleyman-i]
+- id: mimar-sinan
+  name: Sinan
+  aliases: [Mimar Sinan, Koca Mimar Sinan]
+  born: "~1490"
+  died: "1588"
+  roles: [Architekt, Militäringenieur]
+  summary: Aus einer christlichen Familie in der Gegend von Kayseri stammender Knabenlese-Rekrut, Janitscharenoffizier und von 1539 bis zu seinem Tod Hofarchitekt; schuf unter anderem die Şehzade-Moschee und die Süleymaniye in Istanbul sowie die Selimiye in Edirne.
+  regions: [anatolien, suedosteuropa]
+  themes: [kultur-kunst, wissenschaft-technik]
+  places: [istanbul, sueleymaniye-moschee, selimiye-moschee, edirne]
+  related: [sueleyman-i, selim-ii, sokollu-mehmed-pascha]
+  certainty: wahrscheinlich
+- id: ebussuud-efendi
+  name: Ebussuud Efendi
+  aliases: [Ebu's-su'ud, Abu al-Suud]
+  born: "~1490"
+  died: "1574"
+  roles: [Rechtsgelehrter, Scheichülislam]
+  summary: Rechtsgelehrter und von 1545 bis 1574 oberster Mufti (Scheichülislam) des Reiches, dessen Fetwas sultanisches Recht (Kanun) und Scharia, etwa im Bodenrecht, miteinander in Einklang brachten und die Herrschaft Süleymans als Kalifat deuteten.
+  regions: [anatolien]
+  themes: [verfassung-recht, religion]
+  places: [istanbul]
+  related: [sueleyman-i]
+- id: busbecq
+  name: Ogier Ghiselin de Busbecq
+  aliases: [Augerius Gislenius Busbequius]
+  born: "~1521"
+  died: "1592"
+  roles: [Diplomat, Gelehrter]
+  summary: Flämischer Humanist, 1554–1562 Gesandter Ferdinands I. am Hof Süleymans, dessen lateinische „Türkische Briefe“ zu den meistgelesenen europäischen Berichten über das Osmanische Reich zählten; er ließ unter anderem die Inschrift der Res gestae des Augustus in Ankara abschreiben.
+  regions: [westeuropa, anatolien]
+  themes: [politik, schrift-medien]
+  places: [istanbul, amasya, wien]
+  related: [ferdinand-i, sueleyman-i]
+- id: mustafa-ali
+  name: Mustafa Âli
+  aliases: [Gelibolulu Mustafa Âli]
+  born: "1541"
+  died: "1600"
+  roles: [Historiker, Beamter, Dichter]
+  summary: Osmanischer Schreiber, Finanzbeamter und Historiker aus Gallipoli, Verfasser der Weltgeschichte Künhü'l-ahbar und der Ratgeberschrift „Rat für Sultane“ (1581), in der er den Verfall der Ordnung seit Süleyman beklagte.
+  regions: [anatolien, suedosteuropa]
+  themes: [geschichtsschreibung, politik]
+  places: [istanbul]
+  related: [sueleyman-i]

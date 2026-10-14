@@ -1,0 +1,175 @@
+# Ereignisse: Der Dreißigjährige Krieg und der Westfälische Frieden
+- id: dreissigjaehriger-krieg
+  title: Dreißigjähriger Krieg
+  aliases: [Dreißigjähriger Krieg, Thirty Years' War, Teutscher Krieg]
+  start: "1618-05-23"
+  end: "1648-10-24"
+  weight: 1
+  kind: krieg
+  summary: Folge von Kriegen in Mitteleuropa, die mit dem böhmischen Ständeaufstand begann und sich zu einem europäischen Konflikt um Konfession, Verfassung des Reiches und die Vormacht der Habsburger ausweitete; sie endete mit dem Westfälischen Frieden.
+  regions: [mitteleuropa, deutschland, europa]
+  themes: [krieg-militaer, religion, politik]
+  places: [prag, magdeburg, muenster, osnabrueck]
+  persons: [ferdinand-ii, albrecht-von-wallenstein, gustav-ii-adolf, kardinal-richelieu]
+  polities: [heiliges-roemisches-reich, habsburgermonarchie, koenigreich-schweden, koenigreich-frankreich, spanisches-kolonialreich]
+- id: prager-fenstersturz-1618
+  title: Prager Fenstersturz
+  aliases: [Zweiter Prager Fenstersturz]
+  date: "1618-05-23"
+  weight: 2
+  kind: ereignis
+  summary: Protestantische böhmische Adlige werfen in der Prager Burg die königlichen Statthalter Jaroslav Borsita von Martinitz und Wilhelm Slavata sowie den Sekretär Philipp Fabricius aus dem Fenster; alle drei überleben. Der Akt eröffnet den Aufstand der böhmischen Stände.
+  regions: [mitteleuropa]
+  themes: [politik, religion]
+  places: [prager-burg, prag]
+  polities: [koenigreich-boehmen, habsburgermonarchie]
+- id: schlacht-am-weissen-berg
+  title: Schlacht am Weißen Berg
+  date: "1620-11-08"
+  weight: 2
+  kind: schlacht
+  summary: Kaiserliche und ligistische Truppen unter Bucquoy und Tilly schlagen das Heer der böhmischen Stände vor Prag; König Friedrich V. flieht, Böhmen wird rekatholisiert, 1621 werden 27 Anführer des Aufstands in Prag hingerichtet.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer, religion]
+  places: [weisser-berg, prag]
+  persons: [friedrich-v-pfalz, johann-tserclaes-von-tilly, maximilian-i-bayern, ferdinand-ii]
+  polities: [koenigreich-boehmen, habsburgermonarchie]
+- id: schlacht-bei-lutter
+  title: Schlacht bei Lutter am Barenberge
+  date: "1626-08-27"
+  weight: 3
+  kind: schlacht
+  summary: Tilly besiegt das Heer Christians IV. von Dänemark im nördlichen Harzvorland und entscheidet damit die dänische Phase des Krieges.
+  regions: [deutschland]
+  themes: [krieg-militaer]
+  places: [lutter-am-barenberge]
+  persons: [johann-tserclaes-von-tilly, christian-iv-daenemark]
+  polities: [daenemark-norwegen]
+- id: restitutionsedikt
+  title: Restitutionsedikt
+  date: "1629-03-06"
+  weight: 2
+  kind: gesetz
+  summary: Kaiser Ferdinand II. ordnet ohne Zustimmung des Reichstags die Rückgabe aller seit 1552 von Protestanten eingezogenen geistlichen Güter an; das Edikt treibt auch kaisertreue Lutheraner in die Opposition.
+  regions: [deutschland]
+  themes: [religion, verfassung-recht]
+  persons: [ferdinand-ii]
+  polities: [heiliges-roemisches-reich]
+- id: frieden-von-luebeck
+  title: Frieden von Lübeck
+  date: "1629-05-22"
+  weight: 3
+  kind: vertrag
+  summary: Christian IV. von Dänemark erhält seine Länder ohne Gebietsverluste zurück und verpflichtet sich, nicht mehr in die Angelegenheiten des Reiches einzugreifen.
+  regions: [deutschland, nordeuropa]
+  themes: [politik]
+  persons: [christian-iv-daenemark, albrecht-von-wallenstein]
+  polities: [daenemark-norwegen, heiliges-roemisches-reich]
+- id: landung-gustav-adolfs
+  title: Landung Gustav Adolfs in Pommern
+  date: "1630-07-06"
+  weight: 2
+  kind: ereignis
+  summary: Der schwedische König landet mit einem Heer auf Usedom und greift in den Krieg im Reich ein; Frankreich unterstützt ihn ab 1631 mit Subsidien (Vertrag von Bärwalde).
+  regions: [deutschland, nordeuropa]
+  themes: [krieg-militaer]
+  persons: [gustav-ii-adolf]
+  polities: [koenigreich-schweden]
+- id: zerstoerung-magdeburgs
+  title: Zerstörung Magdeburgs
+  aliases: [Magdeburger Hochzeit]
+  date: "1631-05-20"
+  weight: 2
+  kind: katastrophe
+  summary: Kaiserlich-ligistische Truppen unter Tilly und Pappenheim erstürmen die mit Schweden verbündete Stadt; Plünderung und ein Großbrand zerstören sie fast vollständig, nach Schätzungen sterben rund 20.000 Menschen.
+  regions: [deutschland]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [magdeburg]
+  persons: [johann-tserclaes-von-tilly, gottfried-heinrich-zu-pappenheim, peter-hagendorf]
+- id: schlacht-bei-breitenfeld-1631
+  title: Schlacht bei Breitenfeld
+  date: "1631-09-17"
+  weight: 2
+  kind: schlacht
+  summary: Das schwedisch-sächsische Heer unter Gustav Adolf schlägt Tilly nördlich von Leipzig; der Sieg öffnet den Schweden den Weg nach Süddeutschland.
+  regions: [deutschland]
+  themes: [krieg-militaer]
+  places: [breitenfeld, leipzig]
+  persons: [gustav-ii-adolf, johann-tserclaes-von-tilly, johann-georg-i-sachsen]
+  polities: [koenigreich-schweden, kurfuerstentum-sachsen]
+- id: schlacht-bei-luetzen-1632
+  title: Schlacht bei Lützen
+  date: "1632-11-16"
+  weight: 2
+  kind: schlacht
+  summary: Schweden und Kaiserliche unter Wallenstein kämpfen südwestlich von Leipzig; König Gustav Adolf und der kaiserliche General Pappenheim kommen ums Leben, Wallenstein zieht sich nach Böhmen zurück.
+  regions: [deutschland]
+  themes: [krieg-militaer]
+  places: [luetzen]
+  persons: [gustav-ii-adolf, albrecht-von-wallenstein, gottfried-heinrich-zu-pappenheim]
+  polities: [koenigreich-schweden]
+- id: ermordung-wallensteins
+  title: Ermordung Wallensteins
+  date: "1634-02-25"
+  weight: 3
+  kind: ereignis
+  summary: Nachdem Kaiser Ferdinand II. ihn wegen eigenmächtiger Verhandlungen mit den Gegnern abgesetzt hat, wird Wallenstein in Eger von Offizieren seines eigenen Heeres getötet.
+  regions: [mitteleuropa]
+  themes: [politik, gewalt-genozid]
+  places: [eger]
+  persons: [albrecht-von-wallenstein, ferdinand-ii]
+- id: schlacht-bei-noerdlingen-1634
+  title: Schlacht bei Nördlingen
+  date: "1634-09-06"
+  weight: 3
+  kind: schlacht
+  summary: Ein kaiserlich-spanisches Heer schlägt Schweden und Protestanten unter Gustav Horn und Bernhard von Sachsen-Weimar; die schwedische Stellung in Süddeutschland bricht zusammen.
+  regions: [deutschland]
+  themes: [krieg-militaer]
+  places: [noerdlingen]
+  persons: [ferdinand-iii, bernhard-von-sachsen-weimar]
+  polities: [koenigreich-schweden, spanisches-kolonialreich]
+- id: prager-frieden-1635
+  title: Prager Frieden (1635)
+  date: "1635-05-30"
+  weight: 2
+  kind: vertrag
+  summary: Der Kaiser und Kursachsen schließen Frieden, dem sich die meisten Reichsstände anschließen; das Restitutionsedikt wird ausgesetzt, Sonderbündnisse werden verboten. Weil Schweden und Frankreich draußen bleiben, geht der Krieg weiter.
+  regions: [deutschland]
+  themes: [politik, verfassung-recht, religion]
+  places: [prag]
+  persons: [ferdinand-ii, johann-georg-i-sachsen]
+  polities: [heiliges-roemisches-reich, kurfuerstentum-sachsen]
+- id: kriegseintritt-frankreichs-1635
+  title: Kriegserklärung Frankreichs an Spanien
+  date: "1635-05-19"
+  weight: 3
+  kind: krieg
+  summary: Unter Kardinal Richelieu tritt Frankreich offen in den Krieg gegen die spanischen Habsburger ein; der französisch-spanische Krieg dauert bis zum Pyrenäenfrieden 1659.
+  regions: [frankreich, westeuropa]
+  themes: [krieg-militaer, politik]
+  persons: [kardinal-richelieu]
+  polities: [koenigreich-frankreich, spanisches-kolonialreich]
+- id: frieden-von-muenster-1648
+  title: Frieden von Münster
+  aliases: [Spanisch-niederländischer Frieden]
+  date: "1648-01-30"
+  weight: 2
+  kind: vertrag
+  summary: Spanien erkennt die Unabhängigkeit der Republik der Vereinigten Niederlande an und beendet den Achtzigjährigen Krieg; der Vertrag wird im Mai 1648 in Münster feierlich beschworen.
+  regions: [westeuropa]
+  themes: [politik]
+  places: [muenster]
+  polities: [republik-der-vereinigten-niederlande, spanisches-kolonialreich]
+- id: westfaelischer-frieden
+  title: Westfälischer Frieden
+  aliases: [Westfälischer Friede, Friede von Münster und Osnabrück, Instrumentum Pacis Osnabrugense, Instrumentum Pacis Monasteriense]
+  date: "1648-10-24"
+  weight: 1
+  kind: vertrag
+  summary: In Münster werden die Friedensverträge des Kaisers und der Reichsstände mit Frankreich und Schweden unterzeichnet; sie regeln Religionsfragen, Gebietsabtretungen und die Rechte der Reichsstände und gelten fortan als Grundgesetz des Reiches.
+  regions: [deutschland, mitteleuropa, europa]
+  themes: [politik, verfassung-recht, religion]
+  places: [muenster, osnabrueck]
+  persons: [ferdinand-iii, jules-mazarin, christina-von-schweden, axel-oxenstierna, fabio-chigi, maximilian-i-bayern]
+  polities: [heiliges-roemisches-reich, koenigreich-frankreich, koenigreich-schweden]

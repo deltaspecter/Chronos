@@ -1,0 +1,144 @@
+# Quellen und Literatur: Die deutsche Reichsgründung 1871
+
+# --- Primärquellen ---
+- id: q-bismarck-1862
+  kind: primaer
+  authors: ["Bismarck, Otto von"]
+  title: Rede vor der Budgetkommission des preußischen Abgeordnetenhauses („Blut-und-Eisen-Rede“)
+  written: Berlin, 30. September 1862
+  note: Ansprache des neu ernannten Ministerpräsidenten im Heereskonflikt, nur in Protokoll- und Presseberichten überliefert; berühmt durch den Satz, die großen Fragen der Zeit würden durch Eisen und Blut entschieden.
+- id: q-emser-depesche-1870
+  kind: primaer
+  authors: ["Abeken, Heinrich", "Bismarck, Otto von"]
+  title: Emser Depesche
+  written: Bad Ems und Berlin, 13. Juli 1870
+  note: Telegramm des Legationsrats Abeken an Bismarck über die Unterredung König Wilhelms I. mit dem französischen Botschafter Benedetti, das Bismarck gekürzt und verschärft an Presse und Gesandtschaften weitergab.
+- id: q-favre-1870
+  kind: primaer
+  authors: ["Favre, Jules"]
+  title: Rundschreiben des Außenministers der Regierung der Nationalen Verteidigung an die diplomatischen Vertreter Frankreichs
+  written: Paris, 6. September 1870
+  note: Erklärung der neuen republikanischen Regierung, Frankreich werde keinen Zoll seines Gebiets und keinen Stein seiner Festungen abtreten.
+- id: q-reichsverfassung-1871
+  kind: primaer
+  title: Verfassung des Deutschen Reichs vom 16. April 1871
+  written: Berlin, 16. April 1871 (Reichsgesetzblatt 1871)
+  note: Verfassung des Kaiserreichs, die im Kern die Verfassung des Norddeutschen Bundes von 1867 übernahm und Kaiser, Bundesrat und Reichstag als Organe festlegte; galt bis 1918.
+- id: q-marx-1871
+  kind: primaer
+  authors: ["Marx, Karl"]
+  title: Der Bürgerkrieg in Frankreich
+  subtitle: Adresse des Generalrats der Internationalen Arbeiterassoziation
+  written: London, Mai 1871
+  note: Zeitgenössische Deutung der Pariser Kommune aus sozialistischer Sicht, verfasst unmittelbar nach ihrer Niederschlagung.
+- id: q-renan-1882
+  kind: primaer
+  authors: ["Renan, Ernest"]
+  title: Qu’est-ce qu’une nation?
+  written: Paris, Vortrag an der Sorbonne, 11. März 1882
+  note: Vortrag des französischen Gelehrten, der die Nation als Willensgemeinschaft und nicht als Abstammungs- oder Sprachgemeinschaft bestimmte – auch eine Antwort auf die deutsche Begründung der Annexion Elsass-Lothringens.
+- id: q-bismarck-gedanken-erinnerungen
+  kind: primaer
+  authors: ["Bismarck, Otto von"]
+  title: Gedanken und Erinnerungen
+  place: Stuttgart
+  publisher: Cotta
+  year: 1898
+  written: Friedrichsruh, nach 1890
+  note: Nach seiner Entlassung diktierte Erinnerungen Bismarcks, die seine Politik rückblickend als planvoll darstellen und mit großer Vorsicht zu lesen sind.
+
+# --- Forschung ---
+- id: gall-1980
+  kind: sekundaer
+  authors: ["Gall, Lothar"]
+  title: Bismarck
+  subtitle: Der weiße Revolutionär
+  place: Frankfurt am Main, Berlin, Wien
+  publisher: Propyläen
+  year: 1980
+- id: pflanze-1997
+  kind: sekundaer
+  authors: ["Pflanze, Otto"]
+  title: Bismarck, Band 1
+  subtitle: Der Reichsgründer
+  place: München
+  publisher: C. H. Beck
+  year: 1997
+- id: clark-2006
+  kind: sekundaer
+  authors: ["Clark, Christopher"]
+  title: Iron Kingdom
+  subtitle: The Rise and Downfall of Prussia, 1600–1947
+  place: London
+  publisher: Allen Lane
+  year: 2006
+- id: wawro-1996
+  kind: sekundaer
+  authors: ["Wawro, Geoffrey"]
+  title: The Austro-Prussian War
+  subtitle: Austria’s War with Prussia and Italy in 1866
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1996
+- id: wawro-2003
+  kind: sekundaer
+  authors: ["Wawro, Geoffrey"]
+  title: The Franco-Prussian War
+  subtitle: The German Conquest of France in 1870–1871
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2003
+- id: howard-1961
+  kind: sekundaer
+  authors: ["Howard, Michael"]
+  title: The Franco-Prussian War
+  subtitle: The German Invasion of France, 1870–1871
+  place: London
+  publisher: Rupert Hart-Davis
+  year: 1961
+- id: kolb-1970
+  kind: sekundaer
+  authors: ["Kolb, Eberhard"]
+  title: Der Kriegsausbruch 1870
+  subtitle: Politische Entscheidungsprozesse und Verantwortlichkeiten in der Julikrise 1870
+  place: Göttingen
+  publisher: Vandenhoeck & Ruprecht
+  year: 1970
+- id: wehler-1973
+  kind: sekundaer
+  authors: ["Wehler, Hans-Ulrich"]
+  title: Das Deutsche Kaiserreich 1871–1918
+  place: Göttingen
+  publisher: Vandenhoeck & Ruprecht
+  year: 1973
+- id: nipperdey-1992
+  kind: sekundaer
+  authors: ["Nipperdey, Thomas"]
+  title: Deutsche Geschichte 1866–1918, Band 2
+  subtitle: Machtstaat vor der Demokratie
+  place: München
+  publisher: C. H. Beck
+  year: 1992
+- id: winkler-2000
+  kind: sekundaer
+  authors: ["Winkler, Heinrich August"]
+  title: Der lange Weg nach Westen, Band 1
+  subtitle: Deutsche Geschichte vom Ende des Alten Reiches bis zum Untergang der Weimarer Republik
+  place: München
+  publisher: C. H. Beck
+  year: 2000
+- id: blackbourn-eley-1980
+  kind: sekundaer
+  authors: ["Blackbourn, David", "Eley, Geoff"]
+  title: Mythen deutscher Geschichtsschreibung
+  subtitle: Die gescheiterte bürgerliche Revolution von 1848
+  place: Frankfurt am Main, Berlin, Wien
+  publisher: Ullstein
+  year: 1980
+- id: langewiesche-2000
+  kind: sekundaer
+  authors: ["Langewiesche, Dieter"]
+  title: Nation, Nationalismus, Nationalstaat in Deutschland und Europa
+  place: München
+  publisher: C. H. Beck
+  year: 2000

@@ -1,0 +1,27 @@
+# Begriffe: Die deutsche Reichsgründung 1871
+- id: realpolitik
+  name: Realpolitik
+  definition: Von August Ludwig von Rochau 1853 geprägter Begriff für eine Politik, die sich an den tatsächlichen Machtverhältnissen statt an Prinzipien und Idealen orientiert; später oft auf Bismarcks Vorgehen übertragen.
+  themes: [politik]
+- id: lueckentheorie
+  name: Lückentheorie
+  definition: Von Bismarck im preußischen Verfassungskonflikt vertretene Auffassung, die Verfassung regle den Fall nicht, dass Krone und Parlament sich nicht auf einen Haushalt einigen; in dieser Lücke falle das Entscheidungsrecht an den König.
+  themes: [verfassung-recht, politik]
+- id: revolution-von-oben
+  name: Revolution von oben
+  definition: Deutung grundlegender politischer Umwälzungen, die nicht von einer Volksbewegung, sondern von Regierung, Monarch und Militär ausgehen; in der Forschung häufig auf die Reichsgründung angewandt, die die nationale Einheit ohne Parlamentarisierung brachte.
+  themes: [politik, revolutionen, geschichtsschreibung]
+- id: sonderweg
+  name: Deutscher Sonderweg
+  aliases: [Sonderweg, Sonderwegsthese]
+  definition: These, Deutschland habe sich im 19. und frühen 20. Jahrhundert anders als westliche Staaten entwickelt – wirtschaftlich modern, politisch aber obrigkeitsstaatlich –, was den Weg in den Nationalsozialismus begünstigt habe; seit den 1980er-Jahren stark kritisiert und differenziert.
+  themes: [geschichtsschreibung, politik]
+- id: einigungskriege
+  name: Einigungskriege
+  aliases: [Reichseinigungskriege]
+  definition: Sammelbezeichnung für die Kriege von 1864, 1866 und 1870/71, an deren Ende der preußisch geführte deutsche Nationalstaat stand; der Begriff unterstellt rückblickend einen Zusammenhang, den die Zeitgenossen so nicht sahen.
+  themes: [krieg-militaer, politik, geschichtsschreibung]
+- id: reichsfeinde
+  name: Reichsfeinde
+  definition: Kampfbegriff Bismarcks und der Regierungspresse für Gruppen, denen Illoyalität gegenüber dem neuen Reich unterstellt wurde – vor allem politischer Katholizismus, Sozialdemokratie, Polen, Dänen und Elsässer.
+  themes: [politik, gesellschaft]

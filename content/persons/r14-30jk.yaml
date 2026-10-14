@@ -1,0 +1,195 @@
+# Personen: Der Dreißigjährige Krieg und der Westfälische Frieden
+- id: ferdinand-ii
+  name: Ferdinand II.
+  aliases: [Ferdinand II. von Habsburg, Ferdinand von Innerösterreich]
+  born: "1578-07-09"
+  died: "1637-02-15"
+  roles: [Römisch-deutscher Kaiser, König von Böhmen, König von Ungarn]
+  summary: Habsburger, der als Erzherzog von Innerösterreich die Gegenreformation durchsetzte, 1619 zum Kaiser gewählt wurde, den böhmischen Aufstand niederschlug und mit dem Restitutionsedikt von 1629 den Höhepunkt kaiserlicher Macht im Krieg markierte.
+  regions: [mitteleuropa, deutschland]
+  themes: [politik, religion, krieg-militaer]
+  places: [wien, prag]
+- id: friedrich-v-pfalz
+  name: Friedrich V. von der Pfalz
+  aliases: [Winterkönig, Friedrich I. von Böhmen]
+  born: "1596-08-26"
+  died: "1632-11-29"
+  roles: [Kurfürst von der Pfalz, König von Böhmen]
+  summary: Reformierter Kurfürst und Haupt der Protestantischen Union, der 1619 die böhmische Krone annahm, nach der Niederlage am Weißen Berg 1620 fliehen musste, geächtet wurde und als „Winterkönig“ im niederländischen Exil lebte.
+  regions: [deutschland, mitteleuropa]
+  themes: [politik, religion]
+  places: [heidelberg, prag, den-haag]
+- id: albrecht-von-wallenstein
+  name: Albrecht von Wallenstein
+  aliases: [Wallenstein, Albrecht von Waldstein, Albrecht Wenzel Eusebius von Wallenstein, Herzog von Friedland]
+  born: "1583-09-24"
+  died: "1634-02-25"
+  roles: [Feldherr, Kriegsunternehmer, Herzog von Friedland, Herzog von Mecklenburg]
+  summary: Böhmischer Adliger, der durch Güterkäufe nach 1620 reich wurde, für den Kaiser ab 1625 ein großes, über Kontributionen finanziertes Heer aufstellte, 1630 entlassen, 1631/32 zurückgerufen und 1634 wegen eigenmächtiger Verhandlungen in Eger ermordet wurde.
+  regions: [mitteleuropa, deutschland]
+  themes: [krieg-militaer, politik, wirtschaft-handel]
+  places: [prag, eger, luetzen, stralsund]
+- id: gustav-ii-adolf
+  name: Gustav II. Adolf
+  aliases: [Gustav Adolf, Gustavus Adolphus, „Löwe aus Mitternacht“]
+  born: "1594-12-19"
+  died: "1632-11-16"
+  roles: [König von Schweden, Feldherr]
+  summary: Schwedischer König, der 1630 mit einem Heer in Pommern landete, 1631 bei Breitenfeld die kaiserlich-ligistischen Truppen schlug, als protestantischer Retter gefeiert wurde und 1632 in der Schlacht bei Lützen fiel.
+  regions: [nordeuropa, deutschland]
+  themes: [krieg-militaer, politik, religion]
+  places: [stockholm, breitenfeld, luetzen]
+- id: johann-tserclaes-von-tilly
+  name: Johann t’Serclaes von Tilly
+  aliases: [Tilly, Graf Tilly]
+  born: "1559"
+  died: "1632-04-30"
+  roles: [Feldherr der Katholischen Liga, kaiserlicher Generalleutnant]
+  summary: Aus Brabant stammender Heerführer der Katholischen Liga, Sieger am Weißen Berg 1620 und bei Lutter 1626, unter dessen Oberbefehl Magdeburg 1631 erstürmt wurde; nach der Niederlage bei Breitenfeld 1632 bei Rain am Lech tödlich verwundet.
+  regions: [deutschland, westeuropa]
+  themes: [krieg-militaer]
+  places: [weisser-berg, magdeburg, breitenfeld]
+- id: gottfried-heinrich-zu-pappenheim
+  name: Gottfried Heinrich zu Pappenheim
+  aliases: [Pappenheim]
+  born: "1594-05-29"
+  died: "1632-11-17"
+  roles: [Reitergeneral]
+  summary: Kaiserlich-ligistischer Reiterführer, maßgeblich an der Erstürmung Magdeburgs 1631 beteiligt; in der Schlacht bei Lützen tödlich verwundet.
+  regions: [deutschland]
+  themes: [krieg-militaer]
+  places: [magdeburg, luetzen]
+- id: christian-iv-daenemark
+  name: Christian IV. von Dänemark
+  aliases: [Christian IV.]
+  born: "1577-04-12"
+  died: "1648-02-28"
+  roles: [König von Dänemark und Norwegen, Herzog von Holstein]
+  summary: Dänischer König, der 1625 als Kreisoberst des Niedersächsischen Reichskreises in den Krieg eintrat, 1626 bei Lutter am Barenberge von Tilly geschlagen wurde und 1629 im Frieden von Lübeck ausschied.
+  regions: [nordeuropa, deutschland]
+  themes: [politik, krieg-militaer]
+  places: [kopenhagen, lutter-am-barenberge]
+- id: maximilian-i-bayern
+  name: Maximilian I. von Bayern
+  aliases: [Maximilian I.]
+  born: "1573-04-17"
+  died: "1651-09-27"
+  roles: [Herzog, ab 1623 Kurfürst von Bayern, Haupt der Katholischen Liga]
+  summary: Katholischer Wittelsbacher, der 1609 die Katholische Liga anführte, mit ihrem Heer den Kaiser gegen Böhmen unterstützte und dafür 1623 die pfälzische Kurwürde und die Oberpfalz erhielt, die ihm der Westfälische Friede bestätigte.
+  regions: [deutschland]
+  themes: [politik, religion]
+  places: [muenchen]
+- id: johann-georg-i-sachsen
+  name: Johann Georg I. von Sachsen
+  aliases: [Johann Georg I.]
+  born: "1585-03-05"
+  died: "1656-10-08"
+  roles: [Kurfürst von Sachsen]
+  summary: Lutherischer Kurfürst, der lange kaisertreu blieb, sich 1631 nach dem Fall Magdeburgs Schweden anschloss und 1635 mit dem Kaiser den Prager Frieden schloss.
+  regions: [deutschland]
+  themes: [politik]
+  places: [dresden, prag]
+- id: kardinal-richelieu
+  name: Kardinal Richelieu
+  aliases: [Armand-Jean du Plessis de Richelieu, Richelieu]
+  born: "1585-09-09"
+  died: "1642-12-04"
+  roles: [Kardinal, Leitender Minister Ludwigs XIII.]
+  summary: Leitender Minister Frankreichs ab 1624, der die habsburgischen Mächte zunächst durch Subsidien an Schweden und andere Gegner schwächte und Frankreich 1635 offen in den Krieg gegen Spanien führte.
+  regions: [frankreich]
+  themes: [politik, religion]
+  places: [paris]
+- id: jules-mazarin
+  name: Jules Mazarin
+  aliases: [Kardinal Mazarin, Giulio Mazzarino]
+  born: "1602-07-14"
+  died: "1661-03-09"
+  roles: [Kardinal, Leitender Minister Frankreichs]
+  summary: Aus Italien stammender Nachfolger Richelieus, der während der Minderjährigkeit Ludwigs XIV. die französische Politik auf dem Westfälischen Friedenskongress bestimmte.
+  regions: [frankreich, italien]
+  themes: [politik]
+  places: [paris]
+- id: axel-oxenstierna
+  name: Axel Oxenstierna
+  born: "1583-06-16"
+  died: "1654-08-28"
+  roles: [Reichskanzler von Schweden]
+  summary: Schwedischer Reichskanzler, der nach dem Tod Gustav Adolfs 1632 die schwedische Politik im Reich leitete, 1633 den Heilbronner Bund mit protestantischen Ständen schloss und die schwedischen Ziele bis zum Frieden verfolgte.
+  regions: [nordeuropa, deutschland]
+  themes: [politik]
+  places: [stockholm]
+- id: christina-von-schweden
+  name: Christina von Schweden
+  aliases: [Kristina, Königin Christina]
+  born: "1626-12-18"
+  died: "1689-04-19"
+  roles: [Königin von Schweden]
+  summary: Tochter Gustav Adolfs, ab 1632 Königin und ab 1644 selbst regierend, die gegen Teile der eigenen Führung auf einen raschen Friedensschluss drängte; 1654 dankte sie ab, trat zum Katholizismus über und lebte in Rom.
+  regions: [nordeuropa, italien]
+  themes: [politik, religion, kultur-kunst]
+  places: [stockholm, rom]
+- id: ferdinand-iii
+  name: Ferdinand III.
+  born: "1608-07-13"
+  died: "1657-04-02"
+  roles: [Römisch-deutscher Kaiser, König von Böhmen und Ungarn]
+  summary: Sohn Ferdinands II., der 1634 nominell die Führung des kaiserlichen Heeres bei Nördlingen hatte, 1637 Kaiser wurde und den Westfälischen Frieden schloss.
+  regions: [mitteleuropa, deutschland]
+  themes: [politik]
+  places: [wien]
+- id: bernhard-von-sachsen-weimar
+  name: Bernhard von Sachsen-Weimar
+  born: "1604-08-16"
+  died: "1639-07-18"
+  roles: [Feldherr, Kriegsunternehmer]
+  summary: Ernestinischer Fürst und Heerführer in schwedischen, ab 1635 in französischen Diensten, der 1638 Breisach eroberte; nach seinem Tod übernahm Frankreich sein Heer.
+  regions: [deutschland, frankreich]
+  themes: [krieg-militaer]
+  places: [noerdlingen]
+- id: bethlen-gabor
+  name: Gábor Bethlen
+  aliases: [Bethlen Gábor, Gabriel Bethlen]
+  born: "1580"
+  died: "1629-11-15"
+  roles: [Fürst von Siebenbürgen]
+  summary: Calvinistischer Fürst des unter osmanischer Oberhoheit stehenden Siebenbürgen, der sich mehrfach mit den Gegnern der Habsburger verbündete und 1619/20 bis vor Wien vorstieß.
+  regions: [suedosteuropa, mitteleuropa]
+  themes: [politik, krieg-militaer]
+  places: [wien]
+- id: peter-hagendorf
+  name: Peter Hagendorf
+  born: "~1601"
+  died: "1679"
+  certainty: wahrscheinlich
+  roles: [Söldner, Tagebuchschreiber]
+  summary: Söldner, der rund 24 Jahre in verschiedenen Heeren diente und darüber ein Tagebuch führte; der lange anonyme Verfasser wurde erst 2012 von dem Historiker Marco von Müller mit einiger Wahrscheinlichkeit identifiziert.
+  regions: [deutschland]
+  themes: [krieg-militaer, gesellschaft]
+  places: [magdeburg]
+- id: grimmelshausen
+  name: Hans Jakob Christoffel von Grimmelshausen
+  aliases: [Grimmelshausen]
+  born: "~1622"
+  died: "1676-08-17"
+  roles: [Schriftsteller, Soldat, Regimentsschreiber, Schultheiß]
+  summary: In Gelnhausen geborener Autor, der als Kind in den Krieg geriet, als Soldat und Regimentsschreiber diente und mit dem „Simplicissimus“ (1668) den bedeutendsten deutschen Roman des 17. Jahrhunderts schrieb.
+  regions: [deutschland]
+  themes: [kultur-kunst, krieg-militaer]
+- id: andreas-gryphius
+  name: Andreas Gryphius
+  born: "1616-10-02"
+  died: "1664-07-16"
+  roles: [Dichter, Dramatiker, Syndikus]
+  summary: Schlesischer Barockdichter, dessen Sonett „Thränen des Vatterlandes“ zu den bekanntesten literarischen Zeugnissen der Kriegserfahrung gehört.
+  regions: [deutschland, mitteleuropa]
+  themes: [kultur-kunst]
+- id: fabio-chigi
+  name: Fabio Chigi
+  aliases: [Alexander VII.]
+  born: "1599-02-13"
+  died: "1667-05-22"
+  roles: [Päpstlicher Nuntius, Papst]
+  summary: Päpstlicher Nuntius und Vermittler auf dem Friedenskongress in Münster, der den Friedensschluss wegen der Zugeständnisse an die Protestanten ablehnte; 1655 als Alexander VII. zum Papst gewählt.
+  regions: [italien, deutschland]
+  themes: [religion, politik]
+  places: [muenster, rom]

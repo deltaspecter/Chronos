@@ -1,0 +1,140 @@
+# Personen: Die deutsche Reichsgründung 1871
+- id: napoleon-iii
+  name: Napoleon III.
+  aliases: [Louis-Napoléon Bonaparte, Charles-Louis-Napoléon Bonaparte, Louis Napoleon]
+  born: "1808-04-20"
+  died: "1873-01-09"
+  roles: [Präsident der Französischen Republik, Kaiser der Franzosen]
+  summary: Neffe Napoleons I., 1848 zum Präsidenten der Zweiten Republik gewählt, nach dem Staatsstreich vom 2. Dezember 1851 ab 1852 Kaiser; geriet am 2. September 1870 bei Sedan in deutsche Gefangenschaft, worauf in Paris die Republik ausgerufen wurde; starb im englischen Exil.
+  regions: [frankreich, europa]
+  themes: [politik, krieg-militaer]
+  places: [paris, sedan, london]
+  related: [napoleon-bonaparte, otto-von-bismarck]
+- id: helmuth-von-moltke
+  name: Helmuth von Moltke
+  aliases: [Moltke der Ältere, Helmuth Karl Bernhard von Moltke, Graf Moltke]
+  born: "1800-10-26"
+  died: "1891-04-24"
+  roles: [Generalfeldmarschall, Chef des preußischen Generalstabs]
+  summary: Von 1857 bis 1888 Chef des preußischen (ab 1871 des Großen) Generalstabs, der die Feldzüge von 1864, 1866 und 1870/71 plante; nutzte Eisenbahn und Telegrafie für schnelle Aufmärsche und ließ Armeen getrennt marschieren, um sie erst auf dem Schlachtfeld zu vereinen.
+  regions: [deutschland]
+  themes: [krieg-militaer]
+  places: [berlin, koenigsgraetz, sedan]
+  related: [wilhelm-i, albrecht-von-roon, otto-von-bismarck]
+- id: albrecht-von-roon
+  name: Albrecht von Roon
+  aliases: [Albrecht Graf von Roon]
+  born: "1803-04-30"
+  died: "1879-02-23"
+  roles: [Kriegsminister, Generalfeldmarschall, Ministerpräsident]
+  summary: Preußischer Kriegsminister 1859–1873, der die umstrittene Heeresreform durchsetzte und 1862 König Wilhelm I. die Berufung Bismarcks empfahl; 1873 kurzzeitig preußischer Ministerpräsident.
+  regions: [deutschland]
+  themes: [krieg-militaer, politik]
+  places: [berlin]
+  related: [wilhelm-i, otto-von-bismarck, helmuth-von-moltke]
+- id: friedrich-iii-preussen
+  name: Friedrich III.
+  aliases: [Kronprinz Friedrich Wilhelm, Kaiser Friedrich III., Friedrich Wilhelm von Preußen]
+  born: "1831-10-18"
+  died: "1888-06-15"
+  roles: [Kronprinz, König von Preußen, Deutscher Kaiser]
+  summary: Sohn Wilhelms I., der als Kronprinz 1866 bei Königgrätz und 1870 bei Wörth eine Armee führte und als liberal gesinnt galt; regierte 1888 nur 99 Tage als Kaiser und starb an Kehlkopfkrebs.
+  regions: [deutschland]
+  themes: [politik, krieg-militaer]
+  places: [potsdam, koenigsgraetz, versailles]
+  related: [wilhelm-i, wilhelm-ii]
+- id: christian-ix
+  name: Christian IX.
+  born: "1818-04-08"
+  died: "1906-01-29"
+  roles: [König von Dänemark]
+  summary: König von Dänemark ab November 1863, dessen Unterzeichnung einer gemeinsamen Verfassung für Dänemark und Schleswig den Anlass zum Deutsch-Dänischen Krieg gab; musste 1864 die Herzogtümer Schleswig, Holstein und Lauenburg abtreten.
+  regions: [nordeuropa]
+  themes: [politik]
+  places: [schleswig-holstein]
+- id: ludwig-von-benedek
+  name: Ludwig von Benedek
+  aliases: [Ludwig August von Benedek]
+  born: "1804-07-14"
+  died: "1881-04-27"
+  roles: [Feldzeugmeister, Befehlshaber der österreichischen Nordarmee]
+  summary: Österreichischer General aus Ödenburg (Sopron), der 1866 gegen seinen Willen den Oberbefehl über die Nordarmee übernahm und bei Königgrätz unterlag; wurde danach zum Sündenbock der Niederlage gemacht.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+  places: [koenigsgraetz]
+  related: [franz-joseph-i]
+- id: ludwig-ii-bayern
+  name: Ludwig II.
+  aliases: [Ludwig II. von Bayern, Märchenkönig]
+  born: "1845-08-25"
+  died: "1886-06-13"
+  roles: [König von Bayern]
+  summary: König von Bayern ab 1864, der 1866 auf österreichischer Seite verlor und im November 1870 dem Beitritt Bayerns zum Reich zustimmte; im sogenannten Kaiserbrief, den Bismarck entworfen hatte, bot er Wilhelm I. die Kaiserwürde an und erhielt dafür geheime Zahlungen aus dem Welfenfonds.
+  regions: [deutschland]
+  themes: [politik, kultur-kunst]
+  places: [muenchen]
+  related: [wilhelm-i, otto-von-bismarck]
+- id: leopold-von-hohenzollern
+  name: Leopold von Hohenzollern-Sigmaringen
+  aliases: [Erbprinz Leopold, Leopold von Hohenzollern]
+  born: "1835-09-22"
+  died: "1905-06-08"
+  roles: [Erbprinz, Thronkandidat]
+  summary: Katholischer Prinz aus der schwäbischen Linie der Hohenzollern, dem 1870 der spanische Thron angetragen wurde; seine von Bismarck geförderte Kandidatur löste die Julikrise aus und wurde am 12. Juli 1870 zurückgezogen.
+  regions: [deutschland, iberische-halbinsel]
+  themes: [politik]
+- id: vincent-benedetti
+  name: Vincent Benedetti
+  aliases: [Graf Benedetti]
+  born: "1817-04-29"
+  died: "1900-03-28"
+  roles: [Diplomat, Botschafter Frankreichs in Berlin]
+  summary: Französischer Botschafter in Preußen 1864–1870, der am 13. Juli 1870 in Bad Ems von König Wilhelm I. die Zusage verlangte, nie wieder einer hohenzollernschen Thronkandidatur in Spanien zuzustimmen.
+  regions: [frankreich, deutschland]
+  themes: [politik]
+  places: [bad-ems, berlin]
+- id: adolphe-thiers
+  name: Adolphe Thiers
+  born: "1797-04-15"
+  died: "1877-09-03"
+  roles: [Historiker, Regierungschef, Präsident der Französischen Republik]
+  summary: Liberaler Historiker und Politiker aus Marseille, der 1871 als Chef der Exekutive den Frieden mit Deutschland schloss und die Pariser Kommune militärisch niederschlagen ließ; bis 1873 erster Präsident der Dritten Republik.
+  regions: [frankreich]
+  themes: [politik, geschichtsschreibung]
+  places: [paris, versailles]
+- id: leon-gambetta
+  name: Léon Gambetta
+  born: "1838-04-02"
+  died: "1882-12-31"
+  roles: [Rechtsanwalt, Innen- und Kriegsminister, Ministerpräsident]
+  summary: Republikanischer Politiker, der am 4. September 1870 die Republik mit ausrief, im Oktober im Ballon aus dem belagerten Paris entkam und von Tours aus neue Armeen gegen die deutschen Truppen aufstellte; später eine Leitfigur der Dritten Republik.
+  regions: [frankreich]
+  themes: [politik, krieg-militaer]
+  places: [paris]
+- id: jules-favre
+  name: Jules Favre
+  born: "1809-03-21"
+  died: "1880-01-20"
+  roles: [Rechtsanwalt, Außenminister]
+  summary: Republikanischer Politiker und 1870/71 Außenminister der Regierung der Nationalen Verteidigung, der jede Gebietsabtretung ablehnte, im Januar 1871 aber mit Bismarck den Waffenstillstand aushandeln musste.
+  regions: [frankreich]
+  themes: [politik]
+  places: [paris, versailles]
+- id: anton-von-werner
+  name: Anton von Werner
+  born: "1843-05-09"
+  died: "1915-01-04"
+  roles: [Maler, Direktor der Berliner Kunstakademie]
+  summary: Historienmaler, der auf Einladung des Kronprinzen die Kaiserproklamation in Versailles miterlebte und sie in mehreren Fassungen malte; seine Bilder prägten das Bild der Reichsgründung bis heute.
+  regions: [deutschland]
+  themes: [kultur-kunst]
+  places: [berlin, versailles]
+- id: heinrich-von-treitschke
+  name: Heinrich von Treitschke
+  born: "1834-09-15"
+  died: "1896-04-28"
+  roles: [Historiker, Publizist, Reichstagsabgeordneter]
+  summary: Einflussreicher nationalliberaler, später konservativer Historiker und Publizist, der 1870 die Annexion des Elsass forderte, die Reichsgründung als Werk Preußens verherrlichte und 1879 mit antisemitischen Thesen den Berliner Antisemitismusstreit auslöste.
+  regions: [deutschland]
+  themes: [geschichtsschreibung, politik]
+  places: [berlin]

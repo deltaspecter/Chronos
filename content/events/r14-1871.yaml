@@ -1,0 +1,259 @@
+# Ereignisse: Die deutsche Reichsgründung 1871
+- id: olmuetzer-punktation
+  title: Olmützer Punktation
+  date: "1850-11-29"
+  weight: 3
+  kind: vertrag
+  summary: Unter österreichischem und russischem Druck gibt Preußen seine Pläne einer kleindeutschen Union unter eigener Führung auf und stimmt der Wiederherstellung des Deutschen Bundes zu; in Preußen als „Schmach von Olmütz“ empfunden.
+  regions: [deutschland, mitteleuropa]
+  themes: [politik]
+  places: [olmuetz]
+  polities: [koenigreich-preussen, habsburgermonarchie, deutscher-bund]
+- id: verfassungskonflikt-preussen
+  title: Preußischer Heeres- und Verfassungskonflikt
+  start: "1860"
+  end: "1866-09-03"
+  dateNote: Beginn mit der Heeresvorlage von 1860, Zuspitzung ab 1862, Beilegung durch das Indemnitätsgesetz 1866.
+  weight: 2
+  kind: ereignis
+  summary: Die liberale Mehrheit des preußischen Abgeordnetenhauses verweigert die Mittel für die Heeresreform; der König beruft 1862 Bismarck, der jahrelang ohne genehmigten Haushalt regiert und sich dabei auf die Lückentheorie beruft.
+  regions: [deutschland]
+  themes: [politik, verfassung-recht, krieg-militaer]
+  places: [berlin]
+  persons: [wilhelm-i, otto-von-bismarck, albrecht-von-roon]
+  polities: [koenigreich-preussen]
+- id: blut-und-eisen-rede
+  title: „Blut-und-Eisen“-Rede Bismarcks
+  date: "1862-09-30"
+  weight: 3
+  kind: ereignis
+  summary: Eine Woche nach seiner Ernennung erklärt Bismarck vor der Budgetkommission des Abgeordnetenhauses, die großen Fragen der Zeit würden nicht durch Reden und Mehrheitsbeschlüsse, sondern durch Eisen und Blut entschieden; die Rede empört selbst Konservative.
+  regions: [deutschland]
+  themes: [politik]
+  places: [berlin]
+  persons: [otto-von-bismarck]
+  polities: [koenigreich-preussen]
+- id: deutsch-daenischer-krieg
+  title: Deutsch-Dänischer Krieg
+  aliases: [Zweiter Schleswigscher Krieg]
+  start: "1864-02-01"
+  end: "1864-10-30"
+  weight: 2
+  kind: krieg
+  summary: Preußen und Österreich führen Krieg gegen Dänemark, nachdem dieses Schleswig enger an das Königreich binden will; im Wiener Frieden tritt Dänemark Schleswig, Holstein und Lauenburg an die beiden Siegermächte ab.
+  regions: [deutschland, nordeuropa]
+  themes: [krieg-militaer, politik]
+  places: [dueppel, schleswig-holstein, wien]
+  persons: [christian-ix, otto-von-bismarck, helmuth-von-moltke, franz-joseph-i]
+  polities: [koenigreich-preussen, habsburgermonarchie, deutscher-bund]
+- id: erstuermung-dueppeler-schanzen
+  title: Erstürmung der Düppeler Schanzen
+  date: "1864-04-18"
+  weight: 3
+  kind: schlacht
+  summary: Nach wochenlanger Belagerung und Beschießung stürmen preußische Truppen die dänischen Befestigungen bei Düppel; der Sieg wird in Preußen propagandistisch gefeiert und stärkt die Stellung Bismarcks.
+  regions: [nordeuropa, deutschland]
+  themes: [krieg-militaer]
+  places: [dueppel]
+  polities: [koenigreich-preussen]
+- id: gasteiner-konvention
+  title: Gasteiner Konvention
+  date: "1865-08-14"
+  weight: 3
+  kind: vertrag
+  summary: Preußen und Österreich teilen die Verwaltung der gemeinsam eroberten Herzogtümer – Schleswig an Preußen, Holstein an Österreich, Lauenburg wird an Preußen verkauft; die Regelung verschiebt den Konflikt nur.
+  regions: [deutschland, mitteleuropa]
+  themes: [politik]
+  places: [schleswig-holstein]
+  persons: [otto-von-bismarck, franz-joseph-i]
+  polities: [koenigreich-preussen, habsburgermonarchie]
+- id: deutscher-krieg
+  title: Deutscher Krieg
+  aliases: [Preußisch-Österreichischer Krieg, Deutsch-Deutscher Krieg, Krieg von 1866]
+  start: "1866-06-14"
+  end: "1866-08-23"
+  weight: 2
+  kind: krieg
+  summary: Krieg Preußens und Italiens gegen Österreich und die Mehrheit der Mittelstaaten des Deutschen Bundes; nach dem preußischen Sieg bei Königgrätz wird der Bund aufgelöst und Österreich aus Deutschland verdrängt.
+  regions: [deutschland, mitteleuropa, italien]
+  themes: [krieg-militaer, politik]
+  places: [koenigsgraetz, nikolsburg, prag]
+  persons: [otto-von-bismarck, wilhelm-i, helmuth-von-moltke, franz-joseph-i, ludwig-von-benedek]
+  polities: [koenigreich-preussen, habsburgermonarchie, deutscher-bund, koenigreich-bayern]
+- id: schlacht-bei-koenigsgraetz
+  title: Schlacht bei Königgrätz
+  aliases: [Schlacht bei Sadowa, Bitva u Hradce Králové]
+  date: "1866-07-03"
+  weight: 2
+  kind: schlacht
+  summary: In einer der größten Schlachten des 19. Jahrhunderts mit jeweils weit über 200.000 Soldaten besiegen drei preußische Armeen die österreichisch-sächsische Nordarmee unter Benedek; der Krieg ist damit faktisch entschieden.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+  places: [koenigsgraetz]
+  persons: [helmuth-von-moltke, wilhelm-i, friedrich-iii-preussen, ludwig-von-benedek]
+  polities: [koenigreich-preussen, habsburgermonarchie]
+- id: prager-frieden
+  title: Prager Frieden
+  date: "1866-08-23"
+  weight: 3
+  kind: vertrag
+  summary: Österreich erkennt die Auflösung des Deutschen Bundes und eine Neugestaltung Deutschlands ohne sich an und überlässt Preußen Schleswig und Holstein; Preußen annektiert zudem Hannover, Kurhessen, Nassau und Frankfurt.
+  regions: [deutschland, mitteleuropa]
+  themes: [politik]
+  places: [prag, nikolsburg, frankfurt, schleswig-holstein]
+  persons: [otto-von-bismarck, franz-joseph-i]
+  polities: [koenigreich-preussen, habsburgermonarchie, deutscher-bund, norddeutscher-bund]
+- id: indemnitaetsgesetz-1866
+  title: Indemnitätsgesetz
+  date: "1866-09-03"
+  dateNote: Annahme im preußischen Abgeordnetenhaus; das Gesetz wurde wenige Tage später verkündet.
+  weight: 3
+  kind: gesetz
+  summary: Das Abgeordnetenhaus billigt nachträglich die ohne Haushaltsgesetz geleisteten Staatsausgaben seit 1862 und beendet so den Verfassungskonflikt; über die Zustimmung spaltet sich der Liberalismus, aus dem rechten Flügel entsteht die Nationalliberale Partei.
+  regions: [deutschland]
+  themes: [politik, verfassung-recht]
+  places: [berlin]
+  persons: [otto-von-bismarck, wilhelm-i]
+  polities: [koenigreich-preussen]
+- id: verfassung-norddeutscher-bund
+  title: Verfassung des Norddeutschen Bundes
+  date: "1867-04-16"
+  dateNote: Vom konstituierenden Reichstag beschlossen; in Kraft seit dem 1. Juli 1867.
+  weight: 3
+  kind: gesetz
+  summary: Der nach allgemeinem, gleichem Männerwahlrecht gewählte konstituierende Reichstag nimmt die von Bismarck entworfene Verfassung an; Bundespräsidium, Bundesrat, Reichstag und ein Bundeskanzler bilden das Modell der späteren Reichsverfassung.
+  regions: [deutschland]
+  themes: [verfassung-recht, politik]
+  places: [berlin]
+  persons: [otto-von-bismarck, wilhelm-i]
+  polities: [norddeutscher-bund, koenigreich-preussen]
+- id: emser-depesche
+  title: Emser Depesche
+  date: "1870-07-13"
+  weight: 2
+  kind: ereignis
+  summary: Bismarck kürzt den Bericht über das Gespräch Wilhelms I. mit dem französischen Botschafter Benedetti in Bad Ems so, dass er wie eine schroffe Abweisung wirkt, und gibt ihn an die Presse; sechs Tage später erklärt Frankreich Preußen den Krieg.
+  regions: [deutschland, frankreich]
+  themes: [politik, schrift-medien]
+  places: [bad-ems, berlin, paris]
+  persons: [otto-von-bismarck, wilhelm-i, vincent-benedetti, napoleon-iii, leopold-von-hohenzollern]
+  polities: [norddeutscher-bund, zweites-franzoesisches-kaiserreich]
+- id: deutsch-franzoesischer-krieg
+  title: Deutsch-Französischer Krieg
+  aliases: [Krieg von 1870/71, Guerre franco-allemande, Franco-Prussian War]
+  start: "1870-07-19"
+  end: "1871-05-10"
+  weight: 1
+  kind: krieg
+  summary: Krieg des Norddeutschen Bundes und der süddeutschen Staaten gegen Frankreich, der mit dem Sturz Napoleons III., der Belagerung von Paris, der Gründung des Deutschen Reichs und der Abtretung Elsass-Lothringens endet.
+  regions: [frankreich, deutschland, westeuropa]
+  themes: [krieg-militaer, politik]
+  places: [sedan, metz, gravelotte, paris, strassburg, versailles]
+  persons: [otto-von-bismarck, wilhelm-i, helmuth-von-moltke, napoleon-iii, leon-gambetta, adolphe-thiers, jules-favre, friedrich-iii-preussen]
+  polities: [norddeutscher-bund, koenigreich-bayern, zweites-franzoesisches-kaiserreich, dritte-franzoesische-republik, deutsches-kaiserreich]
+- id: schlacht-bei-gravelotte
+  title: Schlacht bei Gravelotte–St. Privat
+  date: "1870-08-18"
+  weight: 3
+  kind: schlacht
+  summary: Die verlustreichste Schlacht des Kriegs – die deutschen Armeen erleiden schwere Verluste, drängen die französische Rheinarmee aber in die Festung Metz zurück, wo sie bis Oktober eingeschlossen bleibt.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+  places: [gravelotte, metz]
+  persons: [helmuth-von-moltke, wilhelm-i]
+  polities: [norddeutscher-bund, zweites-franzoesisches-kaiserreich]
+- id: schlacht-bei-sedan
+  title: Schlacht bei Sedan
+  start: "1870-09-01"
+  end: "1870-09-02"
+  weight: 2
+  kind: schlacht
+  summary: Deutsche Armeen schließen die französische Armee von Châlons bei Sedan ein; am 2. September kapituliert sie, rund 100.000 Soldaten und Kaiser Napoleon III. geraten in Gefangenschaft. Der „Sedantag“ wurde im Kaiserreich als Nationalfeiertag begangen.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+  places: [sedan]
+  persons: [napoleon-iii, helmuth-von-moltke, wilhelm-i, otto-von-bismarck]
+  polities: [zweites-franzoesisches-kaiserreich, norddeutscher-bund]
+- id: ausrufung-dritte-republik
+  title: Ausrufung der Republik in Paris
+  date: "1870-09-04"
+  weight: 3
+  kind: revolution
+  summary: Auf die Nachricht von Sedan hin erklären republikanische Abgeordnete im Pariser Rathaus das Kaiserreich für beendet; eine Regierung der Nationalen Verteidigung setzt den Krieg fort.
+  regions: [frankreich]
+  themes: [politik, revolutionen]
+  places: [paris]
+  persons: [leon-gambetta, jules-favre]
+  polities: [zweites-franzoesisches-kaiserreich, dritte-franzoesische-republik]
+- id: belagerung-von-paris
+  title: Belagerung von Paris
+  start: "1870-09-19"
+  end: "1871-01-28"
+  weight: 3
+  kind: schlacht
+  summary: Deutsche Truppen schließen Paris ein; die Bevölkerung leidet Hunger und Kälte, ab Januar 1871 wird die Stadt beschossen. Mit dem Waffenstillstand vom 28. Januar endet die Belagerung.
+  regions: [frankreich]
+  themes: [krieg-militaer, gesellschaft]
+  places: [paris, versailles]
+  persons: [helmuth-von-moltke, otto-von-bismarck, leon-gambetta, jules-favre]
+  polities: [dritte-franzoesische-republik, norddeutscher-bund]
+- id: novembervertraege-1870
+  title: Novemberverträge
+  start: "1870-11-15"
+  end: "1870-11-25"
+  weight: 3
+  kind: vertrag
+  summary: In Versailles vereinbaren der Norddeutsche Bund und Baden, Hessen, Bayern und Württemberg deren Beitritt zu einem Deutschen Bund, der zum 1. Januar 1871 entsteht; Bayern und Württemberg erhalten Sonderrechte.
+  regions: [deutschland]
+  themes: [politik, verfassung-recht]
+  places: [versailles]
+  persons: [otto-von-bismarck, ludwig-ii-bayern]
+  polities: [norddeutscher-bund, koenigreich-bayern, deutsches-kaiserreich]
+- id: pariser-kommune
+  title: Pariser Kommune
+  aliases: [Commune de Paris]
+  start: "1871-03-18"
+  end: "1871-05-28"
+  weight: 2
+  kind: revolution
+  summary: Nach dem Waffenstillstand erhebt sich Paris gegen die Regierung Thiers und wählt einen eigenen Gemeinderat mit radikal-demokratischen und sozialistischen Zielen; in der „Blutigen Woche“ im Mai schlagen Regierungstruppen die Kommune nieder, Schätzungen der Todesopfer reichen von mehreren Tausend bis über 20.000.
+  regions: [frankreich]
+  themes: [revolutionen, gewalt-genozid, gesellschaft]
+  places: [paris, versailles]
+  persons: [adolphe-thiers, karl-marx]
+  polities: [dritte-franzoesische-republik]
+- id: reichsverfassung-1871
+  title: Verfassung des Deutschen Reichs
+  date: "1871-04-16"
+  dateNote: Verkündet am 16. April, in Kraft seit dem 4. Mai 1871.
+  weight: 2
+  kind: gesetz
+  summary: Die vom ersten Reichstag beschlossene Verfassung übernimmt im Wesentlichen die norddeutsche Bundesverfassung – mit Kaiser, Bundesrat, einem nach allgemeinem Männerwahlrecht gewählten Reichstag und einem nur dem Kaiser verantwortlichen Reichskanzler; einen Grundrechtekatalog enthält sie nicht.
+  regions: [deutschland]
+  themes: [verfassung-recht, politik]
+  places: [berlin]
+  persons: [otto-von-bismarck, wilhelm-i]
+  polities: [deutsches-kaiserreich]
+- id: frankfurter-frieden
+  title: Frankfurter Frieden
+  date: "1871-05-10"
+  weight: 2
+  kind: vertrag
+  summary: Frankreich tritt das Elsass ohne Belfort und den Nordosten Lothringens mit Metz an das Deutsche Reich ab und verpflichtet sich zu einer Kriegsentschädigung von fünf Milliarden Francs; bis zur Zahlung bleiben deutsche Truppen im Land.
+  regions: [frankreich, deutschland]
+  themes: [politik]
+  places: [frankfurt, strassburg, metz]
+  persons: [otto-von-bismarck, jules-favre, adolphe-thiers]
+  polities: [deutsches-kaiserreich, dritte-franzoesische-republik, elsass-lothringen]
+- id: kulturkampf
+  title: Kulturkampf
+  start: "1871"
+  end: "1887"
+  dateNote: Die Kampfgesetze entstanden 1871–1875; die Friedensgesetze von 1886/87 bauten sie großenteils ab.
+  weight: 2
+  kind: entwicklung
+  summary: Auseinandersetzung des preußischen Staats und des Reichs unter Bismarck mit der katholischen Kirche und der Zentrumspartei um Schulaufsicht, Priesterausbildung und Zivilehe; Hunderte Pfarreien blieben zeitweise unbesetzt, das katholische Milieu festigte sich aber.
+  regions: [deutschland]
+  themes: [religion, politik]
+  persons: [otto-von-bismarck]
+  polities: [deutsches-kaiserreich, koenigreich-preussen]

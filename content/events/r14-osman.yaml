@@ -1,0 +1,224 @@
+# Ereignisse: Das Osmanische Reich auf dem Höhepunkt (r14-osman)
+- id: aufnahme-sephardischer-juden
+  title: Aufnahme der aus Spanien vertriebenen Juden im Osmanischen Reich
+  date: "1492"
+  dateNote: Die Ansiedlung erstreckte sich über Jahrzehnte; auch aus Portugal und Italien kamen jüdische Flüchtlinge.
+  weight: 3
+  kind: ereignis
+  summary: Sultan Bayezid II. lässt Juden, die 1492 aus Spanien vertrieben wurden, im Reich siedeln; Saloniki, Istanbul und andere Städte werden zu Zentren sephardischen Lebens.
+  regions: [suedosteuropa, anatolien, iberische-halbinsel]
+  themes: [religion, migration]
+  places: [istanbul]
+  persons: [bayezid-ii]
+  polities: [osmanisches-reich]
+- id: schlacht-bei-tschaldiran
+  title: Schlacht bei Tschaldiran
+  date: "1514-08-23"
+  weight: 2
+  kind: schlacht
+  summary: Das osmanische Heer unter Selim I. besiegt mit Artillerie und Feuerwaffen die Reiterei Schah Ismails; Selim besetzt kurz Täbris, ostanatolische Gebiete fallen danach an die Osmanen, die Grenze zum Safawidenreich bleibt aber umkämpft.
+  regions: [iran, anatolien]
+  themes: [krieg-militaer, imperien]
+  places: [tschaldiran, tabriz]
+  persons: [selim-i, ismail-i]
+  polities: [osmanisches-reich, safawidenreich]
+- id: osmanische-eroberung-des-mamlukenreichs
+  title: Osmanische Eroberung des Mamlukenreichs
+  start: "1516"
+  end: "1517"
+  weight: 1
+  kind: krieg
+  summary: In einem Feldzug von wenigen Monaten erobert Selim I. Syrien, Palästina und Ägypten; der Scherif von Mekka erkennt die osmanische Oberhoheit an. Das Reich wird zur führenden Macht der sunnitischen Welt und gewinnt mit Ägypten seine reichste Provinz.
+  regions: [levante, aegypten, arabische-halbinsel]
+  themes: [imperien, krieg-militaer, religion]
+  places: [mardsch-dabiq, aleppo, damaskus, kairo, mekka, medina]
+  persons: [selim-i, qansuh-al-ghuri, tumanbay-ii]
+  polities: [osmanisches-reich, mamlukensultanat]
+- id: schlacht-von-mardsch-dabiq
+  title: Schlacht von Mardsch Dabiq
+  date: "1516-08-24"
+  weight: 2
+  kind: schlacht
+  summary: Bei Aleppo schlägt Selim I. das Heer der Mamluken; Sultan Qansuh al-Ghuri stirbt auf dem Schlachtfeld, Aleppo und Damaskus unterwerfen sich kampflos.
+  regions: [levante]
+  themes: [krieg-militaer]
+  places: [mardsch-dabiq, aleppo, damaskus]
+  persons: [selim-i, qansuh-al-ghuri]
+  polities: [osmanisches-reich, mamlukensultanat]
+- id: schlacht-von-ridaniya
+  title: Schlacht von Ridaniya
+  date: "1517-01-22"
+  weight: 2
+  kind: schlacht
+  summary: Vor Kairo besiegen die Osmanen das Heer des letzten Mamlukensultans Tumanbay; nach Straßenkämpfen fällt Kairo, Tumanbay wird im April gefangen und hingerichtet.
+  regions: [aegypten]
+  themes: [krieg-militaer]
+  places: [kairo]
+  persons: [selim-i, tumanbay-ii]
+  polities: [osmanisches-reich, mamlukensultanat]
+- id: eroberung-belgrads-1521
+  title: Osmanische Eroberung Belgrads
+  date: "1521-08-29"
+  weight: 2
+  kind: schlacht
+  summary: Im ersten Feldzug Süleymans fällt die ungarische Grenzfestung Belgrad, an der Mehmed II. 1456 gescheitert war; damit steht den Osmanen der Weg die Donau aufwärts nach Ungarn offen.
+  regions: [suedosteuropa]
+  themes: [krieg-militaer]
+  places: [belgrad]
+  persons: [sueleyman-i]
+  polities: [osmanisches-reich, koenigreich-ungarn]
+- id: belagerung-von-rhodos-1522
+  title: Belagerung von Rhodos
+  date: "1522"
+  dateNote: Die Belagerung dauerte vom Sommer bis zur Kapitulation im Dezember 1522; die Ritter verließen die Insel am 1. Januar 1523.
+  weight: 3
+  kind: schlacht
+  summary: Nach rund einem halben Jahr Belagerung kapituliert der Johanniterorden auf Rhodos und erhält freien Abzug; die Osmanen kontrollieren nun die Seeverbindung zwischen Istanbul und Ägypten.
+  regions: [griechenland, mittelmeer]
+  themes: [krieg-militaer]
+  places: [rhodos]
+  persons: [sueleyman-i]
+  polities: [osmanisches-reich]
+- id: schlacht-bei-mohacs
+  title: Schlacht bei Mohács
+  date: "1526-08-29"
+  weight: 1
+  kind: schlacht
+  summary: Süleymans Heer vernichtet in wenigen Stunden das zahlenmäßig weit unterlegene ungarische Heer; König Ludwig II. ertrinkt auf der Flucht. Die Doppelwahl Johann Zápolyas und Ferdinands von Habsburg spaltet das Königreich, das in der ungarischen Erinnerung als nationale Katastrophe gilt.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer, imperien]
+  places: [mohacs, budapest]
+  persons: [sueleyman-i, ludwig-ii-ungarn, ibrahim-pascha]
+  polities: [osmanisches-reich, koenigreich-ungarn]
+- id: erste-wiener-tuerkenbelagerung
+  title: Erste Belagerung Wiens durch die Osmanen
+  start: "1529-09-27"
+  end: "1529-10-14"
+  weight: 1
+  kind: schlacht
+  summary: Nach der Rückeroberung Budas für Johann Zápolya belagert Süleyman Wien; Regen, späte Jahreszeit, Nachschubprobleme und der Widerstand der Garnison zwingen ihn nach gut zwei Wochen zum Abzug. In Mitteleuropa wird die „Türkengefahr“ zu einem beherrschenden Thema.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+  places: [wien, budapest]
+  persons: [sueleyman-i, ferdinand-i, ibrahim-pascha, johann-zapolya]
+  polities: [osmanisches-reich, habsburgermonarchie]
+- id: eroberung-von-tunis-1535
+  title: Karl V. erobert Tunis
+  date: "1535"
+  weight: 3
+  kind: schlacht
+  summary: Eine Flotte Karls V. unter Andrea Doria nimmt das im Vorjahr von Hayreddin Barbarossa besetzte Tunis ein und setzt den hafsidischen Herrscher als Vasallen wieder ein; die Stadt wird geplündert, Tausende Bewohner versklavt.
+  regions: [nordafrika, mittelmeer]
+  themes: [krieg-militaer]
+  places: [tunis]
+  persons: [karl-v, andrea-doria, hayreddin-barbarossa]
+  polities: [osmanisches-reich]
+- id: hinrichtung-ibrahim-paschas
+  title: Hinrichtung des Großwesirs Ibrahim Pascha
+  date: "1536-03-15"
+  weight: 3
+  kind: ereignis
+  summary: Nach dreizehn Jahren als Großwesir wird Ibrahim Pascha im Topkapı-Palast auf Befehl Süleymans getötet; die Gründe – Machtfülle, Anmaßung, Hofintrigen – sind umstritten.
+  regions: [anatolien]
+  themes: [politik]
+  places: [topkapi-palast, istanbul]
+  persons: [ibrahim-pascha, sueleyman-i, huerrem-sultan]
+  polities: [osmanisches-reich]
+- id: schlacht-von-preveza
+  title: Seeschlacht von Preveza
+  date: "1538-09-28"
+  weight: 2
+  kind: schlacht
+  summary: Hayreddin Barbarossa schlägt vor Preveza die Flotte der Heiligen Liga aus Papst, Venedig und Karl V. unter Andrea Doria; die osmanische Seeherrschaft im östlichen Mittelmeer ist für Jahrzehnte gesichert.
+  regions: [mittelmeer, griechenland]
+  themes: [krieg-militaer]
+  places: [preveza]
+  persons: [hayreddin-barbarossa, andrea-doria]
+  polities: [osmanisches-reich, republik-venedig]
+- id: diu-expedition-1538
+  title: Osmanische Flottenexpedition nach Diu
+  date: "1538"
+  weight: 3
+  kind: krieg
+  summary: Eine in Suez gebaute Flotte unter dem Statthalter Ägyptens, Hadım Süleyman Pascha, besetzt Aden und belagert gemeinsam mit Truppen Gujarats die portugiesische Festung Diu, muss aber unverrichteter Dinge abziehen.
+  regions: [indischer-ozean, suedasien, arabische-halbinsel]
+  themes: [krieg-militaer, handelsnetze]
+  places: [diu, aden]
+  polities: [osmanisches-reich, estado-da-india]
+- id: eroberung-budas-1541
+  title: Osmanische Besetzung Budas
+  date: "1541-08-29"
+  weight: 2
+  kind: ereignis
+  summary: Nach dem Tod Johann Zápolyas besetzt Süleyman Buda und macht Zentralungarn zur osmanischen Provinz; Zápolyas kleiner Sohn erhält das Gebiet östlich der Theiß und Siebenbürgen unter osmanischer Oberhoheit.
+  regions: [mitteleuropa]
+  themes: [imperien, krieg-militaer]
+  places: [budapest]
+  persons: [sueleyman-i]
+  polities: [osmanisches-reich, koenigreich-ungarn, habsburgermonarchie]
+- id: hinrichtung-sehzade-mustafas
+  title: Hinrichtung des Prinzen Mustafa
+  date: "1553-10-06"
+  weight: 3
+  kind: ereignis
+  summary: Auf dem Feldzug gegen Iran lässt Süleyman seinen ältesten Sohn Mustafa im Heerlager bei Ereğli erdrosseln; unter Janitscharen und Dichtern löst die Tat Empörung und Trauer aus.
+  regions: [anatolien]
+  themes: [politik]
+  persons: [sehzade-mustafa, sueleyman-i, rustem-pascha, huerrem-sultan]
+  polities: [osmanisches-reich]
+- id: frieden-von-amasya
+  title: Frieden von Amasya
+  date: "1555-05-29"
+  weight: 2
+  kind: vertrag
+  summary: Erster förmlicher Frieden zwischen Osmanen und Safawiden – der Irak mit Bagdad bleibt osmanisch, Täbris und Aserbaidschan safawidisch, der Kaukasus wird aufgeteilt; der Frieden hält bis 1578.
+  regions: [anatolien, iran, mesopotamien]
+  themes: [politik]
+  places: [amasya, bagdad, tabriz]
+  persons: [sueleyman-i, tahmasp-i]
+  polities: [osmanisches-reich, safawidenreich]
+- id: bau-der-sueleymaniye
+  title: Bau der Süleymaniye
+  start: "1550"
+  end: "1557"
+  weight: 3
+  kind: ereignis
+  summary: Sinan errichtet für Süleyman auf dem dritten Hügel Istanbuls die Süleymaniye-Moschee mit ihrer Stiftungsanlage – Sinnbild der Herrschaft des Sultans und Antwort auf die Hagia Sophia.
+  regions: [anatolien, suedosteuropa]
+  themes: [kultur-kunst, religion]
+  places: [sueleymaniye-moschee, istanbul]
+  persons: [mimar-sinan, sueleyman-i]
+  polities: [osmanisches-reich]
+- id: belagerung-maltas-1565
+  title: Belagerung Maltas
+  start: "1565-05-18"
+  end: "1565-09"
+  weight: 2
+  kind: schlacht
+  summary: Eine große osmanische Flotte belagert die Festungen des Johanniterordens auf Malta, muss aber nach schweren Verlusten und dem Eintreffen eines spanischen Entsatzheeres im September abziehen.
+  regions: [mittelmeer]
+  themes: [krieg-militaer]
+  places: [malta]
+  polities: [osmanisches-reich]
+- id: belagerung-von-szigetvar
+  title: Belagerung von Szigetvár und Tod Süleymans
+  date: "1566"
+  dateNote: Die Belagerung begann Anfang August; Süleyman starb in der Nacht vom 6. auf den 7. September, die Festung fiel unmittelbar danach.
+  weight: 2
+  kind: schlacht
+  summary: Auf seinem letzten Feldzug belagert der über siebzigjährige Süleyman die ungarische Festung Szigetvár und stirbt im Lager; der Großwesir Sokollu Mehmed hält den Tod geheim, bis Selim II. den Thron übernehmen kann. Der Ausfall der Verteidiger unter Nikolaus Zrínyi wird in Kroatien und Ungarn zum Heldenmythos.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+  places: [szigetvar]
+  persons: [sueleyman-i, sokollu-mehmed-pascha, selim-ii]
+  polities: [osmanisches-reich, habsburgermonarchie]
+- id: seeschlacht-von-lepanto
+  title: Seeschlacht von Lepanto
+  date: "1571-10-07"
+  weight: 2
+  kind: schlacht
+  summary: Im Golf von Patras vernichtet die Flotte der Heiligen Liga unter Juan de Austria die osmanische Flotte; in Europa als Wende gefeiert, bauen die Osmanen ihre Flotte binnen eines Jahres neu und behalten das zuvor eroberte Zypern.
+  regions: [mittelmeer, griechenland]
+  themes: [krieg-militaer]
+  persons: [selim-ii, sokollu-mehmed-pascha]
+  polities: [osmanisches-reich, republik-venedig]

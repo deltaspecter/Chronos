@@ -1,0 +1,53 @@
+# Staaten: Die Revolutionen von 1848/49
+- id: julimonarchie
+  name: Julimonarchie
+  aliases: [Königreich der Franzosen, Monarchie de Juillet]
+  start: "1830-08-09"
+  end: "1848-02-24"
+  capital: paris
+  summary: Konstitutionelle Monarchie unter König Louis-Philippe, die nach der Julirevolution 1830 entstand; ein hoher Steuerzensus beschränkte das Wahlrecht auf eine kleine Schicht wohlhabender Männer. Sie endete mit der Februarrevolution 1848.
+  regions: [frankreich]
+  themes: [politik]
+  successors: [zweite-franzoesische-republik]
+  weight: 2
+- id: zweite-franzoesische-republik
+  name: Zweite Französische Republik
+  aliases: [Zweite Republik, Deuxième République]
+  start: "1848-02-24"
+  end: "1852-12-02"
+  spanNote: Am 2. Dezember 1851 putschte Präsident Louis-Napoléon Bonaparte; genau ein Jahr später ließ er sich als Napoleon III. zum Kaiser ausrufen.
+  capital: paris
+  summary: Nach der Februarrevolution ausgerufene Republik, die das allgemeine Männerwahlrecht einführte und die Sklaverei in den Kolonien abschaffte, aber nach den Junikämpfen 1848 nach rechts rückte und im Staatsstreich ihres Präsidenten unterging.
+  regions: [frankreich]
+  themes: [politik, revolutionen]
+  predecessors: [julimonarchie]
+  successors: [zweites-franzoesisches-kaiserreich]
+  weight: 2
+- id: roemische-republik-1849
+  name: Römische Republik (1849)
+  aliases: [Repubblica Romana]
+  start: "1849-02-09"
+  end: "1849-07-03"
+  capital: rom
+  summary: Nach der Flucht Papst Pius' IX. ausgerufene Republik im Kirchenstaat, geführt von einem Triumvirat um Giuseppe Mazzini und verteidigt von Garibaldi; französische Truppen eroberten Rom im Juli 1849 und stellten die päpstliche Herrschaft wieder her.
+  regions: [italien]
+  themes: [politik, revolutionen]
+  weight: 3
+- id: grossherzogtum-baden
+  name: Großherzogtum Baden
+  aliases: [Baden]
+  start: "1806"
+  end: "1918-11"
+  summary: Südwestdeutscher Mittelstaat mit einer vergleichsweise liberalen Verfassung von 1818, Hochburg der radikalen Demokraten 1848/49 und Schauplatz der letzten Kämpfe der Revolution im Sommer 1849.
+  regions: [deutschland]
+  themes: [politik]
+  weight: 3
+- id: koenigreich-sardinien
+  name: Königreich Sardinien-Piemont
+  aliases: [Königreich Sardinien, Piemont-Sardinien]
+  start: "1720"
+  end: "1861-03-17"
+  summary: Von Turin aus regiertes Königreich des Hauses Savoyen, das 1848 mit dem Statuto Albertino eine Verfassung erhielt, 1848/49 vergeblich gegen Österreich Krieg führte und 1859–1861 die Einigung Italiens anführte.
+  regions: [italien]
+  themes: [politik]
+  weight: 2

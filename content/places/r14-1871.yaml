@@ -1,0 +1,74 @@
+# Orte: Die deutsche Reichsgründung 1871
+- id: sedan
+  name: Sedan
+  coords: [4.9447, 49.7019]
+  categories: [stadt, schlachtfeld]
+  modernName: Sedan, Département Ardennes (Frankreich)
+  summary: Festungsstadt an der Maas, bei der am 1. September 1870 die französische Armee von Châlons eingeschlossen wurde; am 2. September kapitulierte sie, Kaiser Napoleon III. geriet in Gefangenschaft.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+- id: koenigsgraetz
+  name: Königgrätz
+  aliases: [Hradec Králové, Sadová, Chlum]
+  coords: [15.73, 50.28]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Gegend um Sadová und Chlum, nordwestlich von Hradec Králové (Tschechien)
+  summary: Hügelland in Ostböhmen zwischen Bistritz und Elbe, auf dem am 3. Juli 1866 die preußischen Armeen die österreichisch-sächsische Nordarmee schlugen; die Koordinaten bezeichnen ungefähr das Zentrum des Schlachtfelds bei Chlum.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+- id: dueppel
+  name: Düppeler Schanzen
+  aliases: [Düppel, Dybbøl, Dybbøl Skanser]
+  coords: [9.7397, 54.9097]
+  categories: [schlachtfeld]
+  modernName: Dybbøl bei Sønderborg (Dänemark)
+  summary: Dänische Befestigungslinie gegenüber der Insel Alsen, die preußische Truppen am 18. April 1864 erstürmten; in Dänemark bis heute ein zentraler Erinnerungsort nationaler Niederlage.
+  regions: [nordeuropa]
+  themes: [krieg-militaer]
+- id: bad-ems
+  name: Bad Ems
+  aliases: [Ems]
+  coords: [7.7106, 50.3349]
+  categories: [stadt]
+  modernName: Bad Ems, Rheinland-Pfalz
+  summary: Kurort an der Lahn, in dem König Wilhelm I. im Juli 1870 zur Kur weilte und am 13. Juli den französischen Botschafter Benedetti traf; der Bericht darüber wurde als Emser Depesche bekannt.
+  regions: [deutschland]
+  themes: [politik]
+- id: metz
+  name: Metz
+  coords: [6.1757, 49.1193]
+  categories: [stadt]
+  modernName: Metz, Département Moselle (Frankreich)
+  summary: Festungsstadt an der Mosel, in der die französische Rheinarmee unter Bazaine ab August 1870 eingeschlossen war und am 27. Oktober kapitulierte; 1871 bis 1918 Teil des Reichslands Elsass-Lothringen.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+- id: gravelotte
+  name: Gravelotte
+  aliases: [Gravelotte–St. Privat, Saint-Privat-la-Montagne]
+  coords: [6.027, 49.111]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Gravelotte, Département Moselle (Frankreich)
+  summary: Dorf westlich von Metz, nach dem die verlustreichste Schlacht des Kriegs von 1870 benannt ist; am 18. August 1870 drängten deutsche Truppen die französische Rheinarmee in die Festung Metz zurück.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+- id: nikolsburg
+  name: Nikolsburg
+  aliases: [Mikulov]
+  coords: [16.6378, 48.8056]
+  categories: [stadt]
+  modernName: Mikulov, Südmähren (Tschechien)
+  summary: Mährische Stadt, in deren Schloss am 26. Juli 1866 der Vorfrieden zwischen Preußen und Österreich unterzeichnet wurde; Bismarck setzte dort gegen König und Militär einen schonenden Frieden durch.
+  regions: [mitteleuropa]
+  themes: [politik]
+- id: schleswig-holstein
+  name: Schleswig und Holstein
+  aliases: [Herzogtümer Schleswig und Holstein, Schleswig-Holstein, Sønderjylland]
+  coords: [9.8, 54.4]
+  location: ungefaehr
+  categories: [region]
+  modernName: Schleswig-Holstein (Deutschland) und Nordschleswig/Sønderjylland (Dänemark)
+  summary: Zwei Herzogtümer zwischen Nord- und Ostsee, die bis 1864 mit der dänischen Krone verbunden waren, wobei nur Holstein zum Deutschen Bund gehörte; ihr Status war der Auslöser der Kriege von 1864 und 1866.
+  regions: [deutschland, nordeuropa]
+  themes: [politik]

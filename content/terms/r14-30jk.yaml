@@ -1,0 +1,41 @@
+# Begriffe: Der Dreißigjährige Krieg und der Westfälische Frieden
+- id: kontributionssystem
+  name: Kontributionssystem
+  aliases: [Kontribution, Kontributionen, „Der Krieg ernährt den Krieg“]
+  definition: Finanzierung von Heeren durch regelmäßige Zwangsabgaben in Geld und Naturalien, die besetzten oder durchzogenen Gebieten auferlegt wurden; von Wallenstein in großem Maßstab organisiert, sollte es wilde Plünderung ersetzen, belastete die Bevölkerung aber schwer.
+  themes: [krieg-militaer, wirtschaft-handel]
+- id: soeldnerheer
+  name: Söldnerheer
+  aliases: [Söldner, Kriegsunternehmer, Tross]
+  definition: Heer aus angeworbenen, gegen Sold dienenden Soldaten, das im 17. Jahrhundert oft von privaten Obersten und Kriegsunternehmern im Auftrag eines Fürsten aufgestellt wurde; zu ihm gehörte ein großer Tross aus Frauen, Kindern, Knechten und Händlern.
+  themes: [krieg-militaer, gesellschaft, wirtschaft-handel]
+- id: kipper-und-wipperzeit
+  name: Kipper- und Wipperzeit
+  aliases: [Kipper und Wipper]
+  definition: Münzkrise zu Beginn des Krieges (etwa 1619–1623), in der Münzherren zur Kriegsfinanzierung massenhaft minderwertige Münzen prägten; die Geldentwertung führte zu Teuerung und Unruhen.
+  themes: [wirtschaft-handel]
+- id: normaljahr
+  name: Normaljahr
+  aliases: [Normaltag, Stichjahr 1624]
+  definition: Im Westfälischen Frieden festgelegter Stichtag, der 1. Januar 1624, nach dem sich der konfessionelle Besitzstand an Kirchengut und Religionsausübung im Reich richten sollte; schon der Prager Frieden 1635 hatte ein Normaljahr (1627) vorgesehen.
+  themes: [religion, verfassung-recht]
+- id: cuius-regio-eius-religio
+  name: Cuius regio, eius religio
+  aliases: [Ius reformandi, Reformationsrecht]
+  definition: Später geprägte Formel („wessen Gebiet, dessen Religion“) für das im Augsburger Religionsfrieden 1555 festgelegte Recht der Landesherren, die Konfession ihrer Untertanen zu bestimmen; der Westfälische Friede schränkte dieses Recht durch das Normaljahr ein.
+  themes: [religion, verfassung-recht]
+- id: reichsstaende
+  name: Reichsstände
+  aliases: [Reichsstand, Reichsfürsten, Reichsstädte]
+  definition: Die Fürsten, geistlichen Herren, Grafen und Reichsstädte des Heiligen Römischen Reiches mit Sitz und Stimme im Reichstag; der Westfälische Friede bestätigte ihre Landeshoheit und ihr Recht, Bündnisse zu schließen, sofern diese sich nicht gegen Kaiser und Reich richteten.
+  themes: [verfassung-recht, politik]
+- id: westfaelisches-system
+  name: Westfälisches System
+  aliases: [Westphalian System, Westfälische Ordnung, Westphalian sovereignty]
+  definition: Vor allem in Völkerrecht und Politikwissenschaft gebrauchte Bezeichnung für eine Staatenordnung gleichberechtigter souveräner Staaten, die sich nicht in die inneren Angelegenheiten der anderen einmischen; ob sie tatsächlich auf den Westfälischen Frieden zurückgeht, ist in der Forschung stark umstritten.
+  themes: [politik, verfassung-recht]
+- id: souveraenitaet
+  name: Souveränität
+  aliases: [Sovereignty, souverän]
+  definition: Höchste, von keiner äußeren Macht abgeleitete Herrschaftsgewalt; als Begriff von Jean Bodin 1576 systematisch ausgearbeitet, später zum Grundbegriff des modernen Staats- und Völkerrechts.
+  themes: [politik, verfassung-recht]

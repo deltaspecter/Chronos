@@ -1,0 +1,35 @@
+# Staaten: Das Osmanische Reich auf dem Höhepunkt (r14-osman)
+- id: safawidenreich
+  name: Safawidenreich
+  aliases: [Safawiden, Safawidisches Iran, Safaviden]
+  start: "1501"
+  end: "1736"
+  spanNote: Die Herrschaft der Safawiden endete faktisch 1722 mit der Eroberung Isfahans durch afghanische Truppen; 1736 ließ sich Nader Schah selbst zum Herrscher ausrufen.
+  capital: tabriz
+  summary: Von Schah Ismail I. aus einem sufischen Orden heraus gegründetes Reich in Iran, das das Zwölferschiitentum zur Staatsreligion machte und im 16. Jahrhundert der wichtigste Rivale der Osmanen im Osten war; Residenzen waren nacheinander Täbris, Qazvin und Isfahan.
+  regions: [iran, westasien]
+  themes: [imperien, religion]
+  weight: 2
+- id: koenigreich-ungarn
+  name: Königreich Ungarn
+  aliases: [Ungarn, Regnum Hungariae]
+  start: "1000"
+  end: "1918"
+  spanNote: Nach der Niederlage bei Mohács 1526 dreigeteilt in ein habsburgisches Königlich-Ungarn im Westen und Norden, das osmanisch beherrschte Zentrum um Buda (ab 1541) und das von den Osmanen abhängige Fürstentum Siebenbürgen; erst nach 1686/1699 unter den Habsburgern wiedervereinigt.
+  capital: budapest
+  summary: Christliches Königreich im Karpatenbecken, im Spätmittelalter die wichtigste Vormacht gegen die Osmanen an der Donau; nach 1526 Hauptschauplatz der Kriege zwischen Osmanen und Habsburgern.
+  regions: [mitteleuropa, suedosteuropa]
+  themes: [politik, krieg-militaer]
+  successors: [habsburgermonarchie]
+  weight: 2
+- id: estado-da-india
+  name: Estado da Índia
+  aliases: [Portugiesisch-Indien, Portugiesischer Staat Indien]
+  start: "1505"
+  end: "1961"
+  capital: goa
+  spanNote: Ab 1505 mit einem Vizekönig, ab 1530 mit Sitz in Goa; im 16. Jahrhundert ein Netz von Festungen und Häfen zwischen Ostafrika und Ostasien, 1961 endete mit der Besetzung Goas durch Indien die portugiesische Herrschaft.
+  summary: Portugiesisches Seereich im Indischen Ozean, das mit Festungen wie Goa, Hormus, Diu und Malakka den Seehandel zu kontrollieren und zu besteuern versuchte und dabei mit Osmanen, Mamluken und asiatischen Herrschern in Konflikt geriet.
+  regions: [indischer-ozean, suedasien, ostafrika]
+  themes: [imperien, handelsnetze]
+  weight: 3

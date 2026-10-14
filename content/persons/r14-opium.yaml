@@ -1,0 +1,168 @@
+# Personen: Die Opiumkriege (r14-opium)
+- id: daoguang
+  name: Daoguang
+  aliases: [Kaiser Daoguang, Minning]
+  born: "1782"
+  died: "1850"
+  roles: [Kaiser von China]
+  summary: Qing-Kaiser 1820–1850, der nach einer Debatte über die Legalisierung des Opiums 1838 die harte Linie wählte, Lin Zexu als Sonderkommissar nach Kanton schickte und 1842 den Vertrag von Nanjing billigen musste.
+  regions: [china]
+  themes: [politik]
+- id: xianfeng
+  name: Xianfeng
+  aliases: [Kaiser Xianfeng, Yizhu]
+  born: "1831"
+  died: "1861"
+  roles: [Kaiser von China]
+  summary: Qing-Kaiser 1850–1861, dessen Regierungszeit vom Taiping-Krieg und dem Zweiten Opiumkrieg geprägt war; floh 1860 vor den britisch-französischen Truppen nach Chengde und starb dort im folgenden Jahr.
+  regions: [china]
+  themes: [politik]
+  places: [chengde]
+- id: yixin
+  name: Prinz Gong (Yixin)
+  aliases: [Prinz Gong, Prince Kung, Yixin]
+  born: "1833"
+  died: "1898"
+  roles: [Prinz, Staatsmann]
+  summary: Halbbruder des Kaisers Xianfeng, der 1860 nach dessen Flucht in Peking mit Briten, Franzosen und Russen die Konventionen von Peking aushandelte und 1861 das Zongli Yamen, eine Behörde für die Beziehungen zu den Westmächten, leitete.
+  regions: [china]
+  themes: [politik]
+  places: [peking]
+- id: qishan
+  name: Qishan
+  aliases: [Kishen]
+  died: "1854"
+  roles: [Beamter]
+  summary: Mandschurischer Hochbeamter, der 1840 Lin Zexu in Kanton ablöste und im Januar 1841 mit Charles Elliot die Konvention von Chuanbi vereinbarte; weil er darin Hongkong preisgab, wurde er vom Kaiser abgesetzt und verurteilt.
+  regions: [china]
+  themes: [politik]
+  places: [guangzhou]
+- id: qiying
+  name: Qiying
+  aliases: [Keying]
+  born: "1787"
+  died: "1858"
+  roles: [Beamter, Diplomat]
+  summary: Mandschurischer Prinz und Beamter, der 1842 den Vertrag von Nanjing und danach die Zusatzverträge mit Großbritannien, den USA und Frankreich aushandelte; 1858 wurde er nach gescheiterten Verhandlungen in Tianjin zum Selbstmord gezwungen.
+  regions: [china]
+  themes: [politik]
+  places: [nanjing, guangzhou]
+- id: ye-mingchen
+  name: Ye Mingchen
+  born: "1807"
+  died: "1859"
+  roles: [Generalgouverneur]
+  summary: Generalgouverneur von Guangdong und Guangxi, dessen Vorgehen gegen die Lorcha Arrow 1856 den Anlass für den Zweiten Opiumkrieg bot; nach der Einnahme Kantons 1858 gefangen genommen, starb er in Kalkutta.
+  regions: [china]
+  themes: [politik]
+  places: [guangzhou, kalkutta]
+- id: sengge-rinchen
+  name: Sengge Rinchen
+  aliases: [Sengelinqin]
+  died: "1865"
+  roles: [General, mongolischer Fürst]
+  summary: Mongolischer Fürst und Qing-General, der 1859 an den Dagu-Forts einen britisch-französischen Angriff abwehrte, 1860 aber bei Baliqiao vor Peking geschlagen wurde.
+  regions: [china]
+  themes: [krieg-militaer]
+  places: [dagu, baliqiao]
+- id: wei-yuan
+  name: Wei Yuan
+  born: "1794"
+  died: "1857"
+  roles: [Gelehrter, Geograf]
+  summary: Gelehrter, der nach dem Ersten Opiumkrieg mit der „Illustrierten Abhandlung über die Länder jenseits der Meere“ das erste große chinesische Werk über den Westen vorlegte und forderte, von den Techniken der Fremden zu lernen.
+  regions: [china]
+  themes: [wissenschaft-technik, geschichtsschreibung]
+- id: charles-elliot
+  name: Charles Elliot
+  born: "1801"
+  died: "1875"
+  roles: [Marineoffizier, Diplomat]
+  summary: Britischer Handelsoberaufseher in Kanton, der die britischen Kaufleute 1839 zur Herausgabe ihres Opiums an Lin Zexu bewog und ihnen dafür Entschädigung durch die Krone versprach; nach der Konvention von Chuanbi 1841 abberufen.
+  regions: [britische-inseln, china]
+  themes: [politik]
+  places: [guangzhou, hongkong]
+- id: henry-pottinger
+  name: Henry Pottinger
+  born: "1789"
+  died: "1856"
+  roles: [Offizier, Diplomat, Kolonialgouverneur]
+  summary: Britischer Bevollmächtigter, der ab 1841 den Feldzug entlang der chinesischen Küste und den Yangzi hinauf leitete, 1842 den Vertrag von Nanjing unterzeichnete und erster Gouverneur Hongkongs wurde.
+  regions: [britische-inseln, china]
+  themes: [politik, krieg-militaer]
+  places: [nanjing, hongkong]
+- id: william-jardine
+  name: William Jardine
+  born: "1784"
+  died: "1843"
+  roles: [Kaufmann]
+  summary: Schottischer Arzt und Kaufmann, der 1832 mit James Matheson das Handelshaus Jardine, Matheson & Co. gründete, den größten Opiumhändler an der chinesischen Küste; drängte in London auf den Krieg.
+  regions: [britische-inseln, china]
+  themes: [wirtschaft-handel]
+  places: [guangzhou, london]
+- id: james-matheson
+  name: James Matheson
+  born: "1796"
+  died: "1878"
+  roles: [Kaufmann, Politiker]
+  summary: Schottischer Kaufmann und Mitgründer von Jardine, Matheson & Co., die mit Opium aus Indien und später von Hongkong aus Handel trieb; wurde später Abgeordneter im britischen Unterhaus.
+  regions: [britische-inseln, china]
+  themes: [wirtschaft-handel]
+  places: [guangzhou, hongkong]
+- id: lord-palmerston
+  name: Lord Palmerston
+  aliases: [Henry John Temple, 3. Viscount Palmerston, Palmerston]
+  born: "1784-10-20"
+  died: "1865-10-18"
+  roles: [Außenminister, Premierminister]
+  summary: Britischer Außenminister, der 1839/40 die Flotte nach China schickte und als Premierminister den Zweiten Opiumkrieg verantwortete; Inbegriff einer Politik, die britische Handelsinteressen mit Kriegsschiffen durchsetzte.
+  regions: [britische-inseln]
+  themes: [politik, imperien]
+  places: [london]
+- id: william-gladstone
+  name: William Ewart Gladstone
+  aliases: [Gladstone]
+  born: "1809-12-29"
+  died: "1898-05-19"
+  roles: [Politiker, Premierminister]
+  summary: Britischer Politiker, der 1840 als junger Abgeordneter den Krieg gegen China im Unterhaus als ungerecht verurteilte; später liberaler Premierminister in vier Amtszeiten.
+  regions: [britische-inseln]
+  themes: [politik]
+  places: [london]
+- id: lord-elgin
+  name: Lord Elgin (James Bruce)
+  aliases: [James Bruce, 8. Earl of Elgin, Elgin]
+  born: "1811-07-20"
+  died: "1863-11-20"
+  roles: [Diplomat, Kolonialbeamter]
+  summary: Britischer Sonderbevollmächtigter im Zweiten Opiumkrieg, der 1858 den Vertrag von Tianjin erzwang und 1860 als Vergeltung für die Misshandlung von Gefangenen die Zerstörung des Sommerpalasts befahl; danach Vizekönig von Indien.
+  regions: [britische-inseln, china, suedasien]
+  themes: [politik, imperien]
+  places: [tianjin, yuanmingyuan, peking]
+- id: harry-parkes
+  name: Harry Parkes
+  born: "1828"
+  died: "1885"
+  roles: [Konsul, Diplomat]
+  summary: Britischer Konsul in Kanton, der den Arrow-Zwischenfall 1856 zum Kriegsgrund machte; 1860 bei Verhandlungen gefangen genommen, überlebte er die Haft, während viele Mitgefangene starben; später Gesandter in Japan und China.
+  regions: [britische-inseln, china, japan]
+  themes: [politik]
+  places: [guangzhou, peking]
+- id: baron-gros
+  name: Jean-Baptiste Louis Gros
+  aliases: [Baron Gros]
+  born: "1793"
+  died: "1870"
+  roles: [Diplomat]
+  summary: Französischer Diplomat, der im Zweiten Opiumkrieg neben Lord Elgin die französische Seite vertrat und die Verträge von Tianjin 1858 und Peking 1860 für Frankreich unterzeichnete.
+  regions: [frankreich, china]
+  themes: [politik]
+  places: [tianjin, peking]
+- id: victor-hugo
+  name: Victor Hugo
+  born: "1802-02-26"
+  died: "1885-05-22"
+  roles: [Schriftsteller]
+  summary: Französischer Dichter und Romancier („Die Elenden“), der als Gegner Napoleons III. im Exil auf Guernsey lebte und 1861 die Plünderung des Sommerpalasts in einem offenen Brief als Raub zweier Banditen verurteilte.
+  regions: [frankreich, britische-inseln]
+  themes: [kultur-kunst, politik]

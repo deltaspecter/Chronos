@@ -1,0 +1,153 @@
+# Orte: Das Osmanische Reich auf dem Höhepunkt (r14-osman)
+- id: mohacs
+  name: Mohács
+  coords: [18.6797, 45.9931]
+  location: ungefaehr
+  categories: [schlachtfeld, stadt]
+  modernName: Mohács (Ungarn)
+  summary: Kleinstadt an der Donau in Südungarn, auf deren Ebene südlich des Ortes Süleyman am 29. August 1526 das ungarische Heer vernichtete; heute erinnert eine Gedenkstätte bei Sátorhely an die Schlacht.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+- id: tschaldiran
+  name: Tschaldiran
+  aliases: [Çaldıran, Chaldiran]
+  coords: [44.38, 39.07]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Ebene von Chaldiran, Provinz West-Aserbaidschan (Iran)
+  summary: Hochebene im Nordwesten Irans, auf der Selim I. 1514 das Heer Schah Ismails besiegte.
+  regions: [iran]
+  themes: [krieg-militaer]
+- id: mardsch-dabiq
+  name: Mardsch Dabiq
+  aliases: [Marj Dabiq, Mercidabık]
+  coords: [37.10, 36.53]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Dabiq bei Aleppo (Syrien)
+  summary: Ebene nördlich von Aleppo, auf der das osmanische Heer 1516 die Mamluken schlug; Sultan Qansuh al-Ghuri kam dabei ums Leben.
+  regions: [levante]
+  themes: [krieg-militaer]
+- id: rhodos
+  name: Rhodos
+  aliases: [Rodos, Rhodes]
+  coords: [28.2278, 36.4341]
+  categories: [stadt, hafen]
+  modernName: Rhodos (Griechenland)
+  summary: Inselstadt in der südöstlichen Ägäis, seit 1309 Sitz des Johanniterordens, der sie 1522 nach monatelanger Belagerung an Süleyman übergab und später nach Malta übersiedelte.
+  regions: [griechenland, mittelmeer]
+  themes: [krieg-militaer]
+- id: preveza
+  name: Preveza
+  aliases: [Prevesa]
+  coords: [20.7508, 38.9597]
+  categories: [stadt, hafen]
+  modernName: Preveza (Griechenland)
+  summary: Hafenstadt am Eingang des Ambrakischen Golfs, vor der Hayreddin Barbarossa 1538 die Flotte der Heiligen Liga besiegte.
+  regions: [griechenland, mittelmeer]
+  themes: [krieg-militaer]
+- id: szigetvar
+  name: Szigetvár
+  aliases: [Sigeth, Zigeth]
+  coords: [17.8053, 46.0486]
+  categories: [stadt]
+  modernName: Szigetvár (Ungarn)
+  summary: Festungsstadt in Südungarn, deren Verteidiger unter Nikolaus Zrínyi 1566 wochenlang einem osmanischen Heer standhielten; während der Belagerung starb Sultan Süleyman.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+- id: diu
+  name: Diu
+  coords: [70.9874, 20.7144]
+  categories: [stadt, hafen]
+  modernName: Diu (Indien)
+  summary: Inselhafen an der Küste Gujarats, in dem die Portugiesen ab 1535 eine Festung unterhielten; 1538 belagerten eine osmanische Flotte und Truppen des Sultans von Gujarat sie vergeblich.
+  regions: [suedasien, indischer-ozean]
+  themes: [handelsnetze, krieg-militaer]
+- id: hormus
+  name: Hormus
+  aliases: [Ormus, Hormuz]
+  coords: [56.46, 27.06]
+  categories: [stadt, hafen]
+  modernName: Insel Hormus (Iran)
+  summary: Insel am Eingang des Persischen Golfs und Drehscheibe des Golfhandels, seit 1515 unter portugiesischer Kontrolle; 1552 scheiterte ein osmanischer Angriff unter Piri Reis.
+  regions: [iran, indischer-ozean]
+  themes: [handelsnetze]
+- id: aden
+  name: Aden
+  coords: [45.0187, 12.7855]
+  categories: [stadt, hafen]
+  modernName: Aden (Jemen)
+  summary: Hafenstadt am Eingang des Roten Meeres, die eine osmanische Flotte 1538 auf dem Weg nach Indien besetzte.
+  regions: [arabische-halbinsel, indischer-ozean]
+  themes: [handelsnetze]
+- id: goa
+  name: Goa
+  aliases: [Velha Goa, Alt-Goa]
+  coords: [73.9119, 15.5009]
+  categories: [stadt, hafen, hauptstadt]
+  modernName: Old Goa (Indien)
+  summary: Hafenstadt an der Westküste Indiens, 1510 von Afonso de Albuquerque erobert und danach Sitz des portugiesischen Vizekönigs von Indien.
+  regions: [suedasien, indischer-ozean]
+  themes: [handelsnetze, imperien]
+- id: tabriz
+  name: Täbris
+  aliases: [Tabriz, Tebriz]
+  coords: [46.2919, 38.0800]
+  categories: [stadt, hauptstadt]
+  modernName: Täbris (Iran)
+  summary: Stadt im Nordwesten Irans, in der sich Ismail 1501 zum Schah ausrufen ließ und die die Osmanen im 16. Jahrhundert mehrfach besetzten; die Safawiden verlegten ihre Residenz deshalb später nach Qazvin und Isfahan.
+  regions: [iran]
+  themes: [politik, handelsnetze]
+- id: amasya
+  name: Amasya
+  aliases: [Amaseia]
+  coords: [35.8353, 40.6499]
+  categories: [stadt]
+  modernName: Amasya (Türkei)
+  summary: Stadt im nördlichen Anatolien, traditioneller Sitz osmanischer Prinzen als Statthalter, in der 1555 der Frieden mit den Safawiden geschlossen wurde.
+  regions: [anatolien]
+  themes: [politik]
+- id: tunis
+  name: Tunis
+  coords: [10.1815, 36.8065]
+  categories: [stadt, hafen, hauptstadt]
+  modernName: Tunis (Tunesien)
+  summary: Hauptstadt der Hafsiden, 1534 von Hayreddin Barbarossa eingenommen, 1535 von Karl V. erobert und 1574 endgültig osmanisch.
+  regions: [nordafrika, mittelmeer]
+  themes: [politik, krieg-militaer]
+- id: malta
+  name: Malta
+  aliases: [Birgu, Il-Birgu]
+  coords: [14.5225, 35.8881]
+  categories: [region, hafen]
+  modernName: Malta
+  summary: Mittelmeerinsel, die Karl V. 1530 dem aus Rhodos vertriebenen Johanniterorden überließ; 1565 scheiterte hier eine große osmanische Belagerung.
+  regions: [mittelmeer]
+  themes: [krieg-militaer]
+- id: topkapi-palast
+  name: Topkapı-Palast
+  aliases: [Topkapı Sarayı, Neuer Palast, Serail]
+  coords: [28.9834, 41.0115]
+  categories: [kulturzentrum]
+  modernName: Topkapı-Palastmuseum, Istanbul
+  summary: Unter Mehmed II. ab den 1460er Jahren an der Spitze der Istanbuler Halbinsel errichteter Palast, Sitz des Sultans, des Großherrlichen Rates und der Palastschule; heute Museum.
+  regions: [anatolien, suedosteuropa]
+  themes: [politik, kultur-kunst]
+- id: sueleymaniye-moschee
+  name: Süleymaniye-Moschee
+  aliases: [Süleymaniye, Süleymaniye Camii]
+  coords: [28.9640, 41.0162]
+  categories: [heiligtum, kulturzentrum]
+  modernName: Süleymaniye-Moschee, Istanbul
+  summary: Von Sinan 1550–1557 für Süleyman errichtete Moschee auf dem dritten Hügel Istanbuls, Mittelpunkt einer Stiftungsanlage mit Hochschulen, Hospital, Armenküche und den Grabbauten Süleymans und Hürrems.
+  regions: [anatolien, suedosteuropa]
+  themes: [kultur-kunst, religion]
+- id: selimiye-moschee
+  name: Selimiye-Moschee
+  aliases: [Selimiye, Selimiye Camii]
+  coords: [26.5594, 41.6779]
+  categories: [heiligtum, kulturzentrum]
+  modernName: Selimiye-Moschee, Edirne (Türkei)
+  summary: Von Sinan für Selim II. in Edirne errichtete Moschee, deren Kuppel mit der der Hagia Sophia wetteifert; Sinan selbst sah in ihr sein Meisterwerk. UNESCO-Welterbe.
+  regions: [suedosteuropa]
+  themes: [kultur-kunst, religion]
