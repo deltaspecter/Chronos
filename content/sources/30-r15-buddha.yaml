@@ -1,0 +1,196 @@
+# Quellen und Literatur: Der Buddha und die Entstehung des Buddhismus
+
+# --- Primärquellen ---
+- id: q-mahaparinibbana-sutta
+  kind: primaer
+  authors: ["Anonym (Pali-Kanon)"]
+  title: Mahāparinibbāna-Sutta
+  subtitle: Die Lehrrede vom großen Verlöschen (Dīgha-Nikāya 16)
+  written: Mündlich überliefert ab dem 5./4. Jh. v. Chr., schriftlich fixiert wohl im 1. Jh. v. Chr. in Sri Lanka
+  note: Längste Erzählung des Pali-Kanons über die letzten Monate des Buddha, seinen Tod in Kushinagar und die Verteilung seiner Reliquien; über Jahrhunderte gewachsen und erweitert.
+- id: q-dhammacakkappavattana-sutta
+  kind: primaer
+  authors: ["Anonym (Pali-Kanon)"]
+  title: Dhammacakkappavattana-Sutta
+  subtitle: Die Lehrrede vom Ingangsetzen des Rades der Lehre (Saṃyutta-Nikāya 56.11)
+  written: Mündlich überliefert ab dem 5./4. Jh. v. Chr., schriftlich fixiert wohl im 1. Jh. v. Chr.
+  note: Nach der Tradition die erste Predigt des Buddha im Wildpark bei Sarnath; enthält die klassische Formulierung der Vier edlen Wahrheiten und des achtfachen Pfades.
+- id: q-vinaya-cullavagga
+  kind: primaer
+  authors: ["Anonym (Pali-Kanon)"]
+  title: Cullavagga
+  subtitle: Teil des Vinaya-Piṭaka (Ordensdisziplin)
+  written: Über Jahrhunderte gewachsen, schriftlich fixiert wohl im 1. Jh. v. Chr.
+  note: Regelwerk des Mönchsordens, das unter anderem die Aufnahme der ersten Nonnen sowie die Konzile von Rajagriha und Vaishali schildert.
+- id: q-mahavamsa
+  kind: primaer
+  authors: ["Mahānāma (zugeschrieben)"]
+  title: Mahāvaṃsa
+  subtitle: Die große Chronik Sri Lankas
+  written: Anuradhapura, wohl 5./6. Jh. n. Chr.
+  note: Pali-Chronik des Mahavihara-Klosters, die die Geschichte des Buddhismus von den Konzilen über Ashoka bis zu den Königen Sri Lankas erzählt; Hauptquelle der „langen Chronologie“ und der Mission Mahindas.
+- id: q-faxian
+  kind: primaer
+  authors: ["Faxian"]
+  title: Foguo ji
+  subtitle: Bericht über die buddhistischen Länder
+  written: China, um 416 n. Chr.
+  note: Reisebericht des chinesischen Mönchs Faxian, der um 399–412 n. Chr. auf dem Landweg nach Indien und über Sri Lanka auf dem Seeweg zurück reiste; beschreibt die heiligen Stätten und Klöster seiner Zeit.
+
+# --- Editionen / Übersetzungen ---
+- id: walshe-1987
+  kind: edition
+  authors: ["Walshe, Maurice"]
+  title: Thus Have I Heard
+  subtitle: The Long Discourses of the Buddha. A Translation of the Dīgha Nikāya
+  place: London
+  publisher: Wisdom Publications
+  year: 1987
+- id: bodhi-2000
+  kind: edition
+  authors: ["Bodhi, Bhikkhu"]
+  title: The Connected Discourses of the Buddha
+  subtitle: A New Translation of the Saṃyutta Nikāya
+  place: Boston
+  publisher: Wisdom Publications
+  year: 2000
+- id: geiger-1912
+  kind: edition
+  authors: ["Geiger, Wilhelm"]
+  title: The Mahāvaṃsa or the Great Chronicle of Ceylon
+  place: London
+  publisher: Pali Text Society / Oxford University Press
+  year: 1912
+
+# --- Forschung ---
+- id: gethin-1998
+  kind: sekundaer
+  authors: ["Gethin, Rupert"]
+  title: The Foundations of Buddhism
+  place: Oxford
+  publisher: Oxford University Press
+  year: 1998
+- id: harvey-2013
+  kind: sekundaer
+  authors: ["Harvey, Peter"]
+  title: An Introduction to Buddhism
+  subtitle: Teachings, History and Practices
+  edition: "2. Aufl."
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2013
+- id: gombrich-2006
+  kind: sekundaer
+  authors: ["Gombrich, Richard F."]
+  title: Theravāda Buddhism
+  subtitle: A Social History from Ancient Benares to Modern Colombo
+  edition: "2. Aufl."
+  place: London
+  publisher: Routledge
+  year: 2006
+- id: bechert-1991
+  kind: sekundaer
+  authors: []
+  editors: ["Bechert, Heinz"]
+  title: The Dating of the Historical Buddha / Die Datierung des historischen Buddha
+  subtitle: Teil 1
+  series: Abhandlungen der Akademie der Wissenschaften in Göttingen, Philologisch-Historische Klasse, 3. Folge, 189
+  place: Göttingen
+  publisher: Vandenhoeck & Ruprecht
+  year: 1991
+- id: lamotte-1958
+  kind: sekundaer
+  authors: ["Lamotte, Étienne"]
+  title: Histoire du bouddhisme indien
+  subtitle: Des origines à l'ère Śaka
+  series: Bibliothèque du Muséon 43
+  place: Louvain
+  publisher: Institut Orientaliste
+  year: 1958
+- id: bronkhorst-2007
+  kind: sekundaer
+  authors: ["Bronkhorst, Johannes"]
+  title: Greater Magadha
+  subtitle: Studies in the Culture of Early India
+  place: Leiden
+  publisher: Brill
+  year: 2007
+- id: zuercher-1959
+  kind: sekundaer
+  authors: ["Zürcher, Erik"]
+  title: The Buddhist Conquest of China
+  subtitle: The Spread and Adaptation of Buddhism in Early Medieval China
+  place: Leiden
+  publisher: Brill
+  year: 1959
+- id: schumann-1982
+  kind: sekundaer
+  authors: ["Schumann, Hans Wolfgang"]
+  title: Der historische Buddha
+  subtitle: Leben und Lehre des Gotama
+  place: Köln
+  publisher: Diederichs
+  year: 1982
+- id: strong-1983
+  kind: sekundaer
+  authors: ["Strong, John S."]
+  title: The Legend of King Aśoka
+  subtitle: A Study and Translation of the Aśokāvadāna
+  place: Princeton
+  publisher: Princeton University Press
+  year: 1983
+- id: williams-2009
+  kind: sekundaer
+  authors: ["Williams, Paul"]
+  title: Mahāyāna Buddhism
+  subtitle: The Doctrinal Foundations
+  edition: "2. Aufl."
+  place: London
+  publisher: Routledge
+  year: 2009
+- id: coningham-young-2015
+  kind: sekundaer
+  authors: ["Coningham, Robin", "Young, Ruth"]
+  title: The Archaeology of South Asia
+  subtitle: From the Indus to Asoka, c. 6500 BCE–200 CE
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2015
+- id: coningham-2013
+  kind: sekundaer
+  authors: ["Coningham, Robin", "Acharya, Kosh Prasad", "Strickland, Keir M.", "u. a."]
+  title: "The earliest Buddhist shrine: excavating the birthplace of the Buddha, Lumbini (Nepal)"
+  container: Antiquity
+  volume: 87
+  year: 2013
+- id: neelis-2011
+  kind: sekundaer
+  authors: ["Neelis, Jason"]
+  title: Early Buddhist Transmission and Trade Networks
+  subtitle: Mobility and Exchange within and beyond the Northwestern Borderlands of South Asia
+  place: Leiden
+  publisher: Brill
+  year: 2011
+- id: hinueber-1996
+  kind: sekundaer
+  authors: ["Hinüber, Oskar von"]
+  title: A Handbook of Pāli Literature
+  place: Berlin / New York
+  publisher: de Gruyter
+  year: 1996
+- id: schopen-1997
+  kind: sekundaer
+  authors: ["Schopen, Gregory"]
+  title: Bones, Stones, and Buddhist Monks
+  subtitle: Collected Papers on the Archaeology, Epigraphy, and Texts of Monastic Buddhism in India
+  place: Honolulu
+  publisher: University of Hawai'i Press
+  year: 1997
+- id: freiberger-kleine-2011
+  kind: sekundaer
+  authors: ["Freiberger, Oliver", "Kleine, Christoph"]
+  title: Buddhismus
+  subtitle: Handbuch und kritische Einführung
+  place: Göttingen
+  publisher: Vandenhoeck & Ruprecht
+  year: 2011

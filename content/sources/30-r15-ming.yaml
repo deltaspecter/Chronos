@@ -1,0 +1,183 @@
+# Quellen und Literatur: Ming-Dynastie (r15-ming)
+
+# --- Forschung ---
+- id: mote-twitchett-1988
+  kind: sekundaer
+  editors: ["Mote, Frederick W.", "Twitchett, Denis"]
+  title: "The Cambridge History of China. Bd. 7: The Ming Dynasty, 1368–1644, Teil 1"
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1988
+- id: twitchett-mote-1998
+  kind: sekundaer
+  editors: ["Twitchett, Denis", "Mote, Frederick W."]
+  title: "The Cambridge History of China. Bd. 8: The Ming Dynasty, 1368–1644, Teil 2"
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1998
+- id: mote-1999
+  kind: sekundaer
+  authors: ["Mote, Frederick W."]
+  title: Imperial China, 900–1800
+  place: Cambridge, Mass.
+  publisher: Harvard University Press
+  year: 1999
+- id: brook-2010
+  kind: sekundaer
+  authors: ["Brook, Timothy"]
+  title: The Troubled Empire
+  subtitle: China in the Yuan and Ming Dynasties
+  place: Cambridge, Mass. / London
+  publisher: Belknap Press of Harvard University Press
+  year: 2010
+- id: brook-1998
+  kind: sekundaer
+  authors: ["Brook, Timothy"]
+  title: The Confusions of Pleasure
+  subtitle: Commerce and Culture in Ming China
+  place: Berkeley
+  publisher: University of California Press
+  year: 1998
+- id: dreyer-2007
+  kind: sekundaer
+  authors: ["Dreyer, Edward L."]
+  title: Zheng He
+  subtitle: China and the Oceans in the Early Ming Dynasty, 1405–1433
+  place: New York
+  publisher: Pearson Longman
+  year: 2007
+- id: levathes-1994
+  kind: sekundaer
+  authors: ["Levathes, Louise"]
+  title: When China Ruled the Seas
+  subtitle: The Treasure Fleet of the Dragon Throne, 1405–1433
+  place: New York
+  publisher: Simon & Schuster
+  year: 1994
+- id: waldron-1990
+  kind: sekundaer
+  authors: ["Waldron, Arthur"]
+  title: The Great Wall of China
+  subtitle: From History to Myth
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1990
+- id: huang-1981
+  kind: sekundaer
+  authors: ["Huang, Ray"]
+  title: 1587, A Year of No Significance
+  subtitle: The Ming Dynasty in Decline
+  place: New Haven / London
+  publisher: Yale University Press
+  year: 1981
+- id: von-glahn-1996
+  kind: sekundaer
+  authors: ["von Glahn, Richard"]
+  title: Fountain of Fortune
+  subtitle: Money and Monetary Policy in China, 1000–1700
+  place: Berkeley
+  publisher: University of California Press
+  year: 1996
+- id: flynn-giraldez-1995
+  kind: sekundaer
+  authors: ["Flynn, Dennis O.", "Giráldez, Arturo"]
+  title: Born with a „Silver Spoon“
+  subtitle: The Origin of World Trade in 1571
+  container: Journal of World History
+  volume: "6"
+  pages: 201–221
+  year: 1995
+- id: atwell-1982
+  kind: sekundaer
+  authors: ["Atwell, William S."]
+  title: International Bullion Flows and the Chinese Economy circa 1530–1650
+  container: Past & Present
+  volume: "95"
+  pages: 68–90
+  year: 1982
+- id: spence-1984
+  kind: sekundaer
+  authors: ["Spence, Jonathan D."]
+  title: The Memory Palace of Matteo Ricci
+  place: New York
+  publisher: Viking
+  year: 1984
+- id: clunas-1991
+  kind: sekundaer
+  authors: ["Clunas, Craig"]
+  title: Superfluous Things
+  subtitle: Material Culture and Social Status in Early Modern China
+  place: Cambridge
+  publisher: Polity Press
+  year: 1991
+- id: wakeman-1985
+  kind: sekundaer
+  authors: ["Wakeman, Frederic, Jr."]
+  title: The Great Enterprise
+  subtitle: The Manchu Reconstruction of Imperial Order in Seventeenth-Century China
+  place: Berkeley
+  publisher: University of California Press
+  year: 1985
+
+# --- Editionen und Übersetzungen ---
+- id: mills-1970
+  kind: edition
+  authors: ["Ma Huan"]
+  editors: ["Mills, J. V. G."]
+  title: Ying-yai Sheng-lan
+  subtitle: The Overall Survey of the Ocean's Shores [1433]
+  place: Cambridge
+  publisher: Cambridge University Press für die Hakluyt Society
+  year: 1970
+- id: gallagher-1953
+  kind: edition
+  authors: ["Ricci, Matteo", "Trigault, Nicolas"]
+  editors: ["Gallagher, Louis J."]
+  title: China in the Sixteenth Century
+  subtitle: The Journals of Matthew Ricci, 1583–1610
+  place: New York
+  publisher: Random House
+  year: 1953
+
+# --- Primärquellen ---
+- id: q-ma-huan
+  kind: primaer
+  authors: ["Ma Huan"]
+  title: Yingya shenglan (Gesamtschau der Küsten des Ozeans)
+  written: China, Entwurf ab 1416, Endfassung um 1451
+  note: Bericht eines muslimischen Dolmetschers, der an drei Fahrten Zheng Hes teilnahm und Häfen, Waren, Sitten und Herrscher der besuchten Länder von Champa bis Mekka beschreibt.
+- id: q-changle-inschrift
+  kind: primaer
+  authors: ["Zheng He u. a."]
+  title: Inschrift im Tempel der Himmelskönigin in Changle
+  written: Changle (Fujian), Xuande 6 (1431/32)
+  note: Vor der siebten Fahrt von Zheng He und seinen Mitkommandanten gestiftete Steininschrift, die der Seegöttin Tianfei dankt und die bisherigen Fahrten aufzählt.
+- id: q-huang-ming-zuxun
+  kind: primaer
+  authors: ["Hongwu-Kaiser"]
+  title: Huang Ming zuxun (Ahnenvermächtnis der Ming)
+  written: Nanjing, Endfassung 1395
+  note: Anweisungen des Dynastiegründers an seine Nachfolger, unter anderem mit einer Liste von Nachbarländern, die nicht angegriffen werden sollten.
+- id: q-mingshi
+  kind: primaer
+  authors: ["Zhang Tingyu (Leitung)"]
+  title: Mingshi (Geschichte der Ming)
+  written: Peking, unter der Qing-Dynastie, 1739 vorgelegt
+  note: Offizielle Dynastiegeschichte der Ming, von Gelehrten der Nachfolgedynastie zusammengestellt; Hauptquelle für viele Zahlenangaben, etwa zur Größe der Flotten Zheng Hes.
+- id: q-ricci-trigault
+  kind: primaer
+  authors: ["Ricci, Matteo", "Trigault, Nicolas"]
+  title: De Christiana expeditione apud Sinas
+  written: Augsburg 1615 (nach Riccis italienischen Aufzeichnungen bis 1610)
+  note: Von Nicolas Trigault bearbeitete und ins Lateinische übersetzte Erinnerungen Riccis an die Jesuitenmission in China; prägte für lange Zeit das europäische Chinabild.
+- id: q-tiangong-kaiwu
+  kind: primaer
+  authors: ["Song Yingxing"]
+  title: Tiangong kaiwu (Die Erschließung der Dinge durch die Werke der Natur)
+  written: China, 1637
+  note: Illustriertes Handbuch der Techniken von Landwirtschaft und Handwerk, darunter Seidenweberei, Bergbau und die Porzellanherstellung in Jingdezhen.
+- id: q-xiyouji
+  kind: primaer
+  title: Xiyouji (Die Reise nach Westen)
+  written: China, früheste erhaltene Druckausgabe Nanjing 1592
+  note: Roman über die Pilgerfahrt des Mönchs Xuanzang nach Indien mit dem Affenkönig Sun Wukong; die übliche Zuschreibung an Wu Cheng'en ist unsicher.

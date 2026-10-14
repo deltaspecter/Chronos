@@ -1,0 +1,47 @@
+# Staaten: Der Buddha und die Entstehung des Buddhismus
+- id: magadha
+  name: Magadha
+  start: "~-600?"
+  end: "~-321"
+  spanNote: Als Mahajanapada im 6./5. Jh. v. Chr. fassbar; mit dem Sturz der Nanda-Dynastie durch Chandragupta Maurya ging es im Maurya-Reich auf. Die frühen Daten hängen von der umstrittenen Buddha-Chronologie ab.
+  capital: rajagriha
+  summary: Königreich im Süden des heutigen Bihar, das unter Bimbisara und Ajatashatru Kosala und die Vajji-Konföderation unterwarf, seine Residenz von Rajagriha nach Pataliputra verlegte und unter der Nanda-Dynastie große Teile Nordindiens beherrschte; Kernland der späteren Maurya.
+  regions: [suedasien]
+  themes: [politik, imperien]
+  predecessors: []
+  successors: [maurya-reich-staat]
+  weight: 2
+- id: kosala
+  name: Kosala
+  start: "~-600?"
+  end: "~-450?"
+  spanNote: Ende mit der Eroberung durch Magadha nach dem Tod König Pasenadis; die Daten sind sehr unsicher.
+  capital: shravasti
+  summary: Eines der mächtigsten Mahajanapadas im Gebiet des heutigen Uttar Pradesh mit der Hauptstadt Shravasti, das zeitweise auch Kashi (Varanasi) und die Shakya beherrschte; später von Magadha erobert.
+  regions: [suedasien]
+  themes: [politik]
+  successors: [magadha]
+  weight: 3
+- id: vajji-konfoederation
+  name: Vajji-Konföderation
+  aliases: [Vrijji, Vajji, Licchavi]
+  start: "~-600?"
+  end: "~-450?"
+  spanNote: Nach der Überlieferung von Ajatashatru von Magadha unterworfen; die Daten sind sehr unsicher.
+  capital: vaishali
+  summary: Bund von Stammesgemeinwesen nördlich des Ganges mit den Licchavi von Vaishali an der Spitze, regiert von Ratsversammlungen der Kriegeradelsfamilien (gana-sangha); ein Gegenmodell zu den Monarchien der Gangesebene, das buddhistische Texte als vorbildlich schildern.
+  regions: [suedasien]
+  themes: [politik, verfassung-recht]
+  successors: [magadha]
+  weight: 3
+- id: kushana-reich
+  name: Kushana-Reich
+  aliases: [Kuschan-Reich, Kushan-Reich, Kuṣāṇa]
+  start: "~30?"
+  end: "~375?"
+  spanNote: Von der Einigung der Yuezhi-Stämme in Baktrien im 1. Jh. n. Chr. bis zum Verlust der Kerngebiete an die Sasaniden im 3./4. Jh.; Chronologie und vor allem die Ära Kanishkas sind umstritten.
+  summary: Von nomadischen Yuezhi gegründetes Reich, das im 1.–3. Jahrhundert n. Chr. von Baktrien über Gandhara bis Mathura und in die Gangesebene reichte; Knotenpunkt des Handels zwischen Indien, Zentralasien, China und dem Römischen Reich und wichtige Brücke für die Ausbreitung des Buddhismus.
+  regions: [zentralasien, suedasien]
+  themes: [imperien, handelsnetze, religion]
+  predecessors: [graeko-baktrisches-reich]
+  weight: 2

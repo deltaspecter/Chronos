@@ -1,0 +1,195 @@
+# Ereignisse: Der Buddha und die Entstehung des Buddhismus
+- id: zweite-urbanisierung-ganges
+  title: Zweite Urbanisierung der Gangesebene
+  start: "~-600"
+  end: "~-300"
+  certainty: wahrscheinlich
+  dateNote: Archäologisch über befestigte Städte, Northern Black Polished Ware und gestempelte Silbermünzen erschlossen; Beginn und Tempo sind regional unterschiedlich und werden diskutiert.
+  weight: 2
+  kind: entwicklung
+  summary: Rund ein Jahrtausend nach dem Ende der Indus-Städte entstehen in der Gangesebene erneut befestigte Städte mit Handwerk, Fernhandel und Münzgeld; zugleich formieren sich die Mahajanapadas. In diesem Umfeld treten Wanderasketen wie der Buddha und Mahavira auf.
+  regions: [suedasien]
+  themes: [gesellschaft, wirtschaft-handel, archaeologie]
+  places: [rajagriha, shravasti, varanasi, vaishali]
+  polities: [magadha, kosala, vajji-konfoederation]
+- id: erwachen-des-buddha
+  title: Erwachen des Buddha in Bodhgaya
+  date: "~-445?"
+  certainty: umstritten
+  dateNote: Nach der Tradition im 35. Lebensjahr; das absolute Datum hängt von der Buddha-Chronologie ab (lange Chronologie um 528 v. Chr., neuere Ansätze um 450–400 v. Chr.).
+  weight: 1
+  kind: ereignis
+  summary: Nach Jahren der Askese erlangt Siddhartha Gautama nach der Überlieferung unter einem Pappelfeigenbaum bei Uruvela (Bodhgaya) das „Erwachen“ (bodhi) und wird zum Buddha.
+  regions: [suedasien]
+  themes: [religion]
+  places: [bodhgaya]
+  persons: [buddha]
+- id: erste-lehrrede-sarnath
+  title: Erste Lehrrede in Sarnath
+  date: "~-445?"
+  certainty: umstritten
+  dateNote: Nach der Tradition wenige Wochen nach dem Erwachen; absolutes Datum unsicher.
+  weight: 2
+  kind: ereignis
+  summary: Im Wildpark von Isipatana bei Varanasi trägt der Buddha nach der Überlieferung fünf früheren Gefährten die Vier edlen Wahrheiten vor – das „Ingangsetzen des Rades der Lehre“. Die Fünf gelten als erste Mönche des Sangha.
+  regions: [suedasien]
+  themes: [religion]
+  places: [sarnath, varanasi]
+  persons: [buddha]
+- id: parinirvana-des-buddha
+  title: Tod (Parinirvana) des Buddha in Kushinagar
+  date: "~-400?"
+  certainty: umstritten
+  dateNote: Srilankische Tradition 544/543 v. Chr., „korrigierte lange Chronologie“ 486/483 v. Chr., kurze Chronologie (100 Jahre vor Ashoka) um 370 v. Chr.; viele heutige Forscher nehmen etwa 420–350 v. Chr. an.
+  weight: 1
+  kind: ereignis
+  summary: Der Buddha stirbt nach dem Mahaparinibbana-Sutta mit achtzig Jahren in Kushinagar; sein Leichnam wird verbrannt, die Reliquien werden auf acht Stupas verteilt. Von diesem Datum aus rechnen buddhistische Traditionen ihre Zeitrechnung.
+  regions: [suedasien]
+  themes: [religion]
+  places: [kushinagar]
+  persons: [buddha, ananda]
+- id: erstes-konzil-rajagriha
+  title: Erstes Konzil von Rajagriha
+  date: "~-400?"
+  certainty: umstritten
+  dateNote: Nach der Tradition in der ersten Regenzeit nach dem Tod des Buddha; Historizität umstritten.
+  weight: 3
+  kind: ereignis
+  summary: Nach dem Vinaya versammeln sich 500 Mönche unter Mahakassapa in Rajagriha; Upali trägt die Ordensregeln, Ananda die Lehrreden vor. Die Forschung sieht darin eher eine spätere Legitimation des Kanons als einen Bericht über ein tatsächliches Ereignis.
+  regions: [suedasien]
+  themes: [religion, schrift-medien]
+  places: [rajagriha]
+  persons: [ananda]
+- id: zweites-konzil-vaishali
+  title: Zweites Konzil von Vaishali
+  date: "~-300?"
+  certainty: umstritten
+  dateNote: Nach der Tradition rund 100 Jahre nach dem Tod des Buddha.
+  weight: 3
+  kind: ereignis
+  summary: Nach dem Vinaya verwirft eine Mönchsversammlung in Vaishali zehn Lockerungen der Ordensdisziplin, darunter die Annahme von Gold und Silber. Die verschiedenen Schulen überliefern den Streit übereinstimmend im Kern, aber mit abweichenden Einzelheiten.
+  regions: [suedasien]
+  themes: [religion]
+  places: [vaishali]
+- id: erstes-schisma
+  title: Erste Spaltung des Sangha (Sthaviras und Mahasanghikas)
+  date: "~-300?"
+  certainty: unsicher
+  dateNote: Zeitpunkt und Anlass werden von den Schulen unterschiedlich angegeben – nach dem zweiten Konzil oder erst in der Zeit Ashokas.
+  weight: 2
+  kind: ereignis
+  summary: Der Orden spaltet sich in die „Älteren“ (Sthaviras) und die „Große Gemeinde“ (Mahasanghikas); als Ursache nennen die Quellen teils Streit um die Disziplin, teils um Lehrfragen. Aus beiden Zweigen gingen im Lauf der Zeit die rund 18 überlieferten frühen Schulen hervor.
+  regions: [suedasien]
+  themes: [religion]
+- id: ashoka-in-lumbini
+  title: Ashokas Besuch in Lumbini
+  date: "~-249"
+  certainty: wahrscheinlich
+  dateNote: Nach der Säuleninschrift im 20. Jahr nach Ashokas Weihe; das absolute Datum hängt von der Datierung seiner Regierung ab.
+  weight: 2
+  kind: ereignis
+  summary: Ashoka besucht den Geburtsort des Buddha, lässt eine Steinsäule errichten und befreit das Dorf Lumbini weitgehend von Abgaben. Die 1896 gefundene Inschrift ist das älteste Zeugnis, das einen Ort mit der Geburt des Buddha verbindet.
+  regions: [suedasien]
+  themes: [religion, politik]
+  places: [lumbini]
+  persons: [ashoka]
+  polities: [maurya-reich-staat]
+- id: drittes-konzil-pataliputra
+  title: Drittes Konzil von Pataliputra
+  date: "~-250?"
+  certainty: umstritten
+  dateNote: Nur in der Theravada-Überlieferung (Dipavamsa, Mahavamsa) bezeugt; Ashokas Inschriften erwähnen es nicht.
+  weight: 3
+  kind: ereignis
+  summary: Nach den srilankischen Chroniken lässt der Mönch Moggaliputta Tissa unter dem Schutz Ashokas abweichende Lehrmeinungen verwerfen und Missionare in neun Regionen aussenden. Andere Schulen kennen dieses Konzil nicht.
+  regions: [suedasien]
+  themes: [religion]
+  places: [pataliputra]
+  persons: [ashoka]
+  polities: [maurya-reich-staat]
+- id: mission-mahindas
+  title: Mission Mahindas in Sri Lanka
+  date: "~-250?"
+  certainty: wahrscheinlich
+  dateNote: Datierung nach den Chroniken in die Regierungszeit Ashokas und König Devanampiya Tissas; Einzelheiten legendarisch, die frühe Präsenz des Buddhismus durch Höhleninschriften des 3./2. Jh. v. Chr. gestützt.
+  weight: 2
+  kind: ereignis
+  summary: Der Mönch Mahinda, nach den Chroniken ein Sohn Ashokas, bekehrt König Devanampiya Tissa von Anuradhapura; das Mahavihara-Kloster wird gegründet. Sanghamitta bringt einen Ableger des Bodhi-Baums und begründet den Nonnenorden.
+  regions: [suedasien]
+  themes: [religion, politik]
+  places: [anuradhapura]
+  persons: [mahinda, sanghamitta, ashoka]
+- id: niederschrift-pali-kanon
+  title: Niederschrift des Pali-Kanons in Sri Lanka
+  start: "~-100"
+  end: "~-1"
+  certainty: umstritten
+  dateNote: Nach Dipavamsa und Mahavamsa unter König Vattagamani Abhaya im 1. Jh. v. Chr.; Ort nach späterer Tradition das Kloster Aluvihara.
+  weight: 2
+  kind: ereignis
+  summary: Nach der Chronik-Überlieferung lassen Mönche in Sri Lanka in einer Zeit von Krieg und Hungersnot die bis dahin mündlich überlieferten Texte samt Kommentaren auf Palmblätter schreiben, damit sie nicht verloren gehen.
+  regions: [suedasien]
+  themes: [religion, schrift-medien]
+  places: [anuradhapura]
+- id: entstehung-mahayana
+  title: Entstehung des Mahayana
+  start: "~-100?"
+  end: "~200"
+  certainty: unsicher
+  dateNote: Die ältesten Mahayana-Sutren sind in Gandhari-Handschriften des 1./2. Jh. n. Chr. und in chinesischen Übersetzungen ab etwa 170–180 n. Chr. greifbar.
+  weight: 2
+  kind: entwicklung
+  summary: Neue Sutren, die als Worte des Buddha auftreten, verkünden den Weg des Bodhisattva und die „Vollkommenheit der Weisheit“. Das Mahayana bildete zunächst keine eigene Ordensgemeinschaft, sondern eine Bewegung innerhalb bestehender Klöster.
+  regions: [suedasien, zentralasien]
+  themes: [religion, schrift-medien]
+  places: [gandhara]
+  persons: [nagarjuna]
+- id: buddhismus-in-china-65
+  title: Erste Erwähnung des Buddhismus in China
+  date: "65"
+  certainty: wahrscheinlich
+  dateNote: Nach dem Hou Hanshu; die Legende vom Traum Kaiser Mings und der Gründung des Klosters des Weißen Pferdes in Luoyang ist spätere Überlieferung.
+  weight: 2
+  kind: ereignis
+  summary: Ein Edikt Kaiser Mings der Östlichen Han erwähnt, dass sein Halbbruder Liu Ying, König von Chu, den Buddha verehrt und Mönche und Laien bewirtet – die früheste sichere Nachricht über Buddhisten in China.
+  regions: [china]
+  themes: [religion]
+  polities: [han-dynastie]
+- id: konzil-kaschmir
+  title: Konzil unter Kanishka
+  date: "~150?"
+  certainty: umstritten
+  dateNote: Nur in späteren Quellen, vor allem bei Xuanzang, überliefert; Datierung hängt von der Kanishka-Ära ab.
+  weight: 3
+  kind: ereignis
+  summary: Nach späterer Überlieferung beruft Kanishka in Kaschmir oder Gandhara ein Konzil der Sarvastivada-Schule ein, die ihre Lehre in Kommentaren festlegt; die Theravada-Tradition kennt dieses Konzil nicht.
+  regions: [suedasien, zentralasien]
+  themes: [religion]
+  places: [gandhara]
+  persons: [kanishka]
+  polities: [kushana-reich]
+- id: reise-faxians
+  title: Pilgerreise Faxians nach Indien
+  start: "399"
+  end: "~412"
+  certainty: gesichert
+  weight: 3
+  kind: ereignis
+  summary: Der chinesische Mönch Faxian reist über Zentralasien nach Indien, besucht die Stätten des Buddha und kopiert Ordensregeln; über Sri Lanka kehrt er auf dem Seeweg nach China zurück und verfasst einen Reisebericht.
+  regions: [china, zentralasien, suedasien]
+  themes: [religion, handelsnetze]
+  places: [lumbini, pataliputra, anuradhapura, changan]
+  persons: [faxian]
+- id: kumarajiva-in-changan
+  title: Kumarajivas Übersetzungswerkstatt in Chang'an
+  start: "401"
+  end: "~413"
+  certainty: gesichert
+  dateNote: Ende mit Kumarajivas Tod, den die Quellen zwischen 409 und 413 ansetzen.
+  weight: 3
+  kind: ereignis
+  summary: Der Herrscher der Späteren Qin holt den Mönch Kumarajiva nach Chang'an, wo er mit Hunderten Mitarbeitern zentrale Sutren und die Schriften Nagarjunas ins Chinesische überträgt – ein Wendepunkt für die Aneignung des Buddhismus in China.
+  regions: [china, zentralasien]
+  themes: [religion, schrift-medien]
+  places: [changan]
+  persons: [kumarajiva]

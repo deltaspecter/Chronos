@@ -1,0 +1,138 @@
+# Personen: Der Buddha und die Entstehung des Buddhismus
+- id: buddha
+  name: Buddha (Siddhartha Gautama)
+  aliases: [Siddhartha Gautama, Siddhattha Gotama, Gotama, Gautama Buddha, Shakyamuni, Sakyamuni, Tathagata]
+  born: "~-480?"
+  died: "~-400?"
+  certainty: umstritten
+  roles: [Religionsstifter, Wanderasket, Lehrer]
+  summary: Wanderasket aus dem Geschlecht der Shakya am Fuß des Himalaya, der nach der Überlieferung in Bodhgaya das „Erwachen“ (bodhi) erlangte, in Sarnath erstmals lehrte und mit achtzig Jahren in Kushinagar starb. Seine Lebensdaten sind umstritten – die srilankische Tradition setzt seinen Tod 544/543 v. Chr. an, viele heutige Forscher um 400 v. Chr. (Spanne etwa 420–350 v. Chr.).
+  regions: [suedasien]
+  themes: [religion]
+  places: [lumbini, kapilavastu, bodhgaya, sarnath, rajagriha, shravasti, vaishali, kushinagar]
+  related: [ananda, mahaprajapati-gotami, bimbisara, pasenadi]
+- id: mahavira
+  name: Mahavira
+  aliases: [Vardhamana, Nigantha Nataputta, Jina]
+  certainty: umstritten
+  roles: [Asket, Religionslehrer]
+  summary: Nach jainistischer Tradition der 24. und letzte Tirthankara („Furtbereiter“) des gegenwärtigen Weltzeitalters und maßgeblicher Lehrer des Jainismus; buddhistische Texte nennen ihn als Zeitgenossen und Rivalen des Buddha. Die traditionelle Datierung (Tod 527 v. Chr.) gilt als zu früh; wahrscheinlich lebte er im 5. Jahrhundert v. Chr.
+  regions: [suedasien]
+  themes: [religion]
+  places: [vaishali, rajagriha]
+  related: [buddha, makkhali-gosala]
+- id: makkhali-gosala
+  name: Makkhali Gosala
+  aliases: [Maskarin Gosala, Gosala]
+  roles: [Asket, Religionslehrer]
+  summary: Zeitgenosse des Buddha und Mahaviras, nach der Überlieferung führender Lehrer der Ajivikas, einer asketischen Bewegung, die einen strengen Schicksalsglauben (niyati) vertrat; seine Lehre ist nur aus den feindseligen Darstellungen von Buddhisten und Jainas bekannt.
+  regions: [suedasien]
+  themes: [religion]
+  related: [mahavira, buddha]
+- id: bimbisara
+  name: Bimbisara
+  aliases: [Seniya Bimbisara]
+  roles: [König]
+  summary: König von Magadha mit der Residenz Rajagriha, nach buddhistischen und jainistischen Texten Förderer beider Bewegungen und Gönner des Buddha; er soll von seinem Sohn Ajatashatru entmachtet worden sein. Seine Regierungsdaten hängen von der umstrittenen Buddha-Chronologie ab.
+  regions: [suedasien]
+  themes: [politik, religion]
+  places: [rajagriha]
+  related: [ajatashatru, buddha]
+- id: ajatashatru
+  name: Ajatashatru
+  aliases: [Ajatasattu, Kunika]
+  roles: [König]
+  summary: König von Magadha, Sohn Bimbisaras, der nach der Überlieferung Kosala und die Vajji-Konföderation um Vaishali bezwang und so den Aufstieg Magadhas zur Vormacht der Gangesebene einleitete; buddhistische Texte machen ihn zum Vatermörder, der später Reue zeigte.
+  regions: [suedasien]
+  themes: [politik, krieg-militaer]
+  places: [rajagriha, vaishali]
+  related: [bimbisara, buddha]
+- id: pasenadi
+  name: Pasenadi
+  aliases: [Prasenajit]
+  roles: [König]
+  summary: König von Kosala mit der Residenz Shravasti, in den Pali-Texten ein häufiger Gesprächspartner des Buddha; sein Reich ging nach der Überlieferung bald nach seinem Tod an Magadha verloren.
+  regions: [suedasien]
+  themes: [politik, religion]
+  places: [shravasti]
+  related: [buddha, ajatashatru]
+- id: ananda
+  name: Ananda
+  roles: [Mönch]
+  summary: Vetter und langjähriger Begleiter des Buddha; nach der Überlieferung setzte er die Aufnahme von Frauen in den Orden durch und trug auf dem ersten Konzil von Rajagriha die Lehrreden (sutta) vor, die deshalb mit „So habe ich gehört“ beginnen.
+  regions: [suedasien]
+  themes: [religion]
+  places: [rajagriha, kushinagar]
+  related: [buddha, mahaprajapati-gotami]
+- id: mahaprajapati-gotami
+  name: Mahaprajapati Gotami
+  aliases: [Mahapajapati Gotami]
+  roles: [Nonne]
+  summary: Tante und Ziehmutter des Buddha, nach dem Vinaya die erste Frau, die als Nonne in den Orden aufgenommen wurde – unter acht besonderen Regeln, die Nonnen den Mönchen unterordneten. Ob diese Regeln auf den Buddha zurückgehen, ist in der Forschung umstritten.
+  regions: [suedasien]
+  themes: [religion, gesellschaft]
+  places: [kapilavastu, vaishali]
+  related: [buddha, ananda]
+- id: mahinda
+  name: Mahinda
+  aliases: [Mahendra]
+  roles: [Mönch, Missionar]
+  summary: Nach den srilankischen Chroniken ein Sohn Ashokas, der im 3. Jahrhundert v. Chr. den Buddhismus nach Sri Lanka brachte und König Devanampiya Tissa bekehrte; Ashokas eigene Inschriften erwähnen ihn nicht.
+  regions: [suedasien]
+  themes: [religion]
+  places: [anuradhapura]
+  related: [ashoka, sanghamitta]
+- id: sanghamitta
+  name: Sanghamitta
+  aliases: [Sanghamitra]
+  roles: [Nonne]
+  summary: Nach den srilankischen Chroniken Tochter Ashokas, die einen Ableger des Bodhi-Baums von Bodhgaya nach Anuradhapura brachte und dort den Nonnenorden begründete.
+  regions: [suedasien]
+  themes: [religion]
+  places: [anuradhapura, bodhgaya]
+  related: [mahinda, ashoka]
+- id: kanishka
+  name: Kanishka
+  aliases: [Kaniska, Kanishka I.]
+  roles: [König]
+  summary: Bedeutendster Herrscher des Kushana-Reiches, das von Baktrien bis in die Gangesebene reichte; sein Regierungsantritt wird heute meist um 127 n. Chr. angesetzt (umstritten). Die buddhistische Tradition schreibt ihm ein Konzil in Kaschmir und die Förderung von Stupas in Gandhara zu.
+  regions: [suedasien, zentralasien]
+  themes: [politik, religion]
+  places: [gandhara]
+  related: [nagarjuna]
+- id: nagarjuna
+  name: Nagarjuna
+  roles: [Mönch, Philosoph]
+  summary: Indischer buddhistischer Denker, wohl des 2. Jahrhunderts n. Chr., Begründer der Madhyamaka-Schule („Lehre von der Mitte“), die die „Leerheit“ (shunyata) aller Dinge lehrte; eine der prägenden Gestalten des Mahayana. Fast alle Angaben zu seinem Leben sind legendarisch.
+  regions: [suedasien]
+  themes: [religion, wissenschaft-technik]
+  related: [kumarajiva]
+- id: kumarajiva
+  name: Kumarajiva
+  born: "~344"
+  died: "~413"
+  roles: [Mönch, Übersetzer]
+  summary: Mönch aus der Oasenstadt Kucha im Tarimbecken, der ab 401 n. Chr. in Chang'an mit einem großen Mitarbeiterstab zentrale Mahayana-Texte ins Chinesische übertrug; seine Übersetzungen, etwa des Lotus-Sutra, blieben in Ostasien maßgeblich. Die Lebensdaten schwanken in den Quellen.
+  regions: [zentralasien, china]
+  themes: [religion, schrift-medien]
+  places: [changan]
+  related: [nagarjuna, faxian]
+- id: faxian
+  name: Faxian
+  aliases: [Fa-hsien, Fa Xian]
+  born: "~337?"
+  died: "~422?"
+  roles: [Mönch, Reisender]
+  summary: Chinesischer Mönch, der um 399 n. Chr. auf dem Landweg nach Indien aufbrach, um vollständige Ordensregeln zu beschaffen, und über Sri Lanka und Südostasien auf dem Seeweg zurückkehrte (um 412); sein Reisebericht ist eine wichtige Quelle für den indischen Buddhismus um 400.
+  regions: [china, suedasien, zentralasien]
+  themes: [religion, schrift-medien]
+  places: [pataliputra, lumbini, anuradhapura, changan]
+  related: [kumarajiva, xuanzang]
+- id: buddhaghosa
+  name: Buddhaghosa
+  roles: [Mönch, Kommentator]
+  summary: Indischer Mönch des 5. Jahrhunderts n. Chr., der im Mahavihara von Anuradhapura die Kommentare zum Pali-Kanon in Pali neu fasste und das Lehrkompendium Visuddhimagga („Weg der Reinheit“) verfasste; prägend für die Theravada-Tradition.
+  regions: [suedasien]
+  themes: [religion, schrift-medien]
+  places: [anuradhapura]
+  related: [mahinda]

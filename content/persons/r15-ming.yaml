@@ -1,0 +1,170 @@
+# Personen: Ming-Dynastie (r15-ming)
+- id: hongwu-kaiser
+  name: Hongwu-Kaiser (Zhu Yuanzhang)
+  aliases: [Zhu Yuanzhang, Hongwu, Ming Taizu]
+  born: "1328"
+  died: "1398"
+  roles: [Kaiser, Dynastiegründer, Rebellenführer]
+  summary: Aus einer armen Bauernfamilie stammender ehemaliger Novize eines buddhistischen Klosters, der in den Aufständen gegen die Yuan aufstieg, 1368 die Ming-Dynastie gründete und das Reich mit harter Hand und blutigen Säuberungen neu ordnete.
+  regions: [china]
+  themes: [politik, imperien]
+  places: [nanjing]
+- id: jianwen-kaiser
+  name: Jianwen-Kaiser (Zhu Yunwen)
+  aliases: [Zhu Yunwen, Jianwen]
+  born: "1377"
+  died: "~1402"
+  roles: [Kaiser]
+  summary: Enkel und Nachfolger des Hongwu-Kaisers ab 1398, der die Macht der fürstlichen Onkel beschneiden wollte und 1402 von seinem Onkel Zhu Di gestürzt wurde; sein Schicksal beim Brand des Palastes in Nanjing ist ungeklärt.
+  regions: [china]
+  themes: [politik]
+  places: [nanjing]
+- id: yongle-kaiser
+  name: Yongle-Kaiser (Zhu Di)
+  aliases: [Zhu Di, Yongle, Ming Chengzu]
+  born: "1360"
+  died: "1424"
+  roles: [Kaiser, Feldherr]
+  summary: Sohn des Hongwu-Kaisers, der als Prinz von Yan 1402 seinen Neffen stürzte, die Hauptstadt nach Peking verlegte, die Verbotene Stadt errichten ließ, Feldzüge in die Mongolei und nach Vietnam führte und die Flottenexpeditionen Zheng Hes aussandte.
+  regions: [china]
+  themes: [politik, imperien, krieg-militaer]
+  places: [peking, nanjing, verbotene-stadt]
+- id: zheng-he
+  name: Zheng He
+  aliases: [Ma He, Cheng Ho, San Bao]
+  born: "~1371"
+  died: "~1433"
+  roles: [Eunuch, Admiral, Diplomat]
+  summary: Aus einer muslimischen Familie in Yunnan stammender Hofeunuch, der als Kind bei der Eroberung Yunnans durch die Ming verschleppt wurde und zwischen 1405 und 1433 sieben große Flottenexpeditionen in den Indischen Ozean leitete.
+  regions: [china, suedostasien, suedasien, indischer-ozean]
+  themes: [handelsnetze, imperien, krieg-militaer]
+  places: [nanjing, malakka, kalikut, hormus, liujiagang]
+  certainty: wahrscheinlich
+- id: ma-huan
+  name: Ma Huan
+  aliases: [Ma Zongdao]
+  roles: [Dolmetscher, Reiseschriftsteller]
+  summary: Muslimischer Dolmetscher für Arabisch und Persisch, der an drei Fahrten Zheng Hes teilnahm und in seiner „Gesamtschau der Küsten des Ozeans“ die besuchten Länder beschrieb; Lebensdaten unbekannt.
+  regions: [china, indischer-ozean]
+  themes: [handelsnetze, schrift-medien]
+  places: [malakka, kalikut, hormus]
+- id: zhengtong-kaiser
+  name: Zhengtong-Kaiser (Zhu Qizhen)
+  aliases: [Zhu Qizhen, Zhengtong, Tianshun-Kaiser]
+  born: "1427"
+  died: "1464"
+  roles: [Kaiser]
+  summary: Ming-Kaiser, der 1449 bei Tumu in die Gefangenschaft der Oiraten geriet, nach seiner Freilassung jahrelang unter Hausarrest stand und 1457 durch einen Staatsstreich als Tianshun-Kaiser erneut auf den Thron gelangte.
+  regions: [china]
+  themes: [politik, krieg-militaer]
+  places: [tumu, peking]
+- id: altan-khan
+  name: Altan Khan
+  born: "1507"
+  died: "1582"
+  roles: [Mongolischer Fürst]
+  summary: Herrscher der Tümed-Mongolen, dessen Reiterheere die Nordgrenze der Ming jahrzehntelang bedrängten und 1550 bis vor Peking zogen; 1571 schloss er mit den Ming Frieden und erhielt Zugang zu Grenzmärkten.
+  regions: [zentralasien, china]
+  themes: [krieg-militaer, handelsnetze, religion]
+- id: zhang-juzheng
+  name: Zhang Juzheng
+  born: "1525"
+  died: "1582"
+  roles: [Großsekretär, Reformer]
+  summary: Leitender Großsekretär während der Minderjährigkeit des Wanli-Kaisers 1572–1582, der Finanzen und Verwaltung straffte, das Land neu vermessen ließ und die Einzelpeitschensteuer reichsweit durchsetzte; nach seinem Tod wurde er postum entehrt.
+  regions: [china]
+  themes: [politik, wirtschaft-handel]
+  places: [peking]
+- id: wanli-kaiser
+  name: Wanli-Kaiser (Zhu Yijun)
+  aliases: [Zhu Yijun, Wanli]
+  born: "1563"
+  died: "1620"
+  roles: [Kaiser]
+  summary: Ming-Kaiser mit der längsten Regierungszeit der Dynastie (1572–1620), der sich nach dem Streit um seine Nachfolge über Jahrzehnte weitgehend von den Regierungsgeschäften zurückzog.
+  regions: [china]
+  themes: [politik]
+  places: [peking, verbotene-stadt]
+- id: qi-jiguang
+  name: Qi Jiguang
+  born: "1528"
+  died: "1588"
+  roles: [General, Militärschriftsteller]
+  summary: Ming-General, der in den 1550er und 1560er Jahren mit neu ausgebildeten Truppen die Piraten an der Küste Zhejiangs und Fujians bekämpfte und danach die Verteidigung der Großen Mauer nördlich von Peking ausbaute.
+  regions: [china]
+  themes: [krieg-militaer]
+- id: matteo-ricci
+  name: Matteo Ricci
+  aliases: [Li Madou]
+  born: "1552"
+  died: "1610"
+  roles: [Jesuit, Missionar, Gelehrter]
+  summary: Italienischer Jesuit, der ab 1583 in China wirkte, sich als konfuzianischer Gelehrter kleidete, eine chinesische Weltkarte schuf, mit Xu Guangqi Euklid übersetzte und 1601 die Erlaubnis erhielt, in Peking zu leben.
+  regions: [china, italien]
+  themes: [religion, wissenschaft-technik]
+  places: [macau, peking]
+- id: xu-guangqi
+  name: Xu Guangqi
+  aliases: [Paul Xu]
+  born: "1562"
+  died: "1633"
+  roles: [Gelehrter, Beamter]
+  summary: Chinesischer Gelehrtenbeamter aus Shanghai, der sich 1603 taufen ließ, mit Matteo Ricci die ersten sechs Bücher Euklids übersetzte und später als hoher Minister die Kalenderreform mit westlicher Astronomie vorantrieb.
+  regions: [china]
+  themes: [wissenschaft-technik, religion]
+  related: [matteo-ricci]
+- id: wang-yangming
+  name: Wang Yangming
+  aliases: [Wang Shouren]
+  born: "1472"
+  died: "1529"
+  roles: [Philosoph, Beamter, General]
+  summary: Einflussreichster Philosoph der Ming-Zeit, der gegen die Lehre Zhu Xis betonte, dass moralisches Wissen im eigenen Herzen liege und sich im Handeln erweisen müsse (Einheit von Wissen und Handeln).
+  regions: [china]
+  themes: [religion, kultur-kunst]
+  related: [zhu-xi]
+- id: song-yingxing
+  name: Song Yingxing
+  born: "1587"
+  roles: [Gelehrter, Beamter]
+  summary: Gelehrter der späten Ming-Zeit, der 1637 mit dem „Tiangong kaiwu“ ein illustriertes Handbuch der Landwirtschaft und Handwerkstechniken veröffentlichte; sein Todesjahr ist unsicher.
+  regions: [china]
+  themes: [wissenschaft-technik]
+- id: chongzhen-kaiser
+  name: Chongzhen-Kaiser (Zhu Youjian)
+  aliases: [Zhu Youjian, Chongzhen]
+  born: "1611"
+  died: "1644"
+  roles: [Kaiser]
+  summary: Letzter Ming-Kaiser in Peking (ab 1627), der vergeblich gegen Finanznot, Aufstände und die Mandschu ankämpfte und sich im April 1644, als die Truppen Li Zichengs in die Stadt eindrangen, das Leben nahm.
+  regions: [china]
+  themes: [politik]
+  places: [peking, verbotene-stadt]
+- id: li-zicheng
+  name: Li Zicheng
+  born: "1606"
+  died: "~1645"
+  roles: [Rebellenführer]
+  summary: Ehemaliger Kurier der staatlichen Poststationen aus Shaanxi, der zum mächtigsten Rebellenführer der späten Ming-Zeit aufstieg, 1644 eine Shun-Dynastie ausrief und Peking eroberte, aber nach wenigen Wochen den Mandschu weichen musste.
+  regions: [china]
+  themes: [revolutionen, krieg-militaer]
+  places: [peking, shanhaiguan]
+- id: wu-sangui
+  name: Wu Sangui
+  born: "1612"
+  died: "1678"
+  roles: [General]
+  summary: Ming-General, der 1644 den Pass von Shanhaiguan hielt, sich mit den Mandschu gegen Li Zicheng verbündete und später als Fürst im Südwesten 1673 den Aufstand der Drei Feudalherren gegen die Qing begann.
+  regions: [china]
+  themes: [krieg-militaer, politik]
+  places: [shanhaiguan]
+- id: dorgon
+  name: Dorgon
+  born: "1612"
+  died: "1650"
+  roles: [Prinzregent, Feldherr]
+  summary: Sohn Nurhacis und Regent für den minderjährigen Qing-Kaiser Shunzhi, der 1644 die Mandschu-Truppen durch den Pass von Shanhaiguan nach Peking führte.
+  regions: [china]
+  themes: [krieg-militaer, imperien]
+  places: [shanhaiguan, peking]
+  related: [nurhaci]

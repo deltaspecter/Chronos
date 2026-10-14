@@ -1,0 +1,42 @@
+# Staaten: Ming-Dynastie (r15-ming)
+- id: noerdliche-yuan
+  name: Nördliche Yuan
+  aliases: [Nördliche Yuan-Dynastie, Mongolen nach 1368]
+  start: "1368"
+  end: "1635"
+  spanNote: Bezeichnung für die mongolischen Herrscher in der Steppe nach der Vertreibung der Yuan aus China; die Einheit zerfiel rasch in rivalisierende Verbände. 1635 unterwarf sich der letzte Großkhan den Mandschu.
+  summary: Die nach 1368 in die Mongolei zurückgezogene Yuan-Herrscherlinie und die mongolischen Verbände der Steppe, die für die Ming die wichtigste militärische Bedrohung an der Nordgrenze blieben.
+  regions: [zentralasien, china]
+  themes: [imperien, krieg-militaer]
+  predecessors: [yuan-dynastie]
+  weight: 3
+- id: joseon
+  name: Joseon
+  aliases: [Chosŏn, Joseon-Dynastie, Yi-Dynastie]
+  start: "1392"
+  end: "1897"
+  summary: Koreanische Dynastie, die sich eng an das Tributsystem der Ming anlehnte, deren Truppen ihr 1592–1598 gegen die japanischen Invasionen beistanden; 1897 in das Koreanische Kaiserreich umgewandelt.
+  regions: [korea, ostasien]
+  themes: [politik, imperien]
+  successors: [koreanisches-kaiserreich]
+  weight: 2
+- id: sultanat-malakka
+  name: Sultanat Malakka
+  aliases: [Melaka-Sultanat]
+  start: "~1400"
+  end: "1511"
+  capital: malakka
+  summary: Handelsstaat an der Straße von Malakka, dessen Gründer sich unter den Schutz der Ming stellte und dessen Hafen den Flotten Zheng Hes als Stützpunkt diente; 1511 von den Portugiesen erobert.
+  regions: [suedostasien]
+  themes: [handelsnetze, religion]
+  weight: 3
+- id: spaete-jin
+  name: Spätere Jin
+  aliases: [Later Jin, Hou Jin, Aisin]
+  start: "1616"
+  end: "1636"
+  summary: Von Nurhaci 1616 ausgerufenes Reich der Jurchen im Nordosten, das sich ausdrücklich in die Tradition der Jin-Dynastie stellte und 1636 in Qing umbenannt wurde.
+  regions: [china, ostasien]
+  themes: [imperien, krieg-militaer]
+  successors: [qing-dynastie]
+  weight: 3

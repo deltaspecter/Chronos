@@ -1,0 +1,184 @@
+# Ereignisse: Ming-Dynastie (r15-ming)
+- id: aufstand-der-roten-turbane
+  title: Aufstände der Roten Turbane
+  aliases: [Rote Turbane, Hongjin]
+  start: "1351"
+  end: "1366"
+  certainty: wahrscheinlich
+  dateNote: Die Aufstände begannen 1351; als Ende gilt meist der Tod des Rebellenkaisers Han Lin'er 1366.
+  weight: 2
+  kind: revolution
+  summary: Von buddhistisch-messianischen Erwartungen getragene Bauernaufstände gegen die Yuan-Herrschaft in Mittel- und Nordchina, aus denen Zhu Yuanzhang als erfolgreichster Heerführer hervorging.
+  regions: [china]
+  themes: [revolutionen, religion]
+  persons: [hongwu-kaiser]
+  polities: [yuan-dynastie]
+- id: gruendung-der-ming
+  title: Gründung der Ming-Dynastie
+  date: "1368-01-23"
+  weight: 1
+  kind: gruendung
+  summary: Zhu Yuanzhang lässt sich in Nanjing zum Kaiser ausrufen und gibt seiner Dynastie den Namen Ming („strahlend“); im selben Jahr erobern seine Truppen die Yuan-Hauptstadt Dadu.
+  regions: [china]
+  themes: [politik, imperien]
+  places: [nanjing, dadu]
+  persons: [hongwu-kaiser]
+  polities: [ming-dynastie, yuan-dynastie]
+- id: saeuberungen-hongwu
+  title: Säuberungen des Hongwu-Kaisers
+  aliases: [Fall Hu Weiyong, Fall Lan Yu]
+  start: "1380"
+  end: "1393"
+  weight: 2
+  kind: ereignis
+  summary: Nach dem angeblichen Verrat des Kanzlers Hu Weiyong schafft der Kaiser 1380 das Kanzleramt ab; in Prozesswellen bis 1393 werden nach den Angaben der Quellen Zehntausende Beamte, Offiziere und Angehörige hingerichtet.
+  regions: [china]
+  themes: [politik, gewalt-genozid]
+  places: [nanjing]
+  persons: [hongwu-kaiser]
+  polities: [ming-dynastie]
+- id: jingnan-feldzug
+  title: Jingnan-Feldzug
+  aliases: [Bürgerkrieg 1399–1402, Usurpation des Yongle-Kaisers]
+  start: "1399"
+  end: "1402"
+  weight: 2
+  kind: krieg
+  summary: Bürgerkrieg, in dem Zhu Di, der Prinz von Yan, gegen seinen Neffen, den Jianwen-Kaiser, zog, 1402 Nanjing einnahm und als Yongle-Kaiser den Thron bestieg.
+  regions: [china]
+  themes: [krieg-militaer, politik]
+  places: [nanjing, peking]
+  persons: [yongle-kaiser, jianwen-kaiser]
+  polities: [ming-dynastie]
+- id: zheng-he-expeditionen
+  title: Flottenexpeditionen des Zheng He
+  aliases: [Schatzflotten, Fahrten des Zheng He]
+  start: "1405"
+  end: "1433"
+  weight: 1
+  kind: entdeckung
+  summary: Sieben staatliche Flottenexpeditionen unter dem Eunuchen Zheng He führten mit Dutzenden Schiffen und Zehntausenden Mann nach Südostasien, Indien, an den Persischen Golf und bis an die Küste Ostafrikas.
+  regions: [china, suedostasien, suedasien, indischer-ozean, ostafrika, arabische-halbinsel]
+  themes: [handelsnetze, imperien, krieg-militaer]
+  places: [liujiagang, malakka, kalikut, hormus]
+  persons: [zheng-he, yongle-kaiser, ma-huan]
+  polities: [ming-dynastie, sultanat-malakka]
+- id: verlegung-nach-peking
+  title: Verlegung der Hauptstadt nach Peking
+  date: "1421"
+  weight: 2
+  kind: ereignis
+  summary: Der Yongle-Kaiser macht seine frühere Residenz Peking mit der neu erbauten Verbotenen Stadt offiziell zur Hauptstadt; Nanjing bleibt Nebenhauptstadt.
+  regions: [china]
+  themes: [politik, imperien]
+  places: [peking, verbotene-stadt, nanjing]
+  persons: [yongle-kaiser]
+  polities: [ming-dynastie]
+- id: krise-von-tumu
+  title: Krise von Tumu
+  aliases: [Schlacht bei Tumu, Tumu-Zwischenfall]
+  date: "1449"
+  weight: 2
+  kind: schlacht
+  summary: Ein von Eunuchen schlecht geführtes Ming-Heer wird bei Tumu von den Oiraten unter Esen aufgerieben, der Zhengtong-Kaiser gerät in Gefangenschaft; Peking wird jedoch erfolgreich verteidigt.
+  regions: [china, zentralasien]
+  themes: [krieg-militaer]
+  places: [tumu, peking]
+  persons: [zhengtong-kaiser]
+  polities: [ming-dynastie, noerdliche-yuan]
+- id: lockerung-des-seeverbots
+  title: Lockerung des Seeverbots
+  date: "1567"
+  weight: 2
+  kind: gesetz
+  summary: Nach Jahrzehnten der Piratenkriege erlaubt der Ming-Hof chinesischen Kaufleuten über den Hafen Yuegang den Handel nach Südostasien; der direkte Handel mit Japan bleibt verboten.
+  regions: [china, suedostasien]
+  themes: [handelsnetze, wirtschaft-handel]
+  places: [yuegang]
+  polities: [ming-dynastie]
+- id: frieden-mit-altan-khan
+  title: Frieden mit Altan Khan
+  date: "1571"
+  weight: 3
+  kind: vertrag
+  summary: Die Ming verleihen Altan Khan einen Fürstentitel und öffnen Pferdemärkte an der Grenze; die mongolischen Überfälle gehen danach deutlich zurück.
+  regions: [china, zentralasien]
+  themes: [handelsnetze, politik]
+  persons: [altan-khan]
+  polities: [ming-dynastie]
+- id: gruendung-manilas
+  title: Spanische Gründung Manilas
+  date: "1571"
+  weight: 2
+  kind: gruendung
+  summary: Die Spanier machen Manila zum Zentrum ihrer Herrschaft auf den Philippinen; über die Galeonen nach Acapulco wird die Stadt zum Ort, an dem amerikanisches Silber gegen chinesische Waren getauscht wird.
+  regions: [suedostasien, amerika]
+  themes: [handelsnetze, imperien]
+  places: [manila]
+  polities: [spanisches-kolonialreich]
+- id: einzelpeitschen-reform
+  title: Reichsweite Einführung der Einzelpeitschensteuer
+  date: "1581"
+  weight: 2
+  kind: gesetz
+  summary: Unter Zhang Juzheng werden nach einer Neuvermessung des Landes die Grundsteuer und die Frondienste im ganzen Reich zu Zahlungen in Silber zusammengefasst – nach regionalen Vorläufern seit den 1520er Jahren.
+  regions: [china]
+  themes: [wirtschaft-handel, verfassung-recht]
+  persons: [zhang-juzheng]
+  polities: [ming-dynastie]
+- id: imjin-krieg
+  title: Imjin-Krieg
+  aliases: [Japanische Invasionen Koreas, Hideyoshis Koreafeldzüge]
+  start: "1592"
+  end: "1598"
+  weight: 2
+  kind: krieg
+  summary: Toyotomi Hideyoshi lässt Korea zweimal angreifen, um China zu erobern; koreanische Truppen und Flotten sowie ein großes Ming-Heer halten die Invasoren auf, nach Hideyoshis Tod ziehen die Japaner ab.
+  regions: [korea, japan, china]
+  themes: [krieg-militaer]
+  persons: [toyotomi-hideyoshi, wanli-kaiser]
+  polities: [joseon, ming-dynastie]
+- id: ricci-in-peking
+  title: Matteo Ricci in Peking
+  date: "1601"
+  weight: 3
+  kind: ereignis
+  summary: Der Jesuit Matteo Ricci überreicht dem Wanli-Kaiser Geschenke, darunter Uhren, und darf sich in Peking niederlassen, wo er bis zu seinem Tod 1610 lebt.
+  regions: [china]
+  themes: [religion, wissenschaft-technik]
+  places: [peking]
+  persons: [matteo-ricci, wanli-kaiser]
+  polities: [ming-dynastie]
+- id: schlacht-von-sarhu
+  title: Schlacht von Sarhu
+  date: "1619"
+  weight: 3
+  kind: schlacht
+  summary: Die Jurchen unter Nurhaci schlagen ein großes, in mehreren Kolonnen vorrückendes Ming-Heer im Nordosten vernichtend; die Ming geraten an dieser Grenze in die Defensive.
+  regions: [china, ostasien]
+  themes: [krieg-militaer]
+  persons: [nurhaci]
+  polities: [ming-dynastie, spaete-jin]
+- id: einnahme-pekings-durch-li-zicheng
+  title: Einnahme Pekings durch Li Zicheng
+  date: "1644-04-25"
+  weight: 1
+  kind: revolution
+  summary: Die Rebellentruppen Li Zichengs dringen in Peking ein; der Chongzhen-Kaiser erhängt sich auf dem Hügel hinter dem Palast. Das Ende der Ming-Herrschaft in Peking.
+  regions: [china]
+  themes: [revolutionen, krieg-militaer]
+  places: [peking, verbotene-stadt]
+  persons: [li-zicheng, chongzhen-kaiser]
+  polities: [ming-dynastie]
+- id: schlacht-am-shanhaiguan
+  title: Schlacht am Shanhaiguan
+  date: "1644-05-27"
+  certainty: wahrscheinlich
+  weight: 2
+  kind: schlacht
+  summary: Der Ming-General Wu Sangui und die Mandschu unter Dorgon besiegen gemeinsam das Heer Li Zichengs am östlichen Ende der Großen Mauer und öffnen den Mandschu den Weg nach Peking.
+  regions: [china]
+  themes: [krieg-militaer]
+  places: [shanhaiguan]
+  persons: [wu-sangui, dorgon, li-zicheng]
+  polities: [ming-dynastie, qing-dynastie]

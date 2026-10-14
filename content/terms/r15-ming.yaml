@@ -1,0 +1,46 @@
+# Begriffe: Ming-Dynastie (r15-ming)
+- id: haijin
+  name: Haijin (Seeverbot)
+  aliases: [Seeverbot, Meeresverbot]
+  definition: Unter dem Hongwu-Kaiser ab 1371 erlassenes Verbot für Privatleute, Seehandel mit dem Ausland zu treiben; erlaubt war nur der Austausch im Rahmen offizieller Tributgesandtschaften. 1567 wurde das Verbot gelockert, 1684 unter den Qing aufgehoben.
+  themes: [handelsnetze, verfassung-recht]
+- id: wokou
+  name: Wokou
+  aliases: [Wakō, „Japanische Piraten“]
+  definition: Chinesische Bezeichnung („Zwergpiraten“) für die Seeräuber an den Küsten Chinas und Koreas vom 14. bis 16. Jahrhundert; in der Hochphase um 1550 waren die meisten von ihnen nach zeitgenössischen Beobachtern und heutiger Forschung chinesische Schmuggler, die sich mit japanischen und anderen Seeleuten verbanden.
+  themes: [handelsnetze, gewalt-genozid]
+- id: einzelpeitschensteuer
+  name: Einzelpeitschensteuer
+  aliases: [Yitiaobian fa, Single-Whip-Reform]
+  definition: Steuerreform der Ming-Zeit, die die vielen Abgaben in Naturalien und die Frondienste eines Haushalts zu einer einzigen, in Silber zu zahlenden Steuer bündelte; ab den 1520er Jahren regional erprobt und 1581 reichsweit eingeführt.
+  themes: [wirtschaft-handel, verfassung-recht]
+- id: tributsystem
+  name: Tributsystem
+  aliases: [Tributhandel, chinesisches Tributsystem]
+  definition: Ordnung der Außenbeziehungen des chinesischen Kaiserhofs, in der fremde Herrscher Gesandtschaften mit Geschenken schickten, die Oberhoheit des Kaisers symbolisch anerkannten und dafür Gegengeschenke, Titel und Handelsrechte erhielten; wie weit der Begriff die Wirklichkeit beschreibt, ist in der Forschung umstritten.
+  themes: [politik, handelsnetze]
+- id: grosse-mauer
+  name: Große Mauer
+  aliases: [Chinesische Mauer, Wanli changcheng, Ming-Mauer]
+  definition: Sammelbezeichnung für die Grenzwälle, die chinesische Staaten seit dem 1. Jahrtausend v. Chr. gegen die Steppenvölker errichteten; die heute sichtbaren Mauern aus Ziegel und Stein stammen ganz überwiegend aus der Ming-Zeit, vor allem aus dem 16. Jahrhundert.
+  themes: [krieg-militaer, imperien]
+- id: hofeunuchen
+  name: Hofeunuchen
+  aliases: [Eunuchen, Palasteunuchen]
+  definition: Kastrierte Diener am chinesischen Kaiserhof, die den inneren Palast versorgten; in der Ming-Zeit waren es viele Tausend, und einzelne Eunuchen leiteten Flotten, Geheimdienste, Steuerbehörden und zeitweise die Regierung.
+  themes: [politik, gesellschaft]
+- id: manila-galeone
+  name: Manila-Galeone
+  aliases: [Galeone von Manila, Nao de China]
+  definition: Spanische Schiffsverbindung zwischen Acapulco in Neuspanien und Manila auf den Philippinen, die von 1565 bis 1815 meist ein- bis zweimal im Jahr amerikanisches Silber nach Asien und chinesische Seide und Porzellan nach Amerika brachte.
+  themes: [handelsnetze, wirtschaft-handel]
+- id: akkommodation
+  name: Akkommodation
+  aliases: [Akkommodationsmethode, Anpassungsmethode]
+  definition: Missionsmethode der Jesuiten in Asien, die christliche Lehre in Sprache, Kleidung und Begriffe der einheimischen Gelehrtenkultur zu übersetzen und Bräuche wie die Ahnenverehrung als bürgerliche Riten zu dulden; im Ritenstreit des 17. und 18. Jahrhunderts von Rom verworfen.
+  themes: [religion]
+- id: blauweiss-porzellan
+  name: Blau-weißes Porzellan
+  aliases: [Blauweißporzellan, Qinghua, Kraak-Porzellan]
+  definition: Porzellan mit Unterglasurmalerei in Kobaltblau, in der Yuan-Zeit in Jingdezhen entwickelt und in der Ming-Zeit in großen Mengen für den Kaiserhof, den Binnenmarkt und den Export nach Asien, Afrika und Europa hergestellt.
+  themes: [kultur-kunst, wirtschaft-handel]

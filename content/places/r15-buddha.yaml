@@ -1,0 +1,96 @@
+# Orte: Der Buddha und die Entstehung des Buddhismus
+- id: bodhgaya
+  name: Bodhgaya
+  aliases: [Bodh Gaya, Uruvela, Mahabodhi]
+  coords: [84.9912, 24.6959]
+  categories: [heiligtum, fundstaette]
+  modernName: Bodhgaya (Bihar, Indien)
+  summary: Ort, an dem der Buddha nach der Überlieferung unter einem Pappelfeigenbaum (Bodhi-Baum) das Erwachen erlangte; der Mahabodhi-Tempel in seiner heutigen Form geht im Kern auf die Gupta-Zeit zurück und ist UNESCO-Welterbe. Schon Ashoka soll hier ein Heiligtum gestiftet haben.
+  regions: [suedasien]
+  themes: [religion, archaeologie]
+- id: kushinagar
+  name: Kushinagar
+  aliases: [Kusinara, Kushinagara, Kasia]
+  coords: [83.8880, 26.7410]
+  location: ungefaehr
+  categories: [heiligtum, fundstaette]
+  modernName: Kushinagar (Uttar Pradesh, Indien)
+  summary: Kleinstadt der Malla, in der der Buddha nach dem Mahaparinibbana-Sutta mit achtzig Jahren starb (parinirvana); die Gleichsetzung mit dem Ruinenfeld bei Kasia wurde im 19. Jahrhundert von Alexander Cunningham vorgeschlagen und durch Inschriftenfunde gestützt.
+  regions: [suedasien]
+  themes: [religion, archaeologie]
+- id: rajagriha
+  name: Rajagriha
+  aliases: [Rajgir, Rajagaha, Rajagṛha]
+  coords: [85.4200, 25.0300]
+  location: ungefaehr
+  categories: [stadt, hauptstadt, fundstaette]
+  modernName: Rajgir (Bihar, Indien)
+  summary: Von Hügeln umgebene frühe Hauptstadt Magadhas unter Bimbisara und Ajatashatru mit einer bis heute sichtbaren, rund 40 Kilometer langen Steinmauer; nach der Überlieferung Schauplatz vieler Lehrreden des Buddha und des ersten Konzils.
+  regions: [suedasien]
+  themes: [politik, religion, archaeologie]
+- id: vaishali
+  name: Vaishali
+  aliases: [Vesali, Vaiśālī]
+  coords: [85.1300, 25.9900]
+  location: ungefaehr
+  categories: [stadt, fundstaette]
+  modernName: Vaishali (Bihar, Indien)
+  summary: Hauptort der Licchavi und der Vajji-Konföderation, eines von Ratsversammlungen regierten Gemeinwesens nördlich des Ganges; nach der Überlieferung Ort der Aufnahme der ersten Nonnen und des zweiten Konzils, nach jainistischer Tradition Heimat Mahaviras.
+  regions: [suedasien]
+  themes: [politik, religion]
+- id: shravasti
+  name: Shravasti
+  aliases: [Savatthi, Sravasti, Saheth-Maheth]
+  coords: [82.0400, 27.5170]
+  location: ungefaehr
+  categories: [stadt, hauptstadt, fundstaette]
+  modernName: Saheth-Maheth (Uttar Pradesh, Indien)
+  summary: Hauptstadt des Königreichs Kosala; nach den Pali-Texten verbrachte der Buddha hier im Jetavana-Park, den ihm der Kaufmann Anathapindika gestiftet haben soll, die meisten Regenzeiten.
+  regions: [suedasien]
+  themes: [religion, wirtschaft-handel]
+- id: kapilavastu
+  name: Kapilavastu
+  aliases: [Kapilavatthu]
+  coords: [83.0500, 27.5750]
+  location: umstritten
+  categories: [stadt, fundstaette]
+  modernName: Tilaurakot (Nepal) oder Piprahwa/Ganwaria (Indien)
+  summary: Hauptort der Shakya, in dem der Buddha nach der Überlieferung aufwuchs. Die Lokalisierung ist umstritten – nepalische Forscher setzen ihn mit Tilaurakot gleich, indische mit Piprahwa, wo 1898 ein Reliquiengefäß mit einer Brahmi-Inschrift gefunden wurde, die Reliquien des Buddha nennt.
+  regions: [suedasien]
+  themes: [religion, archaeologie]
+- id: anuradhapura
+  name: Anuradhapura
+  coords: [80.4037, 8.3114]
+  categories: [stadt, hauptstadt, heiligtum, fundstaette]
+  modernName: Anuradhapura (Sri Lanka)
+  summary: Hauptstadt Sri Lankas vom 4. Jahrhundert v. Chr. bis ins 11. Jahrhundert n. Chr. und Zentrum des Theravada-Buddhismus mit dem Mahavihara-Kloster, großen Stupas und einem Bodhi-Baum, der nach der Überlieferung aus einem Ableger des Baums von Bodhgaya stammt.
+  regions: [suedasien]
+  themes: [religion, politik]
+- id: taxila
+  name: Taxila
+  aliases: [Takshashila, Takkasila]
+  coords: [72.8300, 33.7500]
+  location: ungefaehr
+  categories: [stadt, fundstaette, kulturzentrum]
+  modernName: Taxila (Punjab, Pakistan)
+  summary: Stadt an der Fernstraße zwischen Gangesebene, Baktrien und Kaschmir, unter den Maurya Sitz eines Statthalters; aus den Kushana-Jahrhunderten sind zahlreiche buddhistische Klöster und Stupas wie der Dharmarajika-Stupa erhalten.
+  regions: [suedasien]
+  themes: [handelsnetze, religion, archaeologie]
+- id: gandhara
+  name: Gandhara
+  coords: [72.0000, 34.0000]
+  location: ungefaehr
+  categories: [region]
+  modernName: Region um Peschawar (Pakistan) und Ostafghanistan
+  summary: Landschaft im Nordwesten Südasiens, in der unter griechisch-baktrischen und Kushana-Herrschern eine buddhistische Kunst mit hellenistischen Einflüssen entstand; Ausgangspunkt der Ausbreitung des Buddhismus nach Zentralasien. Hier fanden sich auch die ältesten bekannten buddhistischen Handschriften (1. Jh. n. Chr.).
+  regions: [suedasien, zentralasien]
+  themes: [religion, kultur-kunst, handelsnetze]
+- id: varanasi
+  name: Varanasi
+  aliases: [Benares, Kashi, Banaras]
+  coords: [83.0100, 25.3200]
+  categories: [stadt, heiligtum]
+  modernName: Varanasi (Uttar Pradesh, Indien)
+  summary: Stadt am Ganges, Hauptort des alten Kashi und bis heute eine der heiligsten Städte des Hinduismus; wenige Kilometer nördlich liegt Sarnath, der Ort der ersten Lehrrede des Buddha.
+  regions: [suedasien]
+  themes: [religion, wirtschaft-handel]

@@ -1,0 +1,92 @@
+# Orte: Ming-Dynastie (r15-ming)
+- id: verbotene-stadt
+  name: Verbotene Stadt
+  aliases: [Kaiserpalast Peking, Gugong, Purpurne Verbotene Stadt]
+  coords: [116.3972, 39.9163]
+  categories: [kulturzentrum, hauptstadt]
+  modernName: Palastmuseum, Peking (China)
+  summary: Kaiserpalast in Peking, unter dem Yongle-Kaiser ab 1406 geplant und bis 1420 errichtet; Residenz der Ming- und Qing-Kaiser bis 1912, heute Museum und Weltkulturerbe.
+  regions: [china]
+  themes: [politik, kultur-kunst]
+- id: malakka
+  name: Malakka
+  aliases: [Melaka, Malacca]
+  coords: [102.2501, 2.1896]
+  categories: [hafen, stadt]
+  modernName: Melaka (Malaysia)
+  summary: Hafenstadt an der gleichnamigen Meerenge, um 1400 gegründet; Stützpunkt der Flotten Zheng Hes und Zentrum eines Sultanats, das 1511 von den Portugiesen erobert wurde.
+  regions: [suedostasien, indischer-ozean]
+  themes: [handelsnetze]
+- id: kalikut
+  name: Kalikut
+  aliases: [Calicut, Kozhikode]
+  coords: [75.7804, 11.2588]
+  categories: [hafen, stadt]
+  modernName: Kozhikode (Indien)
+  summary: Bedeutender Pfefferhafen an der Malabarküste Südwestindiens, wichtigstes Ziel der Flottenexpeditionen Zheng Hes und 1498 Landeplatz Vasco da Gamas.
+  regions: [suedasien, indischer-ozean]
+  themes: [handelsnetze]
+- id: macau
+  name: Macau
+  aliases: [Macao, Aomen]
+  coords: [113.5439, 22.1987]
+  categories: [hafen, stadt]
+  modernName: Macau (China)
+  summary: Halbinsel an der Mündung des Perlflusses, auf der sich portugiesische Kaufleute ab etwa 1557 mit Duldung der Ming-Behörden niederließen; Ausgangspunkt der Jesuitenmission in China.
+  regions: [china]
+  themes: [handelsnetze, religion]
+- id: shanhaiguan
+  name: Shanhaiguan
+  aliases: [Shanhai-Pass, Pass von Shanhaiguan]
+  coords: [119.7546, 40.0089]
+  categories: [schlachtfeld]
+  modernName: Shanhaiguan, Qinhuangdao (China)
+  summary: Befestigter Pass am östlichen Ende der Ming-Mauer zwischen Gebirge und Meer; hier verbündete sich 1644 Wu Sangui mit den Mandschu und schlug Li Zicheng.
+  regions: [china]
+  themes: [krieg-militaer]
+- id: tumu
+  name: Tumu
+  aliases: [Tumubao, Festung Tumu]
+  coords: [115.6, 40.4]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Kreis Huailai, Hebei (China)
+  summary: Poststation nordwestlich von Peking, bei der die Oiraten 1449 das Heer der Ming vernichteten und den Zhengtong-Kaiser gefangen nahmen.
+  regions: [china]
+  themes: [krieg-militaer]
+- id: manila
+  name: Manila
+  coords: [120.9842, 14.5995]
+  categories: [hafen, stadt]
+  modernName: Manila (Philippinen)
+  summary: 1571 von den Spaniern zur Hauptstadt der Philippinen gemacht; Umschlagplatz, an dem amerikanisches Silber, das mit der Manila-Galeone aus Acapulco kam, gegen chinesische Seide und Porzellan getauscht wurde.
+  regions: [suedostasien]
+  themes: [handelsnetze]
+- id: potosi
+  name: Potosí
+  coords: [-65.7531, -19.5836]
+  categories: [stadt]
+  modernName: Potosí (Bolivien)
+  summary: Bergbaustadt im Andenhochland am Cerro Rico, dessen 1545 entdeckte Silbervorkommen unter Zwangsarbeit indigener Arbeiter ausgebeutet wurden und einen großen Teil des Weltsilbers lieferten.
+  regions: [andenraum, suedamerika]
+  themes: [wirtschaft-handel, sklaverei-unfreiheit]
+- id: yuegang
+  name: Yuegang
+  aliases: [Mondhafen, Haicheng]
+  coords: [117.83, 24.43]
+  location: ungefaehr
+  categories: [hafen]
+  modernName: Haicheng, Zhangzhou (China)
+  summary: Hafen in Südfujian, über den die Ming ab 1567 chinesischen Kaufleuten den legalen Seehandel nach Südostasien erlaubten.
+  regions: [china]
+  themes: [handelsnetze]
+- id: liujiagang
+  name: Liujiagang
+  aliases: [Liuhe]
+  coords: [121.27, 31.55]
+  location: ungefaehr
+  categories: [hafen]
+  modernName: Liuhe, Taicang (China)
+  summary: Hafen an der Jangtse-Mündung, an dem sich die Flotten Zheng Hes sammelten; dort ließ er 1431 eine Inschrift über seine Fahrten aufstellen.
+  regions: [china]
+  themes: [handelsnetze]

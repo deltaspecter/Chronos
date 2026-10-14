@@ -1,0 +1,61 @@
+# Begriffe: Der Buddha und die Entstehung des Buddhismus
+- id: mahajanapada
+  name: Mahajanapada
+  aliases: [Mahajanapadas, Sechzehn Großreiche]
+  definition: „Großes Gemeinwesen“ – Bezeichnung für die Königreiche und Stammesrepubliken Nordindiens im 6.–4. Jahrhundert v. Chr.; buddhistische und jainistische Texte nennen in leicht abweichenden Listen sechzehn, darunter Magadha, Kosala, Vajji, Kashi, Vatsa und Gandhara.
+  themes: [politik]
+- id: shramana
+  name: Shramana
+  aliases: [Śramaṇa, Samana, Shramana-Bewegungen, Asketenbewegungen]
+  definition: „Sich Mühender“ – Sammelbegriff für die Wanderasketen und Lehrer im Nordindien des 1. Jahrtausends v. Chr., die außerhalb der brahmanischen Opferreligion standen und Wege zur Befreiung aus dem Kreislauf der Wiedergeburten (samsara) suchten; dazu gehörten Buddhisten, Jainas und Ajivikas.
+  themes: [religion]
+- id: jainismus
+  name: Jainismus
+  aliases: [Jinismus, Jaina-Religion, Jainas]
+  definition: Auf Mahavira (und ältere „Furtbereiter“) zurückgeführte indische Religion, die durch strenge Askese und radikale Gewaltlosigkeit (ahimsa) gegenüber allen Lebewesen die Seele von angesammeltem Karma befreien will; bis heute vor allem in Westindien und Karnataka verbreitet.
+  themes: [religion]
+- id: sangha
+  name: Sangha
+  aliases: [Saṅgha, Mönchsgemeinde, Orden]
+  definition: Gemeinschaft der buddhistischen Mönche (bhikkhu) und Nonnen (bhikkhuni), die nach den Regeln des Vinaya lebt und von Laien mit Nahrung, Kleidung und Unterkunft versorgt wird; neben Buddha und Lehre (Dharma) eines der „drei Juwelen“. Das Wort bezeichnete ursprünglich auch politische Ratsversammlungen.
+  themes: [religion, gesellschaft]
+- id: vier-edle-wahrheiten
+  name: Vier edle Wahrheiten
+  aliases: [Vier Edle Wahrheiten, ariya-sacca]
+  definition: Grundformel der buddhistischen Lehre – das Leiden (dukkha), seine Entstehung aus dem „Durst“ (tanha), sein Erlöschen (nirodha) und der Weg dorthin, der achtfache Pfad; nach der Überlieferung Inhalt der ersten Lehrrede in Sarnath.
+  themes: [religion]
+- id: achtfacher-pfad
+  name: Achtfacher Pfad
+  aliases: [Edler achtfacher Pfad, Mittlerer Weg]
+  definition: Nach der vierten edlen Wahrheit der Weg zur Befreiung – rechte Ansicht, rechte Absicht, rechte Rede, rechtes Handeln, rechter Lebenserwerb, rechte Anstrengung, rechte Achtsamkeit und rechte Sammlung; traditionell in Weisheit, Sittlichkeit und Meditation gegliedert und als „Mittlerer Weg“ zwischen Genusssucht und Selbstkasteiung verstanden.
+  themes: [religion]
+- id: nirvana
+  name: Nirvana
+  aliases: [Nibbana, Nirwana, Parinirvana]
+  definition: „Verlöschen“ – im Buddhismus das Erlöschen von Gier, Hass und Verblendung und damit die Befreiung aus dem Kreislauf der Wiedergeburten; Parinirvana bezeichnet das endgültige Verlöschen beim Tod eines Erwachten.
+  themes: [religion]
+- id: pali-kanon
+  name: Pali-Kanon
+  aliases: [Tipitaka, Tripitaka, Dreikorb]
+  definition: Sammlung der kanonischen Schriften des Theravada-Buddhismus in der mittelindischen Sprache Pali, gegliedert in drei „Körbe“ – Ordensregeln (Vinaya), Lehrreden (Sutta) und scholastische Lehre (Abhidhamma); nach der Chronik-Überlieferung im 1. Jahrhundert v. Chr. in Sri Lanka erstmals schriftlich fixiert. Andere Schulen besaßen eigene, teils in Sanskrit, Gandhari oder chinesischer Übersetzung erhaltene Kanons.
+  themes: [religion, schrift-medien]
+- id: stupa
+  name: Stupa
+  aliases: [Stūpa, Thupa, Dagoba, Chorten]
+  definition: Halbkugelförmiger Grabhügel für Reliquien des Buddha oder verehrter Mönche, der zum zentralen Bau- und Kultobjekt des Buddhismus wurde; Gläubige umschreiten ihn im Uhrzeigersinn.
+  themes: [religion, kultur-kunst]
+- id: mahayana
+  name: Mahayana
+  aliases: [Mahāyāna, Großes Fahrzeug]
+  definition: „Großes Fahrzeug“ – vielgestaltige Strömung des Buddhismus, die seit etwa dem 1. Jahrhundert v. Chr. in neuen Sutren greifbar wird und das Ideal des Bodhisattva in den Mittelpunkt stellt; heute vorherrschend in China, Korea, Japan, Vietnam und (als Vajrayana) in Tibet und der Mongolei.
+  themes: [religion]
+- id: theravada
+  name: Theravada
+  aliases: [Theravāda, Lehre der Älteren]
+  definition: „Lehre der Älteren“ – einzige erhaltene der frühen buddhistischen Schulen, die sich auf den Pali-Kanon stützt; in Sri Lanka entstanden und heute in Sri Lanka, Myanmar, Thailand, Laos und Kambodscha vorherrschend.
+  themes: [religion]
+- id: bodhisattva
+  name: Bodhisattva
+  aliases: [Bodhisatta]
+  definition: „Erleuchtungswesen“ – ursprünglich der künftige Buddha in seinen früheren Leben; im Mahayana das Ideal eines Wesens, das aus Mitgefühl die Buddhaschaft für alle Lebewesen anstrebt und anderen hilft, statt nur die eigene Befreiung zu suchen.
+  themes: [religion]
