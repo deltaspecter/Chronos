@@ -683,5 +683,71 @@
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nofretete_Neues_Museum-edit.jpg"
+  },
+  "canossa-buchmalerei": {
+    "file": "canossa-buchmalerei.jpg",
+    "width": 481,
+    "height": 579,
+    "author": "Urheber unbekannt",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hugo-v-cluny_heinrich-iv_mathilde-v-tuszien_cod-vat-lat-4922_1115ad.jpg"
+  },
+  "kaiserproklamation-werner": {
+    "file": "kaiserproklamation-werner.jpg",
+    "width": 1200,
+    "height": 888,
+    "author": "Anton von Werner",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_v_Werner_-_Kaiserproklamation_am_18_Januar_1871_(3._Fassung_1885).jpg"
+  },
+  "westfaelischer-friede-terborch": {
+    "file": "westfaelischer-friede-terborch.jpg",
+    "width": 1200,
+    "height": 930,
+    "author": "Gerard ter Borch",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Westfaelischer_Friede_in_Muenster_(Gerard_Terborch_1648).jpg"
+  },
+  "barrikade-alexanderplatz-1848": {
+    "file": "barrikade-alexanderplatz-1848.jpg",
+    "width": 940,
+    "height": 669,
+    "author": "Urheber unbekannt",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Angriff_auf_die_Barrikade_am_Alexanderplatz_Berlin_18_M%C3%A4rz_1848.jpg"
+  },
+  "vertrag-nanjing-stich": {
+    "file": "vertrag-nanjing-stich.jpg",
+    "width": 1200,
+    "height": 450,
+    "author": "Painted by Captain John Platt, Bengal Volunteers. Engraved by John Burnet.",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Signing_of_the_Treaty_of_Nanking.jpg"
+  },
+  "thukydides-bueste": {
+    "file": "thukydides-bueste.jpg",
+    "width": 690,
+    "height": 1200,
+    "author": "unbekannt",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thucydides-bust-cutout_ROM.jpg"
+  },
+  "hoplit-perser-schale": {
+    "file": "hoplit-perser-schale.jpg",
+    "width": 1200,
+    "height": 1188,
+    "author": "Unknown",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Greek-Persian_duel_1.jpg"
+  },
+  "sueleymaniye-moschee": {
+    "file": "sueleymaniye-moschee.jpg",
+    "width": 1200,
+    "height": 880,
+    "author": "Arild Vågen",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:S%C3%BCleymaniye_Mosque_February_2013_01.jpg"
   }
 }

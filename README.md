@@ -10,14 +10,14 @@ Die App läuft im Browser auf Smartphone, Tablet und Desktop und lässt sich auf
 |---|---|
 | **Artikel** | 80 ausführliche Artikel (rund 130.000 Wörter) von der Urgeschichte bis in die 1990er Jahre – mit Afrika, West-, Süd-, Südost- und Ostasien, Europa, den Amerikas und Ozeanien –, darunter eine fünfteilige Reihe zur Römischen Republik |
 | **Wissensnetz** | rund 770 Personen, 600 Orte, 920 Ereignisse, 190 Staaten und Reiche, Kulturen, Begriffe, Routen |
-| **Quellen** | rund 990 Titel, getrennt nach Primärquellen, Editionen, Forschungsliteratur und Institutionen; über 3100 Einzelbelege im Text |
+| **Quellen** | rund 990 Titel, getrennt nach Primärquellen, Editionen, Forschungsliteratur und Institutionen; über 3.100 Einzelbelege im Text |
 | **Epochen** | 48 regional differenzierte Epochen und Teilbereiche mit Einführungstexten und offen ausgewiesenem Redaktionsplan („Im Aufbau“) |
 | **Zeitleiste** | Spuren nach Weltregionen, umschaltbare Zeitskala, Filter nach Region und Thema, Kennzeichnung unsicherer Datierungen, Listenansicht für Smartphones |
 | **Atlas** | Weltkarte (Natural Earth, offline), Orte nach Kategorien, Routen, fünf schematische Herrschaftsgebiete, Zeitfilter |
 | **Inhaltsverzeichnis** | Bewusst ohne Suchleiste: nummeriertes Verzeichnis aller Artikel nach Epochen, Eingrenzung nach Region, Register von A bis Z für Personen, Orte, Ereignisse, Staaten, Begriffe und Quellen |
 | **Persönlich** | Lesezeichen, Notizen (auch zu Abschnitten), Verlauf, Lesefortschritt, „Weiterlesen“, Export und Import – alles nur auf dem Gerät |
 | **Offline** | App, Kerndaten, Inhaltsverzeichnis, Zeitleiste und Atlas offline nutzbar; Artikel gezielt speicherbar; kontrollierte Updates |
-| **Abbildungen** | 81 Bilder aus Wikimedia Commons mit automatisch geprüften Lizenzen und Bildnachweisen |
+| **Abbildungen** | 89 Bilder aus Wikimedia Commons mit automatisch geprüften Lizenzen und Bildnachweisen |
 
 Alle Artikel tragen den Status **„Erstfassung“**: Sie wurden mit Unterstützung eines KI-Sprachmodells auf Grundlage der angegebenen Literatur erarbeitet und sind noch nicht fachwissenschaftlich begutachtet (siehe [docs/INHALTE.md](docs/INHALTE.md#qualität-und-prüfstatus)).
 

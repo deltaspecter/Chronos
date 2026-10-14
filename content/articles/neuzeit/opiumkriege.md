@@ -18,6 +18,7 @@ polities: [qing-dynastie, vereinigtes-koenigreich, ostindien-kompanie, zweites-f
 terms: [opium, cohong, ungleiche-vertraege, vertragshafen, exterritorialitaet, meistbeguenstigung, kanonenbootpolitik, freihandelsimperialismus, jahrhundert-der-demuetigung, selbststaerkungsbewegung, imperialismus]
 related: [qing-dynastie, industrielle-revolution, meiji-restauration, tokugawa-japan, mogulreich, berliner-afrika-konferenz]
 bibliography: [lovell-2011, platt-2018, fay-1975, chang-1964, polachek-1992, hevia-2003, wang-2012, wong-1998, lin-2006, van-dyke-2005, wakeman-1966, fairbank-1953, dikoetter-2004, trocki-1999, bickers-2011, cohen-1984, gallagher-robinson-1953, osterhammel-1989, osterhammel-2009, spence-1990, rowe-2009, platt-2012, q-lin-zexu-brief, q-gladstone-1840, q-vertrag-nanking, q-vertrag-tianjin, q-konvention-peking, q-haiguo-tuzhi, q-hugo-1861, q-elgin-1872]
+image: vertrag-nanjing-stich
 status: erstfassung
 version: 1
 updated: 2026-10-14

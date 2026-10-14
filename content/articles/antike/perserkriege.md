@@ -18,6 +18,7 @@ polities: [achaemenidenreich, athen-polis, sparta-polis, hellenenbund, attischer
 terms: [satrapie, grosskoenig, hoplit, triere, medismos, erde-und-wasser, barbaren, phoros, yauna, ostrakismos]
 related: [achaemenidenreich, athenische-demokratie, alexander-hellenismus]
 bibliography: [q-herodot, q-aischylos-perser, q-thukydides, q-diodor, q-plutarch, q-plutarch-malignitate, q-schlangensaeule, q-themistokles-dekret, q-xerxes-daiva-inschrift, q-dareios-naqsch-e-rostam, q-persepolis-taefelchen, strassler-2007, schmitt-2009, hallock-1969, meiggs-lewis-1988, kuhrt-2007, briant-2002, wiesehoefer-1993, burn-1962, lazenby-1993, green-1996, cawkwell-2005, will-2010, cartledge-2006, meiggs-1972, badian-1993, raaflaub-1985, hall-1989, hartog-1980, fehling-1971, pritchett-1993, bichler-2000, lewis-1980, welwei-1999]
+image: hoplit-perser-schale
 status: erstfassung
 version: 1
 updated: 2026-10-14

@@ -18,6 +18,7 @@ polities: [deutscher-bund, koenigreich-preussen, habsburgermonarchie, julimonarc
 terms: [vormaerz, pauperismus, maerzforderungen, maerzministerien, grundrechte, kleindeutsche-loesung, grossdeutsche-loesung, liberalismus, nationalismus, achtundvierziger, voelkerfruehling, soziale-frage, demokratie, sonderweg]
 related: [franzoesische-revolution, napoleon, industrialisierung-deutschland, industrielle-revolution, amerikanischer-buergerkrieg, weimarer-republik, transatlantischer-sklavenhandel]
 bibliography: [siemann-1985, langewiesche-1985, wehler-1987, nipperdey-1983, hachtmann-1997, mommsen-1998, dowe-1998, sperber-1994, clark-2023, deak-1979, hobsbawm-1975, taylor-1945, huber-1961, q-offenburger-programm, q-mannheimer-petition, q-fw4-berliner, q-fw4-deutsche-nation, q-fw4-bunsen, q-palacky-1848, q-petofi-nemzeti-dal, q-abolitionsdekret-1848, q-grundrechte-1848, q-paulskirchenverfassung, q-tocqueville-souvenirs, q-schurz-lebenserinnerungen, q-kommunistisches-manifest]
+image: barrikade-alexanderplatz-1848
 status: erstfassung
 version: 1
 updated: 2026-10-14

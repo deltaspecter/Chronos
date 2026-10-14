@@ -18,6 +18,7 @@ polities: [deutscher-bund, koenigreich-preussen, habsburgermonarchie, norddeutsc
 terms: [nationalismus, kleindeutsche-loesung, grossdeutsche-loesung, liberalismus, zollverein, realpolitik, lueckentheorie, einigungskriege, revolution-von-oben, sonderweg, reichsfeinde, bonapartismus]
 related: [napoleon, industrialisierung-deutschland, erster-weltkrieg, weimarer-republik, berliner-afrika-konferenz, meiji-restauration, amerikanischer-buergerkrieg, deutsche-wiedervereinigung]
 bibliography: [nipperdey-1983, nipperdey-1992, wehler-1973, wehler-1995, gall-1980, pflanze-1997, clark-2006, wawro-1996, wawro-2003, howard-1961, kolb-1970, winkler-2000, blackbourn-eley-1980, langewiesche-2000, osterhammel-2009, q-bismarck-1862, q-emser-depesche-1870, q-favre-1870, q-reichsverfassung-1871, q-marx-1871, q-renan-1882, q-bismarck-gedanken-erinnerungen]
+image: kaiserproklamation-werner
 status: erstfassung
 version: 1
 updated: 2026-10-14

@@ -18,6 +18,7 @@ polities: [osmanisches-reich, mamlukensultanat, safawidenreich, koenigreich-unga
 terms: [sultan, grosswesir, knabenlese, janitscharen, timar, kanun, scharia, scheichuelislam, kalif, dhimmi, dschizya, millet, kizilbasch, kapitulationen, niedergangsthese, sunniten-und-schiiten]
 related: [eroberung-konstantinopels, mogulreich, reformation, abbasiden-bagdad, mongolenreich]
 bibliography: [inalcik-1973, finkel-2005, faroqhi-2000, matuz-1985, kreiser-2001, imber-2002, imber-1997, peirce-1993, necipoglu-2005, casale-2010, tezcan-2010, barkey-2008, hess-1978, braude-lewis-1982, kunt-woodhead-1995, fleischer-1986, hathaway-2008, forster-1927, tietze-1979, crane-akin-2006, q-busbecq, q-mustafa-ali-nushat, q-tezkiretul-bunyan, q-kitab-i-bahriye, q-seydi-ali-reis, q-ebussuud-fetwas, q-tahrir-defterleri, q-huerrem-briefe]
+image: sueleymaniye-moschee
 status: erstfassung
 version: 1
 updated: 2026-10-14

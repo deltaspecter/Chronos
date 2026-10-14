@@ -18,6 +18,7 @@ polities: [heiliges-roemisches-reich, kirchenstaat, markgrafschaft-tuszien, koen
 terms: [investitur, simonie, zoelibat, reichskirche, gregorianische-reform, libertas-ecclesiae, kirchenbann, gegenkoenig, gegenpapst, kardinalskollegium, regalien, konkordat, caesaropapismus]
 related: [karl-der-grosse, kreuzzuege, reformation, justinian, eroberung-konstantinopels]
 bibliography: [tellenbach-1936, tellenbach-1988, hartmann-1993, blumenthal-1982, laudage-1993, goez-2000, zey-2017, schieffer-1981, weinfurter-2006, fried-2012, althoff-2006, robinson-1999, robinson-1990, cowdrey-1998, cantor-1958, tierney-1964, berman-1983, rosenstock-huessy-1931, moore-2000, caspar-1920, erdmann-1937, schmale-1978, q-gruendungsurkunde-cluny, q-humbert-adversus-simoniacos, q-papstwahldekret-1059, q-dictatus-papae, q-heinrich-iv-brief-1076, q-bann-heinrichs-iv-1076, q-gregor-brief-canossa-1077, q-lampert-annalen, q-bruno-sachsenkrieg, q-vita-heinrici-iv, q-eadmer-historia-novorum, q-wormser-konkordat, q-anna-komnene]
+image: canossa-buchmalerei
 status: erstfassung
 version: 1
 updated: 2026-10-14

@@ -18,6 +18,7 @@ polities: [athen-polis, sparta-polis, attischer-seebund, peloponnesischer-bund, 
 terms: [stadtstaat, demokratie, hoplit, triere, oligarchie, stasis, heloten, nauarch, thukydides-falle]
 related: [athenische-demokratie, achaemenidenreich, alexander-hellenismus]
 bibliography: [q-thukydides, q-xenophon-hellenika, q-aristophanes, q-hellenika-oxyrhynchia, q-plutarch, q-diodor, q-athenaion-politeia, strassler-1996, kagan-2003, de-ste-croix-1972, hornblower-1991, lewis-1977, lendon-2010, tritle-2010, bleckmann-2007, schulz-2003, will-2003, allison-2017, welwei-1999]
+image: thukydides-bueste
 status: erstfassung
 version: 1
 updated: 2026-10-14

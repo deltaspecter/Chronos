@@ -18,6 +18,7 @@ polities: [heiliges-roemisches-reich, habsburgermonarchie, koenigreich-boehmen, 
 terms: [konfessionalisierung, cuius-regio-eius-religio, reichsstaende, soeldnerheer, kontributionssystem, kipper-und-wipperzeit, pest, normaljahr, souveraenitaet, westfaelisches-system]
 related: [reformation, aufklaerung, franzoesische-revolution, schwarzer-tod]
 bibliography: [wilson-2009, schmidt-2018, burkhardt-1992, burkhardt-2018, muenkler-2017, kampmann-2008, parker-2013, parker-1984, medick-2018, mann-1971, franz-1940, dickmann-1959, gross-1948, osiander-2001, schilling-1988, q-augsburger-religionsfriede, q-restitutionsedikt-1629, q-prager-frieden-1635, q-instrumentum-pacis-osnabrugense, q-instrumentum-pacis-monasteriense, acta-pacis-westphalicae, peters-1993, q-grimmelshausen-simplicissimus, q-gryphius-thraenen]
+image: westfaelischer-friede-terborch
 status: erstfassung
 version: 1
 updated: 2026-10-14
