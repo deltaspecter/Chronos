@@ -1,0 +1,169 @@
+# Personen: Das Reich von Aksum
+- id: zoskales
+  name: Zoskales
+  roles: [Herrscher]
+  summary: Im Periplus Maris Erythraei (Mitte 1. Jh. n. Chr.) genannter Herrscher der Küste um Adulis, dem der Verfasser Geiz, aber auch Kenntnis der griechischen Schrift bescheinigt; ob er König von Aksum war, ist umstritten.
+  regions: [nordostafrika]
+  themes: [politik, handelsnetze]
+  places: [adulis]
+- id: endubis
+  name: Endubis
+  roles: [König von Aksum]
+  summary: Aksumitischer König des späten 3. Jahrhunderts, unter dessen Namen die ältesten bekannten aksumitischen Münzen mit griechischer Aufschrift geprägt wurden.
+  regions: [nordostafrika]
+  themes: [wirtschaft-handel, politik]
+  places: [aksum]
+- id: ezana
+  name: Ezana
+  aliases: [Aizanas, ʿEzana, Abreha]
+  roles: [König von Aksum]
+  summary: König von Aksum um die Mitte des 4. Jahrhunderts, der in mehrsprachigen Inschriften Feldzüge bis an den Nil verkündete und als erster aksumitischer Herrscher zum Christentum übertrat; auf seinen Münzen ersetzte das Kreuz Mondsichel und Scheibe.
+  regions: [nordostafrika, nubien]
+  themes: [politik, religion, schrift-medien]
+  places: [aksum]
+  related: [frumentius, konstantius-ii]
+- id: frumentius
+  name: Frumentius
+  aliases: [Abba Salama, Kesate Berhan]
+  roles: [Bischof von Aksum]
+  summary: Christ aus Tyros, der nach Rufinus als Jugendlicher an den aksumitischen Hof kam, dort Einfluss gewann und von Athanasius in Alexandria zum ersten Bischof Aksums geweiht wurde; in Äthiopien als Abba Salama verehrt.
+  regions: [nordostafrika, levante, aegypten]
+  themes: [religion]
+  places: [aksum, alexandria]
+  related: [ezana, athanasius-von-alexandria]
+- id: athanasius-von-alexandria
+  name: Athanasius von Alexandria
+  aliases: [Athanasios]
+  born: "~295"
+  died: "373-05-02"
+  roles: [Bischof von Alexandria, Theologe]
+  summary: Bischof von Alexandria ab 328 und wichtigster Gegner der Arianer; weihte Frumentius zum Bischof von Aksum, wodurch die äthiopische Kirche bis ins 20. Jahrhundert an Alexandria gebunden blieb.
+  regions: [aegypten]
+  themes: [religion]
+  places: [alexandria]
+- id: konstantius-ii
+  name: Constantius II.
+  aliases: [Konstantius II., Constantius]
+  born: "317-08-07"
+  died: "361-11-03"
+  roles: [Römischer Kaiser]
+  summary: Sohn Konstantins des Großen und römischer Kaiser (337–361), der die arianische Richtung förderte und um 356 die Herrscher von Aksum aufforderte, Frumentius zur Überprüfung nach Alexandria zu schicken.
+  regions: [mittelmeer, suedosteuropa]
+  themes: [politik, religion]
+- id: rufinus-von-aquileia
+  name: Rufinus von Aquileia
+  aliases: [Tyrannius Rufinus]
+  born: "~345"
+  died: "411"
+  roles: [Theologe, Übersetzer, Geschichtsschreiber]
+  summary: Lateinischer Kirchenschriftsteller, dessen Kirchengeschichte (um 402) den ältesten Bericht über die Christianisierung Aksums durch Frumentius enthält.
+  regions: [italien, levante]
+  themes: [religion, geschichtsschreibung]
+- id: mani-religionsstifter
+  name: Mani
+  aliases: [Manes, Manichaeus]
+  born: "216"
+  died: "~276"
+  roles: [Religionsstifter]
+  summary: Religionsstifter aus Mesopotamien, Begründer des Manichäismus; unter Bahram I. im Sasanidenreich hingerichtet. Eine ihm zugeschriebene Lehrrede zählt Aksum zu den vier großen Reichen der Welt.
+  regions: [mesopotamien, iran]
+  themes: [religion]
+- id: kaleb
+  name: Kaleb
+  aliases: [Ella Asbeha, Hellestheaios, Elesboas]
+  roles: [König von Aksum]
+  summary: König von Aksum im frühen 6. Jahrhundert, der um 525 mit oströmischer Unterstützung das Reich Himyar im Jemen eroberte und einen christlichen Vasallenkönig einsetzte; in der äthiopischen Kirche als Heiliger verehrt.
+  regions: [nordostafrika, arabische-halbinsel]
+  themes: [politik, krieg-militaer, religion]
+  places: [aksum, adulis, zafar]
+  related: [yusuf-asar-yathar, abraha, justinian-i]
+- id: yusuf-asar-yathar
+  name: Yusuf Asʾar Yathʾar
+  aliases: [Dhu Nuwas, Dū Nuwās, Masruq]
+  died: "~525"
+  roles: [König von Himyar]
+  summary: Himyarischer König jüdischen Glaubens, der um 522 die Macht ergriff, die aksumitische Besatzung angriff und 523 Christen in Nadschran töten ließ; er unterlag um 525 dem Heer Kalebs. In der arabischen Überlieferung heißt er Dhu Nuwas.
+  regions: [arabische-halbinsel]
+  themes: [politik, religion, gewalt-genozid]
+  places: [zafar, nadschran]
+- id: sumyafa-ashwa
+  name: Sumyafaʿ Ashwaʿ
+  aliases: [Esimiphaios]
+  roles: [König von Himyar]
+  summary: Christlicher Himyarit, den Kaleb nach dem Sieg über Yusuf als abhängigen König in Himyar einsetzte; wenige Jahre später von Abraha gestürzt.
+  regions: [arabische-halbinsel]
+  themes: [politik]
+  places: [zafar]
+- id: abraha
+  name: Abraha
+  roles: [König von Himyar, Feldherr]
+  summary: Aksumitischer Heerführer, der um 535 die Herrschaft in Himyar an sich riss und sich gegen Kaleb behauptete; ließ 548 den Damm von Marib ausbessern und empfing Gesandte aus Byzanz und Persien. Die islamische Überlieferung verbindet ihn mit dem Zug gegen Mekka im „Jahr des Elefanten“.
+  regions: [arabische-halbinsel]
+  themes: [politik, krieg-militaer]
+  places: [marib, zafar]
+  related: [kaleb]
+- id: kosmas-indikopleustes
+  name: Kosmas Indikopleustes
+  aliases: [Cosmas Indicopleustes]
+  roles: [Kaufmann, Mönch, Schriftsteller]
+  summary: Griechischsprachiger Kaufmann aus Alexandria, der um 518/525 in Adulis war, dort die Inschriften des Monumentum Adulitanum abschrieb und um 550 als Mönch die Christliche Topographie verfasste.
+  regions: [aegypten, nordostafrika]
+  themes: [handelsnetze, religion, geschichtsschreibung]
+  places: [adulis, alexandria]
+- id: ashama-an-nadschaschi
+  name: Ashama, der Nadschaschi
+  aliases: [an-Nadschaschi, Negus, Aṣḥama ibn Abjar, Armah]
+  died: "~630"
+  certainty: unsicher
+  roles: [König von Aksum]
+  summary: Nach islamischer Überlieferung der aksumitische König (arabisch an-Nadschaschi, „der Negus“), der um 615 die nach Abessinien geflohenen Muslime aufnahm und ihre Auslieferung an die Mekkaner verweigerte; seine Gleichsetzung mit einem aus Münzen bekannten König ist unsicher.
+  regions: [nordostafrika]
+  themes: [religion, politik]
+  places: [aksum]
+  related: [muhammad, dschafar-ibn-abi-talib]
+- id: dschafar-ibn-abi-talib
+  name: Dschaʿfar ibn Abi Talib
+  aliases: [Jaʿfar ibn Abi Talib]
+  died: "629"
+  roles: [Gefährte des Propheten]
+  summary: Vetter Muhammads und Bruder Alis, der nach islamischer Überlieferung die muslimischen Auswanderer in Abessinien anführte und vor dem Negus für sie sprach; fiel 629 bei Mu'ta.
+  regions: [arabische-halbinsel, nordostafrika]
+  themes: [religion, migration]
+  related: [muhammad, ashama-an-nadschaschi]
+- id: gudit
+  name: Gudit
+  aliases: [Yodit, Judith, Esato]
+  certainty: unsicher
+  roles: [Königin (Legende)]
+  summary: Nach äthiopischer Tradition eine Königin, die im 10. Jahrhundert Aksum und seine Kirchen zerstörte; ob sie mit einer bei dem arabischen Geografen Ibn Hauqal erwähnten Herrscherin identisch ist, ist ungeklärt.
+  regions: [nordostafrika]
+  themes: [politik, religion]
+  places: [aksum]
+- id: koenigin-von-saba
+  name: Königin von Saba
+  aliases: [Makeda, Bilqis, Queen of Sheba]
+  certainty: unsicher
+  roles: [Königin (Legende)]
+  summary: Gestalt der Bibel (1. Könige 10), die König Salomo besucht; die äthiopische Tradition des Kebra Nagast nennt sie Makeda und macht sie zur Mutter Meneliks I. Eine historische Person ist nicht nachweisbar.
+  regions: [nordostafrika, arabische-halbinsel]
+  themes: [religion]
+  related: [menelik-i]
+- id: menelik-i
+  name: Menelik I.
+  aliases: [Bayna Lehkem, Ebna Hakim]
+  certainty: unsicher
+  roles: [König (Legende)]
+  summary: Nach dem Kebra Nagast Sohn Salomos und der Königin von Saba, der die Bundeslade nach Aksum gebracht und die salomonische Königslinie begründet haben soll; eine legendarische, keine historisch belegte Gestalt.
+  regions: [nordostafrika]
+  themes: [religion, politik]
+  places: [aksum]
+  related: [koenigin-von-saba]
+- id: enno-littmann
+  name: Enno Littmann
+  born: "1875"
+  died: "1958"
+  roles: [Orientalist]
+  summary: Deutscher Orientalist, der 1906 die Deutsche Aksum-Expedition leitete und deren Inschriften 1913 veröffentlichte – bis heute eine Grundlage der Aksum-Forschung.
+  regions: [deutschland, nordostafrika]
+  themes: [archaeologie, schrift-medien]
+  places: [aksum]

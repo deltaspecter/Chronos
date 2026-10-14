@@ -1,0 +1,77 @@
+# Orte: Das Reich von Aksum
+- id: aksum
+  name: Aksum
+  aliases: [Axum, Axomis]
+  coords: [38.7194, 14.1311]
+  categories: [hauptstadt, fundstaette, heiligtum]
+  modernName: Aksum (Tigray, Äthiopien)
+  summary: Hauptstadt des gleichnamigen Reiches im Hochland von Tigray mit monumentalen Stelen, Palastruinen und Königsgräbern; bis heute heilige Stadt der äthiopisch-orthodoxen Kirche mit der Kirche Maria von Zion. Seit 1980 UNESCO-Welterbe.
+  regions: [nordostafrika]
+  themes: [archaeologie, religion, imperien]
+- id: adulis
+  name: Adulis
+  aliases: [Adoulis, Adulē]
+  coords: [39.6597, 15.2636]
+  location: ungefaehr
+  categories: [hafen, stadt, fundstaette]
+  modernName: bei Zula am Golf von Zula (Eritrea)
+  summary: Hafenstadt am Roten Meer, über die Aksum Elfenbein und andere Waren gegen Güter aus dem Mittelmeerraum, Arabien und Indien tauschte; schon im Periplus (1. Jh.) erwähnt, im 7. Jahrhundert im Niedergang.
+  regions: [nordostafrika]
+  themes: [handelsnetze, archaeologie]
+- id: yeha
+  name: Yeha
+  aliases: [Yiha]
+  coords: [39.0186, 14.2875]
+  categories: [heiligtum, fundstaette]
+  modernName: Yeha (Tigray, Äthiopien)
+  summary: Fundstätte mit einem gut erhaltenen Tempel aus Quadersteinen im südarabischen Stil, meist in das 8. oder 7. Jahrhundert v. Chr. datiert; wohl ein Zentrum des vor-aksumitischen Reiches D'mt.
+  regions: [nordostafrika]
+  themes: [archaeologie, religion]
+- id: matara
+  name: Matara
+  coords: [39.4660, 14.6740]
+  location: ungefaehr
+  categories: [stadt, fundstaette]
+  modernName: bei Senafe (Eritrea)
+  summary: Aksumitische Stadt auf der Route zwischen Adulis und Aksum mit Resten von Wohnbauten, Kirchen und einer vor-aksumitischen Inschriftenstele.
+  regions: [nordostafrika]
+  themes: [archaeologie, handelsnetze]
+- id: debre-damo
+  name: Debre Damo
+  coords: [39.2870, 14.3720]
+  location: ungefaehr
+  categories: [heiligtum]
+  modernName: Debre Damo (Tigray, Äthiopien)
+  summary: Kloster auf einem nur mit dem Seil erreichbaren Tafelberg, nach der Tradition von einem der Neun Heiligen im 6. Jahrhundert gegründet; seine Kirche bewahrt Bauformen der aksumitischen Architektur.
+  regions: [nordostafrika]
+  themes: [religion, kultur-kunst]
+- id: zafar
+  name: Zafar
+  aliases: [Ẓafār, Tafar]
+  coords: [44.4010, 14.2100]
+  location: ungefaehr
+  categories: [hauptstadt, fundstaette]
+  modernName: bei Yarim (Jemen)
+  summary: Hauptstadt des Reiches Himyar im jemenitischen Hochland; im 6. Jahrhundert Schauplatz der Kämpfe zwischen Himyar und Aksum.
+  regions: [arabische-halbinsel]
+  themes: [archaeologie, politik]
+- id: nadschran
+  name: Nadschran
+  aliases: [Najran, Naǧrān]
+  coords: [44.1500, 17.4900]
+  location: ungefaehr
+  categories: [stadt, fundstaette]
+  modernName: Najran (Saudi-Arabien)
+  summary: Oasenstadt in Südarabien mit einer bedeutenden christlichen Gemeinde, deren Mitglieder 523 unter dem himyarischen König Yusuf getötet wurden; die Märtyrer von Nadschran wurden im ganzen christlichen Orient verehrt.
+  regions: [arabische-halbinsel]
+  themes: [religion, gewalt-genozid]
+- id: marib
+  name: Marib
+  aliases: [Maʾrib]
+  coords: [45.3260, 15.4040]
+  location: ungefaehr
+  categories: [stadt, fundstaette]
+  modernName: Marib (Jemen)
+  summary: Alte Hauptstadt des Reiches Saba mit einem großen Staudamm, den Abraha 548 ausbessern ließ; der endgültige Dammbruch wird meist ins späte 6. oder frühe 7. Jahrhundert datiert.
+  regions: [arabische-halbinsel]
+  themes: [archaeologie, landwirtschaft]

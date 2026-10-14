@@ -1,0 +1,35 @@
+# Staaten: Das Reich von Aksum
+- id: dmt
+  name: Reich von D'mt
+  aliases: [Daʿamat, DMT]
+  start: "~-800"
+  end: "~-400"
+  spanNote: Nur aus wenigen Inschriften bekannt; Ausdehnung, Dauer und Verhältnis zu Saba in Südarabien sind unsicher.
+  summary: Vor-aksumitisches Königreich im Hochland von Tigray und Eritrea, dessen Herrscher sich in Inschriften als „mukarrib von D'mt und Saba“ bezeichneten; Tempel wie in Yeha zeigen enge Verbindungen nach Südarabien.
+  regions: [nordostafrika]
+  themes: [politik, archaeologie]
+  successors: [aksumitisches-reich]
+  weight: 3
+- id: aksumitisches-reich
+  name: Reich von Aksum
+  aliases: [Aksum, Axum, Aksumitisches Reich, Axumitisches Reich]
+  start: "~50"
+  end: "~700"
+  spanNote: Anfänge im 1. Jh. v. Chr./1. Jh. n. Chr.; die Münzprägung endet im 7. Jahrhundert, das Königtum besteht in verlagerten Zentren wohl bis ins 9./10. Jahrhundert fort.
+  capital: aksum
+  summary: Königreich im Hochland des heutigen Nordäthiopien und Eritrea, das über den Hafen Adulis den Handel zwischen Mittelmeer und Indischem Ozean kontrollierte, eigene Gold-, Silber- und Bronzemünzen prägte und im 4. Jahrhundert das Christentum annahm.
+  regions: [nordostafrika, arabische-halbinsel]
+  themes: [imperien, handelsnetze, religion]
+  predecessors: [dmt]
+  weight: 1
+- id: himyar
+  name: Reich von Himyar
+  aliases: [Himyar, Ḥimyar, Himyariten, Homeriten]
+  start: "~-110"
+  end: "~570"
+  spanNote: Ab dem späten 3. Jh. n. Chr. Vorherrschaft über ganz Südarabien; 525 bis um 570 unter aksumitischer bzw. von Abraha begründeter Herrschaft, danach persisch.
+  capital: zafar
+  summary: Südarabisches Königreich im Jemen, dessen Herrscher sich im späten 4. Jahrhundert einem jüdisch geprägten Monotheismus zuwandten; im 6. Jahrhundert von Aksum erobert.
+  regions: [arabische-halbinsel]
+  themes: [imperien, religion]
+  weight: 2

@@ -1,0 +1,158 @@
+# Quellen und Literatur: Das Reich von Aksum
+
+# --- Forschung ---
+- id: munro-hay-1991
+  kind: sekundaer
+  authors: ["Munro-Hay, Stuart"]
+  title: Aksum
+  subtitle: An African Civilisation of Late Antiquity
+  place: Edinburgh
+  publisher: Edinburgh University Press
+  year: 1991
+- id: phillipson-1998
+  kind: sekundaer
+  authors: ["Phillipson, David W."]
+  title: Ancient Ethiopia
+  subtitle: Aksum – Its Antecedents and Successors
+  place: London
+  publisher: British Museum Press
+  year: 1998
+- id: phillipson-2012
+  kind: sekundaer
+  authors: ["Phillipson, David W."]
+  title: Foundations of an African Civilisation
+  subtitle: Aksum and the Northern Horn, 1000 BC – AD 1300
+  place: Woodbridge
+  publisher: James Currey
+  year: 2012
+- id: bowersock-2013
+  kind: sekundaer
+  authors: ["Bowersock, Glen W."]
+  title: The Throne of Adulis
+  subtitle: Red Sea Wars on the Eve of Islam
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2013
+- id: hatke-2013
+  kind: sekundaer
+  authors: ["Hatke, George"]
+  title: Aksum and Nubia
+  subtitle: Warfare, Commerce, and Political Fictions in Ancient Northeast Africa
+  place: New York
+  publisher: New York University Press
+  year: 2013
+- id: robin-2012
+  kind: sekundaer
+  authors: ["Robin, Christian Julien"]
+  title: Arabia and Ethiopia
+  container: "Scott Fitzgerald Johnson (Hrsg.), The Oxford Handbook of Late Antiquity"
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2012
+- id: tamrat-1972
+  kind: sekundaer
+  authors: ["Tamrat, Taddesse"]
+  title: Church and State in Ethiopia, 1270–1527
+  place: Oxford
+  publisher: Clarendon Press
+  year: 1972
+- id: marcus-1994
+  kind: sekundaer
+  authors: ["Marcus, Harold G."]
+  title: A History of Ethiopia
+  place: Berkeley
+  publisher: University of California Press
+  year: 1994
+- id: henze-2000
+  kind: sekundaer
+  authors: ["Henze, Paul B."]
+  title: Layers of Time
+  subtitle: A History of Ethiopia
+  place: London
+  publisher: Hurst
+  year: 2000
+
+# --- Editionen ---
+- id: casson-1989
+  kind: edition
+  authors: ["Casson, Lionel"]
+  title: The Periplus Maris Erythraei
+  subtitle: Text with Introduction, Translation, and Commentary
+  place: Princeton
+  publisher: Princeton University Press
+  year: 1989
+- id: gardner-1995
+  kind: edition
+  authors: ["Gardner, Iain"]
+  title: The Kephalaia of the Teacher
+  subtitle: The Edited Coptic Manichaean Texts in Translation with Commentary
+  place: Leiden
+  publisher: Brill
+  year: 1995
+- id: littmann-1913
+  kind: edition
+  authors: ["Littmann, Enno"]
+  title: Deutsche Aksum-Expedition
+  volume: "4"
+  subtitle: Sabäische, griechische und altabessinische Inschriften
+  place: Berlin
+  publisher: Reimer
+  year: 1913
+
+# --- Primärquellen ---
+- id: q-periplus
+  kind: primaer
+  title: Periplus Maris Erythraei (Umsegelung des Roten Meeres)
+  written: Ägypten, Mitte des 1. Jahrhunderts n. Chr.
+  note: Griechisches Handbuch eines unbekannten Kaufmanns über Häfen, Waren und Seewege zwischen Ägypten, Ostafrika, Arabien und Indien; erwähnt Adulis, die Stadt der Axumiten und den Herrscher Zoskales.
+- id: q-monumentum-adulitanum
+  kind: primaer
+  title: Monumentum Adulitanum (Inschriften von Adulis)
+  written: Adulis; eine ptolemäische Inschrift des 3. Jh. v. Chr. und eine aksumitische Thron-Inschrift wohl des 2. oder 3. Jh. n. Chr.
+  note: Die Originale sind verloren; erhalten sind nur die Abschriften, die Kosmas Indikopleustes nach eigener Angabe zu Beginn der Regierung Justins I. (518–527) in Adulis anfertigte und in seine Christliche Topographie aufnahm.
+- id: q-ezana-inschriften
+  kind: primaer
+  authors: ["Ezana von Aksum"]
+  title: Königsinschriften des Ezana
+  written: Aksum und Umgebung, Mitte des 4. Jahrhunderts
+  note: Steininschriften in Ge'ez (in äthiopischer und in südarabischer Schrift) und Griechisch über Feldzüge und Herrschaftsansprüche; die späteren nennen den christlichen Gott.
+- id: q-rufinus-kirchengeschichte
+  kind: primaer
+  authors: ["Rufinus von Aquileia"]
+  title: Historia ecclesiastica (Kirchengeschichte), Buch 10
+  written: Aquileia, um 402
+  note: Lateinische Fortsetzung der Kirchengeschichte des Eusebios; erzählt die Bekehrung Aksums durch Frumentius nach dem Bericht von dessen Gefährten Aedesius.
+- id: q-athanasius-apologie
+  kind: primaer
+  authors: ["Athanasius von Alexandria"]
+  title: Apologia ad Constantium (Verteidigungsschrift an Kaiser Constantius)
+  written: um 357
+  note: Verteidigungsschrift des Bischofs von Alexandria, die den Brief des Kaisers Constantius II. an die aksumitischen Herrscher Aizanas und Sazanas über Frumentius im Wortlaut wiedergibt.
+- id: q-mani-kephalaia
+  kind: primaer
+  title: Kephalaia des Lehrers
+  written: koptische Handschrift des 4./5. Jahrhunderts aus Medinet Madi (Ägypten); auf Lehren Manis (3. Jh.) zurückgeführt
+  note: Manichäische Lehrgespräche, die Mani in den Mund gelegt werden; ein Kapitel zählt das Reich der Aksumiten zu den vier großen Reichen der Welt.
+- id: q-kosmas-topographia
+  kind: primaer
+  authors: ["Kosmas Indikopleustes"]
+  title: Christliche Topographie
+  written: wohl Alexandria, um 550
+  note: Griechisches Werk eines Kaufmanns und späteren Mönchs, der das Rote Meer bereist hatte; beschreibt Adulis, Aksum und den Handel nach Indien und Sri Lanka.
+- id: q-abraha-marib
+  kind: primaer
+  authors: ["Abraha"]
+  title: Inschrift Abrahas am Damm von Marib (CIH 541)
+  written: Marib (Jemen), 548
+  note: Sabäische Bauinschrift über die Ausbesserung des großen Staudamms, die auch Gesandtschaften aus Aksum, Byzanz, Persien und von arabischen Fürsten am Hof Abrahas verzeichnet.
+- id: q-simeon-beth-arscham
+  kind: primaer
+  authors: ["Simeon von Beth Arscham"]
+  title: Brief über die Märtyrer von Nadschran
+  written: Mesopotamien, um 524
+  note: Syrischer Bericht eines miaphysitischen Bischofs über die Verfolgung der Christen von Nadschran durch den himyarischen König Yusuf; parteiisch, aber zeitnah.
+- id: q-kebra-nagast
+  kind: primaer
+  title: Kebra Nagast (Die Herrlichkeit der Könige)
+  written: wohl frühes 14. Jahrhundert, Ge'ez
+  note: Äthiopisches Werk, das die Herkunft der Könige von Salomo und der Königin von Saba und die Überführung der Bundeslade nach Aksum erzählt; Legitimationsschrift der salomonischen Dynastie, keine Quelle für die Antike.

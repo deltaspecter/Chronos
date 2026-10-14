@@ -1,0 +1,214 @@
+# Ereignisse: Das Reich von Aksum
+- id: tempel-von-yeha
+  title: Bau des Tempels von Yeha
+  date: "~-700"
+  certainty: unsicher
+  dateNote: Datierungen schwanken zwischen dem 8. und 6. Jahrhundert v. Chr.
+  weight: 3
+  kind: entwicklung
+  summary: Im Hochland von Tigray entsteht ein Tempel aus fugenlos gesetzten Quadern im Stil der sabäischen Heiligtümer Südarabiens – ein Zeugnis der vor-aksumitischen Kultur von D'mt.
+  regions: [nordostafrika]
+  themes: [archaeologie, religion]
+  places: [yeha]
+  polities: [dmt]
+- id: periplus-maris-erythraei
+  title: Der Periplus beschreibt Adulis und Aksum
+  date: "~50"
+  certainty: wahrscheinlich
+  dateNote: Die Abfassung wird meist zwischen 40 und 70 n. Chr. angesetzt.
+  weight: 2
+  kind: ereignis
+  summary: Ein griechischer Kaufmann aus Ägypten beschreibt den Hafen Adulis, die Stadt der Axumiten im Landesinneren und deren Elfenbeinhandel – die älteste ausführliche Nachricht über Aksum.
+  regions: [nordostafrika, indischer-ozean]
+  themes: [handelsnetze]
+  places: [adulis, aksum]
+  persons: [zoskales]
+  polities: [aksumitisches-reich]
+- id: erste-aksumitische-muenzen
+  title: Beginn der aksumitischen Münzprägung
+  date: "~270"
+  certainty: wahrscheinlich
+  weight: 2
+  kind: entwicklung
+  summary: Unter König Endubis prägt Aksum erstmals eigene Münzen in Gold, Silber und Bronze mit griechischen Aufschriften – als einer der wenigen Staaten seiner Zeit auch in Gold.
+  regions: [nordostafrika]
+  themes: [wirtschaft-handel]
+  places: [aksum]
+  persons: [endubis]
+  polities: [aksumitisches-reich]
+- id: christianisierung-aksums
+  title: Übertritt Ezanas zum Christentum
+  date: "~340"
+  certainty: umstritten
+  dateNote: Die Datierung schwankt zwischen etwa 330 und 360.
+  weight: 1
+  kind: ereignis
+  summary: König Ezana wendet sich dem Christentum zu; Inschriften rufen nun den „Herrn des Himmels“ und schließlich die Dreifaltigkeit an, Münzen tragen das Kreuz. Frumentius wird erster Bischof von Aksum.
+  regions: [nordostafrika]
+  themes: [religion, politik]
+  places: [aksum, alexandria]
+  persons: [ezana, frumentius, athanasius-von-alexandria]
+  polities: [aksumitisches-reich]
+- id: brief-des-constantius
+  title: Brief des Constantius II. an die Herrscher von Aksum
+  date: "~356"
+  certainty: wahrscheinlich
+  weight: 3
+  kind: ereignis
+  summary: Kaiser Constantius II. fordert die Brüder Aizanas und Sazanas auf, Bischof Frumentius zur Prüfung nach Alexandria zu senden, wo ein arianischer Bischof eingesetzt worden war; Athanasius überliefert den Brief.
+  regions: [nordostafrika, mittelmeer]
+  themes: [religion, politik]
+  persons: [konstantius-ii, ezana, frumentius, athanasius-von-alexandria]
+  polities: [aksumitisches-reich]
+- id: ankunft-neun-heilige
+  title: Ankunft der Neun Heiligen
+  date: "~480"
+  certainty: unsicher
+  weight: 3
+  kind: entwicklung
+  summary: Nach äthiopischer Tradition kommen im späten 5. Jahrhundert neun Mönche aus dem Römischen Reich, wohl Gegner des Konzils von Chalkedon, nach Aksum; sie verbreiten das Mönchtum und gründen Klöster wie Debre Damo.
+  regions: [nordostafrika]
+  themes: [religion]
+  places: [debre-damo]
+  polities: [aksumitisches-reich]
+- id: martyrer-von-nadschran
+  title: Christenverfolgung in Nadschran
+  date: "523"
+  certainty: wahrscheinlich
+  weight: 2
+  kind: ereignis
+  summary: Der himyarische König Yusuf lässt nach der Einnahme Nadschrans zahlreiche Christen töten, die sich ihm nicht unterwerfen; Berichte darüber verbreiten sich im ganzen christlichen Orient. Opferzahlen sind nicht verlässlich überliefert.
+  regions: [arabische-halbinsel]
+  themes: [religion, gewalt-genozid]
+  places: [nadschran]
+  persons: [yusuf-asar-yathar]
+  polities: [himyar]
+- id: feldzug-kalebs-nach-himyar
+  title: Feldzug Kalebs nach Himyar
+  date: "~525"
+  certainty: wahrscheinlich
+  dateNote: Meist 525 datiert, teils auch 518 oder 530.
+  weight: 1
+  kind: krieg
+  summary: Mit oströmischer Unterstützung setzt König Kaleb mit einer Flotte über das Rote Meer, besiegt Yusuf und setzt den Christen Sumyafa' Ashwa' als abhängigen König ein.
+  regions: [arabische-halbinsel, nordostafrika]
+  themes: [krieg-militaer, religion]
+  places: [adulis, zafar]
+  persons: [kaleb, yusuf-asar-yathar, sumyafa-ashwa]
+  polities: [aksumitisches-reich, himyar, byzantinisches-reich]
+- id: gesandtschaft-des-julianus
+  title: Gesandtschaft Justinians nach Aksum
+  date: "~531"
+  certainty: wahrscheinlich
+  weight: 3
+  kind: ereignis
+  summary: Justinian schickt den Gesandten Julianus zu Kaleb und bittet ihn, Seide aus Indien zu kaufen und an Ostrom zu liefern, um den persischen Zwischenhandel zu umgehen; nach Prokop scheitert der Plan, weil persische Händler die indischen Häfen beherrschen.
+  regions: [nordostafrika, mittelmeer]
+  themes: [handelsnetze, politik]
+  persons: [justinian-i, kaleb, prokop]
+  polities: [aksumitisches-reich, byzantinisches-reich, sasanidenreich]
+- id: herrschaft-abrahas
+  title: Abraha übernimmt die Macht in Himyar
+  date: "~535"
+  certainty: unsicher
+  weight: 2
+  kind: herrschaft
+  summary: Der aksumitische Heerführer Abraha stürzt den von Kaleb eingesetzten König und behauptet sich gegen aksumitische Strafexpeditionen; er regiert Südarabien bis um 560 weitgehend unabhängig.
+  regions: [arabische-halbinsel]
+  themes: [politik, krieg-militaer]
+  places: [zafar, marib]
+  persons: [abraha, kaleb, sumyafa-ashwa]
+  polities: [himyar, aksumitisches-reich]
+- id: konferenz-von-marib
+  title: Gesandtschaften am Damm von Marib
+  date: "548"
+  certainty: gesichert
+  weight: 3
+  kind: ereignis
+  summary: Nach der Ausbesserung des Staudamms von Marib empfängt Abraha laut seiner Inschrift Gesandte aus Aksum, Byzanz und Persien sowie arabischer Fürsten – ein Zeugnis der Großmachtpolitik am Roten Meer.
+  regions: [arabische-halbinsel]
+  themes: [politik]
+  places: [marib]
+  persons: [abraha]
+  polities: [himyar, aksumitisches-reich, byzantinisches-reich, sasanidenreich]
+- id: jahr-des-elefanten
+  title: Zug Abrahas gegen Mekka („Jahr des Elefanten“)
+  date: "~570"
+  certainty: umstritten
+  dateNote: Die Überlieferung setzt das Ereignis in Muhammads Geburtsjahr; die Forschung hält eine frühere Datierung, etwa um 550, für möglich.
+  weight: 3
+  kind: krieg
+  summary: Nach islamischer Überlieferung zieht Abraha mit einem Elefanten gegen Mekka und scheitert; Sure 105 des Korans wird darauf bezogen.
+  regions: [arabische-halbinsel]
+  themes: [krieg-militaer, religion]
+  places: [mekka]
+  persons: [abraha]
+  polities: [himyar]
+- id: persische-eroberung-jemens
+  title: Persische Eroberung des Jemen
+  date: "~570"
+  certainty: wahrscheinlich
+  dateNote: Datierungen zwischen etwa 570 und 575.
+  weight: 2
+  kind: krieg
+  summary: Ein sasanidisches Heer vertreibt die Nachfolger Abrahas aus Südarabien; der Jemen wird persische Provinz, und Aksum verliert seine Stellung auf der arabischen Seite des Roten Meeres.
+  regions: [arabische-halbinsel]
+  themes: [krieg-militaer, imperien]
+  persons: [chosrau-i]
+  polities: [sasanidenreich, himyar, aksumitisches-reich]
+- id: erste-hidschra-nach-abessinien
+  title: Erste Hidschra – Auswanderung von Muslimen nach Aksum
+  date: "~615"
+  certainty: wahrscheinlich
+  weight: 2
+  kind: ereignis
+  summary: Nach islamischer Überlieferung fliehen Anhänger Muhammads vor der Verfolgung in Mekka nach Abessinien; der Negus gewährt ihnen Schutz und weist die Auslieferungsforderung der Mekkaner zurück.
+  regions: [nordostafrika, arabische-halbinsel]
+  themes: [religion, migration]
+  places: [mekka, aksum]
+  persons: [muhammad, ashama-an-nadschaschi, dschafar-ibn-abi-talib]
+  polities: [aksumitisches-reich]
+- id: niedergang-aksums
+  title: Niedergang Aksums
+  start: "~600"
+  end: "~900"
+  certainty: umstritten
+  weight: 2
+  kind: entwicklung
+  summary: Mit dem Ende der Münzprägung im 7. Jahrhundert, dem Verfall von Adulis und dem Verlust des Rotmeerhandels verliert Aksum seine Bedeutung; das politische Zentrum verlagert sich nach Süden. Ursachen und Verlauf sind umstritten.
+  regions: [nordostafrika]
+  themes: [politik, wirtschaft-handel, umwelt-klima]
+  places: [aksum, adulis]
+  polities: [aksumitisches-reich]
+- id: entstehung-kebra-nagast
+  title: Entstehung des Kebra Nagast
+  date: "~1320"
+  certainty: wahrscheinlich
+  weight: 3
+  kind: entwicklung
+  summary: In Ge'ez wird das Kebra Nagast zusammengestellt, das die äthiopischen Könige über Menelik I. von Salomo und der Königin von Saba herleitet und Aksum zum Ort der Bundeslade erklärt.
+  regions: [nordostafrika]
+  themes: [religion, geschichtsschreibung]
+  places: [aksum]
+  persons: [menelik-i, koenigin-von-saba]
+  polities: [kaiserreich-aethiopien]
+- id: deutsche-aksum-expedition
+  title: Deutsche Aksum-Expedition
+  date: "1906"
+  weight: 3
+  kind: entdeckung
+  summary: Eine Expedition unter Enno Littmann vermisst im Auftrag Kaiser Wilhelms II. die Ruinen von Aksum und dokumentiert Inschriften, Stelen und Gebäude; die Ergebnisse erscheinen 1913 in vier Bänden.
+  regions: [nordostafrika]
+  themes: [archaeologie]
+  places: [aksum]
+  persons: [enno-littmann]
+- id: rueckgabe-stele-von-aksum
+  title: Rückkehr der Stele von Aksum aus Rom
+  date: "2005"
+  certainty: gesichert
+  weight: 3
+  kind: ereignis
+  summary: Die 1937 auf Befehl Mussolinis nach Rom gebrachte, rund 24 Meter hohe Stele kehrt nach jahrzehntelangen äthiopischen Forderungen nach Aksum zurück; 2008 wird sie dort wieder aufgerichtet.
+  regions: [nordostafrika, italien]
+  themes: [kultur-kunst, politik]
+  places: [aksum]

@@ -1,0 +1,36 @@
+# Begriffe: Das Reich von Aksum
+- id: geez
+  name: Ge'ez
+  aliases: [Geʿez, Altäthiopisch, Äthiopische Schrift, Fidel]
+  definition: Semitische Sprache des Reiches von Aksum und die aus der südarabischen Schrift entwickelte äthiopische Schrift; im 4. Jahrhundert wurden den Konsonantenzeichen Vokalmarkierungen angefügt, sodass eine Silbenschrift entstand. Ge'ez ist heute Liturgiesprache der äthiopischen und eritreischen Kirchen, die Schrift wird für Amharisch und Tigrinya genutzt.
+  themes: [schrift-medien]
+- id: aksumitische-stelen
+  name: Stelen von Aksum
+  aliases: [Obelisk von Aksum, Aksum-Obelisk, Stelen]
+  definition: Monolithische Grabmonumente aus Granit über den Königsgräbern von Aksum, die größten als vielstöckige Häuser mit Scheintüren und -fenstern gestaltet; die größte, heute umgestürzte Stele war rund 33 Meter lang. Meist ins 3. oder 4. Jahrhundert datiert.
+  themes: [archaeologie, kultur-kunst]
+- id: negus
+  name: Negus
+  aliases: [Nəgus, Nagasi, Negus Negest, König der Könige, an-Nadschaschi]
+  definition: Äthiopischer Königstitel; die aksumitischen Herrscher nannten sich in Inschriften „König der Könige“. Die arabische Form an-Nadschaschi bezeichnet in der islamischen Überlieferung den König von Aksum.
+  themes: [politik]
+- id: aethiopisch-orthodoxe-kirche
+  name: Äthiopisch-Orthodoxe Tewahedo-Kirche
+  aliases: [Äthiopische Kirche, Tewahedo-Kirche]
+  definition: Die seit dem 4. Jahrhundert bestehende Kirche Äthiopiens, die die Beschlüsse des Konzils von Chalkedon (451) ablehnt (Tewahedo, „Einheit“ der Naturen Christi); ihr Oberhaupt (Abun) war bis 1959 stets ein vom koptischen Patriarchen von Alexandria entsandter Ägypter.
+  themes: [religion]
+- id: kebra-nagast
+  name: Kebra Nagast
+  aliases: [Herrlichkeit der Könige, Kəbrä Nägäśt]
+  definition: Äthiopisches Werk in Ge'ez, wohl im frühen 14. Jahrhundert zusammengestellt, das die Abstammung der äthiopischen Könige von Salomo und der Königin von Saba sowie die Überführung der Bundeslade nach Aksum erzählt; Grundtext der salomonischen Herrschaftsideologie.
+  themes: [religion, geschichtsschreibung]
+- id: salomonische-dynastie
+  name: Salomonische Dynastie
+  aliases: [Salomoniden]
+  definition: Äthiopische Herrscherdynastie, die 1270 mit Yekuno Amlak an die Macht kam, ihre Abstammung über Menelik I. auf Salomo zurückführte und sich als Erbin Aksums verstand; sie regierte mit Unterbrechungen bis 1974.
+  themes: [politik, religion]
+- id: manichaeismus
+  name: Manichäismus
+  aliases: [Manichäer]
+  definition: Von Mani im 3. Jahrhundert in Mesopotamien gestiftete Religion, die einen Kampf zwischen Licht und Finsternis lehrte und sich vom Römischen Reich bis nach China verbreitete.
+  themes: [religion]
