@@ -1,0 +1,26 @@
+# Begriffe: Peloponnesischer Krieg
+- id: oligarchie
+  name: Oligarchie
+  aliases: [Herrschaft der Wenigen, Oligarchen]
+  definition: „Herrschaft der Wenigen“ – in der griechischen Polis eine Ordnung, in der politische Rechte auf eine durch Vermögen oder Herkunft begrenzte Gruppe beschränkt waren; im Peloponnesischen Krieg stützte Sparta meist oligarchische, Athen meist demokratische Gruppen in anderen Städten.
+  themes: [politik, verfassung-recht]
+- id: stasis
+  name: Stasis
+  aliases: [Bürgerkrieg, innerer Zwist]
+  definition: Griechisch für „Aufstand, innerer Zwist“ – der gewaltsame Konflikt zwischen Gruppen innerhalb einer Polis, im Peloponnesischen Krieg oft zwischen Demokraten und Oligarchen, die jeweils Athen oder Sparta zu Hilfe riefen. Thukydides analysiert die Stasis in Kerkyra 427 v. Chr. als Beispiel für den Zerfall von Moral und Sprache im Krieg.
+  themes: [politik, gewalt-genozid]
+- id: heloten
+  name: Heloten
+  aliases: [Helot, Heilotai]
+  definition: Unfreie, an das Land gebundene Bevölkerung Lakoniens und Messeniens, die für die spartanischen Vollbürger die Felder bestellte und Abgaben leistete. Die ständige Furcht vor Helotenaufständen prägte die spartanische Politik; im Krieg dienten Heloten auch als Soldaten und Ruderer.
+  themes: [sklaverei-unfreiheit, gesellschaft]
+- id: nauarch
+  name: Nauarch
+  aliases: [Nauarchos, Flottenbefehlshaber]
+  definition: In Sparta der für jeweils ein Jahr bestellte Oberbefehlshaber der Flotte; eine erneute Amtsführung war nach antiken Angaben nicht vorgesehen, weshalb Lysander 405 v. Chr. formal nur als Stellvertreter (epistoleus) eingesetzt wurde.
+  themes: [krieg-militaer]
+- id: thukydides-falle
+  name: Thukydides-Falle
+  aliases: [Thucydides’s Trap]
+  definition: Von dem amerikanischen Politikwissenschaftler Graham Allison geprägtes Schlagwort für die Gefahr eines Krieges, wenn eine aufsteigende Macht eine etablierte herausfordert, abgeleitet aus Thukydides’ Erklärung des Peloponnesischen Krieges; in der Altertumswissenschaft als zu grobe Vereinfachung kritisiert.
+  themes: [politik, geschichtsschreibung]

@@ -1,0 +1,12 @@
+# Staaten: Peloponnesischer Krieg
+- id: peloponnesischer-bund
+  name: Peloponnesischer Bund
+  aliases: [Lakedaimonier und ihre Bundesgenossen, Spartanischer Bund]
+  start: "~-550"
+  end: "-366"
+  spanNote: Der Bund entstand allmählich aus Einzelverträgen Spartas mit Nachbarstädten im 6. Jahrhundert v. Chr.; ein Gründungsdatum gibt es nicht. Nach der spartanischen Niederlage bei Leuktra 371 v. Chr. zerfiel er, um 366/65 v. Chr. gilt er als aufgelöst.
+  capital: sparta
+  summary: Lockeres, von Sparta geführtes Bündnis der meisten Städte der Peloponnes, darunter Korinth, Megara und zeitweise Theben (genauer der Boiotische Bund); die Mitglieder zahlten keine Tribute, waren aber zur Heeresfolge verpflichtet und entschieden in einer Bundesversammlung über Krieg und Frieden.
+  regions: [griechenland]
+  themes: [krieg-militaer, politik]
+  weight: 2

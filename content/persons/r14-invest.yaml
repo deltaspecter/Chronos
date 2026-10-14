@@ -1,0 +1,203 @@
+# Personen: Der Investiturstreit
+- id: gregor-vii
+  name: Gregor VII.
+  aliases: [Hildebrand, Hildebrand von Sovana, Papst Gregor VII.]
+  born: "~1025"
+  died: "1085-05-25"
+  roles: [Papst, Kirchenreformer]
+  summary: Aus der Toskana stammender Kleriker, der als Hildebrand mehreren Reformpäpsten diente und 1073 selbst Papst wurde; mit dem Dictatus Papae und dem Bann gegen Heinrich IV. 1076 verschärfte er den Konflikt um die Rangordnung von Papst und König. Er starb 1085 im Exil in Salerno.
+  regions: [italien]
+  themes: [religion, politik]
+  places: [rom, canossa, salerno]
+- id: heinrich-iv
+  name: Heinrich IV.
+  aliases: [Kaiser Heinrich IV., König Heinrich IV.]
+  born: "1050-11-11"
+  died: "1106-08-07"
+  roles: [römisch-deutscher König, Kaiser]
+  summary: Salischer Herrscher, der 1056 als Kind König wurde, 1076 vom Papst gebannt und abgesetzt wurde und im Januar 1077 in Canossa die Lösung vom Bann erreichte; 1084 ließ er sich vom Gegenpapst Clemens III. zum Kaiser krönen. Von seinem Sohn Heinrich V. 1105 zur Abdankung gezwungen, starb er im Bann in Lüttich.
+  regions: [deutschland, italien]
+  themes: [politik, religion]
+  places: [goslar, worms, canossa, speyer, luettich]
+- id: heinrich-iii
+  name: Heinrich III.
+  aliases: [Kaiser Heinrich III.]
+  born: "1017-10-28"
+  died: "1056-10-05"
+  roles: [römisch-deutscher König, Kaiser]
+  summary: Salischer König seit 1039 und Kaiser seit 1046, ein entschiedener Förderer der Kirchenreform; auf der Synode von Sutri 1046 ließ er drei rivalisierende Päpste absetzen und setzte danach mehrere deutsche Bischöfe als Päpste ein.
+  regions: [deutschland, italien]
+  themes: [politik, religion]
+  places: [sutri, rom, goslar, speyer]
+- id: heinrich-v
+  name: Heinrich V.
+  aliases: [Kaiser Heinrich V.]
+  born: "~1086"
+  died: "1125-05-23"
+  roles: [römisch-deutscher König, Kaiser]
+  summary: Sohn Heinrichs IV., der sich 1104 gegen den Vater erhob und ihn 1105 zur Abdankung zwang; 1111 erpresste er von Papst Paschalis II. das Investiturrecht und die Kaiserkrone, 1122 schloss er mit Calixt II. das Wormser Konkordat. Mit ihm endete die Dynastie der Salier.
+  regions: [deutschland, italien]
+  themes: [politik, religion]
+  places: [sutri, rom, worms]
+- id: leo-ix
+  name: Leo IX.
+  aliases: [Bruno von Egisheim-Dagsburg, Bruno von Toul]
+  born: "1002-06-21"
+  died: "1054-04-19"
+  roles: [Papst, Bischof von Toul]
+  summary: Elsässischer Adliger und Verwandter Heinrichs III., der als Papst (1049–1054) auf zahlreichen Synoden in Italien, Frankreich und Deutschland gegen Simonie und Priesterehe vorging und Reformer wie Humbert und Hildebrand nach Rom holte.
+  regions: [mitteleuropa, italien, frankreich]
+  themes: [religion]
+  places: [rom]
+- id: nikolaus-ii-papst
+  name: Nikolaus II. (Papst)
+  aliases: [Gerhard von Burgund, Papst Nikolaus II.]
+  died: "1061-07-27"
+  roles: [Papst]
+  summary: Papst von 1059 bis 1061, unter dem die Lateransynode 1059 das Papstwahldekret beschloss; im selben Jahr belehnte er in Melfi die normannischen Fürsten Süditaliens und gewann sie als Schutzmacht des Papsttums.
+  regions: [italien]
+  themes: [religion, politik]
+  places: [rom]
+- id: humbert-von-silva-candida
+  name: Humbert von Silva Candida
+  aliases: [Humbert von Moyenmoutier, Kardinal Humbert]
+  born: "~1006"
+  died: "1061-05-05"
+  roles: [Kardinalbischof, Kirchenreformer]
+  summary: Lothringischer Mönch, den Leo IX. zum Kardinal machte; er verfasste die schärfste frühe Kampfschrift gegen die Simonie und legte 1054 in Konstantinopel die Bannbulle gegen den Patriarchen Michael Kerullarios auf den Altar der Hagia Sophia.
+  regions: [mitteleuropa, italien]
+  themes: [religion]
+  places: [rom]
+- id: petrus-damiani
+  name: Petrus Damiani
+  aliases: [Pier Damiani, Peter Damian]
+  born: "~1007"
+  died: "1072-02-22"
+  roles: [Kardinalbischof, Eremit, Kirchenreformer]
+  summary: Eremit aus Ravenna und Kardinalbischof von Ostia, der in zahlreichen Schriften Simonie und Priesterehe geißelte, zugleich aber an einem einvernehmlichen Zusammenwirken von Papst und Kaiser festhielt.
+  regions: [italien]
+  themes: [religion]
+- id: hugo-von-cluny
+  name: Hugo von Cluny
+  aliases: [Hugo von Semur, Hugo der Große]
+  born: "1024"
+  died: "1109-04-28"
+  roles: [Abt von Cluny]
+  summary: Abt von Cluny von 1049 bis 1109, unter dem der Klosterverband seine größte Ausdehnung erreichte; als Taufpate Heinrichs IV. vermittelte er 1077 in Canossa zwischen König und Papst.
+  regions: [frankreich]
+  themes: [religion]
+  places: [cluny, canossa]
+- id: mathilde-von-tuszien
+  name: Mathilde von Tuszien
+  aliases: [Mathilde von Canossa, Markgräfin Mathilde]
+  born: "~1046"
+  died: "1115-07-24"
+  roles: [Markgräfin]
+  summary: Herrin der Mark Tuszien und weiter Gebiete in Ober- und Mittelitalien, die Gregor VII. und seine Nachfolger politisch und militärisch unterstützte; auf ihrer Burg Canossa fand 1077 die Begegnung von König und Papst statt.
+  regions: [italien]
+  themes: [politik, religion]
+  places: [canossa]
+- id: agnes-von-poitou
+  name: Agnes von Poitou
+  aliases: [Kaiserin Agnes]
+  born: "~1025"
+  died: "1077-12-14"
+  roles: [Kaiserin, Regentin]
+  summary: Zweite Ehefrau Heinrichs III. und Mutter Heinrichs IV., für den sie nach 1056 die Regentschaft führte, bis Erzbischof Anno von Köln 1062 den jungen König bei Kaiserswerth entführte; sie lebte danach als fromme Witwe meist in Rom.
+  regions: [deutschland, frankreich, italien]
+  themes: [politik, religion]
+- id: rudolf-von-rheinfelden
+  name: Rudolf von Rheinfelden
+  aliases: [Rudolf von Schwaben]
+  born: "~1025"
+  died: "1080-10"
+  roles: [Herzog von Schwaben, Gegenkönig]
+  summary: Herzog von Schwaben, den oppositionelle Fürsten im März 1077 in Forchheim zum Gegenkönig gegen Heinrich IV. wählten; er verlor in der Schlacht an der Elster im Oktober 1080 die rechte Hand und starb kurz darauf an der Verwundung.
+  regions: [deutschland]
+  themes: [politik, krieg-militaer]
+  places: [forchheim, mainz, merseburg]
+- id: hermann-von-salm
+  name: Hermann von Salm
+  aliases: [Hermann von Luxemburg]
+  died: "1088-09-28"
+  roles: [Gegenkönig]
+  summary: Lothringischer Graf, der 1081 nach dem Tod Rudolfs von Rheinfelden von der sächsisch-schwäbischen Opposition zum Gegenkönig gewählt wurde, aber kaum eigene Machtbasis besaß und sich 1088 in seine Heimat zurückzog.
+  regions: [deutschland]
+  themes: [politik]
+- id: clemens-iii-gegenpapst
+  name: Clemens III. (Gegenpapst)
+  aliases: [Wibert von Ravenna, Guibert von Ravenna]
+  born: "~1025"
+  died: "1100-09-08"
+  roles: [Erzbischof von Ravenna, Gegenpapst]
+  summary: Erzbischof von Ravenna, den die Synode von Brixen 1080 auf Betreiben Heinrichs IV. gegen Gregor VII. zum Papst erhob; 1084 krönte er Heinrich in Rom zum Kaiser und behauptete sich über zwei Jahrzehnte gegen die Reformpäpste.
+  regions: [italien]
+  themes: [religion, politik]
+  places: [brixen, rom]
+- id: robert-guiskard
+  name: Robert Guiskard
+  aliases: [Robert Guiscard, Robert von Hauteville]
+  born: "~1015"
+  died: "1085-07-17"
+  roles: [Herzog von Apulien und Kalabrien]
+  summary: Normannischer Eroberer Süditaliens, den Papst Nikolaus II. 1059 als Herzog belehnte; 1084 befreite er Gregor VII. aus der von Heinrich IV. belagerten Engelsburg, wobei seine Truppen Rom schwer plünderten.
+  regions: [italien]
+  themes: [krieg-militaer, politik]
+  places: [rom, salerno]
+- id: paschalis-ii
+  name: Paschalis II.
+  aliases: [Ranierius, Papst Paschalis II.]
+  died: "1118-01-21"
+  roles: [Papst]
+  summary: Papst von 1099 bis 1118, der 1111 mit Heinrich V. einen radikalen Verzicht der Bischöfe auf ihre weltlichen Güter vereinbarte; nach dem Scheitern geriet er in Gefangenschaft und gestand dem König die Investitur zu, was eine Synode 1112 widerrief.
+  regions: [italien]
+  themes: [religion, politik]
+  places: [rom, sutri]
+- id: calixt-ii
+  name: Calixt II.
+  aliases: [Guido von Vienne, Kalixt II., Papst Calixt II.]
+  died: "1124-12-13"
+  roles: [Papst, Erzbischof von Vienne]
+  summary: Aus dem burgundischen Hochadel stammender Erzbischof von Vienne und Papst von 1119 bis 1124, der 1122 mit Heinrich V. das Wormser Konkordat schloss und es 1123 vom Ersten Laterankonzil bestätigen ließ.
+  regions: [frankreich, italien]
+  themes: [religion, politik]
+  places: [worms, rom]
+- id: anselm-von-canterbury
+  name: Anselm von Canterbury
+  aliases: [Anselm von Aosta, Anselm von Bec]
+  born: "~1033"
+  died: "1109-04-21"
+  roles: [Erzbischof von Canterbury, Theologe, Abt]
+  summary: Aus Aosta stammender Mönch und Abt von Bec in der Normandie, seit 1093 Erzbischof von Canterbury; er geriet mit König Wilhelm II. über die Rechte der Kirche und die Anerkennung Papst Urbans II., mit Heinrich I. über die Investitur in Konflikt und ging zweimal ins Exil. Als Theologe begründete er die Scholastik mit.
+  regions: [britische-inseln, frankreich, italien]
+  themes: [religion, wissenschaft-technik]
+  places: [canterbury, london]
+- id: heinrich-i-england
+  name: Heinrich I. von England
+  aliases: [Henry I, Heinrich Beauclerc]
+  born: "~1068"
+  died: "1135-12-01"
+  roles: [König von England, Herzog der Normandie]
+  summary: Jüngster Sohn Wilhelms des Eroberers, König von England seit 1100; im Konkordat von London 1107 verzichtete er auf die Investitur mit Ring und Stab, behielt aber den Lehnseid der Bischöfe vor ihrer Weihe.
+  regions: [britische-inseln, frankreich]
+  themes: [politik]
+  places: [london]
+- id: lampert-von-hersfeld
+  name: Lampert von Hersfeld
+  aliases: [Lambert von Hersfeld]
+  born: "~1028"
+  died: "~1082"
+  roles: [Mönch, Geschichtsschreiber]
+  summary: Mönch im Kloster Hersfeld, dessen bis 1077 reichende Annalen die anschaulichste und zugleich am stärksten gegen Heinrich IV. gerichtete Schilderung der Jahre vor und nach Canossa bieten.
+  regions: [deutschland]
+  themes: [geschichtsschreibung, religion]
+- id: wilhelm-von-aquitanien
+  name: Wilhelm I. von Aquitanien
+  aliases: [Wilhelm der Fromme]
+  born: "~875"
+  died: "918-07-06"
+  roles: [Herzog von Aquitanien, Graf von Auvergne]
+  summary: Fürst in Südfrankreich, der 910 das Kloster Cluny stiftete und es unmittelbar dem Papst unterstellte, um es dem Zugriff weltlicher Herren zu entziehen.
+  regions: [frankreich]
+  themes: [religion, politik]
+  places: [cluny]

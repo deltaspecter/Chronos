@@ -1,0 +1,35 @@
+# Begriffe: Die Perserkriege
+- id: hoplit
+  name: Hoplit
+  aliases: [Hopliten, Hoplitenphalanx, Phalanx]
+  definition: Schwer bewaffneter griechischer Fußsoldat mit großem Rundschild, Helm, Panzer und Stoßlanze, der in der geschlossenen Formation der Phalanx kämpfte; Hopliten waren Bürger, die ihre Ausrüstung selbst bezahlten.
+  themes: [krieg-militaer, gesellschaft]
+- id: triere
+  name: Triere
+  aliases: [Trireme, Trieren, Dreiruderer]
+  definition: Kriegsschiff mit drei übereinanderliegenden Ruderreihen und rund 170 Ruderern, das mit einem Rammsporn kämpfte; die Hauptwaffe der Seeschlachten des 5. Jahrhunderts v. Chr. In Athen ruderten vor allem ärmere Bürger, was ihr politisches Gewicht stärkte.
+  themes: [krieg-militaer, wissenschaft-technik]
+- id: medismos
+  name: Medismos
+  aliases: [Medisieren, Medismus]
+  definition: Griechischer Vorwurf, mit den Persern (den „Medern“) zusammenzuarbeiten oder sich ihnen zu unterwerfen; nach 479 v. Chr. ein schwerer politischer Vorwurf, der etwa gegen Theben, Pausanias und Themistokles erhoben wurde.
+  themes: [politik]
+- id: erde-und-wasser
+  name: Erde und Wasser
+  definition: Zeichen der Unterwerfung unter den persischen Großkönig, das persische Gesandte nach griechischer Überlieferung von Städten forderten; was die Übergabe aus persischer Sicht rechtlich bedeutete, ist in der Forschung umstritten.
+  themes: [politik, imperien]
+- id: barbaren
+  name: Barbaren
+  aliases: [Barbaroi, barbaros]
+  definition: Griechische Bezeichnung für alle Menschen, die nicht Griechisch sprachen; ursprünglich wertneutral, nach den Perserkriegen zunehmend abwertend als Gegenbild zum freien Griechen verwendet.
+  themes: [gesellschaft, kultur-kunst]
+- id: phoros
+  name: Phoros
+  aliases: [Tribut des Seebundes]
+  definition: Jährliche Geldzahlung der Mitglieder des Attischen Seebundes, die keine eigenen Schiffe stellten; 478/77 v. Chr. von Aristeides auf insgesamt 460 Talente festgesetzt und von athenischen Beamten (Hellenotamiai) verwaltet.
+  themes: [wirtschaft-handel, imperien]
+- id: yauna
+  name: Yauna
+  aliases: [Yaunā, Ionier (altpersisch)]
+  definition: Altpersische Bezeichnung für Ionier, im weiteren Sinn für Griechen; die Yauna erscheinen in den Länderlisten der Achämenideninschriften und als Arbeitskräfte in den Verwaltungstexten von Persepolis.
+  themes: [imperien, schrift-medien]

@@ -1,0 +1,190 @@
+# Quellen und Literatur: Die Perserkriege
+
+# --- Primärquellen ---
+- id: q-xerxes-daiva-inschrift
+  kind: primaer
+  authors: ["Xerxes I."]
+  title: Daiva-Inschrift des Xerxes (XPh)
+  written: Persepolis, nach 486 v. Chr.
+  note: Dreisprachige Gründungsinschrift aus Persepolis (Altpersisch, Elamisch, Babylonisch), in der Xerxes die Länder seines Reiches aufzählt, darunter Gruppen von Ioniern, und die Zerstörung eines Heiligtums falscher Götter (daiva) verkündet; Griechenlandfeldzug und Niederlagen erwähnt sie nicht.
+- id: q-dareios-naqsch-e-rostam
+  kind: primaer
+  authors: ["Dareios I."]
+  title: Grabinschriften des Dareios in Naqsch-e Rostam (DNa, DNb)
+  written: Naqsch-e Rostam (Persis), um 500–486 v. Chr.
+  note: Inschriften an der Felsfassade des Königsgrabes; sie zählen die dem König untertanen Länder auf, darunter die Yauna (Ionier), und beschreiben die Tugenden des idealen Herrschers.
+- id: q-schlangensaeule
+  kind: primaer
+  title: Schlangensäule von Delphi
+  written: Delphi, kurz nach 479 v. Chr.
+  note: Bronzenes Siegesweihgeschenk der Griechen nach Plataiai, auf dessen Windungen die Namen von 31 Gemeinwesen stehen, die gegen die Perser gekämpft hatten; unter Konstantin nach Konstantinopel gebracht, der Rest steht heute im Hippodrom von Istanbul.
+- id: q-themistokles-dekret
+  kind: primaer
+  title: Themistokles-Dekret von Troizen
+  written: Inschrift des 3. Jh. v. Chr., angeblich Beschluss von 480 v. Chr.
+  note: 1959 in Troizen gefundene Inschrift, die den athenischen Beschluss zur Räumung Attikas und zur Bemannung der Flotte wiedergeben will; ob sie ein echtes Dokument von 480 v. Chr. oder eine spätere Rekonstruktion bewahrt, ist umstritten.
+- id: q-diodor
+  kind: primaer
+  authors: ["Diodor von Sizilien"]
+  title: Bibliotheke (Historische Bibliothek)
+  written: 1. Jh. v. Chr.
+  note: Universalgeschichte, deren Bücher 11 und 12 die Zeit nach 480 v. Chr. behandeln; Diodor schöpft vor allem aus dem verlorenen Werk des Ephoros und überliefert als einzige erzählende Quelle Bestimmungen des Kalliasfriedens.
+- id: q-plutarch-malignitate
+  kind: primaer
+  authors: ["Plutarch"]
+  title: Über die Böswilligkeit Herodots (De Herodoti malignitate)
+  written: um 100 n. Chr.
+  note: Streitschrift, in der Plutarch Herodot vorwirft, die Leistungen griechischer Städte, besonders seiner Heimat Boiotien, herabgesetzt und den Barbaren zu viel Sympathie entgegengebracht zu haben.
+
+# --- Editionen und Übersetzungen ---
+- id: strassler-2007
+  kind: edition
+  editors: ["Strassler, Robert B."]
+  authors: ["Herodot"]
+  title: The Landmark Herodotus
+  subtitle: The Histories
+  note: Englische Übersetzung von Andrea L. Purvis mit Karten und Erläuterungen.
+  place: New York
+  publisher: Pantheon Books
+  year: 2007
+- id: schmitt-2009
+  kind: edition
+  authors: ["Schmitt, Rüdiger"]
+  title: Die altpersischen Inschriften der Achaimeniden
+  subtitle: Editio minor mit deutscher Übersetzung
+  place: Wiesbaden
+  publisher: Reichert
+  year: 2009
+- id: hallock-1969
+  kind: edition
+  authors: ["Hallock, Richard T."]
+  title: Persepolis Fortification Tablets
+  series: Oriental Institute Publications 92
+  place: Chicago
+  publisher: University of Chicago Press
+  year: 1969
+- id: meiggs-lewis-1988
+  kind: edition
+  editors: ["Meiggs, Russell", "Lewis, David"]
+  title: A Selection of Greek Historical Inscriptions to the End of the Fifth Century B.C.
+  edition: Revidierte Auflage
+  place: Oxford
+  publisher: Clarendon Press
+  year: 1988
+
+# --- Forschung ---
+- id: burn-1962
+  kind: sekundaer
+  authors: ["Burn, Andrew Robert"]
+  title: Persia and the Greeks
+  subtitle: The Defence of the West, c. 546–478 B.C.
+  place: London
+  publisher: Edward Arnold
+  year: 1962
+- id: lazenby-1993
+  kind: sekundaer
+  authors: ["Lazenby, John Francis"]
+  title: The Defence of Greece 490–479 B.C.
+  place: Warminster
+  publisher: Aris & Phillips
+  year: 1993
+- id: green-1996
+  kind: sekundaer
+  authors: ["Green, Peter"]
+  title: The Greco-Persian Wars
+  place: Berkeley / Los Angeles
+  publisher: University of California Press
+  year: 1996
+- id: cawkwell-2005
+  kind: sekundaer
+  authors: ["Cawkwell, George"]
+  title: The Greek Wars
+  subtitle: The Failure of Persia
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2005
+- id: will-2010
+  kind: sekundaer
+  authors: ["Will, Wolfgang"]
+  title: Die Perserkriege
+  place: München
+  publisher: C. H. Beck
+  year: 2010
+- id: cartledge-2006
+  kind: sekundaer
+  authors: ["Cartledge, Paul"]
+  title: Thermopylae
+  subtitle: The Battle That Changed the World
+  place: London
+  publisher: Macmillan
+  year: 2006
+- id: meiggs-1972
+  kind: sekundaer
+  authors: ["Meiggs, Russell"]
+  title: The Athenian Empire
+  place: Oxford
+  publisher: Clarendon Press
+  year: 1972
+- id: badian-1993
+  kind: sekundaer
+  authors: ["Badian, Ernst"]
+  title: From Plataea to Potidaea
+  subtitle: Studies in the History and Historiography of the Pentecontaetia
+  place: Baltimore
+  publisher: Johns Hopkins University Press
+  year: 1993
+- id: raaflaub-1985
+  kind: sekundaer
+  authors: ["Raaflaub, Kurt"]
+  title: Die Entdeckung der Freiheit
+  subtitle: Zur historischen Semantik und Gesellschaftsgeschichte eines politischen Grundbegriffes der Griechen
+  place: München
+  publisher: C. H. Beck
+  year: 1985
+- id: hall-1989
+  kind: sekundaer
+  authors: ["Hall, Edith"]
+  title: Inventing the Barbarian
+  subtitle: Greek Self-Definition through Tragedy
+  place: Oxford
+  publisher: Clarendon Press
+  year: 1989
+- id: hartog-1980
+  kind: sekundaer
+  authors: ["Hartog, François"]
+  title: Le miroir d'Hérodote
+  subtitle: Essai sur la représentation de l'autre
+  place: Paris
+  publisher: Gallimard
+  year: 1980
+- id: fehling-1971
+  kind: sekundaer
+  authors: ["Fehling, Detlev"]
+  title: Die Quellenangaben bei Herodot
+  subtitle: Studien zur Erzählkunst Herodots
+  place: Berlin / New York
+  publisher: de Gruyter
+  year: 1971
+- id: pritchett-1993
+  kind: sekundaer
+  authors: ["Pritchett, W. Kendrick"]
+  title: The Liar School of Herodotos
+  place: Amsterdam
+  publisher: J. C. Gieben
+  year: 1993
+- id: bichler-2000
+  kind: sekundaer
+  authors: ["Bichler, Reinhold"]
+  title: Herodots Welt
+  subtitle: Der Aufbau der Historie am Bild der fremden Länder und Völker, ihrer Zivilisation und ihrer Geschichte
+  place: Berlin
+  publisher: Akademie Verlag
+  year: 2000
+- id: lewis-1980
+  kind: sekundaer
+  authors: ["Lewis, David M."]
+  title: Datis the Mede
+  container: Journal of Hellenic Studies
+  volume: 100
+  pages: 194–195
+  year: 1980

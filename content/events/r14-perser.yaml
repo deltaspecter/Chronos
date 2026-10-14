@@ -1,0 +1,157 @@
+# Ereignisse: Die Perserkriege
+- id: brand-von-sardes
+  title: Brand von Sardes
+  date: "-498"
+  weight: 3
+  kind: ereignis
+  summary: Ionische Aufständische und ein athenisch-eretrisches Hilfskontingent erobern die Unterstadt von Sardes, die dabei mitsamt einem Heiligtum der Göttin Kybebe niederbrennt; nach Herodot der Anlass für Dareios' Rachepläne gegen Athen.
+  regions: [anatolien]
+  themes: [krieg-militaer]
+  places: [sardes]
+  persons: [aristagoras, artaphernes]
+  polities: [achaemenidenreich, athen-polis]
+- id: schlacht-bei-lade
+  title: Seeschlacht bei Lade und Fall Milets
+  date: "-494"
+  weight: 2
+  kind: schlacht
+  summary: Die persische Flotte, gestellt vor allem von Phöniziern, Zyprern und Ägyptern, besiegt die ionische Flotte vor Milet, nachdem die Samier und andere Kontingente abgezogen sind; Milet wird erobert, ein Teil der Bewohner nach Mesopotamien umgesiedelt.
+  regions: [anatolien]
+  themes: [krieg-militaer]
+  places: [lade, milet]
+  polities: [achaemenidenreich]
+- id: feldzug-des-mardonios
+  title: Feldzug des Mardonios nach Thrakien und Makedonien
+  date: "-492"
+  weight: 3
+  kind: krieg
+  summary: Mardonios sichert die persische Herrschaft in Thrakien und unterwirft Makedonien; ein großer Teil seiner Flotte geht nach Herodot in einem Sturm am Berg Athos verloren.
+  regions: [suedosteuropa, griechenland]
+  themes: [krieg-militaer, imperien]
+  persons: [mardonios, dareios-i]
+  polities: [achaemenidenreich]
+- id: flottenbau-des-themistokles
+  title: Flottenbau des Themistokles
+  date: "~-483"
+  certainty: wahrscheinlich
+  weight: 2
+  kind: entwicklung
+  summary: Auf Antrag des Themistokles verwendet Athen die Erträge eines neu erschlossenen Silbervorkommens in den Minen von Laureion für den Bau von rund 200 Trieren – nach Herodot zunächst für den Krieg gegen Aigina gedacht.
+  regions: [griechenland]
+  themes: [krieg-militaer, wirtschaft-handel]
+  places: [athen, piraeus]
+  persons: [themistokles]
+  polities: [athen-polis]
+- id: gruendung-hellenenbund
+  title: Gründung des Hellenenbundes am Isthmos
+  date: "-481"
+  weight: 3
+  kind: vertrag
+  summary: Vertreter griechischer Poleis beschließen am Isthmos von Korinth ein Bündnis gegen Xerxes unter spartanischer Führung und legen untereinander Fehden bei.
+  regions: [griechenland]
+  themes: [politik, krieg-militaer]
+  places: [korinth]
+  polities: [hellenenbund, sparta-polis, athen-polis]
+- id: feldzug-des-xerxes
+  title: Griechenlandfeldzug des Xerxes
+  start: "-480"
+  end: "-479"
+  weight: 1
+  kind: krieg
+  summary: Xerxes I. überquert mit Heer und Flotte auf Schiffsbrücken den Hellespont und zieht durch Thrakien, Makedonien und Thessalien nach Mittelgriechenland; nach der Niederlage bei Salamis kehrt er nach Asien zurück, das zurückgelassene Landheer unterliegt 479 v. Chr. bei Plataiai.
+  regions: [griechenland, anatolien]
+  themes: [krieg-militaer, imperien]
+  places: [hellespont, thermopylen, athen, salamis, plataiai]
+  persons: [xerxes-i, mardonios]
+  polities: [achaemenidenreich, hellenenbund]
+- id: schlacht-bei-thermopylen
+  title: Schlacht an den Thermopylen
+  date: "-480"
+  weight: 2
+  kind: schlacht
+  summary: Ein griechisches Heer unter dem Spartanerkönig Leonidas verteidigt mehrere Tage den Engpass gegen das Heer des Xerxes; nachdem persische Truppen auf einem Bergpfad die Stellung umgangen haben, fallen Leonidas, seine Spartiaten und die bei ihm gebliebenen Thespier; die Thebaner ergeben sich nach Herodot.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+  places: [thermopylen]
+  persons: [leonidas-i, xerxes-i]
+  polities: [hellenenbund, sparta-polis, achaemenidenreich]
+- id: schlacht-bei-artemision
+  title: Seeschlacht bei Artemision
+  date: "-480"
+  weight: 3
+  kind: schlacht
+  summary: Gleichzeitig mit den Kämpfen an den Thermopylen kämpft die griechische Flotte drei Tage lang vor Nordeuböa ohne klare Entscheidung gegen die persische Flotte und zieht sich nach dem Fall der Thermopylen nach Salamis zurück.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+  places: [artemision]
+  persons: [themistokles]
+  polities: [hellenenbund, achaemenidenreich]
+- id: besetzung-athens-480
+  title: Persische Besetzung Athens
+  date: "-480"
+  weight: 3
+  kind: ereignis
+  summary: Die Athener räumen Attika und bringen Frauen, Kinder und Alte nach Troizen, Aigina und Salamis; das persische Heer nimmt die Akropolis ein und brennt ihre Heiligtümer nieder.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+  places: [athen, akropolis, salamis]
+  persons: [xerxes-i, themistokles]
+  polities: [athen-polis, achaemenidenreich]
+- id: schlacht-bei-plataiai
+  title: Schlacht bei Plataiai
+  date: "-479"
+  weight: 2
+  kind: schlacht
+  summary: Das griechische Landheer unter dem Spartaner Pausanias besiegt das persische Heer des Mardonios, der in der Schlacht fällt; damit endet der persische Feldzug im griechischen Mutterland.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+  places: [plataiai]
+  persons: [pausanias-regent, mardonios, aristeides]
+  polities: [hellenenbund, sparta-polis, athen-polis, achaemenidenreich]
+- id: schlacht-bei-mykale
+  title: Schlacht bei Mykale
+  date: "-479"
+  weight: 2
+  kind: schlacht
+  summary: Eine griechische Flotte unter Leotychidas landet an der kleinasiatischen Küste und erstürmt das persische Lager, nach Herodot am selben Tag wie die Schlacht bei Plataiai; danach fallen Samos und andere ionische Städte von Persien ab.
+  regions: [anatolien]
+  themes: [krieg-militaer]
+  places: [mykale]
+  persons: [leotychidas-ii]
+  polities: [hellenenbund, achaemenidenreich]
+- id: schlacht-am-eurymedon
+  title: Schlacht am Eurymedon
+  date: "~-466"
+  certainty: wahrscheinlich
+  weight: 3
+  kind: schlacht
+  summary: Die Flotte des Attischen Seebundes unter Kimon besiegt an der Mündung des Eurymedon in Pamphylien eine persische Flotte und ein Landheer; das genaue Jahr ist unsicher, vorgeschlagen werden Daten zwischen 469 und 466 v. Chr.
+  regions: [anatolien, mittelmeer]
+  themes: [krieg-militaer]
+  places: [eurymedon]
+  persons: [kimon]
+  polities: [attischer-seebund, achaemenidenreich]
+- id: aegyptenexpedition-athens
+  title: Athenische Expedition nach Ägypten
+  start: "~-460"
+  end: "~-454"
+  certainty: wahrscheinlich
+  weight: 3
+  kind: krieg
+  summary: Athen und seine Verbündeten unterstützen den Aufstand des Libyers Inaros gegen die persische Herrschaft in Ägypten; das Unternehmen endet nach Thukydides mit einer schweren Niederlage auf einer Nilinsel.
+  regions: [aegypten, mittelmeer]
+  themes: [krieg-militaer]
+  persons: [artaxerxes-i]
+  polities: [attischer-seebund, achaemenidenreich]
+- id: kalliasfrieden
+  title: Kalliasfrieden
+  date: "~-449"
+  certainty: umstritten
+  weight: 2
+  kind: vertrag
+  summary: Nach Diodor und Rednern des 4. Jahrhunderts v. Chr. ein von Kallias ausgehandelter Vertrag zwischen Athen und dem Großkönig, der den griechischen Städten Kleinasiens Autonomie zusicherte und persische Flotten aus der Ägäis fernhielt; Thukydides erwähnt ihn nicht, seine Historizität ist seit der Antike umstritten.
+  regions: [griechenland, anatolien, iran]
+  themes: [politik]
+  places: [susa]
+  persons: [kallias-ii, artaxerxes-i]
+  polities: [athen-polis, attischer-seebund, achaemenidenreich]

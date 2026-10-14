@@ -1,0 +1,108 @@
+# Quellen und Literatur: Peloponnesischer Krieg
+
+# --- Primärquellen ---
+- id: q-xenophon-hellenika
+  kind: primaer
+  authors: ["Xenophon"]
+  title: Hellenika (Griechische Geschichte)
+  written: Athen bzw. Exil auf der Peloponnes, 1. Hälfte des 4. Jahrhunderts v. Chr.
+  note: Fortsetzung des Thukydides von 411 bis 362 v. Chr. durch einen Zeitgenossen mit spartafreundlicher Haltung; Hauptquelle für das Kriegsende, Aigospotamoi, die Kapitulation Athens und die Herrschaft der Dreißig.
+- id: q-aristophanes
+  kind: primaer
+  authors: ["Aristophanes"]
+  title: Komödien (u. a. Acharner, Ritter, Frieden, Lysistrate, Frösche)
+  written: Athen, 425–405 v. Chr.
+  note: Während des Krieges an den Dionysosfesten aufgeführte Stücke, die Politiker wie Kleon verspotten, das Leiden der vertriebenen Landbevölkerung und die Kriegsmüdigkeit zeigen; als Komödien überzeichnet und nur mit Vorsicht als Tatsachenquelle zu lesen.
+- id: q-hellenika-oxyrhynchia
+  kind: primaer
+  authors: ["Unbekannter Historiker"]
+  title: Hellenika Oxyrhynchia
+  written: 4. Jahrhundert v. Chr.; Papyrusfunde aus Oxyrhynchos (Ägypten), veröffentlicht ab 1908
+  note: Bruchstücke eines verlorenen Geschichtswerks, das ebenfalls an Thukydides anschloss; es weicht in Einzelheiten, etwa zur Schlacht bei Notion, von Xenophon ab und war wohl über den Historiker Ephoros eine mittelbare Vorlage Diodors.
+
+# --- Editionen / Übersetzungen ---
+- id: strassler-1996
+  kind: edition
+  editors: ["Strassler, Robert B."]
+  title: The Landmark Thucydides
+  subtitle: A Comprehensive Guide to the Peloponnesian War
+  place: New York
+  publisher: Free Press
+  year: 1996
+  note: Übersetzung von Richard Crawley mit Karten, Anhängen und Erläuterungen.
+
+# --- Forschung ---
+- id: kagan-2003
+  kind: sekundaer
+  authors: ["Kagan, Donald"]
+  title: The Peloponnesian War
+  place: New York
+  publisher: Viking
+  year: 2003
+- id: de-ste-croix-1972
+  kind: sekundaer
+  authors: ["de Ste. Croix, Geoffrey E. M."]
+  title: The Origins of the Peloponnesian War
+  place: London
+  publisher: Duckworth
+  year: 1972
+- id: hornblower-1991
+  kind: sekundaer
+  authors: ["Hornblower, Simon"]
+  title: A Commentary on Thucydides
+  subtitle: Volume I – Books I–III
+  place: Oxford
+  publisher: Clarendon Press
+  year: 1991
+- id: lewis-1977
+  kind: sekundaer
+  authors: ["Lewis, David M."]
+  title: Sparta and Persia
+  place: Leiden
+  publisher: Brill
+  year: 1977
+- id: lendon-2010
+  kind: sekundaer
+  authors: ["Lendon, J. E."]
+  title: Song of Wrath
+  subtitle: The Peloponnesian War Begins
+  place: New York
+  publisher: Basic Books
+  year: 2010
+- id: tritle-2010
+  kind: sekundaer
+  authors: ["Tritle, Lawrence A."]
+  title: A New History of the Peloponnesian War
+  place: Malden, Mass.
+  publisher: Wiley-Blackwell
+  year: 2010
+- id: bleckmann-2007
+  kind: sekundaer
+  authors: ["Bleckmann, Bruno"]
+  title: Der Peloponnesische Krieg
+  place: München
+  publisher: C. H. Beck
+  year: 2007
+- id: schulz-2003
+  kind: sekundaer
+  authors: ["Schulz, Raimund"]
+  title: Athen und Sparta
+  place: Darmstadt
+  publisher: Wissenschaftliche Buchgesellschaft
+  year: 2003
+- id: will-2003
+  kind: sekundaer
+  authors: ["Will, Wolfgang"]
+  title: Thukydides und Perikles
+  subtitle: Der Historiker und sein Held
+  place: Bonn
+  publisher: Habelt
+  year: 2003
+- id: allison-2017
+  kind: sekundaer
+  authors: ["Allison, Graham"]
+  title: Destined for War
+  subtitle: Can America and China Escape Thucydides’s Trap?
+  place: Boston
+  publisher: Houghton Mifflin Harcourt
+  year: 2017

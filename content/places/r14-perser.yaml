@@ -1,0 +1,120 @@
+# Orte: Die Perserkriege
+- id: milet
+  name: Milet
+  aliases: [Miletos, Miletus]
+  coords: [27.2780, 37.5300]
+  categories: [stadt, hafen, fundstaette]
+  modernName: Balat (Provinz Aydın, Türkei)
+  summary: Bedeutendste griechische Stadt Ioniens und Mutterstadt zahlreicher Kolonien am Schwarzen Meer; Ausgangspunkt des Ionischen Aufstands, 494 v. Chr. von den Persern erobert und zerstört.
+  regions: [anatolien]
+  themes: [handelsnetze, krieg-militaer]
+- id: lade
+  name: Lade
+  coords: [27.2400, 37.5000]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Hügel in der verlandeten Mäanderebene westlich von Milet (Türkei)
+  summary: Einstige Insel vor Milet, bei der 494 v. Chr. die persische Flotte die Flotte der aufständischen Ionier besiegte; durch die Ablagerungen des Mäander liegt sie heute im Binnenland.
+  regions: [anatolien]
+  themes: [krieg-militaer]
+- id: naxos
+  name: Naxos
+  coords: [25.3760, 37.1040]
+  categories: [stadt, region]
+  modernName: Naxos (Kykladen, Griechenland)
+  summary: Größte Insel der Kykladen; ein gescheiterter persisch-milesischer Angriff 499 v. Chr. ging dem Ionischen Aufstand voraus, 490 v. Chr. wurde die Insel von Datis erobert, um 470 v. Chr. von Athen nach einem Abfall aus dem Seebund unterworfen.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+- id: eretria
+  name: Eretria
+  coords: [23.7920, 38.3960]
+  categories: [stadt, fundstaette]
+  modernName: Eretria (Euböa, Griechenland)
+  summary: Stadt auf Euböa, die den Ionischen Aufstand mit fünf Schiffen unterstützte; 490 v. Chr. von den Persern nach Verrat eingenommen, die Bewohner wurden nach Herodot ins Innere des Perserreiches verschleppt.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+- id: thermopylen
+  name: Thermopylen
+  aliases: [Thermopylai, Thermopylae]
+  coords: [22.5361, 38.7968]
+  categories: [schlachtfeld]
+  modernName: Thermopyles (Phthiotis, Griechenland)
+  summary: Enger Durchgang zwischen Gebirge und Meer in Mittelgriechenland, an dem 480 v. Chr. ein griechisches Heer unter Leonidas das Heer des Xerxes aufhielt; durch Verlandung liegt die Küstenlinie heute mehrere Kilometer weiter entfernt.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+- id: artemision
+  name: Kap Artemision
+  aliases: [Artemision, Artemisium]
+  coords: [23.2400, 39.0000]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Nordküste Euböas (Griechenland)
+  summary: Küste im Norden Euböas, vor der die griechische Flotte 480 v. Chr. gleichzeitig mit der Schlacht an den Thermopylen drei Tage lang gegen die persische Flotte kämpfte.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+- id: plataiai
+  name: Plataiai
+  aliases: [Platää, Plataea, Plataiä]
+  coords: [23.2730, 38.2180]
+  categories: [stadt, schlachtfeld]
+  modernName: Plataies (Boiotien, Griechenland)
+  summary: Kleine boiotische Stadt, Verbündete Athens, die 490 v. Chr. Truppen nach Marathon schickte; vor ihren Mauern besiegte 479 v. Chr. das griechische Heer das persische Landheer unter Mardonios.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+- id: mykale
+  name: Mykale
+  aliases: [Mykale-Gebirge]
+  coords: [27.2000, 37.6500]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Dilek-Halbinsel bzw. Samsun Dağı (Türkei)
+  summary: Gebirge an der kleinasiatischen Küste gegenüber Samos, an dessen Fuß eine griechische Flotte 479 v. Chr. das persische Lager stürmte; danach fielen die ionischen Städte von Persien ab.
+  regions: [anatolien]
+  themes: [krieg-militaer]
+- id: hellespont
+  name: Hellespont
+  aliases: [Dardanellen, Çanakkale Boğazı]
+  coords: [26.4000, 40.2000]
+  location: ungefaehr
+  categories: [region]
+  modernName: Dardanellen (Türkei)
+  summary: Meerenge zwischen Europa und Asien, die Xerxes 480 v. Chr. mit zwei Schiffsbrücken überquerte; die Kontrolle über sie und über die Getreideroute zum Schwarzen Meer war ein Hauptziel der griechischen Kriegsführung nach 479 v. Chr.
+  regions: [anatolien, suedosteuropa]
+  themes: [handelsnetze, krieg-militaer]
+- id: halikarnassos
+  name: Halikarnassos
+  aliases: [Halikarnass, Halicarnassus]
+  coords: [27.4240, 37.0380]
+  categories: [stadt, hafen]
+  modernName: Bodrum (Türkei)
+  summary: Griechisch-karische Stadt im Südwesten Kleinasiens unter persischer Oberhoheit, Heimat Herodots und der Herrscherin Artemisia; im 4. Jahrhundert v. Chr. Sitz des Maussolos und seines Grabmals.
+  regions: [anatolien]
+  themes: [kultur-kunst, geschichtsschreibung]
+- id: delphi
+  name: Delphi
+  aliases: [Delphoi]
+  coords: [22.5010, 38.4820]
+  categories: [heiligtum, fundstaette]
+  modernName: Delfi (Phokis, Griechenland)
+  summary: Panhellenisches Heiligtum des Apollon mit dem wichtigsten Orakel Griechenlands; nach 479 v. Chr. weihten die siegreichen Griechen hier die Schlangensäule mit den Namen der beteiligten Städte.
+  regions: [griechenland]
+  themes: [religion]
+- id: naqsch-e-rostam
+  name: Naqsch-e Rostam
+  aliases: [Naqsh-e Rustam, Naqš-e Rostam]
+  coords: [52.8740, 29.9890]
+  categories: [fundstaette, heiligtum]
+  modernName: Naqsch-e Rostam bei Marvdasht (Provinz Fars, Iran)
+  summary: Felswand nahe Persepolis mit den Gräbern Dareios' I., wohl Xerxes' I. und weiterer Achämenidenkönige; die Grabinschriften des Dareios zählen die Länder des Reiches auf.
+  regions: [iran]
+  themes: [imperien, archaeologie]
+- id: eurymedon
+  name: Eurymedon
+  aliases: [Köprüçay]
+  coords: [31.1700, 36.8400]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Köprüçay (Provinz Antalya, Türkei)
+  summary: Fluss in Pamphylien im Süden Kleinasiens, an dessen Mündung Kimon um 466 v. Chr. eine persische Flotte und ein Landheer schlug.
+  regions: [anatolien]
+  themes: [krieg-militaer]

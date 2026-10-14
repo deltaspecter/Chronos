@@ -1,0 +1,223 @@
+# Ereignisse: Der Investiturstreit
+- id: gruendung-von-cluny
+  title: Gründung des Klosters Cluny
+  date: "910-09-11"
+  certainty: wahrscheinlich
+  dateNote: Die Gründungsurkunde wird meist auf 910 datiert, teils auch auf 909.
+  weight: 2
+  kind: gruendung
+  summary: Herzog Wilhelm I. von Aquitanien stiftet in Burgund ein Kloster, das er den Aposteln Petrus und Paulus übergibt und dem Schutz des Papstes unterstellt; Cluny wird zum Haupt eines großen Klosterverbands und zum Vorbild monastischer Reform.
+  regions: [frankreich]
+  themes: [religion]
+  places: [cluny]
+  persons: [wilhelm-von-aquitanien]
+- id: synode-von-sutri-1046
+  title: Synode von Sutri
+  date: "1046-12-20"
+  weight: 2
+  kind: ereignis
+  summary: Auf dem Weg zur Kaiserkrönung lässt Heinrich III. die drei rivalisierenden Päpste Silvester III., Gregor VI. und Benedikt IX. absetzen; der von ihm bestimmte Bischof Suidger von Bamberg krönt ihn als Clemens II. am 25. Dezember 1046 zum Kaiser. Damit beginnt die Reihe der vom Kaiser eingesetzten Reformpäpste.
+  regions: [italien]
+  themes: [religion, politik]
+  places: [sutri, rom]
+  persons: [heinrich-iii]
+  polities: [heiliges-roemisches-reich, kirchenstaat]
+- id: schisma-von-1054
+  title: Gegenseitiger Bann von Rom und Konstantinopel
+  date: "1054-07-16"
+  weight: 2
+  kind: ereignis
+  summary: Der päpstliche Legat Humbert von Silva Candida legt in der Hagia Sophia eine Bannbulle gegen den Patriarchen Michael Kerullarios nieder, der Patriarch bannt seinerseits die Legaten. Das Ereignis wurde später zum Symboldatum der Trennung von lateinischer und orthodoxer Kirche, die sich tatsächlich über einen längeren Zeitraum vollzog.
+  regions: [anatolien, suedosteuropa, italien]
+  themes: [religion]
+  places: [hagia-sophia, istanbul]
+  persons: [humbert-von-silva-candida]
+  polities: [byzantinisches-reich]
+- id: papstwahldekret-1059
+  title: Papstwahldekret
+  date: "1059-04"
+  weight: 2
+  kind: gesetz
+  summary: Eine Lateransynode unter Nikolaus II. legt fest, dass die Kardinalbischöfe den Papst bestimmen und Klerus und Volk von Rom zustimmen; das Recht des deutschen Königs wird nur noch in einer unbestimmten Formel gewahrt. Aus dem Dekret entwickelt sich die Papstwahl durch die Kardinäle.
+  regions: [italien]
+  themes: [religion, verfassung-recht]
+  places: [rom]
+  persons: [nikolaus-ii-papst]
+  polities: [kirchenstaat]
+- id: sachsenaufstand-1073
+  title: Sachsenaufstand gegen Heinrich IV.
+  start: "1073"
+  end: "1075-10"
+  weight: 3
+  kind: krieg
+  summary: Sächsische und thüringische Große erheben sich gegen die Burgenbau- und Herrschaftspolitik Heinrichs IV. im Harzraum; nach dem Sieg des Königs an der Unstrut bei Homburg im Juni 1075 unterwerfen sie sich im Oktober. Der Konflikt flammt nach 1076 im Bündnis mit den Anhängern des Papstes wieder auf.
+  regions: [deutschland]
+  themes: [krieg-militaer, politik]
+  places: [goslar]
+  persons: [heinrich-iv]
+  polities: [heiliges-roemisches-reich]
+- id: dictatus-papae
+  title: Dictatus Papae
+  date: "1075-03"
+  certainty: wahrscheinlich
+  dateNote: Datiert nach der Stellung im Register Gregors VII.
+  weight: 2
+  kind: gesetz
+  summary: In das Register Gregors VII. werden 27 Leitsätze über die Vorrechte des Papstes eingetragen, darunter das Recht, Kaiser abzusetzen und Untertanen von ihrem Treueid gegenüber ungerechten Herrschern zu lösen. Ob es sich um ein Programm, eine Gliederung für eine Rechtssammlung oder eine interne Notiz handelt, ist umstritten.
+  regions: [italien]
+  themes: [religion, verfassung-recht]
+  places: [rom]
+  persons: [gregor-vii]
+  polities: [kirchenstaat]
+- id: synode-von-worms-1076
+  title: Synode von Worms
+  date: "1076-01-24"
+  weight: 2
+  kind: ereignis
+  summary: Auf einer von Heinrich IV. einberufenen Versammlung sagen zwei Erzbischöfe und zahlreiche Bischöfe des Reiches Gregor VII. den Gehorsam auf; der König fordert den Papst in einem Brief auf, vom Stuhl Petri herabzusteigen.
+  regions: [deutschland]
+  themes: [religion, politik]
+  places: [worms]
+  persons: [heinrich-iv, gregor-vii]
+  polities: [heiliges-roemisches-reich]
+- id: bann-heinrichs-iv-1076
+  title: Bann und Absetzung Heinrichs IV.
+  date: "1076-02"
+  dateNote: Die Fastensynode tagte Mitte bis Ende Februar 1076; als Tag des Urteils wird oft der 22. Februar genannt.
+  weight: 1
+  kind: ereignis
+  summary: Auf der römischen Fastensynode untersagt Gregor VII. Heinrich IV. die Herrschaft über das Reich und Italien, löst alle Untertanen von ihren Eiden und verhängt den Kirchenbann – zum ersten Mal setzt ein Papst einen König ab.
+  regions: [italien, deutschland]
+  themes: [religion, politik]
+  places: [rom]
+  persons: [gregor-vii, heinrich-iv]
+  polities: [kirchenstaat, heiliges-roemisches-reich]
+- id: fuerstentag-von-trebur
+  title: Fürstentag von Trebur
+  start: "1076-10"
+  end: "1076-11"
+  weight: 3
+  kind: ereignis
+  summary: Die oppositionellen Fürsten beraten in Trebur über die Wahl eines neuen Königs; Heinrich IV., der im gegenüberliegenden Oppenheim lagert, muss Gehorsam gegenüber dem Papst versprechen. Nach verbreiteter, aber nicht ganz sicherer Überlieferung verlangen die Fürsten die Lösung vom Bann binnen Jahresfrist.
+  certainty: wahrscheinlich
+  regions: [deutschland]
+  themes: [politik, verfassung-recht]
+  places: [trebur]
+  persons: [heinrich-iv]
+  polities: [heiliges-roemisches-reich]
+- id: gang-nach-canossa
+  title: Gang nach Canossa
+  start: "1077-01-25"
+  end: "1077-01-28"
+  weight: 1
+  kind: ereignis
+  summary: Nach einer winterlichen Alpenüberquerung erscheint Heinrich IV. als Büßer vor der Burg Canossa, wo Gregor VII. bei Markgräfin Mathilde Station gemacht hat; nach drei Tagen und der Vermittlung Mathildes und Abt Hugos von Cluny löst der Papst ihn vom Bann.
+  regions: [italien]
+  themes: [religion, politik]
+  places: [canossa]
+  persons: [heinrich-iv, gregor-vii, mathilde-von-tuszien, hugo-von-cluny]
+  polities: [heiliges-roemisches-reich, markgrafschaft-tuszien]
+- id: wahl-von-forchheim
+  title: Wahl Rudolfs von Rheinfelden in Forchheim
+  date: "1077-03-15"
+  weight: 2
+  kind: ereignis
+  summary: Trotz der Lösung Heinrichs IV. vom Bann wählen süddeutsche und sächsische Fürsten in Anwesenheit päpstlicher Legaten Herzog Rudolf von Schwaben zum Gegenkönig; er muss auf die Erblichkeit des Königtums verzichten. Es folgt ein jahrelanger Bürgerkrieg.
+  regions: [deutschland]
+  themes: [politik, verfassung-recht]
+  places: [forchheim, mainz]
+  persons: [rudolf-von-rheinfelden]
+  polities: [heiliges-roemisches-reich]
+- id: synode-von-brixen-1080
+  title: Synode von Brixen
+  date: "1080-06-25"
+  weight: 2
+  kind: ereignis
+  summary: Nachdem Gregor VII. im März 1080 Heinrich IV. erneut gebannt und Rudolf anerkannt hat, erklären königstreue Bischöfe in Brixen den Papst für abgesetzt und wählen Erzbischof Wibert von Ravenna, der sich später Clemens III. nennt.
+  regions: [italien, mitteleuropa]
+  themes: [religion, politik]
+  places: [brixen]
+  persons: [heinrich-iv, clemens-iii-gegenpapst, gregor-vii]
+  polities: [heiliges-roemisches-reich]
+- id: schlacht-an-der-elster
+  title: Schlacht an der Elster
+  date: "1080-10-15"
+  weight: 3
+  kind: schlacht
+  summary: Das Heer der sächsischen Opposition behauptet bei Hohenmölsen das Schlachtfeld gegen Heinrich IV., doch der Gegenkönig Rudolf verliert die rechte Hand und erliegt kurz darauf seiner Verwundung. Königstreue Zeitgenossen deuteten den Verlust der Schwurhand als Gottesurteil.
+  regions: [deutschland]
+  themes: [krieg-militaer]
+  places: [elster-schlachtfeld, merseburg]
+  persons: [rudolf-von-rheinfelden, heinrich-iv]
+  polities: [heiliges-roemisches-reich]
+- id: eroberung-roms-1084
+  title: Kaiserkrönung Heinrichs IV. und Normannensturm auf Rom
+  start: "1084-03-21"
+  end: "1084-05"
+  weight: 2
+  kind: ereignis
+  summary: Heinrich IV. nimmt Rom ein, lässt Clemens III. inthronisieren und wird von ihm zu Ostern 1084 zum Kaiser gekrönt, während Gregor VII. in der Engelsburg ausharrt. Im Mai befreien ihn die Normannen Robert Guiskards und plündern dabei die Stadt; Gregor muss mit ihnen nach Süden ziehen und stirbt 1085 in Salerno.
+  regions: [italien]
+  themes: [krieg-militaer, religion, politik]
+  places: [rom, salerno]
+  persons: [heinrich-iv, clemens-iii-gegenpapst, gregor-vii, robert-guiskard]
+  polities: [heiliges-roemisches-reich, kirchenstaat]
+- id: abdankung-heinrichs-iv
+  title: Absetzung Heinrichs IV. durch seinen Sohn
+  start: "1104-12"
+  end: "1106-08-07"
+  weight: 3
+  kind: ereignis
+  summary: Heinrich V. erhebt sich mit Unterstützung von Fürsten und Reformanhängern gegen den gebannten Vater, setzt ihn Ende 1105 gefangen und erzwingt in Ingelheim die Abdankung. Der Kaiser entkommt, stirbt aber im August 1106 in Lüttich; erst 1111 darf er im Dom zu Speyer beigesetzt werden.
+  regions: [deutschland, westeuropa]
+  themes: [politik]
+  places: [luettich, speyer]
+  persons: [heinrich-iv, heinrich-v]
+  polities: [heiliges-roemisches-reich]
+- id: vertrag-von-sutri-1111
+  title: Vertrag von Sutri und Privileg von Ponte Mammolo
+  start: "1111-02-04"
+  end: "1111-04-13"
+  weight: 2
+  kind: vertrag
+  summary: Paschalis II. und Heinrich V. vereinbaren, dass die Bischöfe alle Regalien an das Reich zurückgeben und der König auf die Investitur verzichtet. Als der Plan am 12. Februar in St. Peter am Widerstand der Bischöfe scheitert, nimmt Heinrich den Papst gefangen und erzwingt das Investiturrecht und die Kaiserkrönung; eine Lateransynode verwirft das Zugeständnis 1112.
+  regions: [italien]
+  themes: [religion, verfassung-recht, politik]
+  places: [sutri, rom]
+  persons: [heinrich-v, paschalis-ii]
+  polities: [heiliges-roemisches-reich, kirchenstaat]
+- id: londoner-konkordat
+  title: Konkordat von London
+  date: "1107-08"
+  weight: 3
+  kind: vertrag
+  summary: Nach jahrelangem Streit mit Erzbischof Anselm von Canterbury verzichtet König Heinrich I. von England auf die Investitur mit Ring und Stab; die Bischöfe leisten ihm jedoch vor der Weihe weiterhin den Lehnseid. Die Einigung war schon 1105 in L'Aigle in der Normandie vorbereitet worden.
+  regions: [britische-inseln]
+  themes: [religion, verfassung-recht]
+  places: [london, canterbury]
+  persons: [heinrich-i-england, anselm-von-canterbury, paschalis-ii]
+  polities: [koenigreich-england]
+- id: wormser-konkordat
+  title: Wormser Konkordat
+  date: "1122-09-23"
+  weight: 1
+  kind: vertrag
+  summary: Heinrich V. verzichtet auf die Investitur mit Ring und Stab und sichert freie kanonische Wahl und Weihe zu; Calixt II. gesteht ihm zu, dass die Wahlen im deutschen Reichsteil in seiner Gegenwart stattfinden und der Gewählte die Regalien durch das Zepter vor der Weihe empfängt, in Italien und Burgund binnen sechs Monaten danach.
+  regions: [deutschland, italien]
+  themes: [religion, verfassung-recht, politik]
+  places: [worms]
+  persons: [heinrich-v, calixt-ii]
+  polities: [heiliges-roemisches-reich, kirchenstaat]
+- id: erstes-laterankonzil
+  title: Erstes Laterankonzil
+  start: "1123-03-18"
+  end: "1123-04-06"
+  certainty: wahrscheinlich
+  weight: 3
+  kind: ereignis
+  summary: Die erste im Westen als allgemeines Konzil gezählte Kirchenversammlung im Lateran bestätigt unter Calixt II. das Wormser Konkordat und erneuert die Verbote von Simonie und Priesterehe.
+  regions: [italien]
+  themes: [religion]
+  places: [rom]
+  persons: [calixt-ii]
+  polities: [kirchenstaat]

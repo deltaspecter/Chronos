@@ -1,0 +1,128 @@
+# Personen: Peloponnesischer Krieg
+- id: archidamos-ii
+  name: Archidamos II.
+  aliases: [Archidamos]
+  died: "~-427"
+  roles: [König von Sparta, Feldherr]
+  summary: König Spartas aus dem Haus der Eurypontiden, der nach Thukydides vor einem übereilten Krieg gegen Athen warnte und ihn dann ab 431 v. Chr. mit jährlichen Einfällen in Attika führte; nach ihm heißt der erste Kriegsabschnitt „Archidamischer Krieg“.
+  regions: [griechenland]
+  themes: [krieg-militaer, politik]
+  places: [sparta]
+- id: kleon
+  name: Kleon
+  died: "-422"
+  roles: [Politiker, Stratege]
+  summary: Athenischer Politiker aus wohlhabender Gerberfamilie, nach dem Tod des Perikles einflussreichster Redner der Volksversammlung; trat 427 v. Chr. für die Hinrichtung der Mytilenaier ein, erzwang 425 v. Chr. die Kapitulation der Spartaner auf Sphakteria und fiel 422 v. Chr. bei Amphipolis. Thukydides und Aristophanes zeichnen ihn feindselig.
+  regions: [griechenland]
+  themes: [politik, krieg-militaer]
+  places: [athen, pylos, amphipolis]
+  related: [nikias, brasidas]
+- id: nikias
+  name: Nikias
+  born: "~-470"
+  died: "-413"
+  roles: [Stratege, Politiker]
+  summary: Reicher, vorsichtiger athenischer Feldherr, dessen Namen der Frieden von 421 v. Chr. trägt; warnte vergeblich vor der Sizilischen Expedition, wurde dennoch einer ihrer Kommandeure und nach der Niederlage 413 v. Chr. von den Syrakusanern hingerichtet.
+  regions: [griechenland, italien]
+  themes: [politik, krieg-militaer]
+  places: [athen, syrakus]
+  related: [alkibiades, kleon]
+- id: brasidas
+  name: Brasidas
+  died: "-422"
+  roles: [Feldherr]
+  summary: Spartanischer Feldherr, der 424 v. Chr. mit einem kleinen Heer aus Heloten und Söldnern nach Thrakien zog und dort zahlreiche Bündner Athens zum Abfall brachte, darunter Amphipolis; fiel 422 v. Chr. in der Schlacht bei Amphipolis.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+  places: [sparta, amphipolis]
+  related: [kleon, thukydides]
+- id: demosthenes-feldherr
+  name: Demosthenes (Feldherr)
+  aliases: [Demosthenes, Sohn des Alkisthenes]
+  died: "-413"
+  roles: [Stratege]
+  summary: Athenischer Feldherr (nicht zu verwechseln mit dem Redner des 4. Jahrhunderts), der 425 v. Chr. Pylos befestigte und mit Kleon die Spartaner auf Sphakteria besiegte; 413 v. Chr. führte er die Verstärkung nach Sizilien und wurde nach der Niederlage hingerichtet.
+  regions: [griechenland, italien]
+  themes: [krieg-militaer]
+  places: [pylos, syrakus]
+- id: gylippos
+  name: Gylippos
+  roles: [Feldherr]
+  summary: Spartaner, der 414 v. Chr. nach Syrakus geschickt wurde, die Verteidigung der Stadt organisierte und wesentlich zur Vernichtung des athenischen Expeditionsheeres beitrug; später wegen Unterschlagung verbannt.
+  regions: [griechenland, italien]
+  themes: [krieg-militaer]
+  places: [syrakus, sparta]
+- id: agis-ii
+  name: Agis II.
+  died: "~-400"
+  roles: [König von Sparta, Feldherr]
+  summary: Sohn des Archidamos und König Spartas, der 418 v. Chr. bei Mantineia siegte und ab 413 v. Chr. von der befestigten Stellung Dekeleia aus Attika das ganze Jahr über besetzt hielt.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+  places: [sparta, mantineia, dekeleia]
+- id: lysander
+  name: Lysander
+  aliases: [Lysandros]
+  died: "-395"
+  roles: [Flottenbefehlshaber, Politiker]
+  summary: Spartanischer Nauarch, der mit persischem Geld des Prinzen Kyros eine schlagkräftige Flotte aufbaute, 405 v. Chr. die athenische Flotte bei Aigospotamoi vernichtete und 404 v. Chr. Athen zur Kapitulation zwang; danach stützte er in vielen Städten oligarchische Regime. Er fiel 395 v. Chr. im Krieg gegen Theben.
+  regions: [griechenland, anatolien]
+  themes: [krieg-militaer, politik]
+  places: [sparta, aigospotamoi, notion, athen]
+  related: [kyros-der-juengere]
+- id: kyros-der-juengere
+  name: Kyros der Jüngere
+  aliases: [Kyros, Cyrus the Younger]
+  born: "~-423?"
+  died: "-401"
+  roles: [Prinz, Statthalter]
+  summary: Jüngerer Sohn des persischen Großkönigs Dareios II., der ab 407 v. Chr. als Befehlshaber in Kleinasien von Sardes aus die spartanische Flotte unter Lysander großzügig finanzierte; fiel 401 v. Chr. bei Kunaxa im Kampf um den Thron gegen seinen Bruder Artaxerxes II.
+  regions: [iran, anatolien]
+  themes: [politik, imperien]
+  places: [sardes]
+  related: [lysander, tissaphernes]
+- id: tissaphernes
+  name: Tissaphernes
+  died: "-395"
+  roles: [Satrap]
+  summary: Persischer Satrap in Sardes, der ab 412 v. Chr. Verträge mit Sparta schloss, die Kleinasiens Griechenstädte dem Großkönig zusprachen, aber die Zahlungen an die spartanische Flotte bewusst knapp hielt, um beide griechischen Mächte zu schwächen; 395 v. Chr. auf Befehl des Königs hingerichtet.
+  regions: [iran, anatolien]
+  themes: [politik, imperien]
+  places: [sardes]
+  related: [kyros-der-juengere, alkibiades]
+- id: kritias
+  name: Kritias
+  born: "~-460"
+  died: "-403"
+  roles: [Politiker, Dichter]
+  summary: Athenischer Aristokrat, Verwandter Platons und zeitweise im Umkreis des Sokrates, der als radikalster Kopf der Dreißig 404/03 v. Chr. die Verfolgung von Demokraten und Metöken betrieb; fiel 403 v. Chr. im Kampf gegen die Demokraten in Munichia.
+  regions: [griechenland]
+  themes: [politik, gewalt-genozid]
+  places: [athen, piraeus]
+- id: thrasybulos
+  name: Thrasybulos
+  died: "-388"
+  roles: [Stratege, Politiker]
+  summary: Athenischer Feldherr und Demokrat, der 411 v. Chr. auf Samos die Flotte für die Demokratie gewann und 404/03 v. Chr. von Phyle aus den Widerstand gegen die Dreißig anführte, der zur Wiederherstellung der Demokratie führte.
+  regions: [griechenland]
+  themes: [politik, krieg-militaer]
+  places: [athen, piraeus, samos]
+- id: aristophanes
+  name: Aristophanes
+  born: "~-450"
+  died: "~-385"
+  roles: [Komödiendichter]
+  summary: Bedeutendster Dichter der Alten Komödie Athens; seine während des Krieges aufgeführten Stücke wie die „Acharner“ (425 v. Chr.) und die „Lysistrate“ (411 v. Chr.) verspotten Politiker wie Kleon und spiegeln Kriegsmüdigkeit und Friedenssehnsucht.
+  regions: [griechenland]
+  themes: [kultur-kunst, politik]
+  places: [athen]
+- id: xenophon
+  name: Xenophon
+  born: "~-430"
+  died: "~-355"
+  roles: [Historiker, Feldherr, Schriftsteller]
+  summary: Athenischer Schüler des Sokrates, Söldnerführer im Heer Kyros' des Jüngeren und Verfasser der „Hellenika“, die die griechische Geschichte von 411 v. Chr., wo Thukydides abbricht, bis 362 v. Chr. erzählen; lebte lange im Exil unter spartanischem Schutz.
+  regions: [griechenland, anatolien]
+  themes: [geschichtsschreibung]
+  places: [athen, sparta]
+  related: [thukydides, sokrates]

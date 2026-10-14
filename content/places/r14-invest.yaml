@@ -1,0 +1,105 @@
+# Orte: Der Investiturstreit
+- id: canossa
+  name: Canossa
+  aliases: [Burg Canossa, Kanossa]
+  coords: [10.4560, 44.5765]
+  categories: [fundstaette]
+  modernName: Ruine bei Canossa, Provinz Reggio Emilia (Italien)
+  summary: Felsenburg der Markgrafen von Canossa im nördlichen Apennin, vor deren Tor Heinrich IV. im Januar 1077 Buße tat, um vom Kirchenbann gelöst zu werden; heute eine Ruine. „Nach Canossa gehen“ wurde im 19. Jahrhundert zur Redewendung für eine demütigende Unterwerfung.
+  regions: [italien]
+  themes: [politik, religion]
+- id: cluny
+  name: Cluny
+  aliases: [Abtei Cluny, Cluniacum]
+  coords: [4.6593, 46.4344]
+  categories: [heiligtum, kulturzentrum]
+  modernName: Cluny, Département Saône-et-Loire (Frankreich)
+  summary: Im Jahr 910 gegründete Benediktinerabtei in Burgund, die unmittelbar dem Papst unterstand und zum Haupt eines weitverzweigten Klosterverbands wurde; ihre um 1088 begonnene dritte Kirche war bis ins 16. Jahrhundert die größte Kirche der lateinischen Christenheit.
+  regions: [frankreich]
+  themes: [religion, kultur-kunst]
+- id: trebur
+  name: Trebur
+  aliases: [Tribur]
+  coords: [8.4078, 49.9264]
+  categories: [stadt]
+  modernName: Trebur, Kreis Groß-Gerau (Hessen)
+  summary: Ort einer königlichen Pfalz am Rhein gegenüber Oppenheim, wo sich im Oktober 1076 die Gegner Heinrichs IV. versammelten und ihm ein Ultimatum zur Lösung vom Bann stellten.
+  regions: [deutschland]
+  themes: [politik]
+- id: forchheim
+  name: Forchheim
+  coords: [11.0589, 49.7197]
+  categories: [stadt]
+  modernName: Forchheim (Oberfranken, Bayern)
+  summary: Fränkische Pfalzstadt, in der oppositionelle Fürsten am 15. März 1077 Rudolf von Rheinfelden zum Gegenkönig wählten.
+  regions: [deutschland]
+  themes: [politik]
+- id: brixen
+  name: Brixen
+  aliases: [Bressanone]
+  coords: [11.6560, 46.7150]
+  categories: [stadt]
+  modernName: Brixen/Bressanone, Südtirol (Italien)
+  summary: Bischofsstadt am Weg über den Brenner, wo eine von Heinrich IV. einberufene Synode im Juni 1080 Gregor VII. für abgesetzt erklärte und Wibert von Ravenna zum Papst bestimmte.
+  regions: [italien, mitteleuropa]
+  themes: [religion, politik]
+- id: goslar
+  name: Goslar
+  coords: [10.4290, 51.9060]
+  categories: [stadt]
+  modernName: Goslar (Niedersachsen)
+  summary: Stadt am Harz mit einer bedeutenden Pfalz der salischen Könige, Geburtsort Heinrichs IV. und häufiger Aufenthaltsort des Hofes; die königliche Herrschaftspolitik im Harzraum war ein Auslöser des Sachsenaufstands 1073.
+  regions: [deutschland]
+  themes: [politik]
+- id: sutri
+  name: Sutri
+  coords: [12.2167, 42.2450]
+  categories: [stadt]
+  modernName: Sutri, Provinz Viterbo (Italien)
+  summary: Kleinstadt nördlich von Rom, in der Heinrich III. 1046 eine Synode abhielt, die rivalisierende Päpste absetzte; 1111 wurde hier ein später gescheiterter Vertrag zwischen Heinrich V. und Paschalis II. vorbereitet.
+  regions: [italien]
+  themes: [religion, politik]
+- id: luettich
+  name: Lüttich
+  aliases: [Liège, Luik, Leodium]
+  coords: [5.5797, 50.6326]
+  categories: [stadt]
+  modernName: Liège (Belgien)
+  summary: Bischofsstadt an der Maas, deren Bischof Otbert Heinrich IV. in seinen letzten Monaten Zuflucht bot; der Kaiser starb hier am 7. August 1106.
+  regions: [westeuropa]
+  themes: [politik, religion]
+- id: salerno
+  name: Salerno
+  coords: [14.7681, 40.6824]
+  categories: [stadt, hafen]
+  modernName: Salerno, Kampanien (Italien)
+  summary: Hafenstadt in Süditalien, seit 1076/77 unter der Herrschaft Robert Guiskards; hier starb Gregor VII. 1085 im Exil und wurde im Dom beigesetzt. Die Stadt war zudem für ihre medizinische Schule berühmt.
+  regions: [italien, mittelmeer]
+  themes: [religion, wissenschaft-technik]
+- id: merseburg
+  name: Merseburg
+  coords: [11.9930, 51.3560]
+  categories: [stadt]
+  modernName: Merseburg (Sachsen-Anhalt)
+  summary: Bischofsstadt an der Saale, in deren Dom der Gegenkönig Rudolf von Rheinfelden 1080 beigesetzt wurde; seine bronzene Grabplatte ist erhalten, ebenso eine als seine abgeschlagene Hand verehrte Mumienhand.
+  regions: [deutschland]
+  themes: [politik, kultur-kunst]
+- id: canterbury
+  name: Canterbury
+  aliases: [Durovernum Cantiacorum]
+  coords: [1.0789, 51.2802]
+  categories: [stadt, heiligtum]
+  modernName: Canterbury, Kent (England)
+  summary: Sitz des ranghöchsten Erzbischofs der englischen Kirche; Erzbischof Anselm von Canterbury führte von hier aus den englischen Streit um die Investitur mit König Heinrich I.
+  regions: [britische-inseln]
+  themes: [religion]
+- id: elster-schlachtfeld
+  name: Schlachtfeld an der Weißen Elster
+  aliases: [Schlacht bei Hohenmölsen]
+  coords: [12.0950, 51.1600]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Raum Hohenmölsen (Sachsen-Anhalt)
+  summary: Gegend an der Weißen Elster südwestlich von Leipzig, wo am 15. Oktober 1080 die Heere Heinrichs IV. und des Gegenkönigs Rudolf aufeinandertrafen; die genaue Lage des Schlachtfelds ist nicht gesichert.
+  regions: [deutschland]
+  themes: [krieg-militaer]

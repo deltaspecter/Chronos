@@ -1,0 +1,61 @@
+# Begriffe: Der Investiturstreit
+- id: investitur
+  name: Investitur
+  aliases: [Laieninvestitur, Einkleidung, Investitur mit Ring und Stab, Investiturverbot]
+  definition: Feierliche Einsetzung eines Bischofs oder Abts in sein Amt und seine Güter; im 11. Jahrhundert überreichten Könige und andere Laien dabei Ring und Stab, die Zeichen geistlicher Hirtengewalt. Die Reformer bekämpften diese Laieninvestitur als unzulässigen Eingriff in die Kirche.
+  themes: [religion, verfassung-recht]
+- id: simonie
+  name: Simonie
+  aliases: [Ämterkauf, Simonisten]
+  definition: Kauf oder Verkauf geistlicher Ämter, Weihen und Sakramente, benannt nach Simon Magus, der den Aposteln die Gabe des Heiligen Geistes abkaufen wollte (Apostelgeschichte 8). Die Reformer des 11. Jahrhunderts dehnten den Begriff auf jede Ämtervergabe durch Laien aus.
+  themes: [religion]
+- id: zoelibat
+  name: Zölibat
+  aliases: [Priesterehe, Nikolaitismus, Ehelosigkeit der Priester]
+  definition: Verpflichtung der höheren Geistlichen zur Ehelosigkeit. Im 11. Jahrhundert waren verheiratete Priester vielerorts üblich; die Reformpäpste verboten die Priesterehe, die sie als Nikolaitismus brandmarkten, und forderten die Laien auf, Messen verheirateter Priester zu meiden. Das Zweite Laterankonzil 1139 erklärte solche Ehen für ungültig.
+  themes: [religion, gesellschaft]
+- id: reichskirche
+  name: Reichskirche
+  aliases: [Ottonisch-salisches Reichskirchensystem, Reichskirchensystem]
+  definition: Die enge Verbindung von Königtum und Bistümern sowie Reichsabteien im ostfränkisch-deutschen Reich des 10. und 11. Jahrhunderts – die Könige setzten Bischöfe ein, statteten sie mit Grafschaften und Rechten aus und nahmen sie für Hof- und Kriegsdienst in Anspruch. Ob man von einem planvollen „System“ sprechen kann, ist in der Forschung umstritten.
+  themes: [religion, politik, verfassung-recht]
+- id: gregorianische-reform
+  name: Gregorianische Reform
+  aliases: [Kirchenreform des 11. Jahrhunderts, Reformpapsttum, Päpstliche Reform]
+  definition: Nach Gregor VII. benannte Reformbewegung des mittleren und späten 11. Jahrhunderts, die Simonie und Priesterehe bekämpfte, die Kirche dem Einfluss der Laien entziehen wollte und die Leitungsgewalt des Papstes über die gesamte lateinische Kirche durchsetzte. Der Name ist eine moderne Prägung; die Bewegung begann vor Gregor und war vielgestaltiger, als er nahelegt.
+  themes: [religion, politik]
+- id: libertas-ecclesiae
+  name: Libertas ecclesiae
+  aliases: [Freiheit der Kirche, Libertas]
+  definition: Zentraler Leitbegriff der Kirchenreformer – die Freiheit der Kirche von weltlicher Verfügung, verstanden nicht als Trennung von der Welt, sondern als Anspruch auf eine rechte, von Gott gewollte Ordnung, in der die geistliche Gewalt über der weltlichen stand. Gerd Tellenbach machte den Begriff 1936 zum Schlüssel seiner Deutung des Investiturstreits.
+  themes: [religion, verfassung-recht]
+- id: kirchenbann
+  name: Kirchenbann
+  aliases: [Exkommunikation, Bann, Anathem]
+  definition: Ausschluss aus der kirchlichen Gemeinschaft und von den Sakramenten. Wer mit einem Gebannten verkehrte, verfiel nach kirchlicher Lehre selbst dem Bann; gegen einen König angewandt, konnte der Bann daher seine Gefolgschaft auflösen.
+  themes: [religion, verfassung-recht]
+- id: gegenkoenig
+  name: Gegenkönig
+  aliases: [Gegenkönigtum]
+  definition: Ein König, der von einer Fürstengruppe gegen einen bereits regierenden König gewählt wurde. Die Erhebung Rudolfs von Rheinfelden 1077 war die erste im römisch-deutschen Reich und betonte die freie Wahl durch die Fürsten statt des Erbrechts.
+  themes: [politik, verfassung-recht]
+- id: gegenpapst
+  name: Gegenpapst
+  aliases: [Antipapst]
+  definition: Ein Papst, der neben einem anderen Anspruch auf das Amt erhob und von der späteren kirchlichen Überlieferung als unrechtmäßig angesehen wird. Welcher von zwei Rivalen als Gegenpapst gilt, ist oft eine Entscheidung im Nachhinein.
+  themes: [religion, politik]
+- id: kardinalskollegium
+  name: Kardinalskollegium
+  aliases: [Kardinäle, Kardinal]
+  definition: Gemeinschaft der höchsten Geistlichen der römischen Kirche – Kardinalbischöfe, Kardinalpriester und Kardinaldiakone –, die seit dem Papstwahldekret von 1059 den Papst wählen und ihn bei der Leitung der Kirche beraten.
+  themes: [religion, verfassung-recht]
+- id: regalien
+  name: Regalien
+  aliases: [Temporalien, Königsrechte]
+  definition: Die vom König verliehenen weltlichen Rechte und Güter einer Kirche, etwa Grafschaften, Zölle, Münz- und Marktrechte. Die Unterscheidung zwischen diesen Regalien und dem geistlichen Amt (Spiritualien) machte am Ende den Kompromiss im Investiturstreit möglich.
+  themes: [verfassung-recht, politik]
+- id: konkordat
+  name: Konkordat
+  aliases: [Concordatum]
+  definition: Vertrag zwischen dem Papst und einer weltlichen Macht über die Rechtsverhältnisse der Kirche in deren Herrschaftsbereich. Das Wormser Konkordat von 1122 gilt als frühes Beispiel; der Begriff selbst wurde dafür erst später gebräuchlich.
+  themes: [verfassung-recht, religion]

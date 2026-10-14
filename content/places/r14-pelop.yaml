@@ -1,0 +1,122 @@
+# Orte: Peloponnesischer Krieg
+- id: kerkyra
+  name: Kerkyra
+  aliases: [Korkyra, Korfu, Corcyra]
+  coords: [19.9200, 39.6000]
+  location: ungefaehr
+  categories: [stadt, hafen]
+  modernName: Korfu (Griechenland)
+  summary: Inselstadt im Ionischen Meer mit großer Flotte; ihr Konflikt mit der Mutterstadt Korinth und das Bündnis mit Athen 433 v. Chr. gehörten zu den Anlässen des Peloponnesischen Krieges. 427 v. Chr. wurde sie Schauplatz eines blutigen Bürgerkriegs.
+  regions: [griechenland]
+  themes: [krieg-militaer, politik]
+- id: potidaia
+  name: Potidaia
+  aliases: [Poteidaia, Potidea]
+  coords: [23.3300, 40.1950]
+  location: ungefaehr
+  categories: [stadt]
+  modernName: Nea Potidea, Chalkidike (Griechenland)
+  summary: Korinthische Kolonie auf der Chalkidike und Mitglied des Attischen Seebunds, deren Abfall 432 v. Chr. eine zweijährige athenische Belagerung auslöste und zu den Anlässen des Krieges zählte.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+- id: megara
+  name: Megara
+  coords: [23.3450, 37.9960]
+  categories: [stadt]
+  modernName: Megara (Griechenland)
+  summary: Polis zwischen Attika und dem Isthmus von Korinth, Mitglied des Peloponnesischen Bundes; ein athenischer Volksbeschluss, der die Megarer von den Häfen des Seebunds und dem Markt Athens ausschloss, wurde zu einem Streitpunkt vor dem Krieg.
+  regions: [griechenland]
+  themes: [wirtschaft-handel, politik]
+- id: mytilene
+  name: Mytilene
+  aliases: [Mitylene]
+  coords: [26.5550, 39.1100]
+  categories: [stadt, hafen]
+  modernName: Mytilini, Lesbos (Griechenland)
+  summary: Wichtigste Stadt der Insel Lesbos und eines der wenigen noch selbstständigen Mitglieder des Attischen Seebunds; ihr Abfall 428 v. Chr. führte zur Belagerung und zur berühmten Debatte in Athen über die Bestrafung der Bürger.
+  regions: [griechenland, anatolien]
+  themes: [krieg-militaer, politik]
+- id: pylos
+  name: Pylos
+  aliases: [Koryphasion, Navarino, Sphakteria]
+  coords: [21.6700, 36.9500]
+  location: ungefaehr
+  categories: [schlachtfeld, hafen]
+  modernName: Bucht von Navarino bei Pylos (Griechenland)
+  summary: Vorgebirge an der Westküste der Peloponnes, das die Athener 425 v. Chr. befestigten; auf der vorgelagerten Insel Sphakteria ergaben sich danach erstmals spartanische Vollbürger in größerer Zahl.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+- id: amphipolis
+  name: Amphipolis
+  coords: [23.8430, 40.8220]
+  categories: [stadt, schlachtfeld]
+  modernName: Amfipoli (Griechenland)
+  summary: Athenische Gründung von 437/36 v. Chr. am Strymon in Thrakien, wichtig wegen Holz und Edelmetallen; 424 v. Chr. von Brasidas eingenommen, 422 v. Chr. Ort der Schlacht, in der Kleon und Brasidas fielen.
+  regions: [griechenland]
+  themes: [krieg-militaer, wirtschaft-handel]
+- id: mantineia
+  name: Mantineia
+  aliases: [Mantinea]
+  coords: [22.3900, 37.6170]
+  categories: [stadt, schlachtfeld]
+  modernName: bei Tripoli, Arkadien (Griechenland)
+  summary: Polis in Arkadien, bei der 418 v. Chr. Sparta ein Bündnisheer aus Argos, Mantineia und Athen besiegte.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+- id: dekeleia
+  name: Dekeleia
+  aliases: [Dekelea, Tatoi]
+  coords: [23.7900, 38.1600]
+  location: ungefaehr
+  categories: [fundstaette]
+  modernName: bei Tatoi, Attika (Griechenland)
+  summary: Ort im Norden Attikas, den die Spartaner 413 v. Chr. zu einem dauerhaften Stützpunkt ausbauten; von hier aus hielten sie Attika bis Kriegsende besetzt.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+- id: samos
+  name: Samos
+  coords: [26.9400, 37.6900]
+  categories: [stadt, hafen]
+  modernName: Pythagorio, Samos (Griechenland)
+  summary: Insel und Polis vor der kleinasiatischen Küste, nach einem gescheiterten Abfall 440/39 v. Chr. treue Verbündete Athens und in den letzten Kriegsjahren Hauptstützpunkt der athenischen Flotte.
+  regions: [griechenland, anatolien]
+  themes: [krieg-militaer]
+- id: kyzikos
+  name: Kyzikos
+  aliases: [Cyzicus]
+  coords: [27.8900, 40.3900]
+  location: ungefaehr
+  categories: [stadt, hafen]
+  modernName: bei Erdek (Türkei)
+  summary: Griechische Hafenstadt an der Südküste des Marmarameers, vor der 410 v. Chr. die athenische Flotte unter Alkibiades die peloponnesische Flotte vernichtete.
+  regions: [anatolien]
+  themes: [krieg-militaer]
+- id: notion
+  name: Notion
+  coords: [27.1950, 38.0000]
+  location: ungefaehr
+  categories: [hafen, schlachtfeld]
+  modernName: bei Ahmetbeyli (Türkei)
+  summary: Hafenort bei Kolophon an der ionischen Küste, wo Lysander 406 v. Chr. einen Teil der athenischen Flotte besiegte, während Alkibiades abwesend war.
+  regions: [anatolien]
+  themes: [krieg-militaer]
+- id: arginusen
+  name: Arginusen
+  aliases: [Arginusai]
+  coords: [26.8200, 39.0300]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Garip-Inseln bei Dikili (Türkei)
+  summary: Kleine Inselgruppe zwischen Lesbos und dem kleinasiatischen Festland, bei der Athen 406 v. Chr. seinen letzten großen Seesieg errang.
+  regions: [anatolien, griechenland]
+  themes: [krieg-militaer]
+- id: aigospotamoi
+  name: Aigospotamoi
+  aliases: [Aigos Potamoi, Ziegenflüsse]
+  coords: [26.6000, 40.3300]
+  location: umstritten
+  categories: [schlachtfeld]
+  modernName: Ostküste der Halbinsel Gelibolu am Hellespont (Türkei)
+  summary: Flussmündung und Strand am Hellespont gegenüber Lampsakos, wo Lysander 405 v. Chr. die athenische Flotte vernichtete; die genaue Lage ist nicht gesichert.
+  regions: [anatolien]
+  themes: [krieg-militaer]

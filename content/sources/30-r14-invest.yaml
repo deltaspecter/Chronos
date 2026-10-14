@@ -1,0 +1,254 @@
+# Quellen und Literatur: Der Investiturstreit
+
+# --- Forschung ---
+- id: tellenbach-1936
+  kind: sekundaer
+  authors: ["Tellenbach, Gerd"]
+  title: Libertas
+  subtitle: Kirche und Weltordnung im Zeitalter des Investiturstreites
+  series: Forschungen zur Kirchen- und Geistesgeschichte 7
+  place: Stuttgart
+  publisher: Kohlhammer
+  year: 1936
+- id: tellenbach-1988
+  kind: sekundaer
+  authors: ["Tellenbach, Gerd"]
+  title: Die westliche Kirche vom 10. bis zum frühen 12. Jahrhundert
+  series: Die Kirche in ihrer Geschichte 2, Lieferung F 1
+  place: Göttingen
+  publisher: Vandenhoeck & Ruprecht
+  year: 1988
+- id: hartmann-1993
+  kind: sekundaer
+  authors: ["Hartmann, Wilfried"]
+  title: Der Investiturstreit
+  series: Enzyklopädie deutscher Geschichte 21
+  place: München
+  publisher: Oldenbourg
+  year: 1993
+- id: blumenthal-1982
+  kind: sekundaer
+  authors: ["Blumenthal, Uta-Renate"]
+  title: Der Investiturstreit
+  series: Urban-Taschenbücher 335
+  place: Stuttgart
+  publisher: Kohlhammer
+  year: 1982
+- id: laudage-1993
+  kind: sekundaer
+  authors: ["Laudage, Johannes"]
+  title: Gregorianische Reform und Investiturstreit
+  series: Erträge der Forschung 282
+  place: Darmstadt
+  publisher: Wissenschaftliche Buchgesellschaft
+  year: 1993
+- id: goez-2000
+  kind: sekundaer
+  authors: ["Goez, Werner"]
+  title: Kirchenreform und Investiturstreit 910–1122
+  series: Urban-Taschenbücher
+  place: Stuttgart
+  publisher: Kohlhammer
+  year: 2000
+- id: zey-2017
+  kind: sekundaer
+  authors: ["Zey, Claudia"]
+  title: Der Investiturstreit
+  series: C. H. Beck Wissen
+  place: München
+  publisher: C. H. Beck
+  year: 2017
+- id: schieffer-1981
+  kind: sekundaer
+  authors: ["Schieffer, Rudolf"]
+  title: Die Entstehung des päpstlichen Investiturverbots für den deutschen König
+  series: Schriften der Monumenta Germaniae Historica 28
+  place: Stuttgart
+  publisher: Hiersemann
+  year: 1981
+- id: weinfurter-2006
+  kind: sekundaer
+  authors: ["Weinfurter, Stefan"]
+  title: Canossa
+  subtitle: Die Entzauberung der Welt
+  place: München
+  publisher: C. H. Beck
+  year: 2006
+- id: fried-2012
+  kind: sekundaer
+  authors: ["Fried, Johannes"]
+  title: Canossa
+  subtitle: Entlarvung einer Legende. Eine Streitschrift
+  place: Berlin
+  publisher: Akademie Verlag
+  year: 2012
+- id: althoff-2006
+  kind: sekundaer
+  authors: ["Althoff, Gerd"]
+  title: Heinrich IV.
+  series: Gestalten des Mittelalters und der Renaissance
+  place: Darmstadt
+  publisher: Wissenschaftliche Buchgesellschaft
+  year: 2006
+- id: robinson-1999
+  kind: sekundaer
+  authors: ["Robinson, Ian S."]
+  title: Henry IV of Germany, 1056–1106
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1999
+- id: robinson-1990
+  kind: sekundaer
+  authors: ["Robinson, Ian S."]
+  title: The Papacy, 1073–1198
+  subtitle: Continuity and Innovation
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1990
+- id: cowdrey-1998
+  kind: sekundaer
+  authors: ["Cowdrey, H. E. J."]
+  title: Pope Gregory VII, 1073–1085
+  place: Oxford
+  publisher: Clarendon Press
+  year: 1998
+- id: cantor-1958
+  kind: sekundaer
+  authors: ["Cantor, Norman F."]
+  title: Church, Kingship, and Lay Investiture in England, 1089–1135
+  place: Princeton
+  publisher: Princeton University Press
+  year: 1958
+- id: tierney-1964
+  kind: sekundaer
+  authors: ["Tierney, Brian"]
+  title: The Crisis of Church and State, 1050–1300
+  subtitle: With Selected Documents
+  place: Englewood Cliffs, N. J.
+  publisher: Prentice-Hall
+  year: 1964
+- id: berman-1983
+  kind: sekundaer
+  authors: ["Berman, Harold J."]
+  title: Law and Revolution
+  subtitle: The Formation of the Western Legal Tradition
+  place: Cambridge, Mass.
+  publisher: Harvard University Press
+  year: 1983
+- id: rosenstock-huessy-1931
+  kind: sekundaer
+  authors: ["Rosenstock-Huessy, Eugen"]
+  title: Die europäischen Revolutionen
+  subtitle: Volkscharaktere und Staatenbildung
+  place: Jena
+  publisher: Eugen Diederichs
+  year: 1931
+- id: moore-2000
+  kind: sekundaer
+  authors: ["Moore, R. I."]
+  title: The First European Revolution, c. 970–1215
+  series: The Making of Europe
+  place: Oxford
+  publisher: Blackwell
+  year: 2000
+
+# --- Editionen ---
+- id: caspar-1920
+  kind: edition
+  editors: ["Caspar, Erich"]
+  title: Das Register Gregors VII.
+  subtitle: 2 Bände
+  series: MGH Epistolae selectae 2
+  place: Berlin
+  publisher: Weidmann
+  year: 1920–1923
+- id: erdmann-1937
+  kind: edition
+  editors: ["Erdmann, Carl"]
+  title: Die Briefe Heinrichs IV.
+  series: MGH Deutsches Mittelalter 1
+  place: Leipzig
+  publisher: Hiersemann
+  year: 1937
+- id: schmale-1978
+  kind: edition
+  editors: ["Schmale, Franz-Josef"]
+  title: Quellen zum Investiturstreit, Teil 1
+  subtitle: Ausgewählte Briefe Papst Gregors VII. (lateinisch und deutsch)
+  series: Ausgewählte Quellen zur deutschen Geschichte des Mittelalters (Freiherr-vom-Stein-Gedächtnisausgabe) 12a
+  place: Darmstadt
+  publisher: Wissenschaftliche Buchgesellschaft
+  year: 1978
+
+# --- Primärquellen ---
+- id: q-gruendungsurkunde-cluny
+  kind: primaer
+  authors: ["Wilhelm I. von Aquitanien"]
+  title: Gründungsurkunde des Klosters Cluny
+  written: Bourges, 11. September 910 (Datierung teils auch auf 909)
+  note: Schenkungsurkunde, mit der Herzog Wilhelm das Kloster den Aposteln Petrus und Paulus übertrug und es dem Schutz des Papstes unterstellte, frei von jeder weltlichen und bischöflichen Gewalt.
+- id: q-humbert-adversus-simoniacos
+  kind: primaer
+  authors: ["Humbert von Silva Candida"]
+  title: Drei Bücher gegen die Simonisten (Libri tres adversus simoniacos)
+  written: Rom, um 1057/58
+  note: Kampfschrift des Kardinals Humbert, die Weihen simonistischer Geistlicher für ungültig erklärte und die Einsetzung von Geistlichen durch Laien grundsätzlich angriff.
+- id: q-papstwahldekret-1059
+  kind: primaer
+  authors: ["Nikolaus II."]
+  title: Papstwahldekret
+  written: Lateransynode, Rom, April 1059
+  note: Synodalbeschluss, der den Kardinalbischöfen die führende Rolle bei der Papstwahl zusprach und die Mitwirkung des deutschen Königs nur noch vage als Ehrenrecht erwähnte.
+- id: q-dictatus-papae
+  kind: primaer
+  authors: ["Gregor VII."]
+  title: Dictatus Papae
+  written: Rom, 1075 (im Register zwischen Briefen vom März 1075 eingetragen)
+  note: Liste von 27 knappen Leitsätzen über die Vorrechte des Papstes, überliefert im Original des päpstlichen Registers; Zweck und Entstehung sind umstritten.
+- id: q-heinrich-iv-brief-1076
+  kind: primaer
+  authors: ["Heinrich IV."]
+  title: Brief an Hildebrand („Heinricus non usurpative …“)
+  written: Worms, Januar 1076 (überarbeitete Fassung wohl Frühjahr 1076)
+  note: Absageschreiben des Königs an Gregor VII. nach der Wormser Synode, in dem er den Papst als falschen Mönch anredet und zum Herabsteigen vom Stuhl Petri auffordert.
+- id: q-bann-heinrichs-iv-1076
+  kind: primaer
+  authors: ["Gregor VII."]
+  title: Bannsentenz gegen Heinrich IV. (Gebet an den Apostel Petrus)
+  written: Fastensynode, Rom, Februar 1076
+  note: Als Gebet an Petrus formulierter Urteilsspruch, mit dem Gregor dem König die Herrschaft untersagte, die Untertanen von ihren Eiden löste und ihn exkommunizierte; im Register Gregors VII. überliefert.
+- id: q-gregor-brief-canossa-1077
+  kind: primaer
+  authors: ["Gregor VII."]
+  title: Brief an die deutschen Fürsten über die Ereignisse von Canossa
+  written: Canossa, Ende Januar 1077
+  note: Rechenschaftsbericht des Papstes, nach dem der König drei Tage lang barfuß und im Büßergewand vor dem Burgtor ausharrte, bevor er vom Bann gelöst wurde.
+- id: q-lampert-annalen
+  kind: primaer
+  authors: ["Lampert von Hersfeld"]
+  title: Annalen
+  written: Kloster Hersfeld, um 1077/79
+  note: Ausführliche, königsfeindliche Darstellung der Jahre bis 1077 durch einen Mönch; Hauptquelle für die dramatische Ausmalung des Bußgangs von Canossa.
+- id: q-bruno-sachsenkrieg
+  kind: primaer
+  authors: ["Bruno von Merseburg"]
+  title: Buch vom Sachsenkrieg (De bello Saxonico)
+  written: Sachsen, um 1082
+  note: Parteischrift aus dem Umfeld der aufständischen Sachsen gegen Heinrich IV., die zahlreiche Briefe und Dokumente wiedergibt.
+- id: q-vita-heinrici-iv
+  kind: primaer
+  title: Lebensbeschreibung Kaiser Heinrichs IV. (Vita Heinrici IV. imperatoris)
+  written: wohl Lüttich, kurz nach 1106
+  note: Anonyme, dem Kaiser zugeneigte Klageschrift auf seinen Tod, die seine Freigebigkeit und seine Leiden unter dem Verrat des Sohnes hervorhebt.
+- id: q-eadmer-historia-novorum
+  kind: primaer
+  authors: ["Eadmer von Canterbury"]
+  title: Historia novorum in Anglia
+  written: Canterbury, um 1095–1123
+  note: Darstellung der jüngsten Ereignisse in England durch einen Mönch aus dem Umfeld Erzbischof Anselms, mit Schwerpunkt auf dessen Konflikten mit den Königen.
+- id: q-wormser-konkordat
+  kind: primaer
+  authors: ["Heinrich V.", "Calixt II."]
+  title: Wormser Konkordat (Heinricianum und Calixtinum)
+  written: Worms, 23. September 1122
+  note: Zwei wechselseitig ausgestellte Urkunden, in denen der Kaiser auf die Investitur mit Ring und Stab verzichtete und der Papst dem Kaiser Mitwirkung bei Wahl und Belehnung der Bischöfe im Reich zugestand.

@@ -1,0 +1,194 @@
+# Ereignisse: Peloponnesischer Krieg
+- id: konflikt-um-kerkyra
+  title: Konflikt um Kerkyra und Seeschlacht bei Sybota
+  start: "-435"
+  end: "-433"
+  weight: 3
+  kind: krieg
+  summary: Ein Streit um die Kolonie Epidamnos führt zum Krieg zwischen Korinth und Kerkyra; Athen schließt 433 v. Chr. ein Verteidigungsbündnis mit Kerkyra, und athenische Schiffe greifen bei Sybota in die Seeschlacht gegen Korinth ein – nach Thukydides einer der offenen Anlässe des großen Krieges.
+  regions: [griechenland]
+  themes: [krieg-militaer, politik]
+  places: [kerkyra, korinth]
+  polities: [athen-polis]
+- id: megarisches-psephisma
+  title: Megarisches Psephisma
+  date: "~-432"
+  certainty: wahrscheinlich
+  weight: 3
+  kind: gesetz
+  summary: Athenischer Volksbeschluss, der die Megarer von den Häfen des Seebunds und vom Markt Athens ausschließt; Sparta fordert seine Aufhebung, Perikles lehnt ab. Datierung, genauer Inhalt und Gewicht für den Kriegsausbruch sind umstritten.
+  regions: [griechenland]
+  themes: [wirtschaft-handel, politik]
+  places: [megara, athen]
+  persons: [perikles]
+  polities: [athen-polis]
+- id: belagerung-von-potidaia
+  title: Abfall und Belagerung von Potidaia
+  start: "-432"
+  end: "-430"
+  weight: 3
+  kind: krieg
+  summary: Die korinthische Kolonie Potidaia fällt vom Seebund ab; Athen belagert die Stadt über zwei Jahre, bis sich die ausgehungerten Einwohner im Winter 430/29 v. Chr. ergeben und abziehen müssen.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+  places: [potidaia]
+  polities: [athen-polis, attischer-seebund]
+- id: archidamischer-krieg
+  title: Archidamischer Krieg
+  start: "-431"
+  end: "-421"
+  weight: 2
+  kind: krieg
+  summary: Erster Abschnitt des Peloponnesischen Krieges, benannt nach dem spartanischen König Archidamos II. – Sparta verwüstet fast jährlich Attika, Athen verlässt sich auf seine Mauern und die Flotte; er endet nach zehn Jahren mit dem Nikiasfrieden.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+  places: [athen, sparta, piraeus]
+  persons: [archidamos-ii, perikles, kleon, brasidas]
+  polities: [athen-polis, sparta-polis, peloponnesischer-bund, attischer-seebund]
+- id: abfall-von-mytilene
+  title: Abfall von Mytilene und Mytilene-Debatte
+  start: "-428"
+  end: "-427"
+  weight: 3
+  kind: krieg
+  summary: Mytilene fällt von Athen ab und wird nach einer Belagerung zur Kapitulation gezwungen. Die Volksversammlung beschließt auf Antrag Kleons, alle Männer zu töten, widerruft den Beschluss aber am nächsten Tag; nach Thukydides werden dennoch über tausend als Hauptschuldige Bezeichnete hingerichtet.
+  regions: [griechenland, anatolien]
+  themes: [krieg-militaer, gewalt-genozid, politik]
+  places: [mytilene, athen]
+  persons: [kleon]
+  polities: [athen-polis, attischer-seebund]
+- id: kampf-um-pylos
+  title: Pylos und Sphakteria
+  date: "-425"
+  weight: 3
+  kind: schlacht
+  summary: Athener unter Demosthenes befestigen Pylos an der Küste Messeniens; auf der Insel Sphakteria abgeschnittene Spartaner ergeben sich nach wochenlanger Blockade Kleon und Demosthenes – 292 Mann, darunter rund 120 Spartiaten, werden als Geiseln nach Athen gebracht.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+  places: [pylos]
+  persons: [kleon, demosthenes-feldherr]
+  polities: [athen-polis, sparta-polis]
+- id: schlacht-bei-amphipolis
+  title: Schlacht bei Amphipolis
+  date: "-422"
+  weight: 3
+  kind: schlacht
+  summary: Bei dem Versuch Kleons, das 424 v. Chr. von Brasidas eingenommene Amphipolis zurückzugewinnen, siegen die Spartaner; beide Feldherren fallen, was den Weg zum Frieden öffnet.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+  places: [amphipolis]
+  persons: [kleon, brasidas]
+  polities: [athen-polis, sparta-polis]
+- id: nikiasfrieden
+  title: Nikiasfrieden
+  date: "-421"
+  weight: 2
+  kind: vertrag
+  summary: Athen und Sparta schließen einen auf fünfzig Jahre angelegten Frieden, der weitgehend den Vorkriegszustand wiederherstellen soll; wichtige Verbündete Spartas wie Korinth und Boiotien lehnen ihn ab, mehrere Bestimmungen werden nie ausgeführt.
+  regions: [griechenland]
+  themes: [politik, krieg-militaer]
+  places: [athen, sparta, amphipolis]
+  persons: [nikias]
+  polities: [athen-polis, sparta-polis]
+- id: schlacht-bei-mantineia-418
+  title: Schlacht bei Mantineia
+  date: "-418"
+  weight: 3
+  kind: schlacht
+  summary: Ein spartanisches Heer unter König Agis II. besiegt die von Alkibiades geförderte Allianz aus Argos, Mantineia und Athen und stellt Spartas Vorherrschaft auf der Peloponnes wieder her.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+  places: [mantineia]
+  persons: [agis-ii, alkibiades]
+  polities: [sparta-polis, athen-polis]
+- id: hermokopidenfrevel
+  title: Hermokopidenfrevel
+  date: "-415"
+  weight: 3
+  kind: ereignis
+  summary: Kurz vor dem Auslaufen der Sizilischen Expedition werden in Athen in einer Nacht zahlreiche Hermen verstümmelt; die folgenden Ermittlungen, auch wegen angeblicher Verspottung der Mysterien, treffen Alkibiades, der aus Sizilien abberufen wird und nach Sparta flieht.
+  regions: [griechenland]
+  themes: [religion, politik]
+  places: [athen]
+  persons: [alkibiades]
+  polities: [athen-polis]
+- id: dekeleischer-krieg
+  title: Dekeleischer und Ionischer Krieg
+  start: "-413"
+  end: "-404"
+  weight: 2
+  kind: krieg
+  summary: Letzter Abschnitt des Peloponnesischen Krieges – Sparta besetzt dauerhaft Dekeleia in Attika, viele Bündner Athens fallen ab, und mit persischem Geld baut Sparta eine Flotte auf, die den Krieg in der Ägäis und am Hellespont entscheidet.
+  regions: [griechenland, anatolien]
+  themes: [krieg-militaer]
+  places: [dekeleia, samos, kyzikos, notion, arginusen, aigospotamoi]
+  persons: [agis-ii, alkibiades, lysander, tissaphernes, kyros-der-juengere]
+  polities: [athen-polis, sparta-polis, achaemenidenreich, peloponnesischer-bund]
+- id: vertraege-sparta-persien
+  title: Verträge zwischen Sparta und Persien
+  start: "-412"
+  end: "-411"
+  weight: 3
+  kind: vertrag
+  summary: Sparta schließt mit dem Satrapen Tissaphernes nacheinander drei Abkommen, die nach Thukydides dem Großkönig die Herrschaft über die griechischen Städte Kleinasiens zuerkennen und persische Zahlungen für die peloponnesische Flotte vorsehen.
+  regions: [griechenland, anatolien, iran]
+  themes: [politik, imperien]
+  places: [sardes]
+  persons: [tissaphernes]
+  polities: [sparta-polis, achaemenidenreich]
+- id: oligarchischer-umsturz-411
+  title: Oligarchischer Umsturz in Athen
+  start: "-411"
+  end: "-410"
+  weight: 3
+  kind: revolution
+  summary: Nach der sizilischen Katastrophe übernimmt in Athen ein Rat der Vierhundert die Macht, der bald einer gemäßigteren Ordnung der „Fünftausend“ weicht; die Flotte auf Samos hält zur Demokratie, die 410 v. Chr. wiederhergestellt wird.
+  regions: [griechenland]
+  themes: [politik, verfassung-recht]
+  places: [athen, samos]
+  persons: [thrasybulos, alkibiades]
+  polities: [athen-polis]
+- id: schlacht-bei-kyzikos
+  title: Schlacht bei Kyzikos
+  date: "-410"
+  weight: 3
+  kind: schlacht
+  summary: Die athenische Flotte unter Alkibiades überrascht und vernichtet die peloponnesische Flotte vor Kyzikos; der spartanische Nauarch Mindaros fällt. Sparta bietet danach nach antiken Angaben Frieden an, den Athen ablehnt.
+  regions: [anatolien]
+  themes: [krieg-militaer]
+  places: [kyzikos]
+  persons: [alkibiades]
+  polities: [athen-polis, sparta-polis]
+- id: schlacht-bei-den-arginusen
+  title: Schlacht bei den Arginusen und Arginusenprozess
+  date: "-406"
+  weight: 3
+  kind: schlacht
+  summary: Athen siegt in der größten Seeschlacht des Krieges, kann aber wegen eines Sturms Schiffbrüchige und Tote nicht bergen. Die Volksversammlung verurteilt daraufhin sechs der siegreichen Strategen, die nach Athen zurückgekehrt waren, in einem gemeinsamen, rechtswidrigen Verfahren zum Tode; Sokrates widersetzt sich als Mitglied des leitenden Ratsausschusses.
+  regions: [anatolien, griechenland]
+  themes: [krieg-militaer, verfassung-recht]
+  places: [arginusen, athen]
+  persons: [sokrates]
+  polities: [athen-polis, sparta-polis]
+- id: schlacht-bei-aigospotamoi
+  title: Schlacht bei Aigospotamoi
+  date: "-405"
+  weight: 2
+  kind: schlacht
+  summary: Lysander überfällt die am Strand liegende athenische Flotte am Hellespont und erbeutet den größten Teil der rund 180 Schiffe; Tausende gefangene Athener werden getötet. Athen hat damit seine Flotte und die Getreidezufuhr aus dem Schwarzmeerraum verloren.
+  regions: [anatolien]
+  themes: [krieg-militaer]
+  places: [aigospotamoi]
+  persons: [lysander]
+  polities: [athen-polis, sparta-polis]
+- id: kapitulation-athens
+  title: Kapitulation Athens
+  date: "-404"
+  weight: 2
+  kind: vertrag
+  summary: Nach monatelanger Belagerung und Hungersnot kapituliert Athen im Frühjahr 404 v. Chr. – die Langen Mauern und die Befestigungen des Piräus werden niedergerissen, die Flotte bis auf wenige Schiffe ausgeliefert, die Verbannten zurückgerufen, und Athen muss Sparta zu Lande und zur See folgen. Die von Korinth und Theben geforderte Zerstörung der Stadt lehnt Sparta ab.
+  regions: [griechenland]
+  themes: [krieg-militaer, politik]
+  places: [athen, piraeus]
+  persons: [lysander]
+  polities: [athen-polis, sparta-polis, attischer-seebund]

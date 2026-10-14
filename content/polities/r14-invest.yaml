@@ -1,0 +1,23 @@
+# Staaten: Der Investiturstreit
+- id: kirchenstaat
+  name: Kirchenstaat
+  aliases: [Patrimonium Petri, Päpstlicher Staat, Status Ecclesiae]
+  start: "756"
+  end: "1870-09-20"
+  spanNote: Als Beginn gilt meist die Übergabe der von den Langobarden eroberten Gebiete an den Papst durch Pippin den Jüngeren (754/756); im 11. Jahrhundert beschränkte sich die tatsächliche päpstliche Herrschaft weitgehend auf Rom und sein Umland. 1870 besetzten italienische Truppen Rom; seit 1929 besteht als Nachfolger der Staat der Vatikanstadt.
+  capital: rom
+  summary: Weltliches Herrschaftsgebiet der Päpste in Mittelitalien, das ihnen Unabhängigkeit von Kaisern und Königen sichern sollte; im Investiturstreit war es durch den stadtrömischen Adel, die Normannen und kaiserliche Heere wiederholt bedroht.
+  regions: [italien]
+  themes: [religion, politik]
+  predecessors: [langobardenreich]
+  weight: 2
+- id: markgrafschaft-tuszien
+  name: Markgrafschaft Tuszien
+  aliases: [Mark Tuszien, Tuscia, Herrschaft der Canossa]
+  start: "~850?"
+  end: "1115"
+  spanNote: Die Mark entstand im 9. Jahrhundert in karolingischer Zeit, ein genaues Gründungsdatum gibt es nicht; hier ist das Ende mit dem Tod Mathildes von Canossa 1115 angesetzt, nach dem um ihr Erbe lange zwischen Kaisern und Päpsten gestritten wurde.
+  summary: Fürstliche Herrschaft in Mittel- und Oberitalien, die unter dem Haus Canossa zahlreiche Grafschaften von der Poebene bis in die Toskana vereinte; unter Markgräfin Mathilde war sie die wichtigste weltliche Stütze der Reformpäpste.
+  regions: [italien]
+  themes: [politik]
+  weight: 3

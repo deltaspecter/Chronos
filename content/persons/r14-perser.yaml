@@ -1,0 +1,164 @@
+# Personen: Die Perserkriege
+- id: aristagoras
+  name: Aristagoras von Milet
+  aliases: [Aristagoras]
+  died: "~-497"
+  roles: [Tyrann von Milet]
+  summary: Stellvertreter seines Schwiegervaters Histiaios als Tyrann von Milet; nach einem gescheiterten persisch-milesischen Angriff auf Naxos löste er 499 v. Chr. den Ionischen Aufstand aus und warb in Sparta und Athen um Hilfe. Er starb nach antiken Angaben um 497 v. Chr. in Thrakien.
+  regions: [anatolien, griechenland]
+  themes: [politik, krieg-militaer]
+  places: [milet, naxos, sardes]
+  related: [histiaios, dareios-i]
+- id: histiaios
+  name: Histiaios von Milet
+  aliases: [Histiaios]
+  died: "-493"
+  roles: [Tyrann von Milet]
+  summary: Tyrann von Milet, der Dareios I. auf dem Skythenfeldzug diente und danach am Hof in Susa festgehalten wurde; nach Herodot ermutigte er den Ionischen Aufstand insgeheim. Er wurde 493 v. Chr. gefangen genommen und auf Befehl des Satrapen Artaphernes hingerichtet.
+  regions: [anatolien]
+  themes: [politik]
+  places: [milet, susa]
+  related: [aristagoras, artaphernes, dareios-i]
+- id: artaphernes
+  name: Artaphernes (der Ältere)
+  aliases: [Artaphrenes, Artaphernes]
+  roles: [Satrap von Sardes]
+  summary: Bruder Dareios' I. (nach Herodot vom selben Vater) und Satrap in Sardes; er schlug den Ionischen Aufstand nieder und ordnete danach die Abgaben der ionischen Städte neu. Sein gleichnamiger Sohn befehligte 490 v. Chr. mit Datis die Expedition nach Marathon.
+  regions: [anatolien, iran]
+  themes: [imperien, politik]
+  places: [sardes]
+  related: [dareios-i, datis, histiaios]
+- id: datis
+  name: Datis
+  aliases: [Datiya]
+  roles: [Feldherr]
+  summary: Persischer Befehlshaber medischer Herkunft, der 490 v. Chr. zusammen mit Artaphernes dem Jüngeren die Flotte gegen Naxos, Eretria und Athen führte und bei Marathon unterlag. Ein Datiya in einem Verwaltungstäfelchen aus Persepolis wird oft mit ihm gleichgesetzt.
+  regions: [iran, griechenland]
+  themes: [krieg-militaer]
+  places: [naxos, eretria, marathon]
+  related: [dareios-i, artaphernes]
+- id: hippias
+  name: Hippias
+  aliases: [Hippias von Athen]
+  roles: [Tyrann von Athen]
+  summary: Sohn des Peisistratos und von 527 bis 510 v. Chr. Tyrann von Athen; nach seiner Vertreibung fand er Zuflucht im Perserreich und begleitete 490 v. Chr. die persische Expedition, die auf seinen Rat bei Marathon landete.
+  regions: [griechenland, anatolien]
+  themes: [politik]
+  places: [athen, marathon]
+  related: [kleisthenes, datis]
+- id: miltiades
+  name: Miltiades
+  aliases: [Miltiades der Jüngere]
+  born: "~-550?"
+  died: "-489"
+  roles: [Stratege, Tyrann der Chersones]
+  summary: Athenischer Adliger, der lange als Herrscher auf der thrakischen Chersones unter persischer Oberhoheit lebte und 493 v. Chr. nach Athen floh; als einer der zehn Strategen setzte er sich 490 v. Chr. für den Angriff bei Marathon ein. Nach einem missglückten Zug gegen Paros wurde er verurteilt und starb an einer Verwundung.
+  regions: [griechenland]
+  themes: [krieg-militaer, politik]
+  places: [athen, marathon]
+  related: [kimon]
+- id: leonidas-i
+  name: Leonidas I.
+  aliases: [Leonidas]
+  died: "-480"
+  roles: [König von Sparta]
+  summary: Spartanischer König aus dem Haus der Agiaden, der 480 v. Chr. das griechische Heer an den Thermopylen befehligte und dort mit seinen 300 Spartiaten und Verbündeten fiel, nachdem die Perser die Stellung umgangen hatten.
+  regions: [griechenland]
+  themes: [krieg-militaer]
+  places: [sparta, thermopylen]
+  related: [xerxes-i, demaratos, pausanias-regent]
+- id: demaratos
+  name: Demaratos
+  roles: [König von Sparta]
+  summary: Spartanischer König aus dem Haus der Eurypontiden, der um 491 v. Chr. abgesetzt wurde und an den persischen Hof floh; Herodot lässt ihn Xerxes auf dem Feldzug von 480 v. Chr. als Kenner Spartas beraten.
+  regions: [griechenland, anatolien]
+  themes: [politik]
+  places: [sparta]
+  related: [xerxes-i, leonidas-i]
+- id: mardonios
+  name: Mardonios
+  died: "-479"
+  roles: [Feldherr]
+  summary: Persischer Adliger, Sohn des Gobryas und Schwiegersohn Dareios' I.; er führte 492 v. Chr. einen Feldzug nach Thrakien und Makedonien und blieb nach Salamis mit dem Landheer in Griechenland zurück. Er fiel 479 v. Chr. in der Schlacht bei Plataiai.
+  regions: [iran, griechenland]
+  themes: [krieg-militaer]
+  places: [plataiai, athen]
+  related: [xerxes-i, dareios-i, pausanias-regent]
+- id: artemisia-i
+  name: Artemisia I. von Halikarnassos
+  aliases: [Artemisia]
+  roles: [Herrscherin von Halikarnassos, Flottenführerin]
+  summary: Herrscherin von Halikarnassos unter persischer Oberhoheit, die 480 v. Chr. fünf Schiffe für die Flotte des Xerxes stellte und selbst bei Salamis kämpfte; Herodot, der aus derselben Stadt stammte, stellt sie als klügste Ratgeberin des Königs dar.
+  regions: [anatolien]
+  themes: [krieg-militaer, politik]
+  places: [halikarnassos, salamis]
+  related: [xerxes-i, herodot]
+- id: aristeides
+  name: Aristeides
+  aliases: [Aristides, Aristeides der Gerechte]
+  died: "~-467?"
+  roles: [Stratege]
+  summary: Athenischer Politiker mit dem Beinamen „der Gerechte“, 482 v. Chr. durch Ostrakismos verbannt und 480 v. Chr. zurückgerufen; er führte die Athener bei Plataiai und legte 478/77 v. Chr. die ersten Beiträge der Mitglieder des Seebundes fest.
+  regions: [griechenland]
+  themes: [politik, krieg-militaer]
+  places: [athen, plataiai, delos]
+  related: [themistokles, kimon]
+- id: pausanias-regent
+  name: Pausanias (Regent von Sparta)
+  aliases: [Pausanias]
+  died: "~-470"
+  roles: [Regent, Feldherr]
+  summary: Spartanischer Regent für den unmündigen Sohn des Leonidas und Oberbefehlshaber des griechischen Heeres bei Plataiai 479 v. Chr.; sein herrisches Auftreten als Flottenführer 478 v. Chr. trieb die Ionier zu Athen. Später des Verrats beschuldigt, starb er um 470 v. Chr. im Heiligtum der Athena in Sparta.
+  regions: [griechenland]
+  themes: [krieg-militaer, politik]
+  places: [sparta, plataiai]
+  related: [leonidas-i, mardonios]
+- id: leotychidas-ii
+  name: Leotychidas II.
+  aliases: [Leotychides]
+  roles: [König von Sparta]
+  summary: Spartanischer König, der nach der Absetzung des Demaratos auf den Thron kam und 479 v. Chr. die griechische Flotte zum Sieg bei Mykale führte; später wegen Bestechung verbannt.
+  regions: [griechenland, anatolien]
+  themes: [krieg-militaer]
+  places: [mykale, sparta]
+  related: [demaratos]
+- id: kimon
+  name: Kimon
+  born: "~-510"
+  died: "~-450"
+  roles: [Stratege]
+  summary: Athenischer Feldherr und Sohn des Miltiades, der die Flotte des Seebundes gegen Persien führte und um 466 v. Chr. am Eurymedon siegte; Gegner der radikalen Demokraten, 461 v. Chr. durch Ostrakismos verbannt. Er starb um 450 v. Chr. während eines Feldzugs auf Zypern.
+  regions: [griechenland, anatolien, mittelmeer]
+  themes: [krieg-militaer, politik]
+  places: [athen, eurymedon]
+  related: [miltiades, aristeides]
+- id: aischylos
+  name: Aischylos
+  aliases: [Aeschylus, Aischylos von Eleusis]
+  born: "~-525"
+  died: "~-456"
+  roles: [Tragödiendichter]
+  summary: Athenischer Tragödiendichter, der bei Marathon mitkämpfte; seine 472 v. Chr. aufgeführten „Perser“ sind die älteste erhaltene Tragödie und das früheste literarische Zeugnis der Perserkriege. Er starb in Gela auf Sizilien.
+  regions: [griechenland]
+  themes: [kultur-kunst]
+  places: [athen, marathon]
+  related: [herodot]
+- id: artaxerxes-i
+  name: Artaxerxes I.
+  aliases: [Artaxšaça, Artaxerxes Makrocheir]
+  died: "-424"
+  roles: [Großkönig]
+  summary: Sohn des Xerxes und Großkönig von 465 bis 424 v. Chr.; er gewährte dem verbannten Themistokles Zuflucht, schlug einen Aufstand in Ägypten mit athenischer Beteiligung nieder und soll um 449 v. Chr. mit Athen den Kalliasfrieden geschlossen haben.
+  regions: [iran, westasien]
+  themes: [imperien, politik]
+  places: [susa, persepolis]
+  related: [xerxes-i, themistokles]
+- id: kallias-ii
+  name: Kallias (Sohn des Hipponikos)
+  aliases: [Kallias]
+  roles: [Diplomat]
+  summary: Reicher athenischer Adliger, den Herodot als Gesandten in Susa erwähnt; nach späteren Quellen handelte er um 449 v. Chr. mit dem Großkönig den nach ihm benannten Frieden aus, dessen Existenz umstritten ist.
+  regions: [griechenland, iran]
+  themes: [politik]
+  places: [athen, susa]
+  related: [artaxerxes-i]

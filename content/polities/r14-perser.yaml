@@ -1,0 +1,12 @@
+# Staaten und Bünde: Die Perserkriege
+- id: hellenenbund
+  name: Hellenenbund
+  aliases: [Hellenischer Bund]
+  start: "-481"
+  end: "~-478"
+  spanNote: Gegründet im Herbst 481 v. Chr. am Isthmos von Korinth; nach dem Rückzug Spartas aus der Flottenführung 478/77 v. Chr. faktisch durch den Attischen Seebund abgelöst, formal nie aufgelöst.
+  summary: Bündnis griechischer Poleis unter spartanischer Führung gegen den Feldzug des Xerxes; die Mitglieder legten Streitigkeiten bei und kämpften gemeinsam bei Thermopylen, Artemision, Salamis, Plataiai und Mykale. Viele Gemeinwesen, darunter Theben und Thessalien, schlossen sich dagegen den Persern an oder blieben neutral wie Argos.
+  regions: [griechenland]
+  themes: [krieg-militaer, politik]
+  successors: [attischer-seebund]
+  weight: 2
