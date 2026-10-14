@@ -1,0 +1,51 @@
+# Begriffe: Kolumbus und der Kolumbische Austausch (r15-kolumbus)
+- id: kolumbischer-austausch
+  name: Kolumbischer Austausch
+  aliases: [Columbian Exchange, Kolumbianischer Austausch]
+  definition: Von Alfred W. Crosby 1972 geprägter Begriff für die Übertragung von Pflanzen, Tieren, Krankheitserregern, Menschen und Wissen zwischen Amerika einerseits und Europa, Afrika und Asien andererseits, die mit den Fahrten des Kolumbus einsetzte und Ernährung, Bevölkerung und Umwelt weltweit veränderte.
+  themes: [umwelt-klima, landwirtschaft, handelsnetze]
+- id: encomienda
+  name: Encomienda
+  aliases: [Encomendero, Repartimiento]
+  definition: Im spanischen Amerika die Zuteilung einer Gruppe von Indigenen an einen Spanier (Encomendero), der ihre Arbeit oder Abgaben nutzen durfte und dafür Schutz und christliche Unterweisung schuldete; rechtlich keine Sklaverei, in der Praxis auf Hispaniola und anderswo eine Form der Zwangsarbeit. Seit 1542 eingeschränkt, regional bis ins 18. Jahrhundert bestehend.
+  themes: [sklaverei-unfreiheit, imperien, verfassung-recht]
+- id: reconquista
+  name: Reconquista
+  aliases: [Rückeroberung]
+  definition: Spanisch für Rückeroberung – Sammelbegriff für die Kriege christlicher Reiche gegen die muslimischen Herrschaften auf der Iberischen Halbinsel vom 8. Jahrhundert bis zur Einnahme Granadas 1492. Der Begriff stammt aus späterer Zeit und unterstellt eine einheitliche, von Anfang an zielgerichtete Bewegung, die es so nicht gab.
+  themes: [krieg-militaer, religion, geschichtsschreibung]
+- id: requerimiento
+  name: Requerimiento
+  aliases: [Aufforderung]
+  definition: Ab 1513 vorgeschriebene förmliche Aufforderung an indigene Gemeinschaften, die Herrschaft des Papstes und der spanischen Krone anzuerkennen und Missionare zuzulassen; bei Weigerung galt ein Krieg als gerecht. Der Text wurde oft auf Spanisch, aus der Ferne oder vor leeren Dörfern verlesen.
+  themes: [verfassung-recht, imperien, religion]
+- id: taino
+  name: Taíno
+  aliases: [Taino, Tainos, Arawak der Antillen]
+  definition: Moderne Sammelbezeichnung für die arawakisch sprechenden Bewohner der Großen Antillen und der Bahamas um 1492, die in Dörfern mit Feldbau auf Erdhügeln (Maniok, Mais, Süßkartoffeln) lebten und in Herrschaften unter Kaziken organisiert waren; sie wurden die ersten Opfer der spanischen Kolonisierung. Nachfahren und kulturelle Spuren leben in der Karibik fort.
+  themes: [gesellschaft, religion]
+- id: kazike
+  name: Kazike
+  aliases: [Cacique, Kazikin, Cacica]
+  definition: Wort der Taíno für ein Oberhaupt einer Siedlung oder eines größeren Herrschaftsgebiets; die Spanier übertrugen es auf indigene Anführer in ganz Amerika, wo es bis heute auch lokale Machthaber bezeichnet.
+  themes: [politik, gesellschaft]
+- id: virgin-soil-epidemie
+  name: Virgin-Soil-Epidemie
+  aliases: [Virgin Soil Epidemic, Jungfräulicher-Boden-Epidemie]
+  definition: Von Alfred W. Crosby 1976 eingeführter Begriff für Seuchen, die eine Bevölkerung treffen, die dem Erreger noch nie ausgesetzt war und deshalb keine erworbene Immunität besitzt; heute wird betont, dass Hunger, Gewalt und Zwangsarbeit die Sterblichkeit solcher Epidemien erheblich steigerten.
+  themes: [umwelt-klima, gesellschaft]
+- id: schwarze-legende
+  name: Schwarze Legende
+  aliases: [Leyenda negra]
+  definition: Anfang des 20. Jahrhunderts von dem Spanier Julián Juderías geprägter Begriff für ein einseitig negatives Bild Spaniens als besonders grausamer Kolonialmacht, das protestantische und andere Gegner seit dem 16. Jahrhundert etwa mit Übersetzungen von Las Casas verbreiteten; umstritten ist, wie weit der Begriff berechtigte Kritik an kolonialer Gewalt abwehrt.
+  themes: [geschichtsschreibung, imperien]
+- id: neue-welt
+  name: Neue Welt
+  aliases: [Mundus Novus, Nuevo Mundo]
+  definition: Seit etwa 1500 verbreitete europäische Bezeichnung für Amerika, die die Erkenntnis ausdrückt, dass es sich nicht um einen Teil Asiens handelte; aus indigener Sicht war diese Welt freilich nicht neu.
+  themes: [geschichtsschreibung, wissenschaft-technik]
+- id: columbus-day
+  name: Columbus Day
+  aliases: [Kolumbustag, Día de la Hispanidad, Día de la Raza, Indigenous Peoples' Day, Día de la Resistencia Indígena]
+  definition: Gedenktag am 12. Oktober oder (in den USA) am zweiten Montag im Oktober zur Erinnerung an die Ankunft des Kolumbus; in den USA seit 1937 landesweiter Feiertag, heute vielerorts ganz oder teilweise durch den Indigenous Peoples' Day ersetzt. In Spanien ist der 12. Oktober Nationalfeiertag, in Venezuela seit 2002 Tag des indigenen Widerstands.
+  themes: [geschichtsschreibung, politik]

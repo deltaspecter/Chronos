@@ -1,0 +1,250 @@
+# Ereignisse: Kolumbus und der Kolumbische Austausch (r15-kolumbus)
+- id: vertrag-von-alcacovas
+  title: Vertrag von Alcáçovas
+  date: "1479-09-04"
+  weight: 3
+  kind: vertrag
+  summary: Friedensvertrag nach dem kastilischen Erbfolgekrieg, in dem Portugal die Kanarischen Inseln Kastilien überließ und dafür die Rechte an Madeira, den Azoren, den Kapverden und der Fahrt entlang der afrikanischen Küste nach Süden erhielt.
+  regions: [iberische-halbinsel, atlantik]
+  themes: [politik, verfassung-recht]
+  polities: [krone-kastilien, koenigreich-portugal]
+- id: dias-umsegelt-das-kap
+  title: Bartolomeu Dias umsegelt die Südspitze Afrikas
+  date: "1488"
+  weight: 2
+  kind: entdeckung
+  summary: Eine portugiesische Expedition unter Bartolomeu Dias gelangt um das später so genannte Kap der Guten Hoffnung in den Indischen Ozean und zeigt, dass der Seeweg nach Asien um Afrika möglich ist.
+  regions: [suedliches-afrika, atlantik]
+  themes: [handelsnetze]
+  persons: [bartolomeu-dias, johann-ii-von-portugal]
+  polities: [koenigreich-portugal]
+- id: fall-von-granada
+  title: Übergabe Granadas
+  date: "1492-01-02"
+  weight: 2
+  kind: ereignis
+  dateNote: Die Kapitulation wurde im November 1491 ausgehandelt; am 2. Januar 1492 zogen die Katholischen Könige in die Stadt ein.
+  summary: Nach zehnjährigem Krieg übergibt Emir Muhammad XII. Granada den Katholischen Königen; damit endet die letzte muslimische Herrschaft auf der Iberischen Halbinsel. Die zugesicherte Religionsfreiheit der Muslime wird ab 1499 schrittweise gebrochen.
+  regions: [iberische-halbinsel]
+  themes: [politik, religion, krieg-militaer]
+  places: [granada]
+  persons: [muhammad-xii-von-granada, isabella-i-von-kastilien, ferdinand-ii-von-aragon]
+  polities: [emirat-granada, krone-kastilien]
+- id: alhambra-edikt
+  title: Alhambra-Edikt – Vertreibung der Juden aus Spanien
+  date: "1492-03-31"
+  weight: 2
+  kind: gesetz
+  summary: Die Katholischen Könige stellen die Juden Kastiliens und Aragons vor die Wahl zwischen Taufe und Auswanderung; Zehntausende verlassen das Land, vor allem nach Portugal, Nordafrika, Italien und ins Osmanische Reich. Die Zahlen sind umstritten.
+  regions: [iberische-halbinsel]
+  themes: [religion, migration, gewalt-genozid]
+  places: [granada]
+  persons: [isabella-i-von-kastilien, ferdinand-ii-von-aragon]
+  polities: [krone-kastilien]
+- id: kapitulationen-von-santa-fe
+  title: Kapitulationen von Santa Fe
+  date: "1492-04-17"
+  weight: 3
+  kind: vertrag
+  summary: Im Heerlager vor Granada schließen die Katholischen Könige mit Kolumbus einen Vertrag, der ihm für die zu entdeckenden Länder die Titel Admiral, Vizekönig und Gouverneur sowie ein Zehntel der Erträge zusagt.
+  regions: [iberische-halbinsel]
+  themes: [politik, verfassung-recht]
+  places: [granada]
+  persons: [christoph-kolumbus, isabella-i-von-kastilien, ferdinand-ii-von-aragon]
+  polities: [krone-kastilien]
+- id: erste-reise-des-kolumbus
+  title: Erste Reise des Kolumbus
+  start: "1492-08-03"
+  end: "1493-03-15"
+  weight: 1
+  kind: entdeckung
+  summary: Mit der Santa María, der Pinta und der Niña und rund 90 Mann segelt Kolumbus über die Kanaren nach Westen, erreicht im Oktober die Bahamas, dann Kuba und Hispaniola, und kehrt nach dem Verlust der Santa María über die Azoren und Lissabon nach Palos zurück.
+  regions: [atlantik, karibik, iberische-halbinsel]
+  themes: [handelsnetze, imperien]
+  places: [palos-de-la-frontera, la-gomera, guanahani, hispaniola, la-navidad, lissabon]
+  persons: [christoph-kolumbus, martin-alonso-pinzon, guacanagari]
+  polities: [krone-kastilien]
+- id: landung-auf-guanahani
+  title: Landung auf Guanahani
+  date: "1492-10-12"
+  weight: 1
+  kind: entdeckung
+  summary: Kolumbus geht auf einer Bahamas-Insel an Land, die ihre Bewohner Guanahani nennen, nimmt sie für die Katholischen Könige in Besitz und tauft sie San Salvador – der Beginn dauerhafter Verbindungen zwischen Europa und Amerika.
+  regions: [karibik]
+  themes: [handelsnetze, imperien]
+  places: [guanahani]
+  persons: [christoph-kolumbus]
+  polities: [krone-kastilien]
+- id: bulle-inter-caetera
+  title: Bulle Inter caetera
+  date: "1493-05-04"
+  weight: 2
+  kind: vertrag
+  dateNote: Die Bulle wurde offenbar später ausgefertigt und auf den 4. Mai zurückdatiert; zu ihr gehören weitere Bullen desselben Jahres.
+  summary: Papst Alexander VI. spricht den Katholischen Königen auf ihr Betreiben alle Länder westlich einer Linie 100 Leguas westlich der Azoren und Kapverden zu, verbunden mit dem Auftrag zur Mission.
+  regions: [italien, atlantik, amerika]
+  themes: [religion, verfassung-recht, imperien]
+  places: [rom]
+  persons: [alexander-vi, isabella-i-von-kastilien, ferdinand-ii-von-aragon]
+  polities: [kirchenstaat, krone-kastilien]
+- id: zweite-reise-des-kolumbus
+  title: Zweite Reise des Kolumbus
+  start: "1493-09-25"
+  end: "1496-06-11"
+  weight: 2
+  kind: entdeckung
+  summary: Mit 17 Schiffen und weit über tausend Siedlern, dazu Pferden, Rindern, Schweinen, Saatgut und Zuckerrohr, kehrt Kolumbus nach Hispaniola zurück, findet La Navidad zerstört, gründet La Isabela und unterwirft die Taíno mit Krieg und Tributpflicht.
+  regions: [karibik, atlantik]
+  themes: [imperien, landwirtschaft, gewalt-genozid]
+  places: [cadiz, hispaniola, la-navidad, la-isabela]
+  persons: [christoph-kolumbus, ramon-pane]
+  polities: [krone-kastilien]
+- id: vertrag-von-tordesillas
+  title: Vertrag von Tordesillas
+  date: "1494-06-07"
+  weight: 1
+  kind: vertrag
+  summary: Kastilien und Portugal teilen die außereuropäische Welt entlang einer Linie 370 Leguas westlich der Kapverden; westlich davon soll Kastilien, östlich Portugal Ansprüche haben. Dadurch fiel später Brasilien an Portugal.
+  regions: [iberische-halbinsel, atlantik, amerika]
+  themes: [politik, verfassung-recht, imperien]
+  places: [tordesillas]
+  persons: [johann-ii-von-portugal, isabella-i-von-kastilien, ferdinand-ii-von-aragon]
+  polities: [krone-kastilien, koenigreich-portugal]
+- id: dritte-reise-des-kolumbus
+  title: Dritte Reise des Kolumbus
+  start: "1498-05-30"
+  end: "1500"
+  weight: 2
+  kind: entdeckung
+  summary: Kolumbus erreicht Trinidad und die Küste Venezuelas und erkennt an der Orinoco-Mündung ein großes Festland; auf Hispaniola findet er Aufruhr unter den Siedlern vor. Der königliche Untersuchungsrichter Bobadilla lässt ihn 1500 verhaften und in Ketten nach Spanien schicken.
+  regions: [karibik, suedamerika]
+  themes: [imperien, politik]
+  places: [hispaniola, santo-domingo]
+  persons: [christoph-kolumbus]
+  polities: [krone-kastilien]
+- id: cabral-in-brasilien
+  title: Cabral erreicht Brasilien
+  date: "1500-04-22"
+  weight: 2
+  kind: entdeckung
+  summary: Die portugiesische Indienflotte unter Pedro Álvares Cabral sichtet auf ihrem weiten Bogen durch den Südatlantik die Küste Brasiliens und nimmt sie für Portugal in Besitz, da sie östlich der Tordesillas-Linie liegt.
+  regions: [suedamerika, atlantik]
+  themes: [imperien, handelsnetze]
+  persons: [pedro-alvares-cabral, bartolomeu-dias]
+  polities: [koenigreich-portugal]
+- id: vierte-reise-des-kolumbus
+  title: Vierte Reise des Kolumbus
+  start: "1502-05"
+  end: "1504-11"
+  weight: 3
+  kind: entdeckung
+  summary: Auf seiner letzten Reise sucht Kolumbus eine Durchfahrt nach Asien entlang der Küste Mittelamerikas von Honduras bis Panama; nach dem Verlust seiner Schiffe sitzt er rund ein Jahr auf Jamaika fest.
+  regions: [karibik, mesoamerika]
+  themes: [handelsnetze]
+  persons: [christoph-kolumbus]
+  polities: [krone-kastilien]
+- id: massaker-von-xaragua
+  title: Massaker von Xaraguá
+  date: "1503"
+  weight: 3
+  kind: katastrophe
+  summary: Bei einem Empfang durch die Kazikin Anacaona lässt Gouverneur Nicolás de Ovando die versammelten Kaziken in Xaraguá im Westen Hispaniolas festnehmen und verbrennen; Anacaona wird später gehängt. Das Massaker brach die Macht der letzten großen Taíno-Herrschaft.
+  regions: [karibik]
+  themes: [gewalt-genozid, krieg-militaer]
+  places: [hispaniola]
+  persons: [anacaona, nicolas-de-ovando]
+  polities: [krone-kastilien]
+- id: waldseemueller-karte
+  title: Waldseemüllers Weltkarte mit dem Namen America
+  date: "1507"
+  weight: 2
+  kind: entwicklung
+  summary: In Saint-Dié erscheinen die Cosmographiae Introductio und eine große Weltkarte, die den südlichen Teil der Neuen Welt nach Amerigo Vespucci America nennen; das einzige erhaltene Exemplar der Karte erwarb 2003 die Library of Congress.
+  regions: [frankreich, amerika]
+  themes: [wissenschaft-technik, schrift-medien]
+  places: [saint-die-des-vosges]
+  persons: [martin-waldseemueller, amerigo-vespucci]
+- id: predigt-montesinos
+  title: Adventspredigt des Antonio de Montesinos
+  date: "1511-12-21"
+  weight: 2
+  kind: ereignis
+  dateNote: Gehalten am vierten Adventssonntag 1511; überliefert vor allem durch Las Casas.
+  summary: In Santo Domingo prangert der Dominikaner Antonio de Montesinos vor den Siedlern die Ausbeutung der Taíno als Todsünde an und fragt, ob diese nicht Menschen mit vernünftigen Seelen seien; der Streit erreicht den Königshof.
+  regions: [karibik]
+  themes: [religion, verfassung-recht]
+  places: [santo-domingo]
+  persons: [antonio-de-montesinos, bartolome-de-las-casas]
+- id: gesetze-von-burgos
+  title: Gesetze von Burgos
+  date: "1512-12-27"
+  weight: 2
+  kind: gesetz
+  summary: Als Antwort auf die Kritik der Dominikaner erlässt die Krone erste Vorschriften über Arbeitszeiten, Ernährung, Unterkunft und religiöse Unterweisung der zugeteilten Indigenen; die Encomienda selbst bestätigt sie.
+  regions: [iberische-halbinsel, karibik]
+  themes: [verfassung-recht, sklaverei-unfreiheit]
+  persons: [ferdinand-ii-von-aragon, antonio-de-montesinos]
+  polities: [krone-kastilien]
+- id: pocken-auf-hispaniola
+  title: Pockenepidemie in der Karibik
+  start: "1518-12"
+  end: "1519"
+  weight: 2
+  kind: katastrophe
+  summary: Die erste sicher bezeugte Pockenepidemie Amerikas erfasst Hispaniola und die Nachbarinseln und tötet nach zeitgenössischen Berichten einen großen Teil der ohnehin stark dezimierten Taíno; von hier gelangt die Krankheit nach Mexiko.
+  regions: [karibik]
+  themes: [umwelt-klima, gewalt-genozid]
+  places: [hispaniola, santo-domingo]
+- id: aufstand-des-enriquillo
+  title: Aufstand des Enriquillo
+  start: "1519"
+  end: "1533"
+  weight: 3
+  kind: krieg
+  summary: Der Kazike Enriquillo zieht sich mit seinen Leuten in das Bergland von Bahoruco zurück und widersteht über ein Jahrzehnt spanischen Strafexpeditionen; 1533 sichert ihm ein Vertrag mit der Krone Freiheit und Land für seine Gemeinschaft zu.
+  regions: [karibik]
+  themes: [krieg-militaer]
+  places: [hispaniola]
+  persons: [enriquillo]
+  polities: [krone-kastilien]
+- id: neue-gesetze-1542
+  title: Neue Gesetze (Leyes Nuevas)
+  date: "1542-11-20"
+  weight: 2
+  kind: gesetz
+  summary: Kaiser Karl V. verbietet die Versklavung von Indigenen und die Vergabe neuer Encomiendas, die beim Tod der Inhaber erlöschen sollen; nach Aufständen der Siedler, vor allem in Peru, wird die Erbfolgeregel 1545 zurückgenommen.
+  regions: [iberische-halbinsel, amerika]
+  themes: [verfassung-recht, sklaverei-unfreiheit]
+  persons: [karl-v, bartolome-de-las-casas]
+  polities: [spanisches-kolonialreich]
+- id: disputation-von-valladolid
+  title: Disputation von Valladolid
+  start: "1550"
+  end: "1551"
+  weight: 2
+  kind: ereignis
+  summary: Vor einer königlichen Gelehrtenkommission streiten Bartolomé de las Casas und Juan Ginés de Sepúlveda darüber, ob Krieg gegen die Indigenen Amerikas gerecht sei und ob sie von Natur aus zur Knechtschaft bestimmt seien; ein förmliches Urteil ergeht nicht.
+  regions: [iberische-halbinsel]
+  themes: [religion, verfassung-recht]
+  places: [valladolid]
+  persons: [bartolome-de-las-casas, juan-gines-de-sepulveda]
+  polities: [spanisches-kolonialreich]
+- id: kolumbus-jubilaeum-1892
+  title: Vierhundertjahrfeier der Kolumbus-Reise
+  date: "1892-10-12"
+  weight: 3
+  kind: ereignis
+  summary: In Spanien, Italien, Lateinamerika und den USA wird die Ankunft des Kolumbus mit großen Feiern begangen; US-Präsident Benjamin Harrison ruft einen Feiertag aus, Chicago richtet 1893 die World's Columbian Exposition aus. Kolumbus wird zur Symbolfigur von Fortschritt und, für italienische Einwanderer, von Zugehörigkeit.
+  regions: [nordamerika, iberische-halbinsel, italien, amerika]
+  themes: [geschichtsschreibung, kultur-kunst]
+  persons: [christoph-kolumbus]
+- id: kolumbus-jubilaeum-1992
+  title: Fünfhundertjahrfeier und Gegenproteste 1992
+  date: "1992-10-12"
+  weight: 3
+  kind: ereignis
+  summary: Das Jubiläum wird mit der Weltausstellung in Sevilla und offiziellen Feiern begangen, zugleich aber von indigenen Bewegungen in ganz Amerika unter dem Motto von 500 Jahren Widerstand kritisiert; Berkeley in Kalifornien feiert erstmals einen Indigenous Peoples' Day.
+  regions: [amerika, iberische-halbinsel, welt]
+  themes: [geschichtsschreibung, politik]
+  places: [sevilla]
+  persons: [christoph-kolumbus]

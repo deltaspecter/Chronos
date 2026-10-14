@@ -1,0 +1,206 @@
+# Personen: Kolumbus und der Kolumbische Austausch (r15-kolumbus)
+- id: christoph-kolumbus
+  name: Christoph Kolumbus
+  aliases: [Cristoforo Colombo, Cristóbal Colón, Christopher Columbus, Kolumbus]
+  born: "~1451"
+  died: "1506-05-20"
+  roles: [Seefahrer, Admiral, Vizekönig]
+  summary: Seefahrer aus Genua, der im Auftrag der Katholischen Könige 1492 über den Atlantik nach Westen segelte, um Asien zu erreichen, und dabei die Karibik erreichte; auf vier Reisen erkundete er Antillen und Küsten Mittel- und Südamerikas, als Gouverneur von Hispaniola begründete er Tributpflicht und Versklavung der Taíno mit; 1500 abgesetzt, starb er in Valladolid.
+  regions: [italien, iberische-halbinsel, karibik, atlantik]
+  themes: [handelsnetze, imperien, wissenschaft-technik]
+  places: [palos-de-la-frontera, guanahani, hispaniola, la-navidad, la-isabela, valladolid, sevilla]
+  related: [isabella-i-von-kastilien, ferdinand-ii-von-aragon, martin-alonso-pinzon, bartolome-de-las-casas]
+- id: isabella-i-von-kastilien
+  name: Isabella I. von Kastilien
+  aliases: [Isabel la Católica, Isabella die Katholische]
+  born: "1451-04-22"
+  died: "1504-11-26"
+  roles: [Königin von Kastilien]
+  summary: Seit 1474 Königin von Kastilien, mit Ferdinand von Aragon eine der Katholischen Könige; vollendete mit der Eroberung Granadas 1492 die Reconquista, verfügte im selben Jahr die Vertreibung der Juden und unterstützte die Fahrt des Kolumbus.
+  regions: [iberische-halbinsel]
+  themes: [politik, religion, imperien]
+  places: [granada, valladolid]
+  related: [ferdinand-ii-von-aragon, christoph-kolumbus]
+- id: ferdinand-ii-von-aragon
+  name: Ferdinand II. von Aragon
+  aliases: [Fernando el Católico, Ferdinand der Katholische, Ferdinand V. von Kastilien]
+  born: "1452-03-10"
+  died: "1516-01-23"
+  roles: [König von Aragon, König von Kastilien]
+  summary: Seit 1479 König von Aragon und als Ehemann Isabellas Mitregent in Kastilien, einer der Katholischen Könige; nach Isabellas Tod Regent Kastiliens, unter dem 1512 die Gesetze von Burgos erlassen wurden.
+  regions: [iberische-halbinsel, italien]
+  themes: [politik, imperien]
+  places: [granada]
+  related: [isabella-i-von-kastilien, christoph-kolumbus]
+- id: heinrich-der-seefahrer
+  name: Heinrich der Seefahrer
+  aliases: [Infante Dom Henrique, Prinz Heinrich von Portugal]
+  born: "1394-03-04"
+  died: "1460-11-13"
+  roles: [Prinz, Förderer der Seefahrt]
+  summary: Portugiesischer Prinz, der nach der Eroberung Ceutas 1415 Fahrten entlang der westafrikanischen Küste sowie die Besiedlung Madeiras und der Azoren förderte; sein Bild als gelehrter Organisator einer Seefahrerschule ist eine spätere Überhöhung.
+  regions: [iberische-halbinsel, westafrika, atlantik]
+  themes: [handelsnetze, imperien]
+  places: [lissabon]
+- id: johann-ii-von-portugal
+  name: Johann II. von Portugal
+  aliases: [João II., Dom João II]
+  born: "1455-05-03"
+  died: "1495-10-25"
+  roles: [König von Portugal]
+  summary: König von Portugal 1481–1495, der die Erkundung der afrikanischen Küste systematisch vorantrieb, das Angebot des Kolumbus ablehnte und 1494 den Vertrag von Tordesillas aushandeln ließ.
+  regions: [iberische-halbinsel, westafrika]
+  themes: [politik, handelsnetze]
+  places: [lissabon, elmina]
+- id: bartolomeu-dias
+  name: Bartolomeu Dias
+  born: "~1450"
+  died: "1500"
+  roles: [Seefahrer]
+  summary: Portugiesischer Seefahrer, der 1488 als erster Europäer die Südspitze Afrikas umsegelte und damit den Seeweg in den Indischen Ozean öffnete; kam 1500 auf der Flotte Cabrals in einem Sturm ums Leben.
+  regions: [iberische-halbinsel, suedliches-afrika, atlantik]
+  themes: [handelsnetze]
+  places: [lissabon]
+- id: muhammad-xii-von-granada
+  name: Muhammad XII. von Granada
+  aliases: [Boabdil, Abu Abdallah Muhammad]
+  born: "~1460"
+  died: "~1533"
+  roles: [Emir von Granada]
+  summary: Letzter nasridischer Herrscher von Granada, der die Stadt nach langer Belagerung durch Vertrag den Katholischen Königen übergab; am 2. Januar 1492 zogen diese ein. Er ging später nach Nordafrika ins Exil.
+  regions: [iberische-halbinsel, nordafrika]
+  themes: [politik, krieg-militaer]
+  places: [granada]
+- id: martin-alonso-pinzon
+  name: Martín Alonso Pinzón
+  born: "~1441"
+  died: "1493"
+  roles: [Seefahrer, Kapitän]
+  summary: Reeder und Seefahrer aus Palos, der für die erste Reise Seeleute anwarb und die Pinta befehligte; trennte sich zeitweise eigenmächtig von Kolumbus und starb kurz nach der Rückkehr.
+  regions: [iberische-halbinsel, karibik]
+  themes: [handelsnetze]
+  places: [palos-de-la-frontera]
+- id: alexander-vi
+  name: Alexander VI.
+  aliases: [Rodrigo Borgia, Rodrigo de Borja]
+  born: "1431-01-01"
+  died: "1503-08-18"
+  roles: [Papst]
+  summary: Aus Valencia stammender Papst (1492–1503) aus der Familie Borgia, der 1493 mit der Bulle Inter caetera den Katholischen Königen die neu entdeckten Länder zur Herrschaft und Mission zusprach.
+  regions: [italien, iberische-halbinsel]
+  themes: [religion, politik]
+  places: [rom]
+- id: guacanagari
+  name: Guacanagarí
+  roles: [Kazike]
+  summary: Taíno-Kazike im Nordwesten Hispaniolas, der Kolumbus nach dem Schiffbruch der Santa María Weihnachten 1492 half; in seinem Gebiet entstand die Siedlung La Navidad. Später stand er im Krieg mit anderen Kaziken auf Seiten der Spanier.
+  regions: [karibik]
+  themes: [politik]
+  places: [hispaniola, la-navidad]
+- id: anacaona
+  name: Anacaona
+  died: "1503"
+  roles: [Kazikin]
+  summary: Taíno-Herrscherin von Xaraguá im Westen Hispaniolas, nach spanischen Berichten auch als Dichterin von Liedern (areítos) bekannt; 1503 ließ Gouverneur Ovando bei einem Treffen zahlreiche Kaziken töten und sie hinrichten.
+  regions: [karibik]
+  themes: [politik, gewalt-genozid]
+  places: [hispaniola]
+- id: nicolas-de-ovando
+  name: Nicolás de Ovando
+  born: "~1460"
+  died: "1511"
+  roles: [Gouverneur]
+  summary: Spanischer Ordensritter, 1502–1509 Gouverneur von Hispaniola, der die Insel mit Massakern wie dem von Xaraguá unterwarf, Santo Domingo neu anlegte und die Zuteilung indigener Arbeitskräfte an Siedler organisierte.
+  regions: [karibik, iberische-halbinsel]
+  themes: [imperien, gewalt-genozid, sklaverei-unfreiheit]
+  places: [santo-domingo, hispaniola]
+- id: hatuey
+  name: Hatuey
+  died: "1512"
+  roles: [Kazike]
+  summary: Taíno-Kazike aus Hispaniola, der nach Kuba floh und dort Widerstand gegen die spanische Eroberung organisierte; er wurde gefangen genommen und verbrannt. Las Casas überlieferte, er habe die Taufe abgelehnt, um nicht mit Spaniern in den Himmel zu kommen.
+  regions: [karibik]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [hispaniola]
+- id: enriquillo
+  name: Enriquillo
+  aliases: [Guarocuya]
+  died: "~1535"
+  roles: [Kazike]
+  summary: Taíno-Kazike, der von Franziskanern erzogen wurde und 1519 mit seinen Leuten in die Berge Hispaniolas floh; nach über einem Jahrzehnt Guerillakrieg erreichte er 1533 einen Friedensvertrag mit der Krone.
+  regions: [karibik]
+  themes: [krieg-militaer]
+  places: [hispaniola]
+- id: antonio-de-montesinos
+  name: Antonio de Montesinos
+  aliases: [Antón de Montesinos]
+  roles: [Dominikaner, Prediger]
+  summary: Dominikaner, der im Dezember 1511 in Santo Domingo im Namen seines Konvents die spanischen Siedler wegen ihrer Grausamkeit gegenüber den Taíno anklagte; die Predigt löste den Streit aus, der zu den Gesetzen von Burgos führte.
+  regions: [karibik, iberische-halbinsel]
+  themes: [religion, verfassung-recht]
+  places: [santo-domingo]
+- id: bartolome-de-las-casas
+  name: Bartolomé de las Casas
+  aliases: [Las Casas]
+  born: "~1484"
+  died: "1566-07-18"
+  roles: [Dominikaner, Bischof von Chiapas, Geschichtsschreiber]
+  summary: Spanischer Siedler und Encomendero auf Hispaniola und Kuba, der 1514 seine Encomienda aufgab und zum wichtigsten Anwalt der Indigenen wurde; Dominikaner, Bischof von Chiapas, Verfasser der „Brevísima relación“ und Gegner Sepúlvedas in Valladolid 1550/51.
+  regions: [karibik, iberische-halbinsel, mesoamerika]
+  themes: [religion, verfassung-recht, geschichtsschreibung, gewalt-genozid]
+  places: [hispaniola, santo-domingo, sevilla, valladolid]
+  related: [antonio-de-montesinos, juan-gines-de-sepulveda]
+- id: juan-gines-de-sepulveda
+  name: Juan Ginés de Sepúlveda
+  born: "~1490"
+  died: "1573"
+  roles: [Humanist, Theologe, Hofchronist]
+  summary: Spanischer Humanist und Aristoteles-Übersetzer, der die Kriege gegen die Indigenen mit der Lehre von der natürlichen Sklaverei rechtfertigte und darüber 1550/51 in Valladolid mit Las Casas stritt.
+  regions: [iberische-halbinsel]
+  themes: [religion, verfassung-recht]
+  places: [valladolid]
+- id: ramon-pane
+  name: Ramón Pané
+  roles: [Ordensbruder, Chronist]
+  summary: Katalanischer Hieronymit, der mit der zweiten Reise des Kolumbus nach Hispaniola kam, im Auftrag des Admirals die Sprache und Religion der Taíno studierte und um 1498 den ersten ethnografischen Bericht über ein amerikanisches Volk verfasste.
+  regions: [karibik, iberische-halbinsel]
+  themes: [religion, schrift-medien]
+  places: [hispaniola]
+- id: amerigo-vespucci
+  name: Amerigo Vespucci
+  aliases: [Americus Vespucius]
+  born: "~1454"
+  died: "1512-02-22"
+  roles: [Kaufmann, Seefahrer, Piloto mayor]
+  summary: Florentiner Kaufmann, der um 1499–1502 an Fahrten zur Küste Südamerikas teilnahm; unter seinem Namen verbreitete Briefe beschrieben eine neue Welt, weshalb Waldseemüller und Ringmann 1507 den Kontinent nach ihm benannten. Ab 1508 oberster Lotse Spaniens in Sevilla.
+  regions: [italien, iberische-halbinsel, suedamerika]
+  themes: [handelsnetze, wissenschaft-technik]
+  places: [sevilla]
+- id: martin-waldseemueller
+  name: Martin Waldseemüller
+  aliases: [Martinus Ilacomilus]
+  born: "~1470"
+  died: "~1520"
+  roles: [Kartograf]
+  summary: Aus dem Breisgau stammender Kartograf, der in Saint-Dié in Lothringen mit Matthias Ringmann 1507 eine große Weltkarte schuf, auf der der Name America zum ersten Mal steht.
+  regions: [mitteleuropa, frankreich]
+  themes: [wissenschaft-technik]
+  places: [saint-die-des-vosges]
+- id: pedro-alvares-cabral
+  name: Pedro Álvares Cabral
+  born: "~1467"
+  died: "~1520"
+  roles: [Seefahrer]
+  summary: Portugiesischer Flottenführer, der 1500 auf dem Weg nach Indien weit nach Westen ausholte und die Küste Brasiliens erreichte, die nach dem Vertrag von Tordesillas in der portugiesischen Hälfte lag.
+  regions: [iberische-halbinsel, suedamerika, suedasien]
+  themes: [handelsnetze, imperien]
+  places: [lissabon]
+- id: alfred-w-crosby
+  name: Alfred W. Crosby
+  aliases: [Alfred Crosby]
+  born: "1931"
+  died: "2018"
+  roles: [Historiker]
+  summary: Amerikanischer Historiker, der mit „The Columbian Exchange“ (1972) und „Ecological Imperialism“ (1986) den Begriff des Kolumbischen Austauschs prägte und die Umweltgeschichte der europäischen Expansion begründete.
+  regions: [nordamerika]
+  themes: [geschichtsschreibung, umwelt-klima]

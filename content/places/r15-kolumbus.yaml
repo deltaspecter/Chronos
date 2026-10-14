@@ -1,0 +1,109 @@
+# Orte: Kolumbus und der Kolumbische Austausch (r15-kolumbus)
+- id: hispaniola
+  name: Hispaniola
+  aliases: [La Española, Ayiti, Quisqueya]
+  coords: [-71.0, 19.0]
+  location: ungefaehr
+  categories: [region]
+  modernName: Insel mit Haiti und der Dominikanischen Republik
+  summary: Zweitgrößte Insel der Großen Antillen, Heimat mehrerer Taíno-Herrschaften; 1492 von Kolumbus erreicht und erstes Zentrum spanischer Herrschaft in Amerika, auf dem die indigene Bevölkerung innerhalb weniger Jahrzehnte fast vollständig zugrunde ging.
+  regions: [karibik]
+  themes: [imperien, gewalt-genozid]
+- id: guanahani
+  name: Guanahani
+  aliases: [San Salvador, Watling Island]
+  coords: [-74.48, 24.05]
+  location: umstritten
+  categories: [region]
+  modernName: wahrscheinlich die Insel San Salvador (Bahamas)
+  summary: Insel der Bahamas, die ihre Bewohner Guanahani nannten und auf der Kolumbus am 12. Oktober 1492 zuerst an Land ging; welche heutige Insel gemeint ist, ist umstritten – meist wird die 1925 in San Salvador umbenannte Watling-Insel genannt, alternativ etwa Samana Cay.
+  regions: [karibik]
+  themes: [handelsnetze]
+- id: palos-de-la-frontera
+  name: Palos de la Frontera
+  aliases: [Palos]
+  coords: [-6.893, 37.228]
+  categories: [stadt, hafen]
+  modernName: Palos de la Frontera (Provinz Huelva, Spanien)
+  summary: Kleine andalusische Hafenstadt am Río Tinto, von der Kolumbus am 3. August 1492 mit drei Schiffen auslief und in die er im März 1493 zurückkehrte; viele Seeleute der ersten Reise stammten von hier.
+  regions: [iberische-halbinsel]
+  themes: [handelsnetze]
+- id: granada
+  name: Granada
+  aliases: [Gharnata]
+  coords: [-3.5986, 37.1773]
+  categories: [stadt, hauptstadt]
+  modernName: Granada (Andalusien, Spanien)
+  summary: Hauptstadt des letzten muslimischen Emirats auf der Iberischen Halbinsel mit dem Palastbezirk Alhambra; am 2. Januar 1492 übergab der Emir die Stadt den Katholischen Königen.
+  regions: [iberische-halbinsel]
+  themes: [politik, religion]
+- id: sevilla
+  name: Sevilla
+  aliases: [Seville, Ischbiliya]
+  coords: [-5.9845, 37.3891]
+  categories: [stadt, hafen]
+  modernName: Sevilla (Andalusien, Spanien)
+  summary: Binnenhafen am Guadalquivir, seit 1503 Sitz der Casa de Contratación und bis ins 18. Jahrhundert monopolistisches Zentrum des spanischen Amerikahandels.
+  regions: [iberische-halbinsel]
+  themes: [handelsnetze, wirtschaft-handel]
+- id: la-gomera
+  name: La Gomera
+  aliases: [San Sebastián de La Gomera]
+  coords: [-17.11, 28.09]
+  categories: [hafen]
+  modernName: San Sebastián de La Gomera (Kanarische Inseln, Spanien)
+  summary: Kanarische Insel und letzte Station des Kolumbus vor der Atlantiküberquerung, die er am 6. September 1492 verließ; die Kanaren waren seit dem 15. Jahrhundert ein Versuchsfeld kastilischer Eroberung und Plantagenwirtschaft.
+  regions: [atlantik]
+  themes: [handelsnetze, imperien]
+- id: la-navidad
+  name: La Navidad
+  coords: [-72.12, 19.73]
+  location: umstritten
+  categories: [fundstaette]
+  modernName: vermutlich bei En Bas Saline (Nordküste Haitis)
+  summary: Erste spanische Niederlassung in Amerika, Weihnachten 1492 aus den Planken der gestrandeten Santa María im Gebiet des Kaziken Guacanagarí errichtet; die 39 zurückgelassenen Männer waren bei der Rückkehr des Kolumbus 1493 tot.
+  regions: [karibik]
+  themes: [imperien, archaeologie]
+- id: la-isabela
+  name: La Isabela
+  coords: [-71.08, 19.89]
+  location: ungefaehr
+  categories: [fundstaette]
+  modernName: Archäologischer Park La Isabela (Provinz Puerto Plata, Dominikanische Republik)
+  summary: Anfang 1494 von Kolumbus an der Nordküste Hispaniolas gegründete erste geplante spanische Stadt in Amerika; wegen Krankheit, Hunger und Konflikten wenige Jahre später aufgegeben. Ausgrabungen gaben Einblick in die frühe Kolonie.
+  regions: [karibik]
+  themes: [imperien, archaeologie]
+- id: santo-domingo
+  name: Santo Domingo
+  aliases: [Santo Domingo de Guzmán, Ciudad Trujillo]
+  coords: [-69.8923, 18.4655]
+  categories: [stadt, hauptstadt, hafen]
+  modernName: Santo Domingo (Dominikanische Republik)
+  summary: In den 1490er-Jahren von Bartolomé Colón gegründet und nach 1502 von Ovando neu angelegt; älteste dauerhafte europäische Stadt Amerikas und im frühen 16. Jahrhundert Verwaltungszentrum der spanischen Karibik.
+  regions: [karibik]
+  themes: [imperien]
+- id: tordesillas
+  name: Tordesillas
+  coords: [-5.0, 41.50]
+  categories: [stadt]
+  modernName: Tordesillas (Provinz Valladolid, Spanien)
+  summary: Kastilische Kleinstadt am Duero, in der Gesandte Kastiliens und Portugals am 7. Juni 1494 den Vertrag über die Aufteilung der außereuropäischen Welt unterzeichneten.
+  regions: [iberische-halbinsel]
+  themes: [politik, verfassung-recht]
+- id: valladolid
+  name: Valladolid
+  coords: [-4.7245, 41.6523]
+  categories: [stadt]
+  modernName: Valladolid (Kastilien und León, Spanien)
+  summary: Eine der wichtigsten Residenzstädte Kastiliens, in der Kolumbus 1506 starb und 1550/51 Las Casas und Sepúlveda über die Rechtmäßigkeit der Eroberung Amerikas stritten.
+  regions: [iberische-halbinsel]
+  themes: [politik, religion]
+- id: saint-die-des-vosges
+  name: Saint-Dié-des-Vosges
+  aliases: [Saint-Dié]
+  coords: [6.95, 48.284]
+  categories: [stadt, kulturzentrum]
+  modernName: Saint-Dié-des-Vosges (Frankreich)
+  summary: Kleinstadt in den Vogesen, damals im Herzogtum Lothringen, wo ein Gelehrtenkreis 1507 die Cosmographiae Introductio und Waldseemüllers Weltkarte mit dem Namen America druckte.
+  regions: [frankreich]
+  themes: [wissenschaft-technik, schrift-medien]

@@ -1,0 +1,34 @@
+# Staaten: Kolumbus und der Kolumbische Austausch (r15-kolumbus)
+- id: krone-kastilien
+  name: Krone Kastilien
+  aliases: [Kastilien, Kastilien-León, Corona de Castilla]
+  start: "1230"
+  end: "1516"
+  spanNote: 1230 wurden Kastilien und León endgültig vereinigt; seit 1474/1479 regierten Isabella und Ferdinand Kastilien und Aragon gemeinsam. Als Ende wird hier der Herrschaftsantritt Karls I. (Kaiser Karl V.) 1516 gewählt, mit dem die spanische Monarchie entstand; rechtlich blieb Kastilien darin bis ins 18. Jahrhundert ein eigenes Königreich.
+  summary: Größtes Reich der Iberischen Halbinsel, das 1492 Granada eroberte und dem die Länder in Amerika rechtlich zugeordnet wurden; Träger der spanischen Expansion in den Atlantik.
+  regions: [iberische-halbinsel]
+  themes: [politik, imperien]
+  successors: [spanisches-kolonialreich]
+  weight: 2
+- id: emirat-granada
+  name: Emirat von Granada
+  aliases: [Nasridenreich, Königreich Granada, Nasriden]
+  start: "1238"
+  end: "1492-01-02"
+  capital: granada
+  spanNote: Muhammad I. aus der Dynastie der Nasriden nahm 1238 Granada in Besitz; das Emirat war lange Kastilien tributpflichtig.
+  summary: Letztes muslimisches Reich auf der Iberischen Halbinsel, berühmt für die Alhambra; im Krieg von 1482 bis 1492 von den Katholischen Königen erobert.
+  regions: [iberische-halbinsel]
+  themes: [politik, religion, kultur-kunst]
+  successors: [krone-kastilien]
+  weight: 2
+- id: koenigreich-portugal
+  name: Königreich Portugal
+  aliases: [Portugal]
+  start: "1139"
+  capital: lissabon
+  spanNote: Afonso Henriques nannte sich seit 1139 König; Kastilien erkannte das Königreich 1143 an, der Papst 1179. 1580–1640 in Personalunion mit Spanien, 1910 Republik.
+  summary: Atlantisches Königreich im Westen der Iberischen Halbinsel, das im 15. Jahrhundert mit der Eroberung Ceutas, der Besiedlung atlantischer Inseln und den Fahrten entlang Afrikas die europäische Überseeexpansion eröffnete.
+  regions: [iberische-halbinsel, atlantik]
+  themes: [politik, imperien, handelsnetze]
+  weight: 2

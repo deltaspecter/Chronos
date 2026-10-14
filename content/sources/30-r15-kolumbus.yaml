@@ -1,0 +1,235 @@
+# Quellen und Literatur: Kolumbus und der Kolumbische Austausch (r15-kolumbus)
+
+# --- Forschung ---
+- id: crosby-1972
+  kind: sekundaer
+  authors: ["Crosby, Alfred W."]
+  title: The Columbian Exchange
+  subtitle: Biological and Cultural Consequences of 1492
+  place: Westport, Conn.
+  publisher: Greenwood Press
+  year: 1972
+- id: crosby-1986
+  kind: sekundaer
+  authors: ["Crosby, Alfred W."]
+  title: Ecological Imperialism
+  subtitle: The Biological Expansion of Europe, 900–1900
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1986
+- id: phillips-phillips-1992
+  kind: sekundaer
+  authors: ["Phillips, William D., Jr.", "Phillips, Carla Rahn"]
+  title: The Worlds of Christopher Columbus
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1992
+- id: fernandez-armesto-1991
+  kind: sekundaer
+  authors: ["Fernández-Armesto, Felipe"]
+  title: Columbus
+  place: Oxford
+  publisher: Oxford University Press
+  year: 1991
+- id: abulafia-2008
+  kind: sekundaer
+  authors: ["Abulafia, David"]
+  title: The Discovery of Mankind
+  subtitle: Atlantic Island Encounters in the Age of Columbus
+  place: New Haven
+  publisher: Yale University Press
+  year: 2008
+- id: livi-bacci-2003
+  kind: sekundaer
+  authors: ["Livi Bacci, Massimo"]
+  title: "Return to Hispaniola: Reassessing a Demographic Catastrophe"
+  container: Hispanic American Historical Review
+  volume: "83"
+  year: 2003
+  pages: 3–51
+- id: livi-bacci-2008
+  kind: sekundaer
+  authors: ["Livi Bacci, Massimo"]
+  title: Conquest
+  subtitle: The Destruction of the American Indios
+  place: Cambridge
+  publisher: Polity
+  year: 2008
+- id: nunn-qian-2010
+  kind: sekundaer
+  authors: ["Nunn, Nathan", "Qian, Nancy"]
+  title: "The Columbian Exchange: A History of Disease, Food, and Ideas"
+  container: Journal of Economic Perspectives
+  volume: "24"
+  year: 2010
+  pages: 163–188
+- id: nunn-qian-2011
+  kind: sekundaer
+  authors: ["Nunn, Nathan", "Qian, Nancy"]
+  title: "The Potato's Contribution to Population and Urbanization: Evidence from a Historical Experiment"
+  container: Quarterly Journal of Economics
+  volume: "126"
+  year: 2011
+  pages: 593–650
+- id: mann-2011
+  kind: sekundaer
+  authors: ["Mann, Charles C."]
+  title: "1493"
+  subtitle: Uncovering the New World Columbus Created
+  place: New York
+  publisher: Knopf
+  year: 2011
+- id: resendez-2016
+  kind: sekundaer
+  authors: ["Reséndez, Andrés"]
+  title: The Other Slavery
+  subtitle: The Uncovered Story of Indian Enslavement in America
+  place: Boston
+  publisher: Houghton Mifflin Harcourt
+  year: 2016
+- id: denevan-1992
+  kind: sekundaer
+  editors: ["Denevan, William M."]
+  title: The Native Population of the Americas in 1492
+  edition: 2. Auflage
+  place: Madison
+  publisher: University of Wisconsin Press
+  year: 1992
+- id: rouse-1992
+  kind: sekundaer
+  authors: ["Rouse, Irving"]
+  title: The Tainos
+  subtitle: Rise and Decline of the People Who Greeted Columbus
+  place: New Haven
+  publisher: Yale University Press
+  year: 1992
+- id: wilson-1990
+  kind: sekundaer
+  authors: ["Wilson, Samuel M."]
+  title: Hispaniola
+  subtitle: Caribbean Chiefdoms in the Age of Columbus
+  place: Tuscaloosa
+  publisher: University of Alabama Press
+  year: 1990
+- id: bitterli-1991
+  kind: sekundaer
+  authors: ["Bitterli, Urs"]
+  title: Die Entdeckung Amerikas
+  subtitle: Von Kolumbus bis Alexander von Humboldt
+  place: München
+  publisher: C. H. Beck
+  year: 1991
+- id: todorov-1982
+  kind: sekundaer
+  authors: ["Todorov, Tzvetan"]
+  title: La conquête de l'Amérique
+  subtitle: La question de l'autre
+  place: Paris
+  publisher: Seuil
+  year: 1982
+- id: koch-2019
+  kind: sekundaer
+  authors: ["Koch, Alexander", "Brierley, Chris", "Maslin, Mark M.", "Lewis, Simon L."]
+  title: Earth System Impacts of the European Arrival and Great Dying in the Americas after 1492
+  container: Quaternary Science Reviews
+  volume: "207"
+  year: 2019
+  pages: 13–36
+- id: russell-1991
+  kind: sekundaer
+  authors: ["Russell, Jeffrey Burton"]
+  title: Inventing the Flat Earth
+  subtitle: Columbus and Modern Historians
+  place: New York
+  publisher: Praeger
+  year: 1991
+- id: summerhill-williams-2000
+  kind: sekundaer
+  authors: ["Summerhill, Stephen J.", "Williams, John Alexander"]
+  title: Sinking Columbus
+  subtitle: Contested History, Cultural Politics, and Mythmaking during the Quincentenary
+  place: Gainesville
+  publisher: University Press of Florida
+  year: 2000
+- id: stannard-1992
+  kind: sekundaer
+  authors: ["Stannard, David E."]
+  title: American Holocaust
+  subtitle: Columbus and the Conquest of the New World
+  place: New York
+  publisher: Oxford University Press
+  year: 1992
+
+# --- Primärquellen ---
+- id: q-kolumbus-bordbuch
+  kind: primaer
+  authors: ["Kolumbus, Christoph"]
+  title: Diario de a bordo (Bordbuch der ersten Reise)
+  written: an Bord, August 1492 – März 1493
+  note: Tägliche Aufzeichnungen der ersten Reise; das Original ist verloren, erhalten ist nur eine teils wörtliche, teils zusammenfassende Abschrift von Bartolomé de las Casas.
+- id: q-kolumbus-brief-1493
+  kind: primaer
+  authors: ["Kolumbus, Christoph"]
+  title: Brief über die erste Reise (an Luis de Santángel)
+  written: auf der Rückfahrt, datiert 15. Februar 1493
+  note: Erster Bericht über die Fahrt, 1493 in Barcelona gedruckt und in lateinischer Übersetzung rasch in ganz Europa verbreitet.
+- id: q-kapitulationen-santa-fe
+  kind: primaer
+  authors: ["Isabella I. von Kastilien", "Ferdinand II. von Aragon"]
+  title: Capitulaciones de Santa Fe
+  written: Santa Fe bei Granada, 17. April 1492
+  note: Vertrag der Katholischen Könige mit Kolumbus, der ihm für den Erfolg die Titel Admiral, Vizekönig und Gouverneur sowie einen Anteil an den Erträgen zusicherte.
+- id: q-inter-caetera
+  kind: primaer
+  authors: ["Alexander VI., Papst"]
+  title: Inter caetera
+  written: Rom, datiert 4. Mai 1493
+  note: Päpstliche Bulle, die den Katholischen Königen alle Länder westlich einer Linie 100 Leguas westlich der Azoren und Kapverden zur Herrschaft und Mission zusprach.
+- id: q-vertrag-tordesillas
+  kind: primaer
+  authors: ["Krone Kastilien", "Krone Portugal"]
+  title: Vertrag von Tordesillas
+  written: Tordesillas, 7. Juni 1494
+  note: Vertrag zwischen Kastilien und Portugal, der die Trennlinie auf 370 Leguas westlich der Kapverdischen Inseln verschob.
+- id: q-ramon-pane
+  kind: primaer
+  authors: ["Pané, Ramón"]
+  title: Relación acerca de las antigüedades de los indios
+  written: Hispaniola, um 1498
+  note: Bericht eines Ordensbruders aus dem Gefolge des Kolumbus über Glauben und Mythen der Taíno; das Original ist verloren, der Text ist in italienischer Übersetzung in der 1571 gedruckten Kolumbus-Biografie seines Sohnes Fernando erhalten.
+- id: q-gesetze-burgos
+  kind: primaer
+  authors: ["Ferdinand II. von Aragon"]
+  title: Leyes de Burgos (Ordenanzas para el tratamiento de los indios)
+  written: Burgos, 27. Dezember 1512
+  note: Erste allgemeine Ordnung der spanischen Krone für die Behandlung der Indigenen in der Karibik, die die Zwangsarbeit regelte, aber nicht abschaffte.
+- id: q-requerimiento
+  kind: primaer
+  authors: ["López de Palacios Rubios, Juan"]
+  title: Requerimiento
+  written: Kastilien, 1513
+  note: Juristisch formulierte Aufforderung an indigene Völker, sich der Kirche und der spanischen Krone zu unterwerfen, die vor Angriffen verlesen werden sollte – oft in einer für die Angesprochenen unverständlichen Sprache.
+- id: q-las-casas-brevisima
+  kind: primaer
+  authors: ["Las Casas, Bartolomé de"]
+  title: Brevísima relación de la destrucción de las Indias
+  written: 1542 verfasst, 1552 in Sevilla gedruckt
+  note: Anklageschrift des Dominikaners gegen die Gewalt der spanischen Eroberer, die in viele Sprachen übersetzt und von Spaniens Gegnern propagandistisch genutzt wurde.
+- id: q-las-casas-historia
+  kind: primaer
+  authors: ["Las Casas, Bartolomé de"]
+  title: Historia de las Indias
+  written: ab etwa 1527 bis in die 1560er-Jahre, erst 1875–1876 gedruckt
+  note: Umfangreiche Geschichte der ersten Jahrzehnte spanischer Herrschaft in der Karibik, gestützt auf eigene Erfahrung und auf Papiere des Kolumbus.
+- id: q-mundus-novus
+  kind: primaer
+  authors: ["Vespucci, Amerigo (zugeschrieben)"]
+  title: Mundus Novus
+  written: um 1503 gedruckt
+  note: Unter Vespuccis Namen veröffentlichter Brief über eine Fahrt entlang der Küste Südamerikas, der die entdeckten Länder als neue Welt bezeichnete; ob Vespucci ihn so verfasst hat, ist umstritten.
+- id: q-waldseemueller-1507
+  kind: primaer
+  authors: ["Waldseemüller, Martin", "Ringmann, Matthias"]
+  title: Cosmographiae Introductio, mit der Weltkarte Universalis Cosmographia
+  written: Saint-Dié, 1507
+  note: Einführung in die Kosmografie und große Weltkarte, auf der der Name America zum ersten Mal erscheint; von der Karte ist nur ein Exemplar erhalten.
