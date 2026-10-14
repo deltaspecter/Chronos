@@ -650,5 +650,38 @@
     "author": "US-Verteidigungsministerium (National Archives, 193926)",
     "license": "Public domain",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:MRBM_Field_Launch_Site_San_Cristobal_No._1_14_October_1962_-_NARA_-_193926.tif"
+  },
+  "qingming-rolle-bruecke": {
+    "file": "qingming-rolle-bruecke.jpg",
+    "width": 1200,
+    "height": 600,
+    "author": "Zhang Zeduan",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Along_the_River_During_the_Qingming_Festival_(detail_of_original).jpg"
+  },
+  "bandung-eroeffnung": {
+    "file": "bandung-eroeffnung.png",
+    "width": 1200,
+    "height": 731,
+    "author": "Foreign Ministry of the Republic of Indonesia",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delegates_at_the_opening_meeting_of_the_Bandung_Conference.png"
+  },
+  "luftbruecke-tempelhof": {
+    "file": "luftbruecke-tempelhof.jpg",
+    "width": 1200,
+    "height": 835,
+    "author": "US Army Corps of Engineers",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:C-54_landing_on_old_Tempelhof_runway_as_work_continues_-_USACE-p15141coll5-630.jpeg"
+  },
+  "nofretete-bueste": {
+    "file": "nofretete-bueste.jpg",
+    "width": 820,
+    "height": 1200,
+    "author": "Xenon77 (Bearbeitung – Smalljim)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nofretete_Neues_Museum-edit.jpg"
   }
 }

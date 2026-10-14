@@ -1,0 +1,273 @@
+# Personen: Berliner Blockade
+- id: ernst-reuter
+  name: Ernst Reuter
+  born: "1889-07-29"
+  died: "1953-09-29"
+  roles: [Oberbürgermeister, Regierender Bürgermeister von Berlin]
+  summary: Sozialdemokrat, der vor den Nationalsozialisten in die Türkei emigrierte, 1947 zum Oberbürgermeister Berlins gewählt wurde, aber erst nach der Spaltung der Stadt im Westen amtieren konnte; zur Symbolfigur des Widerstands gegen die Blockade.
+  regions: [deutschland]
+  themes: [politik]
+  places: [berlin, reichstagsgebaeude]
+- id: lucius-d-clay
+  name: Lucius D. Clay
+  born: "1898-04-23"
+  died: "1978-04-16"
+  roles: [General, Militärgouverneur]
+  summary: Amerikanischer General und 1947–1949 Militärgouverneur der US-Zone in Deutschland, der gegen Zweifel in Washington darauf bestand, in Berlin zu bleiben, und die Luftbrücke vorantrieb.
+  regions: [nordamerika, deutschland]
+  themes: [politik, krieg-militaer]
+  places: [berlin]
+- id: george-c-marshall
+  name: George C. Marshall
+  born: "1880-12-31"
+  died: "1959-10-16"
+  roles: [General, Außenminister der USA]
+  summary: Generalstabschef der US-Armee im Zweiten Weltkrieg und 1947–1949 Außenminister, dessen Programm zum Wiederaufbau Europas als Marshallplan bekannt wurde; 1953 Friedensnobelpreis.
+  regions: [nordamerika]
+  themes: [politik]
+  places: [washington]
+- id: gail-halvorsen
+  name: Gail Halvorsen
+  born: "1920-10-10"
+  died: "2022-02-16"
+  roles: [Pilot]
+  summary: Amerikanischer Transportflieger, der während der Luftbrücke an kleinen Fallschirmen Süßigkeiten für Berliner Kinder abwarf und so den Namen „Rosinenbomber“ prägte.
+  regions: [nordamerika, deutschland]
+  themes: [krieg-militaer]
+  places: [tempelhof]
+# Personen: Bandung-Konferenz
+- id: sukarno
+  name: Sukarno
+  born: "1901-06-06"
+  died: "1970-06-21"
+  roles: [Präsident Indonesiens]
+  summary: Führer der indonesischen Unabhängigkeitsbewegung, der 1945 die Republik ausrief, als erster Präsident die Bandung-Konferenz ausrichtete, zunehmend autoritär regierte und nach 1965 von General Suharto entmachtet wurde.
+  regions: [suedostasien]
+  themes: [politik]
+  places: [jakarta, bandung]
+- id: zhou-enlai
+  name: Zhou Enlai
+  born: "1898-03-05"
+  died: "1976-01-08"
+  roles: [Ministerpräsident, Außenminister]
+  summary: Seit 1949 Ministerpräsident der Volksrepublik China und lange auch Außenminister; in Genf 1954 und Bandung 1955 das konziliante Gesicht der chinesischen Diplomatie.
+  regions: [china]
+  themes: [politik]
+  places: [bandung, genf]
+- id: u-nu
+  name: U Nu
+  born: "1907-05-25"
+  died: "1995-02-14"
+  roles: [Ministerpräsident Birmas]
+  summary: Erster Ministerpräsident des unabhängigen Birma, Mitinitiator der Bandung-Konferenz und Verfechter der Blockfreiheit; 1962 durch einen Militärputsch gestürzt.
+  regions: [suedostasien]
+  themes: [politik]
+  places: [bandung]
+- id: carlos-p-romulo
+  name: Carlos P. Romulo
+  born: "1899-01-14"
+  died: "1985-12-15"
+  roles: [Diplomat]
+  summary: Philippinischer Journalist und Diplomat, Präsident der UN-Generalversammlung 1949/50, der in Bandung für die westlich gebundenen Staaten sprach und vor neuen Formen der Unterdrückung durch den Kommunismus warnte.
+  regions: [suedostasien]
+  themes: [politik]
+  places: [bandung, new-york]
+- id: richard-wright
+  name: Richard Wright
+  born: "1908-09-04"
+  died: "1960-11-28"
+  roles: [Schriftsteller]
+  summary: Afroamerikanischer Schriftsteller („Native Son“), der vor dem Rassismus in den USA nach Paris zog und über die Bandung-Konferenz das Buch „The Color Curtain“ schrieb.
+  regions: [nordamerika, frankreich]
+  themes: [kultur-kunst, politik]
+  places: [bandung, paris]
+# Personen: Amarna-Zeit
+- id: amenophis-iii
+  name: Amenophis III.
+  aliases: [Amenhotep III.]
+  died: "~-1352"
+  roles: [König]
+  summary: König der 18. Dynastie (um 1390–1352 v. Chr.), unter dem Ägypten Reichtum und Ansehen auf dem Höhepunkt erreichte; Vater Echnatons, Bauherr großer Tempel in Theben.
+  regions: [aegypten]
+  themes: [politik, religion]
+  places: [theben]
+  related: [teje, echnaton]
+- id: teje
+  name: Teje
+  aliases: [Tiye]
+  roles: [Königin]
+  summary: Große Königliche Gemahlin Amenophis' III. und Mutter Echnatons, die auch politisch Einfluss hatte; ausländische Herrscher schrieben ihr direkt.
+  regions: [aegypten]
+  themes: [politik]
+  places: [theben, amarna]
+- id: echnaton
+  name: Echnaton
+  aliases: [Akhenaten, Amenophis IV., Amenhotep IV.]
+  died: "~-1336"
+  roles: [König]
+  summary: König der 18. Dynastie (um 1352–1336 v. Chr.), der als Amenophis IV. den Thron bestieg, die Sonnenscheibe Aton zum einzigen Gott erhob, die neue Hauptstadt Achet-Aton (Amarna) gründete und nach seinem Tod aus der Erinnerung getilgt wurde.
+  regions: [aegypten]
+  themes: [religion, politik, kultur-kunst]
+  places: [amarna, theben, karnak]
+  related: [nofretete, amenophis-iii, tutanchamun]
+- id: nofretete
+  name: Nofretete
+  aliases: [Nefertiti, Neferneferuaton]
+  roles: [Königin]
+  summary: Große Königliche Gemahlin Echnatons, die in Bildern und Kult eine ungewöhnlich hervorgehobene Rolle spielte; ihr späteres Schicksal ist umstritten.
+  regions: [aegypten]
+  themes: [religion, politik]
+  places: [amarna]
+- id: tutanchamun
+  name: Tutanchamun
+  aliases: [Tutanchaton, Tutankhamun]
+  born: "~-1345?"
+  died: "~-1327"
+  roles: [König]
+  summary: Als Kind auf den Thron gelangter König (um 1336–1327 v. Chr.), wahrscheinlich ein Sohn Echnatons, unter dessen Regierung die alten Kulte wiederhergestellt wurden; berühmt durch sein 1922 fast unversehrt gefundenes Grab.
+  regions: [aegypten]
+  themes: [politik, religion]
+  places: [tal-der-koenige, karnak]
+- id: eje
+  name: Eje
+  aliases: [Ay]
+  died: "~-1323"
+  roles: [Höfling, König]
+  summary: Hoher Beamter am Hof Echnatons, in dessen Grab in Amarna der Große Sonnenhymnus überliefert ist; nach dem Tod Tutanchamuns kurz selbst König.
+  regions: [aegypten]
+  themes: [politik]
+  places: [amarna]
+- id: haremhab
+  name: Haremhab
+  aliases: [Horemheb]
+  died: "~-1295"
+  roles: [General, König]
+  summary: Oberbefehlshaber unter Tutanchamun und letzter König der 18. Dynastie (um 1323–1295 v. Chr.), der die Denkmäler Echnatons abtragen ließ.
+  regions: [aegypten]
+  themes: [politik, krieg-militaer]
+  places: [karnak]
+- id: thutmosis-bildhauer
+  name: Thutmosis (Bildhauer)
+  aliases: [Thutmose]
+  roles: [Bildhauer]
+  summary: Bildhauer in Amarna, in dessen Werkstatt 1912 die Büste der Nofretete und zahlreiche weitere Bildnisse gefunden wurden; sein Name und Titel stehen auf dem Bruchstück einer elfenbeinernen Scheuklappe aus dem Fundort.
+  regions: [aegypten]
+  themes: [kultur-kunst]
+  places: [amarna]
+- id: ludwig-borchardt
+  name: Ludwig Borchardt
+  born: "1863-10-05"
+  died: "1938-08-12"
+  roles: [Ägyptologe]
+  summary: Deutscher Ägyptologe und Architekt, der die Grabungen der Deutschen Orient-Gesellschaft in Amarna leitete und 1912 die Büste der Nofretete fand.
+  regions: [deutschland, aegypten]
+  themes: [archaeologie]
+  places: [amarna]
+- id: howard-carter
+  name: Howard Carter
+  born: "1874-05-09"
+  died: "1939-03-02"
+  roles: [Archäologe]
+  summary: Britischer Archäologe, der mit Unterstützung Lord Carnarvons 1922 im Tal der Könige das Grab des Tutanchamun entdeckte und über zehn Jahre lang ausräumte und dokumentierte.
+  regions: [britische-inseln, aegypten]
+  themes: [archaeologie]
+  places: [tal-der-koenige]
+# Personen: Song-Dynastie
+- id: song-taizu
+  name: Song Taizu
+  aliases: [Zhao Kuangyin, Taizu]
+  born: "927"
+  died: "976"
+  roles: [Kaiser]
+  summary: General, der sich 960 von seinen Truppen zum Kaiser ausrufen ließ, die Song-Dynastie gründete und die Macht der Militärgouverneure zugunsten ziviler Beamter brach.
+  regions: [china]
+  themes: [politik, imperien]
+  places: [kaifeng]
+- id: wang-anshi
+  name: Wang Anshi
+  born: "1021"
+  died: "1086"
+  roles: [Kanzler, Reformer, Dichter]
+  summary: Kanzler unter Kaiser Shenzong, der ab 1069 mit der „Neuen Politik“ Staatskredite für Bauern, Steuer- und Militärreformen durchsetzte; seine Reformen spalteten die Beamtenschaft über Generationen.
+  regions: [china]
+  themes: [politik, wirtschaft-handel]
+  places: [kaifeng]
+  related: [sima-guang]
+- id: sima-guang
+  name: Sima Guang
+  born: "1019"
+  died: "1086"
+  roles: [Historiker, Kanzler]
+  summary: Staatsmann und Historiker, Wortführer der Gegner Wang Anshis und Verfasser des „Umfassenden Spiegels zur Hilfe bei der Regierung“ (Zizhi tongjian), einer Geschichte Chinas über 1362 Jahre.
+  regions: [china]
+  themes: [politik, geschichtsschreibung]
+  places: [kaifeng]
+- id: su-shi
+  name: Su Shi
+  aliases: [Su Dongpo]
+  born: "1037"
+  died: "1101"
+  roles: [Dichter, Maler, Beamter]
+  summary: Einer der bedeutendsten Dichter, Kalligrafen und Essayisten Chinas, als Gegner der Reformen Wang Anshis mehrfach verbannt; als Präfekt von Hangzhou ließ er einen Damm im Westsee anlegen.
+  regions: [china]
+  themes: [kultur-kunst, politik]
+  places: [hangzhou, kaifeng]
+- id: shen-kuo
+  name: Shen Kuo
+  born: "1031"
+  died: "1095"
+  roles: [Gelehrter, Beamter]
+  summary: Universalgelehrter und Beamter, der in seinen „Pinselnotizen“ über Astronomie, Geologie, Mathematik und Technik schrieb und als Erster die magnetische Kompassnadel und den Druck mit beweglichen Lettern beschrieb.
+  regions: [china]
+  themes: [wissenschaft-technik]
+- id: bi-sheng
+  name: Bi Sheng
+  roles: [Handwerker]
+  summary: Handwerker, der nach Shen Kuo in den 1040er-Jahren bewegliche Lettern aus gebranntem Ton erfand; über sein Leben ist sonst fast nichts bekannt.
+  regions: [china]
+  themes: [wissenschaft-technik, schrift-medien]
+- id: song-huizong
+  name: Song Huizong
+  aliases: [Huizong, Zhao Ji]
+  born: "1082"
+  died: "1135"
+  roles: [Kaiser, Maler, Kalligraf]
+  summary: Kaiser 1100–1126, berühmter Maler, Kalligraf und Sammler, unter dessen Regierung die Jurchen 1127 Kaifeng eroberten; starb als ihr Gefangener in der Mandschurei.
+  regions: [china]
+  themes: [kultur-kunst, politik]
+  places: [kaifeng]
+- id: li-qingzhao
+  name: Li Qingzhao
+  born: "1084"
+  died: "~1155"
+  roles: [Dichterin]
+  summary: Bedeutendste Dichterin der Song-Zeit, deren Lieder (ci) von Liebe, Verlust und der Flucht nach Süden nach dem Fall Kaifengs handeln; sammelte mit ihrem Mann Inschriften und Altertümer.
+  regions: [china]
+  themes: [kultur-kunst]
+  places: [kaifeng, hangzhou]
+- id: yue-fei
+  name: Yue Fei
+  born: "1103"
+  died: "1142"
+  roles: [General]
+  summary: Feldherr der Südlichen Song, der erfolgreich gegen die Jurchen kämpfte, im Zuge des Friedensschlusses unter dem Kanzler Qin Gui verhaftet und hingerichtet wurde; später als Inbegriff des loyalen Patrioten verehrt.
+  regions: [china]
+  themes: [krieg-militaer]
+  places: [hangzhou]
+- id: zhu-xi
+  name: Zhu Xi
+  born: "1130"
+  died: "1200"
+  roles: [Philosoph]
+  summary: Philosoph, der die Lehren der konfuzianischen Erneuerer zum Neokonfuzianismus zusammenfasste; seine Kommentare zu den „Vier Büchern“ wurden 1313 Grundlage der Beamtenprüfungen und blieben es bis 1905.
+  regions: [china]
+  themes: [religion, gesellschaft]
+- id: wen-tianxiang
+  name: Wen Tianxiang
+  born: "1236"
+  died: "1283"
+  roles: [Kanzler, Dichter]
+  summary: Kanzler der Südlichen Song, der nach dem Fall Hangzhous den Widerstand gegen die Mongolen fortsetzte, gefangen genommen wurde und den Dienst unter Khubilai Khan verweigerte; in Dadu hingerichtet.
+  regions: [china]
+  themes: [politik, krieg-militaer]
+  places: [hangzhou, dadu]

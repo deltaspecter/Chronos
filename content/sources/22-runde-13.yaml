@@ -1,0 +1,237 @@
+# Quellen und Literatur: Berliner Blockade, Bandung-Konferenz, Amarna-Zeit, Song-Dynastie
+
+# --- Berliner Blockade ---
+- id: parrish-1998
+  kind: sekundaer
+  authors: ["Parrish, Thomas"]
+  title: Berlin in the Balance, 1945–1949
+  subtitle: The Blockade, the Airlift, the First Major Battle of the Cold War
+  place: Reading, Mass.
+  publisher: Addison-Wesley
+  year: 1998
+- id: harrington-2012
+  kind: sekundaer
+  authors: ["Harrington, Daniel F."]
+  title: Berlin on the Brink
+  subtitle: The Blockade, the Airlift, and the Early Cold War
+  place: Lexington
+  publisher: University Press of Kentucky
+  year: 2012
+- id: tusa-1988
+  kind: sekundaer
+  authors: ["Tusa, Ann", "Tusa, John"]
+  title: The Berlin Blockade
+  place: London
+  publisher: Hodder & Stoughton
+  year: 1988
+- id: keiderling-1998
+  kind: sekundaer
+  authors: ["Keiderling, Gerhard"]
+  title: „Rosinenbomber über Berlin“
+  subtitle: Währungsreform, Blockade, Luftbrücke, Teilung
+  place: Berlin
+  publisher: Dietz
+  year: 1998
+- id: q-marshall-1947
+  kind: primaer
+  authors: ["Marshall, George C."]
+  title: Rede an der Harvard University
+  written: Cambridge, Mass., 5. Juni 1947
+  note: Ansprache des amerikanischen Außenministers, die ein umfassendes Hilfsprogramm für den Wiederaufbau Europas ankündigte – den späteren Marshallplan.
+- id: q-reuter-1948
+  kind: primaer
+  authors: ["Reuter, Ernst"]
+  title: Rede auf der Kundgebung vor dem Reichstagsgebäude
+  written: Berlin, 9. September 1948
+  note: Vor rund 300.000 Menschen gehaltene Rede, in der der gewählte Oberbürgermeister die „Völker der Welt“ aufrief, auf Berlin zu schauen und die Stadt nicht preiszugeben.
+- id: q-clay-1950
+  kind: primaer
+  authors: ["Clay, Lucius D."]
+  title: Decision in Germany
+  written: Garden City, N. Y., 1950
+  note: Erinnerungen des amerikanischen Militärgouverneurs in Deutschland 1947–1949, der die Luftbrücke organisierte; deutsch als „Entscheidung in Deutschland“ (1950).
+
+# --- Bandung-Konferenz ---
+- id: tan-acharya-2008
+  kind: sekundaer
+  editors: ["Tan, See Seng", "Acharya, Amitav"]
+  title: Bandung Revisited
+  subtitle: The Legacy of the 1955 Asian-African Conference for International Order
+  place: Singapur
+  publisher: NUS Press
+  year: 2008
+- id: lee-2010
+  kind: sekundaer
+  editors: ["Lee, Christopher J."]
+  title: Making a World after Empire
+  subtitle: The Bandung Moment and Its Political Afterlives
+  place: Athens, Ohio
+  publisher: Ohio University Press
+  year: 2010
+- id: prashad-2007
+  kind: sekundaer
+  authors: ["Prashad, Vijay"]
+  title: The Darker Nations
+  subtitle: A People's History of the Third World
+  place: New York
+  publisher: The New Press
+  year: 2007
+- id: ampiah-2007
+  kind: sekundaer
+  authors: ["Ampiah, Kweku"]
+  title: The Political and Moral Imperatives of the Bandung Conference of 1955
+  subtitle: The Reactions of the US, UK and Japan
+  place: Folkestone
+  publisher: Global Oriental
+  year: 2007
+- id: q-sukarno-1955
+  kind: primaer
+  authors: ["Sukarno"]
+  title: Eröffnungsrede der Asiatisch-Afrikanischen Konferenz („Let a New Asia and a New Africa be Born“)
+  written: Bandung, 18. April 1955
+  note: Rede des indonesischen Präsidenten, die die Konferenz als erste interkontinentale Versammlung „farbiger Völker“ der Geschichte bezeichnete und den Kolonialismus als noch nicht überwunden beschrieb.
+- id: q-bandung-kommunique
+  kind: primaer
+  title: Schlusskommuniqué der Asiatisch-Afrikanischen Konferenz
+  written: Bandung, 24. April 1955
+  note: Gemeinsame Erklärung der 29 Teilnehmerstaaten zu wirtschaftlicher und kultureller Zusammenarbeit, Menschenrechten, Selbstbestimmung und Kolonialismus, mit zehn Grundsätzen für das friedliche Zusammenleben der Staaten.
+- id: q-panchsheel-1954
+  kind: primaer
+  title: Abkommen zwischen Indien und China über Handel und Verkehr zwischen Tibet und Indien
+  written: Peking, 29. April 1954
+  note: Vertrag, dessen Präambel die „Fünf Prinzipien der friedlichen Koexistenz“ (Panchsheel) formulierte, auf die sich Nehru und Zhou Enlai in Bandung beriefen.
+- id: q-wright-1956
+  kind: primaer
+  authors: ["Wright, Richard"]
+  title: The Color Curtain
+  subtitle: A Report on the Bandung Conference
+  written: Cleveland und New York, 1956
+  note: Reportage des afroamerikanischen Schriftstellers, der als Beobachter nach Bandung reiste und die Konferenz als Aufstand der „Gedemütigten und Beleidigten“ der Welt beschrieb.
+
+# --- Amarna-Zeit ---
+- id: hornung-1995
+  kind: sekundaer
+  authors: ["Hornung, Erik"]
+  title: Echnaton
+  subtitle: Die Religion des Lichtes
+  place: Zürich
+  publisher: Artemis & Winkler
+  year: 1995
+- id: kemp-2012
+  kind: sekundaer
+  authors: ["Kemp, Barry"]
+  title: The City of Akhenaten and Nefertiti
+  subtitle: Amarna and Its People
+  place: London
+  publisher: Thames & Hudson
+  year: 2012
+- id: reeves-2001
+  kind: sekundaer
+  authors: ["Reeves, Nicholas"]
+  title: Akhenaten
+  subtitle: Egypt's False Prophet
+  place: London
+  publisher: Thames & Hudson
+  year: 2001
+- id: hoffmeier-2015
+  kind: sekundaer
+  authors: ["Hoffmeier, James K."]
+  title: Akhenaten and the Origins of Monotheism
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2015
+- id: hawass-2010
+  kind: sekundaer
+  authors: ["Hawass, Zahi", "Gad, Yehia Z.", "Ismail, Somaia", "u. a."]
+  title: Ancestry and Pathology in King Tutankhamun's Family
+  container: Journal of the American Medical Association
+  volume: "303 (7)"
+  year: 2010
+  pages: 638–647
+- id: moran-1992
+  kind: edition
+  editors: ["Moran, William L."]
+  title: The Amarna Letters
+  place: Baltimore
+  publisher: Johns Hopkins University Press
+  year: 1992
+  note: Übersetzung und Kommentar der rund 350 in Amarna gefundenen Keilschriftbriefe aus der Korrespondenz der Pharaonen mit Königen des Vorderen Orients und Vasallen in der Levante.
+- id: q-sonnenhymnus
+  kind: primaer
+  title: Großer Hymnus an den Aton
+  written: Amarna, um 1340 v. Chr.
+  note: Im Grab des Höflings und späteren Königs Eje erhaltener Lobgesang auf die Sonnenscheibe Aton als alleinigen Schöpfer und Erhalter allen Lebens; der wichtigste Text der Religion Echnatons.
+- id: q-restaurationsstele
+  kind: primaer
+  title: Restaurationsstele des Tutanchamun
+  written: Karnak, um 1330 v. Chr.
+  note: Inschrift, in der der junge König den Verfall der Tempel unter seinem Vorgänger beklagt und die Wiederherstellung der alten Kulte verkündet; heute im Ägyptischen Museum Kairo.
+
+# --- Song-Dynastie ---
+- id: kuhn-2009
+  kind: sekundaer
+  authors: ["Kuhn, Dieter"]
+  title: The Age of Confucian Rule
+  subtitle: The Song Transformation of China
+  place: Cambridge, Mass.
+  publisher: Belknap Press of Harvard University Press
+  year: 2009
+- id: twitchett-smith-2009
+  kind: sekundaer
+  editors: ["Twitchett, Denis", "Smith, Paul Jakov"]
+  title: "The Cambridge History of China, Bd. 5, Teil 1: The Sung Dynasty and Its Precursors, 907–1279"
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2009
+- id: gernet-1959
+  kind: sekundaer
+  authors: ["Gernet, Jacques"]
+  title: La vie quotidienne en Chine à la veille de l'invasion mongole, 1250–1276
+  place: Paris
+  publisher: Hachette
+  year: 1959
+- id: elvin-1973
+  kind: sekundaer
+  authors: ["Elvin, Mark"]
+  title: The Pattern of the Chinese Past
+  place: Stanford
+  publisher: Stanford University Press
+  year: 1973
+- id: ebrey-1993
+  kind: sekundaer
+  authors: ["Ebrey, Patricia Buckley"]
+  title: The Inner Quarters
+  subtitle: Marriage and the Lives of Chinese Women in the Sung Period
+  place: Berkeley
+  publisher: University of California Press
+  year: 1993
+- id: q-qingming-rolle
+  kind: primaer
+  authors: ["Zhang Zeduan"]
+  title: Entlang des Flusses beim Qingming-Fest (Qingming shanghe tu)
+  written: Kaifeng, frühes 12. Jahrhundert
+  note: Über fünf Meter lange Querrolle mit Hunderten Menschen, Booten, Läden und Brücken in einer Stadt, die meist als Kaifeng gedeutet wird; heute im Palastmuseum Peking.
+- id: q-mengxi-bitan
+  kind: primaer
+  authors: ["Shen Kuo"]
+  title: Pinselnotizen aus dem Traumbach (Mengxi bitan)
+  written: Zhenjiang, um 1088
+  note: Sammlung von Aufzeichnungen des Gelehrten und Beamten über Astronomie, Mathematik, Technik und Naturbeobachtungen, darunter die frühesten Beschreibungen des Drucks mit beweglichen Lettern und der magnetischen Kompassnadel.
+- id: q-dongjing-menghualu
+  kind: primaer
+  authors: ["Meng Yuanlao"]
+  title: Erinnerungen an die Pracht der östlichen Hauptstadt (Dongjing meng Hua lu)
+  written: Vorwort 1147
+  note: Nach dem Verlust des Nordens verfasste Beschreibung des Alltags, der Märkte, Feste und Vergnügungsviertel in Kaifeng vor 1127.
+- id: q-wang-anshi-1058
+  kind: primaer
+  authors: ["Wang Anshi"]
+  title: Denkschrift in zehntausend Worten (Wanyan shu)
+  written: Kaifeng, 1058
+  note: Eingabe an Kaiser Renzong, in der Wang Anshi eine grundlegende Reform der Beamtenausbildung und Verwaltung forderte – das Programm seiner späteren „Neuen Politik“.
+- id: q-marco-polo
+  kind: primaer
+  authors: ["Marco Polo", "Rustichello da Pisa"]
+  title: Die Beschreibung der Welt (Le Devisement du monde / Il Milione)
+  written: Genua, um 1298
+  note: Bericht des venezianischen Kaufmanns über seine Reisen und seinen Aufenthalt im Reich Khubilai Khans, niedergeschrieben von einem Mitgefangenen; schildert unter anderem die einstige Song-Hauptstadt Hangzhou („Quinsai“).

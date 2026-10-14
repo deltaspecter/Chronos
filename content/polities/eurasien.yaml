@@ -47,6 +47,7 @@
   start: "960"
   end: "1279"
   spanNote: Bis 1127 Nördliche Song mit Hauptstadt Kaifeng, danach Südliche Song mit Hauptstadt Hangzhou.
+  capital: kaifeng
   summary: Chinesische Dynastie mit wirtschaftlicher und technischer Blüte (Papiergeld, Buchdruck, Beamtenprüfungen), 1279 von den Mongolen erobert.
   regions: [china]
   themes: [imperien, wirtschaft-handel]

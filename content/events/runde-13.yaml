@@ -1,0 +1,241 @@
+# --- Berliner Blockade ---
+- id: potsdamer-konferenz
+  title: Potsdamer Konferenz
+  start: "1945-07-17"
+  end: "1945-08-02"
+  weight: 2
+  kind: ereignis
+  summary: Truman, Stalin und Churchill, ab dem 28. Juli Attlee, beraten in Potsdam über die Behandlung Deutschlands; vereinbart werden Entmilitarisierung, Entnazifizierung, Reparationen und die Verwaltung Deutschlands als wirtschaftliche Einheit, die nie zustande kommt.
+  regions: [deutschland]
+  themes: [politik]
+  places: [potsdam]
+  persons: [harry-s-truman, josef-stalin]
+  polities: [vereinigte-staaten, sowjetunion, vereinigtes-koenigreich]
+- id: marshallplan
+  title: Marshallplan
+  start: "1948-04-03"
+  end: "1952-06-30"
+  weight: 2
+  kind: ereignis
+  summary: Mit dem European Recovery Program stellen die USA westeuropäischen Staaten rund 13 Milliarden Dollar für den Wiederaufbau zur Verfügung; die Sowjetunion verbietet den Staaten in ihrem Einflussbereich die Teilnahme.
+  regions: [europa, nordamerika]
+  themes: [wirtschaft-handel, politik]
+  persons: [george-c-marshall, harry-s-truman]
+  polities: [vereinigte-staaten]
+- id: waehrungsreform-1948
+  title: Währungsreform in den Westzonen
+  date: "1948-06-20"
+  weight: 3
+  kind: gesetz
+  summary: In den drei westlichen Besatzungszonen ersetzt die D-Mark die wertlose Reichsmark. Als sie am 24. Juni auch in den Westsektoren Berlins eingeführt wird, sperrt die Sowjetunion alle Land- und Wasserwege in die Stadt.
+  regions: [deutschland]
+  themes: [wirtschaft-handel]
+  places: [berlin]
+- id: reuter-rede-1948
+  title: Kundgebung vor dem Reichstag
+  date: "1948-09-09"
+  weight: 3
+  kind: ereignis
+  summary: Rund 300.000 Menschen versammeln sich vor der Reichstagsruine; Ernst Reuter ruft die „Völker der Welt“ auf, auf Berlin zu schauen und die Stadt nicht preiszugeben.
+  regions: [deutschland]
+  themes: [politik]
+  places: [reichstagsgebaeude, berlin]
+  persons: [ernst-reuter]
+- id: spaltung-berlins-1948
+  title: Spaltung der Berliner Stadtverwaltung
+  start: "1948-11-30"
+  end: "1948-12-05"
+  weight: 3
+  kind: ereignis
+  summary: Die SED setzt im Ostsektor einen eigenen Magistrat ein; im Westen wird am 5. Dezember eine neue Stadtverordnetenversammlung gewählt, die Ernst Reuter zum Oberbürgermeister bestimmt. Berlin hat nun zwei Verwaltungen.
+  regions: [deutschland]
+  themes: [politik]
+  places: [berlin]
+  persons: [ernst-reuter]
+  polities: [west-berlin]
+- id: osterparade-1949
+  title: „Osterparade“ der Luftbrücke
+  start: "1949-04-15"
+  end: "1949-04-16"
+  weight: 3
+  kind: ereignis
+  summary: In 24 Stunden landen fast 1400 Flugzeuge mit knapp 13.000 Tonnen Fracht in Berlin – ein Rekord, der zeigte, dass die Blockade die Stadt nicht zur Aufgabe zwingen konnte.
+  regions: [deutschland]
+  themes: [wissenschaft-technik]
+  places: [tempelhof, berlin]
+  persons: [lucius-d-clay]
+# --- Bandung-Konferenz ---
+- id: unabhaengigkeit-indonesiens
+  title: Unabhängigkeitserklärung Indonesiens
+  date: "1945-08-17"
+  weight: 2
+  kind: gruendung
+  summary: Zwei Tage nach der japanischen Kapitulation rufen Sukarno und Mohammad Hatta in Jakarta die Republik Indonesien aus; die Niederlande erkennen sie erst nach einem vierjährigen Krieg Ende 1949 an.
+  regions: [suedostasien]
+  themes: [politik, imperien]
+  places: [jakarta]
+  persons: [sukarno]
+  polities: [republik-indonesien, niederlaendisch-indien]
+- id: panchsheel-abkommen
+  title: Fünf Prinzipien der friedlichen Koexistenz
+  date: "1954-04-29"
+  weight: 3
+  kind: vertrag
+  summary: Indien und China verpflichten sich in einem Abkommen über Tibet auf gegenseitige Achtung der Souveränität, Nichtangriff, Nichteinmischung, Gleichberechtigung und friedliche Koexistenz – Grundsätze, die in Bandung aufgegriffen werden.
+  regions: [suedasien, china]
+  themes: [politik]
+  persons: [jawaharlal-nehru, zhou-enlai]
+  polities: [republik-indien, volksrepublik-china]
+- id: gruendung-blockfreie-bewegung
+  title: Gründung der Bewegung der Blockfreien
+  start: "1961-09-01"
+  end: "1961-09-06"
+  weight: 3
+  kind: gruendung
+  summary: Auf Einladung Titos treffen sich in Belgrad Vertreter von 25 Staaten, die sich keinem der beiden Machtblöcke anschließen wollen; Nehru, Nasser, Sukarno und Nkrumah gehören zu den prägenden Gestalten.
+  regions: [suedosteuropa, welt]
+  themes: [politik]
+  places: [belgrad]
+  persons: [josip-broz-tito, jawaharlal-nehru, gamal-abdel-nasser, sukarno, kwame-nkrumah]
+# --- Amarna-Zeit ---
+- id: regierung-echnatons
+  title: Regierung Echnatons
+  start: "~-1352"
+  end: "~-1336"
+  weight: 2
+  kind: herrschaft
+  summary: Amenophis IV. erhebt die Sonnenscheibe Aton zum Reichsgott, nennt sich Echnaton, schließt die Tempel der alten Götter und lässt den Namen Amuns tilgen.
+  regions: [aegypten]
+  themes: [religion, politik]
+  places: [karnak, amarna]
+  persons: [echnaton, nofretete]
+  polities: [pharaonisches-aegypten]
+  certainty: unsicher
+- id: gruendung-achet-aton
+  title: Gründung von Achet-Aton (Amarna)
+  date: "~-1347"
+  weight: 3
+  kind: gruendung
+  summary: Im fünften Regierungsjahr legt Echnaton Grenzstelen für eine neue Hauptstadt in Mittelägypten fest, „Horizont des Aton“; binnen weniger Jahre entsteht eine Stadt mit Palästen, Tempeln und Wohnvierteln für Zehntausende Menschen.
+  regions: [aegypten]
+  themes: [religion, politik]
+  places: [amarna]
+  persons: [echnaton]
+  polities: [pharaonisches-aegypten]
+  certainty: unsicher
+- id: restauration-tutanchamun
+  title: Wiederherstellung der alten Kulte
+  date: "~-1332"
+  weight: 3
+  kind: ereignis
+  summary: Unter dem jungen König Tutanchaton, der sich nun Tutanchamun nennt, verlässt der Hof Amarna; die Restaurationsstele verkündet die Erneuerung der Tempel Amuns und der anderen Götter.
+  regions: [aegypten]
+  themes: [religion]
+  places: [karnak, amarna]
+  persons: [tutanchamun, eje, haremhab]
+  polities: [pharaonisches-aegypten]
+  certainty: unsicher
+- id: fund-amarna-briefe
+  title: Fund der Amarna-Briefe
+  date: "1887"
+  weight: 3
+  kind: entdeckung
+  summary: In Amarna werden Hunderte Tontafeln mit Keilschriftbriefen gefunden – die diplomatische Korrespondenz der Pharaonen mit Babylon, Mitanni, den Hethitern, Assyrien und Fürsten in der Levante.
+  regions: [aegypten, levante, mesopotamien]
+  themes: [archaeologie, schrift-medien]
+  places: [amarna]
+- id: fund-nofretete-bueste
+  title: Fund der Büste der Nofretete
+  date: "1912-12-06"
+  weight: 3
+  kind: entdeckung
+  summary: Bei der Grabung der Deutschen Orient-Gesellschaft unter Ludwig Borchardt wird in der Werkstatt des Bildhauers Thutmosis die bemalte Büste der Königin gefunden; seit 1924 in Berlin ausgestellt, fordert Ägypten ihre Rückgabe.
+  regions: [aegypten, deutschland]
+  themes: [archaeologie, kultur-kunst]
+  places: [amarna, berlin]
+  persons: [ludwig-borchardt, thutmosis-bildhauer, nofretete]
+- id: entdeckung-grab-tutanchamun
+  title: Entdeckung des Grabes Tutanchamuns
+  date: "1922-11-04"
+  weight: 2
+  kind: entdeckung
+  summary: Howard Carters Arbeiter stoßen im Tal der Könige auf die erste Stufe zum Grab Tutanchamuns, das weitgehend ungeplündert über 5000 Objekte enthält.
+  regions: [aegypten]
+  themes: [archaeologie]
+  places: [tal-der-koenige]
+  persons: [howard-carter, tutanchamun]
+# --- Song-Dynastie ---
+- id: gruendung-song
+  title: Gründung der Song-Dynastie
+  date: "960"
+  weight: 2
+  kind: gruendung
+  summary: Der General Zhao Kuangyin wird von seinen Truppen zum Kaiser ausgerufen und beendet in den folgenden Jahren die Zersplitterung Chinas nach dem Ende der Tang.
+  regions: [china]
+  themes: [politik, imperien]
+  places: [kaifeng]
+  persons: [song-taizu]
+  polities: [song-dynastie]
+- id: vertrag-von-chanyuan
+  title: Vertrag von Chanyuan
+  date: "1005"
+  weight: 3
+  kind: vertrag
+  summary: Nach einem Feldzug der Kitan verpflichten sich die Song zu jährlichen Zahlungen in Silber und Seide an das Liao-Reich; der Frieden hält über hundert Jahre.
+  regions: [china]
+  themes: [politik, krieg-militaer]
+  polities: [song-dynastie, liao-dynastie]
+- id: neue-politik-wang-anshi
+  title: „Neue Politik“ Wang Anshis
+  start: "1069"
+  end: "1085"
+  weight: 3
+  kind: gesetz
+  summary: Kanzler Wang Anshi setzt staatliche Saatkredite für Bauern, eine Neuvermessung des Landes, Geldsteuern statt Frondiensten und lokale Milizen durch; nach dem Tod Kaiser Shenzongs werden die Reformen größtenteils zurückgenommen.
+  regions: [china]
+  themes: [politik, wirtschaft-handel]
+  places: [kaifeng]
+  persons: [wang-anshi, sima-guang]
+  polities: [song-dynastie]
+- id: fall-von-kaifeng
+  title: Fall von Kaifeng
+  date: "1127"
+  weight: 2
+  kind: ereignis
+  summary: Die Jurchen erobern die Hauptstadt der Song und verschleppen Kaiser Huizong, seinen Sohn Qinzong und Tausende Angehörige des Hofs nach Norden; ein überlebender Prinz begründet im Süden die Südlichen Song.
+  regions: [china]
+  themes: [krieg-militaer, politik]
+  places: [kaifeng]
+  persons: [song-huizong]
+  polities: [song-dynastie, jin-dynastie-jurchen]
+- id: frieden-von-shaoxing
+  title: Frieden von Shaoxing
+  date: "1142"
+  weight: 3
+  kind: vertrag
+  summary: Die Südlichen Song erkennen die Herrschaft der Jin über Nordchina an und zahlen Tribut; der Fluss Huai wird zur Grenze. Zuvor wird der General Yue Fei hingerichtet.
+  regions: [china]
+  themes: [politik]
+  persons: [yue-fei]
+  polities: [song-dynastie, jin-dynastie-jurchen]
+- id: einnahme-hangzhous-1276
+  title: Einnahme Hangzhous durch die Mongolen
+  date: "1276"
+  weight: 3
+  kind: ereignis
+  summary: Die Mongolen unter dem General Bayan nehmen die Hauptstadt der Südlichen Song ein, die Kaiserinwitwe und der junge Kaiser ergeben sich; Getreue setzen den Widerstand im Süden fort.
+  regions: [china]
+  themes: [krieg-militaer]
+  places: [hangzhou]
+  persons: [khubilai-khan, wen-tianxiang]
+  polities: [song-dynastie, yuan-dynastie]
+- id: schlacht-von-yamen
+  title: Seeschlacht von Yamen
+  date: "1279-03-19"
+  weight: 3
+  kind: schlacht
+  summary: Die Flotte der Yuan vernichtet die letzten Song-Truppen; der Minister Lu Xiufu springt mit dem kindlichen Kaiser ins Meer. Damit endet die Song-Dynastie.
+  regions: [china]
+  themes: [krieg-militaer]
+  places: [yamen]
+  polities: [song-dynastie, yuan-dynastie]

@@ -1,0 +1,54 @@
+# Begriffe: Berliner Blockade
+- id: luftbruecke
+  name: Luftbrücke
+  aliases: [Berliner Luftbrücke, Berlin Airlift]
+  definition: Versorgung der Westsektoren Berlins mit Lebensmitteln, Kohle und Gütern ausschließlich auf dem Luftweg durch amerikanische und britische Flugzeuge vom Juni 1948 bis September 1949.
+  themes: [politik, wissenschaft-technik]
+- id: viermaechtestatus
+  name: Viermächtestatus
+  aliases: [Vier-Mächte-Status]
+  definition: Rechtsstellung Berlins nach 1945 als von den vier Siegermächten gemeinsam besetztes und in Sektoren geteiltes Gebiet; Grundlage für die Anwesenheit der Westmächte in West-Berlin bis 1990.
+  themes: [verfassung-recht, politik]
+# Begriffe: Bandung-Konferenz
+- id: dritte-welt
+  name: Dritte Welt
+  aliases: [Tiers Monde, Globaler Süden]
+  definition: Ab 1952 von dem französischen Demografen Alfred Sauvy geprägter Begriff für die Staaten außerhalb der beiden Blöcke, in Anlehnung an den „Dritten Stand“ der Französischen Revolution; später oft abwertend für arme Länder gebraucht und heute meist durch „Globaler Süden“ ersetzt.
+  themes: [politik]
+- id: friedliche-koexistenz
+  name: Friedliche Koexistenz
+  aliases: [Panchsheel, Fünf Prinzipien]
+  definition: Grundsatz des Zusammenlebens von Staaten unterschiedlicher Gesellschaftsordnung ohne Krieg und Einmischung; 1954 von Indien und China in fünf Prinzipien gefasst, ab 1956 auch Leitlinie der sowjetischen Außenpolitik.
+  themes: [politik]
+# Begriffe: Amarna-Zeit
+- id: aton
+  name: Aton
+  aliases: [Sonnenscheibe, Aten]
+  definition: Die sichtbare Sonnenscheibe als Gottheit, von Echnaton zum einzigen Gott erhoben und ohne Menschen- oder Tiergestalt als Scheibe mit Strahlenhänden dargestellt.
+  themes: [religion]
+- id: monotheismus
+  name: Monotheismus
+  aliases: [Eingottglaube]
+  definition: Glaube an einen einzigen Gott unter Ausschluss anderer Götter; ob die Religion Echnatons als frühester Monotheismus gelten kann, ist in der Forschung umstritten.
+  themes: [religion]
+- id: amarna-kunst
+  name: Amarna-Kunst
+  aliases: [Amarna-Stil]
+  definition: Kunststil der Regierungszeit Echnatons mit übersteigerten Körperformen, bewegten, intimen Szenen der Königsfamilie und einer neuen Naturnähe, der mit vielen Konventionen der ägyptischen Kunst brach.
+  themes: [kultur-kunst]
+# Begriffe: Song-Dynastie
+- id: neokonfuzianismus
+  name: Neokonfuzianismus
+  aliases: [Lixue, Daoxue, Schule des Prinzips]
+  definition: Erneuerung des Konfuzianismus seit dem 11. Jahrhundert, die buddhistische und daoistische Fragen nach Kosmos und Geist mit konfuzianischer Ethik beantwortete; von Zhu Xi systematisiert und bis 1905 staatstragende Lehre.
+  themes: [religion, gesellschaft]
+- id: papiergeld
+  name: Papiergeld
+  aliases: [Jiaozi, Huizi]
+  definition: Von staatlich zugelassenen Händlern in Sichuan ausgegebene Zahlungsanweisungen wurden 1023 zum ersten staatlichen Papiergeld der Welt; unter den Südlichen Song und den Yuan landesweit verbreitet und durch Überausgabe von Inflation bedroht.
+  themes: [wirtschaft-handel]
+- id: bewegliche-lettern
+  name: Bewegliche Lettern
+  aliases: [Lettern aus Ton]
+  definition: Einzelne, wiederverwendbare Schriftzeichen, die zu Druckseiten zusammengesetzt werden; nach Shen Kuo um 1040 von Bi Sheng in China aus gebranntem Ton erfunden, später auch aus Holz und in Korea ab dem 13. Jahrhundert aus Metall.
+  themes: [schrift-medien, wissenschaft-technik]

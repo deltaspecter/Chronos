@@ -1,0 +1,99 @@
+# Orte: Berliner Blockade
+- id: tempelhof
+  name: Flughafen Tempelhof
+  aliases: [Tempelhof]
+  coords: [13.4019, 52.4732]
+  categories: [fundstaette]
+  modernName: Tempelhofer Feld, Berlin
+  summary: Flughafen im amerikanischen Sektor Berlins, über den während der Luftbrücke 1948/49 ein großer Teil der Versorgungsflüge lief; seit 2008 geschlossen und heute ein öffentlicher Park.
+  regions: [deutschland]
+  themes: [politik, wissenschaft-technik]
+# Orte: Bandung-Konferenz
+- id: jakarta
+  name: Jakarta
+  aliases: [Batavia, Djakarta]
+  coords: [106.8456, -6.2088]
+  categories: [stadt, hauptstadt, hafen]
+  modernName: Jakarta (Indonesien)
+  summary: Als Batavia 1619 von der Niederländischen Ostindien-Kompanie gegründete Hauptstadt Niederländisch-Indiens, seit 1949 Hauptstadt Indonesiens.
+  regions: [suedostasien]
+  themes: [handelsnetze, politik]
+# Orte: Amarna-Zeit
+- id: amarna
+  name: Amarna
+  aliases: [Tell el-Amarna, Achet-Aton, Achetaton]
+  coords: [30.8960, 27.6450]
+  categories: [fundstaette, hauptstadt]
+  modernName: Tell el-Amarna (Ägypten)
+  summary: Von Echnaton um 1347 v. Chr. auf unbebautem Wüstenboden gegründete Hauptstadt „Horizont des Aton“, nach seinem Tod rasch verlassen; eine der am besten erforschten Städte der Antike.
+  regions: [aegypten]
+  themes: [religion, archaeologie]
+- id: theben
+  name: Theben
+  aliases: [Waset, Luxor]
+  coords: [32.6396, 25.6872]
+  categories: [stadt, heiligtum]
+  modernName: Luxor (Ägypten)
+  summary: Oberägyptische Stadt, im Neuen Reich religiöses Zentrum und zeitweise Residenz, mit den Tempeln von Karnak und Luxor am Ostufer und den Königsgräbern am Westufer.
+  regions: [aegypten]
+  themes: [religion, politik]
+- id: karnak
+  name: Karnak
+  coords: [32.6573, 25.7188]
+  categories: [heiligtum, fundstaette]
+  modernName: Tempelbezirk von Karnak, Luxor
+  summary: Größter Tempelbezirk Ägyptens, Heiligtum des Reichsgottes Amun; Echnaton errichtete hier zu Beginn seiner Regierung Tempel für Aton, die später abgerissen wurden.
+  regions: [aegypten]
+  themes: [religion]
+- id: tal-der-koenige
+  name: Tal der Könige
+  coords: [32.6014, 25.7402]
+  categories: [fundstaette]
+  modernName: Westufer von Luxor
+  summary: Wüstental am Westufer von Theben, in dem die Könige des Neuen Reichs ihre Felsgräber anlegen ließen; hier wurde 1922 das Grab Tutanchamuns gefunden.
+  regions: [aegypten]
+  themes: [religion, archaeologie]
+# Orte: Song-Dynastie
+- id: kaifeng
+  name: Kaifeng
+  aliases: [Bianjing, Dongjing]
+  coords: [114.3076, 34.7972]
+  categories: [stadt, hauptstadt]
+  modernName: Kaifeng (Provinz Henan, China)
+  summary: Hauptstadt der Nördlichen Song am Kaiserkanal, um 1100 mit vermutlich über einer Million Einwohnern eine der größten Städte der Welt; 1127 von den Jurchen erobert.
+  regions: [china]
+  themes: [wirtschaft-handel, politik]
+- id: hangzhou
+  name: Hangzhou
+  aliases: [Lin'an, Quinsai]
+  coords: [120.1551, 30.2741]
+  categories: [stadt, hauptstadt]
+  modernName: Hangzhou (Provinz Zhejiang, China)
+  summary: Stadt am Westsee und am Südende des Kaiserkanals, ab 1138 „vorläufige“ Hauptstadt der Südlichen Song; Marco Polo beschrieb sie als prächtigste Stadt der Welt.
+  regions: [china]
+  themes: [wirtschaft-handel, kultur-kunst]
+- id: quanzhou
+  name: Quanzhou
+  aliases: [Zaitun]
+  coords: [118.5894, 24.9089]
+  categories: [stadt, hafen]
+  modernName: Quanzhou (Provinz Fujian, China)
+  summary: Hafenstadt an der Küste Fujians, in der Song- und Yuan-Zeit einer der größten Seehäfen der Welt mit Gemeinden arabischer, persischer, indischer und anderer Händler.
+  regions: [china]
+  themes: [handelsnetze, religion]
+- id: jingdezhen
+  name: Jingdezhen
+  coords: [117.1783, 29.2689]
+  categories: [stadt]
+  modernName: Jingdezhen (Provinz Jiangxi, China)
+  summary: Stadt, die ihren Namen nach der Regierungsdevise Jingde (1004–1007) erhielt und sich zum wichtigsten Zentrum der chinesischen Porzellanherstellung entwickelte.
+  regions: [china]
+  themes: [wirtschaft-handel, kultur-kunst]
+- id: yamen
+  name: Yamen
+  coords: [113.0800, 22.2500]
+  categories: [schlachtfeld]
+  modernName: Bei Jiangmen (Provinz Guangdong, China)
+  summary: Meeresenge im Perlflussdelta, in der 1279 die letzte Flotte der Song von den Mongolen vernichtet wurde.
+  regions: [china]
+  themes: [krieg-militaer]

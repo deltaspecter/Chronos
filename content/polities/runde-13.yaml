@@ -1,0 +1,65 @@
+# Staaten: Berlin
+- id: sowjetische-besatzungszone
+  name: Sowjetische Besatzungszone
+  aliases: [SBZ, Ostzone]
+  start: "1945-06-05"
+  end: "1949-10-07"
+  summary: Von der Sowjetischen Militäradministration verwaltete Zone im Osten Deutschlands, in der die SED mit sowjetischer Unterstützung die Macht übernahm; aus ihr ging die DDR hervor.
+  regions: [deutschland]
+  themes: [politik]
+  successors: [ddr]
+  weight: 3
+- id: west-berlin
+  name: West-Berlin
+  aliases: [Berlin (West), Westsektoren]
+  start: "1948-12-05"
+  end: "1990-10-03"
+  spanNote: Die drei Westsektoren Berlins standen bis 1990 unter alliiertem Besatzungsrecht und waren eng mit der Bundesrepublik verbunden, ohne rechtlich voll zu ihr zu gehören. Als Beginn wird hier die Wahl der eigenen Stadtverordnetenversammlung nach der Spaltung der Stadtverwaltung gewählt.
+  summary: Aus dem amerikanischen, britischen und französischen Sektor gebildeter Teil Berlins, eine von der DDR umgebene Insel und Symbol des Kalten Kriegs.
+  regions: [deutschland]
+  themes: [politik]
+  weight: 3
+# Staaten: Indonesien
+- id: niederlaendisch-indien
+  name: Niederländisch-Indien
+  aliases: [Niederländisch-Ostindien]
+  start: "1800-01-01"
+  end: "1949-12-27"
+  capital: jakarta
+  spanNote: Nach Auflösung der Ostindien-Kompanie übernahm der niederländische Staat 1800 deren Besitzungen; 1942–1945 von Japan besetzt.
+  summary: Niederländisches Kolonialreich im indonesischen Archipel, gestützt auf Plantagenwirtschaft und Zwangsanbau.
+  regions: [suedostasien]
+  themes: [imperien]
+  successors: [republik-indonesien]
+  weight: 3
+- id: republik-indonesien
+  name: Republik Indonesien
+  aliases: [Indonesien]
+  start: "1945-08-17"
+  capital: jakarta
+  spanNote: Unabhängigkeit am 17. August 1945 ausgerufen, von den Niederlanden nach vier Jahren Krieg am 27. Dezember 1949 anerkannt.
+  summary: Bevölkerungsreichster Staat Südostasiens, aus dem Kolonialreich Niederländisch-Indien hervorgegangen.
+  regions: [suedostasien]
+  themes: [politik]
+  predecessors: [niederlaendisch-indien]
+  weight: 2
+# Staaten: China zur Song-Zeit
+- id: liao-dynastie
+  name: Liao-Dynastie
+  aliases: [Kitan-Reich, Liao]
+  start: "916"
+  end: "1125"
+  summary: Von den Kitan gegründetes Reich in der Mandschurei, der Mongolei und dem äußersten Norden Chinas, das die Song zu jährlichen Zahlungen zwang; von den Jurchen zerstört.
+  regions: [china, zentralasien]
+  themes: [imperien]
+  successors: [jin-dynastie-jurchen]
+  weight: 3
+- id: westliches-xia
+  name: Westliches Xia
+  aliases: [Xixia, Tangutenreich]
+  start: "1038"
+  end: "1227"
+  summary: Reich der Tanguten im Nordwesten Chinas mit eigener Schrift, das die Handelswege nach Zentralasien kontrollierte; 1227 von den Mongolen vernichtet.
+  regions: [china, zentralasien]
+  themes: [imperien]
+  weight: 3
