@@ -25,6 +25,8 @@
     Das Oströmische Reich überdauerte das Ende des weströmischen Kaisertums um fast tausend Jahre. Es bewahrte römisches Recht und griechische Literatur, prägte die orthodoxe Christenheit Osteuropas und war über Jahrhunderte die bedeutendste Macht des östlichen Mittelmeers.
   planned:
     - Der Bilderstreit
+    - Das Morgenländische Schisma von 1054
+    - Der Vierte Kreuzzug und die Plünderung Konstantinopels 1204
 
 - id: islamische-welt
   title: Islamische Geschichte
@@ -40,6 +42,10 @@
     - Das Kalifat der Umayyaden
     - Al-Andalus
     - Das Osmanische Reich bis 1453
+    - Die Seldschuken
+    - Die Fatimiden
+    - Saladin und die Ayyubiden
+    - Das Mamlukensultanat
 
 - id: europaeisches-mittelalter
   title: Europäisches Mittelalter
@@ -55,6 +61,18 @@
     - Das Heilige Römische Reich
     - Investiturstreit
     - Die Hanse
+    - Die Wikinger
+    - Die Kiewer Rus
+    - Die normannische Eroberung Englands 1066
+    - Lehnswesen und Grundherrschaft
+    - Klöster und Orden
+    - Städte und Bürgertum im Mittelalter
+    - Die Staufer und Friedrich II.
+    - Die Magna Carta
+    - Die Reconquista
+    - Der Hundertjährige Krieg
+    - Das Abendländische Schisma
+    - Juden im mittelalterlichen Europa
 
 - id: afrikanische-reiche
   title: Afrikanische Königreiche und Handelsnetze
@@ -99,6 +117,7 @@
   planned:
     - Das Kamakura-Shogunat
     - Die Joseon-Dynastie und das Hangeul
+    - Die Zeit der streitenden Reiche (Sengoku) und die Reichseinigung
 
 - id: suedostasien-geschichte
   title: Südostasien
@@ -113,6 +132,8 @@
   planned:
     - Srivijaya
     - Das Sultanat Malakka
+    - Pagan und das frühe Birma
+    - Majapahit
 
 - id: zentralasien-mongolen
   title: Zentralasien und das Mongolenreich
@@ -143,3 +164,6 @@
     - Die Olmeken
     - Teotihuacan
     - Cahokia und die Mississippi-Kultur
+    - Chavín, Nazca und Moche
+    - Tiwanaku und Wari
+    - Die Pueblo-Kulturen des Südwestens

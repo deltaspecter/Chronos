@@ -10,6 +10,8 @@
   planned:
     - Der Faschismus in Italien
     - Der Stalinismus
+    - Der Spanische Bürgerkrieg
+    - Die Mexikanische Revolution
 
 - id: erster-weltkrieg-epoche
   title: Erster Weltkrieg
@@ -54,6 +56,8 @@
     - Die Novemberpogrome 1938
     - Der Völkermord an den Sinti und Roma (Porajmos)
     - Widerstand gegen den Nationalsozialismus
+    - Die „Euthanasie“-Morde
+    - Der Weg in den Krieg – NS-Außenpolitik 1933–1939
 
 - id: zweiter-weltkrieg
   title: Zweiter Weltkrieg
@@ -95,6 +99,17 @@
   body: ""
   planned:
     - Die Entspannungspolitik
+    - Der Ungarische Volksaufstand 1956
+    - Der Prager Frühling 1968
+    - Der Große Sprung nach vorn
+    - Die Kulturrevolution in China
+    - Die Bürgerrechtsbewegung in den USA
+    - Die Protestbewegungen von 1968
+    - Die Gründung Israels und der Nahostkonflikt
+    - Die Iranische Revolution 1979
+    - Militärdiktaturen in Lateinamerika
+    - Der sowjetische Krieg in Afghanistan
+    - Solidarność und die Revolutionen von 1989
 
 - id: dekolonisierung
   title: Dekolonisierung
@@ -106,6 +121,8 @@
   summary: Die Unabhängigkeit Indiens, Indonesiens und der meisten afrikanischen Staaten – auf friedlichem Weg oder in langen Befreiungskriegen.
   body: ""
   planned:
+    - Apartheid in Südafrika
+    - Die Unabhängigkeit Indonesiens
 
 - id: deutschland-1945-1990
   title: Deutschland 1945–1990
@@ -154,3 +171,7 @@
     - Die globale Finanzkrise 2007/08
     - Die COVID-19-Pandemie
     - Der russische Angriffskrieg gegen die Ukraine
+    - Das Ende der Apartheid und Nelson Mandela
+    - Der Aufstieg Chinas seit 1978
+    - Der Arabische Frühling
+    - Der Klimawandel als historisches Thema

@@ -13,6 +13,16 @@
     - Der Buchdruck mit beweglichen Lettern
     - Das Osmanische Reich auf dem Höhepunkt
     - Der Dreißigjährige Krieg
+    - Kolumbus und das Jahr 1492
+    - Die spanische Eroberung Mexikos und Perus
+    - Der Kolumbische Austausch
+    - Das Safawidenreich
+    - Die Ming-Dynastie
+    - Ludwig XIV. und der Absolutismus
+    - Die Englische Revolution und die Glorious Revolution
+    - Peter der Große
+    - Die Wissenschaftliche Revolution
+    - Die Hexenverfolgungen
 
 - id: renaissance-reformation
   title: Renaissance und Reformation
@@ -68,6 +78,10 @@
   summary: Die Aufklärung, die Amerikanische, die Französische und die Haitianische Revolution sowie die Unabhängigkeitsbewegungen in Lateinamerika.
   body: |
     Im späten 18. Jahrhundert verbanden sich Ideen der Aufklärung – Volkssouveränität, Menschenrechte, Gewaltenteilung – mit sozialen und finanziellen Krisen zu einer Welle von Revolutionen im atlantischen Raum. Die Haitianische Revolution (1791–1804) war die erste erfolgreiche Erhebung versklavter Menschen, die zur Gründung eines unabhängigen Staates führte.
+  planned:
+    - Friedrich der Große und der aufgeklärte Absolutismus
+    - Der Siebenjährige Krieg
+    - Die Teilungen Polens
 
 - id: langes-19-jahrhundert
   title: Das lange 19. Jahrhundert
@@ -83,6 +97,15 @@
     - Die Revolutionen von 1848/49
     - Die deutsche Reichsgründung 1871
     - Die Opiumkriege
+    - Der Wiener Kongress 1815
+    - Die Einigung Italiens
+    - Der Krimkrieg
+    - Die Abschaffung der Sklaverei in den Amerikas
+    - Die Arbeiterbewegung und der Sozialismus
+    - Die Frauenbewegung im 19. Jahrhundert
+    - Die Massenauswanderung nach Amerika
+    - Die Vertreibung der indigenen Völker Nordamerikas
+    - Der Taiping-Aufstand
 
 - id: industrialisierung
   title: Industrialisierung
@@ -106,3 +129,7 @@
   body: ""
   planned:
     - Britische Herrschaft in Indien
+    - Der Südafrikanische Krieg (Burenkrieg)
+    - Der Boxeraufstand
+    - Der Maji-Maji-Krieg
+    - Der Kongo-Freistaat und die „Kongogräuel“
