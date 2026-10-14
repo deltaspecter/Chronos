@@ -1,0 +1,61 @@
+# Staaten: Der Faschismus in Italien (r15-fasch)
+- id: koenigreich-italien
+  name: Königreich Italien
+  aliases: [Regno d'Italia]
+  start: "1861-03-17"
+  end: "1946-06-02"
+  spanNote: Ende mit dem Referendum vom 2. Juni 1946, in dem eine Mehrheit für die Republik stimmte; die Jahre 1922–1943 sind gesondert als faschistisches Italien erfasst.
+  capital: rom
+  summary: Aus der Einigung Italiens hervorgegangene konstitutionelle Monarchie unter dem Haus Savoyen, die 1922–1943 die Diktatur Mussolinis trug und 1946 durch Volksabstimmung abgeschafft wurde.
+  regions: [italien]
+  themes: [politik, verfassung-recht]
+  predecessors: [koenigreich-sardinien]
+  weight: 2
+- id: italienisch-libyen
+  name: Italienisch-Libyen
+  aliases: [Libia italiana, Tripolitanien und Kyrenaika]
+  start: "1912-10-18"
+  end: "1943"
+  spanNote: Italien eroberte die osmanischen Provinzen ab 1911; im Frieden von Ouchy 1912 trat das Osmanische Reich sie ab. Das Hinterland wurde erst bis 1932 unterworfen; 1934 wurden Tripolitanien und die Kyrenaika zur Kolonie Libyen vereinigt. Anfang 1943 vertrieben britische und französische Truppen die Achsenmächte.
+  capital: tripolis
+  summary: Italienische Kolonie in Nordafrika, deren Eroberung in den 1920er- und frühen 1930er-Jahren mit Deportationen, Lagern und Massenhinrichtungen gegen die Bevölkerung der Kyrenaika durchgesetzt wurde.
+  regions: [nordafrika]
+  themes: [imperien, gewalt-genozid]
+  predecessors: [osmanisches-reich]
+  weight: 3
+- id: italienisch-ostafrika
+  name: Italienisch-Ostafrika
+  aliases: [Africa Orientale Italiana, AOI]
+  start: "1936-06-01"
+  end: "1941-11-27"
+  spanNote: Gebildet aus Eritrea, Italienisch-Somaliland und dem eroberten Äthiopien; Addis Abeba fiel im April 1941, die letzten italienischen Truppen kapitulierten im November 1941 bei Gondar.
+  capital: addis-abeba
+  summary: Kurzlebiges Kolonialreich am Horn von Afrika, das Mussolini nach der Eroberung Äthiopiens 1936 als „Imperium“ ausrief und das im Zweiten Weltkrieg von britischen, Commonwealth- und äthiopischen Kräften zerschlagen wurde.
+  regions: [nordostafrika, ostafrika]
+  themes: [imperien, gewalt-genozid]
+  predecessors: [kaiserreich-aethiopien]
+  successors: [kaiserreich-aethiopien]
+  weight: 3
+- id: vatikanstadt
+  name: Staat der Vatikanstadt
+  aliases: [Vatikanstadt, Vatikan, Stato della Città del Vaticano]
+  start: "1929-02-11"
+  spanNote: Mit den Lateranverträgen gegründet, die am 7. Juni 1929 in Kraft traten.
+  capital: rom
+  summary: Kleinster Staat der Welt im Stadtgebiet Roms, Sitz des Papstes; geschaffen durch die Lateranverträge, mit denen der Heilige Stuhl und das faschistische Italien die seit dem Ende des Kirchenstaats 1870 offene „Römische Frage“ beilegten.
+  regions: [italien]
+  themes: [religion, politik]
+  predecessors: [kirchenstaat]
+  weight: 3
+- id: italienische-sozialrepublik
+  name: Italienische Sozialrepublik
+  aliases: [Repubblica Sociale Italiana, RSI, Republik von Salò]
+  start: "1943-09-23"
+  end: "1945-04-28"
+  spanNote: Ende mit dem Volksaufstand in Norditalien und der Erschießung Mussolinis; die deutschen Truppen in Italien kapitulierten am 2. Mai 1945.
+  capital: salo
+  summary: Unter dem Schutz und der Kontrolle der deutschen Besatzungsmacht in Nord- und Mittelitalien errichteter faschistischer Staat Mussolinis, der sich an Partisanenbekämpfung und Judenverfolgung beteiligte.
+  regions: [italien]
+  themes: [politik, gewalt-genozid]
+  predecessors: [faschistisches-italien]
+  weight: 3

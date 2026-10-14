@@ -1,0 +1,290 @@
+# Ereignisse: Stalinismus (r15-stalin)
+- id: stalin-generalsekretaer
+  title: Stalin wird Generalsekretär
+  date: "1922-04-03"
+  weight: 3
+  kind: herrschaft
+  summary: Das Zentralkomitee der Kommunistischen Partei wählt Stalin zum Generalsekretär; das zunächst unscheinbare Amt gibt ihm die Kontrolle über Personalentscheidungen im Parteiapparat und wird zur Grundlage seines Aufstiegs.
+  regions: [russland]
+  themes: [politik]
+  places: [moskau]
+  persons: [josef-stalin, lenin]
+  polities: [sowjetrussland]
+- id: ausschluss-trotzkis
+  title: Ausschluss und Verbannung Trotzkis
+  start: "1927-11"
+  end: "1929-02"
+  weight: 2
+  kind: ereignis
+  summary: Nach Jahren des Machtkampfs wird Trotzki im November 1927 aus der Partei ausgeschlossen, im Januar 1928 nach Alma-Ata verbannt und im Februar 1929 aus der Sowjetunion ausgewiesen; Sinowjew und Kamenew unterwerfen sich vorerst.
+  regions: [russland, zentralasien]
+  themes: [politik]
+  places: [moskau, alma-ata]
+  persons: [leo-trotzki, josef-stalin, grigori-sinowjew, lew-kamenew]
+  polities: [sowjetunion]
+- id: erster-fuenfjahrplan
+  title: Erster Fünfjahrplan
+  start: "1928-10-01"
+  end: "1932-12-31"
+  weight: 1
+  kind: entwicklung
+  summary: Mit dem rückwirkend ab Oktober 1928 geltenden Plan beginnt die forcierte Industrialisierung der Sowjetunion; Großprojekte wie Magnitogorsk entstehen, die Ziele werden mehrfach erhöht und nur teilweise erreicht, der Plan wird nach gut vier Jahren für erfüllt erklärt.
+  regions: [russland, osteuropa, zentralasien]
+  themes: [wirtschaft-handel, wissenschaft-technik, politik]
+  places: [magnitogorsk, moskau]
+  persons: [josef-stalin]
+  polities: [sowjetunion]
+- id: zwangskollektivierung
+  title: Zwangskollektivierung der Landwirtschaft
+  start: "1929-11"
+  end: "1937"
+  weight: 1
+  kind: entwicklung
+  summary: Ab Ende 1929 zwingt das Regime die Bauern mit Gewalt in Kollektivwirtschaften; nach einem kurzen Rückzug im Frühjahr 1930 ist bis Mitte der 1930er-Jahre der weitaus größte Teil der Höfe kollektiviert. Widerstand, Massenschlachtungen von Vieh und Ernteeinbrüche sind die Folge.
+  regions: [russland, osteuropa, zentralasien]
+  themes: [landwirtschaft, gewalt-genozid, gesellschaft]
+  persons: [josef-stalin, lasar-kaganowitsch]
+  polities: [sowjetunion]
+- id: deportation-der-kulaken
+  title: Deportation der „Kulaken“
+  start: "1930"
+  end: "1933"
+  weight: 2
+  kind: katastrophe
+  summary: Im Zuge der „Liquidierung der Kulaken als Klasse“ werden rund 1,8 Millionen Menschen als Sondersiedler in den Norden, den Ural, nach Sibirien und Kasachstan deportiert, viele weitere enteignet, verhaftet oder erschossen; Hunderttausende sterben an Hunger, Kälte und Krankheiten.
+  regions: [russland, osteuropa, zentralasien]
+  themes: [gewalt-genozid, migration, landwirtschaft]
+  places: [magnitogorsk, karaganda]
+  persons: [josef-stalin, genrich-jagoda]
+  polities: [sowjetunion]
+- id: aehrengesetz-1932
+  title: Gesetz zum Schutz des sozialistischen Eigentums
+  date: "1932-08-07"
+  weight: 3
+  kind: gesetz
+  summary: Das sogenannte Ährengesetz bedroht schon den Diebstahl kleiner Mengen Getreide von Kolchosfeldern mit Erschießung oder zehn Jahren Lagerhaft; es trifft vor allem hungernde Bauern.
+  regions: [russland, osteuropa]
+  themes: [verfassung-recht, landwirtschaft]
+  persons: [josef-stalin]
+  polities: [sowjetunion]
+- id: hungersnot-1932-1933
+  title: Sowjetische Hungersnot 1932/33
+  start: "1932"
+  end: "1933"
+  weight: 1
+  kind: katastrophe
+  summary: Infolge von Kollektivierung, überhöhten Getreideablieferungen und Strafmaßnahmen sterben in der Sowjetunion nach den meisten Schätzungen zwischen 5,5 und 8,7 Millionen Menschen, am stärksten betroffen sind die Ukraine, Kasachstan, der Nordkaukasus und die Wolgaregion.
+  certainty: gesichert
+  regions: [osteuropa, russland, zentralasien]
+  themes: [gewalt-genozid, landwirtschaft]
+  persons: [josef-stalin, wjatscheslaw-molotow, lasar-kaganowitsch]
+  polities: [sowjetunion, ukrainische-ssr, kasachische-ssr]
+- id: holodomor
+  title: Holodomor
+  start: "1932"
+  end: "1933"
+  weight: 1
+  kind: katastrophe
+  summary: Die Hungersnot in der Ukrainischen Sowjetrepublik und im mehrheitlich ukrainisch besiedelten Kuban kostet nach demografischen Schätzungen etwa 3,5 bis 5 Millionen Menschen das Leben; Sondermaßnahmen wie Schwarze Listen und das Ausreiseverbot für Bauern verschärften sie. Ob es sich um Völkermord handelt, ist in der Forschung umstritten; die Ukraine und zahlreiche Staaten haben ihn als Genozid anerkannt.
+  certainty: gesichert
+  regions: [osteuropa]
+  themes: [gewalt-genozid, landwirtschaft]
+  places: [kiew, charkiw]
+  persons: [josef-stalin, wjatscheslaw-molotow, lasar-kaganowitsch]
+  polities: [ukrainische-ssr, sowjetunion]
+- id: hungersnot-kasachstan
+  title: Hungersnot in Kasachstan
+  start: "1930"
+  end: "1933"
+  weight: 2
+  kind: katastrophe
+  summary: Die erzwungene Sesshaftmachung der Nomaden, Viehbeschlagnahmungen und Kollektivierung lösen in Kasachstan eine Hungersnot aus (kasachisch Asharshylyk), der etwa 1,5 Millionen Menschen zum Opfer fallen, rund ein Drittel bis zwei Fünftel aller Kasachen; Hunderttausende fliehen nach China und in Nachbarrepubliken.
+  certainty: gesichert
+  regions: [zentralasien]
+  themes: [gewalt-genozid, landwirtschaft, migration]
+  places: [alma-ata]
+  persons: [josef-stalin]
+  polities: [kasachische-ssr, sowjetunion]
+- id: erster-schriftstellerkongress
+  title: Erster Unionskongress der Sowjetschriftsteller
+  start: "1934-08-17"
+  end: "1934-09-01"
+  weight: 3
+  kind: ereignis
+  summary: Unter dem Vorsitz Maxim Gorkis wird in Moskau der Schriftstellerverband der Sowjetunion konstituiert und der Sozialistische Realismus zur verbindlichen Methode erklärt; Andrei Schdanow greift Stalins Formel von den Schriftstellern als „Ingenieuren der menschlichen Seele“ auf.
+  regions: [russland]
+  themes: [kultur-kunst, politik]
+  places: [moskau]
+  persons: [maxim-gorki, andrei-schdanow, nikolai-bucharin]
+  polities: [sowjetunion]
+- id: mord-an-kirow
+  title: Ermordung Kirows
+  date: "1934-12-01"
+  weight: 2
+  kind: ereignis
+  summary: Der Leningrader Parteichef Sergei Kirow wird im Smolny-Institut von Leonid Nikolajew erschossen; noch am selben Tag ermöglicht ein Dekret beschleunigte Verfahren gegen „Terroristen“, und das Regime beschuldigt frühere Oppositionelle um Sinowjew und Kamenew.
+  certainty: gesichert
+  regions: [russland]
+  themes: [politik, gewalt-genozid]
+  places: [leningrad]
+  persons: [sergei-kirow, josef-stalin, grigori-sinowjew, lew-kamenew]
+  polities: [sowjetunion]
+- id: moskauer-schauprozesse
+  title: Moskauer Schauprozesse
+  start: "1936-08"
+  end: "1938-03"
+  weight: 2
+  kind: ereignis
+  summary: In drei öffentlichen Prozessen (August 1936, Januar 1937, März 1938) gestehen führende Altbolschewiki wie Sinowjew, Kamenew, Bucharin und der frühere Geheimpolizeichef Jagoda erfundene Verbrechen wie Spionage, Sabotage und Verschwörung mit Trotzki; fast alle werden erschossen.
+  regions: [russland]
+  themes: [politik, verfassung-recht, gewalt-genozid]
+  places: [moskau]
+  persons: [grigori-sinowjew, lew-kamenew, nikolai-bucharin, genrich-jagoda, leo-trotzki, josef-stalin]
+  polities: [sowjetunion]
+- id: grosser-terror
+  title: Großer Terror
+  start: "1936"
+  end: "1938-11"
+  weight: 1
+  kind: katastrophe
+  summary: Höhepunkt der stalinistischen Massenverfolgung, im Russischen auch „Jeschowschtschina“; 1937/38 verhaftet das NKWD nach eigenen Statistiken rund 1,5 Millionen Menschen, von denen etwa 680.000 erschossen werden. Betroffen sind Parteikader, Militärs, Intelligenz, vor allem aber einfache Bauern, Arbeiter und Angehörige nationaler Minderheiten.
+  certainty: gesichert
+  regions: [russland, osteuropa, zentralasien]
+  themes: [gewalt-genozid, politik]
+  places: [moskau, butowo, leningrad]
+  persons: [josef-stalin, nikolai-jeschow, wjatscheslaw-molotow]
+  polities: [sowjetunion]
+- id: befehl-00447
+  title: NKWD-Befehl Nr. 00447
+  date: "1937-07-30"
+  weight: 2
+  kind: gesetz
+  summary: Der Befehl ordnet die „Kulakenoperation“ gegen frühere Kulaken, Kriminelle und „antisowjetische Elemente“ an und legt Quoten für Erschießungen und Lagerhaft fest; die Quoten werden mehrfach erhöht. Bis Ende 1938 werden im Rahmen dieser Operation rund 390.000 Menschen erschossen.
+  certainty: gesichert
+  regions: [russland, osteuropa, zentralasien]
+  themes: [gewalt-genozid, verfassung-recht]
+  persons: [nikolai-jeschow, josef-stalin]
+  polities: [sowjetunion]
+- id: nationale-operationen-nkwd
+  title: Nationale Operationen des NKWD
+  start: "1937-07"
+  end: "1938-11"
+  weight: 2
+  kind: katastrophe
+  summary: Gegen Angehörige als illoyal geltender Nationalitäten – vor allem Polen, Deutsche, Letten, Finnen, Griechen und „Harbiner“ – richtet sich eine Serie von NKWD-Operationen, in denen rund 335.000 Menschen verurteilt und etwa 250.000 erschossen werden; allein die „Polnische Operation“ fordert über 110.000 Todesopfer.
+  certainty: gesichert
+  regions: [russland, osteuropa]
+  themes: [gewalt-genozid, migration]
+  persons: [nikolai-jeschow, josef-stalin]
+  polities: [sowjetunion]
+- id: deportation-der-koreaner
+  title: Deportation der Sowjetkoreaner
+  start: "1937-09"
+  end: "1937-10"
+  weight: 3
+  kind: katastrophe
+  summary: Als erste ganze Volksgruppe werden die rund 170.000 Koreaner aus dem Fernen Osten der Sowjetunion nach Kasachstan und Usbekistan deportiert, offiziell um japanische Spionage zu verhindern.
+  regions: [russland, zentralasien]
+  themes: [migration, gewalt-genozid]
+  polities: [sowjetunion, kasachische-ssr]
+- id: mord-an-trotzki
+  title: Ermordung Trotzkis
+  date: "1940-08-20"
+  weight: 3
+  kind: ereignis
+  summary: Im Exil in Mexiko wird Leo Trotzki von dem NKWD-Agenten Ramón Mercader mit einem Eispickel angegriffen und stirbt am folgenden Tag.
+  regions: [mesoamerika]
+  themes: [politik, gewalt-genozid]
+  places: [mexiko-stadt]
+  persons: [leo-trotzki, josef-stalin]
+  polities: [sowjetunion]
+- id: deportation-der-wolgadeutschen
+  title: Deportation der Wolgadeutschen
+  date: "1941-08-28"
+  weight: 2
+  kind: katastrophe
+  summary: Nach dem deutschen Überfall erklärt ein Erlass die Deutschen an der Wolga kollektiv der Kollaboration verdächtig; die Autonome Republik der Wolgadeutschen wird aufgelöst, insgesamt werden bis 1942 rund 800.000 bis 900.000 Sowjetdeutsche nach Sibirien und Kasachstan deportiert und viele in die „Arbeitsarmee“ gezwungen.
+  regions: [russland, zentralasien]
+  themes: [migration, gewalt-genozid]
+  places: [karaganda]
+  persons: [lawrenti-berija, josef-stalin]
+  polities: [sowjetunion, kasachische-ssr]
+- id: deportation-der-tschetschenen
+  title: Deportation der Tschetschenen und Inguschen
+  date: "1944-02-23"
+  weight: 2
+  kind: katastrophe
+  summary: In einer von Berija geleiteten Operation werden fast 500.000 Tschetschenen und Inguschen binnen weniger Tage nach Kasachstan und Kirgisien deportiert; zuvor waren bereits Karatschaier und Kalmücken, danach Balkaren verschleppt worden. Ein großer Teil der Deportierten stirbt in den ersten Jahren.
+  regions: [russland, zentralasien]
+  themes: [migration, gewalt-genozid]
+  persons: [lawrenti-berija, josef-stalin]
+  polities: [sowjetunion, kasachische-ssr]
+- id: deportation-der-krimtataren
+  title: Deportation der Krimtataren
+  start: "1944-05-18"
+  end: "1944-05-20"
+  weight: 2
+  kind: katastrophe
+  summary: Unter dem kollektiven Vorwurf der Kollaboration mit den deutschen Besatzern werden rund 190.000 Krimtataren nach Usbekistan und in andere Gebiete deportiert; Schätzungen der Todesopfer in den ersten Jahren reichen von etwa 18 bis über 40 Prozent. Die Krimtataren nennen das Ereignis Sürgünlik.
+  certainty: gesichert
+  regions: [osteuropa, zentralasien]
+  themes: [migration, gewalt-genozid]
+  persons: [lawrenti-berija, josef-stalin]
+  polities: [sowjetunion]
+- id: schdanowschtschina
+  title: Schdanowschtschina
+  start: "1946-08"
+  end: "1948"
+  weight: 3
+  kind: ereignis
+  summary: Ausgehend von einem Parteibeschluss gegen die Zeitschriften „Swesda“ und „Leningrad“ im August 1946 werden Schriftsteller wie Anna Achmatowa und Michail Soschtschenko, später Komponisten wie Schostakowitsch und Prokofjew als „formalistisch“ und westlich gebrandmarkt; die Kampagne geht in den Feldzug gegen „Kosmopoliten“ über.
+  regions: [russland]
+  themes: [kultur-kunst, politik]
+  places: [leningrad, moskau]
+  persons: [andrei-schdanow, anna-achmatowa, josef-stalin]
+  polities: [sowjetunion]
+- id: aerzteverschwoerung
+  title: Ärzteverschwörung
+  start: "1953-01-13"
+  end: "1953-04-04"
+  weight: 3
+  kind: ereignis
+  summary: Die Prawda meldet die Verhaftung überwiegend jüdischer Kremlärzte, die angeblich führende Funktionäre ermordet haben sollen; die antisemitisch aufgeladene Kampagne wird nach Stalins Tod abgebrochen und die Ärzte werden rehabilitiert.
+  regions: [russland]
+  themes: [politik, gewalt-genozid]
+  places: [moskau]
+  persons: [josef-stalin, lawrenti-berija]
+  polities: [sowjetunion]
+- id: tod-stalins
+  title: Tod Stalins
+  date: "1953-03-05"
+  weight: 2
+  kind: ereignis
+  summary: Stalin stirbt nach einem Schlaganfall auf seiner Datscha in Kunzewo bei Moskau; bei der Aufbahrung kommen im Gedränge zahlreiche Menschen ums Leben. Eine Amnestie entlässt kurz darauf rund 1,2 Millionen Häftlinge, vor allem nicht politische.
+  regions: [russland]
+  themes: [politik]
+  places: [moskau]
+  persons: [josef-stalin, lawrenti-berija, nikita-chruschtschow, wjatscheslaw-molotow]
+  polities: [sowjetunion]
+- id: geheimrede-1956
+  title: Chruschtschows Geheimrede
+  date: "1956-02-25"
+  weight: 2
+  kind: ereignis
+  summary: Auf einer geschlossenen Sitzung des XX. Parteitags der KPdSU prangert Nikita Chruschtschow den Personenkult um Stalin und die Verfolgung von Parteimitgliedern an; die Rede leitet die Entstalinisierung ein und erschüttert die kommunistische Weltbewegung.
+  regions: [russland]
+  themes: [politik]
+  places: [moskau]
+  persons: [nikita-chruschtschow, josef-stalin]
+  polities: [sowjetunion]
+- id: gruendung-memorial
+  title: Gründung von Memorial
+  date: "1989-01-28"
+  weight: 3
+  kind: gruendung
+  summary: Auf einer Gründungskonferenz in Moskau konstituiert sich die aus einer Unterschriftenkampagne von 1987/88 hervorgegangene Gesellschaft Memorial, Ehrenvorsitzender ist Andrei Sacharow; sie dokumentiert die Opfer politischer Verfolgung, wird Ende 2021 von russischen Gerichten aufgelöst und erhält 2022 den Friedensnobelpreis.
+  regions: [russland]
+  themes: [geschichtsschreibung, politik]
+  places: [moskau]
+  persons: [andrei-sacharow]
+  polities: [sowjetunion]

@@ -1,0 +1,265 @@
+# Ereignisse: Die Gründung Israels und der Nahostkonflikt bis 1967
+- id: erster-zionistenkongress
+  title: Erster Zionistenkongress in Basel
+  start: "1897-08-29"
+  end: "1897-08-31"
+  weight: 2
+  kind: gruendung
+  summary: Auf Einladung Theodor Herzls beraten rund 200 Delegierte in Basel und verabschieden das Basler Programm, das eine „öffentlich-rechtlich gesicherte Heimstätte“ für das jüdische Volk in Palästina anstrebt; zugleich wird die Zionistische Organisation gegründet.
+  regions: [mitteleuropa]
+  themes: [politik, migration]
+  places: [basel]
+  persons: [theodor-herzl]
+- id: hussein-mcmahon-korrespondenz
+  title: Hussein-McMahon-Korrespondenz
+  start: "1915-07"
+  end: "1916-03"
+  weight: 3
+  kind: vertrag
+  summary: Briefwechsel zwischen dem Scharifen Husain von Mekka und dem britischen Hochkommissar in Ägypten, Henry McMahon, in dem Großbritannien für einen arabischen Aufstand gegen die Osmanen die Unterstützung arabischer Unabhängigkeit zusagt; ob Palästina darin eingeschlossen war, ist bis heute umstritten.
+  regions: [arabische-halbinsel, aegypten, levante]
+  themes: [politik, imperien]
+  persons: [scharif-husain-ibn-ali]
+  polities: [vereinigtes-koenigreich, osmanisches-reich]
+- id: sykes-picot-abkommen
+  title: Sykes-Picot-Abkommen
+  date: "1916-05-16"
+  weight: 2
+  kind: vertrag
+  summary: Geheime britisch-französische Vereinbarung über die Aufteilung der arabischen Provinzen des Osmanischen Reichs in Einflusszonen; für den größten Teil Palästinas sah sie eine internationale Verwaltung vor.
+  regions: [levante, mesopotamien]
+  themes: [imperien, politik]
+  polities: [vereinigtes-koenigreich, osmanisches-reich]
+- id: balfour-deklaration
+  title: Balfour-Deklaration
+  date: "1917-11-02"
+  weight: 1
+  kind: vertrag
+  summary: Der britische Außenminister Arthur Balfour erklärt in einem Brief an Lord Rothschild, die Regierung betrachte die Errichtung einer „nationalen Heimstätte für das jüdische Volk“ in Palästina mit Wohlwollen, ohne die bürgerlichen und religiösen Rechte der nichtjüdischen Gemeinschaften zu beeinträchtigen.
+  regions: [britische-inseln, levante]
+  themes: [politik, imperien]
+  places: [london]
+  persons: [arthur-james-balfour, chaim-weizmann]
+  polities: [vereinigtes-koenigreich]
+- id: britische-eroberung-jerusalems-1917
+  title: Britische Eroberung Jerusalems
+  date: "1917-12-09"
+  weight: 3
+  kind: schlacht
+  summary: Nach dem Durchbruch bei Gaza und Beerscheba übergibt die Stadtverwaltung Jerusalem den britischen Truppen; am 11. Dezember zieht General Allenby zu Fuß durch das Jaffator ein. Damit endet die rund 400-jährige osmanische Herrschaft über die Stadt.
+  regions: [levante]
+  themes: [krieg-militaer, imperien]
+  places: [jerusalem]
+  persons: [edmund-allenby]
+  polities: [vereinigtes-koenigreich, osmanisches-reich]
+- id: konferenz-von-san-remo
+  title: Konferenz von San Remo
+  start: "1920-04-19"
+  end: "1920-04-26"
+  weight: 3
+  kind: vertrag
+  summary: Die alliierten Hauptmächte vergeben die Mandate über die früheren osmanischen Gebiete – Syrien und Libanon an Frankreich, Mesopotamien und Palästina an Großbritannien, das sich zur Umsetzung der Balfour-Deklaration verpflichtet.
+  regions: [europa, levante, mesopotamien]
+  themes: [imperien, politik]
+  polities: [vereinigtes-koenigreich, osmanisches-reich]
+- id: unruhen-1929
+  title: Unruhen von 1929
+  start: "1929-08-23"
+  end: "1929-08-29"
+  weight: 3
+  kind: ereignis
+  summary: Ein Streit um die Klagemauer in Jerusalem eskaliert zu landesweiter Gewalt; arabische Angreifer töten unter anderem in Hebron und Safed zahlreiche Juden. Insgesamt kommen 133 Juden und 116 Araber ums Leben, die meisten Araber durch britische Polizei und Militär.
+  regions: [levante]
+  themes: [gewalt-genozid, religion]
+  places: [jerusalem]
+  polities: [britisches-mandat-palaestina]
+- id: arabischer-aufstand-1936-1939
+  title: Arabischer Aufstand in Palästina
+  aliases: [Großer Arabischer Aufstand, Große Revolte]
+  start: "1936-04"
+  end: "1939"
+  weight: 2
+  kind: revolution
+  summary: Mit einem sechsmonatigen Generalstreik beginnender, ab 1937 bewaffneter Aufstand gegen britische Herrschaft und jüdische Einwanderung, den die Mandatsmacht mit massiver Gewalt niederschlägt; nach Schätzungen sterben rund 5.000 Araber sowie mehrere hundert Juden und Briten. Die palästinensische Gesellschaft und Führung gehen geschwächt aus ihm hervor.
+  regions: [levante]
+  themes: [revolutionen, krieg-militaer]
+  persons: [amin-al-husseini, izz-ad-din-al-qassam]
+  polities: [britisches-mandat-palaestina, vereinigtes-koenigreich]
+- id: peel-kommission
+  title: Bericht der Peel-Kommission
+  date: "1937-07-07"
+  weight: 2
+  kind: ereignis
+  summary: Eine britische Untersuchungskommission unter Lord Peel erklärt das Mandat für undurchführbar und schlägt erstmals eine Teilung vor – einen kleinen jüdischen Staat im Norden und an der Küste, einen mit Transjordanien vereinten arabischen Teil und eine britische Zone um Jerusalem. Die arabische Führung lehnt ab, die zionistische Führung verhandelt über die Grenzen.
+  regions: [levante, britische-inseln]
+  themes: [politik]
+  polities: [britisches-mandat-palaestina, vereinigtes-koenigreich]
+- id: weissbuch-1939
+  title: Weißbuch von 1939
+  aliases: [MacDonald-Weißbuch]
+  date: "1939-05-17"
+  weight: 2
+  kind: gesetz
+  summary: Großbritannien begrenzt die jüdische Einwanderung auf 75.000 Personen in fünf Jahren, beschränkt Landkäufe und stellt einen unabhängigen Staat Palästina mit arabischer Mehrheit binnen zehn Jahren in Aussicht – am Vorabend des Holocaust ein schwerer Schlag für die zionistische Bewegung.
+  regions: [levante, britische-inseln]
+  themes: [politik, migration]
+  polities: [britisches-mandat-palaestina, vereinigtes-koenigreich]
+- id: anschlag-king-david-hotel
+  title: Anschlag auf das King-David-Hotel
+  date: "1946-07-22"
+  weight: 3
+  kind: ereignis
+  summary: Die jüdische Untergrundorganisation Irgun sprengt einen Flügel des Jerusalemer King-David-Hotels, in dem die britische Mandatsverwaltung saß; 91 Menschen sterben, Briten, Araber und Juden.
+  regions: [levante]
+  themes: [gewalt-genozid]
+  places: [jerusalem]
+  persons: [menachem-begin]
+  polities: [britisches-mandat-palaestina]
+- id: un-teilungsplan-1947
+  title: UN-Teilungsplan für Palästina
+  aliases: [Resolution 181]
+  date: "1947-11-29"
+  weight: 1
+  kind: vertrag
+  summary: Die UN-Generalversammlung beschließt mit 33 gegen 13 Stimmen bei 10 Enthaltungen die Teilung Palästinas in einen jüdischen und einen arabischen Staat sowie ein international verwaltetes Jerusalem. Die Jewish Agency stimmt zu, die arabische Führung und die arabischen Staaten lehnen ab.
+  regions: [levante, nordamerika]
+  themes: [politik, verfassung-recht]
+  places: [new-york, jerusalem]
+  polities: [vereinte-nationen, britisches-mandat-palaestina]
+- id: buergerkrieg-palaestina-1947-1948
+  title: Bürgerkrieg im Mandatsgebiet Palästina
+  start: "1947-11-30"
+  end: "1948-05-14"
+  weight: 2
+  kind: krieg
+  summary: Unmittelbar nach dem Teilungsbeschluss beginnende Kämpfe zwischen jüdischen und arabischen Verbänden, während sich die Briten zurückziehen; ab April 1948 gewinnt die Haganah die Oberhand, erobert gemischte Städte wie Haifa und Jaffa, und Hunderttausende Palästinenser fliehen oder werden vertrieben.
+  regions: [levante]
+  themes: [krieg-militaer, migration]
+  places: [jerusalem, haifa, jaffa]
+  persons: [david-ben-gurion, abd-al-qadir-al-husseini]
+  polities: [britisches-mandat-palaestina]
+- id: massaker-von-deir-yassin
+  title: Massaker von Deir Yassin
+  date: "1948-04-09"
+  weight: 2
+  kind: ereignis
+  summary: Kämpfer von Irgun und Lehi überfallen das Dorf Deir Yassin bei Jerusalem und töten nach heutigen Schätzungen etwa 100 bis 120 Bewohner, darunter viele Frauen und Kinder; die damals verbreitete Zahl von 254 Toten gilt als überhöht. Die Nachricht verstärkt die Flucht der arabischen Bevölkerung.
+  certainty: gesichert
+  regions: [levante]
+  themes: [gewalt-genozid, migration]
+  places: [deir-yassin]
+  persons: [menachem-begin]
+- id: unabhaengigkeitserklaerung-israels
+  title: Unabhängigkeitserklärung Israels
+  date: "1948-05-14"
+  weight: 1
+  kind: gruendung
+  summary: Am Nachmittag vor dem Ende des britischen Mandats verliest David Ben-Gurion im Museum von Tel Aviv die Erklärung über die Gründung des Staates Israel; die USA erkennen ihn wenige Minuten nach Inkrafttreten de facto an, die Sowjetunion wenige Tage später de jure.
+  regions: [levante]
+  themes: [politik]
+  places: [tel-aviv]
+  persons: [david-ben-gurion, harry-s-truman]
+  polities: [staat-israel, vereinigte-staaten, sowjetunion]
+- id: palaestinakrieg-1948
+  title: Erster Arabisch-Israelischer Krieg
+  aliases: [Palästinakrieg, Israelischer Unabhängigkeitskrieg, Krieg von 1948]
+  start: "1948-05-15"
+  end: "1949-07-20"
+  weight: 1
+  kind: krieg
+  summary: Nach der Staatsgründung greifen Truppen Ägyptens, Transjordaniens, Syriens und des Irak sowie libanesische Einheiten in Palästina ein; Israel behauptet sich und erweitert sein Gebiet auf rund 78 Prozent des Mandatsgebiets. Auf israelischer Seite fallen rund 6.000 Menschen, die arabischen Verluste sind schlechter dokumentiert.
+  regions: [levante, aegypten]
+  themes: [krieg-militaer]
+  places: [jerusalem, lydda, gaza]
+  persons: [david-ben-gurion, abdallah-i-von-jordanien]
+  polities: [staat-israel, jordanien, koenigreich-aegypten, arabische-liga]
+- id: nakba
+  title: Nakba – Flucht und Vertreibung der Palästinenser
+  aliases: [Nakba 1948, palästinensische Flüchtlingsfrage]
+  start: "1947-12"
+  end: "1949"
+  weight: 1
+  kind: katastrophe
+  summary: Im Bürgerkrieg und im Krieg 1948/49 fliehen rund 700.000 arabische Palästinenserinnen und Palästinenser oder werden vertrieben – Schätzungen reichen von etwa 600.000 bis über 750.000. Hunderte Dörfer werden entvölkert und großenteils zerstört; Israel verweigert die Rückkehr. Über die Gewichtung der Ursachen wird bis heute gestritten.
+  regions: [levante]
+  themes: [migration, gewalt-genozid]
+  places: [lydda, ramla, jaffa, haifa, deir-yassin, gazastreifen, westjordanland]
+  polities: [staat-israel, britisches-mandat-palaestina]
+- id: vertreibung-lydda-ramla
+  title: Vertreibung aus Lydda und Ramla
+  start: "1948-07-12"
+  end: "1948-07-14"
+  weight: 3
+  kind: ereignis
+  summary: Nach der Eroberung der beiden Städte im Rahmen der Operation Dani werden die meisten Einwohner und Geflüchteten – nach Schätzungen 50.000 bis 70.000 Menschen – zum Verlassen gezwungen und ziehen in sommerlicher Hitze zu Fuß zu den jordanischen Linien; dabei sterben zahlreiche Menschen, ihre Zahl ist umstritten.
+  regions: [levante]
+  themes: [migration, gewalt-genozid]
+  places: [lydda, ramla]
+  polities: [staat-israel]
+- id: ermordung-bernadottes
+  title: Ermordung Folke Bernadottes
+  date: "1948-09-17"
+  weight: 3
+  kind: ereignis
+  summary: Mitglieder der jüdischen Untergrundorganisation Lehi erschießen in Jerusalem den UN-Vermittler Folke Bernadotte, dessen Plan Israel Gebietsabtretungen und die Rückkehr von Flüchtlingen abverlangt hätte.
+  regions: [levante]
+  themes: [politik, gewalt-genozid]
+  places: [jerusalem]
+  persons: [folke-bernadotte]
+  polities: [vereinte-nationen]
+- id: un-resolution-194
+  title: UN-Resolution 194
+  date: "1948-12-11"
+  weight: 2
+  kind: gesetz
+  summary: Die UN-Generalversammlung fordert in Absatz 11, rückkehrwilligen Flüchtlingen, die in Frieden mit ihren Nachbarn leben wollen, die Rückkehr zu ermöglichen und die übrigen zu entschädigen; zugleich setzt sie eine Schlichtungskommission ein. Die Resolution wurde zur Grundlage der palästinensischen Forderung nach einem Rückkehrrecht.
+  regions: [levante, welt]
+  themes: [verfassung-recht, migration]
+  places: [paris]
+  polities: [vereinte-nationen]
+- id: waffenstillstandsabkommen-1949
+  title: Waffenstillstandsabkommen von 1949
+  start: "1949-02-24"
+  end: "1949-07-20"
+  weight: 2
+  kind: vertrag
+  summary: Unter UN-Vermittlung, zunächst auf Rhodos, schließt Israel Waffenstillstände mit Ägypten, Libanon, Transjordanien und Syrien. Die Waffenstillstandslinien („Grüne Linie“) wurden zu faktischen Grenzen; Frieden kam nicht zustande, das Westjordanland fiel an Jordanien, der Gazastreifen unter ägyptische Verwaltung.
+  regions: [levante, aegypten]
+  themes: [politik, krieg-militaer]
+  places: [rhodos, jerusalem]
+  polities: [staat-israel, jordanien, koenigreich-aegypten, vereinte-nationen]
+- id: auswanderung-juden-arabische-welt
+  title: Auswanderung und Vertreibung der Juden aus der arabischen Welt
+  start: "1948"
+  end: "~1970"
+  weight: 2
+  kind: entwicklung
+  summary: Innerhalb von rund zwei Jahrzehnten verlassen die meisten der nach Schätzungen 800.000 bis 900.000 Jüdinnen und Juden die arabischen Länder, viele von ihnen Richtung Israel; Ursachen sind Diskriminierung, Gewalt, Enteignung und Ausweisungen ebenso wie zionistische Anwerbung und organisierte Luftbrücken. Gewichtung und Begrifflichkeit sind politisch umstritten.
+  regions: [westasien, nordafrika, levante]
+  themes: [migration]
+  places: [bagdad, kairo]
+  polities: [staat-israel]
+- id: operation-esra-und-nehemia
+  title: Operation Esra und Nehemia
+  start: "1950"
+  end: "1952"
+  weight: 3
+  kind: ereignis
+  summary: Luftbrücke, mit der nach einem irakischen Gesetz von 1950, das Juden die Ausreise gegen Verlust der Staatsbürgerschaft erlaubte, rund 120.000 irakische Jüdinnen und Juden nach Israel gebracht wurden; ihr Vermögen wurde 1951 eingefroren.
+  regions: [mesopotamien, levante]
+  themes: [migration]
+  places: [bagdad]
+  polities: [staat-israel]
+- id: sechstagekrieg
+  title: Sechstagekrieg
+  aliases: [Junikrieg 1967, Naksa]
+  start: "1967-06-05"
+  end: "1967-06-10"
+  weight: 1
+  kind: krieg
+  summary: Nach dem Abzug der UN-Truppen aus dem Sinai, der Sperrung der Straße von Tiran durch Ägypten und arabischen Mobilmachungen greift Israel präventiv an und erobert in sechs Tagen Sinai, Gazastreifen, Westjordanland mit Ost-Jerusalem und die Golanhöhen; erneut fliehen Hunderttausende Palästinenser. Mit ihm beginnt die israelische Herrschaft über die 1967 eroberten Gebiete, die den Konflikt seither prägt.
+  regions: [levante, aegypten]
+  themes: [krieg-militaer]
+  places: [jerusalem, sinai-halbinsel, westjordanland, gazastreifen]
+  persons: [gamal-abdel-nasser]
+  polities: [staat-israel, jordanien]

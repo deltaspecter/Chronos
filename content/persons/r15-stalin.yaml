@@ -1,0 +1,164 @@
+# Personen: Stalinismus (r15-stalin)
+- id: nikolai-bucharin
+  name: Nikolai Bucharin
+  aliases: [Nikolai Iwanowitsch Bucharin]
+  born: "1888-10-09"
+  died: "1938-03-15"
+  roles: [Bolschewik, Parteitheoretiker, Chefredakteur der Prawda]
+  summary: Führender bolschewistischer Theoretiker und Verfechter der Neuen Ökonomischen Politik, der sich 1928/29 gegen Stalins Zwangskollektivierung stellte, als „Rechtsabweichler“ entmachtet und nach dem dritten Moskauer Schauprozess im März 1938 erschossen wurde.
+  regions: [russland]
+  themes: [politik, revolutionen]
+  places: [moskau]
+- id: grigori-sinowjew
+  name: Grigori Sinowjew
+  aliases: [Grigori Jewsejewitsch Sinowjew]
+  born: "1883-09-23"
+  died: "1936-08-25"
+  roles: [Bolschewik, Vorsitzender der Kommunistischen Internationale]
+  summary: Enger Weggefährte Lenins und Parteichef in Leningrad, der nach 1924 zunächst mit Stalin gegen Trotzki paktierte, dann mit Trotzki gegen Stalin; im ersten Moskauer Schauprozess im August 1936 zum Tode verurteilt und erschossen.
+  regions: [russland]
+  themes: [politik, revolutionen]
+  places: [leningrad, moskau]
+- id: lew-kamenew
+  name: Lew Kamenew
+  aliases: [Lew Borissowitsch Kamenew]
+  born: "1883-07-18"
+  died: "1936-08-25"
+  roles: [Bolschewik, Parteichef von Moskau]
+  summary: Bolschewistischer Spitzenfunktionär, der nach Lenins Tod zusammen mit Sinowjew und Stalin die „Troika“ gegen Trotzki bildete, später in die Opposition ging und mit Sinowjew im ersten Moskauer Schauprozess 1936 verurteilt und erschossen wurde.
+  regions: [russland]
+  themes: [politik, revolutionen]
+  places: [moskau]
+- id: sergei-kirow
+  name: Sergei Kirow
+  aliases: [Sergei Mironowitsch Kirow]
+  born: "1886-03-27"
+  died: "1934-12-01"
+  roles: [Parteichef von Leningrad, Politbüromitglied]
+  summary: Stalin-treuer Parteichef von Leningrad, dessen Ermordung am 1. Dezember 1934 dem Regime als Vorwand für Sondergesetze und die Verfolgung früherer Oppositioneller diente; ob Stalin den Mord veranlasste, ist bis heute nicht belegt.
+  regions: [russland]
+  themes: [politik, gewalt-genozid]
+  places: [leningrad]
+- id: nikolai-jeschow
+  name: Nikolai Jeschow
+  aliases: [Nikolai Iwanowitsch Jeschow, Jeschowschtschina]
+  born: "1895-05-01"
+  died: "1940-02-04"
+  roles: [Volkskommissar für Inneres, Chef des NKWD]
+  summary: Von September 1936 bis November 1938 Chef des NKWD und ausführendes Organ des Großen Terrors, der nach ihm im Russischen auch „Jeschowschtschina“ heißt; 1939 selbst verhaftet und 1940 erschossen.
+  regions: [russland]
+  themes: [politik, gewalt-genozid]
+  places: [moskau]
+- id: genrich-jagoda
+  name: Genrich Jagoda
+  aliases: [Genrich Grigorjewitsch Jagoda]
+  born: "1891"
+  died: "1938-03-15"
+  roles: [Chef der Geheimpolizei]
+  summary: Leiter der Geheimpolizei OGPU/NKWD in den Jahren der Kollektivierung und des Lageraufbaus bis 1936; im dritten Moskauer Schauprozess 1938 angeklagt und erschossen.
+  regions: [russland]
+  themes: [politik, gewalt-genozid]
+  places: [moskau]
+- id: lawrenti-berija
+  name: Lawrenti Berija
+  aliases: [Lawrenti Pawlowitsch Berija, Beria]
+  born: "1899-03-29"
+  died: "1953-12-23"
+  roles: [Chef des NKWD, Erster Stellvertretender Ministerpräsident]
+  summary: Georgischer Bolschewik, ab November 1938 Nachfolger Jeschows an der Spitze des NKWD, verantwortlich für die Deportationen ganzer Völker im Zweiten Weltkrieg und das sowjetische Atomprojekt; nach Stalins Tod im Juni 1953 verhaftet und im Dezember erschossen.
+  regions: [russland]
+  themes: [politik, gewalt-genozid]
+  places: [moskau]
+- id: wjatscheslaw-molotow
+  name: Wjatscheslaw Molotow
+  aliases: [Wjatscheslaw Michailowitsch Molotow, Skrjabin]
+  born: "1890-03-09"
+  died: "1986-11-08"
+  roles: [Regierungschef der Sowjetunion, Außenminister]
+  summary: Einer der engsten Gefolgsleute Stalins, 1930–1941 Vorsitzender des Rats der Volkskommissare und ab 1939 Außenkommissar, der den Hitler-Stalin-Pakt unterzeichnete und Erschießungslisten des Großen Terrors mit abzeichnete; 1957 von Chruschtschow entmachtet.
+  regions: [russland]
+  themes: [politik]
+  places: [moskau]
+- id: lasar-kaganowitsch
+  name: Lasar Kaganowitsch
+  aliases: [Lasar Moissejewitsch Kaganowitsch]
+  born: "1893-11-22"
+  died: "1991-07-25"
+  roles: [Politbüromitglied, Volkskommissar für Verkehrswesen]
+  summary: Stalins Vertrauter und Organisator der Kollektivierung, der 1932/33 als Sonderbevollmächtigter Getreideablieferungen im Nordkaukasus und in der Ukraine durchsetzte; 1957 mit Molotow entmachtet.
+  regions: [russland, osteuropa]
+  themes: [politik, landwirtschaft]
+  places: [moskau, charkiw]
+- id: andrei-schdanow
+  name: Andrei Schdanow
+  aliases: [Andrei Alexandrowitsch Schdanow, Schdanowschtschina]
+  born: "1896-02-26"
+  died: "1948-08-31"
+  roles: [Parteichef von Leningrad, Sekretär des Zentralkomitees für Ideologie]
+  summary: Nachfolger Kirows in Leningrad, der 1934 den Sozialistischen Realismus mit verkündete und nach 1945 eine Kampagne gegen „westliche“ Einflüsse in Literatur, Musik und Wissenschaft leitete, die nach ihm „Schdanowschtschina“ heißt.
+  regions: [russland]
+  themes: [politik, kultur-kunst]
+  places: [leningrad, moskau]
+- id: maxim-gorki
+  name: Maxim Gorki
+  aliases: [Alexei Maximowitsch Peschkow]
+  born: "1868-03-28"
+  died: "1936-06-18"
+  roles: [Schriftsteller]
+  summary: Russischer Schriftsteller, der nach Jahren im Ausland Anfang der 1930er-Jahre endgültig in die Sowjetunion zurückkehrte, zum Aushängeschild der Kulturpolitik wurde und 1934 den Ersten Unionskongress der Sowjetschriftsteller leitete, auf dem der Sozialistische Realismus zur verbindlichen Methode erklärt wurde.
+  regions: [russland]
+  themes: [kultur-kunst]
+  places: [moskau]
+- id: ossip-mandelstam
+  name: Ossip Mandelstam
+  aliases: [Osip Mandelštam]
+  born: "1891-01-15"
+  died: "1938-12-27"
+  roles: [Dichter]
+  summary: Bedeutender russischer Lyriker, der 1934 wegen eines Spottgedichts auf Stalin verhaftet und verbannt wurde, 1938 erneut festgenommen wurde und im selben Jahr in einem Durchgangslager bei Wladiwostok starb.
+  regions: [russland]
+  themes: [kultur-kunst, gewalt-genozid]
+  places: [moskau]
+- id: anna-achmatowa
+  name: Anna Achmatowa
+  aliases: [Anna Andrejewna Gorenko]
+  born: "1889-06-23"
+  died: "1966-03-05"
+  roles: [Dichterin]
+  summary: Russische Lyrikerin, deren Gedichtzyklus „Requiem“ das Warten der Angehörigen vor den Leningrader Gefängnissen während des Terrors festhält; 1946 im Zuge der Schdanowschtschina aus dem Schriftstellerverband ausgeschlossen.
+  regions: [russland]
+  themes: [kultur-kunst]
+  places: [leningrad]
+- id: alexei-stachanow
+  name: Alexei Stachanow
+  aliases: [Alexei Grigorjewitsch Stachanow]
+  born: "1906-01-03"
+  died: "1977-11-05"
+  roles: [Bergarbeiter]
+  summary: Bergarbeiter im Donbass, der im August 1935 in einer vorbereiteten Schicht ein Vielfaches der Fördernorm erreichte und zum Vorbild der nach ihm benannten Kampagne für Normübererfüllung gemacht wurde.
+  regions: [osteuropa]
+  themes: [wirtschaft-handel, gesellschaft]
+- id: alexander-solschenizyn
+  name: Alexander Solschenizyn
+  aliases: [Aleksandr Solženicyn, Solzhenitsyn]
+  born: "1918-12-11"
+  died: "2008-08-03"
+  roles: [Schriftsteller, Lagerhäftling]
+  summary: Russischer Schriftsteller, der 1945 als Offizier wegen kritischer Briefe verhaftet wurde und acht Jahre in Lagern verbrachte; „Ein Tag im Leben des Iwan Denissowitsch“ (1962) und „Der Archipel GULAG“ machten das Lagersystem weltweit bekannt; 1970 Literaturnobelpreis, 1974 ausgebürgert.
+  regions: [russland]
+  themes: [kultur-kunst, sklaverei-unfreiheit]
+- id: robert-conquest
+  name: Robert Conquest
+  born: "1917-07-15"
+  died: "2015-08-03"
+  roles: [Historiker]
+  summary: Britisch-amerikanischer Historiker, dessen Bücher „The Great Terror“ (1968) und „The Harvest of Sorrow“ (1986) die westliche Sicht auf den Stalinismus vor der Archivöffnung prägten; Hauptvertreter der totalitarismustheoretischen Deutung.
+  regions: [britische-inseln, nordamerika]
+  themes: [geschichtsschreibung]
+- id: sheila-fitzpatrick
+  name: Sheila Fitzpatrick
+  born: "1941-06-04"
+  roles: [Historikerin]
+  summary: Australische Historikerin, prägende Vertreterin der sozialgeschichtlichen „revisionistischen“ Stalinismusforschung, die nach sozialem Aufstieg, Alltag und den Handlungsspielräumen gewöhnlicher Menschen fragte.
+  regions: [ozeanien, nordamerika]
+  themes: [geschichtsschreibung]

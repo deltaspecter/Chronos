@@ -1,0 +1,290 @@
+# Ereignisse: Der Faschismus in Italien (r15-fasch)
+- id: gruendung-fasci-di-combattimento
+  title: Gründung der Fasci di combattimento
+  date: "1919-03-23"
+  weight: 3
+  kind: gruendung
+  summary: Auf einer Versammlung an der Piazza San Sepolcro in Mailand gründet Benito Mussolini mit ehemaligen Frontsoldaten, Futuristen und Nationalisten die „Kampfbünde“, Keimzelle des Faschismus; ihr erstes Programm ist noch sozialrevolutionär und republikanisch gefärbt.
+  regions: [italien]
+  themes: [politik]
+  places: [mailand]
+  persons: [benito-mussolini]
+  polities: [koenigreich-italien]
+- id: besetzung-fiumes
+  title: Besetzung Fiumes durch D'Annunzio
+  start: "1919-09-12"
+  end: "1920-12-31"
+  weight: 3
+  kind: ereignis
+  summary: Gabriele D'Annunzio besetzt mit nationalistischen Freiwilligen und übergelaufenen Soldaten die umstrittene Adriastadt Fiume und regiert sie über ein Jahr lang; nach dem Vertrag von Rapallo vertreibt die italienische Armee die Legionäre Ende Dezember 1920 mit Gewalt.
+  regions: [suedosteuropa, italien]
+  themes: [politik]
+  places: [fiume]
+  persons: [gabriele-dannunzio, giovanni-giolitti]
+  polities: [koenigreich-italien]
+- id: biennio-rosso
+  title: Biennio rosso
+  start: "1919"
+  end: "1920"
+  weight: 3
+  kind: entwicklung
+  summary: Die „zwei roten Jahre“ mit Streikwellen, Landbesetzungen und im September 1920 der Besetzung der Fabriken in Norditalien wecken bei Grundbesitzern und Bürgertum Revolutionsangst, die die Faschisten für sich nutzen.
+  regions: [italien]
+  themes: [gesellschaft, wirtschaft-handel, politik]
+  places: [mailand]
+  polities: [koenigreich-italien]
+- id: marsch-auf-rom
+  title: Marsch auf Rom
+  start: "1922-10-27"
+  end: "1922-10-31"
+  weight: 1
+  kind: ereignis
+  summary: Faschistische Kolonnen sammeln sich vor Rom und besetzen Präfekturen in Nord- und Mittelitalien; König Viktor Emanuel III. verweigert die Unterschrift unter den Belagerungszustand und beauftragt Mussolini mit der Regierungsbildung. Am 31. Oktober wird dessen Koalitionskabinett vereidigt.
+  regions: [italien]
+  themes: [politik, revolutionen]
+  places: [rom, mailand]
+  persons: [benito-mussolini, vittorio-emanuele-iii, italo-balbo]
+  polities: [koenigreich-italien, faschistisches-italien]
+- id: wahlen-1924
+  title: Parlamentswahlen von 1924
+  date: "1924-04-06"
+  weight: 3
+  kind: ereignis
+  summary: Unter dem neuen Acerbo-Wahlgesetz, das der stärksten Liste zwei Drittel der Sitze zusicherte, gewinnt die von den Faschisten geführte Einheitsliste unter massiver Einschüchterung rund zwei Drittel der Stimmen.
+  regions: [italien]
+  themes: [politik, verfassung-recht]
+  persons: [benito-mussolini, giacomo-matteotti]
+  polities: [koenigreich-italien]
+- id: matteotti-mord
+  title: Mord an Giacomo Matteotti
+  date: "1924-06-10"
+  weight: 2
+  kind: ereignis
+  summary: Ein faschistisches Kommando entführt und ermordet in Rom den sozialistischen Abgeordneten Giacomo Matteotti; die Oppositionsparteien verlassen aus Protest das Parlament („Aventin“), und das Regime gerät in seine schwerste Krise.
+  regions: [italien]
+  themes: [politik, gewalt-genozid]
+  places: [rom]
+  persons: [giacomo-matteotti, benito-mussolini]
+  polities: [koenigreich-italien]
+- id: rede-3-januar-1925
+  title: Mussolinis Rede vom 3. Januar 1925
+  date: "1925-01-03"
+  weight: 2
+  kind: ereignis
+  summary: In der Abgeordnetenkammer übernimmt Mussolini die politische, moralische und historische Verantwortung für die Gewalt seiner Bewegung; die Rede gilt als Beginn der offenen Diktatur.
+  regions: [italien]
+  themes: [politik]
+  places: [rom]
+  persons: [benito-mussolini]
+  polities: [faschistisches-italien]
+- id: leggi-fascistissime
+  title: „Leggi fascistissime“
+  start: "1925"
+  end: "1926"
+  weight: 2
+  kind: gesetz
+  summary: Mit einer Reihe von Gesetzen wird der Ministerpräsident als „Regierungschef“ nur noch dem König verantwortlich, werden alle Parteien außer der faschistischen verboten, die Presse gleichgeschaltet, ein Sondergericht für politische Delikte geschaffen, die Polizeiverbannung (Confino) eingeführt und die Todesstrafe wiederhergestellt.
+  regions: [italien]
+  themes: [verfassung-recht, politik]
+  persons: [benito-mussolini]
+  polities: [faschistisches-italien]
+- id: carta-del-lavoro
+  title: Carta del Lavoro
+  date: "1927-04-21"
+  weight: 3
+  kind: gesetz
+  summary: Der Faschistische Großrat verkündet die „Charta der Arbeit“, Programmschrift des Korporativstaats, die Arbeit zur sozialen Pflicht erklärt und Arbeitskonflikte der staatlichen Schlichtung unterwirft.
+  regions: [italien]
+  themes: [wirtschaft-handel, verfassung-recht]
+  persons: [benito-mussolini]
+  polities: [faschistisches-italien]
+- id: lateranvertraege
+  title: Lateranverträge
+  date: "1929-02-11"
+  weight: 2
+  kind: vertrag
+  summary: Mussolini und Kardinalstaatssekretär Pietro Gasparri unterzeichnen Staatsvertrag, Konkordat und Finanzabkommen; der Heilige Stuhl erhält den Vatikanstaat, der Katholizismus wird Staatsreligion, die „Römische Frage“ ist beigelegt.
+  regions: [italien]
+  themes: [religion, politik, verfassung-recht]
+  places: [rom]
+  persons: [benito-mussolini, pius-xi]
+  polities: [faschistisches-italien, vatikanstadt]
+- id: lager-in-der-kyrenaika
+  title: Deportationen und Lager in der Kyrenaika
+  start: "1930"
+  end: "1933"
+  certainty: wahrscheinlich
+  weight: 2
+  kind: ereignis
+  summary: Um dem Widerstand die Basis zu entziehen, deportieren italienische Truppen unter Badoglio und Graziani die halbnomadische Bevölkerung des Dschabal al-Achdar in Lager an der Küste der Syrte; Schätzungen gehen von rund 100.000 Deportierten und mehreren Zehntausend Toten aus.
+  regions: [nordafrika]
+  themes: [gewalt-genozid, imperien]
+  places: [kyrenaika]
+  persons: [pietro-badoglio, rodolfo-graziani, omar-al-mukhtar]
+  polities: [italienisch-libyen, faschistisches-italien]
+- id: hinrichtung-omar-al-mukhtar
+  title: Hinrichtung Omar al-Mukhtars
+  date: "1931-09-16"
+  weight: 3
+  kind: ereignis
+  summary: Der gefangene Anführer des Widerstands in der Kyrenaika wird nach einem Schnellprozess im Lager Soluch vor Tausenden Internierten gehängt; danach bricht der bewaffnete Widerstand zusammen.
+  regions: [nordafrika]
+  themes: [gewalt-genozid, politik]
+  places: [kyrenaika]
+  persons: [omar-al-mukhtar, rodolfo-graziani]
+  polities: [italienisch-libyen]
+- id: italienisch-aethiopischer-krieg
+  title: Italienisch-Äthiopischer Krieg
+  aliases: [Abessinienkrieg]
+  start: "1935-10-03"
+  end: "1936-05-05"
+  weight: 1
+  kind: krieg
+  summary: Italien greift ohne Kriegserklärung das Völkerbundmitglied Äthiopien an und setzt in großem Umfang Senfgas aus Flugzeugen gegen Soldaten und Zivilisten ein; der Völkerbund beschließt nur begrenzte Wirtschaftssanktionen. Nach der Einnahme von Addis Abeba ruft Mussolini am 9. Mai 1936 das „Imperium“ aus.
+  regions: [nordostafrika]
+  themes: [krieg-militaer, gewalt-genozid, imperien]
+  places: [addis-abeba, adua, genf]
+  persons: [benito-mussolini, pietro-badoglio, rodolfo-graziani, haile-selassie]
+  polities: [faschistisches-italien, kaiserreich-aethiopien, voelkerbund]
+- id: achse-berlin-rom
+  title: Achse Berlin–Rom
+  date: "1936-11-01"
+  weight: 2
+  kind: vertrag
+  summary: Nach einem von Ciano in Berlin ausgehandelten Abkommen verkündet Mussolini in Mailand eine „Achse“ Berlin–Rom; der Annäherung waren die gemeinsame Intervention im Spanischen Bürgerkrieg und das Ende der Sanktionen vorausgegangen.
+  regions: [italien, deutschland]
+  themes: [politik]
+  places: [mailand]
+  persons: [benito-mussolini, adolf-hitler, galeazzo-ciano]
+  polities: [faschistisches-italien, ns-staat]
+- id: massaker-addis-abeba-1937
+  title: Massaker von Addis Abeba
+  aliases: [Yekatit 12]
+  start: "1937-02-19"
+  end: "1937-02-21"
+  weight: 2
+  kind: ereignis
+  summary: Nach einem Handgranatenanschlag auf Vizekönig Graziani töten Faschisten, Soldaten und italienische Zivilisten drei Tage lang Bewohner der Stadt; die Opferzahlen sind umstritten und reichen nach Schätzungen von mehreren Tausend bis rund 20.000.
+  regions: [nordostafrika]
+  themes: [gewalt-genozid]
+  places: [addis-abeba, debre-libanos]
+  persons: [rodolfo-graziani]
+  polities: [italienisch-ostafrika]
+- id: rassengesetze-1938
+  title: Italienische Rassengesetze
+  start: "1938-09-05"
+  end: "1938-11-17"
+  weight: 2
+  kind: gesetz
+  summary: Nach dem „Manifest der rassistischen Wissenschaftler“ vom Juli schließt das Regime jüdische Schüler und Lehrer von den Schulen aus, weist ausländische Juden aus und verbietet mit dem Gesetz vom 17. November Mischehen; Jüdinnen und Juden verlieren Ämter, Berufe und Eigentum.
+  regions: [italien]
+  themes: [verfassung-recht, gewalt-genozid]
+  persons: [benito-mussolini, vittorio-emanuele-iii]
+  polities: [faschistisches-italien]
+- id: stahlpakt
+  title: Stahlpakt
+  date: "1939-05-22"
+  weight: 2
+  kind: vertrag
+  summary: Ciano und Ribbentrop unterzeichnen in Berlin ein Militärbündnis, das Italien und Deutschland zum gegenseitigen Beistand auch bei einem Angriffskrieg verpflichtet; im September 1939 erklärt Italien dennoch seine „Nichtkriegführung“.
+  regions: [italien, deutschland]
+  themes: [politik, krieg-militaer]
+  persons: [galeazzo-ciano, benito-mussolini, adolf-hitler]
+  polities: [faschistisches-italien, ns-staat]
+- id: kriegseintritt-italiens-1940
+  title: Kriegseintritt Italiens
+  date: "1940-06-10"
+  weight: 2
+  kind: krieg
+  summary: Angesichts der deutschen Siege im Westen erklärt Mussolini Frankreich und Großbritannien den Krieg; der „Parallelkrieg“ in Griechenland und Nordafrika scheitert binnen Monaten und macht Italien vom deutschen Verbündeten abhängig.
+  regions: [italien, mittelmeer]
+  themes: [krieg-militaer]
+  places: [rom]
+  persons: [benito-mussolini]
+  polities: [faschistisches-italien]
+- id: landung-auf-sizilien
+  title: Landung der Alliierten auf Sizilien
+  start: "1943-07-10"
+  end: "1943-08-17"
+  weight: 2
+  kind: schlacht
+  summary: Amerikanische, britische und kanadische Truppen landen auf Sizilien und erobern die Insel in gut fünf Wochen; die Niederlage beschleunigt den Sturz Mussolinis.
+  regions: [italien, mittelmeer]
+  themes: [krieg-militaer]
+  polities: [faschistisches-italien, vereinigte-staaten, vereinigtes-koenigreich]
+- id: sturz-mussolinis
+  title: Sturz Mussolinis
+  date: "1943-07-25"
+  weight: 2
+  kind: ereignis
+  summary: In der Nacht zum 25. Juli nimmt der Faschistische Großrat die Tagesordnung Dino Grandis an, die dem König den Oberbefehl zurückgibt; am Nachmittag entlässt Viktor Emanuel III. Mussolini und lässt ihn verhaften. Neuer Regierungschef wird Marschall Badoglio.
+  regions: [italien]
+  themes: [politik]
+  places: [rom]
+  persons: [benito-mussolini, dino-grandi, vittorio-emanuele-iii, pietro-badoglio, galeazzo-ciano]
+  polities: [faschistisches-italien]
+- id: waffenstillstand-von-cassibile
+  title: Waffenstillstand von Cassibile
+  start: "1943-09-03"
+  end: "1943-09-08"
+  weight: 2
+  kind: vertrag
+  summary: Italien schließt in Sizilien einen geheimen Waffenstillstand mit den Alliierten, der am 8. September bekannt gegeben wird; König und Regierung fliehen nach Süditalien, die Wehrmacht besetzt Nord- und Mittelitalien, entwaffnet das Heer und verschleppt rund 600.000 Soldaten als „Militärinternierte“.
+  regions: [italien]
+  themes: [krieg-militaer, politik]
+  persons: [pietro-badoglio, vittorio-emanuele-iii]
+  polities: [koenigreich-italien, ns-staat, vereinigte-staaten, vereinigtes-koenigreich]
+- id: gruendung-italienische-sozialrepublik
+  title: Gründung der Republik von Salò
+  date: "1943-09-23"
+  weight: 3
+  kind: gruendung
+  summary: Der am 12. September von einem deutschen Kommando aus der Haft am Gran Sasso befreite Mussolini bildet unter deutscher Kontrolle eine neue faschistische Regierung in Norditalien, die Italienische Sozialrepublik.
+  regions: [italien]
+  themes: [politik]
+  places: [salo]
+  persons: [benito-mussolini, adolf-hitler, rodolfo-graziani]
+  polities: [italienische-sozialrepublik, ns-staat]
+- id: massaker-fosse-ardeatine
+  title: Massaker in den Fosse Ardeatine
+  date: "1944-03-24"
+  weight: 2
+  kind: ereignis
+  summary: Als Vergeltung für einen Partisanenanschlag auf eine Kompanie der deutschen Ordnungspolizei in der Via Rasella erschießen SS und Sicherheitspolizei in Rom 335 Männer, darunter politische Häftlinge, Juden und wahllos Verhaftete.
+  regions: [italien]
+  themes: [gewalt-genozid, krieg-militaer]
+  places: [fosse-ardeatine, rom]
+  polities: [ns-staat]
+- id: massaker-marzabotto
+  title: Massaker von Marzabotto
+  aliases: [Massaker am Monte Sole]
+  start: "1944-09-29"
+  end: "1944-10-05"
+  weight: 3
+  kind: ereignis
+  summary: Bei einer „Bandenbekämpfung“ im Gebiet des Monte Sole ermorden Einheiten der Waffen-SS rund 770 Menschen, überwiegend Frauen, Kinder und Alte; es gilt als eines der größten Massaker an Zivilisten in Westeuropa während des Zweiten Weltkriegs.
+  regions: [italien]
+  themes: [gewalt-genozid, krieg-militaer]
+  places: [marzabotto]
+  polities: [ns-staat]
+- id: befreiung-italiens
+  title: Aufstand und Befreiung Norditaliens
+  date: "1945-04-25"
+  weight: 2
+  kind: ereignis
+  summary: Das Komitee der Nationalen Befreiung für Norditalien ruft zum Generalaufstand auf; Partisanen übernehmen Mailand, Turin und Genua, bevor die alliierten Truppen eintreffen. Der 25. April ist in Italien Nationalfeiertag.
+  regions: [italien]
+  themes: [krieg-militaer, politik]
+  places: [mailand]
+  polities: [italienische-sozialrepublik, ns-staat]
+- id: tod-mussolinis
+  title: Erschießung Mussolinis
+  date: "1945-04-28"
+  weight: 2
+  kind: ereignis
+  summary: Auf der Flucht in Richtung Schweiz wird Mussolini am 27. April bei Dongo von Partisanen festgenommen und am folgenden Tag zusammen mit Clara Petacci erschossen; am 29. April werden die Leichen am Piazzale Loreto in Mailand zur Schau gestellt.
+  regions: [italien]
+  themes: [politik, gewalt-genozid]
+  places: [dongo, piazzale-loreto]
+  persons: [benito-mussolini]
+  polities: [italienische-sozialrepublik]

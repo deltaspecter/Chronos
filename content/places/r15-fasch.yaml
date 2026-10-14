@@ -1,0 +1,97 @@
+# Orte: Der Faschismus in Italien (r15-fasch)
+- id: fiume
+  name: Fiume
+  aliases: [Rijeka]
+  coords: [14.4422, 45.3271]
+  categories: [stadt, hafen]
+  modernName: Rijeka (Kroatien)
+  summary: Hafenstadt an der Adria mit italienischsprachiger Mehrheit im Stadtkern, die 1919–1920 von Gabriele D'Annunzio besetzt wurde, 1924 an Italien fiel und nach 1945 zu Jugoslawien kam.
+  regions: [suedosteuropa, mittelmeer]
+  themes: [politik]
+- id: predappio
+  name: Predappio
+  coords: [11.9806, 44.1006]
+  categories: [stadt]
+  modernName: Predappio (Emilia-Romagna, Italien)
+  summary: Geburtsort Benito Mussolinis in der Romagna, vom Regime zur Musterstadt ausgebaut; seit 1957 liegt Mussolini hier begraben, und die Gruft ist bis heute Ziel neofaschistischer Pilgerfahrten.
+  regions: [italien]
+  themes: [politik, geschichtsschreibung]
+- id: tripolis
+  name: Tripolis
+  aliases: [Tripoli, Ṭarābulus]
+  coords: [13.1913, 32.8872]
+  categories: [stadt, hauptstadt, hafen]
+  modernName: Tripolis (Libyen)
+  summary: Hafenstadt und Hauptort Tripolitaniens, 1911 von Italien erobert und Hauptstadt der Kolonie Libyen; heute Hauptstadt Libyens.
+  regions: [nordafrika, mittelmeer]
+  themes: [imperien, handelsnetze]
+- id: kyrenaika
+  name: Kyrenaika
+  aliases: [Cyrenaica, Barqa]
+  coords: [21.8, 32.4]
+  location: ungefaehr
+  categories: [region]
+  modernName: Ostlibyen
+  summary: Östlicher Landesteil Libyens mit dem Bergland des Dschabal al-Achdar, Zentrum des von der Sanusiyya getragenen Widerstands gegen Italien; 1930–1933 wurde ein großer Teil seiner Bevölkerung in Lager deportiert.
+  regions: [nordafrika]
+  themes: [imperien, gewalt-genozid]
+- id: addis-abeba
+  name: Addis Abeba
+  aliases: [Addis Ababa]
+  coords: [38.7578, 9.0300]
+  categories: [stadt, hauptstadt]
+  modernName: Addis Abeba (Äthiopien)
+  summary: Seit dem späten 19. Jahrhundert Hauptstadt Äthiopiens, am 5. Mai 1936 von italienischen Truppen eingenommen und Sitz des Vizekönigs von Italienisch-Ostafrika; im Februar 1937 Schauplatz tagelanger Massaker.
+  regions: [nordostafrika]
+  themes: [politik, gewalt-genozid]
+- id: debre-libanos
+  name: Debre Libanos
+  coords: [38.83, 9.71]
+  location: ungefaehr
+  categories: [heiligtum]
+  modernName: Kloster Debre Libanos (Oromia, Äthiopien)
+  summary: Bedeutendes Kloster der äthiopisch-orthodoxen Kirche nördlich von Addis Abeba, in dem italienische Truppen im Mai 1937 auf Befehl Grazianis Mönche, Diakone und Pilger erschossen.
+  regions: [nordostafrika]
+  themes: [religion, gewalt-genozid]
+- id: salo
+  name: Salò
+  coords: [10.5203, 45.6066]
+  categories: [stadt]
+  modernName: Salò (Lombardei, Italien)
+  summary: Kleinstadt am Westufer des Gardasees, in der 1943–1945 mehrere Ministerien der von Deutschland abhängigen Italienischen Sozialrepublik saßen, die deshalb „Republik von Salò“ genannt wird.
+  regions: [italien]
+  themes: [politik]
+- id: fosse-ardeatine
+  name: Fosse Ardeatine
+  aliases: [Ardeatinische Höhlen]
+  coords: [12.5105, 41.8566]
+  categories: [fundstaette]
+  modernName: Mausoleo delle Fosse Ardeatine, Rom
+  summary: Stillgelegte Puzzolangruben an der Via Ardeatina in Rom, in denen deutsche Besatzer am 24. März 1944 335 Männer erschossen; heute nationale Gedenkstätte.
+  regions: [italien]
+  themes: [gewalt-genozid]
+- id: marzabotto
+  name: Marzabotto
+  aliases: [Monte Sole]
+  coords: [11.2058, 44.3383]
+  categories: [stadt]
+  modernName: Marzabotto (Emilia-Romagna, Italien)
+  summary: Gemeinde im Apennin südlich von Bologna; im Gebiet des Monte Sole ermordeten Einheiten der Waffen-SS Ende September und Anfang Oktober 1944 rund 770 Zivilisten.
+  regions: [italien]
+  themes: [gewalt-genozid, krieg-militaer]
+- id: dongo
+  name: Dongo
+  coords: [9.2817, 46.1247]
+  categories: [stadt]
+  modernName: Dongo (Lombardei, Italien)
+  summary: Ort am Comer See, an dem Partisanen am 27. April 1945 den als deutschen Soldaten verkleideten Mussolini festnahmen; am Tag darauf wurde er im nahen Giulino di Mezzegra erschossen.
+  regions: [italien]
+  themes: [politik]
+- id: piazzale-loreto
+  name: Piazzale Loreto
+  coords: [9.2160, 45.4858]
+  categories: [stadt]
+  modernName: Piazzale Loreto, Mailand
+  summary: Platz in Mailand, an dem im August 1944 fünfzehn gefangene Partisanen erschossen und am 29. April 1945 die Leichen Mussolinis, Clara Petaccis und weiterer Faschisten öffentlich zur Schau gestellt wurden.
+  regions: [italien]
+  themes: [politik, gewalt-genozid]

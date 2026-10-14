@@ -1,0 +1,189 @@
+# Quellen und Literatur: Die Gründung Israels und der Nahostkonflikt bis 1967
+
+# --- Forschung ---
+- id: kraemer-2002
+  kind: sekundaer
+  authors: ["Krämer, Gudrun"]
+  title: Geschichte Palästinas
+  subtitle: Von der osmanischen Eroberung bis zur Gründung des Staates Israel
+  place: München
+  publisher: C. H. Beck
+  year: 2002
+- id: segev-2000
+  kind: sekundaer
+  authors: ["Segev, Tom"]
+  title: One Palestine, Complete
+  subtitle: Jews and Arabs under the British Mandate
+  place: New York
+  publisher: Metropolitan Books
+  year: 2000
+- id: khalidi-1997
+  kind: sekundaer
+  authors: ["Khalidi, Rashid"]
+  title: Palestinian Identity
+  subtitle: The Construction of Modern National Consciousness
+  place: New York
+  publisher: Columbia University Press
+  year: 1997
+- id: khalidi-2006
+  kind: sekundaer
+  authors: ["Khalidi, Rashid"]
+  title: The Iron Cage
+  subtitle: The Story of the Palestinian Struggle for Statehood
+  place: Boston
+  publisher: Beacon Press
+  year: 2006
+- id: morris-2004
+  kind: sekundaer
+  authors: ["Morris, Benny"]
+  title: The Birth of the Palestinian Refugee Problem Revisited
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2004
+  note: Überarbeitete und erweiterte Fassung von „The Birth of the Palestinian Refugee Problem, 1947–1949“ (1987).
+- id: morris-2008
+  kind: sekundaer
+  authors: ["Morris, Benny"]
+  title: "1948"
+  subtitle: A History of the First Arab-Israeli War
+  place: New Haven
+  publisher: Yale University Press
+  year: 2008
+- id: pappe-2006
+  kind: sekundaer
+  authors: ["Pappé, Ilan"]
+  title: The Ethnic Cleansing of Palestine
+  place: Oxford
+  publisher: Oneworld
+  year: 2006
+- id: rogan-shlaim-2001
+  kind: sekundaer
+  editors: ["Rogan, Eugene L.", "Shlaim, Avi"]
+  title: The War for Palestine
+  subtitle: Rewriting the History of 1948
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2001
+- id: shlaim-2000
+  kind: sekundaer
+  authors: ["Shlaim, Avi"]
+  title: The Iron Wall
+  subtitle: Israel and the Arab World
+  place: New York
+  publisher: W. W. Norton
+  year: 2000
+- id: shapira-2012
+  kind: sekundaer
+  authors: ["Shapira, Anita"]
+  title: Israel
+  subtitle: A History
+  place: Waltham, Mass.
+  publisher: Brandeis University Press
+  year: 2012
+- id: brenner-2002
+  kind: sekundaer
+  authors: ["Brenner, Michael"]
+  title: Geschichte des Zionismus
+  place: München
+  publisher: C. H. Beck
+  year: 2002
+- id: grossmann-2007
+  kind: sekundaer
+  authors: ["Grossmann, Atina"]
+  title: Jews, Germans, and Allies
+  subtitle: Close Encounters in Occupied Germany
+  place: Princeton
+  publisher: Princeton University Press
+  year: 2007
+- id: zertal-1998
+  kind: sekundaer
+  authors: ["Zertal, Idith"]
+  title: From Catastrophe to Power
+  subtitle: Holocaust Survivors and the Emergence of Israel
+  place: Berkeley
+  publisher: University of California Press
+  year: 1998
+- id: stillman-1991
+  kind: sekundaer
+  authors: ["Stillman, Norman A."]
+  title: The Jews of Arab Lands in Modern Times
+  place: Philadelphia
+  publisher: Jewish Publication Society
+  year: 1991
+- id: khalidi-1992
+  kind: sekundaer
+  editors: ["Khalidi, Walid"]
+  title: All That Remains
+  subtitle: The Palestinian Villages Occupied and Depopulated by Israel in 1948
+  place: Washington, D.C.
+  publisher: Institute for Palestine Studies
+  year: 1992
+
+# --- Primärquellen ---
+- id: q-herzl-1896
+  kind: primaer
+  authors: ["Herzl, Theodor"]
+  title: Der Judenstaat
+  subtitle: Versuch einer modernen Lösung der Judenfrage
+  place: Leipzig und Wien
+  year: 1896
+  written: Wien, 1895/96
+  note: Programmschrift des Wiener Journalisten, die den Antisemitismus in Europa als unlösbar beschreibt und einen eigenen Staat für die Juden fordert; Ausgangspunkt des politischen Zionismus.
+- id: q-balfour-1917
+  kind: primaer
+  authors: ["Balfour, Arthur James"]
+  title: Balfour-Deklaration
+  written: London, 2. November 1917
+  note: Brief des britischen Außenministers an Lord Walter Rothschild, in dem die Regierung ihr Wohlwollen für eine „nationale Heimstätte für das jüdische Volk“ in Palästina erklärt, unter Wahrung der Rechte der nichtjüdischen Bevölkerung.
+- id: q-mandat-palaestina-1922
+  kind: primaer
+  authors: ["Völkerbund"]
+  title: Mandat für Palästina
+  written: London, 24. Juli 1922 (Bestätigung durch den Völkerbundsrat)
+  note: Mandatstext, der Großbritannien die Verwaltung Palästinas übertrug und die Balfour-Deklaration in seine Präambel aufnahm.
+- id: q-peel-1937
+  kind: primaer
+  authors: ["Palestine Royal Commission"]
+  title: Palestine Royal Commission Report
+  subtitle: Cmd. 5479
+  place: London
+  publisher: His Majesty’s Stationery Office
+  year: 1937
+  written: London, Juli 1937
+  note: Bericht der Peel-Kommission, der das Mandat für undurchführbar erklärte und erstmals eine Teilung Palästinas empfahl.
+- id: q-weissbuch-1939
+  kind: primaer
+  authors: ["Britische Regierung"]
+  title: Palestine – Statement of Policy (Weißbuch)
+  subtitle: Cmd. 6019
+  place: London
+  publisher: His Majesty’s Stationery Office
+  year: 1939
+  written: London, Mai 1939
+  note: Regierungserklärung, die die jüdische Einwanderung auf 75.000 Personen in fünf Jahren begrenzte und einen unabhängigen Staat Palästina binnen zehn Jahren in Aussicht stellte.
+- id: q-un-res-181
+  kind: primaer
+  authors: ["Generalversammlung der Vereinten Nationen"]
+  title: Resolution 181 (II) – Künftige Regierung Palästinas
+  written: Lake Success, New York, 29. November 1947
+  note: Teilungsplan, der einen jüdischen und einen arabischen Staat in Wirtschaftsunion sowie ein international verwaltetes Jerusalem vorsah.
+- id: q-israel-unabhaengigkeit-1948
+  kind: primaer
+  authors: ["Jüdischer Volksrat"]
+  title: Erklärung über die Gründung des Staates Israel
+  written: Tel Aviv, 14. Mai 1948
+  note: Von David Ben-Gurion verlesene Unabhängigkeitserklärung, die sich auf die historische Verbindung des jüdischen Volkes zum Land, den Holocaust und den UN-Beschluss beruft.
+- id: q-un-res-194
+  kind: primaer
+  authors: ["Generalversammlung der Vereinten Nationen"]
+  title: Resolution 194 (III) – Palästina, Fortschrittsbericht des UN-Vermittlers
+  written: Paris, 11. Dezember 1948
+  note: Resolution, deren Absatz 11 die Rückkehr rückkehrwilliger Flüchtlinge, die in Frieden mit ihren Nachbarn leben wollen, oder ihre Entschädigung forderte.
+- id: q-zurayk-1948
+  kind: primaer
+  authors: ["Zurayk, Constantin"]
+  title: Ma'na an-Nakba (Die Bedeutung der Katastrophe)
+  place: Beirut
+  year: 1948
+  written: Beirut, August 1948
+  note: Schrift des syrischen Historikers, die die arabische Niederlage von 1948 als „Nakba“ deutete und damit den Begriff prägte.

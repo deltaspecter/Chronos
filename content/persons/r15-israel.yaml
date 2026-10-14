@@ -1,0 +1,133 @@
+# Personen: Die Gründung Israels und der Nahostkonflikt bis 1967
+- id: theodor-herzl
+  name: Theodor Herzl
+  born: "1860-05-02"
+  died: "1904-07-03"
+  roles: [Journalist, Schriftsteller, Begründer des politischen Zionismus]
+  summary: In Pest geborener Wiener Journalist, der unter dem Eindruck des europäischen Antisemitismus 1896 die Schrift „Der Judenstaat“ veröffentlichte und 1897 den Ersten Zionistenkongress in Basel einberief; bis zu seinem Tod Präsident der Zionistischen Weltorganisation.
+  regions: [mitteleuropa, levante]
+  themes: [politik, migration]
+  places: [basel]
+- id: chaim-weizmann
+  name: Chaim Weizmann
+  born: "1874-11-27"
+  died: "1952-11-09"
+  roles: [Chemiker, Zionistischer Politiker, Präsident Israels]
+  summary: Aus dem Russischen Reich stammender Chemiker in Manchester, der als führender Zionist in Großbritannien maßgeblich an der Entstehung der Balfour-Deklaration beteiligt war; langjähriger Präsident der Zionistischen Weltorganisation und 1949–1952 erster Staatspräsident Israels.
+  regions: [britische-inseln, levante]
+  themes: [politik, wissenschaft-technik]
+  places: [london]
+- id: arthur-james-balfour
+  name: Arthur James Balfour
+  aliases: [Lord Balfour]
+  born: "1848-07-25"
+  died: "1930-03-19"
+  roles: [Premierminister, Außenminister]
+  summary: Konservativer britischer Politiker, 1902–1905 Premierminister und 1916–1919 Außenminister, dessen Brief an Lord Rothschild vom 2. November 1917 als Balfour-Deklaration bekannt wurde.
+  regions: [britische-inseln]
+  themes: [politik, imperien]
+  places: [london]
+- id: david-ben-gurion
+  name: David Ben-Gurion
+  aliases: [David Grün]
+  born: "1886-10-16"
+  died: "1973-12-01"
+  roles: [Vorsitzender der Jewish Agency, Premierminister Israels]
+  summary: Im polnischen Płońsk geborener Arbeiterzionist, der 1906 nach Palästina einwanderte, ab 1935 die Jewish Agency führte, am 14. Mai 1948 die Unabhängigkeitserklärung verlas und 1948–1954 sowie 1955–1963 Premierminister Israels war.
+  regions: [levante, osteuropa]
+  themes: [politik, krieg-militaer]
+  places: [tel-aviv]
+- id: zeev-jabotinsky
+  name: Ze'ev Jabotinsky
+  aliases: [Wladimir Jabotinsky, Vladimir Jabotinsky]
+  born: "1880-10-18"
+  died: "1940-08-04"
+  roles: [Journalist, Begründer des Revisionistischen Zionismus]
+  summary: In Odessa geborener Publizist, der einen kompromisslosen, militärisch gestützten Zionismus vertrat; in seinem Aufsatz „Die eiserne Mauer“ (1923) argumentierte er, die Araber würden einen jüdischen Staat erst angesichts überlegener Stärke akzeptieren.
+  regions: [osteuropa, levante]
+  themes: [politik]
+- id: amin-al-husseini
+  name: Mohammed Amin al-Husseini
+  aliases: [Hadsch Amin al-Husseini, Großmufti von Jerusalem]
+  born: "~1895"
+  died: "1974-07-04"
+  roles: [Mufti von Jerusalem, Vorsitzender des Arabischen Hohen Komitees]
+  summary: Aus einer führenden Jerusalemer Familie stammender Geistlicher, 1921 von den Briten zum Mufti von Jerusalem ernannt, ab 1936 Vorsitzender des Arabischen Hohen Komitees und führende Figur des palästinensischen Nationalismus; arbeitete im Zweiten Weltkrieg in Berlin mit dem nationalsozialistischen Deutschland zusammen. Sein Geburtsjahr wird mit 1895 oder 1897 angegeben.
+  regions: [levante]
+  themes: [politik, religion]
+  places: [jerusalem]
+- id: izz-ad-din-al-qassam
+  name: Izz ad-Din al-Qassam
+  born: "~1882"
+  died: "1935-11-20"
+  roles: [Prediger, Anführer einer Untergrundbewegung]
+  summary: Aus Syrien stammender islamischer Prediger in Haifa, der eine bewaffnete Untergrundgruppe gegen britische Herrschaft und zionistische Siedlung aufbaute; sein Tod in einem Gefecht mit britischer Polizei im November 1935 wurde zu einem Auslöser des Arabischen Aufstands.
+  regions: [levante]
+  themes: [politik, religion, krieg-militaer]
+  places: [haifa]
+- id: abd-al-qadir-al-husseini
+  name: Abd al-Qadir al-Husseini
+  born: "~1907"
+  died: "1948-04-08"
+  roles: [Militärischer Anführer]
+  summary: Palästinensischer Kommandeur aus der Familie al-Husseini, der im Aufstand 1936–1939 und im Bürgerkrieg 1947/48 kämpfte und die „Armee des Heiligen Kriegs“ im Raum Jerusalem führte; er fiel am 8. April 1948 im Kampf um das Dorf al-Qastal.
+  regions: [levante]
+  themes: [krieg-militaer]
+  places: [jerusalem]
+- id: abdallah-i-von-jordanien
+  name: Abdallah I. von Jordanien
+  aliases: [Abdullah I., Abdallah ibn al-Husain]
+  born: "1882"
+  died: "1951-07-20"
+  roles: [Emir von Transjordanien, König von Jordanien]
+  summary: Sohn des Scharifen Husain von Mekka, ab 1921 Emir des britischen Mandatsgebiets Transjordanien und ab 1946 König; im Krieg 1948 besetzte seine Arabische Legion das Westjordanland und Ost-Jerusalem, die er 1950 annektierte. Er wurde 1951 in Jerusalem ermordet.
+  regions: [levante, arabische-halbinsel]
+  themes: [politik]
+  places: [amman, jerusalem]
+- id: scharif-husain-ibn-ali
+  name: Husain ibn Ali (Scharif von Mekka)
+  aliases: [Hussein bin Ali, Scharif Husain]
+  born: "~1854"
+  died: "1931-06-04"
+  roles: [Scharif von Mekka, König des Hedschas]
+  summary: Haschemitischer Scharif von Mekka, der nach einem Briefwechsel mit dem britischen Hochkommissar in Ägypten, Henry McMahon, 1916 den Arabischen Aufstand gegen die Osmanen ausrief; die Frage, ob die britischen Zusagen Palästina einschlossen, ist bis heute umstritten.
+  regions: [arabische-halbinsel]
+  themes: [politik, imperien]
+  places: [mekka]
+- id: folke-bernadotte
+  name: Folke Bernadotte
+  born: "1895-01-02"
+  died: "1948-09-17"
+  roles: [Diplomat, UN-Vermittler]
+  summary: Schwedischer Diplomat, der 1945 die Rettung von KZ-Häftlingen mit den „Weißen Bussen“ organisierte und 1948 als UN-Vermittler für Palästina eingesetzt wurde; er wurde am 17. September 1948 in Jerusalem von Mitgliedern der jüdischen Untergrundorganisation Lehi ermordet.
+  regions: [nordeuropa, levante]
+  themes: [politik]
+  places: [jerusalem]
+- id: menachem-begin
+  name: Menachem Begin
+  born: "1913-08-16"
+  died: "1992-03-09"
+  roles: [Kommandeur des Irgun, Premierminister Israels]
+  summary: In Brest-Litowsk geborener Revisionist, ab 1943/44 Kommandeur der Untergrundorganisation Irgun, die den Aufstand gegen die britische Mandatsmacht führte; Irgun-Kämpfer verübten 1946 den Anschlag auf das King-David-Hotel und waren 1948 am Massaker von Deir Yassin beteiligt; 1977–1983 Premierminister Israels.
+  regions: [levante, osteuropa]
+  themes: [politik, krieg-militaer]
+  places: [jerusalem, deir-yassin]
+- id: constantin-zurayk
+  name: Constantin Zurayk
+  aliases: [Qustantin Zuraiq]
+  born: "1909"
+  died: "2000"
+  roles: [Historiker, Intellektueller]
+  summary: Syrischer Historiker an der Amerikanischen Universität Beirut und Vordenker des arabischen Nationalismus, der in seiner Schrift „Ma'na an-Nakba“ (1948) die arabische Niederlage als „Nakba“, Katastrophe, deutete.
+  regions: [levante]
+  themes: [geschichtsschreibung, politik]
+  places: [beirut]
+- id: edmund-allenby
+  name: Edmund Allenby
+  born: "1861-04-23"
+  died: "1936-05-14"
+  roles: [General, Hochkommissar in Ägypten]
+  summary: Britischer General, dessen Ägyptische Expeditionsstreitmacht 1917/18 Palästina und Syrien eroberte; im Dezember 1917 zog er in Jerusalem ein, das damit nach rund 400 Jahren osmanischer Herrschaft unter britische Kontrolle kam.
+  regions: [britische-inseln, levante]
+  themes: [krieg-militaer, imperien]
+  places: [jerusalem]

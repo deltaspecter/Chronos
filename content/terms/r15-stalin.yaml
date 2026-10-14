@@ -1,0 +1,59 @@
+# Begriffe: Stalinismus (r15-stalin)
+- id: stalinismus
+  name: Stalinismus
+  definition: Bezeichnung für die Herrschaftsordnung der Sowjetunion unter Stalin (etwa 1928–1953) mit Parteimonopol, Planwirtschaft, Zwangskollektivierung, Massenterror, Lagersystem und Führerkult; im weiteren Sinn auch für nach diesem Vorbild organisierte Regime.
+  themes: [politik, gewalt-genozid]
+- id: fuenfjahrplan
+  name: Fünfjahrplan
+  aliases: [Pjatiletka, Erster Fünfjahrplan]
+  definition: Zentraler Wirtschaftsplan der Sowjetunion, der Produktionsziele für fünf Jahre festlegte; der erste (offiziell 1928–1932) sollte mit überzogenen Vorgaben vor allem Schwerindustrie und Rüstung in kürzester Zeit aufbauen.
+  themes: [wirtschaft-handel, politik]
+- id: kulak
+  name: Kulak
+  aliases: [Kulaken, Großbauer]
+  definition: Russisch „Faust“; abwertende Bezeichnung für wohlhabendere Bauern, die das Regime zum Klassenfeind erklärte. In der Praxis konnte jeder Bauer, der sich der Kollektivierung widersetzte, als Kulak oder „Kulakenhelfer“ verfolgt werden.
+  themes: [landwirtschaft, gesellschaft]
+- id: entkulakisierung
+  name: Entkulakisierung
+  aliases: [Raskulatschiwanije, Liquidierung der Kulaken als Klasse]
+  definition: Die 1930 beginnende Enteignung, Deportation, Lagerhaft oder Erschießung von als Kulaken eingestuften Bauernfamilien im Zuge der Zwangskollektivierung.
+  themes: [landwirtschaft, gewalt-genozid, migration]
+- id: kolchos
+  name: Kolchos
+  aliases: [Kolchose, Kollektivwirtschaft, Sowchos]
+  definition: Landwirtschaftlicher Kollektivbetrieb in der Sowjetunion, in dem die Bauern Land, Vieh und Gerät gemeinsam bewirtschafteten und einen festgelegten Teil der Ernte an den Staat abliefern mussten; die Sowchose war dagegen ein Staatsgut mit Lohnarbeitern.
+  themes: [landwirtschaft, wirtschaft-handel]
+- id: gulag
+  name: Gulag
+  aliases: [GULag, Hauptverwaltung der Lager, Arbeitsbesserungslager]
+  definition: Abkürzung für die 1930 gegründete Hauptverwaltung der Lager der sowjetischen Geheimpolizei; im weiteren Sinn das gesamte System von Zwangsarbeitslagern, Arbeitskolonien und Sondersiedlungen, das bis in die 1950er-Jahre Millionen Häftlinge zur Arbeit einsetzte.
+  themes: [sklaverei-unfreiheit, gewalt-genozid, wirtschaft-handel]
+- id: nkwd
+  name: NKWD
+  aliases: [Volkskommissariat für innere Angelegenheiten, OGPU, GPU, MWD, MGB]
+  definition: Volkskommissariat für innere Angelegenheiten der Sowjetunion, das ab 1934 die Geheimpolizei (zuvor OGPU) einschloss und Massenverhaftungen, Erschießungen, Deportationen und das Lagersystem verantwortete; ab 1946 in die Ministerien MWD und MGB überführt.
+  themes: [politik, gewalt-genozid]
+- id: schauprozess
+  name: Schauprozess
+  aliases: [Moskauer Prozesse]
+  definition: Öffentlich inszeniertes Strafverfahren, in dem Urteil und Geständnisse vorab feststehen und der Prozess vor allem propagandistischen Zwecken dient.
+  themes: [verfassung-recht, politik]
+- id: personenkult
+  name: Personenkult
+  aliases: [Stalinkult, Führerkult]
+  definition: Systematische Verherrlichung eines Herrschers als unfehlbarer Führer durch Propaganda, Bilder, Denkmäler und Rituale; der Begriff wurde durch Chruschtschows Geheimrede 1956 zur sowjetischen Chiffre für die Herrschaft Stalins.
+  themes: [politik, schrift-medien]
+- id: sozialistischer-realismus
+  name: Sozialistischer Realismus
+  definition: 1934 verbindlich gemachte Doktrin für Literatur und Kunst in der Sowjetunion, die eine optimistische, „parteiliche“ Darstellung der Wirklichkeit „in ihrer revolutionären Entwicklung“ forderte und formale Experimente als „Formalismus“ ächtete.
+  themes: [kultur-kunst, politik]
+- id: sondersiedler
+  name: Sondersiedler
+  aliases: [Spezialumsiedler, Sonderumsiedler, Trudposelenzy]
+  definition: Deportierte, die ohne Gerichtsurteil in abgelegene Gebiete verbracht und dort unter Polizeiaufsicht festgehalten wurden – zuerst „Kulaken“, später ganze Völker wie Wolgadeutsche, Tschetschenen oder Krimtataren.
+  themes: [migration, sklaverei-unfreiheit]
+- id: entstalinisierung
+  name: Entstalinisierung
+  aliases: [Tauwetter]
+  definition: Abkehr von Teilen des stalinistischen Systems nach 1953 – Freilassung vieler Häftlinge, Rehabilitierungen, Kritik am Personenkult –, ohne die Herrschaft der Partei selbst infrage zu stellen.
+  themes: [politik]

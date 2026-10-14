@@ -1,0 +1,176 @@
+# Quellen und Literatur: Der Faschismus in Italien (r15-fasch)
+
+# --- Primärquellen ---
+- id: q-mussolini-rede-1925
+  kind: primaer
+  authors: ["Mussolini, Benito"]
+  title: Rede vor der Abgeordnetenkammer vom 3. Januar 1925
+  written: Rom, Camera dei deputati, 3. Januar 1925
+  note: Rede, in der Mussolini nach dem Mord an Giacomo Matteotti die politische, moralische und historische Verantwortung für alles Geschehene übernahm und damit den Übergang zur offenen Diktatur einleitete.
+- id: q-lateranvertraege
+  kind: primaer
+  authors: ["Mussolini, Benito", "Gasparri, Pietro"]
+  title: Lateranverträge zwischen dem Heiligen Stuhl und dem Königreich Italien
+  written: Rom, Lateranpalast, 11. Februar 1929
+  note: Staatsvertrag, Konkordat und Finanzabkommen, mit denen der Vatikanstaat entstand, der Katholizismus Staatsreligion wurde und die seit 1870 offene „Römische Frage“ beigelegt war.
+- id: q-dottrina-del-fascismo
+  kind: primaer
+  authors: ["Mussolini, Benito", "Gentile, Giovanni"]
+  title: La dottrina del fascismo
+  container: Enciclopedia Italiana, Bd. 14
+  written: Rom, 1932
+  note: Unter Mussolinis Namen veröffentlichter Lexikonartikel, dessen philosophischen Teil weitgehend Giovanni Gentile verfasste; offizielle Selbstdeutung des Faschismus als totalitäre, antiliberale Staatsidee.
+- id: q-haile-selassie-1936
+  kind: primaer
+  authors: ["Haile Selassie I."]
+  title: Rede vor der Versammlung des Völkerbunds
+  written: Genf, 30. Juni 1936
+  note: Rede des exilierten äthiopischen Kaisers, der den Einsatz von Giftgas gegen Soldaten und Zivilisten schilderte und den Völkerbund an seine Pflicht zur kollektiven Sicherheit erinnerte.
+- id: q-rassengesetz-1938
+  kind: primaer
+  authors: ["Königreich Italien"]
+  title: Regio decreto-legge 17 novembre 1938, n. 1728 – Provvedimenti per la difesa della razza italiana
+  written: Rom, 17. November 1938
+  note: Zentrales Gesetz der faschistischen Rassengesetzgebung, das Ehen zwischen „Ariern“ und Juden verbot und Jüdinnen und Juden aus Staatsdienst, Armee und vielen Berufen ausschloss.
+
+# --- Forschung ---
+- id: nolte-1963
+  kind: sekundaer
+  authors: ["Nolte, Ernst"]
+  title: Der Faschismus in seiner Epoche
+  subtitle: Action française – Italienischer Faschismus – Nationalsozialismus
+  place: München
+  publisher: Piper
+  year: 1963
+- id: lyttelton-1973
+  kind: sekundaer
+  authors: ["Lyttelton, Adrian"]
+  title: The Seizure of Power
+  subtitle: Fascism in Italy 1919–1929
+  place: London
+  publisher: Weidenfeld & Nicolson
+  year: 1973
+- id: de-felice-1975
+  kind: sekundaer
+  authors: ["De Felice, Renzo"]
+  editors: ["Ledeen, Michael A."]
+  title: Intervista sul fascismo
+  place: Roma/Bari
+  publisher: Laterza
+  year: 1975
+- id: griffin-1991
+  kind: sekundaer
+  authors: ["Griffin, Roger"]
+  title: The Nature of Fascism
+  place: London
+  publisher: Pinter
+  year: 1991
+- id: pavone-1991
+  kind: sekundaer
+  authors: ["Pavone, Claudio"]
+  title: Una guerra civile
+  subtitle: Saggio storico sulla moralità nella Resistenza
+  place: Torino
+  publisher: Bollati Boringhieri
+  year: 1991
+- id: gentile-1993
+  kind: sekundaer
+  authors: ["Gentile, Emilio"]
+  title: Il culto del littorio
+  subtitle: La sacralizzazione della politica nell'Italia fascista
+  place: Roma/Bari
+  publisher: Laterza
+  year: 1993
+- id: klinkhammer-1993
+  kind: sekundaer
+  authors: ["Klinkhammer, Lutz"]
+  title: Zwischen Bündnis und Besatzung
+  subtitle: Das nationalsozialistische Deutschland und die Republik von Salò 1943–1945
+  place: Tübingen
+  publisher: Niemeyer
+  year: 1993
+- id: del-boca-1996
+  kind: sekundaer
+  authors: ["Del Boca, Angelo"]
+  title: I gas di Mussolini
+  subtitle: Il fascismo e la guerra d'Etiopia
+  place: Roma
+  publisher: Editori Riuniti
+  year: 1996
+- id: sarfatti-2000
+  kind: sekundaer
+  authors: ["Sarfatti, Michele"]
+  title: Gli ebrei nell'Italia fascista
+  subtitle: Vicende, identità, persecuzione
+  place: Torino
+  publisher: Einaudi
+  year: 2000
+- id: paxton-2004
+  kind: sekundaer
+  authors: ["Paxton, Robert O."]
+  title: The Anatomy of Fascism
+  place: New York
+  publisher: Knopf
+  year: 2004
+- id: bosworth-2005
+  kind: sekundaer
+  authors: ["Bosworth, R. J. B."]
+  title: Mussolini's Italy
+  subtitle: Life under the Dictatorship 1915–1945
+  place: London
+  publisher: Allen Lane
+  year: 2005
+- id: mattioli-2005
+  kind: sekundaer
+  authors: ["Mattioli, Aram"]
+  title: Experimentierfeld der Gewalt
+  subtitle: Der Abessinienkrieg und seine internationale Bedeutung 1935–1941
+  place: Zürich
+  publisher: Orell Füssli
+  year: 2005
+- id: rochat-2005
+  kind: sekundaer
+  authors: ["Rochat, Giorgio"]
+  title: Le guerre italiane 1935–1943
+  subtitle: Dall'impero d'Etiopia alla disfatta
+  place: Torino
+  publisher: Einaudi
+  year: 2005
+- id: woller-2010
+  kind: sekundaer
+  authors: ["Woller, Hans"]
+  title: Geschichte Italiens im 20. Jahrhundert
+  place: München
+  publisher: C. H. Beck
+  year: 2010
+- id: schieder-2010
+  kind: sekundaer
+  authors: ["Schieder, Wolfgang"]
+  title: Der italienische Faschismus 1919–1945
+  place: München
+  publisher: C. H. Beck
+  year: 2010
+- id: focardi-2013
+  kind: sekundaer
+  authors: ["Focardi, Filippo"]
+  title: Il cattivo tedesco e il bravo italiano
+  subtitle: La rimozione delle colpe della seconda guerra mondiale
+  place: Roma/Bari
+  publisher: Laterza
+  year: 2013
+- id: woller-2016
+  kind: sekundaer
+  authors: ["Woller, Hans"]
+  title: Mussolini
+  subtitle: Der erste Faschist. Eine Biografie
+  place: München
+  publisher: C. H. Beck
+  year: 2016
+- id: ahmida-2021
+  kind: sekundaer
+  authors: ["Ahmida, Ali Abdullatif"]
+  title: Genocide in Libya
+  subtitle: Shar, a Hidden Colonial History
+  place: London/New York
+  publisher: Routledge
+  year: 2021

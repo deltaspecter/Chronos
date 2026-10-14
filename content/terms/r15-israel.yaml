@@ -1,0 +1,46 @@
+# Begriffe: Die Gründung Israels und der Nahostkonflikt bis 1967
+- id: zionismus
+  name: Zionismus
+  aliases: [Politischer Zionismus, Zionistische Bewegung]
+  definition: Im späten 19. Jahrhundert entstandene jüdische Nationalbewegung, benannt nach dem Jerusalemer Berg Zion, die eine Rückkehr der Juden in das Land Israel und dort eine nationale Heimstätte oder einen eigenen Staat anstrebte; sie umfasste sehr unterschiedliche Strömungen – sozialistische, liberale, religiöse und revisionistische.
+  themes: [politik, migration]
+- id: arabischer-nationalismus
+  name: Arabischer Nationalismus
+  aliases: [Panarabismus, Arabismus]
+  definition: Politische Bewegung, die seit dem späten Osmanischen Reich die Araber als Nation mit gemeinsamer Sprache und Kultur auffasste und Autonomie oder Unabhängigkeit forderte; in Palästina verband er sich nach 1918 mit einem eigenen, gegen Mandatsherrschaft und zionistische Einwanderung gerichteten palästinensischen Nationalbewusstsein.
+  themes: [politik]
+- id: alija
+  name: Alija
+  aliases: [Aliyah, Einwanderungswelle]
+  definition: Hebräisch „Aufstieg“; Bezeichnung für die jüdische Einwanderung in das Land Israel. Die Forschung zählt bis 1939 fünf große Einwanderungswellen, die erste ab 1882; die illegale Einwanderung gegen britische Beschränkungen hieß Alija Bet.
+  themes: [migration]
+- id: jischuw
+  name: Jischuw
+  aliases: [Yishuv]
+  definition: Hebräisch „Siedlung“, „Besiedlung“; die jüdische Bevölkerung Palästinas vor der Staatsgründung 1948 mit ihren eigenen Institutionen – Gewerkschaft Histadrut, Selbstverwaltung, Schulen und Untergrundarmee Haganah –, die nach 1948 den Kern des Staates Israel bildeten.
+  themes: [gesellschaft, politik]
+- id: haganah
+  name: Haganah
+  aliases: [Hagana]
+  definition: Hebräisch „Verteidigung“; 1920 gegründete, der zionistischen Führung unterstehende Untergrundarmee des Jischuw und Kern der israelischen Armee von 1948. Daneben bestanden die radikaleren revisionistischen Organisationen Irgun (Etzel) und Lehi, die auch Terroranschläge gegen Briten und Araber verübten.
+  themes: [krieg-militaer]
+- id: voelkerbundsmandat
+  name: Völkerbundsmandat
+  aliases: [Mandat, Mandatsgebiet, A-Mandat]
+  definition: Nach dem Ersten Weltkrieg geschaffene Form der Verwaltung früherer osmanischer und deutscher Gebiete durch Siegermächte im Auftrag des Völkerbunds; die arabischen A-Mandate wie Palästina, Syrien und Irak sollten zur Unabhängigkeit geführt werden, standen aber faktisch unter kolonialähnlicher Herrschaft.
+  themes: [imperien, verfassung-recht]
+- id: displaced-persons
+  name: Displaced Persons
+  aliases: [DPs, DP-Lager]
+  definition: Alliierte Bezeichnung für Menschen, die der Zweite Weltkrieg aus ihren Heimatländern verschlagen hatte; unter ihnen lebten bis zu rund 250.000 jüdische Überlebende in Lagern in Deutschland, Österreich und Italien, von denen viele nach Palästina auswandern wollten.
+  themes: [migration]
+- id: nakba-begriff
+  name: Nakba
+  aliases: [an-Nakba, Katastrophe]
+  definition: Arabisch „Katastrophe“; von Constantin Zurayk 1948 für die arabische Niederlage geprägter Begriff, der zur palästinensischen Bezeichnung für Flucht, Vertreibung und Enteignung der Palästinenser 1947–1949 und den Verlust der Heimat wurde.
+  themes: [migration, geschichtsschreibung]
+- id: neue-historiker
+  name: Neue Historiker
+  aliases: [New Historians, Revisionistische Historiker Israels]
+  definition: Gruppe israelischer Historiker, darunter Benny Morris, Ilan Pappé, Avi Shlaim und Tom Segev, die seit den späten 1980er-Jahren auf Grundlage neu geöffneter Archive zentrale Annahmen der israelischen Gründungserzählung über den Krieg von 1948 und die Flüchtlingsfrage in Frage stellten.
+  themes: [geschichtsschreibung]

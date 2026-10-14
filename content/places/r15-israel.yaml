@@ -1,0 +1,119 @@
+# Orte: Die Gründung Israels und der Nahostkonflikt bis 1967
+- id: tel-aviv
+  name: Tel Aviv
+  aliases: [Tel Aviv-Jaffa, Tel Aviv-Yafo]
+  coords: [34.7818, 32.0853]
+  categories: [stadt, hafen]
+  modernName: Tel Aviv-Jaffa (Israel)
+  summary: 1909 als jüdisches Wohnviertel am Rand von Jaffa gegründete Stadt, die in der Mandatszeit zum Zentrum des Jischuw wuchs; hier verlas David Ben-Gurion am 14. Mai 1948 die Unabhängigkeitserklärung Israels. 1950 wurde Jaffa eingemeindet.
+  regions: [levante]
+  themes: [politik, migration]
+- id: jaffa
+  name: Jaffa
+  aliases: [Yafa, Yafo, Joppe]
+  coords: [34.7520, 32.0540]
+  categories: [stadt, hafen]
+  modernName: Jaffa, Teil von Tel Aviv-Jaffa (Israel)
+  summary: Alte Hafenstadt und bis 1948 eines der wichtigsten Zentren des arabischen Palästina, Sitz der Zeitung Filastin; im Frühjahr 1948 floh der größte Teil der rund 70.000 arabischen Einwohner, bevor die Stadt im Mai an die jüdischen Truppen fiel.
+  regions: [levante]
+  themes: [handelsnetze, migration]
+- id: haifa
+  name: Haifa
+  coords: [34.9896, 32.7940]
+  categories: [stadt, hafen]
+  modernName: Haifa (Israel)
+  summary: Hafenstadt am Karmel, unter britischer Herrschaft zum wichtigsten Hafen und Industriestandort Palästinas ausgebaut; nach der Eroberung durch die Haganah im April 1948 verließ der größte Teil der arabischen Bevölkerung die Stadt.
+  regions: [levante]
+  themes: [wirtschaft-handel, migration]
+- id: deir-yassin
+  name: Deir Yassin
+  aliases: [Dair Yasin]
+  coords: [35.1786, 31.7864]
+  location: ungefaehr
+  categories: [fundstaette]
+  modernName: Gelände im Jerusalemer Stadtteil Givat Shaul (Israel)
+  summary: Arabisches Dorf westlich von Jerusalem, in dem Kämpfer der Untergrundorganisationen Irgun und Lehi am 9. April 1948 etwa 100 bis 120 Bewohner töteten, darunter viele Frauen, Kinder und Alte; die Zahl ist in der Forschung nach unten korrigiert worden, damals wurden über 250 Tote gemeldet.
+  regions: [levante]
+  themes: [gewalt-genozid]
+- id: lydda
+  name: Lydda
+  aliases: [Lod, al-Ludd]
+  coords: [34.8953, 31.9510]
+  categories: [stadt]
+  modernName: Lod (Israel)
+  summary: Arabische Stadt im Küstenhinterland, aus der israelische Truppen im Juli 1948 zusammen mit dem benachbarten Ramla den größten Teil der Bewohner und Geflüchteten vertrieben – nach Schätzungen 50.000 bis 70.000 Menschen.
+  regions: [levante]
+  themes: [migration, gewalt-genozid]
+- id: ramla
+  name: Ramla
+  aliases: [Ramle, ar-Ramla]
+  coords: [34.8667, 31.9275]
+  categories: [stadt]
+  modernName: Ramla (Israel)
+  summary: Im 8. Jahrhundert von den Umayyaden gegründete Stadt; im Juli 1948 zusammen mit Lydda erobert, wobei der größte Teil der arabischen Bevölkerung vertrieben wurde.
+  regions: [levante]
+  themes: [migration]
+- id: gaza
+  name: Gaza
+  aliases: [Ghazza, Gaza-Stadt]
+  coords: [34.4668, 31.5017]
+  categories: [stadt, hafen]
+  modernName: Gaza-Stadt (Gazastreifen)
+  summary: Alte Handelsstadt an der Küstenstraße zwischen Ägypten und Syrien; nach 1948 Hauptort des von Ägypten verwalteten Gazastreifens, in dem sich Zehntausende Flüchtlinge sammelten.
+  regions: [levante]
+  themes: [handelsnetze, migration]
+- id: gazastreifen
+  name: Gazastreifen
+  aliases: [Gaza-Streifen]
+  coords: [34.40, 31.42]
+  location: ungefaehr
+  categories: [region]
+  modernName: Gazastreifen
+  summary: Schmaler Küstenstreifen um Gaza, dessen Grenzen durch das Waffenstillstandsabkommen zwischen Israel und Ägypten 1949 entstanden; bis 1967 unter ägyptischer Verwaltung, die Mehrheit der Bewohner waren Flüchtlinge von 1948.
+  regions: [levante]
+  themes: [politik, migration]
+- id: westjordanland
+  name: Westjordanland
+  aliases: [Westbank, West Bank, Cisjordanien, Judäa und Samaria]
+  coords: [35.25, 32.0]
+  location: ungefaehr
+  categories: [region]
+  modernName: Westjordanland
+  summary: Bergland westlich des Jordan mit Städten wie Nablus, Hebron und Ost-Jerusalem, das im Krieg 1948 von der jordanischen Arabischen Legion gehalten, 1950 von Jordanien annektiert und 1967 von Israel besetzt wurde.
+  regions: [levante]
+  themes: [politik]
+- id: sinai-halbinsel
+  name: Sinai-Halbinsel
+  aliases: [Sinai]
+  coords: [33.8, 29.5]
+  location: ungefaehr
+  categories: [region]
+  modernName: Sinai (Ägypten)
+  summary: Wüstenhalbinsel zwischen Suezkanal und Negev, die Israel 1956 in der Suezkrise und erneut 1967 im Sechstagekrieg eroberte; nach 1956 zog es sich 1957 zurück, nach 1967 erst infolge des Friedensvertrags von 1979.
+  regions: [aegypten]
+  themes: [krieg-militaer]
+- id: basel
+  name: Basel
+  coords: [7.5886, 47.5596]
+  categories: [stadt]
+  modernName: Basel (Schweiz)
+  summary: Schweizer Stadt am Rhein, in der im August 1897 der Erste Zionistenkongress unter Theodor Herzl tagte und das Basler Programm verabschiedete.
+  regions: [mitteleuropa]
+  themes: [politik]
+- id: amman
+  name: Amman
+  aliases: [Philadelphia, Rabbat Ammon]
+  coords: [35.9284, 31.9454]
+  categories: [stadt, hauptstadt]
+  modernName: Amman (Jordanien)
+  summary: Antike Stadt östlich des Jordan, seit 1921 Hauptstadt des Emirats Transjordanien und später des Königreichs Jordanien; nach 1948 wuchs sie auch durch palästinensische Flüchtlinge stark.
+  regions: [levante]
+  themes: [politik, migration]
+- id: beirut
+  name: Beirut
+  coords: [35.5018, 33.8938]
+  categories: [stadt, hafen, kulturzentrum, hauptstadt]
+  modernName: Beirut (Libanon)
+  summary: Hafenstadt an der Levanteküste und seit dem späten 19. Jahrhundert mit der Amerikanischen Universität ein Zentrum arabischer Bildung und Publizistik; seit 1943 Hauptstadt des unabhängigen Libanon.
+  regions: [levante]
+  themes: [kultur-kunst, schrift-medien]

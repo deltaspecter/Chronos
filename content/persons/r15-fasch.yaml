@@ -1,0 +1,138 @@
+# Personen: Der Faschismus in Italien (r15-fasch)
+- id: gabriele-dannunzio
+  name: Gabriele D'Annunzio
+  aliases: [D'Annunzio, Il Vate]
+  born: "1863-03-12"
+  died: "1938-03-01"
+  roles: [Dichter, Kriegsheld, Kommandant von Fiume]
+  summary: Dichter und nationalistischer Kriegsheld, der das Schlagwort vom „verstümmelten Sieg“ verbreitete und 1919/20 mit Freiwilligen die Stadt Fiume besetzte; sein Regiment mit Balkonreden, Massenritualen und Uniformen nahm Formen des faschistischen Stils vorweg.
+  regions: [italien]
+  themes: [politik, kultur-kunst]
+  places: [fiume]
+- id: giovanni-giolitti
+  name: Giovanni Giolitti
+  born: "1842-10-27"
+  died: "1928-07-17"
+  roles: [Ministerpräsident]
+  summary: Liberaler Politiker, der Italien vor dem Ersten Weltkrieg mehrfach als Ministerpräsident prägte und 1920/21 noch einmal regierte; er duldete die Faschisten als Gegengewicht zu den Sozialisten und nahm sie 1921 in seine Wahlbündnisse auf.
+  regions: [italien]
+  themes: [politik]
+  places: [rom]
+- id: vittorio-emanuele-iii
+  name: Viktor Emanuel III.
+  aliases: [Vittorio Emanuele III]
+  born: "1869-11-11"
+  died: "1947-12-28"
+  roles: [König von Italien, Kaiser von Äthiopien]
+  summary: König von Italien 1900–1946, der sich 1922 weigerte, den Belagerungszustand gegen den Marsch auf Rom zu verhängen, und Mussolini zum Ministerpräsidenten ernannte; er trug die Diktatur, die Rassengesetze und den Kriegseintritt mit und ließ Mussolini erst im Juli 1943 verhaften.
+  regions: [italien]
+  themes: [politik]
+  places: [rom]
+- id: giacomo-matteotti
+  name: Giacomo Matteotti
+  born: "1885-05-22"
+  died: "1924-06-10"
+  roles: [Abgeordneter, Generalsekretär des Partito Socialista Unitario]
+  summary: Sozialistischer Abgeordneter, der am 30. Mai 1924 in der Kammer Gewalt und Betrug bei den Wahlen vom April anprangerte und am 10. Juni 1924 in Rom von einem faschistischen Kommando entführt und ermordet wurde.
+  regions: [italien]
+  themes: [politik, gewalt-genozid]
+  places: [rom]
+- id: giovanni-gentile
+  name: Giovanni Gentile
+  born: "1875-05-30"
+  died: "1944-04-15"
+  roles: [Philosoph, Unterrichtsminister]
+  summary: Idealistischer Philosoph, 1922–1924 Unterrichtsminister und wichtigster Theoretiker des faschistischen Staates; Mitverfasser der „Dottrina del fascismo“ und Leiter der Enciclopedia Italiana; 1944 in Florenz von kommunistischen Partisanen erschossen.
+  regions: [italien]
+  themes: [politik, wissenschaft-technik]
+- id: antonio-gramsci
+  name: Antonio Gramsci
+  born: "1891-01-22"
+  died: "1937-04-27"
+  roles: [Politiker, Theoretiker, Mitbegründer der Kommunistischen Partei Italiens]
+  summary: Marxistischer Theoretiker und Mitbegründer des Partito Comunista d'Italia, 1926 verhaftet und vom Sondergericht zu über zwanzig Jahren Haft verurteilt; seine im Gefängnis verfassten „Gefängnishefte“ analysieren den Faschismus und den Begriff der Hegemonie.
+  regions: [italien]
+  themes: [politik, geschichtsschreibung]
+- id: italo-balbo
+  name: Italo Balbo
+  born: "1896-06-06"
+  died: "1940-06-28"
+  roles: [Squadristenführer, Luftfahrtminister, Gouverneur von Libyen]
+  summary: Führer der Squadren in Ferrara und einer der vier Anführer des Marschs auf Rom; später Luftfahrtminister, ab 1934 Gouverneur Libyens; 1940 über Tobruk von der eigenen Flugabwehr abgeschossen.
+  regions: [italien, nordafrika]
+  themes: [politik, krieg-militaer]
+  places: [tripolis]
+- id: pius-xi
+  name: Pius XI.
+  aliases: [Achille Ratti]
+  born: "1857-05-31"
+  died: "1939-02-10"
+  roles: [Papst]
+  summary: Papst 1922–1939, unter dem der Heilige Stuhl 1929 die Lateranverträge mit dem faschistischen Italien schloss; er stritt mit dem Regime um die Katholische Aktion und die Jugenderziehung und wandte sich 1938 gegen die Rassenpolitik.
+  regions: [italien]
+  themes: [religion, politik]
+  places: [rom]
+- id: omar-al-mukhtar
+  name: Omar al-Mukhtar
+  aliases: [Umar al-Muchtar, ʿUmar al-Mukhtār]
+  born: "~1858"
+  died: "1931-09-16"
+  roles: [Führer des libyschen Widerstands]
+  summary: Koranlehrer aus dem Sanusiyya-Orden, der zwei Jahrzehnte lang den bewaffneten Widerstand gegen die italienische Herrschaft in der Kyrenaika führte; 1931 gefangen genommen und nach einem Schnellverfahren vor versammelten Lagerinsassen gehängt; in Libyen Nationalheld.
+  regions: [nordafrika]
+  themes: [politik, krieg-militaer]
+  places: [kyrenaika]
+- id: pietro-badoglio
+  name: Pietro Badoglio
+  born: "1871-09-28"
+  died: "1956-11-01"
+  roles: [Marschall, Generalstabschef, Ministerpräsident]
+  summary: Generalstabschef, 1929–1933 Gouverneur von Tripolitanien und Kyrenaika und 1936 Oberbefehlshaber im Krieg gegen Äthiopien, in dem er Giftgas einsetzen ließ; nach Mussolinis Sturz 1943–1944 Ministerpräsident, der den Waffenstillstand mit den Alliierten schloss.
+  regions: [italien, nordafrika, nordostafrika]
+  themes: [krieg-militaer, politik]
+  places: [addis-abeba]
+- id: rodolfo-graziani
+  name: Rodolfo Graziani
+  born: "1882-08-11"
+  died: "1955-01-11"
+  roles: [Marschall, Vizekönig von Äthiopien, Kriegsminister der Republik von Salò]
+  summary: General, der die Kyrenaika mit Deportationen und Lagern „befriedete“, im Abessinienkrieg die Südfront führte und als Vizekönig 1937 nach einem Attentat auf ihn Massaker in Addis Abeba auslöste; 1943–1945 Verteidigungsminister der Republik von Salò.
+  regions: [italien, nordafrika, nordostafrika]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [kyrenaika, addis-abeba]
+- id: haile-selassie
+  name: Haile Selassie I.
+  aliases: [Ras Tafari Makonnen]
+  born: "1892-07-23"
+  died: "1975-08-27"
+  roles: [Kaiser von Äthiopien]
+  summary: Seit 1930 Kaiser von Äthiopien; nach der italienischen Invasion ging er 1936 ins Exil und klagte vor dem Völkerbund in Genf den Giftgaskrieg an; 1941 kehrte er mit britischer Hilfe zurück und regierte bis zu seinem Sturz 1974.
+  regions: [nordostafrika]
+  themes: [politik]
+  places: [addis-abeba, genf]
+- id: galeazzo-ciano
+  name: Galeazzo Ciano
+  born: "1903-03-18"
+  died: "1944-01-11"
+  roles: [Außenminister]
+  summary: Schwiegersohn Mussolinis und 1936–1943 Außenminister, der die Annäherung an das nationalsozialistische Deutschland mitgestaltete; er stimmte im Juli 1943 im Großrat gegen Mussolini und wurde dafür in Verona von der Republik von Salò hingerichtet. Seine Tagebücher sind eine zentrale Quelle.
+  regions: [italien]
+  themes: [politik]
+  places: [rom]
+- id: dino-grandi
+  name: Dino Grandi
+  born: "1895-06-04"
+  died: "1988-05-21"
+  roles: [Squadristenführer, Außenminister, Justizminister]
+  summary: Squadristenführer in Bologna, später Außenminister, Botschafter in London und Justizminister; seine Tagesordnung im Faschistischen Großrat leitete in der Nacht zum 25. Juli 1943 den Sturz Mussolinis ein.
+  regions: [italien]
+  themes: [politik]
+  places: [rom]
+- id: renzo-de-felice
+  name: Renzo De Felice
+  born: "1929-04-08"
+  died: "1996-05-25"
+  roles: [Historiker]
+  summary: Italienischer Historiker, Verfasser einer vielbändigen Mussolini-Biografie; seine These von einem breiten „Konsens“ der Italiener mit dem Regime in den 1930er-Jahren und seine scharfe Unterscheidung zwischen Faschismus und Nationalsozialismus lösten seit 1975 heftige Kontroversen aus.
+  regions: [italien]
+  themes: [geschichtsschreibung]

@@ -1,0 +1,170 @@
+# Quellen und Literatur: Stalinismus (r15-stalin)
+
+# --- Forschung ---
+- id: conquest-1968
+  kind: sekundaer
+  authors: ["Conquest, Robert"]
+  title: The Great Terror
+  subtitle: Stalin's Purge of the Thirties
+  place: London
+  publisher: Macmillan
+  year: 1968
+- id: conquest-1986
+  kind: sekundaer
+  authors: ["Conquest, Robert"]
+  title: The Harvest of Sorrow
+  subtitle: Soviet Collectivization and the Terror-Famine
+  place: New York
+  publisher: Oxford University Press
+  year: 1986
+- id: fitzpatrick-1999
+  kind: sekundaer
+  authors: ["Fitzpatrick, Sheila"]
+  title: Everyday Stalinism
+  subtitle: Ordinary Life in Extraordinary Times – Soviet Russia in the 1930s
+  place: New York
+  publisher: Oxford University Press
+  year: 1999
+- id: kotkin-1995
+  kind: sekundaer
+  authors: ["Kotkin, Stephen"]
+  title: Magnetic Mountain
+  subtitle: Stalinism as a Civilization
+  place: Berkeley
+  publisher: University of California Press
+  year: 1995
+- id: kotkin-2017
+  kind: sekundaer
+  authors: ["Kotkin, Stephen"]
+  title: "Stalin. Band 2: Waiting for Hitler, 1929–1941"
+  place: New York
+  publisher: Penguin Press
+  year: 2017
+- id: khlevniuk-2015
+  kind: sekundaer
+  authors: ["Khlevniuk, Oleg V."]
+  title: Stalin
+  subtitle: New Biography of a Dictator
+  place: New Haven
+  publisher: Yale University Press
+  year: 2015
+- id: khlevniuk-2004
+  kind: sekundaer
+  authors: ["Khlevniuk, Oleg V."]
+  title: The History of the Gulag
+  subtitle: From Collectivization to the Great Terror
+  place: New Haven
+  publisher: Yale University Press
+  year: 2004
+- id: courtois-1998
+  kind: sekundaer
+  authors: ["Courtois, Stéphane", "Werth, Nicolas", "Panné, Jean-Louis", "Paczkowski, Andrzej", "Bartošek, Karel", "Margolin, Jean-Louis"]
+  title: Das Schwarzbuch des Kommunismus
+  subtitle: Unterdrückung, Verbrechen und Terror
+  place: München
+  publisher: Piper
+  year: 1998
+  note: Französisches Original „Le Livre noir du communisme“, Paris 1997; der Teil zur Sowjetunion stammt von Nicolas Werth.
+- id: applebaum-2003
+  kind: sekundaer
+  authors: ["Applebaum, Anne"]
+  title: Gulag
+  subtitle: A History
+  place: New York
+  publisher: Doubleday
+  year: 2003
+- id: applebaum-2017
+  kind: sekundaer
+  authors: ["Applebaum, Anne"]
+  title: Red Famine
+  subtitle: Stalin's War on Ukraine
+  place: New York
+  publisher: Doubleday
+  year: 2017
+- id: davies-wheatcroft-2004
+  kind: sekundaer
+  authors: ["Davies, R. W.", "Wheatcroft, Stephen G."]
+  title: The Years of Hunger
+  subtitle: Soviet Agriculture, 1931–1933
+  place: Basingstoke
+  publisher: Palgrave Macmillan
+  year: 2004
+- id: cameron-2018
+  kind: sekundaer
+  authors: ["Cameron, Sarah"]
+  title: The Hungry Steppe
+  subtitle: Famine, Violence, and the Making of Soviet Kazakhstan
+  place: Ithaca
+  publisher: Cornell University Press
+  year: 2018
+- id: baberowski-2012
+  kind: sekundaer
+  authors: ["Baberowski, Jörg"]
+  title: Verbrannte Erde
+  subtitle: Stalins Herrschaft der Gewalt
+  place: München
+  publisher: C. H. Beck
+  year: 2012
+- id: schloegel-2008
+  kind: sekundaer
+  authors: ["Schlögel, Karl"]
+  title: Terror und Traum
+  subtitle: Moskau 1937
+  place: München
+  publisher: Hanser
+  year: 2008
+- id: getty-1985
+  kind: sekundaer
+  authors: ["Getty, J. Arch"]
+  title: Origins of the Great Purges
+  subtitle: The Soviet Communist Party Reconsidered, 1933–1938
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1985
+- id: friedrich-brzezinski-1956
+  kind: sekundaer
+  authors: ["Friedrich, Carl J.", "Brzezinski, Zbigniew K."]
+  title: Totalitarian Dictatorship and Autocracy
+  place: Cambridge, Mass.
+  publisher: Harvard University Press
+  year: 1956
+- id: hellbeck-2006
+  kind: sekundaer
+  authors: ["Hellbeck, Jochen"]
+  title: Revolution on My Mind
+  subtitle: Writing a Diary under Stalin
+  place: Cambridge, Mass.
+  publisher: Harvard University Press
+  year: 2006
+
+# --- Primärquellen ---
+- id: q-stalin-1931
+  kind: primaer
+  authors: ["Stalin, Josef"]
+  title: Über die Aufgaben der Wirtschaftler
+  written: Moskau, 4. Februar 1931
+  note: Rede vor der Ersten Unionskonferenz der Funktionäre der sozialistischen Industrie, in der Stalin das Tempo der Industrialisierung mit dem Rückstand gegenüber den „fortgeschrittenen Ländern“ begründete.
+- id: q-stalin-1930
+  kind: primaer
+  authors: ["Stalin, Josef"]
+  title: Vor Erfolgen von Schwindel befallen
+  written: Prawda, 2. März 1930
+  note: Zeitungsartikel, in dem Stalin „Überspitzungen“ bei der Kollektivierung örtlichen Funktionären anlastete und einen vorübergehenden Rückzug einleitete.
+- id: q-befehl-00447
+  kind: primaer
+  authors: ["Jeschow, Nikolai"]
+  title: Operativer Befehl Nr. 00447 des NKWD „Über die Operation zur Repression ehemaliger Kulaken, Krimineller und anderer antisowjetischer Elemente“
+  written: Moskau, 30. Juli 1937
+  note: Geheimer Befehl, der für jede Region Quoten für Erschießungen und Lagerhaft festlegte und von „Troikas“ ohne Gerichtsverfahren ausgeführt wurde; seit den 1990er-Jahren veröffentlicht.
+- id: q-chruschtschow-1956
+  kind: primaer
+  authors: ["Chruschtschow, Nikita"]
+  title: Über den Personenkult und seine Folgen
+  written: Moskau, 25. Februar 1956
+  note: Sogenannte Geheimrede vor den Delegierten des XX. Parteitags der KPdSU, die Stalins Verbrechen an Parteimitgliedern anprangerte; in der Sowjetunion erst 1989 veröffentlicht.
+- id: q-solschenizyn-1973
+  kind: primaer
+  authors: ["Solschenizyn, Alexander"]
+  title: Der Archipel GULAG
+  written: Paris (russische Erstausgabe, YMCA-Press), 1973–1975
+  note: Auf eigener Haft und den Berichten von über 200 ehemaligen Häftlingen beruhende „literarische Untersuchung“ des sowjetischen Lagersystems, die dem Wort „Gulag“ weltweite Bekanntheit verschaffte.

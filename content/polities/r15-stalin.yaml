@@ -1,0 +1,24 @@
+# Staaten: Stalinismus (r15-stalin)
+- id: ukrainische-ssr
+  name: Ukrainische Sozialistische Sowjetrepublik
+  aliases: [Ukrainische SSR, Sowjetukraine]
+  start: "1919"
+  end: "1991-08-24"
+  spanNote: Sowjetrepublik ab 1919 (nach Vorläufern 1917/18), ab 1922 Gründungsmitglied der Sowjetunion; Hauptstadt bis 1934 Charkiw, danach Kiew.
+  capital: kiew
+  summary: Zweitgrößte Unionsrepublik der Sowjetunion, die von der Hungersnot 1932/33 (Holodomor) besonders schwer getroffen wurde; ging 1991 in der unabhängigen Ukraine auf.
+  regions: [osteuropa]
+  themes: [politik]
+  successors: [ukraine]
+  weight: 2
+- id: kasachische-ssr
+  name: Kasachische Sozialistische Sowjetrepublik
+  aliases: [Kasachische SSR, Kasachische ASSR, Sowjetkasachstan]
+  start: "1920"
+  end: "1991-12-16"
+  spanNote: 1920–1936 autonome Republik innerhalb der Russischen Sowjetrepublik (bis 1925 als Kirgisische ASSR bezeichnet), ab 1936 Unionsrepublik; Hauptstadt ab 1929 Alma-Ata.
+  capital: alma-ata
+  summary: Sowjetrepublik in Zentralasien, in der die erzwungene Sesshaftmachung der kasachischen Nomaden und die Kollektivierung 1930–1933 eine Hungersnot auslösten, die einen großen Teil der Kasachen das Leben kostete; später Ziel zahlreicher Deportationen.
+  regions: [zentralasien]
+  themes: [politik]
+  weight: 2

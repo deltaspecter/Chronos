@@ -1,0 +1,64 @@
+# Staaten: Die Gründung Israels und der Nahostkonflikt bis 1967
+- id: britisches-mandat-palaestina
+  name: Britisches Mandatsgebiet Palästina
+  aliases: [Mandatspalästina, Palestine Mandate, Mandat Palästina]
+  start: "1920-07-01"
+  end: "1948-05-14"
+  spanNote: Britische Militärverwaltung ab 1917/18; Zivilverwaltung ab Juli 1920 nach der Konferenz von San Remo; Bestätigung des Mandats durch den Völkerbund 1922, in Kraft ab September 1923. Das Mandat endete um Mitternacht vom 14. auf den 15. Mai 1948.
+  capital: jerusalem
+  summary: Vom Völkerbund an Großbritannien übertragenes Verwaltungsgebiet zwischen Mittelmeer und Jordan, in dem die Mandatsmacht sowohl die „nationale Heimstätte“ für das jüdische Volk fördern als auch die Rechte der arabischen Mehrheit wahren sollte; der wachsende Konflikt beider Nationalbewegungen machte das Mandat schließlich unregierbar.
+  regions: [levante]
+  themes: [imperien, politik]
+  predecessors: [osmanisches-reich]
+  successors: [staat-israel, jordanien, koenigreich-aegypten]
+  weight: 2
+- id: staat-israel
+  name: Israel
+  aliases: [Staat Israel, Medinat Jisra'el]
+  start: "1948-05-14"
+  summary: Am 14. Mai 1948 in Tel Aviv ausgerufener jüdischer Staat, der im Krieg 1948/49 rund drei Viertel des früheren Mandatsgebiets unter seine Kontrolle brachte und Hunderttausende Holocaust-Überlebende und Juden aus arabischen Ländern aufnahm.
+  regions: [levante]
+  themes: [politik, migration]
+  predecessors: [britisches-mandat-palaestina]
+  weight: 1
+- id: jordanien
+  name: Jordanien
+  aliases: [Transjordanien, Emirat Transjordanien, Haschemitisches Königreich Jordanien]
+  start: "1921"
+  spanNote: 1921–1946 Emirat Transjordanien unter britischem Mandat, 1946 unabhängiges Königreich, seit 1949 offiziell Jordanien.
+  capital: amman
+  summary: Von Großbritannien 1921 für den Haschemiten Abdallah geschaffenes Emirat östlich des Jordan, 1946 unabhängig; seine britisch geführte Arabische Legion war 1948 die schlagkräftigste arabische Armee. 1950 annektierte Jordanien das Westjordanland mit Ost-Jerusalem, das es 1967 an Israel verlor.
+  regions: [levante]
+  themes: [politik]
+  weight: 2
+- id: koenigreich-aegypten
+  name: Königreich Ägypten
+  aliases: [Ägypten (Monarchie)]
+  start: "1922-02-28"
+  end: "1953-06-18"
+  spanNote: Formal unabhängig seit 1922, doch blieben britische Truppen bis 1956 am Suezkanal. Nach dem Putsch der Freien Offiziere 1952 wurde 1953 die Republik ausgerufen.
+  capital: kairo
+  summary: Monarchie unter der Dynastie Muhammad Alis, die 1948 in den Krieg in Palästina eingriff und danach den Gazastreifen verwaltete; die Niederlage trug zum Sturz König Faruks 1952 bei.
+  regions: [aegypten]
+  themes: [politik]
+  weight: 3
+- id: arabische-liga
+  name: Arabische Liga
+  aliases: [Liga der Arabischen Staaten]
+  start: "1945-03-22"
+  capital: kairo
+  summary: In Kairo von Ägypten, Irak, Transjordanien, Libanon, Saudi-Arabien und Syrien gegründeter, später auf Jemen und weitere Staaten erweiterter Staatenbund, der den UN-Teilungsplan für Palästina ablehnte und 1948 den Einmarsch arabischer Armeen koordinieren sollte.
+  regions: [westasien, nordafrika]
+  themes: [politik]
+  weight: 3
+- id: voelkerbund
+  name: Völkerbund
+  aliases: [League of Nations, Société des Nations]
+  start: "1920-01-10"
+  end: "1946-04-18"
+  capital: genf
+  summary: Nach dem Ersten Weltkrieg gegründete Staatenorganisation mit Sitz in Genf, die unter anderem die früheren osmanischen und deutschen Gebiete als Mandate an Siegermächte vergab; 1946 aufgelöst, ihre Aufgaben übernahmen die Vereinten Nationen.
+  regions: [welt]
+  themes: [politik, verfassung-recht]
+  successors: [vereinte-nationen]
+  weight: 2

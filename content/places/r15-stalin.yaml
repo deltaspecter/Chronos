@@ -1,0 +1,65 @@
+# Orte: Stalinismus (r15-stalin)
+- id: magnitogorsk
+  name: Magnitogorsk
+  coords: [58.9794, 53.4072]
+  categories: [stadt]
+  modernName: Magnitogorsk, Oblast Tscheljabinsk (Russland)
+  summary: Ab 1929 am Südural um ein gewaltiges Eisen- und Stahlkombinat neu errichtete Industriestadt, Symbol des Ersten Fünfjahrplans; erbaut von Freiwilligen, angeworbenen Arbeitern, deportierten „Kulaken“ und Häftlingen.
+  regions: [russland]
+  themes: [wirtschaft-handel, wissenschaft-technik]
+- id: charkiw
+  name: Charkiw
+  aliases: [Charkow, Kharkiv]
+  coords: [36.2304, 49.9935]
+  categories: [stadt, hauptstadt]
+  modernName: Charkiw (Ukraine)
+  summary: Großstadt im Nordosten der Ukraine, 1919–1934 Hauptstadt der Ukrainischen Sowjetrepublik und damit Sitz der Führung, die 1932/33 die Getreidebeschaffung während der Hungersnot durchsetzte.
+  regions: [osteuropa]
+  themes: [politik]
+- id: kolyma
+  name: Kolyma
+  aliases: [Dalstroi]
+  coords: [150.8, 62.5]
+  location: ungefaehr
+  categories: [region]
+  modernName: Oblast Magadan (Russland)
+  summary: Region im äußersten Nordosten Sibiriens, in der ab 1932 der Lagerkomplex Dalstroi Häftlinge unter extremen Bedingungen Gold fördern ließ; Inbegriff der tödlichsten Lager des Gulag.
+  regions: [russland]
+  themes: [sklaverei-unfreiheit, gewalt-genozid]
+- id: workuta
+  name: Workuta
+  aliases: [Vorkuta, Workutlag]
+  coords: [64.0, 67.5]
+  categories: [stadt]
+  modernName: Workuta, Republik Komi (Russland)
+  summary: Kohlerevier nördlich des Polarkreises, das in den 1930er-Jahren von Häftlingen erschlossen wurde und einer der größten Lagerkomplexe des Gulag war; 1953 Schauplatz eines großen Häftlingsstreiks.
+  regions: [russland]
+  themes: [sklaverei-unfreiheit, wirtschaft-handel]
+- id: solowezki-inseln
+  name: Solowezki-Inseln
+  aliases: [Solowki, Solowezker Lager, SLON]
+  coords: [35.7, 65.08]
+  categories: [region, heiligtum]
+  modernName: Solowezki-Inseln, Oblast Archangelsk (Russland)
+  summary: Inselgruppe im Weißen Meer mit einem mittelalterlichen Kloster, in dem ab 1923 das „Solowezker Lager zur besonderen Verwendung“ eingerichtet wurde – Versuchsfeld und Keimzelle des späteren Gulag.
+  regions: [russland]
+  themes: [sklaverei-unfreiheit, religion]
+- id: karaganda
+  name: Karaganda
+  aliases: [Qaraghandy, Karlag]
+  coords: [73.1, 49.8]
+  categories: [stadt]
+  modernName: Qaraghandy (Kasachstan)
+  summary: Bergbaustadt in der kasachischen Steppe, Zentrum des großen Lagerkomplexes Karlag und Ziel zahlreicher Deportierter, darunter Russlanddeutscher.
+  regions: [zentralasien]
+  themes: [sklaverei-unfreiheit, migration]
+- id: butowo
+  name: Schießplatz Butowo
+  aliases: [Butowski Poligon]
+  coords: [37.5844, 55.5506]
+  location: ungefaehr
+  categories: [fundstaette]
+  modernName: Butowo, Moskau (Russland)
+  summary: Gelände südlich von Moskau, auf dem das NKWD 1937/38 über 20.000 Menschen erschoss und verscharrte; heute Gedenkstätte unter Obhut der Russisch-Orthodoxen Kirche.
+  regions: [russland]
+  themes: [gewalt-genozid]

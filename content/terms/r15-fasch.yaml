@@ -1,0 +1,46 @@
+# Begriffe: Der Faschismus in Italien (r15-fasch)
+- id: faschismus
+  name: Faschismus
+  aliases: [Fascismo, faschistisch]
+  definition: Von den italienischen „Fasci“ (Bünde, abgeleitet von den römischen Rutenbündeln) abgeleitete Bezeichnung für die von Mussolini 1919 gegründete Bewegung und das 1922–1943/45 herrschende Regime; in der Forschung zugleich Gattungsbegriff für radikal nationalistische, antiliberale und antimarxistische Massenbewegungen der Zwischenkriegszeit mit Führerkult, Parteimiliz und Kult der Gewalt. Umfang und Brauchbarkeit des Gattungsbegriffs sind umstritten.
+  themes: [politik, geschichtsschreibung]
+- id: verstuemmelter-sieg
+  name: Verstümmelter Sieg
+  aliases: [Vittoria mutilata]
+  definition: Von Gabriele D'Annunzio verbreitetes Schlagwort für die Behauptung, Italien sei nach dem Ersten Weltkrieg von den Verbündeten um die Früchte seines Sieges, besonders um Dalmatien und Fiume, betrogen worden; zentrales Motiv nationalistischer und faschistischer Agitation.
+  themes: [politik]
+- id: squadrismus
+  name: Squadrismus
+  aliases: [Squadrismo, Squadristen, Schwarzhemden, Squadre d'azione]
+  definition: Gewalt der bewaffneten faschistischen Trupps (squadre), die 1920–1922 vor allem in Norditalien Gewerkschaftshäuser, Genossenschaften und Rathäuser sozialistischer und katholischer Organisationen überfielen und deren Anhänger misshandelten oder töteten; 1923 als Miliz (MVSN) in den Staat eingegliedert.
+  themes: [politik, gewalt-genozid]
+- id: duce
+  name: Duce
+  aliases: [Ducismo, Duce-Kult]
+  definition: Italienisch „Führer“, Titel Mussolinis als Haupt der faschistischen Bewegung und des Regimes; der um seine Person inszenierte Kult war Kern der faschistischen Propaganda.
+  themes: [politik, schrift-medien]
+- id: korporativismus
+  name: Korporativismus
+  aliases: [Korporativstaat, Stato corporativo, Ständestaat]
+  definition: Faschistische Ordnungsidee, nach der Arbeitgeber und Arbeitnehmer in staatlich gelenkten Berufsverbänden (Korporationen) zusammengefasst werden, um den Klassenkampf zu ersetzen; in Italien mit Streikverbot, Monopol der faschistischen Gewerkschaften und der Carta del Lavoro von 1927 umgesetzt, in der Praxis aber weitgehend ein bürokratischer Überbau.
+  themes: [wirtschaft-handel, politik]
+- id: totalitarismus
+  name: Totalitarismus
+  aliases: [totalitär, Stato totalitario]
+  definition: Ursprünglich von italienischen Antifaschisten kritisch geprägter, dann von Mussolini und Gentile positiv übernommener Begriff für einen Staat, der alle Lebensbereiche erfasst; in der Politikwissenschaft nach 1945 Vergleichsbegriff für Diktaturen wie Nationalsozialismus und Stalinismus. Ob das faschistische Italien totalitär war, ist umstritten.
+  themes: [politik, geschichtsschreibung]
+- id: politische-religion
+  name: Politische Religion
+  aliases: [Sakralisierung der Politik]
+  definition: Deutungsansatz, der moderne Massenbewegungen wie den Faschismus als säkulare Glaubenssysteme mit eigenen Ritualen, Märtyrerkult, Feiertagen und Heilsversprechen beschreibt; für Italien vor allem von Emilio Gentile vertreten.
+  themes: [religion, politik, geschichtsschreibung]
+- id: confino
+  name: Confino
+  aliases: [Verbannung, Confino di polizia]
+  definition: Polizeiliche Verbannung politischer Gegner ohne Gerichtsverfahren an abgelegene Orte, vor allem auf süditalienische Inseln und in Dörfer des Südens; seit 1926 ein Hauptinstrument der faschistischen Repression.
+  themes: [verfassung-recht, politik]
+- id: resistenza
+  name: Resistenza
+  aliases: [Italienischer Widerstand, Partisanenbewegung, Comitato di Liberazione Nazionale, CLN]
+  definition: Bewaffneter und ziviler Widerstand gegen die deutsche Besatzung und die Republik von Salò 1943–1945, getragen von kommunistischen, sozialistischen, liberalen, katholischen und parteilosen Gruppen unter dem Dach der Komitees der Nationalen Befreiung; Gründungsmythos der Italienischen Republik.
+  themes: [politik, krieg-militaer]
