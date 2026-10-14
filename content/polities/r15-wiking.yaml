@@ -1,0 +1,77 @@
+# Staaten: Die Wikinger
+- id: kiewer-rus
+  name: Kiewer Rus
+  aliases: [Rus, Altrussisches Reich, Kyjiwer Rus]
+  start: "~882"
+  end: "1240"
+  spanNote: Nach der Nestorchronik nahm Oleg 882 Kiew ein; das Datum ist legendarisch überformt. Ab dem 12. Jahrhundert zerfiel das Reich in Teilfürstentümer; als Endpunkt gilt die mongolische Eroberung Kiews 1240.
+  capital: kiew
+  summary: Herrschaftsverband entlang der Flusswege zwischen Ostsee und Schwarzem Meer, geführt von der Dynastie der Rurikiden skandinavischer Herkunft, die rasch in der slawischen Bevölkerung aufging; mit der Taufe Wladimirs um 988 wurde die Rus Teil der byzantinisch-orthodoxen Christenheit.
+  regions: [osteuropa, russland]
+  themes: [politik, handelsnetze, religion]
+  weight: 2
+- id: herzogtum-normandie
+  name: Herzogtum Normandie
+  aliases: [Normandie, Normannen]
+  start: "~911"
+  end: "1204"
+  spanNote: Beginn mit der Landübertragung an Rollo um 911 (Vertrag von Saint-Clair-sur-Epte, dessen Text nicht überliefert ist); der Herzogstitel ist erst im späten 10. und 11. Jahrhundert fest belegt. 1204 eroberte der französische König Philipp II. die Normandie.
+  capital: rouen
+  summary: Fürstentum an der unteren Seine, aus einer skandinavischen Ansiedlung im Westfrankenreich hervorgegangen; seine Herzöge übernahmen rasch Sprache, Religion und Institutionen der Franken, und Herzog Wilhelm eroberte 1066 England.
+  regions: [frankreich]
+  themes: [politik, migration]
+  weight: 2
+- id: islaendischer-freistaat
+  name: Isländischer Freistaat
+  aliases: [Freistaat Island, Þjóðveldið, Island (Freistaat)]
+  start: "930"
+  end: "1262"
+  spanNote: Beginn mit der überlieferten Gründung des Althing 930, Ende mit der Unterwerfung unter den norwegischen König 1262–1264.
+  summary: Gemeinwesen ohne König, in dem Häuptlinge (goðar) und ihre Gefolgsleute Recht und Streitigkeiten auf regionalen Things und dem jährlichen Althing in Þingvellir regelten.
+  regions: [nordeuropa]
+  themes: [verfassung-recht, politik]
+  weight: 3
+- id: koenigreich-daenemark-mittelalter
+  name: Königreich Dänemark (Mittelalter)
+  aliases: [Dänemark, Dänisches Reich]
+  start: "~950"
+  end: "1524"
+  spanNote: Dänische Könige sind schon um 800 bezeugt (Godofrid); als dauerhaftes Reich gilt Dänemark erst seit Gorm dem Alten und Harald Blauzahn um die Mitte des 10. Jahrhunderts. Das Ende markiert hier der Übergang zu Dänemark-Norwegen.
+  summary: Mittelalterliches Königreich in Jütland, auf den dänischen Inseln und in Schonen, das unter Harald Blauzahn christianisiert wurde und unter Sven Gabelbart und Knut dem Großen kurzzeitig auch England beherrschte.
+  regions: [nordeuropa]
+  themes: [politik, religion]
+  successors: [daenemark-norwegen]
+  weight: 2
+- id: koenigreich-norwegen-mittelalter
+  name: Königreich Norwegen (Mittelalter)
+  aliases: [Norwegen]
+  start: "~900"
+  end: "1380"
+  spanNote: Die Sagas schreiben die erste Einigung Harald Schönhaar im späten 9. Jahrhundert zu; eine stabile Königsherrschaft entstand erst im 11. Jahrhundert. 1380 begann die Union mit Dänemark.
+  summary: Königreich entlang der norwegischen Küste, dessen Herrscher – Olaf Tryggvason, Olav Haraldsson, Harald Hardrada – im Wettbewerb mit Dänemark und lokalen Großen das Christentum durchsetzten; im 13. Jahrhundert unterwarfen sich Island und Grönland seiner Herrschaft.
+  regions: [nordeuropa]
+  themes: [politik, religion]
+  successors: [daenemark-norwegen]
+  weight: 2
+- id: schweden-mittelalter
+  name: Schweden (Mittelalter)
+  aliases: [Svear, Svea rike, Schwedisches Reich]
+  start: "~995"
+  end: "1523"
+  spanNote: Olof Skötkonung (um 995–1022) gilt als erster König, der über Svear und Götar zugleich herrschte; die Reichsbildung zog sich bis ins 13. Jahrhundert hin.
+  summary: Allmählich zusammenwachsendes Königreich der Svear um den Mälarsee und der Götar im Süden, das später christianisiert wurde als Dänemark und Norwegen und dessen Verbindungen vor allem nach Osten, über die Ostsee in die Rus, wiesen.
+  regions: [nordeuropa]
+  themes: [politik, religion]
+  successors: [koenigreich-schweden]
+  weight: 3
+- id: wolgabulgarien
+  name: Wolgabulgarien
+  aliases: [Wolgabulgaren, Bulgar]
+  start: "~900"
+  end: "1236"
+  spanNote: Turksprachiges Reich an der mittleren Wolga, das um 900 greifbar wird, 922 offiziell den Islam annahm und 1236 von den Mongolen erobert wurde.
+  capital: bolghar
+  summary: Reich an der mittleren Wolga, dessen Herrscher den Islam annahm und den Kalifen in Bagdad um Hilfe bat; seine Märkte verbanden Pelze und Sklaven aus dem Norden mit dem Silber des Kalifats.
+  regions: [russland]
+  themes: [handelsnetze, religion]
+  weight: 3

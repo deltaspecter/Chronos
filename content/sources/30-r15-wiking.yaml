@@ -1,0 +1,195 @@
+# Quellen und Literatur: Die Wikinger
+
+# --- Primärquellen ---
+- id: q-angelsaechsische-chronik
+  kind: primaer
+  title: Angelsächsische Chronik (Anglo-Saxon Chronicle)
+  written: England, ab dem späten 9. Jahrhundert, in mehreren Fassungen fortgeführt bis ins 12. Jahrhundert
+  note: Jahrweise geführte Chronik in altenglischer Sprache, die unter Alfred dem Großen in Wessex zusammengestellt und in Klöstern fortgesetzt wurde; wichtigste Erzählquelle für die skandinavischen Angriffe auf England, aber aus westsächsischer Sicht geschrieben.
+- id: q-alkuin-brief-793
+  kind: primaer
+  authors: ["Alkuin"]
+  title: Brief an König Æthelred von Northumbrien über den Überfall auf Lindisfarne
+  written: "793"
+  note: Alkuin deutet den Angriff auf das Kloster Lindisfarne als Strafe Gottes für die Sünden der Northumbrier und betont, eine solche Fahrt übers Meer habe man nicht für möglich gehalten.
+- id: q-annales-bertiniani
+  kind: primaer
+  title: Annales Bertiniani (Annalen von Saint-Bertin)
+  written: Westfrankenreich, 830–882
+  note: Fortsetzung der fränkischen Reichsannalen; berichtet zu 839 von Gesandten des byzantinischen Kaisers, die sich „Rhos“ nannten und am Hof Ludwigs des Frommen als Schweden erkannt wurden, sowie von den Wikingerzügen gegen das Westfrankenreich.
+- id: q-ibn-fadlan
+  kind: primaer
+  authors: ["Ahmad ibn Fadlan"]
+  title: Risala (Reisebericht über die Gesandtschaft zu den Wolgabulgaren)
+  written: Bagdad, nach 922
+  note: Bericht eines Mitglieds der abbasidischen Gesandtschaft an den Herrscher der Wolgabulgaren 921–922; enthält die ausführlichste zeitgenössische Beschreibung von „Rus“-Händlern an der Wolga und einer Schiffsbestattung, aus der Sicht eines muslimischen Gelehrten.
+- id: q-jelling-stein
+  kind: primaer
+  authors: ["Harald Blauzahn"]
+  title: Großer Runenstein von Jelling
+  written: Jelling (Jütland), um 965
+  note: Von Harald Blauzahn für seine Eltern Gorm und Thyra errichteter Runenstein, dessen Inschrift verkündet, Harald habe ganz Dänemark und Norwegen gewonnen und die Dänen zu Christen gemacht; eine Seite zeigt die älteste Christusdarstellung Skandinaviens.
+- id: q-islendingabok
+  kind: primaer
+  authors: ["Ari Þorgilsson"]
+  title: Íslendingabók (Buch der Isländer)
+  written: Island, um 1122–1133
+  note: Knappe Geschichte Islands von der Landnahme bis ins frühe 12. Jahrhundert; älteste erzählende Quelle zur Besiedlung, zum Althing und zur Annahme des Christentums um 1000, aber rund 250 Jahre nach der Landnahme verfasst.
+- id: q-vinland-sagas
+  kind: primaer
+  title: Grænlendinga saga und Eiríks saga rauða (Vinland-Sagas)
+  written: Island, 13. Jahrhundert (Handschriften des 14. und 15. Jahrhunderts)
+  note: Zwei isländische Sagas über die Besiedlung Grönlands und die Fahrten nach Vinland, die sich in Einzelheiten widersprechen und erst mehr als 200 Jahre nach den Ereignissen niedergeschrieben wurden.
+- id: q-nestorchronik
+  kind: primaer
+  title: Erzählung der vergangenen Jahre (Povest' vremennych let, „Nestorchronik“)
+  written: Kiew, frühes 12. Jahrhundert
+  note: Altrussische Chronik, die die Anfänge der Rus mit der Berufung des Warägers Rurik nach Nowgorod erzählt und auch die Verträge der Rus mit Byzanz von 911 und 944 überliefert; ihre Frühgeschichte ist eine spätere, legendarisch gefärbte Konstruktion.
+
+# --- Editionen ---
+- id: swanton-1996
+  kind: edition
+  editors: ["Swanton, Michael"]
+  title: The Anglo-Saxon Chronicle
+  place: London
+  publisher: J. M. Dent
+  year: 1996
+- id: lunde-stone-2012
+  kind: edition
+  editors: ["Lunde, Paul", "Stone, Caroline"]
+  title: Ibn Fadlān and the Land of Darkness
+  subtitle: Arab Travellers in the Far North
+  place: London
+  publisher: Penguin
+  year: 2012
+- id: magnusson-palsson-1965
+  kind: edition
+  editors: ["Magnusson, Magnus", "Pálsson, Hermann"]
+  title: The Vinland Sagas
+  subtitle: The Norse Discovery of America
+  place: Harmondsworth
+  publisher: Penguin
+  year: 1965
+- id: cross-sherbowitz-1953
+  kind: edition
+  editors: ["Cross, Samuel Hazzard", "Sherbowitz-Wetzor, Olgerd P."]
+  title: The Russian Primary Chronicle
+  subtitle: Laurentian Text
+  place: Cambridge, Mass.
+  publisher: Mediaeval Academy of America
+  year: 1953
+
+# --- Forschung ---
+- id: sawyer-1962
+  kind: sekundaer
+  authors: ["Sawyer, Peter H."]
+  title: The Age of the Vikings
+  place: London
+  publisher: Edward Arnold
+  year: 1962
+- id: sawyer-1997
+  kind: sekundaer
+  editors: ["Sawyer, Peter"]
+  title: The Oxford Illustrated History of the Vikings
+  place: Oxford
+  publisher: Oxford University Press
+  year: 1997
+- id: roesdahl-1998
+  kind: sekundaer
+  authors: ["Roesdahl, Else"]
+  title: The Vikings
+  edition: 2. Auflage
+  place: London
+  publisher: Penguin
+  year: 1998
+- id: brink-price-2008
+  kind: sekundaer
+  editors: ["Brink, Stefan", "Price, Neil"]
+  title: The Viking World
+  place: London / New York
+  publisher: Routledge
+  year: 2008
+- id: price-2020
+  kind: sekundaer
+  authors: ["Price, Neil"]
+  title: Children of Ash and Elm
+  subtitle: A History of the Vikings
+  place: New York
+  publisher: Basic Books
+  year: 2020
+- id: winroth-2012
+  kind: sekundaer
+  authors: ["Winroth, Anders"]
+  title: The Conversion of Scandinavia
+  subtitle: Vikings, Merchants, and Missionaries in the Remaking of Northern Europe
+  place: New Haven
+  publisher: Yale University Press
+  year: 2012
+- id: winroth-2014
+  kind: sekundaer
+  authors: ["Winroth, Anders"]
+  title: The Age of the Vikings
+  place: Princeton
+  publisher: Princeton University Press
+  year: 2014
+- id: jesch-2015
+  kind: sekundaer
+  authors: ["Jesch, Judith"]
+  title: The Viking Diaspora
+  place: London / New York
+  publisher: Routledge
+  year: 2015
+- id: franklin-shepard-1996
+  kind: sekundaer
+  authors: ["Franklin, Simon", "Shepard, Jonathan"]
+  title: The Emergence of Rus, 750–1200
+  place: London
+  publisher: Longman
+  year: 1996
+- id: noonan-1998
+  kind: sekundaer
+  authors: ["Noonan, Thomas S."]
+  title: The Islamic World, Russia and the Vikings, 750–900
+  subtitle: The Numismatic Evidence
+  place: Aldershot
+  publisher: Ashgate
+  year: 1998
+- id: byock-2001
+  kind: sekundaer
+  authors: ["Byock, Jesse"]
+  title: Viking Age Iceland
+  place: London
+  publisher: Penguin
+  year: 2001
+- id: downham-2007
+  kind: sekundaer
+  authors: ["Downham, Clare"]
+  title: Viking Kings of Britain and Ireland
+  subtitle: The Dynasty of Ívarr to A.D. 1014
+  place: Edinburgh
+  publisher: Dunedin Academic Press
+  year: 2007
+- id: margaryan-2020
+  kind: sekundaer
+  authors: ["Margaryan, Ashot", "u. a."]
+  title: Population genomics of the Viking world
+  container: Nature
+  volume: "585"
+  year: 2020
+  pages: 390–396
+- id: kuitems-2022
+  kind: sekundaer
+  authors: ["Kuitems, Margot", "Wallace, Birgitta L.", "u. a."]
+  title: Evidence for European presence in the Americas in AD 1021
+  container: Nature
+  volume: "601"
+  year: 2022
+  pages: 388–391
+- id: hedenstierna-jonson-2017
+  kind: sekundaer
+  authors: ["Hedenstierna-Jonson, Charlotte", "u. a."]
+  title: A female Viking warrior confirmed by genomics
+  container: American Journal of Physical Anthropology
+  volume: "164"
+  year: 2017
+  pages: 853–860

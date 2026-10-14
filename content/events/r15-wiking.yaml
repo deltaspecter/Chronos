@@ -1,0 +1,253 @@
+# Ereignisse: Die Wikinger
+- id: ueberfall-lindisfarne
+  title: Überfall auf Lindisfarne
+  date: "793-06-08"
+  certainty: wahrscheinlich
+  dateNote: Die Angelsächsische Chronik nennt den 8. Januar; die Forschung korrigiert das Datum meist auf den 8. Juni, weil Seefahrten im Winter unwahrscheinlich waren.
+  weight: 1
+  kind: ereignis
+  summary: Skandinavische Seekrieger plündern das Kloster auf der Insel Lindisfarne vor Northumbrien, töten Mönche und verschleppen andere. Der Angriff erschüttert die Gelehrten der Zeit und gilt traditionell als Beginn der Wikingerzeit, obwohl es schon zuvor Überfälle gab.
+  regions: [britische-inseln, nordeuropa]
+  themes: [gewalt-genozid, religion]
+  places: [lindisfarne]
+  persons: [alkuin]
+- id: gruendung-dublins
+  title: Skandinavisches Schiffslager in Dublin
+  date: "841"
+  weight: 3
+  kind: gruendung
+  summary: Skandinavische Krieger errichten an der Mündung der Liffey ein befestigtes Lager (longphort), aus dem sich eine Handelsstadt und ein Königtum entwickeln; Dublin wird zum wichtigsten skandinavischen Zentrum in Irland.
+  regions: [britische-inseln]
+  themes: [handelsnetze, migration]
+  places: [dublin]
+- id: pluenderung-von-paris-845
+  title: Plünderung von Paris
+  date: "845"
+  weight: 3
+  kind: ereignis
+  summary: Eine skandinavische Flotte fährt die Seine hinauf und plündert Paris; König Karl der Kahle zahlt nach den Annalen von Saint-Bertin 7000 Pfund Silber für ihren Abzug. Spätere Überlieferung verbindet den Zug mit dem halblegendären Ragnar.
+  regions: [frankreich]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [paris]
+  polities: [frankenreich]
+- id: angriff-der-rus-auf-konstantinopel-860
+  title: Angriff der Rus auf Konstantinopel
+  date: "860-06-18"
+  weight: 2
+  kind: ereignis
+  summary: Eine Flotte der Rus erscheint überraschend vor Konstantinopel und verwüstet die Umgebung, während der Kaiser abwesend ist. Patriarch Photios deutet den Angriff in Predigten als Strafe Gottes; es ist der erste große Kontakt zwischen Byzanz und der Rus.
+  regions: [suedosteuropa, osteuropa]
+  themes: [krieg-militaer]
+  places: [istanbul]
+  polities: [byzantinisches-reich]
+- id: berufung-ruriks
+  title: Berufung der Waräger nach Nowgorod
+  date: "862"
+  certainty: umstritten
+  weight: 2
+  kind: herrschaft
+  summary: Nach der Nestorchronik rufen slawische und finnische Stämme den Waräger Rurik und seine Brüder herbei, um über sie zu herrschen. Die Erzählung entstand rund 250 Jahre später und gilt als legitimierende Gründungslegende der Rurikiden-Dynastie.
+  regions: [russland, osteuropa]
+  themes: [politik]
+  places: [nowgorod, staraja-ladoga]
+  persons: [rurik]
+  polities: [kiewer-rus]
+- id: grosses-heer
+  title: Das „Große Heer“ in England
+  start: "865"
+  end: "878"
+  weight: 2
+  kind: krieg
+  summary: Ein großes skandinavisches Heer landet in East Anglia, erobert 866 York und unterwirft Northumbrien, East Anglia und Teile Mercias; nur Wessex hält stand. Aus der Ansiedlung seiner Krieger entsteht das Danelaw.
+  regions: [britische-inseln]
+  themes: [krieg-militaer, migration]
+  places: [york]
+  persons: [guthrum, alfred-der-grosse]
+- id: schlacht-von-edington
+  title: Schlacht von Edington
+  date: "878"
+  weight: 2
+  kind: schlacht
+  summary: Alfred von Wessex besiegt bei Ethandun das Heer Guthrums; Guthrum lässt sich taufen und zieht nach East Anglia ab. Der Sieg sichert das Überleben von Wessex.
+  regions: [britische-inseln]
+  themes: [krieg-militaer, religion]
+  places: [edington]
+  persons: [alfred-der-grosse, guthrum]
+- id: vertrag-alfred-guthrum
+  title: Vertrag zwischen Alfred und Guthrum
+  start: "878"
+  end: "890"
+  certainty: unsicher
+  dateNote: Der Vertrag ist undatiert; er muss zwischen 878 und Guthrums Tod 890 geschlossen worden sein, häufig wird um 886 angenommen.
+  weight: 3
+  kind: vertrag
+  summary: Die beiden Könige legen eine Grenze zwischen ihren Herrschaftsbereichen entlang von Themse, Lea und Watling Street fest und regeln Wergeld und Handel; der Vertrag gilt als frühes Zeugnis des Danelaw.
+  regions: [britische-inseln]
+  themes: [verfassung-recht, politik]
+  persons: [alfred-der-grosse, guthrum]
+- id: belagerung-von-paris-885
+  title: Belagerung von Paris durch die Nordmänner
+  start: "885"
+  end: "886"
+  weight: 3
+  kind: schlacht
+  summary: Ein großes skandinavisches Heer belagert Paris fast ein Jahr lang; Graf Odo verteidigt die Stadt, doch Kaiser Karl III. erkauft den Abzug mit Silber und der Erlaubnis, Burgund zu plündern. Das Ansehen der Karolinger leidet schwer.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+  places: [paris]
+  polities: [frankenreich]
+- id: landnahme-islands
+  title: Landnahme Islands
+  start: "~870"
+  end: "~930"
+  weight: 2
+  kind: entwicklung
+  summary: Siedler vor allem aus Norwegen sowie von den Britischen Inseln – darunter viele Unfreie und Frauen gälischer Herkunft – besiedeln das bis dahin praktisch menschenleere Island. Eine um 870 datierte vulkanische Ascheschicht (Landnahme-Tephra) und genetische Studien stützen die späte Überlieferung in groben Zügen.
+  regions: [nordeuropa, atlantik]
+  themes: [migration]
+  polities: [islaendischer-freistaat]
+- id: vertrag-von-saint-clair-sur-epte
+  title: Vertrag von Saint-Clair-sur-Epte
+  date: "~911"
+  certainty: umstritten
+  dateNote: Kein Vertragstext ist erhalten; die Nachricht beruht vor allem auf Dudo von Saint-Quentin, der um 1000 schrieb. Ein Diplom von 918 bestätigt die Landübertragung an die Normannen.
+  weight: 2
+  kind: vertrag
+  summary: König Karl der Einfältige überlässt dem skandinavischen Anführer Rollo das Gebiet um Rouen gegen Taufe und Schutz der Seine-Mündung vor anderen Angreifern; daraus entsteht die Normandie.
+  regions: [frankreich]
+  themes: [politik, migration]
+  places: [rouen]
+  persons: [rollo, karl-der-einfaeltige]
+  polities: [herzogtum-normandie]
+- id: vertrag-rus-byzanz-911
+  title: Handelsvertrag der Rus mit Byzanz
+  date: "911"
+  weight: 3
+  kind: vertrag
+  summary: Nach der Nestorchronik schließen Gesandte des Fürsten Oleg mit überwiegend skandinavischen Namen einen Vertrag mit Byzanz, der Rechte und Pflichten der Rus-Kaufleute in Konstantinopel regelt; 944 folgt ein weiterer Vertrag.
+  regions: [osteuropa, suedosteuropa]
+  themes: [handelsnetze, verfassung-recht]
+  places: [istanbul, kiew]
+  polities: [kiewer-rus, byzantinisches-reich]
+- id: reise-ibn-fadlans
+  title: Gesandtschaft Ibn Fadlans zu den Wolgabulgaren
+  start: "921"
+  end: "922"
+  weight: 3
+  kind: ereignis
+  summary: Eine Gesandtschaft des Kalifen al-Muqtadir reist von Bagdad über Buchara und Choresmien an die Wolga; ihr Sekretär Ibn Fadlan beschreibt die Rus-Händler und eine Bootsbestattung mit Menschenopfer.
+  regions: [mesopotamien, zentralasien, russland]
+  themes: [handelsnetze, religion]
+  places: [bagdad, bolghar]
+  persons: [ibn-fadlan]
+  polities: [abbasiden-kalifat, wolgabulgarien]
+- id: gruendung-althing
+  title: Gründung des Althing
+  date: "930"
+  certainty: wahrscheinlich
+  weight: 2
+  kind: gruendung
+  summary: Die isländischen Siedler richten nach Ari Þorgilsson eine gemeinsame Versammlung in Þingvellir ein, auf der jährlich Recht gesprochen und das Gesetz vorgetragen wird.
+  regions: [nordeuropa]
+  themes: [verfassung-recht, politik]
+  places: [thingvellir]
+  polities: [islaendischer-freistaat]
+- id: besiedlung-groenlands
+  title: Besiedlung Grönlands
+  date: "~985"
+  certainty: wahrscheinlich
+  weight: 2
+  kind: entwicklung
+  summary: Nach den Sagas führt Erik der Rote Siedler aus Island an die Südwestküste Grönlands; in Ost- und Westsiedlung leben zeitweise wohl einige Tausend Menschen von Viehzucht, Jagd und dem Handel mit Walrosselfenbein. Die Siedlungen werden im 15. Jahrhundert aufgegeben.
+  regions: [nordamerika, atlantik]
+  themes: [migration, umwelt-klima]
+  places: [brattahlid]
+  persons: [erik-der-rote]
+- id: taufe-wladimirs
+  title: Taufe Wladimirs und der Kiewer Rus
+  date: "~988"
+  certainty: wahrscheinlich
+  weight: 2
+  kind: ereignis
+  summary: Großfürst Wladimir von Kiew lässt sich taufen, heiratet Anna, die Schwester Kaiser Basileios’ II., und führt das orthodoxe Christentum in seinem Herrschaftsbereich ein.
+  regions: [osteuropa, russland, suedosteuropa]
+  themes: [religion, politik]
+  places: [kiew]
+  persons: [wladimir-i, basileios-ii]
+  polities: [kiewer-rus, byzantinisches-reich]
+- id: christianisierung-islands
+  title: Annahme des Christentums auf Island
+  date: "~1000"
+  certainty: wahrscheinlich
+  dateNote: Ari Þorgilsson datiert den Beschluss auf das Jahr 1000; manche Forscher bevorzugen 999.
+  weight: 3
+  kind: gesetz
+  summary: Das Althing beschließt nach dem Schiedsspruch des Gesetzessprechers Þorgeirr, dass alle Isländer sich taufen lassen, private heidnische Praktiken aber zunächst geduldet bleiben – ein Kompromiss, der einen Bürgerkrieg verhindern sollte.
+  regions: [nordeuropa]
+  themes: [religion, verfassung-recht]
+  places: [thingvellir]
+  polities: [islaendischer-freistaat]
+- id: nordische-anwesenheit-vinland
+  title: Nordische Siedler in L'Anse aux Meadows
+  date: "1021"
+  certainty: wahrscheinlich
+  dateNote: Datiert über Holz, das mit Metallwerkzeugen bearbeitet wurde, und das Signal eines Sonnensturms von 993 in den Jahresringen; die Anlage war wohl nur wenige Jahre in Gebrauch.
+  weight: 2
+  kind: entdeckung
+  summary: Skandinavier aus Grönland halten sich nachweislich auf Neufundland auf und bearbeiten dort Holz – rund 470 Jahre vor Kolumbus. Die Fundstelle war wohl eine kurzlebige Zwischenstation für Fahrten weiter nach Süden.
+  regions: [nordamerika, atlantik]
+  themes: [migration, archaeologie]
+  places: [lanse-aux-meadows]
+  persons: [leif-eriksson]
+- id: st-brice-massaker
+  title: Massaker am St.-Brictius-Tag
+  date: "1002-11-13"
+  weight: 3
+  kind: ereignis
+  summary: König Æthelred II. befiehlt, alle „Dänen“ in England zu töten; in Oxford werden Dänen, die in eine Kirche geflüchtet sind, darin verbrannt. Das Ausmaß der Morde ist unklar.
+  regions: [britische-inseln]
+  themes: [gewalt-genozid]
+- id: daenische-eroberung-englands
+  title: Dänische Eroberung Englands
+  start: "1013"
+  end: "1016"
+  weight: 2
+  kind: krieg
+  summary: Sven Gabelbart vertreibt Ende 1013 König Æthelred II.; nach Svens Tod setzt sich sein Sohn Knut gegen Edmund Ironside durch und wird 1016 König von ganz England.
+  regions: [britische-inseln, nordeuropa]
+  themes: [krieg-militaer, politik]
+  persons: [sven-gabelbart, knut-der-grosse]
+  polities: [koenigreich-england, koenigreich-daenemark-mittelalter]
+- id: schlacht-von-stiklestad
+  title: Schlacht von Stiklestad
+  date: "1030-07-29"
+  weight: 3
+  kind: schlacht
+  summary: König Olav Haraldsson fällt im Kampf gegen ein Heer norwegischer Bauern und Großer, die mit Knut dem Großen verbündet sind; bald darauf wird er als Heiliger verehrt, was das Christentum und das Königtum in Norwegen festigt.
+  regions: [nordeuropa]
+  themes: [krieg-militaer, religion]
+  places: [stiklestad]
+  persons: [olav-haraldsson, harald-hardrada]
+  polities: [koenigreich-norwegen-mittelalter]
+- id: schlacht-von-stamford-bridge
+  title: Schlacht von Stamford Bridge
+  date: "1066-09-25"
+  weight: 2
+  kind: schlacht
+  summary: Der englische König Harold Godwinson überrascht das norwegische Heer bei York und vernichtet es; Harald Hardrada fällt. Die Schlacht gilt oft als Ende der Wikingerzeit.
+  regions: [britische-inseln, nordeuropa]
+  themes: [krieg-militaer]
+  places: [stamford-bridge, york]
+  persons: [harold-godwinson, harald-hardrada]
+  polities: [koenigreich-england, koenigreich-norwegen-mittelalter]
+- id: schlacht-bei-hastings
+  title: Schlacht bei Hastings
+  date: "1066-10-14"
+  weight: 1
+  kind: schlacht
+  summary: Herzog Wilhelm von der Normandie besiegt das Heer Harold Godwinsons, der in der Schlacht fällt; Wilhelm wird am Weihnachtstag 1066 in Westminster gekrönt. Die normannische Eroberung verbindet England dauerhaft mit dem Kontinent.
+  regions: [britische-inseln, frankreich]
+  themes: [krieg-militaer, politik]
+  places: [hastings]
+  persons: [wilhelm-der-eroberer, harold-godwinson]
+  polities: [koenigreich-england, herzogtum-normandie]

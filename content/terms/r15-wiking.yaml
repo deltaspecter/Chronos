@@ -1,0 +1,56 @@
+# Begriffe: Die Wikinger
+- id: wikinger
+  name: Wikinger
+  aliases: [víkingr, víking, Vikinger, Nordmänner, Normannen, Dänen]
+  definition: Altnordisch víkingr bezeichnete einen Mann, der auf Raub- oder Kriegsfahrt (víking) übers Meer ging, also eine Tätigkeit, kein Volk. Zeitgenössische Quellen sprachen meist von Nordmännern, Dänen, Heiden oder Rus. In der Forschung steht „Wikinger“ heute oft vereinfachend für die Skandinavier der Zeit um 790–1070, was umstritten ist, weil die meisten von ihnen Bauern, Handwerker und Händler waren.
+  themes: [geschichtsschreibung, gesellschaft]
+- id: waraeger
+  name: Waräger
+  aliases: [Væringjar, Varangoi, Warägergarde, Varangian Guard]
+  definition: In ostslawischen und byzantinischen Quellen Bezeichnung für Skandinavier, die als Krieger, Söldner oder Händler im Osten auftraten; seit etwa 988 auch für die aus der Rus rekrutierte Leibwache der byzantinischen Kaiser (Warägergarde), in der später auch Angelsachsen dienten.
+  themes: [krieg-militaer, migration]
+- id: rus
+  name: Rus
+  aliases: [Rhos, Rōs, ar-Rūs]
+  definition: In fränkischen, byzantinischen und arabischen Quellen des 9. und 10. Jahrhunderts Bezeichnung für Händler und Krieger überwiegend skandinavischer Herkunft im osteuropäischen Flussgebiet; später Name des von ihnen beherrschten Reiches und seiner slawischen Bevölkerung. Herkunft des Wortes und Anteil der Skandinavier an der Staatsbildung sind umstritten (Normannismus-Streit).
+  themes: [migration, politik, geschichtsschreibung]
+- id: danelaw
+  name: Danelaw
+  aliases: [Danelag, Dena lagu, Denalagu]
+  definition: Bezeichnung für die Gebiete Nord- und Ostenglands, in denen sich ab den 870er Jahren skandinavische Krieger ansiedelten und dänisches Recht galt; der Begriff selbst ist erst im 11. Jahrhundert belegt. Ortsnamen auf -by und -thorpe und Lehnwörter im Englischen zeugen bis heute davon.
+  themes: [migration, verfassung-recht]
+- id: thing
+  name: Thing
+  aliases: [Ding, Þing, Thingversammlung]
+  definition: Versammlung der freien Männer eines Bezirks in Skandinavien und den skandinavischen Siedlungsgebieten, auf der Recht gesprochen, Streit geschlichtet und über gemeinsame Angelegenheiten entschieden wurde.
+  themes: [verfassung-recht, gesellschaft]
+- id: althing
+  name: Althing
+  aliases: [Alþingi, Allthing]
+  definition: Jährliche Versammlung aller freien Isländer in Þingvellir, nach der Überlieferung 930 eingerichtet; dort trug der Gesetzessprecher das Recht vor, Gerichte entschieden Streitfälle. Das heutige isländische Parlament führt den Namen fort.
+  themes: [verfassung-recht, politik]
+- id: runen
+  name: Runen
+  aliases: [Runenschrift, Futhark, Futhorc, Runenstein]
+  definition: Germanische Schriftzeichen, seit etwa dem 2. Jahrhundert belegt; in der Wikingerzeit war das „jüngere Futhark“ mit 16 Zeichen gebräuchlich. Die meisten der Tausenden erhaltenen Runensteine – vor allem in Schweden – entstanden im späten 10. und 11. Jahrhundert und erinnern an Verstorbene.
+  themes: [schrift-medien]
+- id: saga
+  name: Saga
+  aliases: [Sagas, Isländersagas, Íslendingasögur, Königssagas]
+  definition: Prosaerzählung der altnordischen, vor allem isländischen Literatur des 12. bis 14. Jahrhunderts über Könige, Familien, Heilige oder Sagenhelden; die Isländersagas spielen in der Wikingerzeit, wurden aber erst zwei bis drei Jahrhunderte später niedergeschrieben und sind als Geschichtsquellen nur mit Vorsicht zu nutzen.
+  themes: [schrift-medien, geschichtsschreibung, kultur-kunst]
+- id: danegeld
+  name: Danegeld
+  aliases: [Dänengeld, gafol, Tribut]
+  definition: Zahlungen in Silber, mit denen fränkische und englische Herrscher den Abzug skandinavischer Heere erkauften; in England stiegen sie um 1000 auf Zehntausende Pfund. Der Begriff „Danegeld“ bezeichnete später auch eine englische Grundsteuer.
+  themes: [wirtschaft-handel, krieg-militaer]
+- id: langschiff
+  name: Langschiff
+  aliases: [Wikingerschiff, Drachenschiff, Klinkerboot]
+  definition: Schmales, in Klinkerbauweise gebautes Ruder- und Segelschiff Skandinaviens mit geringem Tiefgang, das Fahrten über offenes Meer und weit flussaufwärts erlaubte; erhaltene Beispiele stammen aus Gräbern wie Oseberg und Gokstad sowie aus Sperren wie in Skuldelev.
+  themes: [wissenschaft-technik, krieg-militaer]
+- id: dirham
+  name: Dirham
+  aliases: [Dirhem, Silberdirham]
+  definition: Silbermünze des islamischen Kalifats; Hunderttausende davon gelangten im 9. und 10. Jahrhundert über die Flusswege Osteuropas in den Ostseeraum, wo sie in Horten vergraben und oft als Hacksilber nach Gewicht verwendet wurden.
+  themes: [wirtschaft-handel, handelsnetze]

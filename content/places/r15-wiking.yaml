@@ -1,0 +1,164 @@
+# Orte: Die Wikinger
+- id: lindisfarne
+  name: Lindisfarne
+  aliases: [Holy Island, Heilige Insel]
+  coords: [-1.8010, 55.6690]
+  categories: [heiligtum, fundstaette]
+  modernName: Holy Island, Northumberland (England)
+  summary: Gezeiteninsel vor der Küste Northumbriens mit einem im 7. Jahrhundert gegründeten Kloster, berühmt für die Lindisfarne-Evangelien; der Überfall von 793 gilt als Beginn der Wikingerzeit.
+  regions: [britische-inseln]
+  themes: [religion, gewalt-genozid]
+- id: haithabu
+  name: Haithabu
+  aliases: [Hedeby, Haddeby, Sliesthorp]
+  coords: [9.5660, 54.4910]
+  categories: [stadt, hafen, fundstaette]
+  modernName: bei Schleswig (Schleswig-Holstein)
+  summary: Bedeutender Handelsplatz an der Schlei im Süden des dänischen Reiches, vom 9. bis ins 11. Jahrhundert ein Knotenpunkt zwischen Nordsee- und Ostseehandel; seit 2018 mit dem Danewerk UNESCO-Welterbe.
+  regions: [deutschland, nordeuropa]
+  themes: [handelsnetze, archaeologie]
+- id: birka
+  name: Birka
+  aliases: [Björkö]
+  coords: [17.5430, 59.3350]
+  categories: [stadt, hafen, fundstaette]
+  modernName: Björkö im Mälarsee (Schweden)
+  summary: Handelsplatz auf einer Insel im Mälarsee, etwa vom späten 8. bis ins späte 10. Jahrhundert besiedelt; in seinen Gräbern fanden sich Seide, Münzen und Waren aus dem Kalifat und aus Byzanz. Ansgar predigte hier um 830.
+  regions: [nordeuropa]
+  themes: [handelsnetze, archaeologie, religion]
+- id: kaupang
+  name: Kaupang
+  aliases: [Skiringssal]
+  coords: [10.1000, 59.0300]
+  location: ungefaehr
+  categories: [hafen, fundstaette]
+  modernName: bei Larvik (Norwegen)
+  summary: Frühstädtischer Handelsplatz im Süden Norwegens, etwa um 800 bis Mitte des 10. Jahrhunderts genutzt; wohl identisch mit dem Skiringssal, das der Seefahrer Ottar im 9. Jahrhundert König Alfred beschrieb.
+  regions: [nordeuropa]
+  themes: [handelsnetze, archaeologie]
+- id: york
+  name: York
+  aliases: [Jórvík, Eoforwic, Eboracum]
+  coords: [-1.0815, 53.9600]
+  categories: [stadt, hauptstadt]
+  modernName: York (England)
+  summary: Römisches Eboracum und angelsächsisches Eoforwic, 866 vom skandinavischen Großen Heer erobert; als Jórvík bis 954 Sitz skandinavischer Könige und ein Zentrum von Handwerk und Handel.
+  regions: [britische-inseln]
+  themes: [politik, handelsnetze, archaeologie]
+- id: dublin
+  name: Dublin
+  aliases: [Dyflin, Duibhlinn, Baile Átha Cliath]
+  coords: [-6.2603, 53.3498]
+  categories: [stadt, hafen, hauptstadt]
+  modernName: Dublin (Irland)
+  summary: 841 als befestigtes Schiffslager skandinavischer Krieger angelegt und zu einem der wichtigsten Handelsplätze – auch für Sklaven – im Raum der Irischen See entwickelt; heute Hauptstadt Irlands.
+  regions: [britische-inseln]
+  themes: [handelsnetze, sklaverei-unfreiheit]
+- id: thingvellir
+  name: Þingvellir
+  aliases: [Thingvellir, Thingvellir-Nationalpark]
+  coords: [-21.1300, 64.2560]
+  categories: [kulturzentrum, fundstaette]
+  modernName: Þingvellir (Island)
+  summary: Ebene im Südwesten Islands, auf der seit etwa 930 jährlich das Althing tagte; heute Nationalpark und UNESCO-Welterbe.
+  regions: [nordeuropa]
+  themes: [verfassung-recht, politik]
+- id: brattahlid
+  name: Brattahlíð
+  aliases: [Brattahlid, Qassiarsuk]
+  coords: [-45.5200, 61.1500]
+  categories: [fundstaette]
+  modernName: Qassiarsuk (Grönland)
+  summary: Nach den Sagas der Hof Eriks des Roten in der Ostsiedlung Grönlands; Ausgrabungen zeigen Wohnhäuser, Ställe und eine kleine Kirche.
+  regions: [nordamerika, atlantik]
+  themes: [migration, archaeologie]
+- id: lanse-aux-meadows
+  name: L'Anse aux Meadows
+  coords: [-55.5340, 51.5950]
+  categories: [fundstaette]
+  modernName: Neufundland (Kanada)
+  summary: Fundstelle an der Nordspitze Neufundlands mit Resten von acht Gebäuden nordischer Bauart; der einzige sicher nachgewiesene Aufenthaltsort von Skandinaviern in Nordamerika aus der Zeit um 1000, seit 1978 UNESCO-Welterbe.
+  regions: [nordamerika]
+  themes: [archaeologie, migration]
+- id: nowgorod
+  name: Nowgorod
+  aliases: [Welikij Nowgorod, Holmgarðr, Novgorod]
+  coords: [31.2750, 58.5220]
+  categories: [stadt]
+  modernName: Weliki Nowgorod (Russland)
+  summary: Stadt am Wolchow nahe dem Ilmensee, nach der Nestorchronik Sitz des Warägers Rurik; im Mittelalter ein großes Handelszentrum mit reichen Funden an Birkenrindenurkunden.
+  regions: [russland]
+  themes: [handelsnetze, politik]
+- id: staraja-ladoga
+  name: Staraja Ladoga
+  aliases: [Aldeigjuborg, Ladoga]
+  coords: [32.2970, 59.9970]
+  categories: [stadt, fundstaette, hafen]
+  modernName: Staraja Ladoga (Russland)
+  summary: Handelsplatz am Wolchow nahe dem Ladogasee, um die Mitte des 8. Jahrhunderts entstanden; Funde skandinavischer Gegenstände und früher Dirham-Horte machen ihn zu einem Schlüsselort der Kontakte zwischen Ostsee und Orient.
+  regions: [russland]
+  themes: [handelsnetze, archaeologie]
+- id: bolghar
+  name: Bolghar
+  aliases: [Bulgar, Bolgar]
+  coords: [49.0530, 54.9810]
+  categories: [stadt, fundstaette]
+  modernName: Bolgar (Tatarstan, Russland)
+  summary: Hauptort der Wolgabulgaren an der mittleren Wolga, Handelsplatz für Pelze, Sklaven und Silber zwischen dem Norden und dem Kalifat; heute UNESCO-Welterbe.
+  regions: [russland]
+  themes: [handelsnetze, religion]
+- id: jelling
+  name: Jelling
+  coords: [9.4190, 55.7560]
+  categories: [heiligtum, fundstaette]
+  modernName: Jelling (Jütland, Dänemark)
+  summary: Königssitz des 10. Jahrhunderts mit zwei großen Grabhügeln, einer Kirche und den Runensteinen Gorms des Alten und Harald Blauzahns; UNESCO-Welterbe.
+  regions: [nordeuropa]
+  themes: [politik, religion, schrift-medien]
+- id: stiklestad
+  name: Stiklestad
+  coords: [11.5620, 63.7960]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: bei Verdal (Trøndelag, Norwegen)
+  summary: Ort der Schlacht vom 29. Juli 1030, in der König Olav Haraldsson fiel; bald darauf Ziel der Verehrung des Heiligen.
+  regions: [nordeuropa]
+  themes: [krieg-militaer, religion]
+- id: stamford-bridge
+  name: Stamford Bridge
+  coords: [-0.9120, 53.9920]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Stamford Bridge, East Riding of Yorkshire (England)
+  summary: Dorf am Derwent östlich von York, bei dem Harold Godwinson am 25. September 1066 das norwegische Heer Harald Hardradas vernichtete.
+  regions: [britische-inseln]
+  themes: [krieg-militaer]
+- id: hastings
+  name: Schlachtfeld von Hastings
+  aliases: [Battle, Senlac, Hastings]
+  coords: [0.4880, 50.9120]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Battle, East Sussex (England)
+  summary: Hügel etwa zehn Kilometer nordwestlich von Hastings, auf dem am 14. Oktober 1066 Wilhelm von der Normandie Harold Godwinson besiegte; Wilhelm stiftete dort Battle Abbey.
+  regions: [britische-inseln]
+  themes: [krieg-militaer]
+- id: rouen
+  name: Rouen
+  aliases: [Rotomagus]
+  coords: [1.0993, 49.4431]
+  categories: [stadt, hauptstadt]
+  modernName: Rouen (Frankreich)
+  summary: Bischofsstadt an der unteren Seine, Mittelpunkt des um 911 Rollo überlassenen Gebiets und Hauptort der Herzöge der Normandie.
+  regions: [frankreich]
+  themes: [politik]
+- id: edington
+  name: Edington
+  aliases: [Ethandun, Ethandune]
+  coords: [-2.1050, 51.2770]
+  location: umstritten
+  categories: [schlachtfeld]
+  modernName: Edington, Wiltshire (England)
+  summary: Dorf in Wiltshire, das meist mit dem Ethandun der Angelsächsischen Chronik gleichgesetzt wird, wo Alfred der Große 878 das Heer Guthrums besiegte.
+  regions: [britische-inseln]
+  themes: [krieg-militaer]

@@ -1,0 +1,235 @@
+# Personen: Die Wikinger
+- id: alfred-der-grosse
+  name: Alfred der Große
+  aliases: [Alfred, Ælfred, Alfred von Wessex]
+  born: "~849"
+  died: "899-10-26"
+  roles: [König von Wessex]
+  summary: Seit 871 König von Wessex, der 878 nach schweren Niederlagen das skandinavische Heer unter Guthrum bei Edington besiegte, sein Reich mit befestigten Plätzen (burhs) sicherte und Übersetzungen ins Altenglische förderte; unter ihm entstand die Angelsächsische Chronik.
+  regions: [britische-inseln]
+  themes: [politik, krieg-militaer, schrift-medien]
+  places: [edington]
+  related: [guthrum]
+- id: guthrum
+  name: Guthrum
+  aliases: [Godrum, Æthelstan (Taufname)]
+  died: "890"
+  roles: [Heerführer, König von East Anglia]
+  summary: Anführer eines Teils des skandinavischen „Großen Heeres“, der 878 bei Edington Alfred dem Großen unterlag, sich taufen ließ und danach bis zu seinem Tod als christlicher König über East Anglia herrschte.
+  regions: [britische-inseln, nordeuropa]
+  themes: [politik, krieg-militaer]
+  places: [edington]
+  related: [alfred-der-grosse]
+- id: harald-blauzahn
+  name: Harald Blauzahn
+  aliases: [Harald Gormsson, Haraldr blátǫnn]
+  died: "~986"
+  roles: [König von Dänemark]
+  summary: Dänischer König, Sohn Gorms des Alten, der sich um 965 taufen ließ; auf dem großen Runenstein von Jelling rühmt er sich, ganz Dänemark und Norwegen gewonnen und die Dänen zu Christen gemacht zu haben. Wahrscheinlich ließ er auch die Ringburgen vom Typ Trelleborg errichten.
+  regions: [nordeuropa]
+  themes: [politik, religion]
+  places: [jelling]
+- id: sven-gabelbart
+  name: Sven Gabelbart
+  aliases: [Sven Tveskæg, Sweyn Forkbeard, Svend Tveskæg]
+  born: "~960"
+  died: "1014-02-03"
+  roles: [König von Dänemark, König von England]
+  summary: Sohn Harald Blauzahns und König von Dänemark, der in den 990er und 1000er Jahren wiederholt England angriff, hohe Tributzahlungen erzwang und Ende 1013 König Æthelred II. vertrieb; er starb wenige Wochen später.
+  regions: [nordeuropa, britische-inseln]
+  themes: [politik, krieg-militaer]
+  related: [harald-blauzahn, knut-der-grosse]
+- id: knut-der-grosse
+  name: Knut der Große
+  aliases: [Knud den Store, Cnut, Canute]
+  born: "~995"
+  died: "1035-11-12"
+  roles: [König von England, König von Dänemark, König von Norwegen]
+  summary: Sohn Svens Gabelbart, seit 1016 König von England, seit 1018/19 auch von Dänemark und ab 1028 von Norwegen; sein Nordseereich zerfiel nach seinem Tod. Als christlicher König zog er 1027 zur Kaiserkrönung Konrads II. nach Rom.
+  regions: [britische-inseln, nordeuropa]
+  themes: [politik, imperien]
+  related: [sven-gabelbart, olav-haraldsson]
+- id: olaf-tryggvason
+  name: Olaf Tryggvason
+  aliases: [Óláfr Tryggvason, Olav Tryggvason]
+  died: "~1000"
+  roles: [König von Norwegen]
+  summary: Wikingerführer, der nach Raubzügen in England um 995 König von Norwegen wurde und das Christentum gewaltsam durchzusetzen suchte; nach den Sagas drängte er auch Island zur Annahme des Christentums. Er fiel um 1000 in der Seeschlacht von Svolder.
+  regions: [nordeuropa, britische-inseln]
+  themes: [politik, religion]
+- id: olav-haraldsson
+  name: Olav Haraldsson
+  aliases: [Olav der Heilige, Óláfr helgi, Sankt Olav]
+  born: "~995"
+  died: "1030-07-29"
+  roles: [König von Norwegen, Heiliger]
+  summary: Ehemaliger Wikinger, der 1015 König von Norwegen wurde, die Kirche organisierte und 1028 vor Knut dem Großen weichen musste; bei seinem Rückkehrversuch fiel er 1030 bei Stiklestad und wurde rasch als Heiliger und Schutzpatron Norwegens verehrt.
+  regions: [nordeuropa]
+  themes: [politik, religion]
+  places: [stiklestad]
+  related: [knut-der-grosse, harald-hardrada]
+- id: harald-hardrada
+  name: Harald Hardrada
+  aliases: [Harald Sigurdsson, Harald der Harte, Haraldr harðráði]
+  born: "~1015"
+  died: "1066-09-25"
+  roles: [König von Norwegen, Söldnerführer]
+  summary: Halbbruder Olavs des Heiligen, der nach Stiklestad in die Rus und nach Konstantinopel ging und in der Warägergarde des byzantinischen Kaisers diente; seit 1046 König von Norwegen. Er fiel 1066 beim Versuch, England zu erobern, bei Stamford Bridge.
+  regions: [nordeuropa, osteuropa, suedosteuropa, britische-inseln]
+  themes: [politik, krieg-militaer]
+  places: [stamford-bridge, istanbul]
+  related: [olav-haraldsson, harold-godwinson]
+- id: rollo
+  name: Rollo
+  aliases: [Rollon, Hrólfr, Rolf]
+  died: "~930"
+  roles: [Heerführer, Graf von Rouen]
+  summary: Skandinavischer Anführer, dem der westfränkische König Karl der Einfältige um 911 Land an der unteren Seine um Rouen überließ; Ahnherr der Herzöge der Normandie. Seine Herkunft – Norwegen oder Dänemark – ist umstritten.
+  regions: [frankreich, nordeuropa]
+  themes: [politik, migration]
+  places: [rouen]
+  related: [karl-der-einfaeltige, wilhelm-der-eroberer]
+- id: karl-der-einfaeltige
+  name: Karl der Einfältige
+  aliases: [Karl III. (Westfrankenreich), Charles le Simple]
+  born: "879-09-17"
+  died: "929-10-07"
+  roles: [König des Westfrankenreichs]
+  summary: Karolingischer König des Westfrankenreichs (898–922), der um 911 den Normannen unter Rollo das Gebiet um Rouen überließ, um weitere Angriffe über die Seine abzuwehren; 923 von Gegnern gefangen gesetzt.
+  regions: [frankreich]
+  themes: [politik]
+  related: [rollo]
+- id: erik-der-rote
+  name: Erik der Rote
+  aliases: [Eiríkr rauði, Erik Thorvaldsson]
+  born: "~950"
+  roles: [Siedler, Begründer der Grönland-Kolonie]
+  summary: Nach den isländischen Sagas aus Norwegen stammender und aus Island verbannter Siedler, der um 982 Grönland erkundete und um 985 mit Siedlern zurückkehrte; er ließ sich in Brattahlíð nieder. Seine Lebensdaten beruhen allein auf späten Sagas.
+  regions: [nordeuropa, nordamerika, atlantik]
+  themes: [migration]
+  places: [brattahlid]
+  related: [leif-eriksson]
+  certainty: wahrscheinlich
+- id: leif-eriksson
+  name: Leif Eriksson
+  aliases: [Leifr Eiríksson, Leif der Glückliche]
+  born: "~970"
+  died: "~1020"
+  roles: [Seefahrer]
+  summary: Sohn Eriks des Roten, der nach der Grænlendinga saga um 1000 von Grönland aus Küsten im Westen erkundete und sie Helluland, Markland und Vinland nannte; einzelne Angaben der Sagas sind umstritten.
+  regions: [nordamerika, atlantik, nordeuropa]
+  themes: [migration]
+  places: [brattahlid, lanse-aux-meadows]
+  related: [erik-der-rote]
+  certainty: wahrscheinlich
+- id: ibn-fadlan
+  name: Ahmad ibn Fadlan
+  aliases: [Ibn Fadlan, Ahmad ibn Fadlān]
+  roles: [Gesandter, Reiseschriftsteller]
+  summary: Gelehrter am Hof des abbasidischen Kalifen al-Muqtadir, der 921–922 mit einer Gesandtschaft zum Herrscher der Wolgabulgaren reiste; sein Bericht beschreibt unter anderem Händler der „Rus“ und eine Schiffsbestattung an der Wolga.
+  regions: [mesopotamien, osteuropa, russland]
+  themes: [religion, handelsnetze, schrift-medien]
+  places: [bagdad, bolghar]
+- id: rurik
+  name: Rurik
+  aliases: [Rjurik, Hrœrekr]
+  died: "~879"
+  roles: [Fürst von Nowgorod]
+  summary: Nach der erst im frühen 12. Jahrhundert verfassten Nestorchronik ein Waräger, der 862 nach Nowgorod gerufen wurde und die Dynastie der Rurikiden begründete; seine Historizität ist umstritten.
+  regions: [russland, osteuropa, nordeuropa]
+  themes: [politik]
+  places: [nowgorod, staraja-ladoga]
+  certainty: umstritten
+- id: olga-von-kiew
+  name: Olga von Kiew
+  aliases: [Helga, Olga die Heilige, Jelena (Taufname)]
+  died: "969"
+  roles: [Fürstin von Kiew, Regentin, Heilige]
+  summary: Witwe des Fürsten Igor, die für ihren Sohn Swjatoslaw die Kiewer Rus regierte und sich um die Mitte der 950er Jahre in Konstantinopel taufen ließ; der byzantinische Kaiser Konstantin VII. beschrieb ihren Empfang am Hof.
+  regions: [osteuropa, russland, suedosteuropa]
+  themes: [politik, religion]
+  places: [kiew, istanbul]
+  related: [wladimir-i]
+- id: wladimir-i
+  name: Wladimir I. von Kiew
+  aliases: [Wladimir der Heilige, Volodymyr, Valdamarr]
+  born: "~958"
+  died: "1015-07-15"
+  roles: [Großfürst von Kiew, Heiliger]
+  summary: Enkel Olgas und seit etwa 978 Fürst von Kiew, der um 988 das Christentum aus Byzanz annahm und die Schwester Kaiser Basileios’ II. heiratete; zuvor hatte er dem Kaiser ein Kontingent von Warägern geschickt.
+  regions: [osteuropa, russland]
+  themes: [politik, religion]
+  places: [kiew]
+  related: [olga-von-kiew, basileios-ii]
+- id: basileios-ii
+  name: Basileios II.
+  aliases: [Basileios Bulgaroktonos, Basil II]
+  born: "958"
+  died: "1025-12-15"
+  roles: [Byzantinischer Kaiser]
+  summary: Byzantinischer Kaiser (976–1025), der mit Hilfe eines Warägerkontingents aus der Rus Aufstände niederschlug und so die Warägergarde begründete; er unterwarf das Bulgarenreich.
+  regions: [suedosteuropa, anatolien]
+  themes: [politik, krieg-militaer, imperien]
+  places: [istanbul]
+  related: [wladimir-i]
+- id: harold-godwinson
+  name: Harold Godwinson
+  aliases: [Harold II., Harald II. von England]
+  born: "~1022"
+  died: "1066-10-14"
+  roles: [König von England]
+  summary: Mächtigster Adliger Englands unter Eduard dem Bekenner und ab Januar 1066 König; er besiegte im September Harald Hardrada bei Stamford Bridge und fiel drei Wochen später bei Hastings gegen Wilhelm von der Normandie.
+  regions: [britische-inseln]
+  themes: [politik, krieg-militaer]
+  places: [stamford-bridge, hastings]
+  related: [harald-hardrada, wilhelm-der-eroberer]
+- id: wilhelm-der-eroberer
+  name: Wilhelm der Eroberer
+  aliases: [Wilhelm I. von England, William the Conqueror, Wilhelm der Bastard]
+  born: "~1028"
+  died: "1087-09-09"
+  roles: [Herzog der Normandie, König von England]
+  summary: Herzog der Normandie und Nachfahre Rollos, der 1066 in England landete, Harold Godwinson bei Hastings besiegte und am Weihnachtstag 1066 zum König gekrönt wurde; mit ihm begann die normannische Herrschaft über England.
+  regions: [frankreich, britische-inseln]
+  themes: [politik, krieg-militaer]
+  places: [rouen, hastings]
+  related: [rollo, harold-godwinson]
+- id: ari-thorgilsson
+  name: Ari Þorgilsson
+  aliases: [Ari Thorgilsson, Ari der Weise, Ari fróði]
+  born: "1067"
+  died: "1148"
+  roles: [Priester, Geschichtsschreiber]
+  summary: Isländischer Priester und Verfasser der Íslendingabók (um 1122–1133), der ältesten erzählenden Geschichte Islands; er beruft sich ausdrücklich auf ältere Gewährsleute.
+  regions: [nordeuropa]
+  themes: [geschichtsschreibung, schrift-medien]
+  places: [thingvellir]
+- id: snorri-sturluson
+  name: Snorri Sturluson
+  aliases: [Snorri]
+  born: "1179"
+  died: "1241-09-23"
+  roles: [Dichter, Geschichtsschreiber, Politiker]
+  summary: Isländischer Gelehrter und Politiker, dem die Prosa-Edda und die Heimskringla, eine Geschichte der norwegischen Könige, zugeschrieben werden; seine Werke prägen das Bild der Wikingerzeit, entstanden aber rund zwei Jahrhunderte nach ihrem Ende.
+  regions: [nordeuropa]
+  themes: [geschichtsschreibung, kultur-kunst, religion]
+- id: helge-ingstad
+  name: Helge Ingstad
+  born: "1899"
+  died: "2001"
+  roles: [Entdecker, Schriftsteller]
+  summary: Norwegischer Abenteurer und Autor, der 1960 die Fundstelle L'Anse aux Meadows auf Neufundland ausfindig machte, nachdem er die Vinland-Sagas mit Küstenlandschaften verglichen hatte.
+  regions: [nordeuropa, nordamerika]
+  themes: [archaeologie]
+  places: [lanse-aux-meadows]
+  related: [anne-stine-ingstad]
+- id: anne-stine-ingstad
+  name: Anne Stine Ingstad
+  born: "1918"
+  died: "1997"
+  roles: [Archäologin]
+  summary: Norwegische Archäologin, die von 1961 bis 1968 die Ausgrabungen in L'Anse aux Meadows leitete und den Nachweis einer nordischen Siedlung in Nordamerika erbrachte.
+  regions: [nordeuropa, nordamerika]
+  themes: [archaeologie]
+  places: [lanse-aux-meadows]
+  related: [helge-ingstad]
