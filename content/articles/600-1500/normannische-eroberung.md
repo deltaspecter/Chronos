@@ -18,6 +18,7 @@ polities: [koenigreich-england, herzogtum-normandie, anglo-normannisches-reich, 
 terms: [earl, thegn, witan, huscarl, motte-and-bailey, domesday-book, lehnswesen, norman-yoke, anglonormannisch, gregorianische-reform]
 related: [wikinger, investiturstreit, kreuzzuege, karl-der-grosse]
 bibliography: [q-angelsaechsische-chronik, swanton-1996, q-teppich-von-bayeux, q-gesta-guillelmi, davis-chibnall-1998, q-gesta-normannorum-ducum, van-houts-1992, q-orderic-historia-ecclesiastica, chibnall-1969, q-domesday-book, williams-martin-2003, stenton-1971, barlow-1970, douglas-1964, bates-2016, lawson-2002, wilson-1985, hicks-2006, kapelle-1979, williams-1995, fleming-1991, garnett-2007, liddiard-2005, roffe-2000, clanchy-1979, bartlett-2000, thomas-2003, campbell-2000, freeman-1867, round-1895, hill-1958, chibnall-1999, morris-2012]
+image: bayeux-harolds-tod
 status: erstfassung
 version: 1
 updated: 2026-10-14

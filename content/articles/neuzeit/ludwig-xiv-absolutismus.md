@@ -18,6 +18,7 @@ polities: [koenigreich-frankreich, spanische-monarchie, republik-der-vereinigten
 terms: [absolutismus, gottesgnadentum, intendant, parlement, merkantilismus, hofgesellschaft, stehendes-heer, hugenotten, dragonaden, gallikanismus, ancien-regime, generalstaende, souveraenitaet, aufgeklaerter-absolutismus, sklaverei-als-eigentum]
 related: [dreissigjaehriger-krieg, aufklaerung, franzoesische-revolution, transatlantischer-sklavenhandel, reformation, haitianische-revolution]
 bibliography: [q-ludwig-xiv-memoires, q-bossuet-politique, q-saint-simon-memoires, q-liselotte-briefe, q-edikt-fontainebleau, q-potsdamer-edikt, q-code-noir, q-fenelon-lettre, q-vauban-dime, goubert-1966, bluche-1986, elias-1969, duindam-1995, burke-1992, henshall-1992, beik-1985, beik-2005, duchhardt-1989, asch-duchhardt-1996, mettam-1988, dessert-1984, lynn-1999, lachiver-1991, sala-molins-1987, niggemann-2011, parker-2013, wilson-2009]
+image: ludwig-xiv-rigaud
 status: erstfassung
 version: 1
 updated: 2026-10-14

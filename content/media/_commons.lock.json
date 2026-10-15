@@ -799,5 +799,39 @@
     "author": "Shen Du zugeschrieben (möglicherweise spätere Kopie)",
     "license": "Public domain",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tribute_Giraffe_with_Attendant.jpg"
+  },
+  "bayeux-harolds-tod": {
+    "file": "bayeux-harolds-tod.jpg",
+    "width": 1200,
+    "height": 1045,
+    "author": "Myrabella",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_scene57_Harold_death.jpg"
+  },
+  "mezquita-cordoba": {
+    "file": "mezquita-cordoba.jpg",
+    "width": 1200,
+    "height": 801,
+    "author": "Benjamin Smith",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:C%C3%B3rdoba_-_Mezquita-Catedral_-_Interior_-_10.jpg"
+  },
+  "ludwig-xiv-rigaud": {
+    "file": "ludwig-xiv-rigaud.jpg",
+    "width": 842,
+    "height": 1200,
+    "author": "Hyacinthe Rigaud",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hyacinthe_Rigaud_-_Louis_XIV,_roi_de_France_(1638-1715).jpg"
+  },
+  "solowezki-stein": {
+    "file": "solowezki-stein.jpg",
+    "width": 1200,
+    "height": 798,
+    "author": "Alexei Kouprianov",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Loubianka_square_memorial.jpg"
   }
 }

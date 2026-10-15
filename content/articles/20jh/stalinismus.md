@@ -18,6 +18,7 @@ polities: [sowjetunion, ukrainische-ssr, kasachische-ssr]
 terms: [stalinismus, fuenfjahrplan, kulak, entkulakisierung, kolchos, gulag, nkwd, schauprozess, sondersiedler, personenkult, sozialistischer-realismus, totalitarismus, entstalinisierung, neue-oekonomische-politik, voelkermord, zwangsarbeit]
 related: [russische-revolution, zweiter-weltkrieg, kalter-krieg, zerfall-der-sowjetunion, holocaust, weltwirtschaftskrise]
 bibliography: [khlevniuk-2015, kotkin-2017, kotkin-1995, hildermeier-1998, baberowski-2012, fitzpatrick-1999, conquest-1968, conquest-1986, applebaum-2003, applebaum-2017, davies-wheatcroft-2004, cameron-2018, khlevniuk-2004, courtois-1998, schloegel-2008, getty-1985, friedrich-brzezinski-1956, hellbeck-2006, snyder-2010, q-stalin-1931, q-stalin-1930, q-befehl-00447, q-chruschtschow-1956, q-solschenizyn-1973, q-hitler-stalin-pakt]
+image: solowezki-stein
 status: erstfassung
 version: 1
 updated: 2026-10-14

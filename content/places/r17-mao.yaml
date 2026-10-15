@@ -1,0 +1,73 @@
+# Orte: Maos China (1949–1976)
+- id: tiananmen-platz
+  name: Platz des Himmlischen Friedens
+  aliases: [Tian'anmen-Platz, Tiananmen]
+  coords: [116.3975, 39.9033]
+  categories: [hauptstadt, kulturzentrum]
+  modernName: Tian'anmen-Platz, Peking
+  summary: Platz vor dem Tor des Himmlischen Friedens in Peking, von dessen Tribüne Mao 1949 die Volksrepublik ausrief und 1966 Millionen Rotgardisten empfing; Schauplatz der Trauerkundgebungen für Zhou Enlai im April 1976.
+  regions: [china]
+  themes: [politik]
+- id: lushan
+  name: Lushan
+  aliases: [Lu-Berg, Guling]
+  coords: [115.98, 29.56]
+  location: ungefaehr
+  categories: [region]
+  modernName: Lushan bei Jiujiang, Provinz Jiangxi
+  summary: Bergregion mit dem Kurort Guling in der Provinz Jiangxi, in der im Sommer 1959 die Parteikonferenz tagte, auf der Mao den Kritiker des Großen Sprungs Peng Dehuai stürzte.
+  regions: [china]
+  themes: [politik]
+- id: xinyang
+  name: Xinyang
+  coords: [114.09, 32.13]
+  categories: [stadt]
+  modernName: Xinyang, Provinz Henan
+  summary: Bezirk im Süden der Provinz Henan, der 1959–1960 zu den am schwersten von der Hungersnot des Großen Sprungs betroffenen Gebieten gehörte; der „Xinyang-Zwischenfall“ wurde schon damals parteiintern untersucht.
+  regions: [china]
+  themes: [landwirtschaft, gewalt-genozid]
+- id: wuhan
+  name: Wuhan
+  coords: [114.30, 30.59]
+  categories: [stadt]
+  modernName: Wuhan, Provinz Hubei
+  summary: Industriestadt am Jangtse, in der im Juli 1967 eine Massenorganisation mit Unterstützung örtlicher Militärs Abgesandte der Pekinger Führung festsetzte („Wuhan-Zwischenfall“) – Höhepunkt der Fraktionskämpfe der Kulturrevolution.
+  regions: [china]
+  themes: [politik]
+- id: dazhai
+  name: Dazhai
+  coords: [113.7, 37.6]
+  location: ungefaehr
+  categories: [region]
+  modernName: Dazhai, Kreis Xiyang, Provinz Shanxi
+  summary: Dorf in der Provinz Shanxi, das Mao ab 1964 als Vorbild für die Landwirtschaft propagieren ließ („In der Landwirtschaft von Dazhai lernen“); seine Erfolge waren zum Teil inszeniert.
+  regions: [china]
+  themes: [landwirtschaft]
+- id: zhenbao-insel
+  name: Zhenbao-Insel
+  aliases: [Damanski-Insel]
+  coords: [133.85, 46.49]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Zhenbao Dao im Ussuri, Provinz Heilongjiang
+  summary: Kleine Flussinsel im Grenzfluss Ussuri, um die im März 1969 chinesische und sowjetische Truppen kämpften – der gefährlichste Moment des chinesisch-sowjetischen Konflikts.
+  regions: [china, russland]
+  themes: [krieg-militaer]
+- id: oendoerkhaan
+  name: Öndörchaan
+  aliases: [Öndörkhaan, Undurkhan]
+  coords: [110.66, 47.32]
+  location: ungefaehr
+  categories: [stadt]
+  modernName: Chentii-Aimag, Mongolei
+  summary: Stadt in der Mongolei, in deren Umgebung am 13. September 1971 das Flugzeug mit Lin Biao und seiner Familie abstürzte; die genaue Absturzstelle liegt einige Dutzend Kilometer entfernt.
+  regions: [ostasien]
+  themes: [politik]
+- id: tangshan
+  name: Tangshan
+  coords: [118.18, 39.63]
+  categories: [stadt]
+  modernName: Tangshan, Provinz Hebei
+  summary: Industriestadt östlich von Peking, die das Erdbeben vom 28. Juli 1976 nahezu völlig zerstörte; offiziell starben rund 240.000 Menschen, andere Schätzungen liegen höher.
+  regions: [china]
+  themes: [umwelt-klima]

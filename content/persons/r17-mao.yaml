@@ -1,0 +1,119 @@
+# Personen: Maos China (1949–1976)
+- id: liu-shaoqi
+  name: Liu Shaoqi
+  born: "1898-11-24"
+  died: "1969-11-12"
+  roles: [Staatspräsident der Volksrepublik China, stellvertretender Parteivorsitzender]
+  summary: Führender Parteiorganisator und ab 1959 Staatspräsident, der nach dem Großen Sprung mit Deng Xiaoping eine pragmatische Erholungspolitik betrieb; in der Kulturrevolution als „Chinas Chruschtschow“ verfemt, 1968 aus der Partei ausgeschlossen, starb er 1969 in Haft in Kaifeng; 1980 rehabilitiert.
+  regions: [china]
+  themes: [politik]
+  places: [peking, kaifeng]
+- id: deng-xiaoping
+  name: Deng Xiaoping
+  aliases: [Teng Hsiao-p'ing]
+  born: "1904-08-22"
+  died: "1997-02-19"
+  roles: [Generalsekretär der KP Chinas, stellvertretender Ministerpräsident]
+  summary: Als Generalsekretär 1956–1966 an der Anti-Rechts-Kampagne und der Wirtschaftserholung nach dem Großen Sprung beteiligt; in der Kulturrevolution zweimal gestürzt (1966/67 und 1976), setzte er sich nach Maos Tod als führender Politiker durch und leitete ab 1978 die Reform- und Öffnungspolitik ein.
+  regions: [china]
+  themes: [politik, wirtschaft-handel]
+  places: [peking]
+- id: lin-biao
+  name: Lin Biao
+  born: "1907-12-05"
+  died: "1971-09-13"
+  roles: [Marschall, Verteidigungsminister]
+  summary: Erfolgreicher Feldherr des Bürgerkriegs, der 1959 Peng Dehuai als Verteidigungsminister ablöste, den Mao-Kult in der Armee förderte und 1969 als Maos Nachfolger in das Parteistatut geschrieben wurde; starb 1971 beim Absturz seines Flugzeugs in der Mongolei, nachdem er offenbar aus China geflohen war.
+  regions: [china]
+  themes: [krieg-militaer, politik]
+  places: [oendoerkhaan]
+- id: jiang-qing
+  name: Jiang Qing
+  born: "1914"
+  died: "1991-05-14"
+  roles: [Schauspielerin, Politikerin]
+  summary: Frühere Schauspielerin aus Shanghai und seit 1938 Maos Ehefrau, die in der Kulturrevolution die Kulturpolitik bestimmte („Musterrevolutionsopern“) und zur führenden Figur der „Viererbande“ wurde; 1976 verhaftet, 1981 zum Tode verurteilt (in lebenslange Haft umgewandelt), starb sie 1991 durch Suizid.
+  regions: [china]
+  themes: [politik, kultur-kunst]
+  places: [shanghai, peking]
+- id: zhang-chunqiao
+  name: Zhang Chunqiao
+  born: "1917"
+  died: "2005"
+  roles: [Parteifunktionär]
+  summary: Propagandafunktionär aus Shanghai, der im „Januarsturm“ 1967 die Macht in der Stadt übernahm, zum Mitglied des Ständigen Ausschusses des Politbüros aufstieg und als Mitglied der „Viererbande“ 1976 verhaftet und 1981 zum Tode verurteilt wurde (Strafe umgewandelt).
+  regions: [china]
+  themes: [politik]
+  places: [shanghai]
+- id: yao-wenyuan
+  name: Yao Wenyuan
+  born: "1931"
+  died: "2005"
+  roles: [Publizist, Parteifunktionär]
+  summary: Literaturkritiker aus Shanghai, dessen Angriff auf das Theaterstück „Hai Rui wird seines Amtes enthoben“ im November 1965 das Vorspiel der Kulturrevolution bildete; Mitglied der „Viererbande“, 1981 zu 20 Jahren Haft verurteilt.
+  regions: [china]
+  themes: [politik, schrift-medien]
+  places: [shanghai]
+- id: wang-hongwen
+  name: Wang Hongwen
+  born: "1935"
+  died: "1992"
+  roles: [Arbeiterführer, stellvertretender Parteivorsitzender]
+  summary: Junger Sicherheitskader einer Shanghaier Textilfabrik, der als Anführer rebellischer Arbeiter 1967 aufstieg und 1973 stellvertretender Parteivorsitzender wurde; jüngstes Mitglied der „Viererbande“, 1981 zu lebenslanger Haft verurteilt.
+  regions: [china]
+  themes: [politik]
+  places: [shanghai]
+- id: kang-sheng
+  name: Kang Sheng
+  born: "1898"
+  died: "1975"
+  roles: [Leiter des Sicherheitsapparats der Partei]
+  summary: Langjähriger Chef der parteiinternen Geheimpolizei und Berater der Gruppe Kulturrevolution, maßgeblich an Säuberungen und Verfolgungen beteiligt; 1980 posthum aus der Partei ausgeschlossen.
+  regions: [china]
+  themes: [politik, gewalt-genozid]
+  places: [peking]
+- id: chen-yun
+  name: Chen Yun
+  born: "1905-06-13"
+  died: "1995-04-10"
+  roles: [Wirtschaftspolitiker]
+  summary: Führender Wirtschaftsplaner der Partei, der vor überhitztem Wachstum warnte und nach dem Großen Sprung mit Liu Shaoqi und Deng Xiaoping die Erholungspolitik der frühen 1960er-Jahre gestaltete.
+  regions: [china]
+  themes: [wirtschaft-handel, politik]
+  places: [peking]
+- id: hua-guofeng
+  name: Hua Guofeng
+  born: "1921-02-16"
+  died: "2008-08-20"
+  roles: [Ministerpräsident, Parteivorsitzender]
+  summary: Parteichef aus der Provinz Hunan, den Mao 1976 nach Zhou Enlais Tod zum Ministerpräsidenten und zu seinem Nachfolger bestimmte; ließ im Oktober 1976 die „Viererbande“ verhaften und wurde bis 1981 schrittweise von Deng Xiaoping verdrängt.
+  regions: [china]
+  themes: [politik]
+  places: [peking]
+- id: ye-jianying
+  name: Ye Jianying
+  born: "1897-04-28"
+  died: "1986-10-22"
+  roles: [Marschall, Verteidigungsminister]
+  summary: Marschall der Volksbefreiungsarmee, der im Oktober 1976 zusammen mit Hua Guofeng die Verhaftung der „Viererbande“ betrieb und danach die Rückkehr Deng Xiaopings unterstützte.
+  regions: [china]
+  themes: [krieg-militaer, politik]
+  places: [peking]
+- id: nie-yuanzi
+  name: Nie Yuanzi
+  born: "1921"
+  died: "2019"
+  roles: [Parteisekretärin, Rotgardistenführerin]
+  summary: Parteisekretärin der Philosophieabteilung der Peking-Universität, deren Wandzeitung vom 25. Mai 1966 gegen die Universitätsleitung Mao landesweit verbreiten ließ; danach eine der bekanntesten Rebellenführerinnen, später inhaftiert.
+  regions: [china]
+  themes: [politik]
+  places: [peking]
+- id: bian-zhongyun
+  name: Bian Zhongyun
+  born: "1916"
+  died: "1966-08-05"
+  roles: [Lehrerin, stellvertretende Schulleiterin]
+  summary: Stellvertretende Leiterin der Mädchenmittelschule an der Pädagogischen Hochschule Peking, die am 5. August 1966 von Schülerinnen-Rotgardisten zu Tode geprügelt wurde; gilt als erstes bekanntes Todesopfer der Rotgardisten-Gewalt in Peking.
+  regions: [china]
+  themes: [gewalt-genozid, gesellschaft]
+  places: [peking]

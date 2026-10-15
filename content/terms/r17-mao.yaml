@@ -1,0 +1,46 @@
+# Begriffe: Maos China (1949–1976)
+- id: volkskommune
+  name: Volkskommune
+  aliases: [Renmin gongshe]
+  definition: Ab 1958 in ganz China gebildete Großeinheit, die mehrere Tausend Haushalte zusammenfasste und Landwirtschaft, Kleinindustrie, Verwaltung, Miliz und anfangs auch Gemeinschaftsküchen vereinte; nach dem Großen Sprung in kleinere Produktionsbrigaden und -mannschaften gegliedert und Anfang der 1980er-Jahre aufgelöst.
+  themes: [landwirtschaft, gesellschaft, wirtschaft-handel]
+- id: rote-garden
+  name: Rote Garden
+  aliases: [Rotgardisten, Hongweibing]
+  definition: Ab Mai 1966 an Schulen und Universitäten entstandene Gruppen junger Anhänger Maos, die mit dessen Billigung Lehrer, Funktionäre und „Klassenfeinde“ angriffen, Kulturgüter zerstörten und sich bald in rivalisierende Fraktionen spalteten; 1968 aufgelöst und großenteils aufs Land geschickt.
+  themes: [politik, gesellschaft, gewalt-genozid]
+- id: vier-alte
+  name: Vier Alte
+  aliases: [Si jiu]
+  definition: In der Kulturrevolution bekämpfte „alte Ideen, alte Kultur, alte Sitten und alte Gewohnheiten“; die Kampagne gegen sie diente im Spätsommer 1966 als Rechtfertigung für die Zerstörung von Tempeln, Büchern, Kunstwerken und Privatbesitz.
+  themes: [kultur-kunst, religion]
+- id: viererbande
+  name: Viererbande
+  aliases: [Gang of Four, Siren bang]
+  definition: Nach 1976 geprägte Bezeichnung für die Gruppe um Maos Ehefrau Jiang Qing mit Zhang Chunqiao, Yao Wenyuan und Wang Hongwen, die in der späten Kulturrevolution die radikale Linie vertrat und der die Partei einen großen Teil der Verantwortung für die Verbrechen jener Jahre zuschrieb.
+  themes: [politik]
+- id: dazibao
+  name: Dazibao
+  aliases: [Wandzeitung, Großschriftzeichen-Plakat]
+  definition: Handgeschriebenes Plakat mit großen Schriftzeichen, das öffentlich ausgehängt wurde, um Personen anzuklagen oder Positionen zu verbreiten; in der Hundert-Blumen-Bewegung und vor allem in der Kulturrevolution ein Hauptmedium politischer Auseinandersetzung.
+  themes: [schrift-medien, politik]
+- id: kampfsitzung
+  name: Kampfsitzung
+  aliases: [Pidouhui, Kritik- und Kampfversammlung]
+  definition: Öffentliche Versammlung, auf der angebliche Klassenfeinde vor einer Menge beschimpft, zu Geständnissen gezwungen und oft geschlagen wurden; von der Landreform bis zur Kulturrevolution ein zentrales Instrument maoistischer Kampagnen.
+  themes: [gewalt-genozid, gesellschaft]
+- id: rechtsabweichler
+  name: Rechtsabweichler
+  aliases: [Rechte, Youpai]
+  definition: Etikett, das 1957/58 in der Anti-Rechts-Kampagne Hunderttausenden Kritikern der Partei angeheftet wurde und für sie und ihre Familien über zwei Jahrzehnte Diskriminierung bedeutete; die meisten wurden ab 1978 rehabilitiert.
+  themes: [politik, gesellschaft]
+- id: klassenstatus
+  name: Klassenstatus
+  aliases: [Klassenetikett, Jieji chengfen]
+  definition: In der Landreform und danach jedem Haushalt zugewiesene Klassenzugehörigkeit (etwa Grundherr, reicher, mittlerer oder armer Bauer), die vererbt wurde und bis Ende der 1970er-Jahre über Bildungschancen, Arbeit und Verfolgung mitentschied.
+  themes: [gesellschaft, politik]
+- id: mao-zedong-ideen
+  name: Mao-Zedong-Ideen
+  aliases: [Maoismus, Mao Zedong Sixiang]
+  definition: Von der KP Chinas seit 1945 als Leitlehre festgeschriebene Weiterentwicklung des Marxismus-Leninismus durch Mao, die die Bauernschaft als revolutionäre Kraft, die Massenmobilisierung und den fortgesetzten Klassenkampf im Sozialismus betonte; außerhalb Chinas meist „Maoismus“ genannt.
+  themes: [politik]

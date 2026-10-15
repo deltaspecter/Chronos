@@ -18,6 +18,7 @@ polities: [westgotenreich, umayyaden-kalifat, abbasiden-kalifat, emirat-von-cord
 terms: [al-andalus, reconquista, convivencia, dhimmi, dschizya, kalif, taifa-reiche, mozaraber, mudejares, morisken, conversos, sepharden, spanische-inquisition, kreuzzug, dschihad]
 related: [muhammad-entstehung-islam, abbasiden-bagdad, kreuzzuege, kolumbus-1492, karl-der-grosse, osmanisches-reich-hoehepunkt]
 bibliography: [kennedy-1996, fletcher-1992, fletcher-1989, collins-1989, wasserstein-1985, glick-1979, bossong-2007, herbers-2006, ocallaghan-2003, catlos-2014, catlos-2018, harvey-1990, harvey-2005, menocal-2002, fernandez-morera-2016, nirenberg-1996, soifer-2009, castro-1948, sanchez-albornoz-1956, kamen-1997, rios-saloma-2011, kraemer-2005, halm-2004, q-chronik-754, q-chronik-alfons-iii, q-ibn-hazm-halsband, q-cantar-de-mio-cid, q-kapitulation-granada, q-alhambra-edikt, q-bando-expulsion-1609, q-maqqari]
+image: mezquita-cordoba
 status: erstfassung
 version: 1
 updated: 2026-10-14

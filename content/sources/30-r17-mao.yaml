@@ -1,0 +1,177 @@
+# Quellen und Literatur: Maos China (1949–1976)
+
+# --- Primärquellen ---
+- id: q-mao-1957
+  kind: primaer
+  authors: ["Mao Zedong"]
+  title: Über die richtige Behandlung der Widersprüche im Volke
+  written: Peking, Rede vom 27. Februar 1957; überarbeitet veröffentlicht im Juni 1957
+  note: Rede vor der Obersten Staatskonferenz, in der Mao die Losung „Lasst hundert Blumen blühen“ erläuterte; die gedruckte Fassung wurde nach Beginn der Anti-Rechts-Kampagne verschärft.
+- id: q-peng-1959
+  kind: primaer
+  authors: ["Peng Dehuai"]
+  title: Brief an Mao Zedong
+  written: Lushan, 14. Juli 1959
+  note: Persönlicher Brief des Verteidigungsministers, der Übertreibungen und „kleinbürgerlichen Fanatismus“ im Großen Sprung vorsichtig kritisierte; Mao ließ ihn verteilen und machte ihn zum Anlass von Pengs Sturz.
+- id: q-zk-1966
+  kind: primaer
+  authors: ["Zentralkomitee der Kommunistischen Partei Chinas"]
+  title: Beschluss über die Große Proletarische Kulturrevolution („16 Punkte“)
+  written: Peking, 8. August 1966
+  note: Programmdokument der Kulturrevolution, das die Massen aufrief, „Machthaber in der Partei, die den kapitalistischen Weg gehen“, zu entlarven und die „Vier Alten“ zu beseitigen.
+- id: q-mao-yulu-1964
+  kind: primaer
+  authors: ["Mao Zedong"]
+  title: Worte des Vorsitzenden Mao Tse-tung („Mao-Bibel“)
+  written: Peking, Allgemeine Politische Abteilung der Volksbefreiungsarmee, 1964 (erweiterte Ausgabe 1965)
+  note: Von der Armee unter Lin Biao zusammengestellte Zitatsammlung, die in der Kulturrevolution in Hunderten Millionen Exemplaren verbreitet wurde und zum Symbol des Mao-Kults wurde.
+- id: q-shanghai-1972
+  kind: primaer
+  authors: ["Regierung der Vereinigten Staaten", "Regierung der Volksrepublik China"]
+  title: Gemeinsames Kommuniqué („Shanghai-Kommuniqué“)
+  written: Shanghai, 28. Februar 1972
+  note: Abschlusserklärung des Nixon-Besuchs, in der beide Seiten ihre gegensätzlichen Positionen nebeneinanderstellten und die USA anerkannten, dass die Chinesen auf beiden Seiten der Taiwanstraße an einem einzigen China festhielten.
+- id: q-resolution-1981
+  kind: primaer
+  authors: ["Zentralkomitee der Kommunistischen Partei Chinas"]
+  title: Beschluss über einige Fragen der Geschichte unserer Partei seit Gründung der Volksrepublik China
+  written: Peking, 27. Juni 1981 (6. Plenum des XI. Zentralkomitees)
+  note: Offizielle Bewertung der Mao-Zeit, die Mao große Verdienste zuschrieb, den Großen Sprung als schweren Fehler und die Kulturrevolution als schwersten Rückschlag seit 1949 verurteilte und die Verantwortung dafür vor allem Mao, Lin Biao und der „Viererbande“ zuwies.
+- id: q-li-zhisui-1994
+  kind: primaer
+  authors: ["Li, Zhisui"]
+  title: The Private Life of Chairman Mao
+  subtitle: The Memoirs of Mao's Personal Physician
+  place: New York
+  publisher: Random House
+  year: 1994
+  note: Erinnerungen von Maos Leibarzt (1954–1976), wertvoll als Innenansicht des Hofes, in Einzelheiten aber umstritten.
+- id: q-chang-1991
+  kind: primaer
+  authors: ["Chang, Jung"]
+  title: Wild Swans
+  subtitle: Three Daughters of China
+  place: London
+  publisher: HarperCollins
+  year: 1991
+  note: Familienerinnerungen über drei Generationen, darunter die Erfahrungen der Autorin als Rotgardistin und „hinaufgeschickte“ Jugendliche in Sichuan.
+
+# --- Forschung ---
+- id: dikoetter-2010
+  kind: sekundaer
+  authors: ["Dikötter, Frank"]
+  title: Mao's Great Famine
+  subtitle: The History of China's Most Devastating Catastrophe, 1958–1962
+  place: London
+  publisher: Bloomsbury
+  year: 2010
+- id: dikoetter-2013
+  kind: sekundaer
+  authors: ["Dikötter, Frank"]
+  title: The Tragedy of Liberation
+  subtitle: A History of the Chinese Revolution, 1945–1957
+  place: London
+  publisher: Bloomsbury
+  year: 2013
+- id: dikoetter-2016
+  kind: sekundaer
+  authors: ["Dikötter, Frank"]
+  title: The Cultural Revolution
+  subtitle: A People's History, 1962–1976
+  place: London
+  publisher: Bloomsbury
+  year: 2016
+- id: yang-2012
+  kind: sekundaer
+  authors: ["Yang, Jisheng"]
+  title: Tombstone
+  subtitle: The Great Chinese Famine, 1958–1962
+  place: New York
+  publisher: Farrar, Straus and Giroux
+  year: 2012
+  note: Gekürzte englische Ausgabe des 2008 in Hongkong erschienenen chinesischen Originals „Mubei“.
+- id: macfarquhar-schoenhals-2006
+  kind: sekundaer
+  authors: ["MacFarquhar, Roderick", "Schoenhals, Michael"]
+  title: Mao's Last Revolution
+  place: Cambridge, Mass.
+  publisher: Belknap Press of Harvard University Press
+  year: 2006
+- id: walder-2015
+  kind: sekundaer
+  authors: ["Walder, Andrew G."]
+  title: China Under Mao
+  subtitle: A Revolution Derailed
+  place: Cambridge, Mass.
+  publisher: Harvard University Press
+  year: 2015
+- id: meisner-1999
+  kind: sekundaer
+  authors: ["Meisner, Maurice"]
+  title: Mao's China and After
+  subtitle: A History of the People's Republic
+  edition: "3. Auflage"
+  place: New York
+  publisher: Free Press
+  year: 1999
+- id: teiwes-sun-1999
+  kind: sekundaer
+  authors: ["Teiwes, Frederick C.", "Sun, Warren"]
+  title: China's Road to Disaster
+  subtitle: Mao, Central Politicians, and Provincial Leaders in the Unfolding of the Great Leap Forward, 1955–1959
+  place: Armonk, N.Y.
+  publisher: M. E. Sharpe
+  year: 1999
+- id: banister-1987
+  kind: sekundaer
+  authors: ["Banister, Judith"]
+  title: China's Changing Population
+  place: Stanford
+  publisher: Stanford University Press
+  year: 1987
+- id: chen-2001
+  kind: sekundaer
+  authors: ["Chen, Jian"]
+  title: Mao's China and the Cold War
+  place: Chapel Hill
+  publisher: University of North Carolina Press
+  year: 2001
+- id: leese-2011
+  kind: sekundaer
+  authors: ["Leese, Daniel"]
+  title: Mao Cult
+  subtitle: Rhetoric and Ritual in China's Cultural Revolution
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2011
+- id: bernstein-1977
+  kind: sekundaer
+  authors: ["Bernstein, Thomas P."]
+  title: Up to the Mountains and Down to the Villages
+  subtitle: The Transfer of Youth from Urban to Rural China
+  place: New Haven
+  publisher: Yale University Press
+  year: 1977
+- id: macmillan-2007
+  kind: sekundaer
+  authors: ["MacMillan, Margaret"]
+  title: Nixon and Mao
+  subtitle: The Week That Changed the World
+  place: New York
+  publisher: Random House
+  year: 2007
+- id: muehlhahn-2019
+  kind: sekundaer
+  authors: ["Mühlhahn, Klaus"]
+  title: Making China Modern
+  subtitle: From the Great Qing to Xi Jinping
+  place: Cambridge, Mass.
+  publisher: Belknap Press of Harvard University Press
+  year: 2019
+- id: chang-halliday-2005
+  kind: sekundaer
+  authors: ["Chang, Jung", "Halliday, Jon"]
+  title: "Mao: The Unknown Story"
+  place: London
+  publisher: Jonathan Cape
+  year: 2005

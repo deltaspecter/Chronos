@@ -1,0 +1,229 @@
+# Ereignisse: Maos China (1949–1976)
+- id: landreform-china
+  title: Landreform in der Volksrepublik China
+  aliases: [Bodenreform]
+  start: "1950-06"
+  end: "1953"
+  weight: 2
+  kind: gesetz
+  summary: Auf Grundlage des Bodenreformgesetzes vom Juni 1950 wird Land von „Grundherren“ an Bauern verteilt; in öffentlichen „Abrechnungsversammlungen“ werden Hunderttausende bis vermutlich mehrere Millionen Menschen getötet oder in den Tod getrieben – genaue Zahlen sind unbekannt.
+  regions: [china]
+  themes: [landwirtschaft, gewalt-genozid, gesellschaft]
+  persons: [mao-zedong]
+  polities: [volksrepublik-china]
+- id: kampagne-gegen-konterrevolutionaere
+  title: Kampagne zur Unterdrückung der Konterrevolutionäre
+  start: "1950-10"
+  end: "1951"
+  weight: 3
+  kind: ereignis
+  certainty: wahrscheinlich
+  summary: Während des Koreakriegs lässt die Führung angebliche Agenten, frühere Guomindang-Funktionäre und „Banditen“ massenhaft verhaften und hinrichten; Mao selbst nannte später rund 700.000 Getötete, andere Schätzungen liegen höher.
+  regions: [china]
+  themes: [gewalt-genozid, politik]
+  persons: [mao-zedong]
+  polities: [volksrepublik-china]
+- id: hundert-blumen-bewegung
+  title: Hundert-Blumen-Bewegung
+  aliases: [Lasst hundert Blumen blühen]
+  start: "1956-05"
+  end: "1957-06"
+  weight: 2
+  kind: ereignis
+  summary: Mao ermuntert Intellektuelle und Nicht-Kommunisten, die Partei offen zu kritisieren; als im Mai und Juni 1957 eine Welle scharfer Kritik einsetzt, bricht die Führung die Bewegung ab.
+  regions: [china]
+  themes: [politik, schrift-medien]
+  persons: [mao-zedong]
+  polities: [volksrepublik-china]
+- id: anti-rechts-kampagne
+  title: Anti-Rechts-Kampagne
+  start: "1957-06"
+  end: "1959"
+  weight: 2
+  kind: ereignis
+  summary: Unter Leitung Deng Xiaopings werden nach offiziellen Angaben rund 550.000 Menschen, vor allem Intellektuelle, als „Rechtsabweichler“ gebrandmarkt, verlieren Stellung und Ansehen und werden vielfach zur „Umerziehung durch Arbeit“ geschickt.
+  regions: [china]
+  themes: [politik, gewalt-genozid]
+  persons: [mao-zedong, deng-xiaoping]
+  polities: [volksrepublik-china]
+- id: grosser-sprung-nach-vorn
+  title: Großer Sprung nach vorn
+  aliases: [Großer Sprung, Da Yuejin]
+  start: "1958"
+  end: "1962"
+  weight: 1
+  kind: entwicklung
+  summary: Maos Kampagne, China durch Massenmobilisierung, Volkskommunen und dörfliche Stahlproduktion in wenigen Jahren zur Industriemacht zu machen; überzogene Planziffern, gefälschte Erfolgsmeldungen und Zwangsabgaben von Getreide führen in die schwerste Hungersnot des 20. Jahrhunderts.
+  regions: [china]
+  themes: [wirtschaft-handel, landwirtschaft, politik]
+  persons: [mao-zedong, liu-shaoqi, peng-dehuai]
+  polities: [volksrepublik-china]
+- id: hungersnot-china-1959-1961
+  title: Hungersnot des Großen Sprungs
+  aliases: [Große Chinesische Hungersnot, Drei bittere Jahre]
+  start: "1959"
+  end: "1961"
+  certainty: umstritten
+  dateNote: Regional begann das Sterben schon Ende 1958 und dauerte bis 1962.
+  weight: 1
+  kind: katastrophe
+  summary: Infolge der Politik des Großen Sprungs sterben in China Millionen Menschen an Hunger und Gewalt; die meisten Schätzungen der Übersterblichkeit liegen zwischen rund 15 und 45 Millionen, am häufigsten genannt werden 30 bis 36 Millionen.
+  regions: [china]
+  themes: [landwirtschaft, gewalt-genozid, gesellschaft]
+  places: [xinyang]
+  persons: [mao-zedong]
+  polities: [volksrepublik-china]
+- id: lushan-konferenz-1959
+  title: Konferenz von Lushan
+  start: "1959-07-02"
+  end: "1959-08-16"
+  weight: 2
+  kind: ereignis
+  summary: Auf einer Arbeitskonferenz und dem anschließenden Plenum des Zentralkomitees greift Mao Verteidigungsminister Peng Dehuai wegen dessen kritischen Briefs an; Peng wird abgesetzt, Lin Biao sein Nachfolger, und eine Kampagne gegen „Rechtsopportunisten“ verschärft den Großen Sprung und die Hungersnot.
+  regions: [china]
+  themes: [politik]
+  places: [lushan]
+  persons: [mao-zedong, peng-dehuai, lin-biao]
+  polities: [volksrepublik-china]
+- id: konferenz-der-7000-kader
+  title: Konferenz der 7000 Kader
+  start: "1962-01-11"
+  end: "1962-02-07"
+  weight: 3
+  kind: ereignis
+  summary: Auf einer erweiterten Arbeitskonferenz in Peking zieht die Führung Bilanz des Großen Sprungs; Liu Shaoqi spricht von vor allem menschengemachten Ursachen, Mao übt eine begrenzte Selbstkritik und überlässt die Wirtschaftspolitik vorerst Liu, Deng und Chen Yun.
+  regions: [china]
+  themes: [politik, wirtschaft-handel]
+  places: [peking]
+  persons: [mao-zedong, liu-shaoqi, deng-xiaoping, chen-yun]
+  polities: [volksrepublik-china]
+- id: chinesisch-sowjetisches-zerwuerfnis
+  title: Chinesisch-sowjetisches Zerwürfnis
+  start: "1956"
+  end: "1969"
+  certainty: wahrscheinlich
+  dateNote: Beginn und Ende sind Konvention; offen wurde der Bruch mit dem Abzug der sowjetischen Experten 1960.
+  weight: 2
+  kind: entwicklung
+  summary: Nach Chruschtschows Abrechnung mit Stalin entfremden sich Peking und Moskau; 1960 zieht die Sowjetunion ihre Fachleute ab, es folgt eine offene ideologische Polemik und 1969 bewaffnete Grenzkämpfe.
+  regions: [china, russland]
+  themes: [politik]
+  persons: [mao-zedong, nikita-chruschtschow]
+  polities: [volksrepublik-china, sowjetunion]
+- id: kulturrevolution
+  title: Große Proletarische Kulturrevolution
+  aliases: [Kulturrevolution]
+  start: "1966-05-16"
+  end: "1976-10-06"
+  dateNote: Die Partei datiert sie offiziell 1966–1976; die Phase der Massenbewegung endete 1968/69.
+  weight: 1
+  kind: revolution
+  summary: Von Mao entfesselte Massenkampagne gegen angebliche „Revisionisten“ in Partei und Staat; Rote Garden und Rebellengruppen stürzen Funktionäre, zerstören Kulturgüter und verfolgen Millionen, Fraktionskämpfe und Säuberungen fordern Schätzungen zufolge zwischen rund einer und zwei Millionen Tote.
+  regions: [china]
+  themes: [politik, gewalt-genozid, kultur-kunst, revolutionen]
+  places: [peking, shanghai, wuhan]
+  persons: [mao-zedong, lin-biao, jiang-qing, liu-shaoqi, deng-xiaoping, zhou-enlai]
+  polities: [volksrepublik-china]
+- id: massenkundgebung-tiananmen-1966
+  title: Erste Massenkundgebung der Roten Garden
+  date: "1966-08-18"
+  weight: 3
+  kind: ereignis
+  summary: Mao empfängt auf dem Platz des Himmlischen Friedens rund eine Million Jugendliche und trägt die Armbinde der Roten Garden; bis November folgen sieben weitere Kundgebungen mit insgesamt über zehn Millionen Teilnehmern.
+  regions: [china]
+  themes: [politik]
+  places: [tiananmen-platz]
+  persons: [mao-zedong, lin-biao]
+  polities: [volksrepublik-china]
+- id: hinaufschickung-aufs-land
+  title: Hinaufschickung aufs Land
+  aliases: ["Hinauf in die Berge, hinunter in die Dörfer", Shangshan xiaxiang]
+  start: "1968-12"
+  end: "1980"
+  dateNote: Kleinere Verschickungen gab es schon seit den 1950er-Jahren.
+  weight: 2
+  kind: entwicklung
+  summary: Nach Maos Aufruf vom Dezember 1968 werden schätzungsweise 16 bis 17 Millionen städtische Schulabgänger zur „Umerziehung“ in Dörfer und Grenzgebiete geschickt – auch, um die Roten Garden aufzulösen und die Städte zu entlasten.
+  regions: [china]
+  themes: [gesellschaft, migration]
+  persons: [mao-zedong]
+  polities: [volksrepublik-china]
+- id: grenzkonflikt-am-ussuri-1969
+  title: Grenzkämpfe am Ussuri
+  start: "1969-03-02"
+  end: "1969-03-15"
+  weight: 3
+  kind: krieg
+  summary: Chinesische und sowjetische Truppen kämpfen um die Zhenbao-Insel im Grenzfluss Ussuri; die Angst vor einem Krieg mit der Sowjetunion bewegt Mao zur Annäherung an die USA.
+  regions: [china, russland]
+  themes: [krieg-militaer]
+  places: [zhenbao-insel]
+  polities: [volksrepublik-china, sowjetunion]
+- id: lin-biao-zwischenfall
+  title: Lin-Biao-Zwischenfall
+  date: "1971-09-13"
+  certainty: umstritten
+  weight: 2
+  kind: ereignis
+  summary: Maos designierter Nachfolger Lin Biao stirbt mit Frau und Sohn beim Absturz eines Flugzeugs in der Mongolei, nachdem er überstürzt aus China aufgebrochen war; die offizielle Version eines geplanten Staatsstreichs ist in Einzelheiten umstritten.
+  regions: [china, ostasien]
+  themes: [politik]
+  places: [oendoerkhaan]
+  persons: [lin-biao, mao-zedong, zhou-enlai]
+  polities: [volksrepublik-china]
+- id: nixon-besuch-in-china
+  title: Nixons Besuch in China
+  start: "1972-02-21"
+  end: "1972-02-28"
+  weight: 2
+  kind: ereignis
+  summary: Als erster amtierender US-Präsident besucht Richard Nixon die Volksrepublik, trifft Mao und verhandelt mit Zhou Enlai; das Shanghai-Kommuniqué leitet die Normalisierung der Beziehungen ein, die 1979 zur Aufnahme diplomatischer Beziehungen führt.
+  regions: [china, nordamerika]
+  themes: [politik]
+  places: [peking, shanghai]
+  persons: [richard-nixon, mao-zedong, zhou-enlai, henry-kissinger]
+  polities: [volksrepublik-china, vereinigte-staaten]
+- id: tiananmen-zwischenfall-1976
+  title: Tiananmen-Zwischenfall 1976
+  date: "1976-04-05"
+  weight: 3
+  kind: ereignis
+  summary: Zum Qingming-Totenfest legen Hunderttausende auf dem Platz des Himmlischen Friedens Kränze für den verstorbenen Zhou Enlai nieder, viele mit versteckter Kritik an der „Viererbande“; die Kundgebung wird gewaltsam aufgelöst und Deng Xiaoping erneut gestürzt.
+  regions: [china]
+  themes: [politik]
+  places: [tiananmen-platz]
+  persons: [zhou-enlai, deng-xiaoping, jiang-qing]
+  polities: [volksrepublik-china]
+- id: tod-mao-zedongs
+  title: Tod Mao Zedongs
+  date: "1976-09-09"
+  weight: 2
+  kind: ereignis
+  summary: Mao stirbt im Alter von 82 Jahren in Peking; sein einbalsamierter Leichnam wird in einem Mausoleum auf dem Platz des Himmlischen Friedens ausgestellt.
+  regions: [china]
+  themes: [politik]
+  places: [peking, tiananmen-platz]
+  persons: [mao-zedong, hua-guofeng]
+  polities: [volksrepublik-china]
+- id: sturz-der-viererbande
+  title: Verhaftung der Viererbande
+  date: "1976-10-06"
+  weight: 2
+  kind: ereignis
+  summary: Hua Guofeng lässt mit Unterstützung Ye Jianyings Jiang Qing, Zhang Chunqiao, Yao Wenyuan und Wang Hongwen festnehmen; damit endet die Kulturrevolution nach offizieller Lesart. Der Prozess folgt 1980/81.
+  regions: [china]
+  themes: [politik]
+  places: [peking]
+  persons: [hua-guofeng, ye-jianying, jiang-qing, zhang-chunqiao, yao-wenyuan, wang-hongwen]
+  polities: [volksrepublik-china]
+- id: resolution-zur-parteigeschichte-1981
+  title: Resolution zur Parteigeschichte
+  date: "1981-06-27"
+  weight: 3
+  kind: gesetz
+  summary: Das Zentralkomitee der KP Chinas beschließt eine offizielle Bewertung der Mao-Zeit; Mao gilt darin als großer Revolutionär, dessen Verdienste seine Fehler überwiegen, die Kulturrevolution aber als schwerster Rückschlag seit 1949.
+  regions: [china]
+  themes: [politik, geschichtsschreibung]
+  places: [peking]
+  persons: [deng-xiaoping, mao-zedong]
+  polities: [volksrepublik-china]
