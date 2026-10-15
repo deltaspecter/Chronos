@@ -1,0 +1,41 @@
+# Begriffe: Englische Revolution und Glorious Revolution (r17-england)
+- id: puritanismus
+  name: Puritanismus
+  aliases: [Puritaner, Puritans]
+  definition: Ursprünglich abwertende Bezeichnung für jene englischen Protestanten, die die Kirche von England nach reformiertem (calvinistischem) Vorbild weiter von katholischen Überresten „reinigen“ wollten; geprägt von Predigt, Bibellektüre, Sonntagsheiligung und strenger Lebensführung. Puritaner bildeten keinen geschlossenen Block, stellten aber einen großen Teil der Gegner Karls I.
+  themes: [religion, gesellschaft]
+- id: presbyterianismus
+  name: Presbyterianismus
+  aliases: [Presbyterianer, Kirk]
+  definition: Reformierte Kirchenverfassung ohne Bischöfe, in der gewählte Älteste (Presbyter) und Synoden die Kirche leiten; in Schottland seit dem späten 16. Jahrhundert prägend. Im englischen Bürgerkrieg bezeichnete „Presbyterianer“ auch die gemäßigte, verhandlungsbereite Mehrheit im Parlament im Gegensatz zu den „Independenten“.
+  themes: [religion]
+- id: new-model-army
+  name: New Model Army
+  aliases: [Neue Modellarmee]
+  definition: 1645 vom englischen Parlament geschaffenes, zentral besoldetes Heer von rund 22.000 Mann unter Thomas Fairfax und Oliver Cromwell, in dem Beförderung stärker nach Leistung und religiösem Eifer als nach Stand erfolgte; nach dem Sieg über den König wurde es zu einer eigenständigen politischen Kraft, die Parlament und Regierung bis 1660 bestimmte.
+  themes: [krieg-militaer, politik]
+- id: levellers
+  name: Levellers
+  aliases: [Leveller, Gleichmacher, Diggers, True Levellers]
+  definition: Von Gegnern so genannte radikale Bewegung in London und der New Model Army um John Lilburne, Richard Overton und William Walwyn (1645–1649), die Volkssouveränität, ein weit ausgedehntes Männerwahlrecht, jährliche oder zweijährliche Parlamente, Gleichheit vor dem Gesetz und Religionsfreiheit forderte. Von ihnen zu unterscheiden sind die Diggers um Gerrard Winstanley, die gemeinschaftlichen Landbesitz verlangten.
+  themes: [politik, revolutionen, gesellschaft]
+- id: konstitutionelle-monarchie
+  name: Konstitutionelle Monarchie
+  aliases: [Beschränkte Monarchie, limited monarchy]
+  definition: Monarchie, in der die Macht des Herrschers durch Verfassung oder grundlegende Gesetze und durch die Mitwirkung einer Volksvertretung begrenzt ist; England gilt seit 1689 als frühes Beispiel, Frankreich unter der Verfassung von 1791 und viele deutsche Staaten im 19. Jahrhundert folgten. Davon zu unterscheiden ist die parlamentarische Monarchie, in der die Regierung vom Vertrauen des Parlaments abhängt.
+  themes: [verfassung-recht, politik]
+- id: whigs-und-tories
+  name: Whigs und Tories
+  aliases: [Whigs, Tories, Whig, Tory]
+  definition: Ursprünglich Schimpfnamen aus der Ausschlusskrise 1679–1681 – „Whig“ für schottische Covenanter-Rebellen, „Tory“ für irische Banditen; die Whigs wollten den katholischen Thronfolger ausschließen und betonten Parlamentsrechte, die Tories verteidigten das Erbrecht der Krone und die anglikanische Staatskirche. Daraus entstanden die beiden Parteiungen des britischen Parlaments im 18. Jahrhundert.
+  themes: [politik]
+- id: whig-interpretation
+  name: Whig-Geschichtsdeutung
+  aliases: [Whig interpretation of history, Whig history]
+  definition: Von Herbert Butterfield 1931 kritisch benannte Neigung, Geschichte als zielgerichteten Fortschritt zur Freiheit und zur Gegenwart zu erzählen und die Vergangenheit nach „Siegern“ und „Verlierern“ dieses Fortschritts zu beurteilen; klassisches Beispiel ist die Darstellung der englischen Verfassungsgeschichte im 19. Jahrhundert, etwa bei Macaulay.
+  themes: [geschichtsschreibung]
+- id: dissenters
+  name: Dissenters
+  aliases: [Nonkonformisten, Nonconformists]
+  definition: Protestanten in England, die sich nach der Restauration nicht der wiederhergestellten bischöflichen Kirche von England unterwarfen, etwa Presbyterianer, Kongregationalisten, Baptisten und Quäker; sie wurden 1689 geduldet, blieben aber bis ins 19. Jahrhundert von Ämtern und Universitäten weitgehend ausgeschlossen.
+  themes: [religion, gesellschaft]

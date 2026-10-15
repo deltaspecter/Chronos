@@ -1,0 +1,36 @@
+# Begriffe: Siebenjähriger Krieg (r17-7jk)
+- id: renversement-des-alliances
+  name: Renversement des alliances
+  aliases: [Umkehr der Bündnisse, Diplomatische Revolution, Diplomatic Revolution]
+  definition: Neuordnung der europäischen Bündnisse 1756, bei der sich Großbritannien mit Preußen und Österreich mit seinem alten Gegner Frankreich verband; vorbereitet von der österreichischen Diplomatie unter Kaunitz, ausgelöst durch die Westminsterkonvention.
+  themes: [politik]
+- id: kabinettskrieg
+  name: Kabinettskrieg
+  aliases: [Kabinettskriege]
+  definition: Ältere Bezeichnung für die Kriege des 18. Jahrhunderts, die von Fürsten und ihren Kabinetten mit stehenden Heeren um begrenzte Ziele geführt worden seien und die Zivilbevölkerung weitgehend verschont hätten; die neuere Forschung betont dagegen die erheblichen Belastungen und Gewalterfahrungen der Bevölkerung.
+  themes: [krieg-militaer, politik]
+- id: schiefe-schlachtordnung
+  name: Schiefe Schlachtordnung
+  aliases: [Oblique order, Schräge Schlachtordnung]
+  definition: Taktisches Verfahren, bei dem ein Heer einen Flügel verstärkt und gestaffelt gegen eine Flanke des Gegners führt, während der andere Flügel zurückgehalten wird; von Friedrich II. vor allem bei Leuthen 1757 erfolgreich angewandt.
+  themes: [krieg-militaer]
+- id: mirakel-des-hauses-brandenburg
+  name: Mirakel des Hauses Brandenburg
+  aliases: [Miracle de la maison de Brandebourg, Mirakel von 1762]
+  definition: Formulierung Friedrichs II. in einem Brief an seinen Bruder Heinrich nach Kunersdorf 1759 über das unerwartete Ausbleiben des gegnerischen Vormarschs; später vor allem auf die Rettung Preußens durch den Tod der Zarin Elisabeth 1762 bezogen und im 19. und 20. Jahrhundert zum Mythos der Rettung in letzter Not stilisiert.
+  themes: [politik, geschichtsschreibung]
+- id: fiskal-militaerischer-staat
+  name: Fiskal-militärischer Staat
+  aliases: [Fiscal-military state]
+  definition: Von John Brewer geprägter Begriff für einen Staat, dessen Verwaltung, Steuern und öffentliches Kreditwesen vor allem dazu dienen, Kriege zu finanzieren; Großbritannien im 18. Jahrhundert gilt als Musterfall, weil es mit Parlament, Bank of England und Staatsanleihen hohe Kriegskosten tragen konnte.
+  themes: [wirtschaft-handel, politik, krieg-militaer]
+- id: subsidien
+  name: Subsidien
+  aliases: [Subsidienvertrag, Subsidiengelder]
+  definition: Geldzahlungen eines Staates an einen Verbündeten, damit dieser Truppen stellt oder einen Krieg weiterführt; Preußen erhielt 1758 bis 1761 jährlich britische Subsidien.
+  themes: [krieg-militaer, wirtschaft-handel]
+- id: middle-ground
+  name: Middle Ground
+  aliases: [Mittlerer Grund]
+  definition: Von Richard White geprägter Begriff für die Zone der Großen Seen, in der Franzosen und indigene Nationen im 17. und 18. Jahrhundert durch Handel, Geschenke, Heiraten und gegenseitige Anpassung eine gemeinsame politische Welt schufen, in der keine Seite die andere beherrschen konnte; nach 1763 zerfiel sie.
+  themes: [gesellschaft, politik, handelsnetze]

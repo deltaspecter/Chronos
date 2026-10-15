@@ -1,0 +1,121 @@
+# Personen: Wiener Kongress
+- id: castlereagh
+  name: Robert Stewart, Viscount Castlereagh
+  aliases: [Castlereagh, Lord Castlereagh, Robert Stewart, Marquess of Londonderry]
+  born: "1769-06-18"
+  died: "1822-08-12"
+  roles: [Außenminister, Diplomat]
+  summary: Anglo-irischer Politiker, 1812–1822 britischer Außenminister und Leiter der britischen Delegation in Wien; Architekt der Quadrupelallianz und der regelmäßigen Konferenzen der Großmächte, lehnte aber die Interventionspolitik der Ostmächte ab. Er nahm sich 1822 das Leben.
+  regions: [britische-inseln, europa]
+  themes: [politik]
+  places: [wien, london, chaumont]
+- id: karl-august-von-hardenberg
+  name: Karl August von Hardenberg
+  aliases: [Hardenberg, Fürst Hardenberg]
+  born: "1750-05-31"
+  died: "1822-11-26"
+  roles: [Staatskanzler, Reformer]
+  summary: Preußischer Staatskanzler ab 1810, Träger der preußischen Reformen und Leiter der preußischen Delegation auf dem Wiener Kongress, wo er vergeblich ganz Sachsen für Preußen forderte; das Verfassungsversprechen von 1815 konnte er nicht durchsetzen.
+  regions: [deutschland]
+  themes: [politik, verfassung-recht]
+  places: [wien, berlin]
+- id: wilhelm-von-humboldt
+  name: Wilhelm von Humboldt
+  aliases: [Humboldt]
+  born: "1767-06-22"
+  died: "1835-04-08"
+  roles: [Gelehrter, Diplomat, Bildungsreformer]
+  summary: Sprachforscher, Bildungsreformer und Mitbegründer der Berliner Universität; als zweiter preußischer Bevollmächtigter in Wien maßgeblich an den Verhandlungen über die Deutsche Bundesakte beteiligt.
+  regions: [deutschland]
+  themes: [politik, wissenschaft-technik]
+  places: [wien, berlin]
+- id: friedrich-wilhelm-iii
+  name: Friedrich Wilhelm III.
+  aliases: [Friedrich Wilhelm III. von Preußen]
+  born: "1770-08-03"
+  died: "1840-06-07"
+  roles: [König von Preußen]
+  summary: König von Preußen ab 1797, nach den Niederlagen von 1806/07 und dem Bündnis mit Russland 1813 einer der Sieger über Napoleon; nahm persönlich am Wiener Kongress teil, unterzeichnete die Heilige Allianz und löste sein Verfassungsversprechen nie ein.
+  regions: [deutschland]
+  themes: [politik]
+  places: [berlin, wien]
+- id: ludwig-xviii
+  name: Ludwig XVIII.
+  aliases: [Louis XVIII, Louis-Stanislas-Xavier, Graf von Provence]
+  born: "1755-11-17"
+  died: "1824-09-16"
+  roles: [König von Frankreich]
+  summary: Jüngerer Bruder Ludwigs XVI., der nach Jahren im Exil 1814 mit Unterstützung der Verbündeten den französischen Thron bestieg, die Verfassungsurkunde (Charte) von 1814 gewährte, während der Hundert Tage nach Gent floh und 1815 zurückkehrte.
+  regions: [frankreich]
+  themes: [politik]
+  places: [paris]
+- id: friedrich-august-i-sachsen
+  name: Friedrich August I. von Sachsen
+  aliases: [Friedrich August I., Friedrich August der Gerechte]
+  born: "1750-12-23"
+  died: "1827-05-05"
+  roles: [König von Sachsen, Herzog von Warschau]
+  summary: Kurfürst und ab 1806 König von Sachsen, zugleich Herzog von Warschau; blieb bis 1813 an Napoleons Seite, geriet nach Leipzig in Gefangenschaft und musste 1815 rund drei Fünftel seines Landes an Preußen abtreten.
+  regions: [deutschland, osteuropa]
+  themes: [politik]
+  places: [dresden, leipzig, warschau]
+- id: friedrich-von-gentz
+  name: Friedrich von Gentz
+  aliases: [Gentz, Friedrich Gentz]
+  born: "1764-05-02"
+  died: "1832-06-09"
+  roles: [Publizist, Diplomat, Protokollführer]
+  summary: Aus Breslau stammender Publizist, Übersetzer Edmund Burkes und engster Mitarbeiter Metternichs; führte als Generalsekretär das Protokoll des Wiener Kongresses und der folgenden Kongresse und hinterließ aufschlussreiche Tagebücher.
+  regions: [mitteleuropa, deutschland]
+  themes: [politik, schrift-medien]
+  places: [wien]
+- id: karl-robert-von-nesselrode
+  name: Karl Robert von Nesselrode
+  aliases: [Nesselrode, Karl Wassiljewitsch Nesselrode]
+  born: "1780-12-14"
+  died: "1862-03-23"
+  roles: [Diplomat, Außenminister]
+  summary: Russischer Diplomat deutscher Herkunft, in Wien einer der Bevollmächtigten Alexanders I. und von 1816 bis 1856 Leiter der russischen Außenpolitik.
+  regions: [russland]
+  themes: [politik]
+  places: [wien]
+- id: ioannis-kapodistrias
+  name: Ioannis Kapodistrias
+  aliases: [Kapodistrias, Capo d'Istria, Johannes Kapodistrias]
+  born: "1776-02-11"
+  died: "1831-10-09"
+  roles: [Diplomat, Außenminister, Staatsoberhaupt]
+  summary: Von der Insel Korfu stammender Diplomat im russischen Dienst, auf dem Wiener Kongress Berater Alexanders I. vor allem in der Schweizer Frage, 1816–1822 gemeinsam mit Nesselrode russischer Außenminister und ab 1828 erstes Staatsoberhaupt des unabhängigen Griechenlands; 1831 ermordet.
+  regions: [russland, griechenland]
+  themes: [politik]
+  places: [wien]
+- id: adam-jerzy-czartoryski
+  name: Adam Jerzy Czartoryski
+  aliases: [Czartoryski, Adam Czartoryski]
+  born: "1770-01-14"
+  died: "1861-07-15"
+  roles: [Staatsmann, Diplomat]
+  summary: Polnischer Hochadliger, Jugendfreund und zeitweise Außenminister Alexanders I., der in Wien für ein wiederhergestelltes Königreich Polen unter dem Zaren warb; nach dem Novemberaufstand 1830/31 Haupt der polnischen Emigration in Paris.
+  regions: [osteuropa, russland]
+  themes: [politik]
+  places: [warschau, wien]
+- id: fanny-von-arnstein
+  name: Fanny von Arnstein
+  aliases: [Franziska von Arnstein]
+  born: "1758"
+  died: "1818"
+  roles: [Salonniere]
+  summary: Aus Berlin stammende Tochter einer jüdischen Bankiersfamilie, die in Wien einen der wichtigsten Salons führte; während des Kongresses Treffpunkt von Diplomaten und Fürsprecherin der Rechte der Juden.
+  regions: [mitteleuropa]
+  themes: [gesellschaft, kultur-kunst]
+  places: [wien]
+- id: george-canning
+  name: George Canning
+  aliases: [Canning]
+  born: "1770-04-11"
+  died: "1827-08-08"
+  roles: [Außenminister, Premierminister]
+  summary: Britischer Politiker, nach dem Tod Castlereaghs 1822 Außenminister; distanzierte Großbritannien endgültig vom Kongresssystem, erkannte die Unabhängigkeit der lateinamerikanischen Staaten an und war 1827 kurz Premierminister.
+  regions: [britische-inseln, suedamerika]
+  themes: [politik]
+  places: [london]

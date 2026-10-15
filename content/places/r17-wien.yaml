@@ -1,0 +1,53 @@
+# Orte: Wiener Kongress
+- id: hofburg-wien
+  name: Hofburg
+  aliases: [Wiener Hofburg]
+  coords: [16.3656, 48.2066]
+  categories: [kulturzentrum]
+  modernName: Hofburg, Wien (Österreich)
+  summary: Residenz der Habsburger im Zentrum Wiens, in der Kaiser Franz I. 1814/15 die angereisten Monarchen beherbergte und viele Bälle und Feste des Kongresses stattfanden.
+  regions: [mitteleuropa]
+  themes: [politik, kultur-kunst]
+- id: chaumont
+  name: Chaumont
+  coords: [5.1392, 48.1113]
+  categories: [stadt]
+  modernName: Chaumont (Département Haute-Marne, Frankreich)
+  summary: Ostfranzösische Stadt, in der Großbritannien, Russland, Österreich und Preußen im März 1814 ein Bündnis schlossen, das sie zum Kampf bis zum Sieg über Napoleon und zu einer Allianz auf zwanzig Jahre verpflichtete.
+  regions: [frankreich]
+  themes: [politik]
+- id: troppau
+  name: Troppau
+  aliases: [Opava]
+  coords: [17.9020, 49.9387]
+  categories: [stadt]
+  modernName: Opava (Tschechien)
+  summary: Hauptstadt des damals österreichischen Teils Schlesiens; Tagungsort des Kongresses von 1820, auf dem Österreich, Russland und Preußen das Recht zur Intervention gegen Revolutionen beanspruchten.
+  regions: [mitteleuropa]
+  themes: [politik]
+- id: verona
+  name: Verona
+  coords: [10.9916, 45.4384]
+  categories: [stadt]
+  modernName: Verona (Venetien, Italien)
+  summary: Stadt an der Etsch im habsburgischen Lombardo-Venetien; 1822 Ort des letzten großen Kongresses der Mächte, der die französische Intervention in Spanien billigte.
+  regions: [italien]
+  themes: [politik]
+- id: krakau
+  name: Krakau
+  aliases: [Kraków, Cracovia]
+  coords: [19.9450, 50.0647]
+  categories: [stadt]
+  modernName: Kraków (Polen)
+  summary: Alte polnische Königsstadt, die der Wiener Kongress als Freie Stadt unter dem Schutz Russlands, Österreichs und Preußens einrichtete; 1846 von Österreich annektiert.
+  regions: [osteuropa]
+  themes: [politik]
+- id: genua
+  name: Genua
+  aliases: [Genova]
+  coords: [8.9463, 44.4056]
+  categories: [stadt, hafen]
+  modernName: Genova (Ligurien, Italien)
+  summary: Hafenstadt und frühere Seerepublik, die der Wiener Kongress gegen den Willen ihrer Bewohner dem Königreich Sardinien-Piemont zuschlug.
+  regions: [italien, mittelmeer]
+  themes: [politik, wirtschaft-handel]

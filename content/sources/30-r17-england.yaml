@@ -1,0 +1,205 @@
+# Quellen und Literatur: Englische Revolution und Glorious Revolution (r17-england)
+
+# --- Primärquellen ---
+- id: q-depositions-1641
+  kind: primaer
+  authors: ["Protestantische Zeuginnen und Zeugen in Irland"]
+  title: The 1641 Depositions (Zeugenaussagen zum irischen Aufstand)
+  written: Irland, 1641–1654
+  note: Rund 8.000 eidliche Aussagen vor allem protestantischer Siedler über Gewalt, Plünderung und Vertreibung im Aufstand von 1641, heute im Trinity College Dublin aufbewahrt; wertvoll, aber parteiisch und oft auf Hörensagen gestützt.
+- id: q-putney-debatten
+  kind: primaer
+  authors: ["Clarke, William"]
+  title: Mitschrift der Debatten des Generalrats der Armee in Putney
+  written: Putney bei London, 28. Oktober bis Anfang November 1647
+  note: Vom Armeesekretär William Clarke stenografisch festgehaltene Diskussion zwischen Offizieren, Soldatenvertretern und Levellern über Wahlrecht, Volkssouveränität und die Zukunft der Monarchie.
+- id: q-agreement-of-the-people
+  kind: primaer
+  authors: ["Levellers"]
+  title: An Agreement of the People
+  written: London, Oktober/November 1647 (weitere Fassungen 1648 und 1649)
+  note: Verfassungsentwurf der Levellers, der die Souveränität des Volkes, regelmäßig gewählte Parlamente und unveräußerliche Rechte etwa der Gewissensfreiheit forderte.
+- id: q-eikon-basilike
+  kind: primaer
+  authors: ["Karl I. (zugeschrieben)"]
+  title: "Eikon Basilike: The Pourtraicture of His Sacred Majestie in His Solitudes and Sufferings"
+  written: London, erschienen um den 30. Januar 1649
+  note: Angeblich vom König selbst verfasste Andachts- und Rechtfertigungsschrift, die Karl I. als Märtyrer darstellte und in zahlreichen Auflagen verbreitet wurde; der Anteil des Geistlichen John Gauden an der Abfassung ist umstritten.
+- id: q-cromwell-drogheda
+  kind: primaer
+  authors: ["Cromwell, Oliver"]
+  title: Brief an William Lenthall, Sprecher des Parlaments, über die Einnahme von Drogheda
+  written: Dublin, 17. September 1649
+  note: Bericht Cromwells über die Erstürmung Droghedas, in dem er die Tötung der Verteidiger als gerechtes Gericht Gottes rechtfertigte; vom Parlament gedruckt verbreitet.
+- id: q-hobbes-leviathan
+  kind: primaer
+  authors: ["Hobbes, Thomas"]
+  title: "Leviathan, or the Matter, Forme and Power of a Common-Wealth Ecclesiasticall and Civill"
+  written: Paris/London, 1651
+  note: Staatsphilosophisches Hauptwerk, das unter dem Eindruck des Bürgerkriegs die unbedingte Unterwerfung unter einen souveränen Herrscher als einzigen Ausweg aus dem Krieg aller gegen alle begründete.
+- id: q-bill-of-rights-1689
+  kind: primaer
+  authors: ["Parlament von England"]
+  title: "An Act Declaring the Rights and Liberties of the Subject and Settling the Succession of the Crown (Bill of Rights)"
+  written: Westminster, 16. Dezember 1689
+  note: Gesetzliche Fassung der Declaration of Rights vom Februar 1689; zählt die Rechtsbrüche Jakobs II. auf, erklärt Suspendierung von Gesetzen, Steuern und ein stehendes Heer ohne Zustimmung des Parlaments für ungesetzlich und schließt Katholiken von der Thronfolge aus.
+- id: q-toleration-act
+  kind: primaer
+  authors: ["Parlament von England"]
+  title: "An Act for Exempting Their Majesties' Protestant Subjects Dissenting from the Church of England from the Penalties of Certain Laws (Toleration Act)"
+  written: Westminster, Mai 1689
+  note: Gewährte protestantischen Dissenters, die bestimmte Eide leisteten, freie Gottesdienste, schloss Katholiken und Antitrinitarier aber aus und ließ ihre Benachteiligung im öffentlichen Leben bestehen.
+- id: q-locke-toleranz
+  kind: primaer
+  authors: ["Locke, John"]
+  title: Epistola de Tolerantia (Brief über die Toleranz)
+  written: Gouda, 1689 (englische Übersetzung von William Popple, London 1689)
+  note: Im niederländischen Exil verfasste Schrift, die Staat und Kirche trennte und Glaubenszwang als zwecklos und unrechtmäßig verwarf – Katholiken und Atheisten nahm Locke allerdings von der Duldung aus.
+
+# --- Editionen ---
+- id: gardiner-1906
+  kind: edition
+  editors: ["Gardiner, Samuel Rawson"]
+  title: The Constitutional Documents of the Puritan Revolution 1625–1660
+  edition: 3. Auflage
+  place: Oxford
+  publisher: Clarendon Press
+  year: 1906
+- id: woodhouse-1938
+  kind: edition
+  editors: ["Woodhouse, A. S. P."]
+  title: Puritanism and Liberty
+  subtitle: Being the Army Debates (1647–9) from the Clarke Manuscripts
+  place: London
+  publisher: Dent
+  year: 1938
+- id: laslett-1960
+  kind: edition
+  authors: ["Locke, John"]
+  editors: ["Laslett, Peter"]
+  title: Two Treatises of Government
+  subtitle: A Critical Edition with an Introduction and Apparatus Criticus
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1960
+
+# --- Forschung ---
+- id: macaulay-1848
+  kind: sekundaer
+  authors: ["Macaulay, Thomas Babington"]
+  title: The History of England from the Accession of James the Second
+  place: London
+  publisher: Longman
+  year: 1848–1861
+- id: butterfield-1931
+  kind: sekundaer
+  authors: ["Butterfield, Herbert"]
+  title: The Whig Interpretation of History
+  place: London
+  publisher: G. Bell and Sons
+  year: 1931
+- id: hill-1961
+  kind: sekundaer
+  authors: ["Hill, Christopher"]
+  title: The Century of Revolution 1603–1714
+  place: Edinburgh
+  publisher: Thomas Nelson
+  year: 1961
+- id: hill-1972
+  kind: sekundaer
+  authors: ["Hill, Christopher"]
+  title: The World Turned Upside Down
+  subtitle: Radical Ideas During the English Revolution
+  place: London
+  publisher: Maurice Temple Smith
+  year: 1972
+- id: stone-1972
+  kind: sekundaer
+  authors: ["Stone, Lawrence"]
+  title: The Causes of the English Revolution 1529–1642
+  place: London
+  publisher: Routledge & Kegan Paul
+  year: 1972
+- id: russell-c-1990
+  kind: sekundaer
+  authors: ["Russell, Conrad"]
+  title: The Causes of the English Civil War
+  place: Oxford
+  publisher: Clarendon Press
+  year: 1990
+- id: russell-c-1991
+  kind: sekundaer
+  authors: ["Russell, Conrad"]
+  title: The Fall of the British Monarchies 1637–1642
+  place: Oxford
+  publisher: Clarendon Press
+  year: 1991
+- id: gentles-1992
+  kind: sekundaer
+  authors: ["Gentles, Ian"]
+  title: The New Model Army in England, Ireland and Scotland, 1645–1653
+  place: Oxford
+  publisher: Blackwell
+  year: 1992
+- id: morrill-1993
+  kind: sekundaer
+  authors: ["Morrill, John"]
+  title: The Nature of the English Revolution
+  place: London
+  publisher: Longman
+  year: 1993
+- id: kishlansky-1996
+  kind: sekundaer
+  authors: ["Kishlansky, Mark"]
+  title: A Monarchy Transformed
+  subtitle: Britain 1603–1714
+  place: London
+  publisher: Allen Lane
+  year: 1996
+- id: woolrych-2002
+  kind: sekundaer
+  authors: ["Woolrych, Austin"]
+  title: Britain in Revolution 1625–1660
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2002
+- id: harris-2006
+  kind: sekundaer
+  authors: ["Harris, Tim"]
+  title: Revolution
+  subtitle: The Great Crisis of the British Monarchy, 1685–1720
+  place: London
+  publisher: Allen Lane
+  year: 2006
+- id: braddick-2008
+  kind: sekundaer
+  authors: ["Braddick, Michael"]
+  title: God's Fury, England's Fire
+  subtitle: A New History of the English Civil Wars
+  place: London
+  publisher: Allen Lane
+  year: 2008
+- id: osiochru-2008
+  kind: sekundaer
+  authors: ["Ó Siochrú, Micheál"]
+  title: God's Executioner
+  subtitle: Oliver Cromwell and the Conquest of Ireland
+  place: London
+  publisher: Faber and Faber
+  year: 2008
+- id: pincus-2009
+  kind: sekundaer
+  authors: ["Pincus, Steve"]
+  title: "1688"
+  subtitle: The First Modern Revolution
+  place: New Haven / London
+  publisher: Yale University Press
+  year: 2009
+- id: asch-2011
+  kind: sekundaer
+  authors: ["Asch, Ronald G."]
+  title: Die Stuarts
+  subtitle: Geschichte einer Dynastie
+  place: München
+  publisher: C. H. Beck
+  year: 2011

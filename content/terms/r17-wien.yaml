@@ -1,0 +1,46 @@
+# Begriffe: Wiener Kongress
+- id: restauration
+  name: Restauration
+  aliases: [Restaurationszeit, Zeitalter der Restauration]
+  definition: Wiederherstellung vorrevolutionärer Herrscherhäuser und Ordnungen nach dem Sturz Napoleons 1814/15 und die davon geprägte Epoche bis etwa 1830; vollständig zurückgedreht wurden die Veränderungen der Revolutionszeit allerdings fast nirgends.
+  themes: [politik]
+- id: legitimitaetsprinzip
+  name: Legitimitätsprinzip
+  aliases: [Legitimität, Legitimismus, Prinzip der Legitimität]
+  definition: Auf dem Wiener Kongress vor allem von Talleyrand vertretener Grundsatz, dass rechtmäßige Herrschaft auf altem, ererbtem Recht der Dynastien beruht und nicht auf Eroberung oder Volkswillen; diente der Rückkehr der Bourbonen und dem Schutz kleinerer Fürsten, wurde aber oft zugunsten von Machtinteressen übergangen.
+  themes: [politik, verfassung-recht]
+- id: gleichgewicht-der-maechte
+  name: Gleichgewicht der Mächte
+  aliases: [Balance of Power, Mächtegleichgewicht, europäisches Gleichgewicht]
+  definition: Ordnungsvorstellung der europäischen Diplomatie seit dem 17. Jahrhundert, nach der keine Macht so stark werden darf, dass sie die anderen beherrschen kann; nach 1815 verbunden mit der Idee, dass die Großmächte das Gleichgewicht gemeinsam pflegen.
+  themes: [politik]
+- id: europaeisches-konzert
+  name: Europäisches Konzert
+  aliases: [Konzert der Mächte, Concert of Europe, Pentarchie]
+  definition: Zusammenwirken der fünf Großmächte Großbritannien, Russland, Österreich, Preußen und Frankreich nach 1815, die europäische Streitfragen auf Konferenzen gemeinsam zu regeln suchten; in lockerer Form bis zum Krimkrieg, nach manchen Deutungen bis 1914 wirksam.
+  themes: [politik]
+- id: kongresssystem
+  name: Kongresssystem
+  aliases: [Kongressdiplomatie, Konferenzdiplomatie, Metternichsches System]
+  definition: Die auf Artikel VI der Quadrupelallianz von 1815 beruhende Praxis regelmäßiger Monarchen- und Ministerkongresse (Aachen 1818, Troppau 1820, Laibach 1821, Verona 1822), die unter dem Einfluss Metternichs zunehmend der Unterdrückung von Revolutionen diente und an britischem Widerspruch zerbrach.
+  themes: [politik]
+- id: interventionsprinzip
+  name: Interventionsprinzip
+  aliases: [Interventionsrecht, Prinzip der Intervention]
+  definition: Von Österreich, Russland und Preußen 1820 im Troppauer Protokoll formulierter Anspruch, in Staaten militärisch einzugreifen, deren Ordnung durch Revolution verändert wurde und die dadurch andere Staaten bedrohten; Großbritannien setzte dem das Prinzip der Nichteinmischung entgegen.
+  themes: [politik, verfassung-recht]
+- id: staatenbund
+  name: Staatenbund
+  aliases: [Konföderation]
+  definition: Völkerrechtlicher Zusammenschluss souveräner Staaten mit gemeinsamen Organen, aber ohne eigene Staatsgewalt über die Bürger der Mitglieder – wie der Deutsche Bund von 1815; im Unterschied zum Bundesstaat bleiben die Mitglieder souverän.
+  themes: [verfassung-recht, politik]
+- id: polnisch-saechsische-frage
+  name: Polnisch-sächsische Frage
+  aliases: [Polnisch-sächsische Krise, polnisch-sächsischer Streit]
+  definition: Hauptkonflikt des Wiener Kongresses 1814/15 – Russland beanspruchte das Herzogtum Warschau als polnisches Königreich unter dem Zaren, Preußen als Ausgleich ganz Sachsen; Österreich, Großbritannien und Frankreich widersetzten sich, bis ein Kompromiss beide Gebiete teilte.
+  themes: [politik]
+- id: konservatismus
+  name: Konservatismus
+  aliases: [konservativ]
+  definition: Im Gegenzug zur Französischen Revolution entstandene politische Denkrichtung, die gewachsene Institutionen, Religion, Monarchie und ständische Ordnung gegen rational entworfene Neuordnungen verteidigt; wichtige Stichwortgeber waren Edmund Burke und, in Mitteleuropa, Friedrich von Gentz.
+  themes: [politik]

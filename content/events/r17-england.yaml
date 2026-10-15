@@ -1,0 +1,264 @@
+# Ereignisse: Englische Revolution und Glorious Revolution (r17-england)
+# Daten nach dem in England bis 1752 gültigen julianischen Kalender (alter Stil), Jahresbeginn am 1. Januar gerechnet.
+- id: national-covenant-1638
+  title: National Covenant in Schottland
+  date: "1638-02-28"
+  weight: 3
+  kind: vertrag
+  summary: Nach Unruhen gegen das von Karl I. verordnete neue Gebetbuch (Juli 1637) schwören Adel, Geistliche und Bürger in Edinburgh einen Bund zur Verteidigung der reformierten Kirche Schottlands; die Covenanters schaffen bald darauf das Bischofsamt ab.
+  regions: [britische-inseln]
+  themes: [religion, politik]
+  places: [edinburgh]
+  persons: [karl-i-england]
+  polities: [koenigreich-schottland]
+- id: bischofskriege
+  title: Bischofskriege
+  start: "1639"
+  end: "1640"
+  weight: 3
+  kind: krieg
+  summary: Karl I. versucht zweimal vergeblich, die schottischen Covenanters militärisch zu unterwerfen; 1640 besetzen die Schotten Nordengland. Um den Krieg zu finanzieren, muss der König nach elf Jahren wieder ein Parlament einberufen.
+  regions: [britische-inseln]
+  themes: [krieg-militaer, religion]
+  persons: [karl-i-england, thomas-wentworth]
+  polities: [koenigreich-schottland, koenigreich-england]
+- id: langes-parlament
+  title: Zusammentritt des Langen Parlaments
+  date: "1640-11-03"
+  weight: 2
+  kind: ereignis
+  summary: Das im November 1640 eröffnete Parlament beseitigt in wenigen Monaten die Instrumente der persönlichen Herrschaft Karls I., lässt Strafford hinrichten und sichert sich gegen eine Auflösung ohne eigene Zustimmung; in wechselnder Gestalt besteht es formal bis 1660.
+  regions: [britische-inseln]
+  themes: [politik, verfassung-recht]
+  places: [westminster-palast]
+  persons: [john-pym, thomas-wentworth, karl-i-england]
+  polities: [koenigreich-england]
+- id: irischer-aufstand-1641
+  title: Irischer Aufstand von 1641
+  date: "1641-10-23"
+  weight: 2
+  kind: ereignis
+  summary: Katholische Iren erheben sich in Ulster gegen Protestanten und englische Herrschaft; tausende Siedler werden getötet oder vertrieben. Übertriebene Berichte über Massaker verschärfen in England die Angst vor einer katholischen Verschwörung und den Streit, wer das Heer zur Niederschlagung befehligen soll.
+  regions: [britische-inseln]
+  themes: [krieg-militaer, religion, gewalt-genozid]
+  places: [dublin]
+  polities: [koenigreich-irland]
+- id: krieg-der-drei-koenigreiche
+  title: Kriege der drei Königreiche
+  start: "1639"
+  end: "1651"
+  weight: 1
+  kind: krieg
+  summary: Zusammenhängende Folge von Kriegen in Schottland, Irland und England – von den Bischofskriegen über den irischen Aufstand und die englischen Bürgerkriege bis zur Eroberung Irlands und Schottlands durch die englische Republik; einer der verlustreichsten Konflikte der britischen Geschichte.
+  regions: [britische-inseln]
+  themes: [krieg-militaer, religion, politik]
+  persons: [karl-i-england, oliver-cromwell]
+  polities: [koenigreich-england, koenigreich-schottland, koenigreich-irland, konfoederation-von-kilkenny]
+- id: englischer-buergerkrieg
+  title: Englische Bürgerkriege
+  start: "1642-08-22"
+  end: "1651-09-03"
+  weight: 1
+  kind: krieg
+  summary: Kriege zwischen König und Parlament, die mit dem Aufpflanzen der königlichen Standarte in Nottingham beginnen; nach dem Sieg des Parlaments (1646), einem zweiten Krieg mit schottischer Beteiligung (1648) und dem Feldzug Karls II. (1650/51) endet die Monarchie vorläufig.
+  regions: [britische-inseln]
+  themes: [krieg-militaer, revolutionen, politik]
+  places: [edgehill, marston-moor, naseby, oxford, worcester]
+  persons: [karl-i-england, oliver-cromwell, thomas-fairfax]
+  polities: [koenigreich-england]
+- id: schlacht-bei-edgehill
+  title: Schlacht bei Edgehill
+  date: "1642-10-23"
+  weight: 3
+  kind: schlacht
+  summary: Erste große Feldschlacht des Bürgerkriegs zwischen dem Heer Karls I. und dem des Parlaments unter dem Earl of Essex; sie endet ohne Entscheidung, der König bezieht danach Quartier in Oxford.
+  regions: [britische-inseln]
+  themes: [krieg-militaer]
+  places: [edgehill]
+  persons: [karl-i-england]
+- id: solemn-league-and-covenant
+  title: Solemn League and Covenant
+  date: "1643-09-25"
+  weight: 3
+  kind: vertrag
+  summary: Bündnis des englischen Parlaments mit den schottischen Covenanters; gegen das Versprechen einer Kirchenreform nach reformiertem Vorbild greift ein schottisches Heer 1644 auf Seiten des Parlaments in den Krieg ein.
+  regions: [britische-inseln]
+  themes: [politik, religion]
+  persons: [john-pym]
+  polities: [koenigreich-england, koenigreich-schottland]
+- id: schlacht-bei-marston-moor
+  title: Schlacht bei Marston Moor
+  date: "1644-07-02"
+  weight: 3
+  kind: schlacht
+  summary: Parlamentarische und schottische Truppen schlagen westlich von York das royalistische Heer unter Prinz Ruprecht von der Pfalz; Cromwells Reiterei trägt wesentlich zum Sieg bei, der Norden Englands geht für den König verloren.
+  regions: [britische-inseln]
+  themes: [krieg-militaer]
+  places: [marston-moor, york]
+  persons: [oliver-cromwell, thomas-fairfax]
+- id: gruendung-new-model-army
+  title: Aufstellung der New Model Army
+  date: "1645-02-15"
+  weight: 2
+  kind: gruendung
+  summary: Das Parlament beschließt ein neues, zentral besoldetes Heer unter Thomas Fairfax; die Self-Denying Ordinance zwingt die meisten Abgeordneten zur Niederlegung ihrer Kommandos, Cromwell wird als Ausnahme Befehlshaber der Reiterei.
+  regions: [britische-inseln]
+  themes: [krieg-militaer, politik]
+  persons: [thomas-fairfax, oliver-cromwell]
+  polities: [koenigreich-england]
+- id: schlacht-bei-naseby
+  title: Schlacht bei Naseby
+  date: "1645-06-14"
+  weight: 2
+  kind: schlacht
+  summary: Die New Model Army unter Fairfax und Cromwell vernichtet das Hauptheer Karls I.; erbeutete Briefe des Königs belegen seine Verhandlungen über ausländische und irische Hilfe. Bis 1646 ist der Erste Bürgerkrieg entschieden.
+  regions: [britische-inseln]
+  themes: [krieg-militaer]
+  places: [naseby]
+  persons: [karl-i-england, thomas-fairfax, oliver-cromwell]
+- id: putney-debatten
+  title: Putney-Debatten
+  start: "1647-10-28"
+  end: "1647-11-11"
+  weight: 2
+  kind: ereignis
+  summary: Im Generalrat der New Model Army streiten Offiziere, gewählte Soldatenvertreter (Agitators) und Levellers über das „Agreement of the People“, über das Wahlrecht für alle Männer und die Zukunft des Königtums; die Armeeführung beendet die Debatten nach der Flucht des Königs aus Hampton Court.
+  regions: [britische-inseln]
+  themes: [politik, verfassung-recht, revolutionen]
+  places: [putney]
+  persons: [oliver-cromwell, henry-ireton, thomas-rainsborough, john-lilburne]
+- id: prides-purge
+  title: Pride's Purge
+  date: "1648-12-06"
+  weight: 3
+  kind: ereignis
+  summary: Soldaten unter Oberst Thomas Pride verwehren über hundert verhandlungsbereiten Abgeordneten den Zutritt zum Unterhaus; das verbleibende Rumpfparlament beschließt, den König vor Gericht zu stellen.
+  regions: [britische-inseln]
+  themes: [politik, revolutionen]
+  places: [westminster-palast]
+  polities: [koenigreich-england]
+- id: hinrichtung-karls-i
+  title: Prozess und Hinrichtung Karls I.
+  start: "1649-01-20"
+  end: "1649-01-30"
+  weight: 1
+  kind: revolution
+  summary: Ein vom Rumpfparlament eingesetzter Hoher Gerichtshof verurteilt Karl I., der die Zuständigkeit des Gerichts bestreitet, als Tyrannen, Verräter und Mörder zum Tode; am 30. Januar 1649 wird er vor dem Banqueting House in Whitehall enthauptet. Im März schafft das Parlament Königtum und Oberhaus ab.
+  regions: [britische-inseln, europa]
+  themes: [revolutionen, verfassung-recht, politik]
+  places: [westminster-palast, whitehall]
+  persons: [karl-i-england, oliver-cromwell, henry-ireton]
+  polities: [koenigreich-england, commonwealth-england]
+- id: cromwells-feldzug-in-irland
+  title: Cromwells Feldzug in Irland
+  start: "1649-08-15"
+  end: "1653"
+  weight: 2
+  kind: krieg
+  summary: Die New Model Army erobert Irland; Cromwell selbst führt den Feldzug bis Mai 1650, seine Nachfolger beenden ihn bis 1653. Krieg, Hunger und Seuchen fordern sehr hohe Opfer, Zehntausende Iren werden ins Ausland verschifft, katholischer Landbesitz wird großflächig enteignet.
+  regions: [britische-inseln]
+  themes: [krieg-militaer, gewalt-genozid, religion]
+  places: [drogheda, wexford, dublin]
+  persons: [oliver-cromwell, henry-ireton]
+  polities: [commonwealth-england, koenigreich-irland]
+- id: belagerung-von-drogheda
+  title: Erstürmung von Drogheda
+  date: "1649-09-11"
+  weight: 2
+  kind: schlacht
+  summary: Nach Ablehnung der Kapitulationsaufforderung erstürmen Cromwells Truppen die Stadt und töten die Garnison und eine unbekannte Zahl von Zivilisten, darunter katholische Geistliche; Cromwell selbst spricht von etwa 2.000 Getöteten, insgesamt dürften es um die 3.000 gewesen sein. Im Oktober folgt ein ähnliches Blutbad in Wexford.
+  certainty: wahrscheinlich
+  regions: [britische-inseln]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [drogheda, wexford]
+  persons: [oliver-cromwell]
+  polities: [commonwealth-england]
+- id: schlacht-bei-worcester
+  title: Schlacht bei Worcester
+  date: "1651-09-03"
+  weight: 3
+  kind: schlacht
+  summary: Cromwell schlägt das schottisch-royalistische Heer des in Schottland gekrönten Karl II., der nach abenteuerlicher Flucht nach Frankreich entkommt; die letzte Schlacht der Bürgerkriege, ein Jahr nach Cromwells Sieg bei Dunbar.
+  regions: [britische-inseln]
+  themes: [krieg-militaer]
+  places: [worcester]
+  persons: [oliver-cromwell, karl-ii-england]
+  polities: [commonwealth-england, koenigreich-schottland]
+- id: instrument-of-government
+  title: Instrument of Government und Protektorat
+  date: "1653-12-16"
+  weight: 2
+  kind: gesetz
+  summary: Nachdem Cromwell im April 1653 das Rumpfparlament gewaltsam aufgelöst hat, macht ihn diese von Offizieren entworfene schriftliche Verfassung zum Lord Protector, der mit einem Staatsrat und regelmäßigen Parlamenten regieren soll; 1657 lehnt er die ihm angebotene Königskrone ab.
+  regions: [britische-inseln]
+  themes: [verfassung-recht, politik]
+  places: [whitehall]
+  persons: [oliver-cromwell]
+  polities: [commonwealth-england]
+- id: restauration-1660
+  title: Restauration der Monarchie
+  date: "1660-05-29"
+  weight: 2
+  kind: ereignis
+  summary: Nach dem Zerfall des Protektorats und dem Marsch Moncks nach London ruft das Konventionsparlament Karl II. zurück, der in der Erklärung von Breda Amnestie und Gewissensfreiheit in Aussicht stellt; am 29. Mai 1660 zieht er in London ein. Mehrere Königsmörder werden hingerichtet.
+  regions: [britische-inseln]
+  themes: [politik]
+  places: [london]
+  persons: [karl-ii-england, george-monck, richard-cromwell]
+  polities: [koenigreich-england, commonwealth-england]
+- id: ausschlusskrise
+  title: Ausschlusskrise
+  start: "1679"
+  end: "1681"
+  weight: 3
+  kind: ereignis
+  summary: Eine Parlamentsmehrheit versucht, den katholischen Thronfolger Jakob per Gesetz von der Nachfolge auszuschließen; Karl II. verhindert dies durch Parlamentsauflösungen. Im Streit entstehen die Parteibezeichnungen Whigs und Tories.
+  regions: [britische-inseln]
+  themes: [politik, religion]
+  persons: [karl-ii-england, jakob-ii-england, john-locke]
+  polities: [koenigreich-england]
+- id: landung-wilhelms-1688
+  title: Landung Wilhelms von Oranien in Torbay
+  date: "1688-11-05"
+  weight: 2
+  kind: ereignis
+  summary: Nach der Geburt eines katholischen Thronfolgers und einer Einladung führender englischer Politiker landet Wilhelm von Oranien mit einer niederländischen Flotte und einem Heer von rund 15.000 Mann in Devon; Jakobs Armee löst sich durch Überläufer auf, der König flieht im Dezember nach Frankreich.
+  regions: [britische-inseln, westeuropa]
+  themes: [politik, krieg-militaer]
+  places: [brixham, london]
+  persons: [wilhelm-iii-von-oranien, jakob-ii-england]
+  polities: [republik-der-vereinigten-niederlande, koenigreich-england]
+- id: bill-of-rights-1689
+  title: Declaration of Rights und Bill of Rights
+  start: "1689-02-13"
+  end: "1689-12-16"
+  weight: 1
+  kind: gesetz
+  summary: Mit der Krone wird Wilhelm III. und Maria II. im Februar 1689 eine Erklärung der Rechte vorgelegt, die im Dezember als Bill of Rights Gesetz wird; sie verbietet der Krone, ohne Parlament Gesetze auszusetzen, Steuern zu erheben oder im Frieden ein stehendes Heer zu halten, verlangt freie Wahlen und Redefreiheit im Parlament und schließt Katholiken vom Thron aus.
+  regions: [britische-inseln]
+  themes: [verfassung-recht, politik]
+  places: [westminster-palast]
+  persons: [wilhelm-iii-von-oranien, maria-ii-england]
+  polities: [koenigreich-england]
+- id: toleranzakte-1689
+  title: Toleranzakte
+  date: "1689-05-24"
+  weight: 3
+  kind: gesetz
+  summary: Protestantische Dissenters dürfen unter Bedingungen eigene Gottesdienste abhalten, bleiben aber von Ämtern und Universitäten ausgeschlossen; Katholiken und Antitrinitarier werden nicht geduldet.
+  regions: [britische-inseln]
+  themes: [religion, verfassung-recht]
+  persons: [wilhelm-iii-von-oranien]
+  polities: [koenigreich-england]
+- id: schlacht-am-boyne
+  title: Schlacht am Boyne
+  date: "1690-07-01"
+  dateNote: Alter Stil; nach gregorianischem Kalender 11. Juli 1690.
+  weight: 2
+  kind: schlacht
+  summary: Wilhelm III. schlägt in Irland das Heer Jakobs II. und seiner französischen Verbündeten; der Krieg in Irland endet 1691 mit dem Vertrag von Limerick, danach sichern Strafgesetze die Vorherrschaft der protestantischen Minderheit.
+  regions: [britische-inseln]
+  themes: [krieg-militaer, religion]
+  places: [boyne, drogheda]
+  persons: [wilhelm-iii-von-oranien, jakob-ii-england]
+  polities: [koenigreich-irland, koenigreich-england, koenigreich-frankreich]

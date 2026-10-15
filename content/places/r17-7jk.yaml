@@ -1,0 +1,139 @@
+# Orte: Siebenjähriger Krieg (r17-7jk)
+- id: schlesien
+  name: Schlesien
+  aliases: [Silesia, Śląsk, Slezsko]
+  coords: [17.0385, 51.1079]
+  location: ungefaehr
+  categories: [region]
+  modernName: Großteils Polen, kleinere Teile in Tschechien und Deutschland
+  summary: Wohlhabende, gewerbereiche Landschaft an der oberen und mittleren Oder mit dem Zentrum Breslau, die bis 1740 zur Habsburgermonarchie gehörte; Preußens Eroberung 1740/42 und ihre Verteidigung bis 1763 standen im Zentrum der Schlesischen Kriege. Koordinaten bezeichnen Breslau (Wrocław).
+  regions: [mitteleuropa]
+  themes: [politik, krieg-militaer, wirtschaft-handel]
+- id: lobositz
+  name: Lobositz
+  aliases: [Lovosice]
+  coords: [14.0510, 50.5150]
+  categories: [schlachtfeld, stadt]
+  modernName: Lovosice (Tschechien)
+  summary: Kleinstadt an der Elbe in Nordböhmen, bei der Friedrich II. am 1. Oktober 1756 ein österreichisches Entsatzheer für die in Pirna eingeschlossenen Sachsen zurückschlug; erste Schlacht des Kriegs in Europa.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+- id: kolin
+  name: Kolin
+  aliases: [Kolín]
+  coords: [15.2006, 50.0281]
+  location: ungefaehr
+  categories: [schlachtfeld, stadt]
+  modernName: Kolín (Tschechien)
+  summary: Stadt an der Elbe in Mittelböhmen; westlich davon unterlag Friedrich II. am 18. Juni 1757 dem österreichischen Heer unter Daun und musste die Belagerung Prags abbrechen.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+- id: rossbach
+  name: Roßbach
+  aliases: [Rossbach]
+  coords: [11.9030, 51.2440]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Ortsteil von Braunsbedra, Sachsen-Anhalt (Deutschland)
+  summary: Dorf bei Merseburg, bei dem Friedrich II. am 5. November 1757 eine zahlenmäßig überlegene französische Armee und die Reichsarmee in kurzer Zeit schlug.
+  regions: [deutschland]
+  themes: [krieg-militaer]
+- id: leuthen
+  name: Leuthen
+  aliases: [Lutynia]
+  coords: [16.8170, 51.1300]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Lutynia bei Wrocław (Polen)
+  summary: Dorf westlich von Breslau, bei dem Friedrich II. am 5. Dezember 1757 das österreichische Hauptheer besiegte und Schlesien zurückgewann.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+- id: kunersdorf
+  name: Kunersdorf
+  aliases: [Kunowice]
+  coords: [14.6230, 52.3530]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Kunowice bei Słubice (Polen)
+  summary: Dorf östlich von Frankfurt an der Oder, bei dem am 12. August 1759 ein russisch-österreichisches Heer die preußische Armee vernichtend schlug – Friedrichs schwerste Niederlage.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+- id: torgau
+  name: Torgau
+  coords: [13.0050, 51.5600]
+  categories: [stadt, schlachtfeld]
+  modernName: Torgau, Sachsen (Deutschland)
+  summary: Stadt an der Elbe in Sachsen; bei den Süptitzer Höhen westlich der Stadt errang Friedrich II. am 3. November 1760 einen äußerst verlustreichen Sieg über Daun.
+  regions: [deutschland]
+  themes: [krieg-militaer]
+- id: hubertusburg
+  name: Schloss Hubertusburg
+  aliases: [Hubertusburg]
+  coords: [12.9310, 51.2890]
+  categories: [fundstaette]
+  modernName: Wermsdorf, Sachsen (Deutschland)
+  summary: Jagdschloss der sächsischen Kurfürsten, das preußische Truppen 1761 plünderten und in dem am 15. Februar 1763 der Frieden zwischen Preußen, Österreich und Sachsen geschlossen wurde.
+  regions: [deutschland]
+  themes: [politik]
+- id: quebec
+  name: Québec
+  aliases: [Quebec, Abrahamfelder, Plains of Abraham]
+  coords: [-71.2080, 46.8139]
+  categories: [stadt, hauptstadt, hafen]
+  modernName: Québec (Kanada)
+  summary: 1608 gegründete Hauptstadt Neufrankreichs auf einem Felsen über dem Sankt-Lorenz-Strom; nach der Schlacht auf den Abrahamfeldern vor ihren Mauern ergab sie sich im September 1759 den Briten.
+  regions: [nordamerika]
+  themes: [krieg-militaer, imperien]
+- id: louisbourg
+  name: Louisbourg
+  aliases: [Louisburg]
+  coords: [-59.9850, 45.8920]
+  categories: [hafen, fundstaette]
+  modernName: Louisbourg, Kap-Breton-Insel, Nova Scotia (Kanada)
+  summary: Französische Festungsstadt auf der Kap-Breton-Insel, die den Zugang zum Sankt-Lorenz-Strom sicherte; 1758 von britischen Truppen erobert und danach geschleift. Heute teilweise rekonstruierte historische Stätte.
+  regions: [nordamerika, atlantik]
+  themes: [krieg-militaer]
+- id: fort-necessity
+  name: Fort Necessity
+  coords: [-79.5870, 39.8150]
+  categories: [schlachtfeld, fundstaette]
+  modernName: Fort Necessity National Battlefield, Pennsylvania (USA)
+  summary: Behelfsmäßige Palisade, in der sich der junge George Washington mit virginischen Milizen am 3. Juli 1754 nach einem Gefecht den Franzosen ergeben musste.
+  regions: [nordamerika]
+  themes: [krieg-militaer]
+- id: fort-duquesne
+  name: Fort Duquesne
+  aliases: [Pittsburgh, Fort Pitt, Forks of the Ohio]
+  coords: [-80.0110, 40.4410]
+  categories: [fundstaette]
+  modernName: Pittsburgh, Pennsylvania (USA)
+  summary: 1754 von den Franzosen am Zusammenfluss von Allegheny und Monongahela zum Ohio errichtetes Fort, Ziel der gescheiterten Expedition Braddocks 1755; 1758 aufgegeben und von den Briten als Fort Pitt neu gebaut, Keimzelle Pittsburghs.
+  regions: [nordamerika]
+  themes: [krieg-militaer, imperien]
+- id: montreal
+  name: Montréal
+  aliases: [Montreal, Ville-Marie]
+  coords: [-73.5673, 45.5017]
+  categories: [stadt, hafen]
+  modernName: Montréal (Kanada)
+  summary: 1642 als Ville-Marie gegründete Stadt am Sankt-Lorenz-Strom, Zentrum des französischen Pelzhandels; mit ihrer Kapitulation am 8. September 1760 endete die französische Herrschaft in Kanada.
+  regions: [nordamerika]
+  themes: [handelsnetze, krieg-militaer]
+- id: pondichery
+  name: Pondichéry
+  aliases: [Puducherry, Pondicherry]
+  coords: [79.8083, 11.9416]
+  categories: [stadt, hafen]
+  modernName: Puducherry (Indien)
+  summary: Hauptstützpunkt der französischen Ostindien-Kompanie an der Koromandelküste, im Januar 1761 nach Belagerung von den Briten eingenommen; 1763 an Frankreich zurückgegeben und bis 1954 französisch.
+  regions: [suedasien]
+  themes: [handelsnetze, imperien]
+- id: saint-louis-senegal
+  name: Saint-Louis (Senegal)
+  aliases: [Ndar, Saint-Louis du Sénégal]
+  coords: [-16.5000, 16.0300]
+  categories: [stadt, hafen]
+  modernName: Saint-Louis (Senegal)
+  summary: Französischer Handelsposten auf einer Insel in der Senegalmündung, Umschlagplatz für Gummi arabicum und versklavte Menschen; 1758 von den Briten erobert und 1763 behalten, 1779 von Frankreich zurückerobert.
+  regions: [westafrika]
+  themes: [handelsnetze, sklaverei-unfreiheit]

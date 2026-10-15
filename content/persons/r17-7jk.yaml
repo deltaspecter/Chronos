@@ -1,0 +1,193 @@
+# Personen: Siebenjähriger Krieg (r17-7jk)
+- id: maria-theresia
+  name: Maria Theresia
+  aliases: [Maria Theresia von Österreich, Kaiserin Maria Theresia]
+  born: "1717-05-13"
+  died: "1780-11-29"
+  roles: [Erzherzogin von Österreich, Königin von Ungarn und Böhmen, Kaiserin]
+  summary: Tochter Kaiser Karls VI., die 1740 auf Grundlage der Pragmatischen Sanktion die habsburgischen Länder erbte, sie im Österreichischen Erbfolgekrieg behauptete, Schlesien aber an Preußen verlor; ihr Versuch, es im Siebenjährigen Krieg zurückzugewinnen, scheiterte. Den Kaisertitel führte sie als Gemahlin Franz' I. Stephan.
+  regions: [mitteleuropa]
+  themes: [politik, krieg-militaer, verfassung-recht]
+  places: [wien]
+  related: [friedrich-ii-preussen, kaunitz, joseph-ii]
+- id: kaunitz
+  name: Wenzel Anton von Kaunitz
+  aliases: [Wenzel Anton Fürst Kaunitz-Rietberg, Kaunitz-Rietberg]
+  born: "1711-02-02"
+  died: "1794-06-27"
+  roles: [Diplomat, Staatskanzler]
+  summary: Österreichischer Diplomat und ab 1753 Staatskanzler, der das Bündnis mit dem bisherigen Erzfeind Frankreich betrieb, um Preußen zu isolieren und Schlesien zurückzugewinnen; Hauptarchitekt des Renversement des alliances von 1756.
+  regions: [mitteleuropa]
+  themes: [politik]
+  places: [wien, paris]
+  related: [maria-theresia]
+- id: elisabeth-russland
+  name: Elisabeth von Russland
+  aliases: [Elisabeth Petrowna, Jelisaweta Petrowna, Zarin Elisabeth]
+  born: "1709-12-29"
+  died: "1762-01-05"
+  roles: [Kaiserin von Russland]
+  summary: Tochter Peters des Großen, die 1741 durch einen Staatsstreich auf den Thron kam und sich im Siebenjährigen Krieg dem Bündnis gegen Preußen anschloss; ihr Tod im Januar 1762 (nach julianischem Kalender Dezember 1761) ermöglichte Preußens Rettung.
+  regions: [russland]
+  themes: [politik, krieg-militaer]
+  related: [peter-iii-russland, friedrich-ii-preussen]
+- id: peter-iii-russland
+  name: Peter III.
+  aliases: [Peter III. von Russland, Karl Peter Ulrich von Holstein-Gottorf]
+  born: "1728-02-21"
+  died: "1762-07-17"
+  roles: [Kaiser von Russland]
+  summary: Neffe und Nachfolger Elisabeths, ein Bewunderer Friedrichs II., der nach seinem Regierungsantritt 1762 Frieden mit Preußen schloss und ihm alle Eroberungen zurückgab; nach wenigen Monaten von seiner Frau Katharina gestürzt und kurz darauf in Haft getötet.
+  regions: [russland]
+  themes: [politik]
+  related: [elisabeth-russland, katharina-ii, friedrich-ii-preussen]
+- id: william-pitt-der-aeltere
+  name: William Pitt der Ältere
+  aliases: [William Pitt, Earl of Chatham, Pitt the Elder]
+  born: "1708-11-15"
+  died: "1778-05-11"
+  roles: [Staatsmann, Secretary of State]
+  summary: Britischer Politiker, der ab 1756/57 als Staatssekretär die Kriegführung lenkte, Ressourcen gezielt auf den Kampf um die Kolonien und die Flotte konzentrierte und Preußen mit Subsidien unterstützte; 1761 trat er zurück.
+  regions: [britische-inseln]
+  themes: [politik, krieg-militaer, imperien]
+  places: [london]
+- id: georg-ii
+  name: Georg II.
+  aliases: [George II]
+  born: "1683-11-09"
+  died: "1760-10-25"
+  roles: [König von Großbritannien, Kurfürst von Hannover]
+  summary: König von Großbritannien und Kurfürst von Hannover ab 1727, dessen Sorge um sein deutsches Stammland die Westminsterkonvention mit Preußen 1756 mitbestimmte; ihm folgte sein Enkel Georg III.
+  regions: [britische-inseln, deutschland]
+  themes: [politik]
+  places: [london]
+  related: [georg-iii]
+- id: leopold-joseph-von-daun
+  name: Leopold Joseph von Daun
+  aliases: [Daun, Graf Daun]
+  born: "1705-09-24"
+  died: "1766-02-05"
+  roles: [Feldmarschall]
+  summary: Österreichischer Feldmarschall, der Friedrich II. 1757 bei Kolin die erste schwere Niederlage beibrachte und 1758 bei Hochkirch erneut siegte; galt als vorsichtiger Feldherr, der Siege selten energisch ausnutzte.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+  places: [kolin, torgau]
+- id: gideon-ernst-von-laudon
+  name: Gideon Ernst von Laudon
+  aliases: [Loudon, Laudon]
+  born: "1717-02-02"
+  died: "1790-07-14"
+  roles: [Feldmarschall]
+  summary: Aus dem Baltikum stammender österreichischer General, der 1759 mit seinem Korps entscheidend zum russisch-österreichischen Sieg bei Kunersdorf beitrug und 1761 die Festung Schweidnitz eroberte.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+  places: [kunersdorf]
+- id: ferdinand-von-braunschweig
+  name: Ferdinand von Braunschweig-Wolfenbüttel
+  aliases: [Herzog Ferdinand, Prinz Ferdinand von Braunschweig]
+  born: "1721-01-12"
+  died: "1792-07-03"
+  roles: [Feldmarschall]
+  summary: Preußischer General, der ab 1757 die von Großbritannien bezahlte alliierte Armee in Westdeutschland führte und Hannover gegen die Franzosen verteidigte, unter anderem mit dem Sieg bei Minden 1759.
+  regions: [deutschland]
+  themes: [krieg-militaer]
+- id: heinrich-von-preussen
+  name: Heinrich von Preußen
+  aliases: [Prinz Heinrich]
+  born: "1726-01-18"
+  died: "1802-08-03"
+  roles: [Feldherr, Prinz]
+  summary: Jüngerer Bruder Friedrichs II. und einer seiner fähigsten Generäle, der ihm 1759 nach Kunersdorf den Rücken freihielt und im Oktober 1762 bei Freiberg die letzte große Schlacht des Kriegs gewann; stand der Politik seines Bruders oft kritisch gegenüber.
+  regions: [deutschland]
+  themes: [krieg-militaer]
+  related: [friedrich-ii-preussen]
+- id: madame-de-pompadour
+  name: Madame de Pompadour
+  aliases: [Jeanne-Antoinette Poisson, Marquise de Pompadour]
+  born: "1721-12-29"
+  died: "1764-04-15"
+  roles: [Mätresse Ludwigs XV., Kunstförderin]
+  summary: Einflussreiche Vertraute Ludwigs XV., die an den Verhandlungen über das französisch-österreichische Bündnis von 1756 beteiligt war; wie groß ihr politischer Einfluss tatsächlich war, ist umstritten.
+  regions: [frankreich]
+  themes: [politik, kultur-kunst]
+  places: [versailles, paris]
+  related: [ludwig-xv]
+- id: choiseul
+  name: Étienne-François de Choiseul
+  aliases: [Herzog von Choiseul, Duc de Choiseul]
+  born: "1719-06-28"
+  died: "1785-05-08"
+  roles: [Außenminister, Staatsmann]
+  summary: Leitender Minister Ludwigs XV. ab 1758, der 1761 den bourbonischen Familienpakt mit Spanien schloss, den Frieden von Paris aushandelte und danach Flotte und Armee für eine künftige Revanche gegen Großbritannien reformierte.
+  regions: [frankreich]
+  themes: [politik]
+  places: [paris, versailles]
+  related: [ludwig-xv]
+- id: james-wolfe
+  name: James Wolfe
+  born: "1727-01-02"
+  died: "1759-09-13"
+  roles: [General]
+  summary: Britischer General, der 1759 die Belagerung von Québec leitete und in der entscheidenden Schlacht auf den Abrahamfeldern tödlich verwundet wurde; als sterbender Sieger wurde er in Großbritannien zur Heldenfigur.
+  regions: [britische-inseln, nordamerika]
+  themes: [krieg-militaer]
+  places: [quebec, louisbourg]
+- id: montcalm
+  name: Louis-Joseph de Montcalm
+  aliases: [Marquis de Montcalm]
+  born: "1712-02-28"
+  died: "1759-09-14"
+  roles: [General]
+  summary: Befehlshaber der französischen Truppen in Kanada ab 1756, der Oswego, Fort William Henry und Carillon (Ticonderoga) gewann, aber 1759 vor Québec unterlag und am Tag nach der Schlacht seinen Wunden erlag.
+  regions: [frankreich, nordamerika]
+  themes: [krieg-militaer]
+  places: [quebec]
+- id: robert-clive
+  name: Robert Clive
+  aliases: [Clive of India, Baron Clive]
+  born: "1725-09-29"
+  died: "1774-11-22"
+  roles: [Offizier der Ostindien-Kompanie, Gouverneur von Bengalen]
+  summary: Angestellter und Feldherr der britischen Ostindien-Kompanie, der 1757 Kalkutta zurückeroberte und bei Plassey den Nawab von Bengalen besiegte; er wurde dadurch enorm reich und später im Parlament wegen Bereicherung angegriffen.
+  regions: [suedasien, britische-inseln]
+  themes: [krieg-militaer, imperien, wirtschaft-handel]
+  places: [plassey, kalkutta]
+- id: siraj-ud-daula
+  name: Siraj ud-Daula
+  aliases: [Siradsch ud-Daula, Sirajuddaulah]
+  born: "~1733"
+  died: "1757-07-02"
+  roles: [Nawab von Bengalen]
+  summary: Nawab von Bengalen ab 1756, der die befestigte britische Faktorei Kalkutta einnahm, um die Ostindien-Kompanie in die Schranken zu weisen; nach der Niederlage bei Plassey 1757 wurde er gefangen genommen und ermordet.
+  regions: [suedasien]
+  themes: [politik, krieg-militaer]
+  places: [plassey, kalkutta]
+- id: mir-jafar
+  name: Mir Jafar
+  aliases: [Mir Jafar Ali Khan, Mir Dschafar]
+  born: "~1691"
+  died: "1765"
+  roles: [Heerführer, Nawab von Bengalen]
+  summary: Befehlshaber im Heer Siraj ud-Daulas, der sich vor Plassey mit der Ostindien-Kompanie verschwor, seine Truppen aus der Schlacht heraushielt und danach als ihr Schützling Nawab wurde; in Südasien bis heute ein Inbegriff des Verräters.
+  regions: [suedasien]
+  themes: [politik]
+  places: [plassey]
+- id: pontiac
+  name: Pontiac
+  aliases: [Obwandiyag]
+  born: "~1720"
+  died: "1769-04-20"
+  roles: [Anführer der Odawa]
+  summary: Odawa-Anführer aus der Region der Großen Seen, nach dem der Aufstand indigener Nationen gegen die britische Herrschaft 1763 benannt ist; er war einer von mehreren Anführern einer breiten Bewegung, nicht ihr alleiniger Kopf.
+  regions: [nordamerika]
+  themes: [krieg-militaer, politik]
+- id: ulrich-braeker
+  name: Ulrich Bräker
+  aliases: [Der arme Mann im Tockenburg]
+  born: "1735-12-22"
+  died: "1798-09-11"
+  roles: [Kleinbauer, Garnhändler, Autor]
+  summary: Schweizer aus dem Toggenburg, der als junger Mann von Werbern in die preußische Armee gelockt wurde, in der Schlacht bei Lobositz 1756 desertierte und später eine vielgelesene Lebensgeschichte schrieb.
+  regions: [mitteleuropa]
+  themes: [gesellschaft, krieg-militaer, schrift-medien]
+  places: [lobositz]

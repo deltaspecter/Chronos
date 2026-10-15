@@ -1,0 +1,111 @@
+# Quellen und Literatur: Wiener Kongress
+- id: kissinger-1957
+  kind: sekundaer
+  authors: ["Kissinger, Henry A."]
+  title: A World Restored
+  subtitle: Metternich, Castlereagh and the Problems of Peace 1812–22
+  place: Boston
+  publisher: Houghton Mifflin
+  year: 1957
+- id: schroeder-1994
+  kind: sekundaer
+  authors: ["Schroeder, Paul W."]
+  title: The Transformation of European Politics 1763–1848
+  series: Oxford History of Modern Europe
+  place: Oxford
+  publisher: Clarendon Press
+  year: 1994
+- id: vick-2014
+  kind: sekundaer
+  authors: ["Vick, Brian E."]
+  title: The Congress of Vienna
+  subtitle: Power and Politics after Napoleon
+  place: Cambridge, Mass.
+  publisher: Harvard University Press
+  year: 2014
+- id: zamoyski-2007
+  kind: sekundaer
+  authors: ["Zamoyski, Adam"]
+  title: Rites of Peace
+  subtitle: The Fall of Napoleon and the Congress of Vienna
+  place: London
+  publisher: HarperPress
+  year: 2007
+- id: duchhardt-2013
+  kind: sekundaer
+  authors: ["Duchhardt, Heinz"]
+  title: Der Wiener Kongress
+  subtitle: Die Neugestaltung Europas 1814/15
+  place: München
+  publisher: C. H. Beck
+  year: 2013
+- id: siemann-2016
+  kind: sekundaer
+  authors: ["Siemann, Wolfram"]
+  title: Metternich
+  subtitle: Stratege und Visionär. Eine Biografie
+  place: München
+  publisher: C. H. Beck
+  year: 2016
+- id: jarrett-2013
+  kind: sekundaer
+  authors: ["Jarrett, Mark"]
+  title: The Congress of Vienna and Its Legacy
+  subtitle: War and Great Power Diplomacy after Napoleon
+  place: London
+  publisher: I. B. Tauris
+  year: 2013
+- id: nicolson-1946
+  kind: sekundaer
+  authors: ["Nicolson, Harold"]
+  title: The Congress of Vienna
+  subtitle: A Study in Allied Unity, 1812–1822
+  place: London
+  publisher: Constable
+  year: 1946
+- id: sluga-2021
+  kind: sekundaer
+  authors: ["Sluga, Glenda"]
+  title: The Invention of International Order
+  subtitle: Remaking Europe after Napoleon
+  place: Princeton
+  publisher: Princeton University Press
+  year: 2021
+- id: stauber-2014
+  kind: sekundaer
+  authors: ["Stauber, Reinhard"]
+  title: Der Wiener Kongress
+  place: Wien, Köln, Weimar
+  publisher: Böhlau
+  year: 2014
+- id: q-schlussakte-1815
+  kind: primaer
+  title: Schlussakte des Wiener Kongresses (Acte final du Congrès de Vienne)
+  written: Wien, 9. Juni 1815
+  note: Französisch abgefasster Vertrag der acht Signatarmächte des Pariser Friedens mit 121 Artikeln und zahlreichen Anlagen, darunter die Deutsche Bundesakte und die Erklärung gegen den Sklavenhandel.
+- id: q-bundesakte-1815
+  kind: primaer
+  title: Deutsche Bundesakte
+  written: Wien, 8. Juni 1815
+  note: Gründungsvertrag des Deutschen Bundes mit 20 Artikeln, abgedruckt u. a. in der Dokumentensammlung von Ernst Rudolf Huber.
+- id: q-erklaerung-sklavenhandel-1815
+  kind: primaer
+  title: Erklärung der Mächte über die Abschaffung des Negerhandels
+  written: Wien, 8. Februar 1815
+  note: Gemeinsame Erklärung der acht Mächte, die den Sklavenhandel als Verstoß gegen Menschlichkeit und allgemeine Moral verurteilt, seine Abschaffung aber jedem Staat zu einem selbst gewählten Zeitpunkt überlässt; der zeitgenössische Titel verwendet die damals übliche, heute rassistische Bezeichnung.
+- id: q-heilige-allianz-1815
+  kind: primaer
+  title: Vertrag der Heiligen Allianz
+  written: Paris, 26. September 1815
+  note: Von Zar Alexander I. entworfene, von ihm, Kaiser Franz I. und König Friedrich Wilhelm III. unterzeichnete Erklärung, die Politik nach den Geboten der christlichen Religion auszurichten.
+- id: q-quadrupelallianz-1815
+  kind: primaer
+  title: Vertrag der Quadrupelallianz
+  written: Paris, 20. November 1815
+  note: Bündnisvertrag Großbritanniens, Russlands, Österreichs und Preußens, dessen Artikel VI periodische Zusammenkünfte der Herrscher oder ihrer Minister vorsah.
+- id: q-castlereagh-1820
+  kind: primaer
+  authors: ["Castlereagh, Robert Stewart, Viscount"]
+  title: State Paper vom 5. Mai 1820
+  written: London, 5. Mai 1820
+  note: Vertrauliche Denkschrift des britischen Außenministers an die Verbündeten, die ein allgemeines Recht der Allianz zur Intervention in innere Angelegenheiten anderer Staaten zurückwies.

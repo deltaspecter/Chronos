@@ -1,0 +1,108 @@
+# Orte: Englische Revolution und Glorious Revolution (r17-england)
+- id: whitehall
+  name: Whitehall
+  aliases: [Banqueting House, Palace of Whitehall]
+  coords: [-0.1260, 51.5045]
+  categories: [hauptstadt]
+  modernName: Banqueting House, Whitehall, London (England)
+  summary: Königliche Hauptresidenz in Westminster, von der nach dem Brand von 1698 vor allem das von Inigo Jones erbaute Banqueting House erhalten ist; vor ihm wurde Karl I. am 30. Januar 1649 enthauptet, später residierte hier Cromwell als Lord Protector.
+  regions: [britische-inseln]
+  themes: [politik]
+- id: westminster-palast
+  name: Palast von Westminster
+  aliases: [Westminster, Westminster Hall, Palace of Westminster]
+  coords: [-0.1246, 51.4995]
+  categories: [hauptstadt]
+  modernName: Houses of Parliament, London (England)
+  summary: Mittelalterlicher Königspalast, seit dem Spätmittelalter Tagungsort von Ober- und Unterhaus; in der Westminster Hall fand im Januar 1649 der Prozess gegen Karl I. statt.
+  regions: [britische-inseln]
+  themes: [politik, verfassung-recht]
+- id: putney
+  name: Putney
+  aliases: [St Mary's Church, Putney]
+  coords: [-0.2147, 51.4669]
+  categories: [stadt]
+  modernName: Putney, London (England)
+  summary: Damals Dorf an der Themse westlich von London, in dessen Kirche St Mary der Generalrat der New Model Army im Herbst 1647 über Wahlrecht und Verfassung debattierte.
+  regions: [britische-inseln]
+  themes: [politik, revolutionen]
+- id: oxford
+  name: Oxford
+  coords: [-1.2577, 51.7520]
+  categories: [stadt, kulturzentrum]
+  modernName: Oxford (England)
+  summary: Universitätsstadt, die Karl I. von Ende 1642 bis zu ihrer Kapitulation im Juni 1646 als royalistisches Hauptquartier und Residenz diente.
+  regions: [britische-inseln]
+  themes: [politik, wissenschaft-technik]
+- id: edgehill
+  name: Edgehill
+  coords: [-1.4750, 52.1350]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Edgehill, Warwickshire (England)
+  summary: Höhenzug in Warwickshire, an dessen Fuß am 23. Oktober 1642 die erste große Schlacht des Englischen Bürgerkriegs ohne klaren Sieger endete.
+  regions: [britische-inseln]
+  themes: [krieg-militaer]
+- id: marston-moor
+  name: Marston Moor
+  coords: [-1.2650, 53.9600]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Long Marston, North Yorkshire (England)
+  summary: Moorgebiet westlich von York, auf dem parlamentarische und schottische Truppen am 2. Juli 1644 die Royalisten schlugen und so Nordengland gewannen.
+  regions: [britische-inseln]
+  themes: [krieg-militaer]
+- id: naseby
+  name: Naseby
+  coords: [-0.9900, 52.4000]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Naseby, Northamptonshire (England)
+  summary: Dorf in Northamptonshire, bei dem die New Model Army am 14. Juni 1645 das Hauptheer Karls I. vernichtend schlug.
+  regions: [britische-inseln]
+  themes: [krieg-militaer]
+- id: worcester
+  name: Worcester
+  coords: [-2.2200, 52.1920]
+  categories: [stadt, schlachtfeld]
+  modernName: Worcester (England)
+  summary: Stadt am Severn, bei der Cromwell am 3. September 1651 das schottisch-royalistische Heer Karls II. schlug; die letzte Schlacht der Bürgerkriege.
+  regions: [britische-inseln]
+  themes: [krieg-militaer]
+- id: drogheda
+  name: Drogheda
+  aliases: [Droichead Átha]
+  coords: [-6.3478, 53.7179]
+  categories: [stadt, hafen]
+  modernName: Drogheda, County Louth (Irland)
+  summary: Befestigte Hafenstadt am Boyne nördlich von Dublin, deren royalistisch-katholische Garnison Cromwells Truppen nach der Erstürmung am 11. September 1649 niedermachten; Inbegriff der Gewalt der Cromwell'schen Eroberung Irlands.
+  regions: [britische-inseln]
+  themes: [krieg-militaer, gewalt-genozid]
+- id: wexford
+  name: Wexford
+  aliases: [Loch Garman]
+  coords: [-6.4633, 52.3369]
+  categories: [stadt, hafen]
+  modernName: Wexford, County Wexford (Irland)
+  summary: Hafenstadt im Südosten Irlands, bei deren Einnahme im Oktober 1649 Cromwells Soldaten Verteidiger und zahlreiche Einwohner töteten.
+  regions: [britische-inseln]
+  themes: [krieg-militaer, gewalt-genozid]
+- id: brixham
+  name: Brixham
+  aliases: [Torbay]
+  coords: [-3.5150, 50.3950]
+  categories: [hafen]
+  modernName: Brixham, Devon (England)
+  summary: Fischerhafen an der Torbay in Devon, in dem Wilhelm von Oranien am 5. November 1688 mit seiner Invasionsarmee landete.
+  regions: [britische-inseln]
+  themes: [politik, krieg-militaer]
+- id: boyne
+  name: Boyne
+  aliases: [Oldbridge, Schlachtfeld am Boyne]
+  coords: [-6.4170, 53.7230]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Oldbridge, County Meath (Irland)
+  summary: Fluss westlich von Drogheda, an dem Wilhelm III. am 1. Juli 1690 (alter Stil) das Heer Jakobs II. schlug.
+  regions: [britische-inseln]
+  themes: [krieg-militaer]

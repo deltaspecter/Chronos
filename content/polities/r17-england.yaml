@@ -1,0 +1,48 @@
+# Staaten: Englische Revolution und Glorious Revolution (r17-england)
+- id: koenigreich-schottland
+  name: Königreich Schottland
+  aliases: [Scotland, Alba]
+  start: "~843"
+  end: "1707"
+  spanNote: Die Entstehung wird traditionell mit Kenneth MacAlpin um 843 verbunden, der Name Alba ist seit etwa 900 belegt. Seit 1603 teilte Schottland den König mit England (Personalunion), 1707 ging es im Königreich Großbritannien auf.
+  capital: edinburgh
+  summary: Königreich im Norden Großbritanniens mit eigenem Parlament, Recht und einer seit der Reformation presbyterianisch geprägten Kirche; sein Aufstand gegen Karl I. 1637–1640 eröffnete die Kriege der drei Königreiche.
+  regions: [britische-inseln]
+  themes: [politik, religion]
+  successors: [koenigreich-grossbritannien]
+  weight: 2
+- id: koenigreich-irland
+  name: Königreich Irland
+  aliases: [Kingdom of Ireland]
+  start: "1542"
+  end: "1800"
+  spanNote: 1542 nahm Heinrich VIII. den Titel König von Irland an; 1801 trat die Union mit Großbritannien in Kraft.
+  capital: dublin
+  summary: Von der englischen Krone regiertes Königreich mit eigenem, von protestantischen Eliten beherrschtem Parlament in Dublin, dessen mehrheitlich katholische Bevölkerung im 17. Jahrhundert durch Ansiedlungen (Plantations), Krieg und Konfiskationen den größten Teil ihres Landbesitzes verlor.
+  regions: [britische-inseln]
+  themes: [politik, religion]
+  successors: [vereinigtes-koenigreich]
+  weight: 2
+- id: konfoederation-von-kilkenny
+  name: Konföderation von Kilkenny
+  aliases: [Irische Konföderation, Confederate Ireland, Confederate Catholics of Ireland]
+  start: "1642"
+  end: "1649"
+  spanNote: Die Versammlung der katholischen Konföderierten trat 1642 in Kilkenny zusammen; 1649 löste sie sich zugunsten eines Bündnisses mit den Royalisten auf, kurz bevor Cromwell landete.
+  summary: Bündnis irischer und altenglischer Katholiken, das nach dem Aufstand von 1641 große Teile Irlands verwaltete, Karl I. die Treue erklärte und freie Ausübung des katholischen Glaubens forderte.
+  regions: [britische-inseln]
+  themes: [politik, religion, krieg-militaer]
+  weight: 3
+- id: commonwealth-england
+  name: Commonwealth von England
+  aliases: [Commonwealth of England, Englische Republik, Protektorat]
+  start: "1649-05-19"
+  end: "1660-05-29"
+  spanNote: Nach Abschaffung von Königtum und Oberhaus im März 1649 erklärte das Rumpfparlament England am 19. Mai zum Commonwealth; 1653–1659 regierten Oliver und Richard Cromwell als Lord Protector. Schottland und Irland wurden erobert und 1654 der Republik eingegliedert.
+  capital: london
+  summary: Einzige republikanische Staatsform in der Geschichte Englands, getragen vom Rumpfparlament und der New Model Army, ab 1653 als Protektorat unter Oliver Cromwell; endete mit der Restauration der Monarchie 1660.
+  regions: [britische-inseln]
+  themes: [politik, revolutionen, verfassung-recht]
+  predecessors: [koenigreich-england]
+  successors: [koenigreich-england]
+  weight: 2

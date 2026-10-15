@@ -1,0 +1,196 @@
+# Ereignisse: Wiener Kongress
+- id: vertrag-von-chaumont
+  title: Vertrag von Chaumont
+  date: "1814-03"
+  dateNote: Auf den 1. März 1814 datiert, nach verbreiteter Angabe einige Tage später unterzeichnet.
+  weight: 3
+  kind: vertrag
+  summary: Großbritannien, Russland, Österreich und Preußen verpflichten sich, den Krieg gegen Napoleon gemeinsam bis zum Sieg zu führen und ihr Bündnis zwanzig Jahre lang aufrechtzuerhalten; Großbritannien sagt hohe Subsidien zu.
+  regions: [europa, frankreich]
+  themes: [politik, krieg-militaer]
+  places: [chaumont]
+  persons: [castlereagh, klemens-von-metternich, karl-august-von-hardenberg, alexander-i]
+  polities: [vereinigtes-koenigreich, russisches-kaiserreich, habsburgermonarchie, koenigreich-preussen]
+- id: abdankung-napoleons-1814
+  title: Erste Abdankung Napoleons
+  date: "1814-04-06"
+  weight: 2
+  kind: ereignis
+  summary: Nach dem Einzug der Verbündeten in Paris dankt Napoleon in Fontainebleau ab; der Vertrag von Fontainebleau überlässt ihm die Insel Elba als souveränes Fürstentum, in Paris kehren die Bourbonen mit Ludwig XVIII. zurück.
+  regions: [frankreich]
+  themes: [politik]
+  places: [fontainebleau, paris, elba]
+  persons: [napoleon-bonaparte, ludwig-xviii, talleyrand]
+  polities: [erstes-franzoesisches-kaiserreich, frankreich-restauration]
+- id: erster-pariser-frieden
+  title: Erster Pariser Frieden
+  date: "1814-05-30"
+  weight: 2
+  kind: vertrag
+  summary: Die Verbündeten schließen mit dem bourbonischen Frankreich einen milden Frieden – Frankreich behält im Wesentlichen die Grenzen von 1792, zahlt keine Kriegsentschädigung und erhält die meisten Kolonien zurück; ein Kongress in Wien soll die übrigen Fragen regeln.
+  regions: [europa, frankreich]
+  themes: [politik, verfassung-recht]
+  places: [paris]
+  persons: [talleyrand, castlereagh, klemens-von-metternich, ludwig-xviii]
+  polities: [frankreich-restauration, vereinigtes-koenigreich, russisches-kaiserreich, habsburgermonarchie, koenigreich-preussen]
+- id: geheimbuendnis-januar-1815
+  title: Geheimbündnis vom 3. Januar 1815
+  date: "1815-01-03"
+  weight: 3
+  kind: vertrag
+  summary: Auf dem Höhepunkt der polnisch-sächsischen Krise verpflichten sich Österreich, Großbritannien und Frankreich in einem geheimen Defensivbündnis zu gegenseitigem Beistand gegen Russland und Preußen; kurz darauf lenken beide Mächte ein.
+  regions: [europa]
+  themes: [politik]
+  places: [wien]
+  persons: [klemens-von-metternich, castlereagh, talleyrand]
+  polities: [habsburgermonarchie, vereinigtes-koenigreich, frankreich-restauration]
+- id: erklaerung-sklavenhandel-1815
+  title: Erklärung des Wiener Kongresses gegen den Sklavenhandel
+  date: "1815-02-08"
+  weight: 2
+  kind: vertrag
+  summary: Auf britischen Druck erklären die acht Signatarmächte des Pariser Friedens den transatlantischen Sklavenhandel für unvereinbar mit den Grundsätzen der Menschlichkeit und versprechen seine Abschaffung, ohne jedoch einen Termin festzulegen; die Erklärung wird der Schlussakte beigefügt.
+  regions: [europa, atlantik, westafrika]
+  themes: [sklaverei-unfreiheit, verfassung-recht]
+  places: [wien]
+  persons: [castlereagh, william-wilberforce]
+  polities: [vereinigtes-koenigreich, frankreich-restauration, koenigreich-portugal]
+- id: herrschaft-der-hundert-tage
+  title: Herrschaft der Hundert Tage
+  start: "1815-03-01"
+  end: "1815-07-08"
+  dateNote: Gezählt wird meist vom Einzug in Paris am 20. März bis zur Rückkehr Ludwigs XVIII. am 8. Juli; Napoleon landete am 1. März bei Antibes.
+  weight: 2
+  kind: herrschaft
+  summary: Napoleon verlässt Elba, landet an der Mittelmeerküste und übernimmt ohne Kampf wieder die Macht in Paris; die in Wien versammelten Mächte erklären ihn am 13. März für vogelfrei und erneuern ihr Kriegsbündnis, bis er bei Waterloo geschlagen wird.
+  regions: [frankreich, westeuropa]
+  themes: [politik, krieg-militaer]
+  places: [elba, paris, waterloo, wien]
+  persons: [napoleon-bonaparte, ludwig-xviii, wellington, gebhard-leberecht-von-bluecher]
+  polities: [erstes-franzoesisches-kaiserreich, frankreich-restauration]
+- id: deutsche-bundesakte
+  title: Deutsche Bundesakte
+  date: "1815-06-08"
+  weight: 2
+  kind: vertrag
+  summary: Die deutschen Fürsten und Freien Städte gründen den Deutschen Bund als lockeren Staatenbund mit einer Bundesversammlung in Frankfurt unter österreichischem Vorsitz; Artikel 13 verspricht landständische Verfassungen, Artikel 16 regelt Religionsgleichheit der Christen und vertagt die Rechte der Juden.
+  regions: [deutschland, mitteleuropa]
+  themes: [verfassung-recht, politik]
+  places: [wien, frankfurt]
+  persons: [klemens-von-metternich, karl-august-von-hardenberg, wilhelm-von-humboldt]
+  polities: [deutscher-bund, habsburgermonarchie, koenigreich-preussen, koenigreich-sachsen, koenigreich-bayern]
+- id: schlussakte-wiener-kongress
+  title: Schlussakte des Wiener Kongresses
+  date: "1815-06-09"
+  weight: 1
+  kind: vertrag
+  summary: Die Wiener Kongressakte fasst in 121 Artikeln die territorialen Regelungen des Kongresses zusammen – von Polen, Sachsen und den Niederlanden über den Deutschen Bund bis zu Italien und der Schweiz – und ist bis 1914 die Grundlage der europäischen Staatenordnung.
+  regions: [europa]
+  themes: [verfassung-recht, politik]
+  places: [wien]
+  persons: [klemens-von-metternich, castlereagh, talleyrand, karl-august-von-hardenberg, karl-robert-von-nesselrode]
+  polities: [habsburgermonarchie, vereinigtes-koenigreich, russisches-kaiserreich, koenigreich-preussen, frankreich-restauration, kongresspolen, deutscher-bund]
+- id: heilige-allianz
+  title: Heilige Allianz
+  date: "1815-09-26"
+  weight: 2
+  kind: vertrag
+  summary: Auf Initiative Alexanders I. versprechen der Zar, Kaiser Franz I. und Friedrich Wilhelm III., ihre Herrschaft nach den Grundsätzen der christlichen Religion zu führen und einander als Brüder beizustehen; fast alle christlichen Monarchen Europas treten bei, nicht aber Großbritannien und der Papst.
+  regions: [europa]
+  themes: [politik, religion]
+  places: [paris]
+  persons: [alexander-i, franz-ii, friedrich-wilhelm-iii, klemens-von-metternich]
+  polities: [russisches-kaiserreich, habsburgermonarchie, koenigreich-preussen]
+- id: zweiter-pariser-frieden
+  title: Zweiter Pariser Frieden
+  date: "1815-11-20"
+  weight: 2
+  kind: vertrag
+  summary: Nach den Hundert Tagen muss Frankreich weitere Grenzgebiete wie Saarlouis und Landau abtreten, eine Kriegsentschädigung von 700 Millionen Francs zahlen und eine Besatzung von bis zu fünf Jahren hinnehmen.
+  regions: [frankreich, europa]
+  themes: [politik, verfassung-recht]
+  places: [paris]
+  persons: [ludwig-xviii, castlereagh, wellington]
+  polities: [frankreich-restauration, vereinigtes-koenigreich, russisches-kaiserreich, habsburgermonarchie, koenigreich-preussen]
+- id: quadrupelallianz-1815
+  title: Quadrupelallianz
+  date: "1815-11-20"
+  weight: 2
+  kind: vertrag
+  summary: Am Tag des Zweiten Pariser Friedens erneuern Großbritannien, Russland, Österreich und Preußen ihr Bündnis gegen eine Rückkehr Napoleons und vereinbaren in Artikel VI regelmäßige Treffen der Herrscher oder Minister – die Grundlage des Kongresssystems.
+  regions: [europa]
+  themes: [politik]
+  places: [paris]
+  persons: [castlereagh, klemens-von-metternich, alexander-i]
+  polities: [vereinigtes-koenigreich, russisches-kaiserreich, habsburgermonarchie, koenigreich-preussen]
+- id: kongress-von-aachen
+  title: Kongress von Aachen
+  start: "1818-09"
+  end: "1818-11"
+  weight: 3
+  kind: ereignis
+  summary: Erster Kongress der Großmächte nach 1815; beschließt den vorzeitigen Abzug der Besatzungstruppen aus Frankreich und nimmt Frankreich in den Kreis der Großmächte auf, aus der Quadrupel- wird faktisch eine Quintupelallianz.
+  regions: [europa, deutschland]
+  themes: [politik]
+  places: [aachen]
+  persons: [klemens-von-metternich, castlereagh, alexander-i, wellington]
+  polities: [frankreich-restauration, vereinigtes-koenigreich, russisches-kaiserreich, habsburgermonarchie, koenigreich-preussen]
+- id: karlsbader-beschluesse
+  title: Karlsbader Beschlüsse
+  date: "1819-09-20"
+  dateNote: Im August 1819 in Karlsbad ausgehandelt, am 20. September vom Bundestag in Frankfurt angenommen.
+  weight: 2
+  kind: gesetz
+  summary: Nach der Ermordung des Schriftstellers August von Kotzebue setzt Metternich im Deutschen Bund Pressezensur, die Überwachung der Universitäten, das Verbot der Burschenschaften und eine Untersuchungskommission gegen „demagogische Umtriebe“ durch.
+  regions: [deutschland]
+  themes: [politik, schrift-medien]
+  places: [frankfurt]
+  persons: [klemens-von-metternich, friedrich-von-gentz]
+  polities: [deutscher-bund, habsburgermonarchie, koenigreich-preussen]
+- id: kongress-von-troppau
+  title: Kongress von Troppau
+  start: "1820-10"
+  end: "1820-12"
+  weight: 3
+  kind: ereignis
+  summary: Unter dem Eindruck der Revolutionen in Spanien, Portugal und Neapel beanspruchen Österreich, Russland und Preußen im Troppauer Protokoll das Recht, gegen revolutionär veränderte Staaten einzuschreiten; Großbritannien und Frankreich schließen sich nicht an.
+  regions: [europa, mitteleuropa]
+  themes: [politik, revolutionen]
+  places: [troppau]
+  persons: [klemens-von-metternich, alexander-i, ioannis-kapodistrias]
+  polities: [habsburgermonarchie, russisches-kaiserreich, koenigreich-preussen]
+- id: kongress-von-laibach
+  title: Kongress von Laibach
+  start: "1821-01"
+  end: "1821-05"
+  weight: 3
+  kind: ereignis
+  summary: Fortsetzung von Troppau unter Beteiligung König Ferdinands von Neapel; die Ostmächte ermächtigen Österreich zum militärischen Eingreifen, worauf österreichische Truppen die Verfassungsbewegungen in Neapel und Piemont niederwerfen.
+  regions: [europa, italien]
+  themes: [politik, revolutionen, krieg-militaer]
+  places: [ljubljana, neapel, turin]
+  persons: [klemens-von-metternich, alexander-i]
+  polities: [habsburgermonarchie, russisches-kaiserreich, koenigreich-preussen, koenigreich-beider-sizilien, koenigreich-sardinien]
+- id: kongress-von-verona
+  title: Kongress von Verona
+  start: "1822-10"
+  end: "1822-12"
+  weight: 3
+  kind: ereignis
+  summary: Letzter der großen Kongresse; die Ostmächte unterstützen eine französische Intervention gegen die liberale Regierung in Spanien, während Großbritannien unter seinem neuen Außenminister Canning auf Distanz geht – das Ende des gemeinsamen Kongresssystems.
+  regions: [europa, italien, iberische-halbinsel]
+  themes: [politik]
+  places: [verona]
+  persons: [klemens-von-metternich, alexander-i, wellington, george-canning]
+  polities: [habsburgermonarchie, russisches-kaiserreich, koenigreich-preussen, frankreich-restauration, vereinigtes-koenigreich]
+- id: franzoesische-intervention-spanien-1823
+  title: Französische Intervention in Spanien
+  start: "1823-04"
+  end: "1823-10"
+  weight: 3
+  kind: krieg
+  summary: Ein französisches Heer, die sogenannten „Hunderttausend Söhne des heiligen Ludwig“, beendet das liberale Verfassungsregime in Spanien und setzt Ferdinand VII. wieder als absoluten König ein; Großbritannien und die USA wenden sich gegen eine Ausweitung der Intervention auf Lateinamerika.
+  regions: [iberische-halbinsel, frankreich]
+  themes: [krieg-militaer, revolutionen]
+  persons: [george-canning]
+  polities: [frankreich-restauration]

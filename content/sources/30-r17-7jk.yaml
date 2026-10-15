@@ -1,0 +1,185 @@
+# Quellen und Literatur: Siebenjähriger Krieg (r17-7jk)
+
+# --- Forschung ---
+- id: fuessel-2019
+  kind: sekundaer
+  authors: ["Füssel, Marian"]
+  title: Der Preis des Ruhms
+  subtitle: Eine Weltgeschichte des Siebenjährigen Krieges 1756–1763
+  place: München
+  publisher: C. H. Beck
+  year: 2019
+- id: fuessel-2010
+  kind: sekundaer
+  authors: ["Füssel, Marian"]
+  title: Der Siebenjährige Krieg
+  subtitle: Ein Weltkrieg im 18. Jahrhundert
+  series: Beck'sche Reihe – C. H. Beck Wissen
+  place: München
+  publisher: C. H. Beck
+  year: 2010
+- id: baugh-2011
+  kind: sekundaer
+  authors: ["Baugh, Daniel"]
+  title: The Global Seven Years War, 1754–1763
+  subtitle: Britain and France in a Great Power Contest
+  place: Harlow
+  publisher: Longman
+  year: 2011
+- id: anderson-2000
+  kind: sekundaer
+  authors: ["Anderson, Fred"]
+  title: Crucible of War
+  subtitle: The Seven Years' War and the Fate of Empire in British North America, 1754–1766
+  place: New York
+  publisher: Alfred A. Knopf
+  year: 2000
+- id: szabo-2008
+  kind: sekundaer
+  authors: ["Szabo, Franz A. J."]
+  title: The Seven Years War in Europe, 1756–1763
+  place: Harlow
+  publisher: Pearson Longman
+  year: 2008
+- id: showalter-1996
+  kind: sekundaer
+  authors: ["Showalter, Dennis E."]
+  title: The Wars of Frederick the Great
+  place: London / New York
+  publisher: Longman
+  year: 1996
+- id: kunisch-2004
+  kind: sekundaer
+  authors: ["Kunisch, Johannes"]
+  title: Friedrich der Große
+  subtitle: Der König und seine Zeit
+  place: München
+  publisher: C. H. Beck
+  year: 2004
+- id: kunisch-1978
+  kind: sekundaer
+  authors: ["Kunisch, Johannes"]
+  title: Das Mirakel des Hauses Brandenburg
+  subtitle: Studien zum Verhältnis von Kabinettspolitik und Kriegführung im Zeitalter des Siebenjährigen Krieges
+  place: München / Wien
+  publisher: Oldenbourg
+  year: 1978
+- id: luh-2011
+  kind: sekundaer
+  authors: ["Luh, Jürgen"]
+  title: Der Große
+  subtitle: Friedrich II. von Preußen
+  place: München
+  publisher: Siedler
+  year: 2011
+- id: blanning-2015
+  kind: sekundaer
+  authors: ["Blanning, Tim"]
+  title: Frederick the Great
+  subtitle: King of Prussia
+  place: London
+  publisher: Allen Lane
+  year: 2015
+- id: stollberg-rilinger-2017
+  kind: sekundaer
+  authors: ["Stollberg-Rilinger, Barbara"]
+  title: Maria Theresia
+  subtitle: Die Kaiserin in ihrer Zeit. Eine Biographie
+  place: München
+  publisher: C. H. Beck
+  year: 2017
+- id: dull-2005
+  kind: sekundaer
+  authors: ["Dull, Jonathan R."]
+  title: The French Navy and the Seven Years' War
+  place: Lincoln
+  publisher: University of Nebraska Press
+  year: 2005
+- id: brewer-1989
+  kind: sekundaer
+  authors: ["Brewer, John"]
+  title: The Sinews of Power
+  subtitle: War, Money and the English State, 1688–1783
+  place: London
+  publisher: Unwin Hyman
+  year: 1989
+- id: marshall-2005
+  kind: sekundaer
+  authors: ["Marshall, P. J."]
+  title: The Making and Unmaking of Empires
+  subtitle: Britain, India, and America c. 1750–1783
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2005
+- id: dalrymple-2019
+  kind: sekundaer
+  authors: ["Dalrymple, William"]
+  title: The Anarchy
+  subtitle: The Relentless Rise of the East India Company
+  place: London
+  publisher: Bloomsbury
+  year: 2019
+- id: white-1991
+  kind: sekundaer
+  authors: ["White, Richard"]
+  title: The Middle Ground
+  subtitle: Indians, Empires, and Republics in the Great Lakes Region, 1650–1815
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1991
+- id: calloway-2006
+  kind: sekundaer
+  authors: ["Calloway, Colin G."]
+  title: The Scratch of a Pen
+  subtitle: 1763 and the Transformation of North America
+  place: Oxford / New York
+  publisher: Oxford University Press
+  year: 2006
+
+# --- Primärquellen ---
+- id: q-friedrich-histoire-guerre
+  kind: primaer
+  authors: ["Friedrich II. von Preußen"]
+  title: Histoire de la guerre de sept ans
+  written: Potsdam, um 1763/64; postum 1788 gedruckt
+  note: Darstellung des Kriegs aus der Feder des preußischen Königs, die seine Entscheidungen rechtfertigt und das Bild des Kriegs in Preußen nachhaltig prägte.
+- id: q-braeker-lebensgeschichte
+  kind: primaer
+  authors: ["Bräker, Ulrich"]
+  title: Lebensgeschichte und Natürliche Ebentheuer des Armen Mannes im Tockenburg
+  written: Toggenburg (Schweiz), 1780er Jahre; gedruckt Zürich 1789
+  note: Autobiografie eines Schweizer Kleinbauernsohns, der in die preußische Armee gepresst wurde und in der Schlacht bei Lobositz 1756 desertierte – eines der seltenen Selbstzeugnisse eines einfachen Soldaten.
+- id: q-gleim-kriegslieder
+  kind: primaer
+  authors: ["Gleim, Johann Wilhelm Ludwig"]
+  title: Preussische Kriegslieder in den Feldzügen 1756 und 1757 von einem Grenadier
+  written: Halberstadt / Berlin, 1758
+  note: Patriotische Gedichtsammlung, die einem fiktiven Grenadier in den Mund gelegt ist und die Verehrung Friedrichs II. schon während des Kriegs literarisch formte.
+- id: q-voltaire-candide
+  kind: primaer
+  authors: ["Voltaire"]
+  title: Candide ou l'Optimisme
+  written: Genf, 1759
+  note: Satirischer Roman, der die Grausamkeit des Kriegs verspottet und den Kolonialkonflikt in Kanada als Streit um ein paar Morgen Schnee abtut.
+- id: q-lessing-minna
+  kind: primaer
+  authors: ["Lessing, Gotthold Ephraim"]
+  title: Minna von Barnhelm, oder das Soldatenglück
+  written: Berlin / Hamburg, 1763–1767
+  note: Lustspiel, das unmittelbar nach Kriegsende spielt und die Lage abgedankter Offiziere sowie das Verhältnis von Preußen und Sachsen verarbeitet.
+- id: q-ghulam-husain-siyar
+  kind: primaer
+  authors: ["Ghulam Husain Khan Tabatabai"]
+  title: Siyar al-Muta'akhkhirin
+  written: Bengalen, um 1780/81
+  note: Persischsprachige Chronik eines Angehörigen der nordindischen Elite, die den Niedergang der Moguln und den Aufstieg der Ostindien-Kompanie in Bengalen aus indischer Sicht schildert.
+- id: q-frieden-paris-1763
+  kind: primaer
+  title: Definitivfrieden von Paris zwischen Großbritannien, Frankreich und Spanien
+  written: Paris, 10. Februar 1763
+  note: Vertrag, der den Krieg in Übersee beendete und die Gebietsverschiebungen in Nordamerika, der Karibik, Westafrika und Indien festschrieb.
+- id: q-frieden-hubertusburg
+  kind: primaer
+  title: Friedensverträge von Hubertusburg
+  written: Schloss Hubertusburg (Sachsen), 15. Februar 1763
+  note: Verträge Preußens mit Österreich und mit Sachsen, die den Krieg in Mitteleuropa auf der Grundlage des Vorkriegsstands beendeten.

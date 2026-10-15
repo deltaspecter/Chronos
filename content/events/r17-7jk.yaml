@@ -1,0 +1,301 @@
+# Ereignisse: Siebenjähriger Krieg (r17-7jk)
+- id: pragmatische-sanktion
+  title: Pragmatische Sanktion
+  date: "1713-04-19"
+  weight: 3
+  kind: gesetz
+  summary: Hausgesetz Kaiser Karls VI., das die Unteilbarkeit der habsburgischen Länder festlegte und die Erbfolge auch in weiblicher Linie sicherte; Karl VI. ließ es sich von den europäischen Mächten garantieren, doch nach seinem Tod 1740 wurde es von mehreren Mächten missachtet.
+  regions: [mitteleuropa]
+  themes: [verfassung-recht, politik]
+  polities: [habsburgermonarchie]
+- id: oesterreichischer-erbfolgekrieg
+  title: Österreichischer Erbfolgekrieg
+  start: "1740-12-16"
+  end: "1748-10-18"
+  weight: 2
+  kind: krieg
+  summary: Nach dem Tod Karls VI. bestreiten Preußen, Bayern, Frankreich, Spanien und Sachsen das Erbe Maria Theresias; Großbritannien unterstützt Österreich. Im Frieden von Aachen 1748 behauptet Maria Theresia ihre Herrschaft, muss aber Schlesien an Preußen abtreten. Der britisch-französische Kolonialkonflikt bleibt ungelöst.
+  regions: [europa, nordamerika, suedasien]
+  themes: [krieg-militaer, politik]
+  persons: [maria-theresia, friedrich-ii-preussen]
+  polities: [habsburgermonarchie, koenigreich-preussen, koenigreich-frankreich, koenigreich-grossbritannien]
+- id: erster-schlesischer-krieg
+  title: Erster Schlesischer Krieg
+  start: "1740-12-16"
+  end: "1742-07-28"
+  weight: 3
+  kind: krieg
+  summary: Friedrich II. fällt ohne Kriegserklärung in das habsburgische Schlesien ein und behauptet es nach den Siegen bei Mollwitz (1741) und Chotusitz (1742); im Frieden von Breslau und Berlin 1742 tritt Maria Theresia den größten Teil Schlesiens ab.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+  places: [schlesien]
+  persons: [friedrich-ii-preussen, maria-theresia]
+  polities: [koenigreich-preussen, habsburgermonarchie]
+- id: zweiter-schlesischer-krieg
+  title: Zweiter Schlesischer Krieg
+  start: "1744-08"
+  end: "1745-12-25"
+  weight: 3
+  kind: krieg
+  summary: Aus Sorge vor einer österreichischen Rückeroberung greift Friedrich II. erneut an; nach Siegen unter anderem bei Hohenfriedberg bestätigt der Frieden von Dresden Preußens Besitz Schlesiens.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+  places: [schlesien, dresden]
+  persons: [friedrich-ii-preussen, maria-theresia]
+  polities: [koenigreich-preussen, habsburgermonarchie, kurfuerstentum-sachsen]
+- id: kapitulation-fort-necessity
+  title: Jumonville Glen und Fort Necessity
+  start: "1754-05-28"
+  end: "1754-07-03"
+  weight: 2
+  kind: schlacht
+  summary: Virginische Milizen unter dem 22-jährigen George Washington und verbündete Krieger unter dem Seneca-Anführer Tanaghrisson überfallen eine französische Abteilung im Ohiotal; ihr Befehlshaber Jumonville wird getötet. Im Juli muss sich Washington in Fort Necessity ergeben. Die Gefechte gelten als Auftakt des Kriegs in Nordamerika.
+  regions: [nordamerika]
+  themes: [krieg-militaer]
+  places: [fort-necessity]
+  persons: [george-washington]
+  polities: [dreizehn-kolonien, neufrankreich]
+- id: schlacht-am-monongahela
+  title: Niederlage Braddocks am Monongahela
+  date: "1755-07-09"
+  weight: 3
+  kind: schlacht
+  summary: Eine britisch-koloniale Armee unter General Edward Braddock auf dem Marsch gegen Fort Duquesne wird von Franzosen, kanadischen Milizen und indigenen Kriegern vernichtend geschlagen; Braddock fällt, George Washington führt die Reste zurück.
+  regions: [nordamerika]
+  themes: [krieg-militaer]
+  places: [fort-duquesne]
+  persons: [george-washington]
+  polities: [koenigreich-grossbritannien, neufrankreich]
+- id: westminsterkonvention
+  title: Westminsterkonvention
+  date: "1756-01-16"
+  weight: 3
+  kind: vertrag
+  summary: Großbritannien und Preußen verpflichten sich, fremde Truppen von deutschem Boden fernzuhalten; London will so Hannover schützen. Der Vertrag stößt Frankreich und Russland vor den Kopf und löst die Umkehr der Bündnisse aus.
+  regions: [britische-inseln, deutschland]
+  themes: [politik]
+  places: [london]
+  persons: [friedrich-ii-preussen, georg-ii]
+  polities: [koenigreich-grossbritannien, koenigreich-preussen, kurfuerstentum-hannover]
+- id: vertrag-von-versailles-1756
+  title: Erster Vertrag von Versailles
+  date: "1756-05-01"
+  weight: 2
+  kind: vertrag
+  summary: Österreich und Frankreich, jahrhundertelang Gegner, schließen ein Defensivbündnis – den Kern des Renversement des alliances. Im zweiten Versailler Vertrag vom Mai 1757 wird daraus ein Angriffsbündnis gegen Preußen.
+  regions: [frankreich, mitteleuropa]
+  themes: [politik]
+  places: [versailles]
+  persons: [kaunitz, maria-theresia, ludwig-xv, madame-de-pompadour]
+  polities: [habsburgermonarchie, koenigreich-frankreich]
+- id: einmarsch-in-sachsen-1756
+  title: Preußischer Einmarsch in Sachsen
+  start: "1756-08-29"
+  end: "1756-10-16"
+  weight: 2
+  kind: krieg
+  summary: Friedrich II. besetzt ohne Kriegserklärung das neutrale Kurfürstentum Sachsen, um einem befürchteten Angriff zuvorzukommen; die sächsische Armee wird bei Pirna eingeschlossen, kapituliert im Oktober und wird zwangsweise in die preußische Armee gesteckt. Der Angriff macht Preußen in den Augen Europas zum Friedensbrecher.
+  regions: [deutschland]
+  themes: [krieg-militaer]
+  places: [dresden]
+  persons: [friedrich-ii-preussen]
+  polities: [koenigreich-preussen, kurfuerstentum-sachsen]
+- id: schlacht-bei-lobositz
+  title: Schlacht bei Lobositz
+  date: "1756-10-01"
+  weight: 3
+  kind: schlacht
+  summary: Friedrich II. hält ein österreichisches Heer auf, das die bei Pirna eingeschlossenen Sachsen entsetzen soll; die Schlacht endet ohne klaren Sieger, verschafft Preußen aber den Rückzug der Österreicher.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+  places: [lobositz]
+  persons: [friedrich-ii-preussen, ulrich-braeker]
+  polities: [koenigreich-preussen, habsburgermonarchie]
+- id: schlacht-bei-kolin
+  title: Schlacht bei Kolin
+  date: "1757-06-18"
+  weight: 2
+  kind: schlacht
+  summary: Das österreichische Heer unter Daun schlägt Friedrich II., der die Belagerung Prags abbrechen und Böhmen räumen muss; erste große Niederlage des Königs.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+  places: [kolin, prag]
+  persons: [friedrich-ii-preussen, leopold-joseph-von-daun]
+  polities: [koenigreich-preussen, habsburgermonarchie]
+- id: schlacht-bei-rossbach
+  title: Schlacht bei Roßbach
+  date: "1757-11-05"
+  weight: 2
+  kind: schlacht
+  summary: Friedrich II. schlägt eine französische Armee und die Reichsarmee, die ihm zahlenmäßig deutlich überlegen sind, in kurzer Zeit; der Sieg über die Franzosen wird in der deutschen Erinnerung später national überhöht.
+  regions: [deutschland]
+  themes: [krieg-militaer]
+  places: [rossbach]
+  persons: [friedrich-ii-preussen]
+  polities: [koenigreich-preussen, koenigreich-frankreich, heiliges-roemisches-reich]
+- id: schlacht-bei-leuthen
+  title: Schlacht bei Leuthen
+  date: "1757-12-05"
+  weight: 2
+  kind: schlacht
+  summary: Mit einem Flankenangriff in schiefer Schlachtordnung besiegt Friedrich II. das österreichische Hauptheer westlich von Breslau und gewinnt Schlesien weitgehend zurück.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+  places: [leuthen, schlesien]
+  persons: [friedrich-ii-preussen]
+  polities: [koenigreich-preussen, habsburgermonarchie]
+- id: einnahme-kalkuttas-1756
+  title: Einnahme Kalkuttas durch Siraj ud-Daula
+  date: "1756-06-20"
+  weight: 3
+  kind: ereignis
+  summary: Der Nawab von Bengalen erobert die britische Faktorei Fort William in Kalkutta. Ein Teil der Gefangenen stirbt in einer engen Arrestzelle; Zahl und Umstände dieses „Schwarzen Lochs von Kalkutta“ beruhen fast nur auf dem Bericht des Überlebenden John Zephaniah Holwell und sind umstritten. Die Ereignisse dienten der Kompanie als Rechtfertigung ihres Gegenschlags.
+  certainty: umstritten
+  regions: [suedasien]
+  themes: [krieg-militaer, imperien]
+  places: [kalkutta]
+  persons: [siraj-ud-daula]
+  polities: [nawabat-bengalen, ostindien-kompanie]
+- id: eroberung-von-louisbourg-1758
+  title: Eroberung von Louisbourg
+  start: "1758-06-08"
+  end: "1758-07-26"
+  weight: 3
+  kind: schlacht
+  summary: Britische Land- und Seestreitkräfte belagern und erobern die französische Festung auf der Kap-Breton-Insel und öffnen damit den Weg den Sankt-Lorenz-Strom hinauf nach Québec.
+  regions: [nordamerika, atlantik]
+  themes: [krieg-militaer]
+  places: [louisbourg]
+  persons: [james-wolfe]
+  polities: [koenigreich-grossbritannien, neufrankreich]
+- id: schlacht-bei-kunersdorf
+  title: Schlacht bei Kunersdorf
+  date: "1759-08-12"
+  weight: 2
+  kind: schlacht
+  summary: Ein russisches Heer unter Pjotr Saltykow und ein österreichisches Korps unter Laudon schlagen die preußische Armee vernichtend; Friedrich II. hält den Krieg für verloren. Weil die Sieger uneins sind und nicht auf Berlin marschieren, kann er sich erholen.
+  regions: [mitteleuropa]
+  themes: [krieg-militaer]
+  places: [kunersdorf]
+  persons: [friedrich-ii-preussen, gideon-ernst-von-laudon]
+  polities: [koenigreich-preussen, russisches-kaiserreich, habsburgermonarchie]
+- id: schlacht-auf-den-abrahamfeldern
+  title: Schlacht auf den Abrahamfeldern
+  aliases: [Schlacht von Québec 1759, Battle of the Plains of Abraham]
+  date: "1759-09-13"
+  weight: 2
+  kind: schlacht
+  summary: Nach monatelanger Belagerung bringt James Wolfe seine Truppen nachts auf das Plateau vor Québec und schlägt Montcalms Armee; beide Befehlshaber fallen. Die Stadt kapituliert am 18. September, Montréal und damit ganz Kanada folgen 1760.
+  regions: [nordamerika]
+  themes: [krieg-militaer, imperien]
+  places: [quebec, montreal]
+  persons: [james-wolfe, montcalm]
+  polities: [koenigreich-grossbritannien, neufrankreich]
+- id: schlacht-in-der-bucht-von-quiberon
+  title: Seeschlacht in der Bucht von Quiberon
+  date: "1759-11-20"
+  weight: 3
+  kind: schlacht
+  summary: Die britische Flotte unter Admiral Edward Hawke schlägt die französische Atlantikflotte vor der Südküste der Bretagne im Sturm; Frankreich muss eine geplante Landung in Großbritannien aufgeben und verliert für den Rest des Kriegs die Seeherrschaft.
+  regions: [frankreich, atlantik]
+  themes: [krieg-militaer]
+  polities: [koenigreich-grossbritannien, koenigreich-frankreich]
+- id: schlacht-bei-wandiwash
+  title: Schlacht bei Wandiwash
+  date: "1760-01-22"
+  weight: 3
+  kind: schlacht
+  summary: Truppen der britischen Ostindien-Kompanie unter Eyre Coote besiegen die Franzosen unter Lally in Südindien; nach dem Fall von Pondichéry im Januar 1761 ist die französische Machtstellung in Indien gebrochen.
+  regions: [suedasien]
+  themes: [krieg-militaer, imperien]
+  places: [pondichery]
+  polities: [ostindien-kompanie, koenigreich-frankreich]
+- id: schlacht-bei-torgau
+  title: Schlacht bei Torgau
+  date: "1760-11-03"
+  weight: 3
+  kind: schlacht
+  summary: Friedrich II. erzwingt gegen Daun einen Sieg, der zu den verlustreichsten des Kriegs gehört; Sachsen bleibt danach größtenteils in preußischer Hand.
+  regions: [deutschland]
+  themes: [krieg-militaer]
+  places: [torgau]
+  persons: [friedrich-ii-preussen, leopold-joseph-von-daun]
+  polities: [koenigreich-preussen, habsburgermonarchie]
+- id: frieden-von-sankt-petersburg-1762
+  title: Frieden von Sankt Petersburg
+  date: "1762-05-05"
+  weight: 2
+  kind: vertrag
+  summary: Nach dem Tod der Zarin Elisabeth schließt ihr Nachfolger Peter III. Frieden mit Preußen und gibt alle russischen Eroberungen, darunter Ostpreußen, zurück; kurz darauf folgt ein Bündnis. Schweden schließt im selben Monat Frieden. Für Preußen ist dies das „Mirakel des Hauses Brandenburg“.
+  regions: [russland, mitteleuropa]
+  themes: [politik]
+  persons: [peter-iii-russland, elisabeth-russland, friedrich-ii-preussen]
+  polities: [russisches-kaiserreich, koenigreich-preussen]
+- id: eroberung-havannas-1762
+  title: Britische Eroberung Havannas
+  start: "1762-06-06"
+  end: "1762-08-13"
+  weight: 3
+  kind: schlacht
+  summary: Nach dem Kriegseintritt Spaniens belagern britische Truppen Havanna, den wichtigsten spanischen Hafen in der Karibik, und erobern ihn; Gelbfieber und Malaria töten weit mehr Soldaten als die Kämpfe. 1763 wird die Stadt gegen Florida an Spanien zurückgegeben.
+  regions: [karibik]
+  themes: [krieg-militaer, imperien]
+  places: [havanna]
+  polities: [koenigreich-grossbritannien, spanische-monarchie]
+- id: eroberung-manilas-1762
+  title: Britische Eroberung Manilas
+  start: "1762-09-24"
+  end: "1762-10-06"
+  weight: 3
+  kind: schlacht
+  summary: Eine von Madras aus entsandte Expedition der Ostindien-Kompanie und der Royal Navy erobert Manila, das Zentrum der spanischen Philippinen; außerhalb der Stadt setzen spanische Beamte und philippinische Aufständische den Widerstand fort. 1764 geht Manila an Spanien zurück.
+  regions: [suedostasien]
+  themes: [krieg-militaer, imperien]
+  places: [manila]
+  polities: [koenigreich-grossbritannien, ostindien-kompanie, spanische-monarchie]
+- id: frieden-von-paris-1763
+  title: Frieden von Paris 1763
+  date: "1763-02-10"
+  weight: 1
+  kind: vertrag
+  summary: Frankreich tritt Kanada und alles Land östlich des Mississippi (außer New Orleans) an Großbritannien ab, Spanien Florida; Großbritannien gibt Havanna, Manila, Guadeloupe, Martinique und Gorée zurück und behält Senegal. In Indien bekommt Frankreich seine Handelsplätze nur ohne Befestigungen zurück. Louisiana westlich des Mississippi war schon 1762 an Spanien gegangen.
+  regions: [europa, nordamerika, karibik, westafrika, suedasien]
+  themes: [politik, imperien]
+  places: [paris, quebec, havanna, manila, goree, saint-louis-senegal]
+  persons: [choiseul]
+  polities: [koenigreich-grossbritannien, koenigreich-frankreich, spanische-monarchie, neufrankreich]
+- id: frieden-von-hubertusburg
+  title: Frieden von Hubertusburg
+  date: "1763-02-15"
+  weight: 2
+  kind: vertrag
+  summary: Preußen, Österreich und Sachsen beenden den Krieg in Mitteleuropa auf der Grundlage des Vorkriegsstands; Preußen behält Schlesien und sagt seine Stimme für die Wahl Josephs II. zum römischen König zu. Sachsen erhält sein Land zurück.
+  regions: [deutschland, mitteleuropa]
+  themes: [politik]
+  places: [hubertusburg, schlesien]
+  persons: [friedrich-ii-preussen, maria-theresia, joseph-ii]
+  polities: [koenigreich-preussen, habsburgermonarchie, kurfuerstentum-sachsen]
+- id: pontiac-aufstand
+  title: Pontiac-Aufstand
+  aliases: [Pontiac's War]
+  start: "1763-05"
+  end: "1766-07"
+  weight: 2
+  kind: krieg
+  summary: Indigene Nationen der Großen Seen und des Ohiotals erheben sich gegen die britische Herrschaft, nachdem die Briten die unter den Franzosen üblichen Geschenke und Handelsbedingungen eingeschränkt hatten; sie erobern mehrere Forts. Der Krieg endet mit Verhandlungen, nicht mit einer Unterwerfung.
+  regions: [nordamerika]
+  themes: [krieg-militaer, imperien]
+  places: [fort-duquesne]
+  persons: [pontiac]
+  polities: [koenigreich-grossbritannien, dreizehn-kolonien]
+- id: koenigliche-proklamation-1763
+  title: Königliche Proklamation von 1763
+  aliases: [Royal Proclamation of 1763, Proklamationslinie]
+  date: "1763-10-07"
+  weight: 2
+  kind: gesetz
+  summary: Georg III. untersagt den Siedlern, westlich der Appalachen Land zu nehmen, und erklärt das Gebiet zum Land der indigenen Nationen unter britischer Schutzhoheit; viele Kolonisten empfinden die Linie als Verrat an den Früchten des Siegs.
+  regions: [nordamerika]
+  themes: [verfassung-recht, imperien]
+  persons: [georg-iii]
+  polities: [koenigreich-grossbritannien, dreizehn-kolonien]

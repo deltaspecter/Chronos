@@ -1,0 +1,73 @@
+# Staaten: Wiener Kongress
+- id: herzogtum-warschau
+  name: Herzogtum Warschau
+  aliases: [Księstwo Warszawskie, Großherzogtum Warschau]
+  start: "1807"
+  end: "1815"
+  spanNote: Im Frieden von Tilsit 1807 aus preußischen Teilungsgebieten geschaffen, 1809 um österreichische Gebiete erweitert; ab 1813 von Russland besetzt, 1815 aufgeteilt.
+  capital: warschau
+  summary: Von Napoleon geschaffener polnischer Staat in Personalunion mit dem König von Sachsen; seine Zukunft löste auf dem Wiener Kongress die polnisch-sächsische Krise aus.
+  regions: [osteuropa]
+  themes: [politik]
+  successors: [kongresspolen, freie-stadt-krakau]
+  weight: 3
+- id: kongresspolen
+  name: Königreich Polen (Kongresspolen)
+  aliases: [Kongresspolen, Królestwo Polskie, Zartum Polen]
+  start: "1815"
+  end: "1867"
+  spanNote: Nach dem Novemberaufstand 1830/31 verlor das Königreich seine Verfassung; ab 1867 wurde es weitgehend in das Russische Reich eingegliedert, der Name blieb bis 1915 in Gebrauch.
+  capital: warschau
+  summary: Auf dem Wiener Kongress aus dem Großteil des Herzogtums Warschau gebildetes Königreich, dessen König der russische Zar war; erhielt 1815 eine vergleichsweise liberale Verfassung.
+  regions: [osteuropa]
+  themes: [politik, verfassung-recht]
+  predecessors: [herzogtum-warschau]
+  successors: [russisches-kaiserreich]
+  weight: 2
+- id: freie-stadt-krakau
+  name: Freie Stadt Krakau
+  aliases: [Republik Krakau, Wolne Miasto Kraków]
+  start: "1815"
+  end: "1846"
+  capital: krakau
+  summary: Kleiner Stadtstaat unter dem gemeinsamen Schutz Russlands, Österreichs und Preußens, mit dem der Wiener Kongress den Streit um Krakau beilegte; nach einem Aufstand 1846 von Österreich annektiert.
+  regions: [osteuropa]
+  themes: [politik]
+  predecessors: [herzogtum-warschau]
+  successors: [habsburgermonarchie]
+  weight: 3
+- id: koenigreich-sachsen
+  name: Königreich Sachsen
+  aliases: [Sachsen]
+  start: "1806"
+  end: "1918"
+  spanNote: 1806 durch Napoleon zum Königreich erhoben; 1815 verlor es rund drei Fünftel seines Territoriums an Preußen.
+  capital: dresden
+  summary: Wettinischer Staat und Mitglied des Rheinbunds, dessen Fortbestand auf dem Wiener Kongress auf dem Spiel stand; ab 1815 Mitglied des Deutschen Bundes, ab 1871 des Deutschen Kaiserreichs.
+  regions: [deutschland]
+  themes: [politik]
+  predecessors: [kurfuerstentum-sachsen]
+  weight: 3
+- id: vereinigtes-koenigreich-der-niederlande
+  name: Vereinigtes Königreich der Niederlande
+  aliases: [Königreich der Vereinigten Niederlande]
+  start: "1815"
+  end: "1830"
+  spanNote: Mit der belgischen Revolution 1830 faktisch zerfallen; die Niederlande erkannten die Unabhängigkeit Belgiens erst 1839 an.
+  summary: Unter Wilhelm I. von Oranien aus den nördlichen Niederlanden und den früheren österreichischen Niederlanden (Belgien) gebildetes Königreich, das als Bollwerk gegen Frankreich gedacht war.
+  regions: [westeuropa]
+  themes: [politik]
+  predecessors: [republik-der-vereinigten-niederlande]
+  weight: 3
+- id: frankreich-restauration
+  name: Frankreich der Restauration
+  aliases: [Bourbonische Restauration, Restauration in Frankreich]
+  start: "1814"
+  end: "1830"
+  spanNote: Unterbrochen durch die Hundert Tage Napoleons 1815; die Julirevolution 1830 beendete die Herrschaft der älteren Bourbonenlinie.
+  capital: paris
+  summary: Konstitutionelle Monarchie unter Ludwig XVIII. und Karl X. auf der Grundlage der Charte von 1814; ab 1818 wieder gleichberechtigtes Mitglied im Kreis der Großmächte.
+  regions: [frankreich]
+  themes: [politik, verfassung-recht]
+  predecessors: [erstes-franzoesisches-kaiserreich]
+  weight: 2

@@ -1,0 +1,34 @@
+# Staaten: Siebenjähriger Krieg (r17-7jk)
+- id: neufrankreich
+  name: Neufrankreich
+  aliases: [Nouvelle-France, New France]
+  start: "1608"
+  end: "1763-02-10"
+  spanNote: Als Beginn gilt die Gründung Québecs 1608; Kanada kapitulierte 1760, Louisiana westlich des Mississippi war bereits 1762 an Spanien abgetreten worden. Der Frieden von Paris 1763 beendete die französische Herrschaft auf dem nordamerikanischen Festland.
+  capital: quebec
+  summary: Französisches Kolonialreich in Nordamerika vom Sankt-Lorenz-Strom über die Großen Seen bis Louisiana; dünn besiedelt, aber durch Pelzhandel und Bündnisse mit zahlreichen indigenen Nationen weit ausgreifend.
+  regions: [nordamerika]
+  themes: [imperien, handelsnetze]
+  predecessors: []
+  weight: 2
+- id: nawabat-bengalen
+  name: Nawabat Bengalen
+  aliases: [Nawabs von Bengalen, Bengalen]
+  start: "1717"
+  end: "1765"
+  spanNote: Die Nawabs regierten formal als Statthalter des Großmoguls, faktisch seit Murshid Quli Khan (ab 1717) weitgehend selbstständig. 1765 übertrug der Großmogul der Ostindien-Kompanie die Steuerhoheit (Diwani); die Nawabs blieben danach nur noch Titularherrscher.
+  summary: Faktisch unabhängiges Fürstentum der Mogul-Statthalter in Bengalen, Bihar und Orissa mit Sitz in Murshidabad, eine der reichsten Regionen der Welt; nach Plassey 1757 geriet es unter die Kontrolle der britischen Ostindien-Kompanie.
+  regions: [suedasien]
+  themes: [politik, wirtschaft-handel]
+  predecessors: [mogulreich]
+  weight: 3
+- id: kurfuerstentum-hannover
+  name: Kurfürstentum Hannover
+  aliases: [Kurhannover, Braunschweig-Lüneburg]
+  start: "1692"
+  end: "1806"
+  spanNote: 1692 erhielt das Haus Braunschweig-Lüneburg die Kurwürde; ab 1714 in Personalunion mit Großbritannien verbunden. 1803 und 1806 von Frankreich bzw. Preußen besetzt, 1814 als Königreich wiederhergestellt.
+  summary: Norddeutsches Kurfürstentum, dessen Herrscher ab 1714 zugleich Könige von Großbritannien waren; seine Verwundbarkeit zog Großbritannien in die Kriege auf dem Kontinent hinein.
+  regions: [deutschland]
+  themes: [politik]
+  weight: 3

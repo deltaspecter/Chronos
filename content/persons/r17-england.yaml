@@ -1,0 +1,181 @@
+# Personen: Englische Revolution und Glorious Revolution (r17-england)
+- id: jakob-i-england
+  name: Jakob I. von England
+  aliases: [James I, Jakob VI. von Schottland, James VI and I]
+  born: "1566-06-19"
+  died: "1625-03-27"
+  roles: [König von Schottland, König von England und Irland]
+  summary: Sohn Maria Stuarts, seit 1567 als Jakob VI. König von Schottland und seit 1603 als Nachfolger Elisabeths I. auch König von England und Irland; vereinte die drei Kronen in einer Person, ohne die Königreiche zu verschmelzen, und vertrat in Schriften das Gottesgnadentum der Könige.
+  regions: [britische-inseln]
+  themes: [politik, religion]
+  places: [edinburgh, london]
+  related: [karl-i-england]
+- id: karl-i-england
+  name: Karl I. von England
+  aliases: [Charles I, Karl I. Stuart]
+  born: "1600-11-19"
+  died: "1649-01-30"
+  roles: [König von England, Schottland und Irland]
+  summary: Seit 1625 König, regierte 1629–1640 ohne Parlament, löste mit seiner Kirchenpolitik den schottischen Aufstand von 1637/38 aus und führte ab 1642 Krieg gegen das englische Parlament; nach zwei Niederlagen von einem Sondergericht wegen Hochverrats verurteilt und am 30. Januar 1649 vor dem Banqueting House in Whitehall enthauptet.
+  regions: [britische-inseln]
+  themes: [politik, religion, krieg-militaer]
+  places: [whitehall, london, oxford, edinburgh]
+  related: [jakob-i-england, william-laud, thomas-wentworth, oliver-cromwell, karl-ii-england]
+- id: william-laud
+  name: William Laud
+  born: "1573-10-07"
+  died: "1645-01-10"
+  roles: [Erzbischof von Canterbury]
+  summary: Seit 1633 Erzbischof von Canterbury und engster kirchenpolitischer Berater Karls I.; seine Betonung von Liturgie, Altar und bischöflicher Disziplin galt Puritanern als Rückkehr zum Katholizismus. Vom Langen Parlament angeklagt und 1645 hingerichtet.
+  regions: [britische-inseln]
+  themes: [religion, politik]
+  places: [london]
+  related: [karl-i-england]
+- id: thomas-wentworth
+  name: Thomas Wentworth, Earl of Strafford
+  aliases: [Strafford, Earl of Strafford]
+  born: "1593-04-13"
+  died: "1641-05-12"
+  roles: [Lord Deputy von Irland, Berater Karls I.]
+  summary: Zunächst parlamentarischer Kritiker, dann einer der wichtigsten Minister Karls I.; regierte Irland 1633–1640 mit harter Hand. Das Lange Parlament ließ ihn durch ein Bill of Attainder zum Tode verurteilen; der König stimmte zu, und Strafford wurde im Mai 1641 hingerichtet.
+  regions: [britische-inseln]
+  themes: [politik]
+  places: [dublin, london]
+  related: [karl-i-england, john-pym]
+- id: john-pym
+  name: John Pym
+  born: "1584"
+  died: "1643-12-08"
+  roles: [Parlamentsabgeordneter]
+  summary: Führender Kopf des Unterhauses im Langen Parlament, treibende Kraft hinter der Anklage Straffords und der Grand Remonstrance von 1641; einer der fünf Abgeordneten, die Karl I. im Januar 1642 vergeblich verhaften wollte. Handelte 1643 das Bündnis mit den schottischen Covenanters aus.
+  regions: [britische-inseln]
+  themes: [politik]
+  places: [westminster-palast, london]
+  related: [karl-i-england, thomas-wentworth]
+- id: thomas-fairfax
+  name: Thomas Fairfax
+  aliases: [Lord Fairfax]
+  born: "1612-01-17"
+  died: "1671-11-12"
+  roles: [Feldherr, Oberbefehlshaber der New Model Army]
+  summary: Parlamentarischer General aus Yorkshire, seit 1645 Oberbefehlshaber der New Model Army und Sieger von Naseby; lehnte die Mitwirkung am Prozess gegen Karl I. ab, trat 1650 zurück und unterstützte 1660 die Rückkehr der Monarchie.
+  regions: [britische-inseln]
+  themes: [krieg-militaer, politik]
+  places: [naseby, marston-moor, york]
+  related: [oliver-cromwell]
+- id: oliver-cromwell
+  name: Oliver Cromwell
+  born: "1599-04-25"
+  died: "1658-09-03"
+  roles: [Feldherr, Lord Protector]
+  summary: Puritanischer Landadliger aus Huntingdon, Abgeordneter und Reitergeneral des Parlaments, prägende Figur der New Model Army; betrieb 1648/49 Prozess und Hinrichtung Karls I., eroberte 1649/50 Irland und 1650/51 Schottland und regierte ab 1653 als Lord Protector von England, Schottland und Irland. In Großbritannien als Verteidiger des Parlaments verehrt, in Irland als Urheber von Massakern und Enteignung erinnert.
+  regions: [britische-inseln]
+  themes: [politik, krieg-militaer, religion, gewalt-genozid]
+  places: [naseby, marston-moor, drogheda, worcester, whitehall, london]
+  related: [thomas-fairfax, henry-ireton, richard-cromwell, karl-i-england]
+- id: henry-ireton
+  name: Henry Ireton
+  born: "1611"
+  died: "1651-11-26"
+  roles: [Offizier, Politiker]
+  summary: Schwiegersohn Cromwells und politischer Kopf der Armeeführung; verteidigte in den Putney-Debatten das an Eigentum gebundene Wahlrecht gegen die Levellers, unterzeichnete das Todesurteil gegen Karl I. und starb als Befehlshaber in Irland vor Limerick.
+  regions: [britische-inseln]
+  themes: [politik, krieg-militaer]
+  places: [putney]
+  related: [oliver-cromwell, thomas-rainsborough]
+- id: thomas-rainsborough
+  name: Thomas Rainsborough
+  aliases: [Thomas Rainborowe]
+  born: "~1610"
+  died: "1648-10-29"
+  roles: [Offizier]
+  summary: Oberst der New Model Army und Sprecher der radikalen Seite in den Putney-Debatten, wo er ein Wahlrecht für alle Männer forderte; 1648 bei einem royalistischen Überfall in Doncaster getötet.
+  regions: [britische-inseln]
+  themes: [politik, krieg-militaer]
+  places: [putney]
+  related: [henry-ireton, john-lilburne]
+- id: john-lilburne
+  name: John Lilburne
+  aliases: [Freeborn John]
+  born: "~1615"
+  died: "1657-08-29"
+  roles: [Pamphletist, Anführer der Levellers]
+  summary: Wegen seiner Prozesse gegen König, Parlament und Protektorat „Freeborn John“ genannt; führender Kopf der Levellers, der in zahlreichen Flugschriften die angeborenen Rechte der Engländer, Gleichheit vor dem Gesetz und Gewissensfreiheit einforderte und viele Jahre in Haft verbrachte.
+  regions: [britische-inseln]
+  themes: [politik, verfassung-recht, schrift-medien]
+  places: [london]
+  related: [thomas-rainsborough]
+- id: gerrard-winstanley
+  name: Gerrard Winstanley
+  born: "1609"
+  died: "1676"
+  roles: [Pamphletist, Anführer der Diggers]
+  summary: Ruinierter Londoner Tuchhändler, der 1649 mit den „Diggers“ oder „True Levellers“ Gemeindeland am St George's Hill in Surrey bebaute und in Schriften die Erde als „gemeinsamen Schatz“ aller forderte; die Siedlungen wurden 1650 von Grundbesitzern zerstört.
+  regions: [britische-inseln]
+  themes: [gesellschaft, religion, landwirtschaft]
+  places: [london]
+  related: [john-lilburne]
+- id: thomas-hobbes
+  name: Thomas Hobbes
+  born: "1588-04-05"
+  died: "1679-12-04"
+  roles: [Philosoph]
+  summary: Englischer Staatstheoretiker, der während des Bürgerkriegs im Pariser Exil den „Leviathan“ (1651) schrieb; begründete die Notwendigkeit eines souveränen Herrschers aus einem Gesellschaftsvertrag, mit dem Menschen den gewaltsamen Naturzustand verlassen.
+  regions: [britische-inseln, frankreich]
+  themes: [politik, verfassung-recht]
+  places: [london]
+  related: [john-locke]
+- id: richard-cromwell
+  name: Richard Cromwell
+  born: "1626-10-04"
+  died: "1712-07-12"
+  roles: [Lord Protector]
+  summary: Sohn und 1658 Nachfolger Oliver Cromwells als Lord Protector; ohne Rückhalt in der Armee musste er im Mai 1659 zurücktreten, was das Ende des Protektorats einleitete.
+  regions: [britische-inseln]
+  themes: [politik]
+  places: [london]
+  related: [oliver-cromwell]
+- id: george-monck
+  name: George Monck
+  aliases: [Duke of Albemarle]
+  born: "1608-12-06"
+  died: "1670-01-03"
+  roles: [General]
+  summary: Erst royalistischer, dann parlamentarischer Offizier und Befehlshaber in Schottland; marschierte Anfang 1660 mit seinen Truppen nach London, ließ das Lange Parlament wieder zusammentreten und ebnete so die Rückkehr Karls II., der ihn zum Herzog von Albemarle erhob.
+  regions: [britische-inseln]
+  themes: [krieg-militaer, politik]
+  places: [edinburgh, london]
+  related: [karl-ii-england]
+- id: karl-ii-england
+  name: Karl II. von England
+  aliases: [Charles II]
+  born: "1630-05-29"
+  died: "1685-02-06"
+  roles: [König von England, Schottland und Irland]
+  summary: Sohn Karls I.; 1651 in Schottland gekrönt und bei Worcester geschlagen, danach im Exil. Nach der Restauration 1660 König; regierte geschickt zwischen Parlament, Kirche und Hof, schloss geheime Abkommen mit Ludwig XIV. und behauptete in der Ausschlusskrise das Thronrecht seines katholischen Bruders Jakob.
+  regions: [britische-inseln]
+  themes: [politik]
+  places: [worcester, london, whitehall]
+  related: [karl-i-england, jakob-ii-england, ludwig-xiv]
+- id: jakob-ii-england
+  name: Jakob II. von England
+  aliases: [James II, Jakob VII. von Schottland, Herzog von York]
+  born: "1633-10-14"
+  died: "1701-09-16"
+  roles: [König von England, Schottland und Irland]
+  summary: Bruder Karls II., als Herzog von York Admiral und Leiter der Royal African Company, seit seinem Übertritt zum Katholizismus umstritten; König seit 1685. Seine Politik zugunsten von Katholiken und Dissidenten unter Umgehung des Parlaments führte 1688 zur Invasion Wilhelms von Oranien; er floh nach Frankreich, unterlag 1690 am Boyne und starb im Exil in Saint-Germain-en-Laye.
+  regions: [britische-inseln, frankreich]
+  themes: [politik, religion]
+  places: [london, saint-germain-en-laye, boyne]
+  related: [karl-ii-england, maria-ii-england, wilhelm-iii-von-oranien, ludwig-xiv]
+- id: maria-ii-england
+  name: Maria II. von England
+  aliases: [Mary II]
+  born: "1662-04-30"
+  died: "1694-12-28"
+  roles: [Königin von England, Schottland und Irland]
+  summary: Protestantisch erzogene Tochter Jakobs II. und seit 1677 Ehefrau Wilhelms von Oranien; nach der Glorious Revolution 1689 gemeinsam mit ihm Königin, wobei die Regierungsgewalt vor allem bei Wilhelm lag. Sie starb 1694 an den Pocken.
+  regions: [britische-inseln, westeuropa]
+  themes: [politik]
+  places: [london, den-haag]
+  related: [wilhelm-iii-von-oranien, jakob-ii-england]
