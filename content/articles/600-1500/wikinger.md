@@ -18,6 +18,7 @@ polities: [koenigreich-daenemark-mittelalter, koenigreich-norwegen-mittelalter, 
 terms: [wikinger, langschiff, danegeld, danelaw, thing, althing, waraeger, rus, dirham, runen, saga]
 related: [karl-der-grosse, abbasiden-bagdad, investiturstreit, kreuzzuege, mongolenreich, besiedlung-polynesiens]
 bibliography: [q-angelsaechsische-chronik, q-alkuin-brief-793, q-annales-bertiniani, q-ibn-fadlan, q-jelling-stein, q-islendingabok, q-vinland-sagas, q-nestorchronik, swanton-1996, lunde-stone-2012, magnusson-palsson-1965, cross-sherbowitz-1953, sawyer-1962, sawyer-1997, roesdahl-1998, brink-price-2008, price-2020, winroth-2012, winroth-2014, jesch-2015, franklin-shepard-1996, noonan-1998, byock-2001, downham-2007, margaryan-2020, kuitems-2022, hedenstierna-jonson-2017]
+image: oseberg-schiff
 status: erstfassung
 version: 1
 updated: 2026-10-14

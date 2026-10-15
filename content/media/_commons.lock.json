@@ -749,5 +749,55 @@
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:S%C3%BCleymaniye_Mosque_February_2013_01.jpg"
+  },
+  "aksum-stele": {
+    "file": "aksum-stele.jpg",
+    "width": 628,
+    "height": 1200,
+    "author": "Sailko",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aksum,_stele_2_(stele_di_roma)_01.jpg"
+  },
+  "oseberg-schiff": {
+    "file": "oseberg-schiff.jpg",
+    "width": 798,
+    "height": 1200,
+    "author": "Jean-Pierre Dalbéra from Paris, France",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Osebergskipet.jpg"
+  },
+  "israel-unabhaengigkeitserklaerung": {
+    "file": "israel-unabhaengigkeitserklaerung.jpg",
+    "width": 1200,
+    "height": 800,
+    "author": "Rudi Weissenstein",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Declaration_of_State_of_Israel_1948.jpg"
+  },
+  "marsch-auf-rom": {
+    "file": "marsch-auf-rom.png",
+    "width": 915,
+    "height": 611,
+    "author": "Urheber unbekannt",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:March_on_Rome_1922_-_Alle_porte_di_Roma.png"
+  },
+  "waldseemueller-karte": {
+    "file": "waldseemueller-karte.jpg",
+    "width": 1200,
+    "height": 665,
+    "author": "Martin Waldseemüller",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waldseemuller_map_2.jpg"
+  },
+  "tributgiraffe-ming": {
+    "file": "tributgiraffe-ming.jpg",
+    "width": 604,
+    "height": 1200,
+    "author": "Shen Du zugeschrieben (möglicherweise spätere Kopie)",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tribute_Giraffe_with_Attendant.jpg"
   }
 }

@@ -18,6 +18,7 @@ polities: [krone-kastilien, koenigreich-portugal, emirat-granada, spanisches-kol
 terms: [kolumbischer-austausch, encomienda, reconquista, requerimiento, taino, kazike, virgin-soil-epidemie, schwarze-legende, neue-welt, columbus-day, konquista, kolonialismus, voelkermord]
 related: [reich-der-mexica, inka-reich, transatlantischer-sklavenhandel, eroberung-konstantinopels, osmanisches-reich-hoehepunkt, haitianische-revolution, unabhaengigkeit-lateinamerikas, besiedlung-polynesiens]
 bibliography: [phillips-phillips-1992, fernandez-armesto-1991, abulafia-2008, bitterli-1991, russell-1991, rouse-1992, wilson-1990, livi-bacci-2003, livi-bacci-2008, cook-1998, denevan-1992, resendez-2016, stannard-1992, koch-2019, crosby-1972, crosby-1986, nunn-qian-2010, nunn-qian-2011, mann-2011, todorov-1982, restall-2003, summerhill-williams-2000, q-kolumbus-bordbuch, q-kolumbus-brief-1493, q-kapitulationen-santa-fe, q-inter-caetera, q-vertrag-tordesillas, q-ramon-pane, q-gesetze-burgos, q-requerimiento, q-las-casas-brevisima, q-las-casas-historia, q-mundus-novus, q-waldseemueller-1507]
+image: waldseemueller-karte
 status: erstfassung
 version: 1
 updated: 2026-10-14

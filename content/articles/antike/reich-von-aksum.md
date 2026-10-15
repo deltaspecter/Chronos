@@ -18,6 +18,7 @@ polities: [dmt, aksumitisches-reich, himyar, kusch, byzantinisches-reich, sasani
 terms: [geez, aksumitische-stelen, negus, aethiopisch-orthodoxe-kirche, miaphysitismus, monsunhandel, manichaeismus, kebra-nagast, salomonische-dynastie]
 related: [reich-von-kusch, justinian, muhammad-entstehung-islam, gross-simbabwe-swahili, alexander-hellenismus]
 bibliography: [munro-hay-1991, phillipson-1998, phillipson-2012, bowersock-2013, hatke-2013, robin-2012, tamrat-1972, marcus-1994, henze-2000, casson-1989, gardner-1995, littmann-1913, q-periplus, q-monumentum-adulitanum, q-ezana-inschriften, q-rufinus-kirchengeschichte, q-athanasius-apologie, q-mani-kephalaia, q-kosmas-topographia, q-abraha-marib, q-simeon-beth-arscham, q-kebra-nagast, q-prokop-kriege, q-ibn-ishaq, q-koran]
+image: aksum-stele
 status: erstfassung
 version: 1
 updated: 2026-10-14

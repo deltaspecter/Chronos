@@ -18,6 +18,7 @@ polities: [ming-dynastie, yuan-dynastie, noerdliche-yuan, sultanat-malakka, jose
 terms: [haijin, wokou, einzelpeitschensteuer, tributsystem, grosse-mauer, hofeunuchen, manila-galeone, akkommodation, blauweiss-porzellan, beamtenpruefungen, neokonfuzianismus, mandat-des-himmels, acht-banner]
 related: [song-dynastie, mongolenreich, qing-dynastie, tokugawa-japan, gross-simbabwe-swahili, mogulreich]
 bibliography: [mote-twitchett-1988, twitchett-mote-1998, mote-1999, brook-2010, brook-1998, dreyer-2007, levathes-1994, waldron-1990, huang-1981, von-glahn-1996, flynn-giraldez-1995, atwell-1982, spence-1984, clunas-1991, wakeman-1985, parker-2013, pomeranz-2000, vogelsang-2012, mills-1970, gallagher-1953, q-ma-huan, q-changle-inschrift, q-huang-ming-zuxun, q-mingshi, q-ricci-trigault, q-tiangong-kaiwu, q-xiyouji]
+image: tributgiraffe-ming
 status: erstfassung
 version: 1
 updated: 2026-10-14

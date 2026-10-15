@@ -18,6 +18,7 @@ polities: [osmanisches-reich, vereinigtes-koenigreich, voelkerbund, britisches-m
 terms: [zionismus, arabischer-nationalismus, alija, jischuw, haganah, voelkerbundsmandat, displaced-persons, nakba-begriff, neue-historiker, antisemitismus, shoah-begriff, dekolonisation]
 related: [holocaust, erster-weltkrieg, dekolonisierung-afrikas, kalter-krieg, indien-1947, zweiter-weltkrieg, osmanisches-reich-hoehepunkt]
 bibliography: [kraemer-2002, segev-2000, khalidi-1997, khalidi-2006, morris-2004, morris-2008, pappe-2006, rogan-shlaim-2001, shlaim-2000, shapira-2012, brenner-2002, grossmann-2007, zertal-1998, stillman-1991, khalidi-1992, q-herzl-1896, q-balfour-1917, q-mandat-palaestina-1922, q-peel-1937, q-weissbuch-1939, q-un-res-181, q-israel-unabhaengigkeit-1948, q-un-res-194, q-zurayk-1948]
+image: israel-unabhaengigkeitserklaerung
 status: erstfassung
 version: 1
 updated: 2026-10-14

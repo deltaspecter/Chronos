@@ -18,6 +18,7 @@ polities: [koenigreich-italien, faschistisches-italien, italienisch-libyen, ital
 terms: [faschismus, verstuemmelter-sieg, squadrismus, duce, korporativismus, totalitarismus, politische-religion, confino, resistenza, antisemitismus, nationalismus, vernichtungskrieg]
 related: [erster-weltkrieg, weimarer-republik, weltwirtschaftskrise, zweiter-weltkrieg, holocaust, russische-revolution]
 bibliography: [schieder-2010, woller-2010, woller-2016, lyttelton-1973, bosworth-2005, paxton-2004, nolte-1963, griffin-1991, gentile-1993, de-felice-1975, del-boca-1996, mattioli-2005, rochat-2005, ahmida-2021, sarfatti-2000, klinkhammer-1993, pavone-1991, focardi-2013, q-mussolini-rede-1925, q-lateranvertraege, q-dottrina-del-fascismo, q-haile-selassie-1936, q-rassengesetz-1938]
+image: marsch-auf-rom
 status: erstfassung
 version: 1
 updated: 2026-10-14

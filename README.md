@@ -17,7 +17,7 @@ Die App läuft im Browser auf Smartphone, Tablet und Desktop und lässt sich auf
 | **Inhaltsverzeichnis** | Bewusst ohne Suchleiste: nummeriertes Verzeichnis aller Artikel nach Epochen, Eingrenzung nach Region, Register von A bis Z für Personen, Orte, Ereignisse, Staaten, Begriffe und Quellen |
 | **Persönlich** | Lesezeichen, Notizen (auch zu Abschnitten), Verlauf, Lesefortschritt, „Weiterlesen“, Export und Import – alles nur auf dem Gerät |
 | **Offline** | App, Kerndaten, Inhaltsverzeichnis, Zeitleiste und Atlas offline nutzbar; Artikel gezielt speicherbar; kontrollierte Updates |
-| **Abbildungen** | 89 Bilder aus Wikimedia Commons mit automatisch geprüften Lizenzen und Bildnachweisen |
+| **Abbildungen** | 95 Bilder aus Wikimedia Commons mit automatisch geprüften Lizenzen und Bildnachweisen |
 
 Alle Artikel tragen den Status **„Erstfassung“**: Sie wurden mit Unterstützung eines KI-Sprachmodells auf Grundlage der angegebenen Literatur erarbeitet und sind noch nicht fachwissenschaftlich begutachtet (siehe [docs/INHALTE.md](docs/INHALTE.md#qualität-und-prüfstatus)).
 
