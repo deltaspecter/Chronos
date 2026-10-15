@@ -1,0 +1,134 @@
+# Quellen und Literatur: Der Hundertjährige Krieg (Runde 16, r16-100jk)
+
+# --- Primärquellen ---
+- id: q-froissart
+  kind: primaer
+  authors: ["Froissart, Jean"]
+  title: Chroniques
+  written: Hennegau, Paris und England, um 1370 bis nach 1400
+  note: Umfangreichste erzählende Chronik des Krieges bis um 1400, aus der Sicht ritterlicher Ehre geschrieben; für die frühen Jahre stützt sich Froissart stark auf Jean le Bel und wurde mehrfach überarbeitet.
+- id: q-prozess-jeanne-d-arc
+  kind: primaer
+  authors: []
+  title: Akten des Verurteilungsprozesses gegen Jeanne d'Arc
+  written: Rouen, Januar bis Mai 1431
+  note: Protokolle der Verhöre und Urteile des Inquisitionsprozesses unter Bischof Pierre Cauchon, überliefert in französischer Mitschrift und späterer lateinischer Fassung; sie geben Jeannes Antworten in den Formulierungen der Notare wieder.
+- id: q-nullitaetsprozess
+  kind: primaer
+  authors: []
+  title: Akten des Nullitätsprozesses (Rehabilitierungsprozess) für Jeanne d'Arc
+  written: Paris, Rouen, Orléans und Domrémy, 1455–1456
+  note: Zeugenaussagen von über hundert Personen aus Jeannes Heimat, ihren Feldzügen und dem Prozess von 1431, gesammelt mit dem Ziel, das Urteil aufzuheben – daher selbst parteiisch.
+- id: q-vertrag-troyes
+  kind: primaer
+  authors: []
+  title: Vertrag von Troyes
+  written: Troyes, 21. Mai 1420
+  note: Vertrag zwischen Karl VI. von Frankreich und Heinrich V. von England, der Heinrich zum Regenten und Erben der französischen Krone bestimmte und den Dauphin Karl ausschloss.
+- id: q-christine-ditie
+  kind: primaer
+  authors: ["Christine de Pizan"]
+  title: Le Ditié de Jehanne d'Arc
+  written: Juli 1429
+  note: Gedicht der Schriftstellerin Christine de Pizan nach der Krönung in Reims – das einzige zu Jeannes Lebzeiten verfasste literarische Werk über sie.
+- id: q-journal-bourgeois
+  kind: primaer
+  authors: []
+  title: Journal d'un bourgeois de Paris
+  written: Paris, 1405–1449
+  note: Tagebuchartige Aufzeichnungen eines anonymen, burgundisch gesinnten Pariser Geistlichen über Bürgerkrieg, Teuerung, englische Herrschaft und Jeanne d'Arc.
+- id: q-gesta-henrici-quinti
+  kind: primaer
+  authors: []
+  title: Gesta Henrici Quinti
+  written: England, um 1416–1417
+  note: Lateinischer Bericht eines anonymen Kaplans aus dem Gefolge Heinrichs V. über den Feldzug von 1415, der den Sieg von Azincourt als Gottesurteil für den englischen König deutet.
+
+# --- Edition ---
+- id: quicherat-1841
+  kind: edition
+  authors: []
+  editors: ["Quicherat, Jules"]
+  title: Procès de condamnation et de réhabilitation de Jeanne d'Arc, dite la Pucelle
+  volume: 5 Bde.
+  place: Paris
+  publisher: Renouard (Société de l'histoire de France)
+  year: 1841–1849
+
+# --- Forschung ---
+- id: sumption-1990
+  kind: sekundaer
+  authors: ["Sumption, Jonathan"]
+  title: The Hundred Years War
+  subtitle: Bd. 1 – Trial by Battle
+  place: London
+  publisher: Faber and Faber
+  year: 1990
+- id: allmand-1988
+  kind: sekundaer
+  authors: ["Allmand, Christopher"]
+  title: The Hundred Years War
+  subtitle: England and France at War, c. 1300–c. 1450
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1988
+- id: ehlers-2009
+  kind: sekundaer
+  authors: ["Ehlers, Joachim"]
+  title: Der Hundertjährige Krieg
+  place: München
+  publisher: C. H. Beck
+  year: 2009
+- id: contamine-1968
+  kind: sekundaer
+  authors: ["Contamine, Philippe"]
+  title: La guerre de Cent Ans
+  place: Paris
+  publisher: Presses Universitaires de France
+  year: 1968
+- id: contamine-1972
+  kind: sekundaer
+  authors: ["Contamine, Philippe"]
+  title: Guerre, État et société à la fin du Moyen Âge
+  subtitle: Études sur les armées des rois de France, 1337–1494
+  place: Paris/Den Haag
+  publisher: Mouton
+  year: 1972
+- id: curry-2005
+  kind: sekundaer
+  authors: ["Curry, Anne"]
+  title: Agincourt
+  subtitle: A New History
+  place: Stroud
+  publisher: Tempus
+  year: 2005
+- id: rogers-2000
+  kind: sekundaer
+  authors: ["Rogers, Clifford J."]
+  title: War Cruel and Sharp
+  subtitle: English Strategy under Edward III, 1327–1360
+  place: Woodbridge
+  publisher: Boydell Press
+  year: 2000
+- id: keegan-1976
+  kind: sekundaer
+  authors: ["Keegan, John"]
+  title: The Face of Battle
+  subtitle: A Study of Agincourt, Waterloo and the Somme
+  place: London
+  publisher: Jonathan Cape
+  year: 1976
+- id: beaune-1985
+  kind: sekundaer
+  authors: ["Beaune, Colette"]
+  title: Naissance de la nation France
+  place: Paris
+  publisher: Gallimard
+  year: 1985
+- id: pernoud-clin-1986
+  kind: sekundaer
+  authors: ["Pernoud, Régine", "Clin, Marie-Véronique"]
+  title: Jeanne d'Arc
+  place: Paris
+  publisher: Fayard
+  year: 1986

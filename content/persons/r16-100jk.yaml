@@ -1,0 +1,204 @@
+# Personen: Der Hundertjährige Krieg (r16-100jk)
+- id: eduard-iii
+  name: Eduard III.
+  aliases: [Edward III]
+  born: "1312-11-13"
+  died: "1377-06-21"
+  roles: [König von England]
+  summary: König von England ab 1327, Enkel Philipps IV. von Frankreich über seine Mutter Isabella. Er beanspruchte ab 1337/1340 die französische Krone, siegte bei Sluis (1340) und Crécy (1346), eroberte Calais (1347) und erreichte im Frieden von Brétigny 1360 große Gebiete in voller Souveränität, die er bis zu seinem Tod großenteils wieder verlor.
+  regions: [britische-inseln, frankreich]
+  themes: [politik, krieg-militaer]
+  places: [london, calais, crecy]
+- id: philipp-vi
+  name: Philipp VI.
+  aliases: [Philipp von Valois, Philippe VI de Valois]
+  born: "1293"
+  died: "1350-08-22"
+  roles: [König von Frankreich]
+  summary: Erster König aus dem Haus Valois, 1328 nach dem Aussterben der direkten Kapetinger-Linie von den Großen des Reiches erhoben. Seine Beschlagnahme der Guyenne 1337 eröffnete den Krieg; er verlor die Seeschlacht von Sluis, die Schlacht von Crécy und Calais.
+  regions: [frankreich]
+  themes: [politik, krieg-militaer]
+  places: [paris]
+- id: johann-ii-frankreich
+  name: Johann II. der Gute
+  aliases: [Jean le Bon, Johann der Gute]
+  born: "1319-04-26"
+  died: "1364-04-08"
+  roles: [König von Frankreich]
+  summary: Sohn Philipps VI., König ab 1350. In der Schlacht bei Poitiers 1356 geriet er in englische Gefangenschaft; für seine Freilassung wurde im Frieden von Brétigny ein Lösegeld von drei Millionen Écus vereinbart. Er starb in London, wohin er freiwillig zurückgekehrt war, nachdem eine seiner Geiseln geflohen war.
+  regions: [frankreich, britische-inseln]
+  themes: [politik, krieg-militaer]
+  places: [poitiers, london]
+- id: eduard-schwarzer-prinz
+  name: Eduard, der Schwarze Prinz
+  aliases: [Edward of Woodstock, Black Prince, Prinz von Wales]
+  born: "1330-06-15"
+  died: "1376-06-08"
+  roles: [Thronfolger, Heerführer, Fürst von Aquitanien]
+  summary: Ältester Sohn Eduards III.; kämpfte als Sechzehnjähriger bei Crécy, führte 1355/56 verheerende Plünderungszüge durch Südfrankreich und nahm bei Poitiers König Johann II. gefangen. Ab 1362 regierte er das Fürstentum Aquitanien von Bordeaux aus; er starb ein Jahr vor seinem Vater. Der Beiname ist erst spät belegt.
+  regions: [britische-inseln, frankreich]
+  themes: [krieg-militaer, politik]
+  places: [crecy, poitiers, bordeaux]
+- id: karl-v-frankreich
+  name: Karl V. der Weise
+  aliases: [Charles V le Sage]
+  born: "1338-01-21"
+  died: "1380-09-16"
+  roles: [König von Frankreich]
+  summary: Sohn Johanns II.; führte als Dauphin die Regierung während der Gefangenschaft des Vaters und der Krise von 1358, König ab 1364. Er festigte das Steuersystem, nahm 1369 den Krieg wieder auf und eroberte mit Bertrand du Guesclin bis 1380 die meisten an England abgetretenen Gebiete zurück, vor allem durch Belagerungen statt offener Feldschlachten.
+  regions: [frankreich]
+  themes: [politik, krieg-militaer, wirtschaft-handel]
+  places: [paris]
+- id: bertrand-du-guesclin
+  name: Bertrand du Guesclin
+  born: "~1320"
+  died: "1380-07-13"
+  roles: [Heerführer, Connétable von Frankreich]
+  summary: Bretonischer Adliger niederen Ranges, der im Dienst Karls V. aufstieg und 1370 Connétable, oberster Heerführer Frankreichs, wurde. Er vermied große Feldschlachten und gewann Gebiete durch Belagerungen, Überfälle und Zermürbung zurück; in Kastilien kämpfte er 1366–1369 für Heinrich von Trastámara.
+  regions: [frankreich, iberische-halbinsel]
+  themes: [krieg-militaer]
+- id: etienne-marcel
+  name: Étienne Marcel
+  born: "~1315?"
+  died: "1358-07-31"
+  roles: [Vorsteher der Pariser Kaufleute]
+  summary: Als Prévôt des marchands Wortführer der Pariser Bürger, der nach der Niederlage von Poitiers in den Ständeversammlungen eine Kontrolle der königlichen Regierung forderte und 1358 Paris gegen den Dauphin Karl hielt. Er suchte kurz die Verbindung mit den aufständischen Bauern der Jacquerie und wurde im Juli 1358 in Paris erschlagen.
+  regions: [frankreich]
+  themes: [politik, gesellschaft]
+  places: [paris]
+- id: jakob-van-artevelde
+  name: Jakob van Artevelde
+  aliases: [Jacob van Artevelde]
+  born: "~1290"
+  died: "1345-07-17"
+  roles: [Stadtführer von Gent]
+  summary: Genter Bürger, der ab 1338 die flämischen Städte führte und sie, um die Wollzufuhr aus England zu sichern, auf die Seite Eduards III. brachte; in Gent nahm Eduard 1340 den Titel eines Königs von Frankreich an. Er wurde 1345 bei einem Aufruhr in Gent getötet.
+  regions: [westeuropa]
+  themes: [politik, wirtschaft-handel]
+  places: [gent]
+- id: jean-froissart
+  name: Jean Froissart
+  born: "~1337"
+  died: "~1405?"
+  roles: [Chronist, Dichter]
+  summary: Aus Valenciennes im Hennegau stammender Geistlicher und Dichter, der im Dienst der englischen Königin Philippa von Hennegau und anderer Fürsten stand. Seine Chroniques erzählen den Krieg bis 1400 als Abfolge ritterlicher Taten und beruhen auf eigenen Reisen, Gesprächen mit Beteiligten und älteren Chroniken.
+  regions: [westeuropa, frankreich, britische-inseln]
+  themes: [geschichtsschreibung, kultur-kunst]
+- id: karl-vi-frankreich
+  name: Karl VI.
+  aliases: [Charles VI, Karl der Wahnsinnige, Karl der Vielgeliebte]
+  born: "1368-12-03"
+  died: "1422-10-21"
+  roles: [König von Frankreich]
+  summary: König ab 1380; ab 1392 litt er an wiederkehrenden Anfällen geistiger Krankheit, in denen Verwandte um die Regierung stritten. Der Streit zwischen den Häusern Orléans und Burgund mündete in den Bürgerkrieg. 1420 setzte er im Vertrag von Troyes Heinrich V. von England als Erben ein.
+  regions: [frankreich]
+  themes: [politik]
+  places: [paris, troyes]
+- id: ludwig-von-orleans
+  name: Ludwig von Orléans
+  aliases: [Louis d'Orléans]
+  born: "1372-03-13"
+  died: "1407-11-23"
+  roles: [Herzog von Orléans, Prinz]
+  summary: Bruder Karls VI. und während dessen Krankheit Rivale des Herzogs von Burgund um die Macht am Hof. Seine Ermordung in Paris auf Befehl Johanns Ohnefurcht 1407 löste den Bürgerkrieg zwischen Armagnacs und Bourguignons aus.
+  regions: [frankreich]
+  themes: [politik]
+  places: [paris]
+- id: johann-ohnefurcht
+  name: Johann Ohnefurcht
+  aliases: [Jean sans Peur]
+  born: "1371-05-28"
+  died: "1419-09-10"
+  roles: [Herzog von Burgund]
+  summary: Herzog von Burgund ab 1404, ließ 1407 Ludwig von Orléans ermorden und beherrschte zeitweise Paris. Bei einem Treffen mit dem Dauphin Karl auf der Brücke von Montereau 1419 wurde er von dessen Gefolgsleuten erschlagen, was Burgund an die Seite Englands trieb.
+  regions: [frankreich, westeuropa]
+  themes: [politik, gewalt-genozid]
+  places: [paris, montereau]
+- id: heinrich-v-england
+  name: Heinrich V. von England
+  aliases: [Henry V]
+  born: "~1386"
+  died: "1422-08-31"
+  roles: [König von England]
+  summary: König aus dem Haus Lancaster ab 1413. Er erneuerte den Anspruch auf die französische Krone, siegte 1415 bei Azincourt, eroberte 1417–1419 die Normandie und ließ sich 1420 im Vertrag von Troyes zum Erben Karls VI. bestimmen, dessen Tochter Katharina er heiratete. Er starb wenige Wochen vor Karl VI. bei Vincennes.
+  regions: [britische-inseln, frankreich]
+  themes: [politik, krieg-militaer]
+  places: [azincourt, rouen, troyes]
+- id: philipp-der-gute
+  name: Philipp der Gute
+  aliases: [Philippe le Bon]
+  born: "1396-07-31"
+  died: "1467-06-15"
+  roles: [Herzog von Burgund]
+  summary: Sohn Johanns Ohnefurcht; verbündete sich nach der Ermordung seines Vaters mit England und stützte den Vertrag von Troyes. Im Vertrag von Arras 1435 söhnte er sich mit Karl VII. aus. Unter ihm wurde der burgundische Länderkomplex mit den Niederlanden zu einer führenden Macht Europas.
+  regions: [frankreich, westeuropa]
+  themes: [politik]
+- id: karl-vii
+  name: Karl VII.
+  aliases: [Charles VII, Karl der Siegreiche]
+  born: "1403-02-22"
+  died: "1461-07-22"
+  roles: [König von Frankreich]
+  summary: Als Dauphin 1420 von der Thronfolge ausgeschlossen, behauptete er sich südlich der Loire und wurde 1429 mit Hilfe Jeanne d'Arcs in Reims gekrönt. Nach dem Ausgleich mit Burgund 1435 gewann er Paris, die Normandie und die Guyenne zurück und schuf mit den Ordonnanzkompanien und einer regelmäßigen Steuer Grundlagen der späteren Monarchie.
+  regions: [frankreich]
+  themes: [politik, krieg-militaer]
+  places: [reims, orleans]
+- id: jeanne-d-arc
+  name: Jeanne d'Arc
+  aliases: [Johanna von Orléans, Jungfrau von Orléans, La Pucelle]
+  born: "~1412"
+  died: "1431-05-30"
+  roles: [Heerführerin, Heilige]
+  summary: Bauerntochter aus Domrémy, die sich auf Stimmen von Heiligen berief, 1429 zum Dauphin Karl gelangte, die Belagerung von Orléans brechen half und seine Krönung in Reims durchsetzte. 1430 bei Compiègne von Burgundern gefangen, wurde sie an die Engländer ausgeliefert, in Rouen als rückfällige Ketzerin verurteilt und verbrannt. 1456 wurde das Urteil aufgehoben, 1920 wurde sie heiliggesprochen.
+  regions: [frankreich]
+  themes: [religion, krieg-militaer, politik]
+  places: [domremy, orleans, reims, compiegne, rouen]
+- id: pierre-cauchon
+  name: Pierre Cauchon
+  born: "~1371"
+  died: "1442-12-18"
+  roles: [Bischof von Beauvais, Richter]
+  summary: Pariser Theologe und Parteigänger der Burgunder und Engländer, Bischof von Beauvais. Er leitete 1431 in Rouen den Inquisitionsprozess gegen Jeanne d'Arc, die in seiner Diözese gefangen genommen worden war.
+  regions: [frankreich]
+  themes: [religion, verfassung-recht]
+  places: [rouen]
+- id: johann-von-bedford
+  name: Johann von Lancaster, Herzog von Bedford
+  aliases: [John of Bedford]
+  born: "1389-06-20"
+  died: "1435-09-14"
+  roles: [Regent von Frankreich]
+  summary: Bruder Heinrichs V., der nach dessen Tod 1422 für den unmündigen Heinrich VI. das englisch beherrschte Frankreich regierte. Er siegte 1424 bei Verneuil; sein Tod im Jahr des Vertrags von Arras schwächte die englische Herrschaft entscheidend.
+  regions: [frankreich, britische-inseln]
+  themes: [politik, krieg-militaer]
+  places: [paris, rouen]
+- id: heinrich-vi-england
+  name: Heinrich VI. von England
+  aliases: [Henry VI]
+  born: "1421-12-06"
+  died: "1471-05-21"
+  roles: [König von England, König von Frankreich nach dem Vertrag von Troyes]
+  summary: Sohn Heinrichs V., als Säugling 1422 König von England und – nach dem Vertrag von Troyes – von Frankreich; 1431 in Paris gekrönt. Unter seiner Regierung gingen die französischen Besitzungen bis 1453 verloren; seine Geisteskrankheit ab 1453 trug zum Ausbruch der Rosenkriege bei.
+  regions: [britische-inseln, frankreich]
+  themes: [politik]
+  places: [london, paris]
+- id: john-talbot
+  name: John Talbot
+  aliases: [Earl of Shrewsbury]
+  born: "~1387"
+  died: "1453-07-17"
+  roles: [Heerführer]
+  summary: Einer der bekanntesten englischen Heerführer der Spätphase, 1429 bei Patay gefangen, später Earl of Shrewsbury. Er führte 1452 ein Heer nach Bordeaux, das sich gegen die französische Herrschaft erhoben hatte, und fiel 1453 in der Schlacht von Castillon.
+  regions: [britische-inseln, frankreich]
+  themes: [krieg-militaer]
+  places: [castillon, bordeaux]
+- id: christine-de-pizan
+  name: Christine de Pizan
+  aliases: [Christine de Pisan]
+  born: "~1364"
+  died: "~1430"
+  roles: [Schriftstellerin]
+  summary: In Venedig geborene, am französischen Hof aufgewachsene Autorin, die als Witwe vom Schreiben lebte. Sie verfasste politische und moralische Werke, darunter eine Lebensbeschreibung Karls V. und das „Buch von der Stadt der Frauen“, und 1429 ein Gedicht auf Jeanne d'Arc.
+  regions: [frankreich, italien]
+  themes: [kultur-kunst, gesellschaft, schrift-medien]
+  places: [paris]

@@ -1,0 +1,219 @@
+# Ereignisse: Der Hundertjährige Krieg (r16-100jk)
+- id: hundertjaehriger-krieg
+  title: Hundertjähriger Krieg
+  aliases: [Guerre de Cent Ans, Hundred Years War]
+  start: "1337"
+  end: "1453"
+  weight: 1
+  kind: krieg
+  summary: Folge von Kriegen zwischen den Königen von England und Frankreich um die Guyenne und den Anspruch der englischen Könige auf die französische Krone, unterbrochen von langen Waffenstillständen; sie endete 1453 mit dem Verlust aller englischen Festlandsbesitzungen außer Calais. Der Name wurde erst im 19. Jahrhundert geprägt.
+  regions: [frankreich, britische-inseln, westeuropa]
+  themes: [krieg-militaer, politik]
+  places: [paris, london, bordeaux, calais, orleans]
+  persons: [eduard-iii, philipp-vi, karl-vii, heinrich-v-england, jeanne-d-arc]
+  polities: [koenigreich-frankreich, koenigreich-england, herzogtum-guyenne, herzogtum-burgund]
+- id: beschlagnahme-der-guyenne-1337
+  title: Beschlagnahme der Guyenne
+  date: "1337-05-24"
+  weight: 2
+  kind: ereignis
+  summary: Philipp VI. erklärt das Herzogtum Guyenne Eduards III. für eingezogen, unter anderem weil Eduard den flüchtigen Robert von Artois aufgenommen hatte. Eduard antwortet mit der Aufkündigung seiner Lehnstreue und dem Anspruch auf die französische Krone.
+  regions: [frankreich, britische-inseln]
+  themes: [politik, verfassung-recht]
+  places: [bordeaux]
+  persons: [philipp-vi, eduard-iii]
+  polities: [herzogtum-guyenne, koenigreich-frankreich, koenigreich-england]
+- id: schlacht-von-sluis
+  title: Seeschlacht von Sluis
+  date: "1340-06-24"
+  weight: 2
+  kind: schlacht
+  summary: Die englische Flotte unter Eduard III. vernichtet im Hafen von Sluis die versammelte französische Flotte und sichert sich auf Jahrzehnte die Überlegenheit im Ärmelkanal.
+  regions: [westeuropa, atlantik]
+  themes: [krieg-militaer]
+  places: [sluis]
+  persons: [eduard-iii]
+  polities: [koenigreich-england, koenigreich-frankreich]
+- id: schlacht-von-crecy
+  title: Schlacht von Crécy
+  date: "1346-08-26"
+  weight: 2
+  kind: schlacht
+  summary: Das englische Heer Eduards III., das abgesessen und mit zahlreichen Bogenschützen kämpft, schlägt das größere französische Heer Philipps VI.; unter den Gefallenen ist der blinde König Johann von Böhmen.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+  places: [crecy]
+  persons: [eduard-iii, philipp-vi, eduard-schwarzer-prinz]
+  polities: [koenigreich-england, koenigreich-frankreich]
+- id: belagerung-von-calais
+  title: Belagerung von Calais
+  start: "1346-09"
+  end: "1347-08"
+  weight: 2
+  kind: schlacht
+  summary: Eduard III. hungert Calais in elf Monaten aus; nach Froissart retteten sechs Bürger, die sich im Büßerhemd dem König auslieferten, und die Fürbitte Königin Philippas die Stadt vor dem Strafgericht. Calais blieb bis 1558 englisch.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+  places: [calais]
+  persons: [eduard-iii, philipp-vi]
+  polities: [koenigreich-england, koenigreich-frankreich]
+- id: schlacht-von-poitiers-1356
+  title: Schlacht von Poitiers
+  aliases: [Schlacht von Maupertuis]
+  date: "1356-09-19"
+  weight: 2
+  kind: schlacht
+  summary: Der Schwarze Prinz besiegt nach einem Plünderungszug durch Südfrankreich bei Poitiers das französische Heer und nimmt König Johann II. gefangen; Frankreich gerät in eine schwere innere Krise.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+  places: [poitiers]
+  persons: [eduard-schwarzer-prinz, johann-ii-frankreich]
+  polities: [koenigreich-england, koenigreich-frankreich]
+- id: jacquerie
+  title: Jacquerie
+  aliases: [Bauernaufstand von 1358]
+  start: "1358-05-28"
+  end: "1358-06"
+  certainty: wahrscheinlich
+  weight: 2
+  kind: revolution
+  summary: Bauernaufstand im Beauvaisis und in der Île-de-France gegen den Adel, dem die Niederlage von Poitiers und die Plünderungen der Söldner angelastet wurden; nach wenigen Wochen von Adligen unter Karl von Navarra niedergeschlagen, mit Tausenden Toten. Der Name leitet sich vom Spottnamen „Jacques Bonhomme“ für den Bauern ab.
+  regions: [frankreich]
+  themes: [gesellschaft, gewalt-genozid]
+  places: [paris]
+  persons: [etienne-marcel]
+  polities: [koenigreich-frankreich]
+- id: frieden-von-bretigny
+  title: Frieden von Brétigny
+  aliases: [Vertrag von Brétigny-Calais]
+  date: "1360-05-08"
+  weight: 2
+  kind: vertrag
+  summary: Vorfriede, im Oktober 1360 in Calais bestätigt – England erhält ein vergrößertes Aquitanien, Calais und Ponthieu in voller Souveränität, für Johann II. wird ein Lösegeld von drei Millionen Écus festgesetzt; Eduard III. soll auf die französische Krone verzichten. Die Verzichtsklauseln wurden nie vollzogen.
+  regions: [frankreich, britische-inseln]
+  themes: [politik, verfassung-recht]
+  places: [calais]
+  persons: [eduard-iii, johann-ii-frankreich, karl-v-frankreich]
+  polities: [koenigreich-england, koenigreich-frankreich, herzogtum-guyenne]
+- id: ermordung-ludwigs-von-orleans
+  title: Ermordung Ludwigs von Orléans
+  date: "1407-11-23"
+  weight: 3
+  kind: ereignis
+  summary: Gedungene Mörder im Auftrag Johanns Ohnefurcht von Burgund erschlagen in Paris den Bruder König Karls VI.; die Tat löst den Bürgerkrieg zwischen Armagnacs und Bourguignons aus.
+  regions: [frankreich]
+  themes: [politik, gewalt-genozid]
+  places: [paris]
+  persons: [ludwig-von-orleans, johann-ohnefurcht, karl-vi-frankreich]
+  polities: [koenigreich-frankreich, herzogtum-burgund]
+- id: schlacht-von-azincourt
+  title: Schlacht von Azincourt
+  aliases: [Battle of Agincourt]
+  date: "1415-10-25"
+  weight: 2
+  kind: schlacht
+  summary: Das erschöpfte englische Heer Heinrichs V. besiegt auf dem Rückmarsch nach Calais ein größeres französisches Heer; zahlreiche französische Adlige fallen, viele werden gefangen und ein Teil der Gefangenen auf Befehl des Königs getötet. Die Heeresstärken sind umstritten.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+  places: [azincourt]
+  persons: [heinrich-v-england]
+  polities: [koenigreich-england, koenigreich-frankreich]
+- id: mord-von-montereau
+  title: Mord von Montereau
+  date: "1419-09-10"
+  weight: 3
+  kind: ereignis
+  summary: Bei einem Treffen auf der Brücke von Montereau wird Herzog Johann Ohnefurcht von Burgund in Gegenwart des Dauphins Karl von dessen Gefolgsleuten erschlagen; sein Sohn Philipp der Gute schließt sich daraufhin England an.
+  regions: [frankreich]
+  themes: [politik, gewalt-genozid]
+  places: [montereau]
+  persons: [johann-ohnefurcht, karl-vii, philipp-der-gute]
+  polities: [herzogtum-burgund, koenigreich-frankreich]
+- id: vertrag-von-troyes
+  title: Vertrag von Troyes
+  date: "1420-05-21"
+  weight: 2
+  kind: vertrag
+  summary: Karl VI. bestimmt Heinrich V. von England zum Regenten und Erben Frankreichs; Heinrich heiratet Karls Tochter Katharina, der Dauphin Karl wird von der Thronfolge ausgeschlossen. Beide Kronen sollen künftig in einer Person, aber getrennt regiert werden.
+  regions: [frankreich, britische-inseln]
+  themes: [politik, verfassung-recht]
+  places: [troyes]
+  persons: [karl-vi-frankreich, heinrich-v-england, philipp-der-gute, karl-vii]
+  polities: [koenigreich-frankreich, koenigreich-england, herzogtum-burgund]
+- id: belagerung-von-orleans
+  title: Belagerung von Orléans
+  start: "1428-10-12"
+  end: "1429-05-08"
+  weight: 2
+  kind: schlacht
+  summary: Englische Truppen belagern Orléans, den Schlüssel zum Süden des Königreichs Karls VII.; Ende April 1429 gelangt Jeanne d'Arc mit einem Entsatzkonvoi in die Stadt, am 8. Mai brechen die Engländer die Belagerung ab.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+  places: [orleans]
+  persons: [jeanne-d-arc, johann-von-bedford]
+  polities: [koenigreich-england, koenigreich-frankreich]
+- id: kroenung-karls-vii-reims
+  title: Krönung Karls VII. in Reims
+  date: "1429-07-17"
+  weight: 2
+  kind: herrschaft
+  summary: Nach einem Zug durch von Engländern und Burgundern beherrschtes Gebiet wird Karl VII. im Beisein Jeanne d'Arcs in der Kathedrale von Reims gesalbt und gekrönt, was seine Stellung als rechtmäßiger König stärkt.
+  regions: [frankreich]
+  themes: [politik, religion]
+  places: [reims]
+  persons: [karl-vii, jeanne-d-arc]
+  polities: [koenigreich-frankreich]
+- id: prozess-gegen-jeanne-d-arc
+  title: Prozess gegen Jeanne d'Arc
+  start: "1431-01-09"
+  end: "1431-05-30"
+  weight: 2
+  kind: ereignis
+  summary: Ein Kirchengericht unter Bischof Pierre Cauchon und einem Vertreter der Inquisition verhört Jeanne d'Arc in Rouen. Nach einem Widerruf am 24. Mai gilt sie wenige Tage später als rückfällig und wird am 30. Mai auf dem Alten Markt verbrannt.
+  regions: [frankreich]
+  themes: [religion, verfassung-recht, gewalt-genozid]
+  places: [rouen]
+  persons: [jeanne-d-arc, pierre-cauchon]
+  polities: [koenigreich-england]
+- id: vertrag-von-arras-1435
+  title: Vertrag von Arras
+  date: "1435-09-21"
+  weight: 2
+  kind: vertrag
+  summary: Philipp der Gute von Burgund söhnt sich mit Karl VII. aus und löst das Bündnis mit England; im folgenden Jahr gewinnt Karl VII. Paris zurück.
+  regions: [frankreich]
+  themes: [politik]
+  persons: [philipp-der-gute, karl-vii]
+  polities: [herzogtum-burgund, koenigreich-frankreich, koenigreich-england]
+- id: schlacht-von-formigny
+  title: Schlacht von Formigny
+  date: "1450-04-15"
+  weight: 3
+  kind: schlacht
+  summary: Ein französisches Heer, unterstützt von Feldgeschützen, schlägt in der Normandie ein englisches Entsatzheer; bis August 1450 ist die Normandie französisch.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+  persons: [karl-vii]
+  polities: [koenigreich-frankreich, koenigreich-england]
+- id: schlacht-von-castillon
+  title: Schlacht von Castillon
+  date: "1453-07-17"
+  weight: 2
+  kind: schlacht
+  summary: John Talbot greift ein verschanztes französisches Lager an der Dordogne an und fällt im Feuer der von Jean Bureau aufgestellten Artillerie; im Oktober 1453 kapituliert Bordeaux. Die Schlacht gilt als Ende des Hundertjährigen Krieges, ein Friedensvertrag folgte nicht.
+  regions: [frankreich]
+  themes: [krieg-militaer, wissenschaft-technik]
+  places: [castillon, bordeaux]
+  persons: [john-talbot, karl-vii]
+  polities: [koenigreich-frankreich, koenigreich-england, herzogtum-guyenne]
+- id: rehabilitierung-jeanne-d-arc
+  title: Rehabilitierung Jeanne d'Arcs
+  date: "1456-07-07"
+  weight: 3
+  kind: ereignis
+  summary: Ein mit Zustimmung Papst Calixts III. eingesetztes Gericht erklärt in Rouen das Urteil von 1431 für nichtig, nachdem es seit 1455 zahlreiche Zeugen gehört hatte.
+  regions: [frankreich]
+  themes: [religion, verfassung-recht]
+  places: [rouen, domremy, orleans]
+  persons: [jeanne-d-arc, karl-vii]
+  polities: [koenigreich-frankreich]

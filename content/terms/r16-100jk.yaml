@@ -1,0 +1,41 @@
+# Begriffe: Der Hundertjährige Krieg (r16-100jk)
+- id: lehnshuldigung
+  name: Lehnshuldigung
+  aliases: [Homagium, Hommage, Lehnseid, ligische Huldigung]
+  definition: Ritueller Akt, mit dem ein Vasall sich einem Herrn unterstellte und dafür ein Lehen empfing. Dass die englischen Könige für die Guyenne dem französischen König huldigen mussten, machte sie in Frankreich zu dessen Vasallen und schuf ständige Konflikte über Gerichtsbarkeit und Gehorsam.
+  themes: [verfassung-recht, politik]
+- id: salisches-gesetz
+  name: Salisches Gesetz
+  aliases: [Lex Salica, Loi salique]
+  definition: Frühmittelalterliches fränkisches Volksrecht, das Frauen vom Erbe an Land ausschloss. Französische Juristen beriefen sich erst ab der zweiten Hälfte des 14. und vor allem im 15. Jahrhundert darauf, um nachträglich zu begründen, warum die Krone nicht über Frauen vererbt werden könne – und damit Eduards III. Anspruch abzuweisen.
+  themes: [verfassung-recht, politik]
+- id: langbogen
+  name: Langbogen
+  aliases: [Englischer Langbogen, Longbow]
+  definition: Etwa mannshoher Bogen meist aus Eibenholz, den in England und Wales ausgebildete Bogenschützen in großer Zahl einsetzten. In Verbindung mit abgesessen kämpfenden Rittern trug er zu den englischen Siegen bei Crécy, Poitiers und Azincourt bei.
+  themes: [krieg-militaer, wissenschaft-technik]
+- id: chevauchee
+  name: Chevauchée
+  aliases: [Verwüstungszug, Plünderungszug]
+  definition: Raubzug berittener Truppen durch feindliches Gebiet, bei dem Dörfer niedergebrannt, Vieh weggetrieben und Ernten vernichtet wurden. Die Chevauchée sollte die Wirtschaft und das Ansehen des Gegners schädigen und ihn zur Schlacht zwingen; ihre Hauptopfer waren Bauern.
+  themes: [krieg-militaer, gewalt-genozid]
+- id: freie-kompanien
+  name: Freie Kompanien
+  aliases: [Grandes Compagnies, Routiers, Écorcheurs]
+  definition: Verbände entlassener oder unbezahlter Söldner, die in Waffenstillstandszeiten auf eigene Rechnung Frankreich durchzogen, Burgen besetzten und Schutzgelder erpressten; nach 1360 und erneut in den 1430er-Jahren (als „Écorcheurs“, Schinder) waren sie eine Landplage.
+  themes: [krieg-militaer, gewalt-genozid, gesellschaft]
+- id: armagnacs-und-bourguignons
+  name: Armagnacs und Bourguignons
+  aliases: [Armagnaken, Burgunder, Bürgerkrieg der Armagnacs und Bourguignons]
+  definition: Die beiden Parteien des französischen Bürgerkriegs nach 1407 – die Anhänger des ermordeten Ludwig von Orléans, benannt nach Graf Bernhard VII. von Armagnac, und die Anhänger der Herzöge von Burgund. Beide suchten zeitweise die Unterstützung Englands.
+  themes: [politik, krieg-militaer]
+- id: taille
+  name: Taille
+  aliases: [Taille royale]
+  definition: Direkte Steuer der französischen Krone, die im 14. Jahrhundert für den Krieg erhoben und unter Karl VII. ab den 1430er- und 1440er-Jahren ohne erneute Zustimmung der Stände regelmäßig eingezogen wurde; Adel und Geistlichkeit waren weitgehend befreit. Sie blieb bis 1789 eine Hauptsteuer.
+  themes: [wirtschaft-handel, verfassung-recht]
+- id: ordonnanzkompanien
+  name: Ordonnanzkompanien
+  aliases: [Compagnies d'ordonnance, stehendes Heer]
+  definition: Ab 1445 von Karl VII. aufgestellte, ständig besoldete Reiterverbände unter königlichen Hauptleuten, oft als erstes stehendes Heer im mittelalterlichen Europa bezeichnet; 1448 kamen die Freischützen (francs-archers) als Fußtruppe hinzu.
+  themes: [krieg-militaer, verfassung-recht]

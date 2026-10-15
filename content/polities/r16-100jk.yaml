@@ -1,0 +1,34 @@
+# Staaten: Der Hundertjährige Krieg (r16-100jk)
+- id: herzogtum-guyenne
+  name: Herzogtum Guyenne
+  aliases: [Guyenne, Aquitanien, Gascogne, Fürstentum Aquitanien]
+  start: "1152"
+  end: "1453"
+  spanNote: Durch die Heirat Eleonores von Aquitanien mit Heinrich Plantagenet 1152 an das spätere englische Königshaus gelangt; die englischen Könige hielten das (stark geschrumpfte) Herzogtum bis 1453 als Lehen der französischen Krone, zwischen 1360 und 1369 dem Anspruch nach in voller Souveränität.
+  capital: bordeaux
+  summary: Besitz der englischen Könige im Südwesten Frankreichs um Bordeaux und Bayonne, für den sie dem französischen König lehnspflichtig waren. Die Beschlagnahme der Guyenne durch Philipp VI. 1337 gab den unmittelbaren Anlass zum Hundertjährigen Krieg; der Weinhandel band das Gebiet eng an England.
+  regions: [frankreich]
+  themes: [politik, wirtschaft-handel]
+  weight: 2
+- id: grafschaft-flandern
+  name: Grafschaft Flandern
+  aliases: [Flandern]
+  start: "~862"
+  end: "1795"
+  spanNote: Entstehung im 9. Jahrhundert; ab 1384 im Besitz der Herzöge von Burgund, später der Habsburger, bis zur französischen Annexion 1795.
+  summary: Grafschaft an der Nordseeküste mit den großen Tuchstädten Gent, Brügge und Ypern, die auf englische Rohwolle angewiesen waren. Der Graf war Vasall des französischen Königs; die Städte schlugen sich wiederholt auf die englische Seite.
+  regions: [westeuropa]
+  themes: [wirtschaft-handel, politik]
+  successors: [herzogtum-burgund]
+  weight: 3
+- id: herzogtum-burgund
+  name: Herzogtum Burgund
+  aliases: [Burgund, Burgundischer Staat, Valois-Burgund]
+  start: "1363"
+  end: "1477"
+  spanNote: Gemeint ist der Länderkomplex der Valois-Herzöge von Philipp dem Kühnen (belehnt 1363) bis zum Tod Karls des Kühnen 1477; ein Herzogtum Burgund bestand schon seit dem 9. Jahrhundert.
+  summary: Machtbereich einer Seitenlinie des französischen Königshauses, der neben dem Herzogtum Burgund seit 1384 Flandern und später weite Teile der Niederlande umfasste. Im Bürgerkrieg führten die Herzöge die Partei der Bourguignons und waren 1419–1435 mit England verbündet.
+  regions: [frankreich, westeuropa]
+  themes: [politik, wirtschaft-handel, kultur-kunst]
+  predecessors: [grafschaft-flandern]
+  weight: 2

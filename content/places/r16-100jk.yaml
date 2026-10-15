@@ -1,0 +1,118 @@
+# Orte: Der Hundertjährige Krieg (r16-100jk)
+- id: orleans
+  name: Orléans
+  aliases: [Aurelianum]
+  coords: [1.9093, 47.9030]
+  categories: [stadt]
+  modernName: Orléans, Frankreich
+  summary: Stadt an der Loire, deren Belagerung durch englische Truppen 1428/29 im Mai 1429 unter Beteiligung Jeanne d'Arcs aufgehoben wurde; das Ereignis leitete die Wende des Krieges ein.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+- id: reims
+  name: Reims
+  aliases: [Durocortorum]
+  coords: [4.0317, 49.2583]
+  categories: [stadt, heiligtum]
+  modernName: Reims, Frankreich
+  summary: Bischofsstadt in der Champagne, traditioneller Krönungsort der französischen Könige; hier wurde Karl VII. am 17. Juli 1429 im Beisein Jeanne d'Arcs gesalbt.
+  regions: [frankreich]
+  themes: [religion, politik]
+- id: calais
+  name: Calais
+  coords: [1.8587, 50.9513]
+  categories: [stadt, hafen]
+  modernName: Calais, Frankreich
+  summary: Hafenstadt am Ärmelkanal, die Eduard III. 1346/47 elf Monate belagerte und eroberte; als englischer Brückenkopf und Handelsplatz für Wolle blieb sie bis 1558 in englischer Hand.
+  regions: [frankreich]
+  themes: [krieg-militaer, wirtschaft-handel]
+- id: crecy
+  name: Crécy-en-Ponthieu
+  aliases: [Crécy]
+  coords: [1.8833, 50.2517]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Crécy-en-Ponthieu, Département Somme, Frankreich
+  summary: Ort in der Picardie, bei dem das Heer Eduards III. am 26. August 1346 das französische Ritterheer besiegte; die genaue Lage des Schlachtfeldes wird diskutiert.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+- id: poitiers
+  name: Poitiers
+  aliases: [Limonum]
+  coords: [0.3404, 46.5802]
+  categories: [stadt]
+  modernName: Poitiers, Frankreich
+  summary: Stadt in Westfrankreich; in ihrer Nähe, bei Nouaillé-Maupertuis, besiegte der Schwarze Prinz 1356 das französische Heer und nahm König Johann II. gefangen. Nach 1418 war Poitiers Sitz des Parlaments Karls VII.
+  regions: [frankreich]
+  themes: [krieg-militaer, politik]
+- id: azincourt
+  name: Azincourt
+  aliases: [Agincourt]
+  coords: [2.1300, 50.4630]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Azincourt, Département Pas-de-Calais, Frankreich
+  summary: Dorf im Artois, bei dem Heinrich V. am 25. Oktober 1415 ein zahlenmäßig überlegenes französisches Heer besiegte.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+- id: castillon
+  name: Castillon-la-Bataille
+  aliases: [Castillon]
+  coords: [-0.0425, 44.8530]
+  categories: [schlachtfeld, stadt]
+  modernName: Castillon-la-Bataille, Département Gironde, Frankreich
+  summary: Kleinstadt an der Dordogne östlich von Bordeaux, bei der französische Truppen am 17. Juli 1453 das Heer John Talbots schlugen; die Schlacht gilt als Ende des Hundertjährigen Krieges.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+- id: sluis
+  name: Sluis
+  aliases: [L'Écluse, Sluys]
+  coords: [3.3858, 51.3083]
+  categories: [stadt, hafen]
+  modernName: Sluis, Provinz Zeeland, Niederlande
+  summary: Damals Vorhafen von Brügge an der Mündung des heute verlandeten Zwin; hier vernichtete die englische Flotte am 24. Juni 1340 die französische.
+  regions: [westeuropa]
+  themes: [krieg-militaer, handelsnetze]
+- id: troyes
+  name: Troyes
+  coords: [4.0744, 48.2973]
+  categories: [stadt]
+  modernName: Troyes, Frankreich
+  summary: Stadt in der Champagne, im Mittelalter berühmt für ihre Messen; 1420 wurde hier der Vertrag geschlossen, der Heinrich V. von England zum Erben der französischen Krone machte.
+  regions: [frankreich]
+  themes: [politik, wirtschaft-handel]
+- id: bordeaux
+  name: Bordeaux
+  aliases: [Burdigala]
+  coords: [-0.5792, 44.8378]
+  categories: [stadt, hafen]
+  modernName: Bordeaux, Frankreich
+  summary: Hauptstadt der englischen Guyenne und Zentrum des Weinexports nach England; die Stadt fiel 1451 an Frankreich, erhob sich 1452 zugunsten Englands und kapitulierte im Oktober 1453 endgültig.
+  regions: [frankreich]
+  themes: [wirtschaft-handel, politik]
+- id: gent
+  name: Gent
+  aliases: [Gand, Ghent]
+  coords: [3.7174, 51.0543]
+  categories: [stadt]
+  modernName: Gent, Belgien
+  summary: Eine der größten Städte Flanderns und Zentrum der Tuchherstellung, die auf englische Wolle angewiesen war; unter Jakob van Artevelde verbündete sie sich mit Eduard III., der hier 1340 den französischen Königstitel annahm.
+  regions: [westeuropa]
+  themes: [wirtschaft-handel, politik]
+- id: domremy
+  name: Domrémy
+  aliases: [Domrémy-la-Pucelle]
+  coords: [5.6747, 48.4417]
+  categories: [stadt]
+  modernName: Domrémy-la-Pucelle, Département Vosges, Frankreich
+  summary: Dorf an der Maas an der Grenze zu Lothringen, Geburtsort Jeanne d'Arcs.
+  regions: [frankreich]
+  themes: [religion]
+- id: montereau
+  name: Montereau
+  aliases: [Montereau-Fault-Yonne]
+  coords: [2.9530, 48.3850]
+  categories: [stadt]
+  modernName: Montereau-Fault-Yonne, Frankreich
+  summary: Stadt am Zusammenfluss von Seine und Yonne, auf deren Brücke Herzog Johann Ohnefurcht von Burgund am 10. September 1419 bei einem Treffen mit dem Dauphin Karl erschlagen wurde.
+  regions: [frankreich]
+  themes: [politik]
