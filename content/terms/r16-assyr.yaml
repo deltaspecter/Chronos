@@ -1,0 +1,36 @@
+# Begriffe: Das Neuassyrische Reich
+- id: massendeportation
+  name: Massendeportation (Assyrien)
+  aliases: [Deportation, Umsiedlungspolitik, šaglūte]
+  definition: Planmäßige Umsiedlung besiegter Bevölkerungen in andere Teile des Neuassyrischen Reiches, die besonders seit Tiglat-Pileser III. Aufstände verhindern, Arbeitskräfte und Soldaten gewinnen und Land erschließen sollte; die Deportierten zogen meist in Familienverbänden und wurden neu angesiedelt, nicht durchweg versklavt.
+  themes: [migration, imperien, gewalt-genozid]
+- id: lamassu
+  name: Lamassu
+  aliases: [Torhüter, geflügelter Stier, Schedu, Aladlammû]
+  definition: Kolossale Torfiguren assyrischer Paläste in Gestalt eines geflügelten Stiers oder Löwen mit Menschenkopf, die als Schutzwesen die Eingänge bewachten; meist mit fünf Beinen gearbeitet, damit sie von vorn und von der Seite vollständig wirken.
+  themes: [kultur-kunst, religion]
+- id: orthostatenrelief
+  name: Assyrisches Palastrelief
+  aliases: [Orthostatenrelief, Wandrelief, Palastreliefs]
+  definition: Flachreliefs auf Steinplatten (Orthostaten), mit denen die Wände der neuassyrischen Paläste seit Assurnasirpal II. verkleidet waren; sie zeigen Kriege, Belagerungen, Tributbringer, Jagden und Rituale und waren ursprünglich farbig bemalt.
+  themes: [kultur-kunst, politik]
+- id: eponymenliste
+  name: Eponymenliste
+  aliases: [Limmu-Liste, Eponymenchronik, limmu]
+  definition: Assyrische Liste der Jahresbeamten (limmu), nach denen jedes Jahr benannt wurde; weil sie für das Jahr eines bestimmten Beamten eine Sonnenfinsternis verzeichnet, die astronomisch auf den 15. Juni 763 v. Chr. datiert wird, bildet sie das Rückgrat der absoluten Chronologie des 1. Jahrtausends v. Chr. im Vorderen Orient.
+  themes: [geschichtsschreibung, wissenschaft-technik]
+- id: ade-vertrag
+  name: Adê-Vertrag
+  aliases: [adê, Loyalitätseid, Vasallenvertrag]
+  definition: Assyrischer Treueeid, mit dem Vasallen, Beamte und Untertanen unter Anrufung der Götter und Androhung von Flüchen auf den König und seine Nachfolgeregelung verpflichtet wurden; bekanntestes Beispiel ist der Thronfolgevertrag Asarhaddons von 672 v. Chr.
+  themes: [verfassung-recht, politik, religion]
+- id: koenigsinschrift
+  name: Assyrische Königsinschrift
+  aliases: [Annalen, Tatenbericht, Königsannalen]
+  definition: In Stein, auf Tonprismen oder Zylindern festgehaltener Bericht im Namen des Königs über Feldzüge und Bauten, oft nach Regierungsjahren geordnet; er diente der Selbstdarstellung vor Göttern und Nachwelt und ist deshalb parteiisch, aber eine Hauptquelle für die Ereignisgeschichte.
+  themes: [schrift-medien, geschichtsschreibung, politik]
+- id: bibliothek-assurbanipals
+  name: Bibliothek Assurbanipals
+  aliases: [Bibliothek von Ninive, Library of Ashurbanipal]
+  definition: Im 7. Jahrhundert v. Chr. in Ninive angelegte Sammlung literarischer, religiöser und gelehrter Keilschrifttexte – darunter Omina, Beschwörungen, Wörterlisten und das Gilgamesch-Epos –, für die Assurbanipal auch Tafeln aus Babylonien abschreiben und beschlagnahmen ließ; die rund 30.000 Tafeln und Fragmente aus Ninive im British Museum umfassen neben ihr auch Archivtexte.
+  themes: [schrift-medien, wissenschaft-technik, kultur-kunst]

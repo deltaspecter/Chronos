@@ -1,0 +1,58 @@
+# Staaten: Das Neuassyrische Reich
+- id: neuassyrisches-reich
+  name: Neuassyrisches Reich
+  aliases: [Assyrien, Assyrisches Reich, Neo-Assyrian Empire, Land Assur]
+  start: "-911"
+  end: "-609"
+  spanNote: Beginn konventionell mit dem Regierungsantritt Adad-nirari II. 911 v. Chr.; Ende mit dem gescheiterten Versuch, Harran 609 v. Chr. zurückzuerobern. Hauptstädte nacheinander Assur, Kalchu, Dur-Scharrukin und Ninive.
+  capital: ninive
+  summary: Von der Stadt Assur am Tigris ausgehender Staat, der im 9. bis 7. Jahrhundert v. Chr. Mesopotamien, die Levante, Teile Anatoliens und Irans und zeitweise Ägypten beherrschte; er gilt vielen Forschern als erstes Weltreich. 614–609 v. Chr. von Babyloniern und Medern zerstört.
+  regions: [mesopotamien, westasien, levante, anatolien, iran]
+  themes: [imperien, krieg-militaer, politik]
+  successors: [neubabylonisches-reich]
+  weight: 1
+- id: neubabylonisches-reich
+  name: Neubabylonisches Reich
+  aliases: [Chaldäisches Reich, Neo-Babylonian Empire]
+  start: "-626"
+  end: "-539"
+  capital: babylon
+  summary: Von Nabopolassar begründetes Reich mit der Hauptstadt Babylon, das nach dem Sieg über Assyrien dessen westliche Gebiete übernahm; unter Nebukadnezar II. eroberte es 587/586 v. Chr. Jerusalem. 539 v. Chr. von Kyros II. eingenommen.
+  regions: [mesopotamien, levante]
+  themes: [imperien, politik]
+  predecessors: [neuassyrisches-reich]
+  successors: [achaemenidenreich]
+  weight: 2
+- id: meder
+  name: Meder
+  aliases: [Medien, Medisches Reich, Mada]
+  start: "~-700?"
+  end: "-550"
+  spanNote: Ob die Meder vor Kyros II. einen zentral regierten Staat oder einen lockeren Verband von Fürstentümern bildeten, ist umstritten.
+  capital: ekbatana
+  summary: Iranischsprachige Bevölkerung im Zagros-Gebirge um Ekbatana (Hamadan), die in assyrischen Texten oft als Ziel von Feldzügen und Tributlieferant erscheint; unter Kyaxares beteiligten sich die Meder entscheidend an der Zerstörung Assyriens. Um 550 v. Chr. übernahm Kyros II. ihre Herrschaft.
+  regions: [iran]
+  themes: [politik, krieg-militaer]
+  successors: [achaemenidenreich]
+  weight: 3
+- id: koenigreich-israel
+  name: Königreich Israel (Nordreich)
+  aliases: [Nordreich Israel, Haus Omri, Bit Ḫumri]
+  start: "~-930?"
+  end: "-720"
+  spanNote: Beginn nach biblischer Chronologie um 930 v. Chr., Ende mit dem Fall Samarias 722/720 v. Chr.
+  capital: samaria
+  summary: Königreich im mittleren und nördlichen Bergland Palästinas mit der Hauptstadt Samaria, in assyrischen Texten nach der Dynastie Omris benannt; es wurde nach Aufständen von Assyrien erobert und in Provinzen umgewandelt.
+  regions: [levante]
+  themes: [politik, religion]
+  weight: 3
+- id: koenigreich-juda
+  name: Königreich Juda
+  aliases: [Juda, Südreich]
+  start: "~-930?"
+  end: "-586"
+  capital: jerusalem
+  summary: Königreich im südlichen Bergland Palästinas mit der Hauptstadt Jerusalem, im 8. und 7. Jahrhundert v. Chr. assyrischer Vasall; 701 v. Chr. von Sanherib verwüstet, 587/586 v. Chr. von Nebukadnezar II. erobert.
+  regions: [levante]
+  themes: [politik, religion]
+  weight: 3

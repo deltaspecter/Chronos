@@ -1,0 +1,174 @@
+# Personen: Das Neuassyrische Reich
+- id: assurnasirpal-ii
+  name: Assurnasirpal II.
+  aliases: [Aššur-naṣir-apli II., Ashurnasirpal II]
+  born: "~-910?"
+  died: "-859"
+  roles: [König von Assyrien]
+  summary: Assyrischer König (883–859 v. Chr.), der in jährlichen Feldzügen die Herrschaft bis an den Euphrat und ans Mittelmeer ausdehnte und Kalchu (Nimrud) zur neuen Hauptstadt ausbaute; in seinen Inschriften rühmt er sich drastischer Strafen gegen Aufständische.
+  regions: [mesopotamien, levante]
+  themes: [imperien, krieg-militaer, kultur-kunst]
+  places: [kalchu, assur]
+  related: [salmanassar-iii]
+- id: salmanassar-iii
+  name: Salmanassar III.
+  aliases: [Šulmānu-ašarēd III., Shalmaneser III]
+  died: "-824"
+  roles: [König von Assyrien]
+  summary: Sohn Assurnasirpals II. und assyrischer König (858–824 v. Chr.), der fast jedes Jahr Krieg führte, 853 v. Chr. bei Qarqar auf eine syrisch-levantinische Koalition traf und auf dem Schwarzen Obelisken den Tribut König Jehus von Israel darstellen ließ; am Ende seiner Regierung erschütterte ein Aufstand das Reich.
+  regions: [mesopotamien, levante, anatolien]
+  themes: [imperien, krieg-militaer]
+  places: [kalchu, qarqar]
+  related: [assurnasirpal-ii, ahab]
+- id: tiglat-pileser-iii
+  name: Tiglat-Pileser III.
+  aliases: [Tukultī-apil-Ešarra III., Tiglath-Pileser III, Pul, Pulu]
+  died: "-727"
+  roles: [König von Assyrien, König von Babylon]
+  summary: Assyrischer König (745–727 v. Chr.), wohl ein Usurpator, der die Provinzverwaltung neu ordnete, ein stehendes Heer aufbaute, Massendeportationen zum System machte und große Teile der Levante sowie 729 v. Chr. Babylon unmittelbar unter assyrische Herrschaft brachte; in der Bibel auch Pul genannt.
+  regions: [mesopotamien, levante]
+  themes: [imperien, politik, migration]
+  places: [kalchu, babylon, damaskus]
+- id: salmanassar-v
+  name: Salmanassar V.
+  aliases: [Shalmaneser V]
+  died: "-722"
+  roles: [König von Assyrien]
+  summary: Sohn Tiglat-Pilesers III. und assyrischer König (726–722 v. Chr.), unter dem die Belagerung Samarias begann; ob die Stadt noch unter ihm oder erst unter Sargon II. fiel, ist umstritten.
+  regions: [mesopotamien, levante]
+  themes: [imperien, krieg-militaer]
+  places: [samaria]
+- id: sargon-ii
+  name: Sargon II.
+  aliases: [Šarru-kēn II., Sargon II]
+  died: "-705"
+  roles: [König von Assyrien]
+  summary: Assyrischer König (721–705 v. Chr.), der wohl nicht der vorgesehene Thronfolger war, die Eroberung Samarias für sich beanspruchte, 714 v. Chr. Urartu schlug und die neue Hauptstadt Dur-Scharrukin errichten ließ; er fiel 705 v. Chr. in Anatolien, sein Leichnam wurde nicht geborgen.
+  regions: [mesopotamien, levante, anatolien]
+  themes: [imperien, krieg-militaer, kultur-kunst]
+  places: [dur-scharrukin, samaria, kalchu]
+  related: [sanherib]
+- id: sanherib
+  name: Sanherib
+  aliases: [Sîn-aḫḫē-erība, Sennacherib]
+  died: "-681"
+  roles: [König von Assyrien]
+  summary: Sohn Sargons II. und assyrischer König (704–681 v. Chr.), der Ninive mit Palast, Kanälen und Gärten zur Hauptstadt ausbaute, 701 v. Chr. Juda unterwarf, Lachisch eroberte und Jerusalem einschloss, 689 v. Chr. Babylon zerstörte und von einem seiner Söhne ermordet wurde.
+  regions: [mesopotamien, levante]
+  themes: [imperien, krieg-militaer, kultur-kunst]
+  places: [ninive, lachisch, jerusalem, babylon]
+  related: [sargon-ii, asarhaddon, hiskia]
+- id: asarhaddon
+  name: Asarhaddon
+  aliases: [Aššur-aḫa-iddina, Esarhaddon]
+  died: "-669"
+  roles: [König von Assyrien]
+  summary: Jüngerer Sohn Sanheribs und assyrischer König (680–669 v. Chr.), der sich nach dem Mord an seinem Vater in einem Bürgerkrieg durchsetzte, Babylon wieder aufbauen ließ, 672 v. Chr. seine Nachfolge durch Eide regelte und 671 v. Chr. Memphis eroberte; er starb auf einem weiteren Zug nach Ägypten.
+  regions: [mesopotamien, aegypten, levante]
+  themes: [imperien, politik, religion]
+  places: [ninive, babylon, memphis]
+  related: [sanherib, naqia, assurbanipal, samas-sum-ukin, taharqa]
+- id: naqia
+  name: Naqia
+  aliases: [Zakutu, Naqiʾa]
+  roles: [Königsmutter]
+  summary: Frau Sanheribs und Mutter Asarhaddons, die als Königsmutter ungewöhnlich großen politischen Einfluss besaß; nach Asarhaddons Tod ließ sie die Bevölkerung auf die Thronfolge Assurbanipals vereidigen.
+  regions: [mesopotamien]
+  themes: [politik, gesellschaft]
+  places: [ninive]
+  related: [sanherib, asarhaddon, assurbanipal]
+- id: assurbanipal
+  name: Assurbanipal
+  aliases: [Aššur-bāni-apli, Ashurbanipal, Sardanapal]
+  died: "~-631?"
+  roles: [König von Assyrien]
+  summary: Sohn Asarhaddons und assyrischer König (668 – um 631 v. Chr.), unter dem Theben geplündert, der Aufstand seines Bruders Šamaš-šum-ukin in Babylon niedergeschlagen und Elam verwüstet wurde; er ließ in Ninive eine große Sammlung von Keilschrifttexten anlegen. Das Ende seiner Regierung ist unsicher.
+  regions: [mesopotamien, aegypten, iran]
+  themes: [imperien, krieg-militaer, wissenschaft-technik, schrift-medien]
+  places: [ninive, theben, babylon, susa]
+  related: [asarhaddon, samas-sum-ukin]
+- id: samas-sum-ukin
+  name: Šamaš-šum-ukin
+  aliases: [Schamasch-schum-ukin, Shamash-shum-ukin]
+  died: "-648"
+  roles: [König von Babylon]
+  summary: Älterer Bruder Assurbanipals, den Asarhaddon als König von Babylon vorsah; er regierte dort ab 668 v. Chr. unter assyrischer Oberhoheit, erhob sich 652 v. Chr. gegen seinen Bruder und kam 648 v. Chr. beim Fall der belagerten Stadt ums Leben.
+  regions: [mesopotamien]
+  themes: [politik, krieg-militaer]
+  places: [babylon]
+  related: [assurbanipal, asarhaddon]
+- id: nabopolassar
+  name: Nabopolassar
+  aliases: [Nabû-apla-uṣur]
+  died: "-605"
+  roles: [König von Babylon]
+  summary: Begründer des Neubabylonischen Reiches, der sich 626 v. Chr. in Babylon zum König machte, die Assyrer aus Babylonien vertrieb und gemeinsam mit den Medern Ninive 612 v. Chr. eroberte; Vater Nebukadnezars II.
+  regions: [mesopotamien]
+  themes: [politik, krieg-militaer, imperien]
+  places: [babylon, ninive, harran]
+  related: [kyaxares]
+- id: kyaxares
+  name: Kyaxares
+  aliases: [Umakištar, Huvaxštra, Cyaxares]
+  died: "~-585?"
+  roles: [König der Meder]
+  summary: Herrscher der Meder, der nach der babylonischen Chronik 614 v. Chr. Assur eroberte und 612 v. Chr. mit Nabopolassar Ninive einnahm; Umfang und Organisation seiner Herrschaft sind in der Forschung umstritten.
+  regions: [iran, mesopotamien]
+  themes: [politik, krieg-militaer]
+  places: [assur, ninive, ekbatana]
+  related: [nabopolassar]
+- id: assur-uballit-ii
+  name: Aššur-uballiṭ II.
+  aliases: [Assur-uballit II., Ashur-uballit II]
+  roles: [König von Assyrien]
+  summary: Letzter assyrischer König, der nach dem Fall Ninives 612 v. Chr. in Harran residierte, die Stadt 610 v. Chr. verlor und 609 v. Chr. mit ägyptischer Hilfe vergeblich versuchte, sie zurückzugewinnen; danach verliert sich seine Spur.
+  regions: [mesopotamien, anatolien]
+  themes: [politik, krieg-militaer]
+  places: [harran]
+- id: hiskia
+  name: Hiskia
+  aliases: [Hezekiah, Ḫazaqiyau, Ezechias]
+  roles: [König von Juda]
+  summary: König von Juda (um 715–687 v. Chr., Daten umstritten), der sich gegen Assyrien erhob; 701 v. Chr. verwüstete Sanherib sein Land und schloss ihn in Jerusalem ein, die Stadt wurde aber nicht erobert und Hiskia zahlte hohen Tribut.
+  regions: [levante]
+  themes: [politik, religion]
+  places: [jerusalem, lachisch]
+  related: [sanherib]
+- id: ahab
+  name: Ahab
+  aliases: [Aḫabbu]
+  roles: [König von Israel]
+  summary: König des Nordreichs Israel (um 871–852 v. Chr.), der nach dem Monolith von Kurkh 853 v. Chr. mit 2000 Streitwagen und 10.000 Fußsoldaten an der Koalition gegen Salmanassar III. bei Qarqar teilnahm – die früheste außerbiblische Nennung eines Königs von Israel mit Namen.
+  regions: [levante]
+  themes: [politik, krieg-militaer]
+  places: [samaria, qarqar]
+  related: [salmanassar-iii]
+- id: paul-emile-botta
+  name: Paul-Émile Botta
+  born: "1802-12-06"
+  died: "1870-03-29"
+  roles: [Diplomat, Ausgräber]
+  summary: Französischer Konsul in Mossul, der 1843 in Khorsabad den Palast Sargons II. freilegte und damit die erste große assyrische Palastanlage entdeckte; er hielt den Ort zunächst für Ninive. Seine Funde bildeten den Grundstock der assyrischen Sammlung des Louvre.
+  regions: [mesopotamien, frankreich]
+  themes: [archaeologie]
+  places: [dur-scharrukin]
+- id: austen-henry-layard
+  name: Austen Henry Layard
+  born: "1817-03-05"
+  died: "1894-07-05"
+  roles: [Ausgräber, Diplomat, Politiker]
+  summary: Britischer Reisender und Archäologe, der ab 1845 in Nimrud und dann auf dem Ruinenhügel Kuyunjik in Ninive grub, Palastreliefs und Kolossalfiguren ins British Museum brachte und mit seinen Büchern eine europäische Assyrien-Begeisterung auslöste; später Politiker und Botschafter.
+  regions: [mesopotamien, britische-inseln]
+  themes: [archaeologie]
+  places: [kalchu, ninive]
+  related: [hormuzd-rassam, paul-emile-botta]
+- id: hormuzd-rassam
+  name: Hormuzd Rassam
+  born: "1826"
+  died: "1910-09-16"
+  roles: [Ausgräber, Diplomat]
+  summary: Aus Mossul stammender assyrischer Christ, zunächst Mitarbeiter Layards, der 1853/54 in Ninive den Nordpalast Assurbanipals mit den Reliefs der Löwenjagd und vielen Tafeln der Bibliothek entdeckte; sein Anteil wurde von britischen Zeitgenossen oft heruntergespielt.
+  regions: [mesopotamien, britische-inseln]
+  themes: [archaeologie]
+  places: [ninive]
+  related: [austen-henry-layard]

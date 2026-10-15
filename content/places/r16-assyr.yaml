@@ -1,0 +1,74 @@
+# Orte: Das Neuassyrische Reich
+- id: assur
+  name: Assur
+  aliases: [Aššur, Ashur, Qalʿat Scherqat, Qal'at Sherqat]
+  coords: [43.2620, 35.4570]
+  categories: [stadt, heiligtum, fundstaette]
+  modernName: Qalʿat Scherqat (Irak)
+  summary: Stadt am Westufer des Tigris, namengebendes Kultzentrum des Gottes Assur und älteste Hauptstadt Assyriens; auch nach der Verlegung der Residenz blieb sie religiöses Zentrum und Begräbnisort der Könige. 614 v. Chr. von den Medern erobert; seit 2003 UNESCO-Welterbe.
+  regions: [mesopotamien]
+  themes: [religion, politik, archaeologie]
+- id: kalchu
+  name: Kalchu
+  aliases: [Nimrud, Kalḫu, Calah, Kelach]
+  coords: [43.3290, 36.0980]
+  categories: [stadt, hauptstadt, fundstaette]
+  modernName: Nimrud (Irak)
+  summary: Stadt am Tigris, die Assurnasirpal II. ab etwa 879 v. Chr. zur Hauptstadt ausbaute; Fundort des Nordwestpalastes mit Reliefs und Torfiguren, des Schwarzen Obelisken und reicher Königinnengräber. 2015 sprengten und planierten Kämpfer des IS große Teile der Palastruinen.
+  regions: [mesopotamien]
+  themes: [politik, kultur-kunst, archaeologie]
+- id: dur-scharrukin
+  name: Dur-Scharrukin
+  aliases: [Dūr-Šarrukīn, Khorsabad, Chorsabad, „Sargonsburg“]
+  coords: [43.2290, 36.5090]
+  categories: [stadt, hauptstadt, fundstaette]
+  modernName: Khorsabad (Irak)
+  summary: Von Sargon II. ab 717 v. Chr. neu gegründete Hauptstadt nordöstlich von Ninive; nach seinem Tod 705 v. Chr. als Residenz aufgegeben. Botta legte hier 1843 den ersten assyrischen Palast frei.
+  regions: [mesopotamien]
+  themes: [politik, kultur-kunst, archaeologie]
+- id: ninive
+  name: Ninive
+  aliases: [Nineveh, Ninua, Kuyunjik, Kujundschik, Nebi Yunus]
+  coords: [43.1520, 36.3590]
+  categories: [stadt, hauptstadt, fundstaette]
+  modernName: Ostteil von Mossul (Irak)
+  summary: Alte Stadt am Ostufer des Tigris, die Sanherib um 700 v. Chr. zur größten Hauptstadt Assyriens ausbaute; Sitz der Paläste Sanheribs und Assurbanipals und Fundort der Tafelsammlung Assurbanipals. 612 v. Chr. von Babyloniern und Medern zerstört.
+  regions: [mesopotamien]
+  themes: [politik, kultur-kunst, schrift-medien, archaeologie]
+- id: qarqar
+  name: Qarqar
+  aliases: [Karkar, Tell Qarqur]
+  coords: [36.3200, 35.7400]
+  location: umstritten
+  categories: [schlachtfeld, stadt]
+  modernName: wahrscheinlich Tell Qarqur am Orontes (Syrien)
+  summary: Ort am Orontes im Gebiet von Hamat, bei dem 853 v. Chr. Salmanassar III. gegen eine Koalition syrischer und levantinischer Herrscher kämpfte; die Gleichsetzung mit Tell Qarqur ist wahrscheinlich, aber nicht gesichert.
+  regions: [levante]
+  themes: [krieg-militaer]
+- id: lachisch
+  name: Lachisch
+  aliases: [Lachish, Lakiš, Tel Lachisch, Tell ed-Duweir]
+  coords: [34.8490, 31.5650]
+  categories: [stadt, fundstaette]
+  modernName: Tel Lachisch (Israel)
+  summary: Nach Jerusalem wichtigste Festungsstadt des Königreichs Juda, 701 v. Chr. von Sanherib belagert und erobert; die Ausgrabungen haben die assyrische Belagerungsrampe freigelegt, die Reliefs aus Ninive zeigen die Einnahme.
+  regions: [levante]
+  themes: [krieg-militaer, archaeologie]
+- id: samaria
+  name: Samaria
+  aliases: [Schomron, Sebaste, Sebastia, Samerina]
+  coords: [35.1920, 32.2760]
+  categories: [stadt, hauptstadt, fundstaette]
+  modernName: Sebastia (Westjordanland)
+  summary: Hauptstadt des Nordreichs Israel, nach mehrjähriger Belagerung 722 oder 720 v. Chr. von den Assyrern eingenommen; ihre Bewohner wurden teilweise deportiert, das Gebiet wurde als Provinz Samerina dem Reich eingegliedert.
+  regions: [levante]
+  themes: [politik, migration]
+- id: harran
+  name: Harran
+  aliases: [Ḫarrānu, Carrhae, Haran]
+  coords: [39.0310, 36.8650]
+  categories: [stadt, heiligtum, fundstaette]
+  modernName: Harran (Türkei)
+  summary: Stadt in Obermesopotamien mit einem bedeutenden Heiligtum des Mondgottes Sin; nach dem Fall Ninives letzte Residenz der assyrischen Könige, 610 v. Chr. von Babyloniern und Medern eingenommen.
+  regions: [mesopotamien, anatolien]
+  themes: [religion, politik]

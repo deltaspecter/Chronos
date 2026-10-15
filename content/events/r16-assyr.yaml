@@ -1,0 +1,183 @@
+# Ereignisse: Das Neuassyrische Reich
+- id: einweihung-kalchu
+  title: Einweihung des Nordwestpalastes in Kalchu
+  date: "~-879"
+  certainty: wahrscheinlich
+  weight: 3
+  kind: gruendung
+  summary: Assurnasirpal II. feiert die Fertigstellung seines Palastes in der neuen Hauptstadt Kalchu nach eigener Angabe mit einem zehntägigen Fest für 69.574 Gäste; die Zahl stammt aus der königlichen Bankettstele.
+  regions: [mesopotamien]
+  themes: [politik, kultur-kunst]
+  places: [kalchu]
+  persons: [assurnasirpal-ii]
+  polities: [neuassyrisches-reich]
+- id: schlacht-von-qarqar
+  title: Schlacht von Qarqar
+  date: "-853"
+  weight: 2
+  kind: schlacht
+  summary: Salmanassar III. trifft am Orontes auf eine Koalition unter Führung von Damaskus und Hamat, an der auch Ahab von Israel teilnimmt; die assyrischen Texte melden einen Sieg mit stark schwankenden Gefallenenzahlen, doch der Vorstoß nach Süden kam vorerst zum Stehen.
+  regions: [levante]
+  themes: [krieg-militaer]
+  places: [qarqar, damaskus]
+  persons: [salmanassar-iii, ahab]
+  polities: [neuassyrisches-reich, koenigreich-israel]
+- id: reformen-tiglat-pileser-iii
+  title: Reformen Tiglat-Pilesers III.
+  start: "-745"
+  end: "-727"
+  weight: 2
+  kind: entwicklung
+  summary: Der neue König teilt das Reich in kleinere, von Statthaltern geführte Provinzen, baut ein stehendes Heer auf und lässt unterworfene Bevölkerungen in großem Umfang umsiedeln; Vasallenstaaten werden nach Aufständen zunehmend zu Provinzen.
+  regions: [mesopotamien, levante]
+  themes: [imperien, politik, migration]
+  persons: [tiglat-pileser-iii]
+  polities: [neuassyrisches-reich]
+- id: fall-samarias
+  title: Fall Samarias
+  date: "-722"
+  certainty: umstritten
+  dateNote: Nach der Bibel 722 v. Chr. unter Salmanassar V.; Sargon II. beansprucht die Einnahme für sich, möglicherweise nach einem erneuten Aufstand 720 v. Chr.
+  weight: 2
+  kind: krieg
+  summary: Nach mehrjähriger Belagerung fällt die Hauptstadt des Nordreichs Israel; Sargon II. gibt an, 27.290 Menschen deportiert zu haben, und siedelt Menschen aus anderen Reichsteilen an. Das Königreich Israel endet.
+  regions: [levante]
+  themes: [krieg-militaer, migration]
+  places: [samaria]
+  persons: [salmanassar-v, sargon-ii]
+  polities: [neuassyrisches-reich, koenigreich-israel]
+- id: bau-dur-scharrukin
+  title: Bau von Dur-Scharrukin
+  start: "-717"
+  end: "-706"
+  weight: 3
+  kind: gruendung
+  summary: Sargon II. lässt bei Khorsabad eine neue Hauptstadt mit Palast, Tempeln und Stadtmauer anlegen und 706 v. Chr. einweihen; nach seinem Tod im Kampf 705 v. Chr. verlegt Sanherib die Residenz nach Ninive.
+  regions: [mesopotamien]
+  themes: [politik, kultur-kunst]
+  places: [dur-scharrukin]
+  persons: [sargon-ii]
+  polities: [neuassyrisches-reich]
+- id: feldzug-sanherib-juda
+  title: Sanheribs Feldzug gegen Juda
+  date: "-701"
+  weight: 2
+  kind: krieg
+  summary: Sanherib schlägt einen Aufstand levantinischer Staaten nieder, erobert Lachisch und nach eigener Angabe 46 befestigte Orte Judas und schließt König Hiskia in Jerusalem ein; die Stadt wird nicht erobert, Hiskia zahlt Tribut. Die Bibel berichtet von einer wundersamen Rettung Jerusalems.
+  regions: [levante]
+  themes: [krieg-militaer, religion]
+  places: [lachisch, jerusalem]
+  persons: [sanherib, hiskia]
+  polities: [neuassyrisches-reich, koenigreich-juda]
+- id: zerstoerung-babylons-689
+  title: Zerstörung Babylons durch Sanherib
+  date: "-689"
+  weight: 2
+  kind: katastrophe
+  summary: Nach Jahren babylonischer Aufstände und der Auslieferung seines Sohnes an Elam lässt Sanherib Babylon nach langer Belagerung erobern und nach eigener Darstellung verwüsten und unter Wasser setzen; die Götterstatue Marduks wird nach Assyrien gebracht.
+  regions: [mesopotamien]
+  themes: [krieg-militaer, religion, gewalt-genozid]
+  places: [babylon]
+  persons: [sanherib]
+  polities: [neuassyrisches-reich]
+- id: ermordung-sanheribs
+  title: Ermordung Sanheribs
+  date: "-681"
+  weight: 3
+  kind: ereignis
+  summary: Sanherib wird von einem oder mehreren seiner Söhne ermordet, nachdem er den jüngeren Asarhaddon zum Nachfolger bestimmt hatte; Asarhaddon setzt sich in einem kurzen Bürgerkrieg durch.
+  regions: [mesopotamien]
+  themes: [politik]
+  places: [ninive]
+  persons: [sanherib, asarhaddon]
+  polities: [neuassyrisches-reich]
+- id: thronfolgevertrag-asarhaddons
+  title: Thronfolgevertrag Asarhaddons
+  date: "-672"
+  weight: 3
+  kind: vertrag
+  summary: Asarhaddon lässt Vasallen und Würdenträger durch Eide verpflichten, Assurbanipal als König von Assyrien und Šamaš-šum-ukin als König von Babylon anzuerkennen; Abschriften wurden in Kalchu und 2009 in Tell Tayinat gefunden.
+  regions: [mesopotamien, levante]
+  themes: [politik, verfassung-recht]
+  places: [kalchu]
+  persons: [asarhaddon, assurbanipal, samas-sum-ukin]
+  polities: [neuassyrisches-reich]
+- id: bruderkrieg-assurbanipal
+  title: Bruderkrieg zwischen Assurbanipal und Šamaš-šum-ukin
+  start: "-652"
+  end: "-648"
+  weight: 2
+  kind: krieg
+  summary: Der König von Babylon erhebt sich mit Unterstützung von Elamern, Aramäern und Arabern gegen seinen Bruder; nach mehrjähriger Belagerung und Hungersnot fällt Babylon 648 v. Chr., Šamaš-šum-ukin kommt ums Leben.
+  regions: [mesopotamien]
+  themes: [krieg-militaer, politik]
+  places: [babylon]
+  persons: [assurbanipal, samas-sum-ukin]
+  polities: [neuassyrisches-reich]
+- id: pluenderung-susas
+  title: Plünderung von Susa
+  date: "~-646"
+  certainty: wahrscheinlich
+  weight: 3
+  kind: krieg
+  summary: Assyrische Truppen erobern die elamische Hauptstadt Susa; Assurbanipal beschreibt die Zerstörung von Tempeln und Königsgräbern und die Verschleppung von Menschen und Götterbildern.
+  regions: [iran]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [susa]
+  persons: [assurbanipal]
+  polities: [neuassyrisches-reich]
+- id: fall-von-assur
+  title: Eroberung Assurs durch die Meder
+  date: "-614"
+  weight: 3
+  kind: krieg
+  summary: Nach der babylonischen Chronik erobern die Meder die alte Kultstadt Assur und richten ein Blutbad an; anschließend schließen Kyaxares und Nabopolassar ein Bündnis.
+  regions: [mesopotamien]
+  themes: [krieg-militaer]
+  places: [assur]
+  persons: [kyaxares, nabopolassar]
+  polities: [meder, neuassyrisches-reich]
+- id: fall-von-ninive
+  title: Fall von Ninive
+  date: "-612"
+  weight: 1
+  kind: krieg
+  summary: Babylonier und Meder erobern nach dreimonatiger Belagerung die assyrische Hauptstadt und zerstören sie; König Sîn-šarru-iškun kommt ums Leben. Der Fall Ninives markiert das faktische Ende des Neuassyrischen Reiches.
+  regions: [mesopotamien]
+  themes: [krieg-militaer, imperien]
+  places: [ninive]
+  persons: [nabopolassar, kyaxares]
+  polities: [neuassyrisches-reich, neubabylonisches-reich, meder]
+- id: ende-assyriens-harran
+  title: Ende Assyriens in Harran
+  start: "-610"
+  end: "-609"
+  weight: 2
+  kind: krieg
+  summary: Babylonier und Meder vertreiben Aššur-uballiṭ II. 610 v. Chr. aus Harran; ein Versuch, die Stadt 609 v. Chr. mit ägyptischen Truppen zurückzuerobern, scheitert. Danach erwähnen die Quellen keinen assyrischen König mehr.
+  regions: [mesopotamien, anatolien]
+  themes: [krieg-militaer]
+  places: [harran]
+  persons: [assur-uballit-ii, nabopolassar]
+  polities: [neuassyrisches-reich, neubabylonisches-reich, pharaonisches-aegypten]
+- id: ausgrabungen-botta-layard
+  title: Wiederentdeckung Assyriens durch Botta und Layard
+  start: "1843"
+  end: "1854"
+  weight: 2
+  kind: entdeckung
+  summary: Paul-Émile Botta legt 1843 in Khorsabad den Palast Sargons II. frei, Austen Henry Layard gräbt ab 1845 in Nimrud und Ninive, Hormuzd Rassam findet 1853/54 den Nordpalast Assurbanipals; Reliefs und Tafeln gelangen nach Paris und London.
+  regions: [mesopotamien, westeuropa]
+  themes: [archaeologie]
+  places: [dur-scharrukin, kalchu, ninive]
+  persons: [paul-emile-botta, austen-henry-layard, hormuzd-rassam]
+- id: zerstoerungen-is-2015
+  title: Zerstörung assyrischer Stätten durch den IS
+  start: "2015-02"
+  end: "2016"
+  weight: 3
+  kind: katastrophe
+  summary: Kämpfer der Terrormiliz „Islamischer Staat“ zertrümmern Skulpturen im Museum von Mossul, sprengen und planieren 2015 Teile von Nimrud und beschädigen Ninive und Khorsabad; die Taten werden als Propagandavideos verbreitet, zugleich werden Antiken verkauft.
+  regions: [mesopotamien]
+  themes: [archaeologie, gewalt-genozid, kultur-kunst]
+  places: [kalchu, ninive, dur-scharrukin]

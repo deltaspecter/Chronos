@@ -1,0 +1,217 @@
+# Quellen und Literatur: Das Neuassyrische Reich
+
+# --- Forschung ---
+- id: radner-2015
+  kind: sekundaer
+  authors: ["Radner, Karen"]
+  title: Ancient Assyria
+  subtitle: A Very Short Introduction
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2015
+- id: frahm-2017
+  kind: sekundaer
+  editors: ["Frahm, Eckart"]
+  title: A Companion to Assyria
+  place: Hoboken, NJ
+  publisher: Wiley-Blackwell
+  year: 2017
+- id: frahm-2023
+  kind: sekundaer
+  authors: ["Frahm, Eckart"]
+  title: Assyria
+  subtitle: The Rise and Fall of the World's First Empire
+  place: New York
+  publisher: Basic Books
+  year: 2023
+- id: liverani-2017
+  kind: sekundaer
+  authors: ["Liverani, Mario"]
+  title: Assyria
+  subtitle: The Imperial Mission
+  series: Mesopotamian Civilizations 21
+  place: Winona Lake, Ind.
+  publisher: Eisenbrauns
+  year: 2017
+- id: kuhrt-1995
+  kind: sekundaer
+  authors: ["Kuhrt, Amélie"]
+  title: The Ancient Near East, c. 3000–330 BC
+  volume: "2"
+  place: London
+  publisher: Routledge
+  year: 1995
+- id: oded-1979
+  kind: sekundaer
+  authors: ["Oded, Bustenay"]
+  title: Mass Deportations and Deportees in the Neo-Assyrian Empire
+  place: Wiesbaden
+  publisher: Reichert
+  year: 1979
+- id: parker-2001
+  kind: sekundaer
+  authors: ["Parker, Bradley J."]
+  title: The Mechanics of Empire
+  subtitle: The Northern Frontier of Assyria as a Case Study in Imperial Dynamics
+  place: Helsinki
+  publisher: The Neo-Assyrian Text Corpus Project
+  year: 2001
+- id: russell-jm-1991
+  kind: sekundaer
+  authors: ["Russell, John Malcolm"]
+  title: Sennacherib's Palace without Rival at Nineveh
+  place: Chicago
+  publisher: University of Chicago Press
+  year: 1991
+- id: reade-1998
+  kind: sekundaer
+  authors: ["Reade, Julian"]
+  title: Assyrian Sculpture
+  edition: 2. Aufl.
+  place: London
+  publisher: British Museum Press
+  year: 1998
+- id: bahrani-2008
+  kind: sekundaer
+  authors: ["Bahrani, Zainab"]
+  title: Rituals of War
+  subtitle: The Body and Violence in Mesopotamia
+  place: New York
+  publisher: Zone Books
+  year: 2008
+- id: oates-2001
+  kind: sekundaer
+  authors: ["Oates, Joan", "Oates, David"]
+  title: Nimrud
+  subtitle: An Assyrian Imperial City Revealed
+  place: London
+  publisher: British School of Archaeology in Iraq
+  year: 2001
+- id: larsen-1996
+  kind: sekundaer
+  authors: ["Larsen, Mogens Trolle"]
+  title: The Conquest of Assyria
+  subtitle: Excavations in an Antique Land, 1840–1860
+  place: London
+  publisher: Routledge
+  year: 1996
+- id: dalley-2013
+  kind: sekundaer
+  authors: ["Dalley, Stephanie"]
+  title: The Mystery of the Hanging Garden of Babylon
+  subtitle: An Elusive World Wonder Traced
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2013
+- id: schneider-adali-2014
+  kind: sekundaer
+  authors: ["Schneider, Adam W.", "Adalı, Selim F."]
+  title: "“No harvest was reaped”"
+  subtitle: Demographic and climatic factors in the decline of the Neo-Assyrian Empire
+  container: Climatic Change
+  volume: "127"
+  pages: 435–446
+  year: 2014
+
+# --- Editionen ---
+- id: grayson-1975
+  kind: edition
+  authors: ["Grayson, A. Kirk"]
+  title: Assyrian and Babylonian Chronicles
+  series: Texts from Cuneiform Sources 5
+  place: Locust Valley, NY
+  publisher: J. J. Augustin
+  year: 1975
+- id: grayson-1991
+  kind: edition
+  authors: ["Grayson, A. Kirk"]
+  title: Assyrian Rulers of the Early First Millennium BC I (1114–859 BC)
+  series: The Royal Inscriptions of Mesopotamia, Assyrian Periods 2
+  place: Toronto
+  publisher: University of Toronto Press
+  year: 1991
+- id: grayson-1996
+  kind: edition
+  authors: ["Grayson, A. Kirk"]
+  title: Assyrian Rulers of the Early First Millennium BC II (858–745 BC)
+  series: The Royal Inscriptions of Mesopotamia, Assyrian Periods 3
+  place: Toronto
+  publisher: University of Toronto Press
+  year: 1996
+- id: tadmor-yamada-2011
+  kind: edition
+  authors: ["Tadmor, Hayim", "Yamada, Shigeo"]
+  title: The Royal Inscriptions of Tiglath-pileser III (744–727 BC) and Shalmaneser V (726–722 BC), Kings of Assyria
+  series: The Royal Inscriptions of the Neo-Assyrian Period 1
+  place: Winona Lake, Ind.
+  publisher: Eisenbrauns
+  year: 2011
+- id: grayson-novotny-2012
+  kind: edition
+  authors: ["Grayson, A. Kirk", "Novotny, Jamie"]
+  title: The Royal Inscriptions of Sennacherib, King of Assyria (704–681 BC), Part 1
+  series: The Royal Inscriptions of the Neo-Assyrian Period 3/1
+  place: Winona Lake, Ind.
+  publisher: Eisenbrauns
+  year: 2012
+- id: leichty-2011
+  kind: edition
+  authors: ["Leichty, Erle"]
+  title: The Royal Inscriptions of Esarhaddon, King of Assyria (680–669 BC)
+  series: The Royal Inscriptions of the Neo-Assyrian Period 4
+  place: Winona Lake, Ind.
+  publisher: Eisenbrauns
+  year: 2011
+- id: parpola-1987
+  kind: edition
+  authors: ["Parpola, Simo"]
+  title: "The Correspondence of Sargon II, Part I"
+  subtitle: Letters from Assyria and the West
+  series: State Archives of Assyria 1
+  place: Helsinki
+  publisher: Helsinki University Press
+  year: 1987
+
+# --- Primärquellen ---
+- id: q-bankettstele-assurnasirpal
+  kind: primaer
+  authors: ["Assurnasirpal II."]
+  title: Bankettstele aus Kalchu (Nimrud)
+  written: Kalchu, um 879 v. Chr.
+  note: Steininschrift, die den Bau der neuen Hauptstadt und ein zehntägiges Fest zur Einweihung des Palastes mit nach eigener Angabe 69.574 Gästen beschreibt; ediert in RIMA 2.
+- id: q-kurkh-monolith
+  kind: primaer
+  authors: ["Salmanassar III."]
+  title: Monolith von Kurkh
+  written: Assyrien, um 852 v. Chr.
+  note: Stele mit Bericht über die ersten Regierungsjahre Salmanassars III., darunter die Schlacht von Qarqar 853 v. Chr. mit einer Aufzählung der gegnerischen Koalition; heute im British Museum, ediert in RIMA 3.
+- id: q-sanherib-prisma
+  kind: primaer
+  authors: ["Sanherib"]
+  title: Annalen Sanheribs (Taylor-, Chicago- und Jerusalem-Prisma)
+  written: Ninive, um 691–689 v. Chr.
+  note: Tönerne Prismen mit dem Tatenbericht Sanheribs, darunter der Feldzug von 701 v. Chr. gegen Juda und die Einschließung Hiskias in Jerusalem; ediert in RINAP 3/1.
+- id: q-chronik-fall-ninive
+  kind: primaer
+  title: Babylonische Chronik zum Fall Ninives (Chronik 3)
+  written: Babylonien, 6. Jh. v. Chr. oder später
+  note: Knapper babylonischer Jahresbericht über die Jahre 616–609 v. Chr. mit den Eroberungen von Assur, Ninive und Harran durch Babylonier und Meder; ediert bei Grayson 1975.
+- id: q-lachisch-reliefs
+  kind: primaer
+  title: Lachisch-Reliefs aus dem Südwestpalast in Ninive
+  written: Ninive, um 700 v. Chr.
+  note: Bildfolge aus einem Raum des Palastes Sanheribs, die Belagerung und Einnahme der judäischen Stadt Lachisch 701 v. Chr., die Bestrafung von Gefangenen und den Abzug der Deportierten zeigt; heute im British Museum.
+- id: q-bibel-koenige-nahum
+  kind: primaer
+  title: Hebräische Bibel – 2. Buch der Könige (Kap. 15–20), Jesaja 36–37, Nahum
+  written: Juda, 7.–5. Jh. v. Chr. (Entstehung und Redaktion umstritten)
+  note: Biblische Darstellungen der assyrischen Feldzüge gegen Israel und Juda, des Falls Samarias und der Belagerung Jerusalems; das Buch Nahum feiert den Untergang Ninives als Strafe Gottes.
+- id: q-layard-1849
+  kind: primaer
+  authors: ["Layard, Austen Henry"]
+  title: Nineveh and Its Remains
+  place: London
+  publisher: John Murray
+  year: 1849
+  written: London, 1849
+  note: Populärer Bericht des britischen Ausgräbers über seine Grabungen in Nimrud und Kuyunjik (Ninive) 1845–1847, der die assyrische Kunst in Europa bekannt machte; Layard hielt Nimrud zunächst für Ninive.
