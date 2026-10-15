@@ -1,0 +1,147 @@
+# Quellen und Literatur: Peter der Große und die Petrinischen Reformen (r17-peter)
+
+# --- Primärquellen ---
+- id: q-korb-diarium
+  kind: primaer
+  authors: ["Korb, Johann Georg"]
+  title: Diarium itineris in Moscoviam
+  written: Moskau 1698–1699, gedruckt in Wien um 1700
+  note: Lateinisches Tagebuch eines Sekretärs der kaiserlichen Gesandtschaft, das unter anderem die Verhöre und Hinrichtungen nach dem Strelitzenaufstand von 1698 als Augenzeugenbericht schildert; in Russland erregte es Anstoß.
+- id: q-weber-veraendertes-russland
+  kind: primaer
+  authors: ["Weber, Friedrich Christian"]
+  title: Das veränderte Rußland
+  written: Erster Band erschienen 1721; der Verfasser lebte 1714–1719 als hannoverscher Resident in Sankt Petersburg
+  note: Ausführliche Beschreibung des petrinischen Russlands und des Aufbaus von Sankt Petersburg aus der Sicht eines deutschen Diplomaten; prägte das westeuropäische Bild der Reformen.
+- id: q-rangtabelle-1722
+  kind: primaer
+  authors: ["Peter I."]
+  title: Tabelle der Ränge (Tabel' o rangach)
+  written: Sankt Petersburg, 24. Januar 1722 (julianisch)
+  note: Gesetz, das alle militärischen, zivilen und höfischen Ämter in 14 Rangklassen ordnete und das Aufsteigen in den Adel an den Dienst band.
+- id: q-geistliches-reglement-1721
+  kind: primaer
+  authors: ["Prokopowitsch, Feofan"]
+  title: Geistliches Reglement (Duchovnyj reglament)
+  written: Sankt Petersburg, 1720 verfasst, am 25. Januar 1721 (julianisch) vom Zaren bestätigt
+  note: Grundgesetz der Kirchenreform, das das Patriarchenamt durch ein kollegiales Geistliches Kollegium, den späteren Heiligen Synod, ersetzte und dies ausführlich begründete.
+- id: q-thronfolgegesetz-1722
+  kind: primaer
+  authors: ["Peter I."]
+  title: Gesetz über die Thronfolge (Ustav o nasledii prestola)
+  written: Sankt Petersburg, 5. Februar 1722 (julianisch)
+  note: Erlass, der dem regierenden Herrscher das Recht gab, seinen Nachfolger frei zu bestimmen; begründet mit dem Fall des Thronfolgers Alexej.
+- id: q-frieden-nystad-1721
+  kind: primaer
+  title: Friedensvertrag zwischen Russland und Schweden
+  written: Nystad (Uusikaupunki), 30. August 1721 (julianisch) / 10. September 1721 (gregorianisch)
+  note: Vertrag, der den Großen Nordischen Krieg zwischen Russland und Schweden beendete und Livland, Estland, Ingermanland und Teile Kareliens an Russland übertrug.
+- id: q-pososchkow-1724
+  kind: primaer
+  authors: ["Pososchkow, Iwan"]
+  title: Buch über Armut und Reichtum (Kniga o skudosti i bogatstve)
+  written: Moskau, 1724 abgeschlossen
+  note: Denkschrift eines aus dem Bauernstand aufgestiegenen Kaufmanns an den Zaren über Missstände in Rechtswesen, Handel und Landwirtschaft; der Verfasser starb 1726 in Haft in der Peter-und-Paul-Festung.
+
+# --- Edition ---
+- id: psz-1830
+  kind: edition
+  title: Polnoe sobranie zakonov Rossijskoj imperii
+  subtitle: Sobranie pervoe (Vollständige Sammlung der Gesetze des Russischen Reiches, erste Folge)
+  place: Sankt Petersburg
+  publisher: Tipografija II. Otdelenija Sobstvennoj Ego Imperatorskago Veličestva Kanceljarii
+  year: 1830
+  note: Unter Nikolaus I. erstellte Sammlung der russischen Gesetze und Erlasse von 1649 bis 1825; die Bände 3 bis 7 enthalten die Gesetzgebung Peters I.
+
+# --- Forschung ---
+- id: hughes-1998
+  kind: sekundaer
+  authors: ["Hughes, Lindsey"]
+  title: Russia in the Age of Peter the Great
+  place: New Haven / London
+  publisher: Yale University Press
+  year: 1998
+- id: hughes-2002
+  kind: sekundaer
+  authors: ["Hughes, Lindsey"]
+  title: "Peter the Great: A Biography"
+  place: New Haven / London
+  publisher: Yale University Press
+  year: 2002
+- id: anisimov-1993
+  kind: sekundaer
+  authors: ["Anisimov, Evgenii V."]
+  title: The Reforms of Peter the Great
+  subtitle: Progress through Coercion in Russia
+  place: Armonk, N.Y.
+  publisher: M. E. Sharpe
+  year: 1993
+  note: Englische Übersetzung von John T. Alexander.
+- id: kljutschewski-1958
+  kind: sekundaer
+  authors: ["Kliuchevsky, Vasili"]
+  title: Peter the Great
+  place: London
+  publisher: Macmillan
+  year: 1958
+  note: Englische Übersetzung (von Liliana Archibald) der Peter I. gewidmeten Vorlesungen aus Kljutschewskis „Kurs der russischen Geschichte“, Band 4 (russisch 1910).
+- id: bushkovitch-2001
+  kind: sekundaer
+  authors: ["Bushkovitch, Paul"]
+  title: "Peter the Great: The Struggle for Power, 1671–1725"
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2001
+- id: cracraft-2003
+  kind: sekundaer
+  authors: ["Cracraft, James"]
+  title: The Revolution of Peter the Great
+  place: Cambridge, Mass.
+  publisher: Harvard University Press
+  year: 2003
+- id: cracraft-1971
+  kind: sekundaer
+  authors: ["Cracraft, James"]
+  title: The Church Reform of Peter the Great
+  place: Stanford
+  publisher: Stanford University Press
+  year: 1971
+- id: frost-2000
+  kind: sekundaer
+  authors: ["Frost, Robert I."]
+  title: The Northern Wars
+  subtitle: War, State and Society in Northeastern Europe, 1558–1721
+  place: Harlow
+  publisher: Longman
+  year: 2000
+- id: raeff-1983
+  kind: sekundaer
+  authors: ["Raeff, Marc"]
+  title: The Well-Ordered Police State
+  subtitle: Social and Institutional Change through Law in the Germanies and Russia, 1600–1800
+  place: New Haven
+  publisher: Yale University Press
+  year: 1983
+- id: riasanovsky-1985
+  kind: sekundaer
+  authors: ["Riasanovsky, Nicholas V."]
+  title: The Image of Peter the Great in Russian History and Thought
+  place: New York / Oxford
+  publisher: Oxford University Press
+  year: 1985
+- id: hildermeier-2013
+  kind: sekundaer
+  authors: ["Hildermeier, Manfred"]
+  title: Geschichte Russlands
+  subtitle: Vom Mittelalter bis zur Oktoberrevolution
+  place: München
+  publisher: C. H. Beck
+  year: 2013
+- id: kappeler-1992
+  kind: sekundaer
+  authors: ["Kappeler, Andreas"]
+  title: Russland als Vielvölkerreich
+  subtitle: Entstehung, Geschichte, Zerfall
+  place: München
+  publisher: C. H. Beck
+  year: 1992

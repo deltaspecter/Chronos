@@ -1,0 +1,101 @@
+# Orte: Peter der Große und die Petrinischen Reformen (r17-peter)
+- id: preobraschenskoje
+  name: Preobraschenskoje
+  aliases: [Preobrazhenskoe]
+  coords: [37.7150, 55.7960]
+  location: ungefaehr
+  categories: [stadt]
+  modernName: Stadtteil Preobraschenskoje, Moskau (Russland)
+  summary: Zarisches Landgut bei Moskau, auf dem der junge Peter nach 1682 aufwuchs und aus Spielkameraden die „Spielregimenter“ bildete, aus denen die Garderegimenter Preobraschenski und Semjonowski hervorgingen; 1698 Ort der Verhöre der Strelitzen.
+  regions: [russland]
+  themes: [krieg-militaer, politik]
+- id: asow
+  name: Asow
+  aliases: [Azov, Azak]
+  coords: [39.4230, 47.1120]
+  categories: [stadt, hafen]
+  modernName: Asow (Russland)
+  summary: Osmanische Festung an der Mündung des Don, die Peter 1696 im zweiten Anlauf eroberte – der erste Erfolg seiner neuen Flotte; nach dem gescheiterten Pruthfeldzug 1711 musste Russland sie zurückgeben.
+  regions: [russland, osteuropa]
+  themes: [krieg-militaer]
+- id: archangelsk
+  name: Archangelsk
+  aliases: [Arkhangelsk, Archangel]
+  coords: [40.5160, 64.5400]
+  categories: [stadt, hafen]
+  modernName: Archangelsk (Russland)
+  summary: Hafen am Weißen Meer und im 17. Jahrhundert der einzige Seehafen des Moskauer Reiches für den Handel mit Westeuropa, den Peter 1693 und 1694 besuchte; verlor nach der Gründung Sankt Petersburgs an Bedeutung.
+  regions: [russland, nordeuropa]
+  themes: [handelsnetze, wirtschaft-handel]
+- id: zaandam
+  name: Zaandam
+  aliases: [Saardam]
+  coords: [4.8250, 52.4390]
+  categories: [stadt, hafen]
+  modernName: Zaandam, Gemeinde Zaanstad (Niederlande)
+  summary: Schiffbauort nördlich von Amsterdam, in dem Peter 1697 während der Großen Gesandtschaft einige Tage inkognito wohnte; das Holzhaus, in dem er lebte, ist als Museum erhalten.
+  regions: [westeuropa]
+  themes: [wissenschaft-technik]
+- id: deptford
+  name: Deptford
+  coords: [-0.0260, 51.4800]
+  location: ungefaehr
+  categories: [hafen]
+  modernName: Stadtteil Deptford, London (Vereinigtes Königreich)
+  summary: Königliche Werft an der Themse, in deren Nähe Peter 1698 wohnte, um den englischen Schiffbau zu studieren; das Haus des Schriftstellers John Evelyn, in dem er untergebracht war, wurde dabei schwer beschädigt.
+  regions: [britische-inseln]
+  themes: [wissenschaft-technik]
+- id: narva
+  name: Narva
+  aliases: [Narwa]
+  coords: [28.1900, 59.3770]
+  categories: [stadt, schlachtfeld]
+  modernName: Narva (Estland)
+  summary: Schwedische Festungsstadt am Fluss Narva, vor der Karl XII. am 30. November 1700 das zahlenmäßig weit überlegene russische Belagerungsheer schlug; 1704 von den Russen erobert.
+  regions: [osteuropa, nordeuropa]
+  themes: [krieg-militaer]
+- id: schlisselburg
+  name: Schlüsselburg
+  aliases: [Noteburg, Nöteborg, Orechow, Schlisselburg, Shlisselburg]
+  coords: [31.0390, 59.9530]
+  categories: [stadt]
+  modernName: Schlisselburg (Russland)
+  summary: Festung auf einer Insel am Ausfluss der Newa aus dem Ladogasee, die die Russen 1702 von den Schweden eroberten und in „Schlüsselburg“ umbenannten, als Schlüssel zur Ostsee; später Staatsgefängnis.
+  regions: [russland]
+  themes: [krieg-militaer]
+- id: baturyn
+  name: Baturyn
+  aliases: [Baturin]
+  coords: [32.8790, 51.3430]
+  categories: [stadt, hauptstadt]
+  modernName: Baturyn (Ukraine)
+  summary: Residenz des Kosakenhetmans Iwan Masepa, die russische Truppen unter Menschikow im November 1708 nach dessen Übertritt zu den Schweden zerstörten; dabei wurde ein großer Teil der Bewohner und der Besatzung getötet.
+  regions: [osteuropa]
+  themes: [krieg-militaer, gewalt-genozid]
+- id: poltawa
+  name: Poltawa
+  aliases: [Poltava, Poltawa]
+  coords: [34.5510, 49.5880]
+  categories: [stadt, schlachtfeld]
+  modernName: Poltawa (Ukraine)
+  summary: Stadt am Fluss Worskla, vor der Peters Heer am 8. Juli 1709 die Armee Karls XII. vernichtend schlug; das Schlachtfeld liegt nördlich der Stadt.
+  regions: [osteuropa]
+  themes: [krieg-militaer]
+- id: bender
+  name: Bender
+  aliases: [Tighina, Bendery]
+  coords: [29.4800, 46.8300]
+  categories: [stadt]
+  modernName: Bender/Tighina (Republik Moldau, Transnistrien)
+  summary: Osmanische Festungsstadt am Dnister, bei der Karl XII. nach Poltawa mehrere Jahre im Exil lebte und Iwan Masepa 1709 starb.
+  regions: [suedosteuropa, osteuropa]
+  themes: [krieg-militaer]
+- id: nystad
+  name: Nystad
+  aliases: [Uusikaupunki]
+  coords: [21.4080, 60.8000]
+  categories: [stadt, hafen]
+  modernName: Uusikaupunki (Finnland)
+  summary: Kleine Hafenstadt an der finnischen Westküste, in der Russland und Schweden 1721 den Frieden schlossen, der den Großen Nordischen Krieg beendete.
+  regions: [nordeuropa]
+  themes: [politik]

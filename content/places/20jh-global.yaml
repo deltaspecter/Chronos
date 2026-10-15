@@ -24,14 +24,14 @@
   regions: [frankreich]
   themes: [krieg-militaer]
 - id: leningrad
-  name: Leningrad (Sankt Petersburg)
-  aliases: [Sankt Petersburg, St. Petersburg, Petrograd]
+  name: Sankt Petersburg (Petrograd, Leningrad)
+  aliases: [Sankt Petersburg, St. Petersburg, Petrograd, Leningrad]
   coords: [30.3609, 59.9311]
-  categories: [stadt]
+  categories: [stadt, hauptstadt, hafen]
   modernName: Sankt Petersburg (Russland)
-  summary: Zweitgrößte Stadt der Sowjetunion, von September 1941 bis Januar 1944 von deutschen und finnischen Truppen eingeschlossen; rund eine Million Zivilisten starben, die meisten an Hunger.
+  summary: 1703 von Peter dem Großen an der Newa-Mündung gegründete und unter großen Opfern von Zwangsarbeitern erbaute Stadt, 1712/13–1918 Hauptstadt des Russischen Reichs; 1917 Schauplatz der Revolutionen, von 1924 bis 1991 Leningrad. Von September 1941 bis Januar 1944 von deutschen und finnischen Truppen eingeschlossen; rund eine Million Zivilisten starben, die meisten an Hunger.
   regions: [russland]
-  themes: [krieg-militaer, gewalt-genozid]
+  themes: [politik, revolutionen, krieg-militaer, gewalt-genozid]
 - id: stalingrad
   name: Stalingrad (Wolgograd)
   aliases: [Wolgograd, Volgograd, Zarizyn]

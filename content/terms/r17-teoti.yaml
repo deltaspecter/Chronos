@@ -1,0 +1,41 @@
+# Begriffe: Teotihuacan (Runde 17)
+- id: mesoamerika
+  name: Mesoamerika
+  aliases: [Mesoamerica, Mittelamerika (kulturell)]
+  definition: Von dem Ethnologen Paul Kirchhoff 1943 geprägter Begriff für den Kulturraum vom Zentrum Mexikos bis in den Westen Honduras' und El Salvadors, dessen Gesellschaften vor 1492 u. a. Maisanbau, den 260-Tage-Ritualkalender, das Ballspiel, Stufenpyramiden und Schriftsysteme teilten.
+  themes: [archaeologie, kultur-kunst]
+- id: talud-tablero
+  name: Talud-Tablero
+  aliases: [Talud y tablero]
+  definition: Architekturstil, bei dem auf einer schrägen Böschung (talud) ein senkrechter, gerahmter Wandteil (tablero) sitzt; in Teotihuacan auf fast alle Tempelplattformen angewandt und andernorts oft als Zeichen der Verbindung mit der Stadt verstanden.
+  themes: [kultur-kunst, archaeologie]
+- id: wohnkomplex-teotihuacan
+  name: Wohnkomplex (Teotihuacan)
+  aliases: [Apartmentkomplex, Apartment Compound, Conjunto habitacional]
+  definition: Ummauerter, meist etwa 50 bis 60 Meter breiter Steinbau mit Innenhöfen, Räumen und eigenem Altar, in dem jeweils einige Dutzend bis vielleicht hundert Menschen lebten; ab dem 3. Jahrhundert die typische Wohnform Teotihuacans.
+  themes: [gesellschaft, archaeologie]
+- id: obsidian
+  name: Obsidian
+  aliases: [Vulkanglas]
+  definition: Natürliches vulkanisches Glas, das sich zu sehr scharfen Klingen, Spitzen und Spiegeln verarbeiten lässt; in Mesoamerika, das keine Metallwerkzeuge für den Alltag kannte, einer der wichtigsten Rohstoffe und Handelsgüter.
+  themes: [wirtschaft-handel, wissenschaft-technik]
+- id: federschlange
+  name: Federschlange
+  aliases: [Gefiederte Schlange, Quetzalcoatl, Kukulkan]
+  definition: Mesoamerikanische Gottheit oder Symbolgestalt in Form einer mit Quetzalfedern bedeckten Schlange, in Teotihuacan bereits im 3. Jahrhundert monumental dargestellt; die Mexica nannten sie Quetzalcoatl, die Maya Yucatáns Kukulkan.
+  themes: [religion]
+- id: sturmgott-tlaloc
+  name: Sturmgott (Tlaloc)
+  aliases: [Tlaloc, Regengott, Sturmgott von Teotihuacan]
+  definition: Gottheit des Regens, Blitzes und der Fruchtbarkeit mit Brillenaugen und Hauern, in Teotihuacan häufig dargestellt; der Name Tlaloc stammt aus dem Nahuatl der späteren Mexica und wird auf die ältere Gestalt nur übertragen.
+  themes: [religion]
+- id: grosse-goettin
+  name: Große Göttin (Teotihuacan)
+  aliases: [Great Goddess, Spinnenfrau]
+  definition: Von der Forschung, vor allem von Esther Pasztory, angenommene weibliche Hauptgottheit Teotihuacans, die mit Wasser, Fruchtbarkeit und Erde verbunden gewesen sein soll; ob es sich um eine einzige Göttin handelt, ist umstritten.
+  themes: [religion]
+- id: kollektive-herrschaft
+  name: Kollektive Herrschaft
+  aliases: [Corporate Strategy, korporative Herrschaft, Ko-Regentschaft]
+  definition: In der Mesoamerika-Forschung Bezeichnung für politische Ordnungen, in denen Macht nicht auf einen gefeierten Einzelherrscher konzentriert, sondern unter Räten, Gruppen oder mehreren Amtsträgern geteilt und durch gemeinschaftliche Rituale und Bauten legitimiert war; als Gegenbegriff gilt die netzwerk- oder personenzentrierte Herrschaft.
+  themes: [politik, verfassung-recht]

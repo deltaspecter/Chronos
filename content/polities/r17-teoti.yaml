@@ -1,0 +1,12 @@
+# Staaten: Teotihuacan (Runde 17)
+- id: staat-teotihuacan
+  name: Teotihuacan (Stadtstaat)
+  aliases: [Staat von Teotihuacan, Teotihuacan-Staat]
+  start: "~-100"
+  end: "~600"
+  spanNote: Der ursprüngliche Name der Stadt ist unbekannt. Ab etwa 100 v. Chr. wuchs der Ort rasch; Größe und Reichweite des von ihm beherrschten Gebiets sind ebenso umstritten wie das Ende seiner Vormacht, die meist mit dem Brand des Zentrums um 550 (oder später) angesetzt wird.
+  capital: teotihuacan
+  summary: Größte Stadt und vermutlich mächtigster Staat Mesoamerikas in der ersten Hälfte des 1. Jahrtausends n. Chr.; beherrschte wohl das Becken von Mexiko und angrenzende Gebiete und hatte Beziehungen bis ins Maya-Gebiet. Die Form der Herrschaft ist unbekannt.
+  regions: [mesoamerika]
+  themes: [imperien, politik]
+  weight: 2

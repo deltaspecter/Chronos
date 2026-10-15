@@ -1,0 +1,280 @@
+# Ereignisse: Peter der Große und die Petrinischen Reformen (r17-peter)
+- id: strelitzenaufstand-1682
+  title: Strelitzenaufstand von 1682
+  aliases: [Chowanschtschina, Moskauer Aufstand 1682]
+  start: "1682-05-25"
+  end: "1682-05-27"
+  dateNote: 15.–17. Mai 1682 nach julianischem Kalender; die Unruhen in Moskau hielten bis in den Herbst an.
+  weight: 2
+  kind: ereignis
+  summary: Nach dem Tod Fjodors III. und der Ausrufung des zehnjährigen Peter zum Zaren stürmen Strelitzen, angestachelt durch die Partei der Miloslawskis, den Kreml und töten Angehörige und Anhänger der Familie Naryschkin; Ergebnis ist die Doppelherrschaft Iwans V. und Peters unter der Regentschaft Sofias.
+  regions: [russland]
+  themes: [politik, gewalt-genozid]
+  places: [moskau]
+  persons: [peter-der-grosse, sofia-alexejewna, iwan-v, natalja-naryschkina, fjodor-iii]
+  polities: [moskauer-reich]
+- id: sturz-sofias-1689
+  title: Sturz der Regentin Sofia
+  start: "1689-08"
+  end: "1689-09"
+  dateNote: Peter floh in der Nacht vom 7. auf den 8. August 1689 (julianisch) in das Dreifaltigkeitskloster; im September wurde Sofia ins Nowodewitschi-Kloster gebracht.
+  weight: 2
+  kind: ereignis
+  summary: In einer Machtprobe zwischen den Anhängern Sofias und dem Umfeld des siebzehnjährigen Peter laufen Adel, Kirche und Teile der Strelitzen zu Peter über; Sofia wird ins Kloster verbannt, ihr Favorit Wassili Golizyn in den Norden verwiesen.
+  regions: [russland]
+  themes: [politik]
+  places: [moskau]
+  persons: [peter-der-grosse, sofia-alexejewna, wassili-golizyn, natalja-naryschkina]
+  polities: [moskauer-reich]
+- id: asowfeldzuege
+  title: Asowfeldzüge
+  aliases: [Eroberung von Asow 1696]
+  start: "1695"
+  end: "1696"
+  weight: 3
+  kind: krieg
+  summary: Peters erster eigener Krieg gegen die osmanische Festung Asow am Don scheitert 1695; im Folgejahr fällt die Festung, nachdem eine in Woronesch gebaute Flussflotte sie vom Meer abgeschnitten hat.
+  regions: [russland, osteuropa]
+  themes: [krieg-militaer]
+  places: [asow]
+  persons: [peter-der-grosse, patrick-gordon, franz-lefort]
+  polities: [moskauer-reich, osmanisches-reich]
+- id: grosse-gesandtschaft
+  title: Große Gesandtschaft
+  aliases: [Velikoe posol'stvo, Große Botschaft]
+  start: "1697-03"
+  end: "1698-08"
+  weight: 2
+  kind: ereignis
+  summary: Eine Delegation von rund 250 Personen unter Franz Lefort reist durch Brandenburg-Preußen, die Niederlande, England und nach Wien, um Verbündete gegen die Osmanen zu werben und Fachleute anzuwerben; Peter reist inkognito mit und arbeitet auf Werften in Amsterdam und Deptford. Der Strelitzenaufstand zwingt ihn zur vorzeitigen Rückkehr.
+  regions: [europa, westeuropa, mitteleuropa, britische-inseln]
+  themes: [politik, wissenschaft-technik]
+  places: [koenigsberg, amsterdam, zaandam, deptford, london, wien]
+  persons: [peter-der-grosse, franz-lefort, august-ii, wilhelm-iii-von-oranien]
+  polities: [moskauer-reich, republik-der-vereinigten-niederlande, koenigreich-england, habsburgermonarchie]
+- id: strelitzenaufstand-1698
+  title: Strelitzenaufstand von 1698
+  start: "1698-06"
+  end: "1699"
+  dateNote: Die Aufständischen wurden am 18. Juni 1698 (julianisch) beim Auferstehungskloster (Neu-Jerusalem) geschlagen; Verhöre und Hinrichtungen zogen sich vom Herbst 1698 bis 1699 hin.
+  weight: 2
+  kind: ereignis
+  summary: Strelitzenregimenter, die an die Westgrenze verlegt worden waren, marschieren auf Moskau und werden von Regierungstruppen unter Patrick Gordon geschlagen; Peter lässt nach seiner Rückkehr Hunderte unter Folter verhören und weit über tausend hinrichten und löst die Strelitzen danach weitgehend auf.
+  regions: [russland]
+  themes: [politik, gewalt-genozid, krieg-militaer]
+  places: [moskau, preobraschenskoje]
+  persons: [peter-der-grosse, patrick-gordon, sofia-alexejewna]
+  polities: [moskauer-reich]
+- id: grosser-nordischer-krieg
+  title: Großer Nordischer Krieg
+  aliases: [Nordischer Krieg, Great Northern War, Stora nordiska kriget]
+  start: "1700"
+  end: "1721"
+  weight: 1
+  kind: krieg
+  summary: Krieg einer Koalition aus Russland, Dänemark-Norwegen und Sachsen-Polen, später auch Preußen und Hannover, gegen Schweden um die Vorherrschaft im Ostseeraum; er endet mit dem Verlust der schwedischen Großmachtstellung und dem Aufstieg Russlands zur europäischen Großmacht.
+  regions: [nordeuropa, osteuropa, mitteleuropa]
+  themes: [krieg-militaer, politik, imperien]
+  places: [narva, poltawa, riga, tallinn, leningrad, nystad]
+  persons: [peter-der-grosse, karl-xii, august-ii, iwan-masepa]
+  polities: [moskauer-reich, koenigreich-schweden, daenemark-norwegen, kurfuerstentum-sachsen, polen-litauen, koenigreich-preussen]
+- id: schlacht-bei-narva-1700
+  title: Schlacht bei Narva
+  date: "1700-11-30"
+  dateNote: 19. November 1700 nach julianischem, 20. November nach dem damaligen schwedischen Kalender.
+  weight: 2
+  kind: schlacht
+  summary: Rund 10.000 Schweden unter Karl XII. greifen im Schneesturm das russische Belagerungsheer von schätzungsweise 30.000 bis 40.000 Mann vor Narva an und schlagen es vernichtend; die Russen verlieren fast ihre gesamte Artillerie.
+  regions: [osteuropa, nordeuropa]
+  themes: [krieg-militaer]
+  places: [narva]
+  persons: [karl-xii, peter-der-grosse]
+  polities: [moskauer-reich, koenigreich-schweden]
+- id: gruendung-sankt-petersburgs
+  title: Gründung Sankt Petersburgs
+  date: "1703-05-27"
+  dateNote: 16. Mai 1703 nach julianischem Kalender; der Tag der Grundsteinlegung der Peter-und-Paul-Festung gilt als Gründungsdatum.
+  weight: 1
+  kind: gruendung
+  summary: Auf einer Insel im Mündungsdelta der Newa, kurz zuvor den Schweden abgenommen, wird eine Festung angelegt, aus der die neue Stadt Sankt Petersburg entsteht; sie wird ab etwa 1712 Sitz von Hof und Regierung und mit Zwangsarbeit von Zehntausenden Bauern, Soldaten und Kriegsgefangenen erbaut.
+  regions: [russland]
+  themes: [politik, gesellschaft, sklaverei-unfreiheit]
+  places: [leningrad]
+  persons: [peter-der-grosse, alexander-menschikow, domenico-trezzini]
+  polities: [moskauer-reich]
+- id: schlacht-bei-lesnaja
+  title: Schlacht bei Lesnaja
+  date: "1708-10-09"
+  dateNote: 28. September 1708 nach julianischem Kalender.
+  weight: 3
+  kind: schlacht
+  summary: Russische Truppen fangen im heutigen Belarus das schwedische Hilfskorps unter Adam Ludwig Lewenhaupt ab, das Karl XII. Nachschub bringen sollte; der größte Teil des Trosses geht verloren.
+  regions: [osteuropa]
+  themes: [krieg-militaer]
+  persons: [peter-der-grosse]
+  polities: [moskauer-reich, koenigreich-schweden]
+- id: zerstoerung-baturyns
+  title: Zerstörung Baturyns
+  date: "1708-11-13"
+  dateNote: 2. November 1708 nach julianischem Kalender; die Zahl der Getöteten ist unbekannt, Schätzungen reichen von einigen Tausend bis über zehntausend.
+  certainty: wahrscheinlich
+  weight: 3
+  kind: katastrophe
+  summary: Nach dem Übertritt des Hetmans Masepa zu den Schweden erstürmen russische Truppen unter Menschikow dessen Residenz, töten einen großen Teil der Verteidiger und Bewohner und brennen die Stadt nieder – eine Warnung an die Kosaken.
+  regions: [osteuropa]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [baturyn]
+  persons: [alexander-menschikow, iwan-masepa]
+  polities: [moskauer-reich, kosaken-hetmanat]
+- id: schlacht-bei-poltawa
+  title: Schlacht bei Poltawa
+  date: "1709-07-08"
+  dateNote: 27. Juni 1709 nach julianischem, 28. Juni nach schwedischem Kalender.
+  weight: 1
+  kind: schlacht
+  summary: Das russische Heer unter Peter und Scheremetew schlägt die durch den Winter geschwächte schwedische Armee Karls XII. vor Poltawa; wenige Tage später kapituliert der Großteil der übrigen Truppen bei Perewolotschna, Karl und Masepa fliehen ins Osmanische Reich. Die Schlacht gilt als Wendepunkt des Krieges.
+  regions: [osteuropa]
+  themes: [krieg-militaer]
+  places: [poltawa, bender]
+  persons: [peter-der-grosse, karl-xii, boris-scheremetew, alexander-menschikow, iwan-masepa]
+  polities: [moskauer-reich, koenigreich-schweden, kosaken-hetmanat]
+- id: gruendung-des-senats-1711
+  title: Einrichtung des Regierenden Senats
+  date: "1711"
+  dateNote: Erlasse vom Februar 1711 (julianisch), kurz vor Peters Aufbruch zum Feldzug gegen die Osmanen.
+  weight: 3
+  kind: gesetz
+  summary: Peter setzt für die Zeit seiner Abwesenheit einen Senat aus zunächst neun Würdenträgern ein, der Rechtsprechung, Finanzen und Verwaltung überwachen soll; aus dem Provisorium wird das höchste Verwaltungsorgan des Reiches, ab 1722 kontrolliert von einem Generalprokurator.
+  regions: [russland]
+  themes: [verfassung-recht, politik]
+  persons: [peter-der-grosse]
+  polities: [moskauer-reich]
+- id: pruthfeldzug
+  title: Pruthfeldzug
+  aliases: [Frieden am Pruth]
+  start: "1711-07"
+  end: "1711-07"
+  weight: 3
+  kind: krieg
+  summary: Ein russisches Heer unter Peter wird am Pruth von einer überlegenen osmanischen Armee eingeschlossen; im anschließenden Frieden muss Russland Asow zurückgeben und seine Festungen am Asowschen Meer schleifen.
+  regions: [suedosteuropa, osteuropa]
+  themes: [krieg-militaer]
+  places: [asow]
+  persons: [peter-der-grosse, katharina-i]
+  polities: [moskauer-reich, osmanisches-reich]
+- id: schlacht-bei-hangoe
+  title: Seeschlacht bei Hangö
+  aliases: [Schlacht bei Gangut]
+  date: "1714-08-07"
+  dateNote: 27. Juli 1714 nach julianischem Kalender.
+  weight: 3
+  kind: schlacht
+  summary: Russische Galeeren erobern vor der Halbinsel Hanko an der Südküste Finnlands eine kleine schwedische Flottenabteilung – der erste bedeutende Seesieg der neuen russischen Flotte, der die Besetzung Finnlands absicherte.
+  regions: [nordeuropa]
+  themes: [krieg-militaer]
+  persons: [peter-der-grosse]
+  polities: [moskauer-reich, koenigreich-schweden]
+- id: fall-alexej
+  title: Fall des Zarewitsch Alexej
+  start: "1716"
+  end: "1718-07-07"
+  dateNote: Alexej starb am 26. Juni 1718 (julianisch) in der Peter-und-Paul-Festung, zwei Tage nach seiner Verurteilung.
+  weight: 2
+  kind: ereignis
+  summary: Der Thronfolger flieht 1716 vor dem Druck seines Vaters nach Wien und Neapel, wird 1718 von Peter Tolstoi zur Rückkehr bewogen, enterbt und in einer Untersuchung mit Folter nach Mitverschwörern befragt; ein Gericht hoher Würdenträger verurteilt ihn zum Tod, er stirbt kurz darauf in Haft.
+  regions: [russland, mitteleuropa]
+  themes: [politik, verfassung-recht, gewalt-genozid]
+  places: [leningrad, moskau, wien]
+  persons: [alexej-petrowitsch, peter-der-grosse, peter-tolstoi]
+  polities: [moskauer-reich, habsburgermonarchie]
+- id: kollegienreform
+  title: Kollegienreform
+  start: "1717"
+  end: "1720"
+  weight: 3
+  kind: gesetz
+  summary: Nach schwedischem Vorbild ersetzt Peter die zahlreichen, sich überschneidenden Moskauer Ämter (Prikase) schrittweise durch Fachbehörden mit kollegialer Leitung, etwa für Auswärtiges, Krieg, Admiralität, Finanzen, Justiz, Handel sowie Bergbau und Manufakturen; das Generalreglement von 1720 regelt ihre Arbeitsweise.
+  regions: [russland]
+  themes: [verfassung-recht, politik]
+  persons: [peter-der-grosse]
+  polities: [moskauer-reich, koenigreich-schweden]
+- id: seelenrevision-1718
+  title: Erste Seelenrevision und Einführung der Kopfsteuer
+  start: "1718"
+  end: "1724"
+  weight: 2
+  kind: gesetz
+  summary: Ein Erlass vom November 1718 ordnet die Zählung aller steuerpflichtigen männlichen Personen an; auf dieser Grundlage wird ab 1724 die Kopfsteuer erhoben, die den Unterhalt des stehenden Heeres sichern soll und die Bauern noch fester an Ort und Herrn bindet.
+  regions: [russland]
+  themes: [wirtschaft-handel, gesellschaft, sklaverei-unfreiheit]
+  persons: [peter-der-grosse]
+  polities: [moskauer-reich, russisches-kaiserreich]
+- id: einrichtung-heiliger-synod
+  title: Einrichtung des Heiligen Synods
+  date: "1721-02-25"
+  dateNote: Eröffnung des Geistlichen Kollegiums am 14. Februar 1721 nach julianischem Kalender.
+  weight: 2
+  kind: gesetz
+  summary: Auf Grundlage des Geistlichen Reglements tritt an die Stelle des seit 1700 unbesetzten Patriarchenamts ein Kollegium von Bischöfen und Geistlichen, das bald den Namen Heiliger Regierender Synod erhält und ab 1722 von einem weltlichen Oberprokuror überwacht wird.
+  regions: [russland]
+  themes: [religion, verfassung-recht]
+  persons: [peter-der-grosse, feofan-prokopowitsch, stefan-jaworski]
+  polities: [moskauer-reich]
+- id: frieden-von-nystad
+  title: Frieden von Nystad
+  date: "1721-09-10"
+  dateNote: 30. August 1721 nach julianischem Kalender.
+  weight: 1
+  kind: vertrag
+  summary: Schweden tritt Livland, Estland, Ingermanland und einen Teil Kareliens mit Wyborg an Russland ab und erhält das besetzte Finnland zurück; Russland zahlt eine Entschädigung. Der Vertrag besiegelt Russlands Aufstieg zur Vormacht an der Ostsee.
+  regions: [nordeuropa, osteuropa]
+  themes: [politik, krieg-militaer]
+  places: [nystad, riga, tallinn, leningrad]
+  persons: [peter-der-grosse]
+  polities: [moskauer-reich, koenigreich-schweden]
+- id: kaisertitel-1721
+  title: Annahme des Kaisertitels
+  date: "1721-11-02"
+  dateNote: 22. Oktober 1721 nach julianischem Kalender.
+  weight: 2
+  kind: herrschaft
+  summary: Bei den Feiern zum Frieden von Nystad bittet der Senat Peter, die Titel Imperator, Vater des Vaterlandes und der Große anzunehmen; aus dem Zartum wird das Russische Kaiserreich. Viele europäische Höfe erkannten den Titel erst Jahrzehnte später an.
+  regions: [russland]
+  themes: [politik, imperien]
+  places: [leningrad]
+  persons: [peter-der-grosse]
+  polities: [moskauer-reich, russisches-kaiserreich]
+- id: rangtabelle-1722
+  title: Einführung der Rangtabelle
+  date: "1722-02-04"
+  dateNote: 24. Januar 1722 nach julianischem Kalender.
+  weight: 2
+  kind: gesetz
+  summary: Ein Gesetz ordnet alle Ämter in Heer, Flotte, Zivilverwaltung und Hof in 14 Rangklassen; wer im Militär den untersten Offiziersrang oder im Zivildienst die achte Klasse erreicht, erwirbt den erblichen Adel. Die Rangtabelle galt mit Änderungen bis 1917.
+  regions: [russland]
+  themes: [gesellschaft, verfassung-recht]
+  persons: [peter-der-grosse]
+  polities: [russisches-kaiserreich]
+- id: thronfolgegesetz-1722
+  title: Thronfolgegesetz von 1722
+  date: "1722-02-16"
+  dateNote: 5. Februar 1722 nach julianischem Kalender.
+  weight: 2
+  kind: gesetz
+  summary: Der Herrscher erhält das Recht, seinen Nachfolger nach eigenem Ermessen zu bestimmen; da Peter 1725 starb, ohne einen Erben zu benennen, öffnete das Gesetz den Weg für eine Folge von Thronwechseln durch Garde und Hofparteien.
+  regions: [russland]
+  themes: [verfassung-recht, politik]
+  persons: [peter-der-grosse, alexej-petrowitsch, katharina-i]
+  polities: [russisches-kaiserreich]
+- id: tod-peters-des-grossen
+  title: Tod Peters des Großen
+  date: "1725-02-08"
+  dateNote: 28. Januar 1725 nach julianischem Kalender.
+  weight: 3
+  kind: herrschaft
+  summary: Peter stirbt in Sankt Petersburg, ohne einen Nachfolger bestimmt zu haben; Menschikow und die Garderegimenter setzen seine Witwe als Katharina I. auf den Thron.
+  regions: [russland]
+  themes: [politik]
+  places: [leningrad]
+  persons: [peter-der-grosse, katharina-i, alexander-menschikow]
+  polities: [russisches-kaiserreich]

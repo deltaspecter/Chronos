@@ -1,0 +1,103 @@
+# Personen: Teotihuacan (Runde 17)
+- id: jatzom-kuy
+  name: Jatz'om Kuy
+  aliases: [Speerwerfer-Eule, Spearthrower Owl, „Eulen-Speerschleuder“]
+  died: "439"
+  roles: [Herrscher]
+  certainty: unsicher
+  summary: In Maya-Inschriften genannter Herrscher, dessen Namenszeichen eine Eule mit Speerschleuder zeigt; laut einer Inschrift in Tikal kam er 374 an die Macht, sein Sohn Yax Nuun Ahiin wurde 379 König von Tikal. Ob er in Teotihuacan selbst regierte, ist umstritten.
+  regions: [mesoamerika]
+  themes: [politik]
+  places: [teotihuacan, tikal]
+  related: [yax-nuun-ahiin-i, sihyaj-kahk]
+- id: yax-nuun-ahiin-i
+  name: Yax Nuun Ahiin I.
+  aliases: [Yax Nuun Ayiin, Curl Nose, Curl Snout]
+  died: "~404"
+  roles: [König von Tikal]
+  summary: Herrscher von Tikal ab 379, als Sohn Jatz'om Kuys nach der „Ankunft“ Sihyaj K'ahk's eingesetzt; auf Stele 31 und älteren Monumenten in Kriegertracht im Stil Teotihuacans dargestellt.
+  regions: [mesoamerika]
+  themes: [politik]
+  places: [tikal]
+  related: [jatzom-kuy, sihyaj-kahk, chak-tok-ichaak-i]
+- id: chak-tok-ichaak-i
+  name: Chak Tok Ich'aak I.
+  aliases: [Jaguar Paw, Großer Jaguarpranke]
+  died: "378-01"
+  roles: [König von Tikal]
+  summary: König von Tikal, der laut den Inschriften am Tag der Ankunft Sihyaj K'ahk's im Januar 378 starb; mit ihm endete die ältere Linie der Dynastie vorübergehend.
+  regions: [mesoamerika]
+  themes: [politik]
+  places: [tikal]
+  related: [sihyaj-kahk]
+- id: kinich-yax-kuk-mo
+  name: K'inich Yax K'uk' Mo'
+  aliases: [Yax K'uk' Mo']
+  died: "~437"
+  roles: [König von Copán, Dynastiegründer]
+  summary: Begründer der klassischen Dynastie von Copán (426/427), der später mit den Brillenaugen des Sturmgottes von Teotihuacan dargestellt wurde; Isotopenuntersuchungen seines mutmaßlichen Skeletts sprechen eher für eine Herkunft aus dem zentralen Maya-Tiefland.
+  regions: [mesoamerika]
+  themes: [politik]
+  places: [copan]
+- id: leopoldo-batres
+  name: Leopoldo Batres
+  born: "1852"
+  died: "1926"
+  roles: [Archäologe, Inspektor der Altertümer Mexikos]
+  summary: Mexikanischer Archäologe, der 1905–1910 die Sonnenpyramide für die Hundertjahrfeier der Unabhängigkeit freilegte und dabei Teile der äußeren Bauschicht abtragen ließ.
+  regions: [mesoamerika]
+  themes: [archaeologie]
+  places: [teotihuacan, sonnenpyramide]
+- id: manuel-gamio
+  name: Manuel Gamio
+  born: "1883"
+  died: "1960"
+  roles: [Archäologe, Anthropologe]
+  summary: Mexikanischer Anthropologe, der 1917–1922 ein interdisziplinäres Projekt zu Archäologie und heutiger Bevölkerung des Teotihuacan-Tals leitete und dabei die Fassade des Federschlangentempels freilegte.
+  regions: [mesoamerika]
+  themes: [archaeologie]
+  places: [teotihuacan, ciudadela-teotihuacan]
+- id: rene-millon
+  name: René Millon
+  roles: [Archäologe]
+  summary: US-amerikanischer Archäologe, der ab 1962 das Teotihuacan Mapping Project leitete; die 1973 veröffentlichte Karte erfasste erstmals die ganze Stadt mit ihren Wohnkomplexen.
+  regions: [mesoamerika]
+  themes: [archaeologie]
+  places: [teotihuacan]
+  related: [george-cowgill]
+- id: george-cowgill
+  name: George L. Cowgill
+  roles: [Archäologe]
+  summary: US-amerikanischer Archäologe, Mitarbeiter am Teotihuacan Mapping Project und an Grabungen am Federschlangentempel, Verfasser der maßgeblichen Synthese zur Stadt (2015).
+  regions: [mesoamerika]
+  themes: [archaeologie]
+  places: [teotihuacan]
+  related: [rene-millon, saburo-sugiyama]
+- id: saburo-sugiyama
+  name: Saburo Sugiyama
+  roles: [Archäologe]
+  summary: Japanischer Archäologe, der an den Grabungen am Federschlangentempel (1988/89) mitwirkte und 1998–2004 gemeinsam mit Rubén Cabrera die Opferdepots in der Mondpyramide freilegte.
+  regions: [mesoamerika]
+  themes: [archaeologie]
+  places: [ciudadela-teotihuacan, mondpyramide]
+- id: sergio-gomez-chavez
+  name: Sergio Gómez Chávez
+  roles: [Archäologe]
+  summary: Mexikanischer Archäologe des INAH, der 2003 den Tunnel unter dem Federschlangentempel entdeckte und ab 2009 dessen Ausgrabung leitete.
+  regions: [mesoamerika]
+  themes: [archaeologie]
+  places: [ciudadela-teotihuacan]
+- id: linda-manzanilla
+  name: Linda R. Manzanilla
+  roles: [Archäologin]
+  summary: Mexikanische Archäologin, die u. a. Höhlen unter der Stadt, Wohnkomplexe und das Viertel Teopancazco erforschte und Teotihuacan als multiethnische, kollektiv regierte Gesellschaft deutet.
+  regions: [mesoamerika]
+  themes: [archaeologie]
+  places: [teotihuacan]
+- id: esther-pasztory
+  name: Esther Pasztory
+  roles: [Kunsthistorikerin]
+  summary: Kunsthistorikerin, die die Kunst Teotihuacans als Ausdruck einer bewusst unpersönlichen, auf Gemeinschaft statt auf Herrscher ausgerichteten Ideologie deutete und die Figur einer „Großen Göttin“ prägte.
+  regions: [mesoamerika]
+  themes: [kultur-kunst, archaeologie]
+  places: [teotihuacan]

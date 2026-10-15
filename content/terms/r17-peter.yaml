@@ -1,0 +1,56 @@
+# Begriffe: Peter der Große und die Petrinischen Reformen (r17-peter)
+- id: zar
+  name: Zar
+  aliases: [Car', Tsar, Zarin, Zarewitsch, Zartum]
+  definition: Vom lateinischen Caesar abgeleiteter Herrschertitel, den die Moskauer Großfürsten seit 1547 offiziell führten, um einen kaiserlichen, an Byzanz anknüpfenden Rang zu beanspruchen; nach 1721 blieb „Zar“ neben dem offiziellen Titel Imperator im Sprachgebrauch erhalten.
+  themes: [politik, imperien]
+- id: bojaren
+  name: Bojaren
+  aliases: [Bojar, Bojarenduma]
+  definition: Angehörige des höchsten Adels im Moskauer Reich, die als Ratgeber des Zaren in der Bojarenduma saßen und hohe Militär- und Verwaltungsämter innehatten; unter Peter I. verlor die Duma ihre Funktion, der Titel kam außer Gebrauch.
+  themes: [gesellschaft, politik]
+- id: strelitzen
+  name: Strelitzen
+  aliases: [Streltsy, Strel'cy, Schützen]
+  definition: Im 16. Jahrhundert gegründete, mit Feuerwaffen ausgerüstete Fußtruppe des Moskauer Reiches, deren Angehörige erblich dienten, in eigenen Vierteln lebten und Handel und Handwerk treiben durften; nach den Aufständen von 1682 und 1698 von Peter I. weitgehend aufgelöst.
+  themes: [krieg-militaer, gesellschaft]
+- id: leibeigenschaft
+  name: Leibeigenschaft (Russland)
+  aliases: [Krepostnoe pravo, Schollenbindung, Leibeigene, Leibeigenschaft]
+  definition: In Russland durch das Gesetzbuch von 1649 vollendete Bindung der Bauern an das Land und die Person ihres Herrn, die unter Peter I. durch Kopfsteuer, Rekrutenaushebung und Passzwang verschärft wurde; Leibeigene konnten im 18. Jahrhundert faktisch wie Eigentum verkauft werden. Erst 1861 aufgehoben.
+  themes: [sklaverei-unfreiheit, gesellschaft, landwirtschaft]
+- id: rangtabelle
+  name: Rangtabelle
+  aliases: [Tabel' o rangach, Table of Ranks, Rangordnung]
+  definition: Gesetz Peters I. von 1722, das alle Ämter in Militär, Zivilverwaltung und Hof in 14 parallel geordnete Rangklassen einteilte und den Erwerb des erblichen Adels an das Erreichen bestimmter Ränge im Staatsdienst knüpfte; mit Änderungen gültig bis 1917.
+  themes: [gesellschaft, verfassung-recht]
+- id: kopfsteuer
+  name: Kopfsteuer
+  aliases: [Podušnaja podat', Seelensteuer, Revisionsseelen, Seelenrevision]
+  definition: Ab 1724 in Russland erhobene direkte Steuer auf jede männliche Person der steuerpflichtigen Stände, unabhängig von Alter und Arbeitsfähigkeit, ermittelt durch periodische Zählungen (Revisionen); sie ersetzte die Haushaltssteuer, diente dem Unterhalt des Heeres und bestand bis in die 1880er Jahre.
+  themes: [wirtschaft-handel, gesellschaft]
+- id: kollegien
+  name: Kollegien
+  aliases: [Kollegialsystem, Kollegienverfassung]
+  definition: Nach schwedischem und deutschem Vorbild ab 1717 eingerichtete Zentralbehörden des Russischen Reiches, die nach Sachgebieten getrennt waren und von einem Gremium mit Präsident statt von einem Einzelnen geleitet wurden; unter Alexander I. 1802 durch Ministerien ersetzt.
+  themes: [verfassung-recht, politik]
+- id: regierender-senat
+  name: Regierender Senat
+  aliases: [Pravitel'stvujuščij senat, Senat (Russland)]
+  definition: 1711 von Peter I. eingerichtetes oberstes Verwaltungs- und Gerichtsorgan Russlands, das die Kollegien und Gouvernements beaufsichtigte; ab 1722 kontrolliert durch einen Generalprokurator als „Auge des Herrschers“. Bestand bis 1917.
+  themes: [verfassung-recht, politik]
+- id: heiliger-synod
+  name: Heiliger Synod
+  aliases: [Heiliger Regierender Synod, Geistliches Kollegium, Svjatejšij Sinod]
+  definition: Seit 1721 die kollegiale Leitung der Russisch-Orthodoxen Kirche anstelle des Patriarchen, besetzt mit vom Herrscher ernannten Bischöfen und Geistlichen und überwacht von einem weltlichen Oberprokuror; machte die Kirche faktisch zu einer Staatsbehörde. Bestand bis zur Wiederherstellung des Patriarchats 1917.
+  themes: [religion, verfassung-recht]
+- id: altglaeubige
+  name: Altgläubige
+  aliases: [Altritualisten, Raskolniki, Raskol, Starowery]
+  definition: Orthodoxe Gläubige, die die Liturgiereform des Patriarchen Nikon in den 1650er und 1660er Jahren ablehnten und an den alten Riten festhielten; verfolgt, teils in den Selbstmord durch Verbrennen getrieben, sahen viele von ihnen in Peter I. den Antichristen. Unter Peter mussten sie eine doppelte Kopfsteuer zahlen.
+  themes: [religion, gesellschaft]
+- id: deutsche-vorstadt
+  name: Deutsche Vorstadt
+  aliases: [Nemezkaja sloboda, Ausländervorstadt, Nemeckaja sloboda]
+  definition: Siedlung am Fluss Jausa bei Moskau, in der seit den 1650er Jahren Ausländer aus West- und Mitteleuropa – Offiziere, Kaufleute, Handwerker, Ärzte – getrennt von der orthodoxen Bevölkerung leben mussten; für den jungen Peter ein Ort der Begegnung mit westlicher Lebensweise.
+  themes: [migration, gesellschaft, kultur-kunst]

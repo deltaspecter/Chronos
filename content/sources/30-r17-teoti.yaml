@@ -1,0 +1,112 @@
+# Quellen und Literatur: Teotihuacan (Runde 17)
+
+- id: cowgill-2015
+  kind: sekundaer
+  authors: ["Cowgill, George L."]
+  title: Ancient Teotihuacan
+  subtitle: Early Urbanism in Central Mexico
+  series: Case Studies in Early Societies
+  place: New York
+  publisher: Cambridge University Press
+  year: 2015
+  note: Gesamtdarstellung des langjährigen Mitarbeiters am Teotihuacan Mapping Project; derzeit die maßgebliche Synthese zur Stadt.
+- id: millon-1973
+  kind: sekundaer
+  authors: ["Millon, René"]
+  title: Urbanization at Teotihuacán, Mexico
+  subtitle: "Volume 1 – The Teotihuacán Map. Part One: Text"
+  place: Austin / London
+  publisher: University of Texas Press
+  year: 1973
+  note: Textband zur Kartierung der gesamten Stadt durch das Teotihuacan Mapping Project; Grundlage aller späteren Bevölkerungs- und Siedlungsstudien.
+- id: pasztory-1997
+  kind: sekundaer
+  authors: ["Pasztory, Esther"]
+  title: Teotihuacan
+  subtitle: An Experiment in Living
+  place: Norman
+  publisher: University of Oklahoma Press
+  year: 1997
+- id: headrick-2007
+  kind: sekundaer
+  authors: ["Headrick, Annabeth"]
+  title: The Teotihuacan Trinity
+  subtitle: The Sociopolitical Structure of an Ancient Mesoamerican City
+  place: Austin
+  publisher: University of Texas Press
+  year: 2007
+- id: sugiyama-2005
+  kind: sekundaer
+  authors: ["Sugiyama, Saburo"]
+  title: Human Sacrifice, Militarism, and Rulership
+  subtitle: Materialization of State Ideology at the Feathered Serpent Pyramid, Teotihuacan
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2005
+- id: braswell-2003
+  kind: sekundaer
+  editors: ["Braswell, Geoffrey E."]
+  title: The Maya and Teotihuacan
+  subtitle: Reinterpreting Early Classic Interaction
+  place: Austin
+  publisher: University of Texas Press
+  year: 2003
+- id: carrasco-jones-sessions-2000
+  kind: sekundaer
+  editors: ["Carrasco, Davíd", "Jones, Lindsay", "Sessions, Scott"]
+  title: Mesoamerica's Classic Heritage
+  subtitle: From Teotihuacan to the Aztecs
+  place: Boulder
+  publisher: University Press of Colorado
+  year: 2000
+- id: coe-koontz-2013
+  kind: sekundaer
+  authors: ["Coe, Michael D.", "Koontz, Rex"]
+  title: Mexico
+  subtitle: From the Olmecs to the Aztecs
+  edition: 7. Auflage
+  place: London / New York
+  publisher: Thames & Hudson
+  year: 2013
+- id: berrin-pasztory-1993
+  kind: sekundaer
+  editors: ["Berrin, Kathleen", "Pasztory, Esther"]
+  title: Teotihuacan
+  subtitle: Art from the City of the Gods
+  place: New York / San Francisco
+  publisher: Thames & Hudson / Fine Arts Museums of San Francisco
+  year: 1993
+  note: Ausstellungskatalog mit Beiträgen zu Kunst, Wandmalerei und Gesellschaft der Stadt.
+- id: carballo-2016
+  kind: sekundaer
+  authors: ["Carballo, David M."]
+  title: Urbanization and Religion in Ancient Central Mexico
+  place: New York
+  publisher: Oxford University Press
+  year: 2016
+- id: manzanilla-2015
+  kind: sekundaer
+  authors: ["Manzanilla, Linda R."]
+  title: Cooperation and Tensions in Multiethnic Corporate Societies Using Teotihuacan, Central Mexico, as a Case Study
+  container: Proceedings of the National Academy of Sciences of the United States of America
+  volume: 112
+  pages: 9210–9215
+  year: 2015
+- id: blanton-1996
+  kind: sekundaer
+  authors: ["Blanton, Richard E.", "Feinman, Gary M.", "Kowalewski, Stephen A.", "Peregrine, Peter N."]
+  title: A Dual-Processual Theory for the Evolution of Mesoamerican Civilization
+  container: Current Anthropology
+  volume: 37
+  pages: 1–14
+  year: 1996
+- id: q-teotihuacan-wandmalereien
+  kind: primaer
+  title: Wandmalereien von Teotihuacan
+  written: Teotihuacan, etwa 3.–7. Jahrhundert
+  note: Auf Kalkputz gemalte Bilder in Wohnkomplexen und Tempeln (u. a. Tepantitla, Tetitla, Atetelco) mit Gottheiten, Priestern, Kriegern, Tieren und Zeichen; die wichtigste bildliche Selbstdarstellung der Stadt, da längere Texte fehlen.
+- id: q-tikal-stele-31
+  kind: primaer
+  title: Stele 31 von Tikal
+  written: Tikal, 445 n. Chr.
+  note: Unter König Sihyaj Chan K'awiil II. errichtetes Monument, dessen Inschrift die Ankunft Sihyaj K'ahk's 378, die Einsetzung Yax Nuun Ahiins und den Tod Jatz'om Kuys nennt; die Seiten zeigen Yax Nuun Ahiin in Kriegertracht im Stil Teotihuacans.

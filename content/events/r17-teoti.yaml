@@ -1,0 +1,158 @@
+# Ereignisse: Teotihuacan (Runde 17)
+- id: ausbruch-des-xitle
+  title: Ausbruch des Xitle und Ende Cuicuilcos
+  date: "~280?"
+  certainty: umstritten
+  dateNote: Ältere Datierungen setzten den Ausbruch um die Zeitenwende oder früher an; neuere Radiokarbondaten sprechen für das späte 3. Jahrhundert n. Chr. Cuicuilco hatte womöglich schon vorher an Bedeutung verloren.
+  weight: 3
+  kind: katastrophe
+  summary: Lavaströme des kleinen Vulkans Xitle im Süden des Beckens von Mexiko begraben das Zentrum Cuicuilco und weite Flächen Ackerland.
+  regions: [mesoamerika]
+  themes: [umwelt-klima, archaeologie]
+  places: [cuicuilco]
+- id: ausbruch-popocatepetl-1-jh
+  title: Großer Ausbruch des Popocatépetl
+  date: "~50?"
+  certainty: unsicher
+  dateNote: Datierung nach Radiokarbondaten ungefähr in die Mitte des 1. Jahrhunderts n. Chr.
+  weight: 3
+  kind: katastrophe
+  summary: Ein plinianischer Ausbruch des Popocatépetl verschüttet Dörfer an seinen Hängen; ein Teil der Bevölkerung könnte nach Teotihuacan abgewandert sein.
+  regions: [mesoamerika]
+  themes: [umwelt-klima, migration]
+  places: [popocatepetl]
+- id: bau-der-sonnenpyramide
+  title: Bau der Sonnenpyramide
+  start: "~1"
+  end: "~250"
+  certainty: wahrscheinlich
+  weight: 2
+  kind: entwicklung
+  summary: Über einer Höhle mit künstlich erweitertem Gang entsteht in mehreren Etappen der größte Bau Teotihuacans; der Hauptkörper war wohl im 2. Jahrhundert n. Chr. vollendet.
+  regions: [mesoamerika]
+  themes: [religion, archaeologie]
+  places: [sonnenpyramide, teotihuacan]
+  polities: [staat-teotihuacan]
+- id: weihe-federschlangentempel
+  title: Errichtung des Federschlangentempels mit Massenopfer
+  start: "~200"
+  end: "~250"
+  certainty: wahrscheinlich
+  weight: 2
+  kind: ereignis
+  summary: Bei der Errichtung der Federschlangenpyramide in der Ciudadela werden nach Schätzung der Ausgräber rund 200 Menschen geopfert und in Gruppen unter und um den Bau bestattet, viele davon mit Waffen und Kriegerschmuck.
+  regions: [mesoamerika]
+  themes: [religion, gewalt-genozid, politik]
+  places: [ciudadela-teotihuacan]
+  polities: [staat-teotihuacan]
+- id: herrschaftsantritt-jatzom-kuy
+  title: Herrschaftsantritt Jatz'om Kuys
+  date: "374"
+  certainty: wahrscheinlich
+  dateNote: Nach dem sogenannten Marcador (Ballspielplatzmarker) von Tikal; wo er herrschte, nennt die Inschrift nicht eindeutig.
+  weight: 3
+  kind: herrschaft
+  summary: Ein Herrscher mit dem Namenszeichen Eule mit Speerschleuder kommt an die Macht – nach verbreiteter, aber umstrittener Deutung in Teotihuacan.
+  regions: [mesoamerika]
+  themes: [politik]
+  places: [teotihuacan, tikal]
+  persons: [jatzom-kuy]
+- id: einsetzung-yax-nuun-ahiin
+  title: Einsetzung Yax Nuun Ahiins in Tikal
+  date: "379-09"
+  weight: 3
+  kind: herrschaft
+  summary: Gut anderthalb Jahre nach der Ankunft Sihyaj K'ahk's wird der junge Yax Nuun Ahiin, Sohn Jatz'om Kuys, König von Tikal.
+  regions: [mesoamerika]
+  themes: [politik]
+  places: [tikal]
+  persons: [yax-nuun-ahiin-i, sihyaj-kahk, jatzom-kuy]
+  polities: [mutul]
+- id: gruendung-dynastie-copan
+  title: Gründung der Dynastie von Copán
+  date: "426"
+  dateNote: Die Inschriften nennen 426 die Erhebung K'inich Yax K'uk' Mo's und Anfang 427 seine Ankunft in Copán.
+  weight: 3
+  kind: gruendung
+  summary: K'inich Yax K'uk' Mo' begründet die klassische Königsdynastie von Copán; spätere Herrscher stellen ihn mit Attributen Teotihuacans dar.
+  regions: [mesoamerika]
+  themes: [politik]
+  places: [copan]
+  persons: [kinich-yax-kuk-mo]
+- id: brand-von-teotihuacan
+  title: Brand des Zentrums von Teotihuacan
+  date: "~550?"
+  certainty: umstritten
+  dateNote: Früher meist um 650–750 datiert; neuere Radiokarbon- und archäomagnetische Daten sprechen für die Mitte des 6. Jahrhunderts, doch die Spanne bleibt umstritten.
+  weight: 2
+  kind: katastrophe
+  summary: Tempel, Paläste und Plattformen entlang der Straße der Toten werden gezielt in Brand gesetzt, Skulpturen zerschlagen; danach verliert Teotihuacan seine überregionale Stellung, bleibt aber bewohnt.
+  regions: [mesoamerika]
+  themes: [politik, gewalt-genozid]
+  places: [teotihuacan, strasse-der-toten]
+  polities: [staat-teotihuacan]
+- id: batres-sonnenpyramide
+  title: Freilegung der Sonnenpyramide durch Batres
+  start: "1905"
+  end: "1910"
+  weight: 3
+  kind: entdeckung
+  summary: Leopoldo Batres lässt die Sonnenpyramide für die Hundertjahrfeier der mexikanischen Unabhängigkeit freilegen und rekonstruieren; dabei wird ein Teil der äußeren Bausubstanz abgetragen.
+  regions: [mesoamerika]
+  themes: [archaeologie]
+  places: [sonnenpyramide]
+  persons: [leopoldo-batres]
+- id: gamio-projekt-teotihuacan
+  title: Gamios Projekt im Tal von Teotihuacan
+  start: "1917"
+  end: "1922"
+  weight: 3
+  kind: entdeckung
+  summary: Manuel Gamio untersucht Archäologie und heutige Bevölkerung des Tals gemeinsam und legt in der Ciudadela die skulptierte Fassade des Federschlangentempels frei.
+  regions: [mesoamerika]
+  themes: [archaeologie]
+  places: [ciudadela-teotihuacan]
+  persons: [manuel-gamio]
+- id: teotihuacan-mapping-project
+  title: Teotihuacan Mapping Project
+  start: "1962"
+  end: "1973"
+  dateNote: Beginn der Geländearbeiten 1962; der Text- und Kartenband erschien 1973.
+  weight: 2
+  kind: entdeckung
+  summary: Ein Team um René Millon kartiert systematisch die Oberfläche der gesamten, rund 20 Quadratkilometer großen Stadt und weist über 2.000 Wohnkomplexe nach.
+  regions: [mesoamerika]
+  themes: [archaeologie]
+  places: [teotihuacan]
+  persons: [rene-millon, george-cowgill]
+- id: welterbe-teotihuacan
+  title: Teotihuacan wird UNESCO-Welterbe
+  date: "1987"
+  weight: 3
+  kind: ereignis
+  summary: Die vorspanische Stadt Teotihuacan wird in die Liste des Welterbes aufgenommen.
+  regions: [mesoamerika]
+  themes: [archaeologie]
+  places: [teotihuacan]
+- id: grabungen-mondpyramide
+  title: Grabungen in der Mondpyramide
+  start: "1998"
+  end: "2004"
+  weight: 3
+  kind: entdeckung
+  summary: Tunnelgrabungen unter Saburo Sugiyama und Rubén Cabrera legen sieben Bauphasen und mehrere Opferdepots mit Menschen, Raubtieren, Raubvögeln und kostbaren Beigaben frei.
+  regions: [mesoamerika]
+  themes: [archaeologie, religion]
+  places: [mondpyramide]
+  persons: [saburo-sugiyama]
+- id: tunnel-federschlangentempel
+  title: Entdeckung des Tunnels unter dem Federschlangentempel
+  date: "2003"
+  dateNote: Entdeckung 2003; systematische Ausgrabung ab 2009.
+  weight: 2
+  kind: entdeckung
+  summary: Nach starken Regenfällen öffnet sich vor der Federschlangenpyramide ein Schacht; er führt in einen über hundert Meter langen Tunnel, der in der Antike mit Zehntausenden Opfergaben gefüllt und verschlossen worden war.
+  regions: [mesoamerika]
+  themes: [archaeologie, religion]
+  places: [ciudadela-teotihuacan]
+  persons: [sergio-gomez-chavez]

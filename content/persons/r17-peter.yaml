@@ -1,0 +1,202 @@
+# Personen: Peter der Große und die Petrinischen Reformen (r17-peter)
+- id: peter-der-grosse
+  name: Peter der Große
+  aliases: [Peter I., Pjotr Alexejewitsch, Pjotr Michailow, Peter the Great]
+  born: "1672-06-09"
+  died: "1725-02-08"
+  roles: [Zar, Kaiser von Russland]
+  summary: Seit 1682 Zar, zunächst neben seinem Halbbruder Iwan V., ab 1696 allein; gewann im Großen Nordischen Krieg den Zugang zur Ostsee, gründete Sankt Petersburg, nahm 1721 den Kaisertitel an und baute Heer, Flotte, Verwaltung und Kirche nach europäischen Vorbildern um – mit Zwang und hohen Kosten für die Bevölkerung.
+  regions: [russland, osteuropa]
+  themes: [politik, krieg-militaer, verfassung-recht]
+  places: [moskau, leningrad, preobraschenskoje, poltawa]
+  related: [alexej-petrowitsch, katharina-i, karl-xii]
+- id: alexei-michailowitsch
+  name: Alexei Michailowitsch
+  aliases: [Alexei I., Alexej Michailowitsch, „der Sanftmütige“]
+  born: "1629"
+  died: "1676"
+  roles: [Zar]
+  summary: Zweiter Zar aus dem Haus Romanow (1645–1676) und Vater Peters des Großen; unter ihm entstanden das Gesetzbuch von 1649, das die Bauern endgültig an die Scholle band, Regimenter nach westlichem Muster und die Kirchenspaltung der Altgläubigen.
+  regions: [russland]
+  themes: [politik, religion]
+  places: [moskau]
+- id: fjodor-iii
+  name: Fjodor III.
+  aliases: [Fjodor Alexejewitsch, Feodor III.]
+  born: "1661"
+  died: "1682"
+  roles: [Zar]
+  summary: Ältester überlebender Sohn Alexei Michailowitschs aus erster Ehe, Zar 1676–1682; schaffte 1682 die Rangplatzordnung des Hochadels (Mestnitschestwo) ab. Sein kinderloser Tod löste die Thronfolgekrise von 1682 aus.
+  regions: [russland]
+  themes: [politik]
+  places: [moskau]
+- id: natalja-naryschkina
+  name: Natalja Naryschkina
+  aliases: [Natalja Kirillowna Naryschkina]
+  born: "1651"
+  died: "1694"
+  roles: [Zarin]
+  summary: Zweite Ehefrau Zar Alexei Michailowitschs und Mutter Peters des Großen; ihre Familie wurde 1682 vom Strelitzenaufstand getroffen, nach dem Sturz Sofias 1689 lenkte ihr Umfeld die Regierung bis zu ihrem Tod.
+  regions: [russland]
+  themes: [politik]
+  places: [moskau, preobraschenskoje]
+- id: sofia-alexejewna
+  name: Sofia Alexejewna
+  aliases: [Sophia, Zarewna Sofja]
+  born: "1657"
+  died: "1704"
+  roles: [Regentin]
+  summary: Tochter Alexei Michailowitschs aus erster Ehe, die nach dem Strelitzenaufstand von 1682 für ihren Bruder Iwan V. und ihren Halbbruder Peter regierte – eine für eine Frau im Moskauer Reich ungewöhnliche Machtstellung; 1689 gestürzt und ins Nowodewitschi-Kloster verbannt, nach dem Aufstand von 1698 zur Nonne geschoren.
+  regions: [russland]
+  themes: [politik]
+  places: [moskau]
+- id: iwan-v
+  name: Iwan V.
+  aliases: [Iwan Alexejewitsch, Ivan V]
+  born: "1666"
+  died: "1696"
+  roles: [Zar]
+  summary: Älterer, gesundheitlich schwacher Halbbruder Peters, 1682–1696 formell Mitzar; politisch bedeutungslos, doch über seine Tochter Anna, Kaiserin 1730–1740, wirkte seine Linie weiter.
+  regions: [russland]
+  themes: [politik]
+  places: [moskau]
+- id: wassili-golizyn
+  name: Wassili Golizyn
+  aliases: [Wassili Wassiljewitsch Golizyn, Vasilii Golitsyn]
+  born: "1643"
+  died: "1714"
+  roles: [Fürst, leitender Minister]
+  summary: Gebildeter, westlich orientierter Fürst und Favorit der Regentin Sofia, der die Außenpolitik leitete; seine Feldzüge gegen das Krimchanat 1687 und 1689 scheiterten, nach Sofias Sturz wurde er in den Norden verbannt.
+  regions: [russland]
+  themes: [politik, krieg-militaer]
+  places: [moskau]
+- id: franz-lefort
+  name: Franz Lefort
+  aliases: [François Le Fort, Franz Jakowlewitsch Lefort]
+  born: "1656"
+  died: "1699"
+  roles: [General, Admiral, Diplomat]
+  summary: Aus Genf stammender Offizier aus der Moskauer Ausländervorstadt, enger Vertrauter des jungen Peter und nomineller Leiter der Großen Gesandtschaft 1697/98.
+  regions: [russland, westeuropa]
+  themes: [politik, krieg-militaer]
+  places: [moskau, asow]
+- id: patrick-gordon
+  name: Patrick Gordon
+  aliases: [Patrick Leopold Gordon]
+  born: "1635"
+  died: "1699"
+  roles: [General]
+  summary: Schottischer katholischer Offizier in russischen Diensten, militärischer Lehrer Peters, Teilnehmer der Asowfeldzüge und 1698 Befehlshaber gegen die aufständischen Strelitzen; sein Tagebuch ist eine wichtige Quelle.
+  regions: [russland, britische-inseln]
+  themes: [krieg-militaer]
+  places: [moskau, asow]
+- id: alexander-menschikow
+  name: Alexander Menschikow
+  aliases: [Alexander Danilowitsch Menschikow, Menshikov]
+  born: "1673"
+  died: "1729"
+  roles: [Feldmarschall, Gouverneur von Sankt Petersburg]
+  summary: Aufsteiger unklarer, wohl niedriger Herkunft, engster Gefolgsmann Peters, Feldherr bei Poltawa und erster Gouverneur von Sankt Petersburg; berüchtigt für Bereicherung, brachte 1725 Katharina I. auf den Thron und starb nach seinem Sturz 1727 in der sibirischen Verbannung.
+  regions: [russland]
+  themes: [politik, krieg-militaer]
+  places: [leningrad, poltawa]
+- id: katharina-i
+  name: Katharina I.
+  aliases: [Marta Skawronskaja, Jekaterina Alexejewna]
+  born: "1684"
+  died: "1727"
+  roles: [Kaiserin]
+  summary: Aus einfachen Verhältnissen in Livland stammende Gefährtin und ab 1712 offizielle Ehefrau Peters, 1724 zur Kaiserin gekrönt; regierte nach seinem Tod 1725–1727 mit Unterstützung Menschikows und der Garde.
+  regions: [russland, osteuropa]
+  themes: [politik]
+  places: [leningrad]
+- id: alexej-petrowitsch
+  name: Alexej Petrowitsch
+  aliases: [Zarewitsch Alexej, Alexei Petrovich]
+  born: "1690"
+  died: "1718"
+  roles: [Thronfolger]
+  summary: Sohn Peters aus seiner ersten Ehe mit Jewdokija Lopuchina, der sich dem Vater entfremdete, 1716 nach Wien und Neapel floh, 1718 zurückgebracht, enterbt, unter Folter verhört und zum Tod verurteilt wurde; er starb in der Peter-und-Paul-Festung.
+  regions: [russland, mitteleuropa]
+  themes: [politik]
+  places: [moskau, leningrad, wien]
+- id: peter-tolstoi
+  name: Peter Tolstoi
+  aliases: [Pjotr Andrejewitsch Tolstoi]
+  born: "1645"
+  died: "1729"
+  roles: [Diplomat, Leiter der Geheimkanzlei]
+  summary: Diplomat Peters, lange Gesandter in Konstantinopel, der 1717 den geflohenen Zarewitsch Alexej mit Versprechungen zur Rückkehr bewog und die Untersuchung gegen ihn führte; starb in der Verbannung auf den Solowezki-Inseln.
+  regions: [russland, anatolien]
+  themes: [politik]
+  places: [istanbul, solowezki-inseln]
+- id: boris-scheremetew
+  name: Boris Scheremetew
+  aliases: [Boris Petrowitsch Scheremetew, Sheremetev]
+  born: "1652"
+  died: "1719"
+  roles: [Feldmarschall]
+  summary: Aus altem Moskauer Hochadel stammender Heerführer, erster russischer Feldmarschall, Oberbefehlshaber bei Poltawa und Eroberer Rigas 1710.
+  regions: [russland]
+  themes: [krieg-militaer]
+  places: [poltawa, riga]
+- id: feofan-prokopowitsch
+  name: Feofan Prokopowitsch
+  aliases: [Feofan Prokopovich, Theophanes Prokopowitsch]
+  born: "1681"
+  died: "1736"
+  roles: [Erzbischof, Theologe]
+  summary: In Kiew und Rom ausgebildeter Theologe, Prediger und Publizist Peters, Verfasser des Geistlichen Reglements von 1721 und führendes Mitglied des Heiligen Synods; rechtfertigte die Autokratie und die Unterordnung der Kirche unter den Herrscher.
+  regions: [russland, osteuropa]
+  themes: [religion, politik]
+  places: [kiew, leningrad]
+- id: stefan-jaworski
+  name: Stefan Jaworski
+  aliases: [Stefan Javorskii]
+  born: "1658"
+  died: "1722"
+  roles: [Metropolit, Patriarchatsverweser]
+  summary: Aus der Ukraine stammender Metropolit von Rjasan, nach dem Tod des Patriarchen Adrian 1700 Verweser des Patriarchenamts und 1721 erster Präsident des Synods, obwohl er Peters Kirchenpolitik kritisch gegenüberstand.
+  regions: [russland, osteuropa]
+  themes: [religion]
+  places: [moskau]
+- id: karl-xii
+  name: Karl XII.
+  aliases: [Karl XII. von Schweden, Carl XII, Charles XII]
+  born: "1682"
+  died: "1718"
+  roles: [König von Schweden]
+  summary: Schwedischer König ab 1697, der 1700 die Russen bei Narva schlug, August II. aus Polen verdrängte, 1709 bei Poltawa unterlag und Jahre im Osmanischen Reich verbrachte; fiel 1718 bei der Belagerung von Fredriksten in Norwegen.
+  regions: [nordeuropa, osteuropa]
+  themes: [krieg-militaer, politik]
+  places: [stockholm, narva, poltawa]
+- id: august-ii
+  name: August II.
+  aliases: [August der Starke, Friedrich August I. von Sachsen]
+  born: "1670"
+  died: "1733"
+  roles: [Kurfürst von Sachsen, König von Polen]
+  summary: Kurfürst von Sachsen und ab 1697 König von Polen-Litauen, Verbündeter Peters gegen Schweden; musste 1706 im Frieden von Altranstädt auf die polnische Krone verzichten und gewann sie nach Poltawa zurück.
+  regions: [deutschland, osteuropa]
+  themes: [politik, krieg-militaer]
+  places: [dresden]
+- id: iwan-masepa
+  name: Iwan Masepa
+  aliases: [Ivan Mazepa, Iwan Mazepa]
+  born: "~1639"
+  died: "1709"
+  roles: [Hetman der Kosaken]
+  summary: Hetman der Kosaken am linken Dnipro-Ufer 1687–1709, lange Verbündeter Peters, der 1708 zu Karl XII. überging, um die Autonomie des Hetmanats zu bewahren; nach Poltawa floh er ins Osmanische Reich und starb in Bender. In Russland als Verräter verurteilt, in der Ukraine als Kämpfer für Eigenständigkeit erinnert.
+  regions: [osteuropa]
+  themes: [politik, krieg-militaer]
+  places: [baturyn, poltawa]
+- id: domenico-trezzini
+  name: Domenico Trezzini
+  aliases: [Andrei Jakimowitsch Trezzini]
+  born: "~1670"
+  died: "1734"
+  roles: [Architekt]
+  summary: Aus dem Tessin stammender Baumeister, ab 1703 in russischen Diensten; prägte das frühe Sankt Petersburg, unter anderem mit der Peter-und-Paul-Kathedrale und dem Gebäude der Zwölf Kollegien.
+  regions: [russland, mitteleuropa]
+  themes: [kultur-kunst]
+  places: [leningrad]

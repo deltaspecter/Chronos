@@ -1,0 +1,93 @@
+# Orte: Teotihuacan (Runde 17)
+- id: sonnenpyramide
+  name: Sonnenpyramide von Teotihuacan
+  aliases: [Sonnenpyramide, Pirámide del Sol]
+  coords: [-98.8435, 19.6925]
+  categories: [heiligtum, fundstaette]
+  modernName: San Juan Teotihuacán (Bundesstaat México, Mexiko)
+  summary: Größter Bau Teotihuacans an der Ostseite der Straße der Toten, mit einer Grundfläche von gut 200 mal 200 Metern und heute rund 64 Metern Höhe; im Wesentlichen im 1. und 2. Jahrhundert n. Chr. errichtet. Den Namen gaben ihm erst die Mexica.
+  regions: [mesoamerika]
+  themes: [archaeologie, religion]
+- id: mondpyramide
+  name: Mondpyramide von Teotihuacan
+  aliases: [Mondpyramide, Pirámide de la Luna]
+  coords: [-98.8437, 19.6995]
+  categories: [heiligtum, fundstaette]
+  modernName: San Juan Teotihuacán (Bundesstaat México, Mexiko)
+  summary: Pyramide am Nordende der Straße der Toten, in mindestens sieben Bauphasen erweitert; in ihr fanden sich Depots mit geopferten Menschen und Tieren aus dem 2. bis 4. Jahrhundert.
+  regions: [mesoamerika]
+  themes: [archaeologie, religion]
+- id: strasse-der-toten
+  name: Straße der Toten
+  aliases: [Calzada de los Muertos, Miccaotli]
+  coords: [-98.8445, 19.6900]
+  location: ungefaehr
+  categories: [fundstaette]
+  modernName: San Juan Teotihuacán (Bundesstaat México, Mexiko)
+  summary: Zentrale Achse Teotihuacans, über mehrere Kilometer etwa 15,5 Grad östlich von Nord ausgerichtet und von Tempeln und Plattformen gesäumt; der Name geht auf die Mexica zurück, die die Hügel für Gräber hielten.
+  regions: [mesoamerika]
+  themes: [archaeologie]
+- id: ciudadela-teotihuacan
+  name: Ciudadela und Federschlangentempel
+  aliases: [Ciudadela, Federschlangentempel, Federschlangenpyramide, Templo de Quetzalcóatl]
+  coords: [-98.8460, 19.6820]
+  location: ungefaehr
+  categories: [heiligtum, fundstaette]
+  modernName: San Juan Teotihuacán (Bundesstaat México, Mexiko)
+  summary: Riesiger ummauerter Platz von rund 400 Metern Seitenlänge an der Straße der Toten mit der Federschlangenpyramide, unter der um 200–250 n. Chr. weit über hundert Geopferte bestattet wurden; darunter verläuft ein 2003 entdeckter Tunnel.
+  regions: [mesoamerika]
+  themes: [archaeologie, religion]
+- id: tepantitla
+  name: Tepantitla
+  coords: [-98.8395, 19.6955]
+  location: ungefaehr
+  categories: [fundstaette]
+  modernName: San Juan Teotihuacán (Bundesstaat México, Mexiko)
+  summary: Wohnkomplex östlich der Sonnenpyramide, berühmt für seine Wandmalereien mit einer großen Gottheit und vielen kleinen spielenden und schwimmenden Figuren, die Alfonso Caso als „Tlalocan“ deutete.
+  regions: [mesoamerika]
+  themes: [archaeologie, kultur-kunst]
+- id: tlailotlacan
+  name: Tlailotlacan (Oaxaca-Viertel)
+  aliases: [Oaxaca-Viertel, Oaxaca Barrio]
+  coords: [-98.8620, 19.6900]
+  location: ungefaehr
+  categories: [fundstaette]
+  modernName: San Juan Teotihuacán (Bundesstaat México, Mexiko)
+  summary: Viertel am Westrand Teotihuacans, in dem über Generationen Menschen mit Bestattungsbräuchen und Keramik aus dem zapotekischen Oaxaca lebten.
+  regions: [mesoamerika]
+  themes: [archaeologie, migration]
+- id: cuicuilco
+  name: Cuicuilco
+  coords: [-99.1810, 19.3015]
+  categories: [fundstaette, heiligtum]
+  modernName: Mexiko-Stadt (Mexiko)
+  summary: Großes Zentrum im Süden des Beckens von Mexiko in den letzten Jahrhunderten v. Chr. mit einer runden Stufenplattform; Lavaströme des Vulkans Xitle begruben es, die Datierung des Ausbruchs ist umstritten.
+  regions: [mesoamerika]
+  themes: [archaeologie, umwelt-klima]
+- id: popocatepetl
+  name: Popocatépetl
+  coords: [-98.6278, 19.0225]
+  categories: [region]
+  modernName: Grenzgebiet der Bundesstaaten México, Puebla und Morelos (Mexiko)
+  summary: Aktiver Vulkan am Südostrand des Beckens von Mexiko; ein großer Ausbruch im 1. Jahrhundert n. Chr. begrub Siedlungen an seinen Hängen.
+  regions: [mesoamerika]
+  themes: [umwelt-klima]
+- id: sierra-de-las-navajas
+  name: Sierra de las Navajas
+  aliases: [Cerro de las Navajas, Pachuca-Obsidian]
+  coords: [-98.6000, 20.2000]
+  location: ungefaehr
+  categories: [region]
+  modernName: bei Pachuca (Hidalgo, Mexiko)
+  summary: Gebirgszug nordöstlich von Pachuca mit Lagerstätten des begehrten grünlichen Obsidians, den Teotihuacan in großen Mengen verarbeitete und verbreitete.
+  regions: [mesoamerika]
+  themes: [wirtschaft-handel]
+- id: kaminaljuyu
+  name: Kaminaljuyú
+  coords: [-90.5480, 14.6400]
+  location: ungefaehr
+  categories: [stadt, fundstaette]
+  modernName: Guatemala-Stadt (Guatemala)
+  summary: Bedeutendes Zentrum im Hochland von Guatemala, in dem im 5. Jahrhundert Bauten im Talud-Tablero-Stil und Grabbeigaben aus Teotihuacan auftreten; ob dies auf Eroberung, Kolonisten oder Nachahmung zurückgeht, ist umstritten.
+  regions: [mesoamerika]
+  themes: [archaeologie]

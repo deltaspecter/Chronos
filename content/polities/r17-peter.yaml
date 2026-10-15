@@ -1,0 +1,44 @@
+# Staaten: Peter der Große und die Petrinischen Reformen (r17-peter)
+- id: moskauer-reich
+  name: Moskauer Reich
+  aliases: [Zartum Russland, Moskauer Staat, Moskowien, Moskowiterreich, Russisches Zartum]
+  start: "1547-01-16"
+  end: "1721-11-02"
+  spanNote: Als Beginn gilt die Krönung Iwans IV. zum Zaren 1547, als Ende die Annahme des Kaisertitels durch Peter I. am 22. Oktober 1721 (julianisch). Ab 1613 regierte das Haus Romanow; die Grenzziehung der Epochen ist eine Konvention.
+  capital: moskau
+  summary: Aus dem Großfürstentum Moskau hervorgegangene orthodoxe Zarenherrschaft, die im 16. und 17. Jahrhundert über die Wolga und Sibirien bis zum Pazifik expandierte; regiert von einem Zaren mit Bojarenduma, Prikasen (Ämtern) und einem an den Dienst gebundenen Adel, seit 1649 mit gesetzlich verankerter Leibeigenschaft.
+  regions: [russland, osteuropa]
+  themes: [politik, imperien, religion]
+  successors: [russisches-kaiserreich]
+  weight: 2
+- id: polen-litauen
+  name: Polen-Litauen
+  aliases: [Rzeczpospolita, Republik beider Nationen, Adelsrepublik]
+  start: "1569-07-01"
+  end: "1795"
+  spanNote: Die Union von Lublin 1569 verband das Königreich Polen und das Großfürstentum Litauen zu einem gemeinsamen Staat; mit der dritten Teilung 1795 endete er.
+  summary: Wahlmonarchie mit starkem Adel (Szlachta) zwischen Ostsee und Dnipro; im Großen Nordischen Krieg Kriegsschauplatz und zunehmend unter russischem Einfluss.
+  regions: [osteuropa, mitteleuropa]
+  themes: [politik, verfassung-recht]
+  weight: 2
+- id: kosaken-hetmanat
+  name: Kosaken-Hetmanat
+  aliases: [Hetmanat, Hetmanschtschyna, Saporoger Heer]
+  start: "1648"
+  end: "1764"
+  spanNote: Entstanden im Aufstand Bohdan Chmelnyzkyjs gegen Polen-Litauen 1648; seit 1654 unter der Oberhoheit des Zaren, ab 1667 auf das linke Dnipro-Ufer beschränkt; 1764 schaffte Katharina II. das Hetmansamt ab.
+  capital: baturyn
+  summary: Autonomes Kosakengemeinwesen in der heutigen Zentral- und Ostukraine mit eigenem gewählten Hetman, Militärverfassung und Ämtern, dessen Selbstständigkeit unter Peter I. besonders nach Masepas Übertritt 1708 stark beschnitten wurde.
+  regions: [osteuropa]
+  themes: [politik, krieg-militaer]
+  weight: 3
+- id: krimchanat
+  name: Krimchanat
+  aliases: [Khanat der Krim, Krimtataren-Khanat]
+  start: "~1441"
+  end: "1783"
+  spanNote: Gründung um 1441 durch Hacı Giray; seit 1475 unter osmanischer Oberhoheit; 1783 von Russland annektiert.
+  summary: Von der Dynastie der Giray regiertes tatarisches Khanat auf der Krim und in der nördlichen Schwarzmeersteppe, Vasall des Osmanischen Reiches; seine Kriegszüge und Sklavenjagden bedrohten die Südgrenze des Moskauer Reiches.
+  regions: [osteuropa]
+  themes: [politik, sklaverei-unfreiheit]
+  weight: 3
