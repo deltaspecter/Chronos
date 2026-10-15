@@ -1,0 +1,120 @@
+# Orte: Al-Andalus und die Reconquista
+- id: toledo
+  name: Toledo
+  aliases: [Tulaytula, Toletum]
+  coords: [-4.0273, 39.8628]
+  categories: [stadt, hauptstadt, kulturzentrum]
+  modernName: Toledo (Kastilien-La Mancha, Spanien)
+  summary: Hauptstadt des Westgotenreichs, danach Sitz einer der großen Taifa-Herrschaften; 1085 von Alfons VI. eingenommen. Im 12. und 13. Jahrhundert ein Zentrum der Übersetzung arabischer Wissenschaft und Philosophie ins Lateinische.
+  regions: [iberische-halbinsel]
+  themes: [politik, wissenschaft-technik, religion]
+- id: madinat-az-zahra
+  name: Madinat az-Zahra
+  aliases: [Medina Azahara, Madīnat al-Zahrāʾ]
+  coords: [-4.8675, 37.8875]
+  categories: [fundstaette, hauptstadt]
+  start: "936"
+  modernName: Archäologische Stätte Medina Azahara bei Córdoba
+  summary: Palaststadt, die Abd ar-Rahman III. ab 936 westlich von Córdoba errichten ließ und die als Regierungssitz des Kalifats diente; im Bürgerkrieg nach 1009 zerstört und geplündert, seit dem 20. Jahrhundert ausgegraben und seit 2018 Weltkulturerbe.
+  regions: [iberische-halbinsel]
+  themes: [kultur-kunst, politik, archaeologie]
+- id: gibraltar
+  name: Gibraltar
+  aliases: [Dschabal Tariq, Jabal Tariq, Calpe]
+  coords: [-5.3536, 36.1408]
+  categories: [hafen]
+  modernName: Gibraltar (Britisches Überseegebiet)
+  summary: Felsen an der Meerenge zwischen Mittelmeer und Atlantik, wo 711 die Truppen Tariq ibn Ziyads landeten; der Name leitet sich vom arabischen Dschabal Tariq (Berg des Tariq) ab.
+  regions: [iberische-halbinsel, mittelmeer]
+  themes: [krieg-militaer, handelsnetze]
+- id: guadalete
+  name: Guadalete
+  aliases: [Wadi Lakka, Río Guadalete, Laguna de la Janda]
+  coords: [-5.85, 36.55]
+  location: umstritten
+  categories: [schlachtfeld]
+  modernName: Provinz Cádiz, Spanien
+  summary: Ungefährer Ort der Schlacht von 711, in der das Heer Tariqs den Westgotenkönig Roderich besiegte; die genaue Lage ist unbekannt – genannt werden der Fluss Guadalete und die Gegend der Laguna de la Janda.
+  regions: [iberische-halbinsel]
+  themes: [krieg-militaer]
+- id: covadonga
+  name: Covadonga
+  coords: [-5.0542, 43.3089]
+  location: ungefaehr
+  categories: [schlachtfeld, heiligtum]
+  modernName: Covadonga (Asturien, Spanien)
+  summary: Bergtal in Asturien, wo nach späteren Chroniken Pelayo um 722 eine muslimische Truppe besiegte; heute Wallfahrtsort mit Höhlenheiligtum und Erinnerungsort des spanischen Nationalmythos.
+  regions: [iberische-halbinsel]
+  themes: [krieg-militaer, religion, geschichtsschreibung]
+- id: oviedo
+  name: Oviedo
+  coords: [-5.8448, 43.3614]
+  categories: [stadt, hauptstadt]
+  modernName: Oviedo (Asturien, Spanien)
+  summary: Seit dem späten 8. Jahrhundert Hauptstadt des Königreichs Asturien, bis der Hof im frühen 10. Jahrhundert nach León zog.
+  regions: [iberische-halbinsel]
+  themes: [politik]
+- id: santiago-de-compostela
+  name: Santiago de Compostela
+  coords: [-8.5448, 42.8806]
+  categories: [stadt, heiligtum]
+  modernName: Santiago de Compostela (Galicien, Spanien)
+  summary: Wallfahrtsort in Galicien, wo seit dem 9. Jahrhundert das Grab des Apostels Jakobus verehrt wurde; 997 von Almansor geplündert, später Ziel des Jakobswegs. Jakobus galt als Schutzpatron der Kämpfer gegen die Muslime (Santiago Matamoros).
+  regions: [iberische-halbinsel]
+  themes: [religion]
+- id: sagrajas
+  name: Sagrajas
+  aliases: [az-Zallaqa, Zalaca]
+  coords: [-6.88, 38.92]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: bei Badajoz (Extremadura, Spanien)
+  summary: Schlachtfeld nordöstlich von Badajoz, auf dem 1086 die Almoraviden und andalusische Truppen Alfons VI. von Kastilien schlugen.
+  regions: [iberische-halbinsel]
+  themes: [krieg-militaer]
+- id: valencia
+  name: Valencia
+  aliases: [Balansiya]
+  coords: [-0.3763, 39.4699]
+  categories: [stadt, hafen, hauptstadt]
+  modernName: Valencia (Spanien)
+  summary: Hafenstadt an der Ostküste, Sitz einer Taifa-Herrschaft, 1094–1102 unter der Herrschaft des Cid und seiner Witwe, 1238 von Jakob I. von Aragón erobert; im Königreich Valencia lebten bis 1609 besonders viele Morisken.
+  regions: [iberische-halbinsel, mittelmeer]
+  themes: [politik, wirtschaft-handel]
+- id: las-navas-de-tolosa
+  name: Las Navas de Tolosa
+  aliases: [al-Iqab]
+  coords: [-3.58, 38.29]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Santa Elena / Navas de Tolosa (Provinz Jaén, Spanien)
+  summary: Ebene am Südrand der Sierra Morena, auf der am 16. Juli 1212 ein Bündnis christlicher Könige das Heer der Almohaden schlug.
+  regions: [iberische-halbinsel]
+  themes: [krieg-militaer]
+- id: alhambra
+  name: Alhambra
+  aliases: [al-Qal'a al-Hamra, Rote Burg]
+  coords: [-3.5881, 37.1761]
+  categories: [kulturzentrum, fundstaette]
+  modernName: Alhambra, Granada
+  summary: Burg- und Palaststadt der Nasriden auf einem Hügel über Granada, ausgebaut vor allem im 13. und 14. Jahrhundert unter Yusuf I. und Muhammad V.; mit Löwenhof und Inschriften von Hofdichtern wie Ibn Zamrak. Seit 1984 Weltkulturerbe.
+  regions: [iberische-halbinsel]
+  themes: [kultur-kunst, politik]
+- id: marrakesch
+  name: Marrakesch
+  aliases: [Marrakech, Marrākush]
+  coords: [-7.9811, 31.6295]
+  categories: [stadt, hauptstadt]
+  modernName: Marrakesch (Marokko)
+  summary: Um 1070 von den Almoraviden gegründete Stadt im Süden Marokkos, Hauptstadt der Almoraviden und danach der Almohaden, die von hier aus auch al-Andalus beherrschten.
+  regions: [nordafrika]
+  themes: [politik, religion]
+- id: leon
+  name: León
+  aliases: [Legio]
+  coords: [-5.5671, 42.5987]
+  categories: [stadt, hauptstadt]
+  modernName: León (Kastilien und León, Spanien)
+  summary: Aus einem römischen Legionslager hervorgegangene Stadt, seit dem frühen 10. Jahrhundert Residenz der Könige von León; 988 von Almansor zerstört.
+  regions: [iberische-halbinsel]
+  themes: [politik]

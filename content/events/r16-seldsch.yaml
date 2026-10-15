@@ -1,0 +1,143 @@
+# Ereignisse: Die Seldschuken (r16-seldsch)
+- id: schlacht-bei-dandanqan
+  title: Schlacht bei Dandanqan
+  date: "1040-05"
+  weight: 2
+  kind: schlacht
+  summary: In der Steppe bei Dandanqan zwischen Merw und Sarachs besiegen die Seldschuken unter Tughril und Tschaghri Beg das Heer des Ghaznawiden Masud I.; damit fällt Chorasan an die Seldschuken.
+  regions: [zentralasien, iran]
+  themes: [krieg-militaer]
+  places: [merw]
+  persons: [tughril-beg, tschaghri-beg]
+  polities: [seldschukenreich, ghaznawiden]
+- id: einzug-tughrils-in-bagdad
+  title: Einzug Tughril Begs in Bagdad
+  date: "1055-12"
+  weight: 2
+  kind: ereignis
+  summary: Tughril Beg zieht in Bagdad ein und beendet die Vorherrschaft der schiitischen Buyiden über den Abbasidenkalifen al-Qa'im; die Seldschuken treten als neue Schutzmacht des sunnitischen Kalifats auf.
+  regions: [mesopotamien]
+  themes: [politik, religion]
+  places: [bagdad]
+  persons: [tughril-beg, al-qaim]
+  polities: [seldschukenreich, abbasiden-kalifat]
+- id: basasiri-aufstand
+  title: Aufstand al-Basasiris
+  start: "1058-12"
+  end: "1060-01"
+  weight: 3
+  kind: ereignis
+  summary: Der türkische General al-Basasiri besetzt in Abwesenheit Tughril Begs Bagdad und lässt dort ein Jahr lang das Freitagsgebet im Namen des fatimidischen Kalifen sprechen; Tughril kehrt zurück, setzt al-Qa'im wieder ein, und al-Basasiri wird getötet.
+  regions: [mesopotamien]
+  themes: [politik, religion]
+  places: [bagdad]
+  persons: [tughril-beg, al-qaim]
+  polities: [seldschukenreich, fatimiden, abbasiden-kalifat]
+- id: eroberung-anis-1064
+  title: Eroberung Anis
+  date: "1064"
+  weight: 3
+  kind: ereignis
+  summary: Alp Arslan erobert die befestigte ehemalige armenische Königsstadt Ani, die seit 1045 zu Byzanz gehörte; armenische Chronisten berichten von einem Blutbad unter den Einwohnern.
+  regions: [anatolien]
+  themes: [krieg-militaer]
+  places: [ani]
+  persons: [alp-arslan]
+  polities: [seldschukenreich, byzantinisches-reich]
+- id: eroeffnung-nizamiyya-bagdad
+  title: Eröffnung der Nizamiyya in Bagdad
+  date: "1067"
+  weight: 3
+  kind: gruendung
+  summary: In Bagdad wird die von Nizam al-Mulk gestiftete Madrasa eröffnet, die schafiitisches Recht und aschʿaritische Theologie lehrt; sie wird Vorbild für weitere Nizamiyya-Madrasas im Reich.
+  regions: [mesopotamien]
+  themes: [religion, wissenschaft-technik]
+  places: [bagdad]
+  persons: [nizam-al-mulk]
+  polities: [seldschukenreich]
+- id: einnahme-alamuts-1090
+  title: Einnahme Alamuts durch Hasan-i Sabbah
+  date: "1090"
+  weight: 3
+  kind: gruendung
+  summary: Der ismailitische Missionar Hasan-i Sabbah bringt die Burg Alamut im Elburs-Gebirge ohne offene Schlacht in seine Gewalt; sie wird Zentrum des späteren nizaritischen Staates.
+  regions: [iran]
+  themes: [religion, politik]
+  places: [alamut]
+  persons: [hasan-i-sabbah]
+  polities: [nizariten, seldschukenreich]
+- id: ermordung-nizam-al-mulks
+  title: Ermordung Nizam al-Mulks
+  date: "1092-10"
+  weight: 2
+  kind: ereignis
+  summary: Der Wesir Nizam al-Mulk wird bei Nihawand von einem als Sufi verkleideten Attentäter erstochen, den die Überlieferung den Nizariten zuordnet; wenige Wochen später stirbt Sultan Malik Schah, und Thronkämpfe zwischen seinen Söhnen beginnen.
+  regions: [iran]
+  themes: [politik, gewalt-genozid]
+  persons: [nizam-al-mulk, malik-schah, hasan-i-sabbah]
+  polities: [seldschukenreich, nizariten]
+- id: schlacht-bei-dorylaion-1097
+  title: Schlacht bei Dorylaion
+  date: "1097-07-01"
+  weight: 3
+  kind: schlacht
+  summary: Das Heer des Ersten Kreuzzugs besiegt den Rum-Seldschuken Kılıç Arslan I. bei Dorylaion und öffnet sich den Weg durch Anatolien.
+  regions: [anatolien]
+  themes: [krieg-militaer]
+  places: [dorylaion]
+  persons: [kilidsch-arslan-i]
+  polities: [sultanat-rum]
+- id: schlacht-am-qatwan
+  title: Schlacht am Qatwan
+  date: "1141-09"
+  weight: 3
+  kind: schlacht
+  summary: Bei Samarkand unterliegt Sultan Sandschar den Kara Kitai; Transoxanien geht den Seldschuken verloren. Die Nachricht von der Niederlage eines muslimischen Herrschers gegen „Ungläubige“ im Osten trug in Europa wohl zur Legende vom Priesterkönig Johannes bei.
+  regions: [zentralasien]
+  themes: [krieg-militaer]
+  persons: [sandschar]
+  polities: [seldschukenreich]
+- id: schlacht-bei-myriokephalon
+  title: Schlacht bei Myriokephalon
+  date: "1176-09-17"
+  weight: 3
+  kind: schlacht
+  summary: Kılıç Arslan II. schlägt in einem Gebirgspass im westlichen Anatolien das Heer Kaiser Manuels I., der auf Konya zog; Byzanz gibt danach die Hoffnung auf eine Rückgewinnung Zentralanatoliens weitgehend auf.
+  regions: [anatolien]
+  themes: [krieg-militaer]
+  persons: [kilidsch-arslan-ii]
+  polities: [sultanat-rum, byzantinisches-reich]
+- id: barbarossa-in-konya-1190
+  title: Einnahme Konyas durch Friedrich Barbarossa
+  date: "1190-05-18"
+  weight: 3
+  kind: ereignis
+  summary: Auf dem Dritten Kreuzzug erstürmt das Heer Kaiser Friedrichs I. die rum-seldschukische Hauptstadt Konya; wenige Wochen später ertrinkt der Kaiser im Fluss Saleph.
+  regions: [anatolien]
+  themes: [krieg-militaer]
+  places: [konya]
+  persons: [friedrich-barbarossa, kilidsch-arslan-ii]
+  polities: [sultanat-rum, heiliges-roemisches-reich]
+- id: ende-der-grossseldschuken-1194
+  title: Ende der Großseldschuken
+  date: "1194"
+  weight: 3
+  kind: ereignis
+  summary: Der letzte großseldschukische Sultan im Irak und Westiran, Tughril III., fällt bei Rayy im Kampf gegen den Choresm-Schah Tekisch.
+  regions: [iran]
+  themes: [politik, krieg-militaer]
+  places: [rayy]
+  polities: [seldschukenreich, choresm-reich]
+- id: schlacht-am-koese-dag
+  title: Schlacht am Köse Dağ
+  date: "1243-06-26"
+  certainty: wahrscheinlich
+  dateNote: In den Quellen wird die Schlacht auf Ende Juni oder Anfang Juli 1243 datiert.
+  weight: 2
+  kind: schlacht
+  summary: Ein mongolisches Heer unter Baiju besiegt Sultan Kai Chosrau II.; das Sultanat der Rum-Seldschuken wird tributpflichtig und gerät in den folgenden Jahrzehnten unter die Kontrolle der Mongolen und später der Ilchane.
+  regions: [anatolien]
+  themes: [krieg-militaer, imperien]
+  places: [koese-dag]
+  persons: [kai-chosrau-ii]
+  polities: [sultanat-rum, mongolenreich]

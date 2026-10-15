@@ -1,0 +1,86 @@
+# Staaten: Al-Andalus und die Reconquista
+- id: emirat-von-cordoba
+  name: Emirat von Córdoba
+  aliases: [Umayyadisches Emirat von Córdoba, Emirat von al-Andalus]
+  start: "756"
+  end: "929"
+  capital: cordoba
+  spanNote: 756 machte sich der Umayyade Abd ar-Rahman I. in Córdoba zum Emir; 929 nahm Abd ar-Rahman III. den Kalifentitel an.
+  summary: Von einer Seitenlinie der Umayyaden beherrschtes, vom Abbasidenkalifat unabhängiges Reich in al-Andalus, das im 9. Jahrhundert immer wieder mit Aufständen arabischer, berberischer und einheimischer Gruppen ringen musste.
+  regions: [iberische-halbinsel]
+  themes: [politik, religion]
+  predecessors: [umayyaden-kalifat, westgotenreich]
+  successors: [kalifat-von-cordoba]
+  weight: 2
+- id: kalifat-von-cordoba
+  name: Kalifat von Córdoba
+  aliases: [Umayyadisches Kalifat von Córdoba, Westliches Kalifat]
+  start: "929"
+  end: "1031"
+  capital: cordoba
+  spanNote: Nach dem Tod Almansors (1002) und seines Sohnes zerfiel die Herrschaft ab 1009 im Bürgerkrieg (fitna); 1031 wurde das Kalifat förmlich abgeschafft.
+  summary: Höhepunkt der umayyadischen Herrschaft in al-Andalus unter Abd ar-Rahman III. und al-Hakam II., mit Córdoba als einer der größten Städte Europas und der Palaststadt Madinat az-Zahra; nach seinem Ende zerfiel al-Andalus in die Taifa-Reiche.
+  regions: [iberische-halbinsel, nordafrika]
+  themes: [politik, kultur-kunst, wissenschaft-technik]
+  predecessors: [emirat-von-cordoba]
+  weight: 1
+- id: almoraviden
+  name: Reich der Almoraviden
+  aliases: [Almoraviden, al-Murabitun]
+  start: "~1040"
+  end: "1147"
+  capital: marrakesch
+  spanNote: Die Bewegung entstand um 1040 unter Sanhadscha-Berbern in der westlichen Sahara; 1086 griff sie in al-Andalus ein, 1147 eroberten die Almohaden Marrakesch.
+  summary: Aus einer religiösen Reformbewegung von Berbern der westlichen Sahara hervorgegangenes Reich, das Marokko und ab 1090 auch al-Andalus beherrschte und dort die malikitische Rechtsschule stärkte.
+  regions: [nordafrika, westafrika, iberische-halbinsel]
+  themes: [politik, religion, krieg-militaer]
+  successors: [almohaden]
+  weight: 2
+- id: almohaden
+  name: Reich der Almohaden
+  aliases: [Almohaden, al-Muwahhidun]
+  start: "~1121"
+  end: "1269"
+  capital: marrakesch
+  spanNote: Um 1121 ließ sich Ibn Tumart zum Mahdi ausrufen; 1147 eroberten die Almohaden Marrakesch und setzten nach al-Andalus über; nach Las Navas de Tolosa 1212 zerfiel ihre Macht, 1269 fiel Marrakesch an die Meriniden.
+  summary: Von Ibn Tumart begründete religiöse Bewegung und Reich der Masmuda-Berber, das im 12. Jahrhundert ganz Nordafrika bis Tunesien und al-Andalus beherrschte und Sevilla zur zweiten Hauptstadt machte; gegenüber Juden und Christen trat es mit Zwangsbekehrungen besonders hart auf.
+  regions: [nordafrika, iberische-halbinsel]
+  themes: [politik, religion, krieg-militaer]
+  predecessors: [almoraviden]
+  weight: 2
+- id: koenigreich-asturien
+  name: Königreich Asturien
+  aliases: [Asturien]
+  start: "~718"
+  end: "910"
+  capital: oviedo
+  spanNote: Beginn nach der Überlieferung mit Pelayo um 718/722; unter Garcia I. (910) verlagerte sich der Herrschaftsmittelpunkt nach León.
+  summary: Erstes christliches Königreich im Norden der Halbinsel, dessen Hof sich im 9. Jahrhundert als Erbe der Westgoten darstellte und das Jakobsgrab in Santiago förderte.
+  regions: [iberische-halbinsel]
+  themes: [politik, religion]
+  predecessors: [westgotenreich]
+  successors: [koenigreich-leon]
+  weight: 3
+- id: koenigreich-leon
+  name: Königreich León
+  aliases: [León]
+  start: "910"
+  end: "1230"
+  capital: leon
+  spanNote: Mehrfach mit Kastilien vereinigt und wieder getrennt, 1230 unter Ferdinand III. endgültig mit Kastilien verbunden.
+  summary: Nachfolgereich Asturiens mit der Hauptstadt León, dessen Könige zeitweise den Titel eines Kaisers (imperator) Hispaniens führten; aus seiner Ostgrenze ging die Grafschaft und spätere Königreich Kastilien hervor.
+  regions: [iberische-halbinsel]
+  themes: [politik]
+  predecessors: [koenigreich-asturien]
+  successors: [krone-kastilien]
+  weight: 3
+- id: krone-aragon
+  name: Krone Aragón
+  aliases: [Aragón, Aragon, Corona de Aragón]
+  start: "1137"
+  end: "1716"
+  spanNote: 1137 wurden das Königreich Aragón und die Grafschaft Barcelona durch Heirat verbunden; seit 1479 regierte Ferdinand II. die Krone gemeinsam mit Kastilien; die Sonderrechte endeten mit den Nueva-Planta-Dekreten 1707–1716.
+  summary: Verbund des Königreichs Aragón, der Grafschaft Barcelona (Katalonien) und der eroberten Königreiche Mallorca und Valencia, später auch Siziliens, Sardiniens und Neapels; eine im Mittelmeer ausgerichtete Handels- und Seemacht.
+  regions: [iberische-halbinsel, mittelmeer]
+  themes: [politik, wirtschaft-handel]
+  weight: 2

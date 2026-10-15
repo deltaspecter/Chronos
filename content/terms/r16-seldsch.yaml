@@ -1,0 +1,36 @@
+# Begriffe: Die Seldschuken (r16-seldsch)
+- id: iqta
+  name: Iqta
+  aliases: [Iqṭāʿ, Ikta, Militärlehen]
+  definition: Zuweisung der Steuereinkünfte eines Gebiets an einen Offizier oder Amtsträger anstelle eines Soldes; der Inhaber (Muqta) erhielt Rechte an den Abgaben, rechtlich aber kein Eigentum am Land. Das System war schon unter den Buyiden verbreitet und wurde unter den Seldschuken zur Grundlage der Heeresfinanzierung.
+  themes: [wirtschaft-handel, krieg-militaer, verfassung-recht]
+- id: madrasa
+  name: Madrasa
+  aliases: [Medrese, Medresse, Madrasah, Nizamiyya]
+  definition: Islamische Lehranstalt für Recht und religiöse Wissenschaften, meist durch eine fromme Stiftung (Waqf) mit Gebäude, Lehrergehalt und Stipendien finanziert. Die von Nizam al-Mulk gegründeten Nizamiyya-Madrasas, voran die in Bagdad (1067), machten das Modell im 11. Jahrhundert weit verbreitet.
+  themes: [religion, wissenschaft-technik]
+- id: atabeg
+  name: Atabeg
+  aliases: [Atabek, Atabey]
+  definition: Türkischer Titel („Vater-Fürst“) für den Erzieher und Vormund eines minderjährigen seldschukischen Prinzen; im 12. Jahrhundert wurden viele Atabegs, etwa die Zengiden in Mossul, faktisch selbstständige Herrscher.
+  themes: [politik]
+- id: ismailiten
+  name: Ismailiten
+  aliases: [Ismailiyya, Siebenerschiiten, Nizariten, Assassinen]
+  definition: Richtung der Schia, die die Linie der Imame über Ismail, den Sohn des sechsten Imams, fortführt; zu ihr gehörten die Fatimiden. Nach 1094 spalteten sich die Nizariten ab, die in Iran und Syrien eigene Burgherrschaften errichteten und von ihren Gegnern abschätzig „Haschischiyya“ genannt wurden – daraus entstand das europäische Wort „Assassinen“.
+  themes: [religion]
+- id: karawanserei
+  name: Karawanserei
+  aliases: [Han, Khan, Ribat]
+  definition: Befestigte Raststation an Handelsstraßen mit Unterkünften, Ställen und Lagerräumen; in Anatolien ließen die Rum-Seldschuken und ihre Würdenträger im 13. Jahrhundert ein dichtes Netz solcher Bauten im Abstand von etwa einer Tagesreise errichten.
+  themes: [handelsnetze, kultur-kunst]
+- id: ghazi
+  name: Ghazi
+  aliases: [Gazi, Glaubenskämpfer]
+  definition: Arabisch „Kriegszug-Teilnehmer“ – Bezeichnung für Kämpfer an den Grenzen der islamischen Welt; in der Forschung umstritten ist, wie stark religiös motiviert die Grenzkrieger in Anatolien tatsächlich waren.
+  themes: [krieg-militaer, religion]
+- id: mevlevi-orden
+  name: Mevlevi-Orden
+  aliases: [Mevleviyye, Tanzende Derwische, Mawlawiyya]
+  definition: Sufi-Orden, der sich auf Dschalal ad-Din Rumi beruft und von seinem Sohn Sultan Walad und dessen Nachfolgern in Konya organisiert wurde; bekannt für das rituelle Drehen (Sema) zu Musik.
+  themes: [religion, kultur-kunst]

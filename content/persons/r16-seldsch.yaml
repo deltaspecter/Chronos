@@ -1,0 +1,191 @@
+# Personen: Die Seldschuken (r16-seldsch)
+- id: seldschuk
+  name: Seldschuk
+  aliases: [Saldschuq, Seljuk, Selçuk]
+  born: "~950?"
+  died: "~1009?"
+  roles: [Stammesführer]
+  certainty: unsicher
+  summary: Oghusischer Heerführer aus dem Clan der Qiniq, Namensgeber der Dynastie; er soll im späten 10. Jahrhundert mit seiner Gefolgschaft am unteren Syr-Darja zum Islam übergetreten sein. Seine Lebensdaten sind nur aus späteren, teils legendarischen Berichten bekannt.
+  regions: [zentralasien]
+  themes: [religion, migration]
+  related: [tughril-beg, tschaghri-beg]
+- id: tughril-beg
+  name: Tughril Beg
+  aliases: [Toghrul Beg, Tuğrul Bey, Tughril I.]
+  born: "~990"
+  died: "1063-09"
+  roles: [Sultan, Begründer des Seldschukenreichs]
+  summary: Enkel Seldschuks, eroberte gemeinsam mit seinem Bruder Tschaghri Beg Chorasan, besiegte 1040 die Ghaznawiden bei Dandanqan und zog 1055 in Bagdad ein; der Abbasidenkalif erkannte ihn als weltlichen Herrscher an.
+  regions: [iran, mesopotamien, zentralasien]
+  themes: [imperien, politik]
+  places: [nischapur, rayy, bagdad]
+  related: [tschaghri-beg, al-qaim, alp-arslan]
+- id: tschaghri-beg
+  name: Tschaghri Beg
+  aliases: [Chaghri Beg, Çağrı Bey, Dawud]
+  died: "~1060"
+  roles: [Heerführer, Herrscher in Chorasan]
+  summary: Bruder Tughril Begs, der den Osten des Reiches mit Merw als Zentrum beherrschte; Vater Alp Arslans.
+  regions: [zentralasien, iran]
+  themes: [imperien, krieg-militaer]
+  places: [merw]
+  related: [tughril-beg, alp-arslan]
+- id: al-qaim
+  name: al-Qa'im bi-amr Allah
+  aliases: [al-Qaim]
+  born: "1001"
+  died: "1075"
+  roles: [Abbasidischer Kalif]
+  summary: Kalif in Bagdad ab 1031, unter dem die Buyiden durch die Seldschuken abgelöst wurden; 1058/59 verlor er die Stadt vorübergehend an den profatimidischen General al-Basasiri, bis Tughril Beg ihn zurückführte.
+  regions: [mesopotamien]
+  themes: [religion, politik]
+  places: [bagdad]
+  related: [tughril-beg]
+- id: alp-arslan
+  name: Alp Arslan
+  aliases: [Muhammad ibn Dawud, Alp Arslan]
+  born: "~1030"
+  died: "1072"
+  roles: [Sultan, Feldherr]
+  summary: Sultan der Seldschuken ab 1063, eroberte 1064 die armenische Hauptstadt Ani und besiegte 1071 bei Manzikert Kaiser Romanos IV.; er starb 1072 auf einem Feldzug in Transoxanien an den Folgen eines Messerangriffs durch einen Gefangenen.
+  regions: [iran, anatolien, zentralasien]
+  themes: [krieg-militaer, imperien]
+  places: [manzikert, ani]
+  related: [tschaghri-beg, romanos-iv-diogenes, nizam-al-mulk, malik-schah]
+- id: romanos-iv-diogenes
+  name: Romanos IV. Diogenes
+  aliases: [Romanos Diogenes]
+  died: "1072"
+  roles: [Byzantinischer Kaiser]
+  summary: Kaiser von Byzanz 1068–1071, geriet bei Manzikert in seldschukische Gefangenschaft und wurde nach einem Abkommen mit Alp Arslan freigelassen; in Konstantinopel inzwischen abgesetzt, wurde er im Bürgerkrieg geblendet und starb an den Folgen.
+  regions: [anatolien, suedosteuropa]
+  themes: [krieg-militaer, imperien]
+  places: [manzikert, istanbul]
+  related: [alp-arslan]
+- id: malik-schah
+  name: Malik Schah I.
+  aliases: [Malikschah, Melikşah, Malik-Shah]
+  born: "1055"
+  died: "1092-11"
+  roles: [Sultan]
+  summary: Sohn Alp Arslans und Sultan ab 1072, unter dem das Reich der Großseldschuken von Zentralasien bis Syrien seine größte Ausdehnung erreichte; Isfahan wurde zur wichtigsten Residenz.
+  regions: [iran, zentralasien, mesopotamien, levante]
+  themes: [imperien, politik]
+  places: [isfahan, bagdad]
+  related: [alp-arslan, nizam-al-mulk, omar-chayyam]
+- id: nizam-al-mulk
+  name: Nizam al-Mulk
+  aliases: [Abu Ali al-Hasan at-Tusi, Nizamülmülk]
+  born: "1018"
+  died: "1092-10"
+  roles: [Wesir, Autor]
+  summary: Persischer Verwaltungsfachmann aus Tus, rund dreißig Jahre Wesir Alp Arslans und Malik Schahs; er gründete die nach ihm benannten Nizamiyya-Madrasas und verfasste den Fürstenspiegel Siyasatnama. 1092 wurde er ermordet, nach der Überlieferung von einem Nizariten.
+  regions: [iran, mesopotamien]
+  themes: [politik, religion, schrift-medien]
+  places: [bagdad, isfahan, nischapur]
+  related: [alp-arslan, malik-schah, al-ghazali, hasan-i-sabbah]
+- id: al-ghazali
+  name: al-Ghazali
+  aliases: [Abu Hamid al-Ghazali, Algazel]
+  born: "1058"
+  died: "1111"
+  roles: [Theologe, Rechtsgelehrter, Mystiker]
+  summary: Persischer Gelehrter aus Tus, ab 1091 Lehrer an der Nizamiyya in Bagdad; er schrieb gegen die Philosophen und gegen die ismailitische Lehre, gab 1095 seine Stellung auf und wandte sich dem Sufismus zu. Sein Werk prägte die sunnitische Theologie nachhaltig.
+  regions: [iran, mesopotamien]
+  themes: [religion, wissenschaft-technik]
+  places: [bagdad, nischapur]
+  related: [nizam-al-mulk]
+- id: omar-chayyam
+  name: Omar Chayyam
+  aliases: [Umar Khayyam, Omar Khayyam, Ömer Hayyam]
+  born: "~1048"
+  died: "~1131"
+  roles: [Mathematiker, Astronom, Dichter]
+  summary: Gelehrter aus Nischapur, der unter Malik Schah an der Reform des Sonnenkalenders (Dschalali-Kalender) mitwirkte und über kubische Gleichungen schrieb; die ihm zugeschriebenen persischen Vierzeiler (Rubaiyat) sind in ihrer Echtheit vielfach umstritten.
+  regions: [iran]
+  themes: [wissenschaft-technik, kultur-kunst]
+  places: [nischapur, isfahan]
+  related: [malik-schah]
+- id: hasan-i-sabbah
+  name: Hasan-i Sabbah
+  aliases: [Hasan as-Sabbah, Hassan-i Sabbah]
+  died: "1124"
+  roles: [Ismailitischer Missionar, Führer der Nizariten]
+  summary: Persischer Ismailit, der 1090 die Burg Alamut im Elburs-Gebirge einnahm und dort ein Netz befestigter Stützpunkte gegen die Seldschuken aufbaute; nach dem Schisma von 1094 führte er die nizaritische Richtung der Ismailiten.
+  regions: [iran]
+  themes: [religion, politik]
+  places: [alamut, rayy]
+  related: [nizam-al-mulk]
+- id: sandschar
+  name: Sandschar
+  aliases: [Sanjar, Sencer, Ahmad Sandschar]
+  born: "1086"
+  died: "1157"
+  roles: [Sultan]
+  summary: Sohn Malik Schahs, ab 1097 Herrscher in Chorasan und ab 1118 oberster Sultan der Seldschuken; 1141 von den Kara Kitai am Qatwan geschlagen, 1153 von aufständischen Oghusen gefangen genommen. Mit ihm endete die Vormacht der Großseldschuken im Osten.
+  regions: [zentralasien, iran]
+  themes: [imperien, krieg-militaer]
+  places: [merw]
+  related: [malik-schah]
+- id: sulaiman-ibn-qutalmisch
+  name: Sulaiman ibn Qutalmisch
+  aliases: [Süleyman Şah, Suleiman ibn Kutalmisch]
+  died: "1086"
+  roles: [Sultan, Begründer des Sultanats der Rum-Seldschuken]
+  summary: Angehöriger einer Seitenlinie der Seldschuken, der in den 1070er-Jahren als Verbündeter byzantinischer Thronprätendenten in Westanatolien Fuß fasste und Nikaia zum Sitz seiner Herrschaft machte; er fiel 1086 im Kampf in Nordsyrien.
+  regions: [anatolien, levante]
+  themes: [imperien, krieg-militaer]
+  places: [nikaia]
+  related: [kilidsch-arslan-i]
+- id: kilidsch-arslan-i
+  name: Kılıç Arslan I.
+  aliases: [Kilidsch Arslan I., Qilidsch Arslan I.]
+  died: "1107"
+  roles: [Sultan]
+  summary: Sohn Sulaimans und Sultan der Rum-Seldschuken, verlor 1097 Nikaia an den Ersten Kreuzzug und unterlag den Kreuzfahrern bei Dorylaion; danach verlagerte sich der Schwerpunkt seines Reiches nach Konya. Er ertrank 1107 im Fluss Chabur.
+  regions: [anatolien]
+  themes: [krieg-militaer, imperien]
+  places: [nikaia, dorylaion, konya]
+  related: [sulaiman-ibn-qutalmisch, alexios-i]
+- id: kilidsch-arslan-ii
+  name: Kılıç Arslan II.
+  aliases: [Kilidsch Arslan II., Qilidsch Arslan II.]
+  died: "1192"
+  roles: [Sultan]
+  summary: Sultan der Rum-Seldschuken ab 1156, besiegte 1176 Kaiser Manuel I. bei Myriokephalon und gliederte das Reich der Danischmendiden ein; in seinen letzten Jahren teilte er das Reich unter seinen Söhnen auf.
+  regions: [anatolien]
+  themes: [krieg-militaer, imperien]
+  places: [konya]
+  related: [kilidsch-arslan-i, friedrich-barbarossa]
+- id: kai-kubad-i
+  name: Kai Kubad I.
+  aliases: [Keykubad I., Kayqubad I., Alaeddin Keykubad, Ala ad-Din Kai Kubad]
+  died: "1237"
+  roles: [Sultan, Bauherr]
+  summary: Sultan der Rum-Seldschuken 1220–1237, unter dem das Sultanat seinen Höhepunkt erreichte; er gewann 1221 die Hafenstadt Alanya, ließ Konya befestigen und zahlreiche Karawansereien errichten.
+  regions: [anatolien]
+  themes: [imperien, kultur-kunst, handelsnetze]
+  places: [konya, alanya, sultanhani]
+  related: [kai-chosrau-ii, dschalal-ad-din-rumi]
+- id: kai-chosrau-ii
+  name: Kai Chosrau II.
+  aliases: [Keyhüsrev II., Kaykhusraw II.]
+  died: "1246"
+  roles: [Sultan]
+  summary: Sohn Kai Kubads I. und Sultan der Rum-Seldschuken ab 1237, unterlag 1243 am Köse Dağ einem mongolischen Heer; danach wurde das Sultanat den Mongolen tributpflichtig.
+  regions: [anatolien]
+  themes: [krieg-militaer]
+  places: [konya, koese-dag]
+  related: [kai-kubad-i]
+- id: dschalal-ad-din-rumi
+  name: Dschalal ad-Din Rumi
+  aliases: [Rumi, Mevlana, Maulana, Mawlana Jalal al-Din Rumi, Celaleddin Rumi]
+  born: "1207-09"
+  died: "1273-12-17"
+  roles: [Mystiker, Dichter, Gelehrter]
+  summary: In Balch oder dessen Umland geborener Rechtsgelehrter und Sufi, der als junger Mann mit seinem Vater vor den Mongolen nach Anatolien zog und in Konya lebte; seine persische Dichtung, vor allem das Masnawi, gehört zu den einflussreichsten Werken islamischer Mystik. Auf ihn beruft sich der Mevlevi-Orden.
+  regions: [anatolien, zentralasien]
+  themes: [religion, kultur-kunst]
+  places: [konya]
+  related: [kai-kubad-i]

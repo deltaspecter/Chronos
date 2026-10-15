@@ -1,0 +1,166 @@
+# Quellen und Literatur: Die Seldschuken (r16-seldsch)
+
+# --- Forschung ---
+- id: peacock-2015
+  kind: sekundaer
+  authors: ["Peacock, A. C. S."]
+  title: The Great Seljuk Empire
+  series: The Edinburgh History of the Islamic Empires
+  place: Edinburgh
+  publisher: Edinburgh University Press
+  year: 2015
+- id: peacock-2010
+  kind: sekundaer
+  authors: ["Peacock, A. C. S."]
+  title: Early Seljūq History
+  subtitle: A New Interpretation
+  place: London / New York
+  publisher: Routledge
+  year: 2010
+- id: bosworth-1968
+  kind: sekundaer
+  authors: ["Bosworth, C. E."]
+  editors: ["Boyle, J. A."]
+  title: The Political and Dynastic History of the Iranian World (A.D. 1000–1217)
+  container: The Cambridge History of Iran, Bd. 5 – The Saljuq and Mongol Periods
+  pages: 1–202
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1968
+- id: lambton-1953
+  kind: sekundaer
+  authors: ["Lambton, Ann K. S."]
+  title: Landlord and Peasant in Persia
+  subtitle: A Study of Land Tenure and Land Revenue Administration
+  place: London
+  publisher: Oxford University Press
+  year: 1953
+- id: golden-1992
+  kind: sekundaer
+  authors: ["Golden, Peter B."]
+  title: An Introduction to the History of the Turkic Peoples
+  subtitle: Ethnogenesis and State-Formation in Medieval and Early Modern Eurasia and the Middle East
+  place: Wiesbaden
+  publisher: Harrassowitz
+  year: 1992
+- id: cahen-1968
+  kind: sekundaer
+  authors: ["Cahen, Claude"]
+  title: Pre-Ottoman Turkey
+  subtitle: A General Survey of the Material and Spiritual Culture and History c. 1071–1330
+  place: London
+  publisher: Sidgwick & Jackson
+  year: 1968
+- id: vryonis-1971
+  kind: sekundaer
+  authors: ["Vryonis, Speros, Jr."]
+  title: The Decline of Medieval Hellenism in Asia Minor and the Process of Islamization from the Eleventh through the Fifteenth Century
+  place: Berkeley / Los Angeles
+  publisher: University of California Press
+  year: 1971
+- id: beihammer-2017
+  kind: sekundaer
+  authors: ["Beihammer, Alexander D."]
+  title: Byzantium and the Emergence of Muslim-Turkish Anatolia, ca. 1040–1130
+  place: London / New York
+  publisher: Routledge
+  year: 2017
+- id: korobeinikov-2014
+  kind: sekundaer
+  authors: ["Korobeinikov, Dimitri"]
+  title: Byzantium and the Turks in the Thirteenth Century
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2014
+- id: peacock-yildiz-2013
+  kind: sekundaer
+  editors: ["Peacock, A. C. S.", "Yıldız, Sara Nur"]
+  title: The Seljuks of Anatolia
+  subtitle: Court and Society in the Medieval Middle East
+  place: London / New York
+  publisher: I. B. Tauris
+  year: 2013
+- id: hillenbrand-2007
+  kind: sekundaer
+  authors: ["Hillenbrand, Carole"]
+  title: Turkish Myth and Muslim Symbol
+  subtitle: The Battle of Manzikert
+  place: Edinburgh
+  publisher: Edinburgh University Press
+  year: 2007
+- id: daftary-1990
+  kind: sekundaer
+  authors: ["Daftary, Farhad"]
+  title: The Ismāʿīlīs
+  subtitle: Their History and Doctrines
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1990
+- id: lewis-1967
+  kind: sekundaer
+  authors: ["Lewis, Bernard"]
+  title: The Assassins
+  subtitle: A Radical Sect in Islam
+  place: London
+  publisher: Weidenfeld & Nicolson
+  year: 1967
+- id: makdisi-1981
+  kind: sekundaer
+  authors: ["Makdisi, George"]
+  title: The Rise of Colleges
+  subtitle: Institutions of Learning in Islam and the West
+  place: Edinburgh
+  publisher: Edinburgh University Press
+  year: 1981
+- id: lewis-2000
+  kind: sekundaer
+  authors: ["Lewis, Franklin D."]
+  title: Rumi – Past and Present, East and West
+  subtitle: The Life, Teachings and Poetry of Jalâl al-Din Rumi
+  place: Oxford
+  publisher: Oneworld
+  year: 2000
+
+# --- Primärquellen ---
+- id: q-kaschgari
+  kind: primaer
+  authors: ["Mahmud al-Kaschgari"]
+  title: Diwan lughat at-Turk (Sammlung der Sprachen der Türken)
+  written: Bagdad, um 1072–1077
+  note: Arabisch geschriebenes Wörterbuch türkischer Dialekte, das auch die Stämme der Oghusen aufzählt und den Clan der Seldschuken nennt.
+- id: q-matthaeus-von-edessa
+  kind: primaer
+  authors: ["Matthäus von Edessa"]
+  title: Chronik
+  written: Edessa, erste Hälfte des 12. Jahrhunderts
+  note: Armenische Chronik der Jahre 952–1136, die die türkischen Einfälle in Armenien und Anatolien aus der Sicht der betroffenen christlichen Bevölkerung schildert.
+- id: q-attaleiates
+  kind: primaer
+  authors: ["Michael Attaleiates"]
+  title: Historia
+  written: Konstantinopel, um 1079/80
+  note: Zeitgeschichte eines byzantinischen Richters und Beamten, der Kaiser Romanos IV. auf dem Feldzug von 1071 begleitete; wichtigster Augenzeugenbericht zu Manzikert.
+- id: q-siyasatnama
+  kind: primaer
+  authors: ["Nizam al-Mulk"]
+  title: Siyar al-muluk (Siyasatnama, Buch der Staatskunst)
+  written: Iran, um 1091/92
+  note: Persischer Fürstenspiegel des seldschukischen Wesirs, der Ratschläge zu Regierung, Steuern, Militär und Spionage mit Anekdoten aus der Geschichte verbindet.
+- id: q-ghazali-munqidh
+  kind: primaer
+  authors: ["al-Ghazali"]
+  title: Al-Munqidh min ad-dalal (Der Erretter aus dem Irrtum)
+  written: Iran, um 1106–1110
+  note: Autobiografischer Bericht des Gelehrten über seinen Weg durch Theologie, Philosophie und ismailitische Lehre zur Mystik, einschließlich seines Rückzugs aus der Nizamiyya in Bagdad.
+- id: q-ibn-bibi
+  kind: primaer
+  authors: ["Ibn Bibi"]
+  title: Al-Awamir al-Ala'iyya (Die alaiyyischen Verordnungen)
+  written: Anatolien, um 1280/85
+  note: Persische Hofchronik der Rum-Seldschuken von etwa 1192 bis 1280, verfasst von einem Kanzleibeamten; Hauptquelle für das Sultanat von Konya.
+- id: q-masnawi
+  kind: primaer
+  authors: ["Dschalal ad-Din Rumi"]
+  title: Masnawi-yi ma'nawi (Gedicht der inneren Bedeutung)
+  written: Konya, um 1258–1273
+  note: Persisches Lehrgedicht von rund 25.000 Doppelversen, das mystische Lehre in Geschichten, Gleichnissen und Koranauslegung vermittelt.

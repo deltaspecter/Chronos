@@ -1,0 +1,44 @@
+# Staaten: Die Seldschuken (r16-seldsch)
+- id: sultanat-rum
+  name: Sultanat der Rum-Seldschuken
+  aliases: [Rum-Seldschuken, Sultanat von Rum, Sultanat von Konya, Anatolische Seldschuken]
+  start: "~1077"
+  end: "~1308"
+  spanNote: Der Beginn wird meist mit der Herrschaft Sulaiman ibn Qutalmischs in Westanatolien in den späten 1070er-Jahren angesetzt; nach 1243 stand das Sultanat unter mongolischer Oberhoheit, der letzte Sultan starb um 1308.
+  capital: konya
+  summary: Von einer Seitenlinie der Seldschuken in Anatolien begründetes Sultanat, zunächst mit Sitz in Nikaia, ab dem 12. Jahrhundert in Konya; Blütezeit im frühen 13. Jahrhundert, Niedergang nach der Niederlage am Köse Dağ 1243.
+  regions: [anatolien]
+  themes: [imperien, kultur-kunst, handelsnetze]
+  predecessors: [seldschukenreich]
+  successors: [ilchanat, osmanisches-reich]
+  weight: 2
+- id: ghaznawiden
+  name: Reich der Ghaznawiden
+  aliases: [Ghaznawiden, Ghaznaviden]
+  start: "977"
+  end: "1186"
+  summary: Von türkischen Militärsklaven begründete Dynastie mit Sitz in Ghazni (Afghanistan), die unter Mahmud von Ghazni Chorasan und Teile Nordindiens beherrschte; 1040 verlor sie Chorasan an die Seldschuken.
+  regions: [zentralasien, iran, suedasien]
+  themes: [imperien]
+  weight: 3
+- id: nizariten
+  name: Nizaritischer Ismailitenstaat
+  aliases: [Nizariten, Assassinen, Staat von Alamut]
+  start: "1090"
+  end: "1256"
+  capital: alamut
+  summary: Netz befestigter Burgen und Gebiete der nizaritischen Ismailiten in Iran und Syrien, das Hasan-i Sabbah ab 1090 aufbaute; die iranischen Burgen ergaben sich 1256 den Mongolen, die syrischen fielen bis 1273 an die Mamluken.
+  regions: [iran, levante]
+  themes: [religion, politik]
+  weight: 3
+- id: danischmendiden
+  name: Danischmendiden
+  aliases: [Danişmendliler, Danischmend]
+  start: "~1071"
+  end: "1178"
+  spanNote: Die Anfänge der Dynastie sind nur legendarisch überliefert.
+  summary: Türkische Dynastie in Nord- und Zentralanatolien um Sivas und Niksar, im 12. Jahrhundert Rivalin der Rum-Seldschuken, die ihr Gebiet bis 1178 eingliederten.
+  regions: [anatolien]
+  themes: [imperien]
+  successors: [sultanat-rum]
+  weight: 3

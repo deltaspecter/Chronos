@@ -1,0 +1,243 @@
+# Ereignisse: Al-Andalus und die Reconquista
+- id: eroberung-hispaniens-711
+  title: Arabisch-berberische Eroberung der Iberischen Halbinsel
+  start: "711"
+  end: "~720"
+  certainty: gesichert
+  weight: 1
+  kind: krieg
+  summary: Ein überwiegend berberisches Heer unter Tariq ibn Ziyad setzt 711 nach Gibraltar über, besiegt den Westgotenkönig Roderich und nimmt Toledo; mit Musa ibn Nusair kommen 712 arabische Truppen nach. Binnen weniger Jahre fällt fast die ganze Halbinsel, vielfach durch Verträge mit örtlichen Herren.
+  regions: [iberische-halbinsel, nordafrika]
+  themes: [krieg-militaer, imperien, religion]
+  places: [gibraltar, guadalete, toledo, cordoba]
+  persons: [tariq-ibn-ziyad, musa-ibn-nusair, roderich]
+  polities: [umayyaden-kalifat, westgotenreich]
+- id: schlacht-am-guadalete
+  title: Schlacht am Guadalete
+  date: "711"
+  dateNote: Meist auf Juli 711 datiert; Ort und genauer Tag sind unsicher.
+  certainty: wahrscheinlich
+  weight: 2
+  kind: schlacht
+  summary: Das Heer Tariq ibn Ziyads besiegt die Westgoten unter König Roderich, der dabei umkommt; die Niederlage und Streitigkeiten im westgotischen Adel führen zum raschen Zusammenbruch des Reiches.
+  regions: [iberische-halbinsel]
+  themes: [krieg-militaer]
+  places: [guadalete]
+  persons: [tariq-ibn-ziyad, roderich]
+  polities: [westgotenreich, umayyaden-kalifat]
+- id: schlacht-von-covadonga
+  title: Schlacht von Covadonga
+  date: "~722"
+  dateNote: Die Datierung schwankt zwischen 718 und 722; die Darstellung stammt aus asturischen Chroniken des späten 9. Jahrhunderts.
+  certainty: umstritten
+  weight: 2
+  kind: schlacht
+  summary: Nach asturischer Überlieferung schlägt Pelayo in den Bergen Asturiens eine muslimische Truppe zurück; vermutlich ein kleines Gefecht, das später zum Gründungsmythos der Reconquista wurde.
+  regions: [iberische-halbinsel]
+  themes: [krieg-militaer, geschichtsschreibung]
+  places: [covadonga]
+  persons: [pelayo]
+  polities: [koenigreich-asturien]
+- id: gruendung-emirat-cordoba
+  title: Abd ar-Rahman I. wird Emir von Córdoba
+  date: "756"
+  certainty: gesichert
+  weight: 2
+  kind: gruendung
+  summary: Der vor den Abbasiden geflohene Umayyadenprinz Abd ar-Rahman setzt sich in al-Andalus durch und lässt sich in Córdoba als Emir huldigen; damit löst sich al-Andalus politisch vom Kalifat in Bagdad.
+  regions: [iberische-halbinsel]
+  themes: [politik]
+  places: [cordoba]
+  persons: [abd-ar-rahman-i]
+  polities: [emirat-von-cordoba, abbasiden-kalifat]
+- id: ausrufung-kalifat-cordoba
+  title: Abd ar-Rahman III. nimmt den Kalifentitel an
+  date: "929"
+  certainty: gesichert
+  weight: 2
+  kind: gruendung
+  summary: Abd ar-Rahman III. erklärt sich zum Kalifen und Beherrscher der Gläubigen – ein Anspruch gegen das schiitische Kalifat der Fatimiden in Nordafrika und das geschwächte Abbasidenkalifat.
+  regions: [iberische-halbinsel]
+  themes: [politik, religion]
+  places: [cordoba]
+  persons: [abd-ar-rahman-iii]
+  polities: [kalifat-von-cordoba, fatimiden, abbasiden-kalifat]
+- id: fitna-von-al-andalus
+  title: Bürgerkrieg und Ende des Kalifats von Córdoba
+  start: "1009"
+  end: "1031"
+  certainty: gesichert
+  weight: 2
+  kind: krieg
+  summary: Nach dem Tod der Nachfolger Almansors kämpfen Thronprätendenten, berberische Truppen und slawische Militärsklaven um die Macht; Córdoba und Madinat az-Zahra werden geplündert, 1031 wird das Kalifat abgeschafft, und al-Andalus zerfällt in Taifa-Reiche.
+  regions: [iberische-halbinsel]
+  themes: [politik, krieg-militaer]
+  places: [cordoba, madinat-az-zahra]
+  polities: [kalifat-von-cordoba]
+- id: eroberung-toledos-1085
+  title: Eroberung Toledos durch Alfons VI.
+  date: "1085-05-25"
+  certainty: gesichert
+  weight: 1
+  kind: ereignis
+  summary: Alfons VI. von León und Kastilien zieht nach langem Druck in die Taifa-Hauptstadt Toledo ein, die alte Hauptstadt der Westgoten; den Muslimen werden zunächst Besitz und Religionsausübung zugesichert. Der Fall Toledos veranlasst die Taifa-Könige, die Almoraviden zu rufen.
+  regions: [iberische-halbinsel]
+  themes: [politik, krieg-militaer]
+  places: [toledo]
+  persons: [alfons-vi-von-kastilien]
+  polities: [krone-kastilien]
+- id: schlacht-von-sagrajas
+  title: Schlacht von Sagrajas (az-Zallaqa)
+  date: "1086-10-23"
+  certainty: gesichert
+  weight: 2
+  kind: schlacht
+  summary: Die Almoraviden unter Yusuf ibn Taschfin und Truppen der Taifa-Könige schlagen Alfons VI. bei Badajoz; in der Folge setzen die Almoraviden die Taifa-Herrscher ab und gliedern al-Andalus in ihr Reich ein.
+  regions: [iberische-halbinsel]
+  themes: [krieg-militaer]
+  places: [sagrajas]
+  persons: [yusuf-ibn-taschfin, alfons-vi-von-kastilien, al-mutamid]
+  polities: [almoraviden]
+- id: el-cid-erobert-valencia
+  title: El Cid erobert Valencia
+  date: "1094-06-15"
+  certainty: gesichert
+  weight: 3
+  kind: ereignis
+  summary: Nach fast zweijähriger Belagerung nimmt Rodrigo Díaz Valencia ein und herrscht dort bis zu seinem Tod 1099 als nahezu unabhängiger Fürst; 1102 gibt seine Witwe Jimena die Stadt vor den Almoraviden auf.
+  regions: [iberische-halbinsel]
+  themes: [krieg-militaer, politik]
+  places: [valencia]
+  persons: [el-cid]
+- id: eroberung-lissabons-1147
+  title: Eroberung Lissabons
+  date: "1147-10-24"
+  certainty: gesichert
+  weight: 2
+  kind: ereignis
+  summary: Afonso Henriques erobert mit Kreuzfahrern aus England, Flandern und dem Rheinland, die auf dem Weg zum Zweiten Kreuzzug sind, nach monatelanger Belagerung Lissabon; die Stadt wird geplündert.
+  regions: [iberische-halbinsel]
+  themes: [krieg-militaer, religion]
+  places: [lissabon]
+  persons: [afonso-henriques]
+  polities: [koenigreich-portugal]
+- id: schlacht-von-las-navas-de-tolosa
+  title: Schlacht von Las Navas de Tolosa
+  date: "1212-07-16"
+  certainty: gesichert
+  weight: 1
+  kind: schlacht
+  summary: Ein von Papst Innozenz III. als Kreuzzug geförderter Bund der Könige von Kastilien, Aragón und Navarra besiegt das Heer des Almohadenkalifen Muhammad an-Nasir; die almohadische Macht in al-Andalus bricht in den folgenden Jahrzehnten zusammen.
+  regions: [iberische-halbinsel]
+  themes: [krieg-militaer, religion]
+  places: [las-navas-de-tolosa]
+  persons: [alfons-viii-von-kastilien]
+  polities: [almohaden, krone-kastilien, krone-aragon]
+- id: eroberung-cordobas-1236
+  title: Eroberung Córdobas durch Ferdinand III.
+  date: "1236-06-29"
+  certainty: gesichert
+  weight: 2
+  kind: ereignis
+  summary: Die einstige Kalifenhauptstadt ergibt sich Ferdinand III. von Kastilien; die Große Moschee wird als Kathedrale geweiht, die muslimische Bevölkerung muss die Stadt verlassen.
+  regions: [iberische-halbinsel]
+  themes: [krieg-militaer, religion]
+  places: [cordoba]
+  persons: [ferdinand-iii-von-kastilien]
+  polities: [krone-kastilien]
+- id: eroberung-valencias-1238
+  title: Eroberung Valencias durch Jakob I.
+  date: "1238-09-28"
+  certainty: gesichert
+  weight: 3
+  kind: ereignis
+  summary: Jakob I. von Aragón nimmt Valencia ein und begründet das Königreich Valencia innerhalb der Krone Aragón; auf dem Land bleibt eine große muslimische Bevölkerung unter christlicher Herrschaft.
+  regions: [iberische-halbinsel]
+  themes: [krieg-militaer, politik]
+  places: [valencia]
+  persons: [jakob-i-von-aragon]
+  polities: [krone-aragon]
+- id: eroberung-sevillas-1248
+  title: Eroberung Sevillas
+  date: "1248-11-23"
+  certainty: gesichert
+  weight: 2
+  kind: ereignis
+  summary: Nach über einjähriger Belagerung, unterstützt vom Nasriden Muhammad I. als Vasall, ergibt sich Sevilla Ferdinand III.; die muslimischen Bewohner werden ausgewiesen, die Stadt mit Christen neu besiedelt. Außer Granada sind damit alle großen Zentren von al-Andalus in christlicher Hand.
+  regions: [iberische-halbinsel]
+  themes: [krieg-militaer]
+  places: [sevilla]
+  persons: [ferdinand-iii-von-kastilien, muhammad-i-von-granada]
+  polities: [krone-kastilien, emirat-granada]
+- id: pogrome-1391
+  title: Judenpogrome von 1391
+  start: "1391-06"
+  end: "1391"
+  certainty: gesichert
+  weight: 2
+  kind: katastrophe
+  summary: Von Sevilla ausgehend überfallen Menschenmengen die jüdischen Viertel in Kastilien und Aragón; Tausende werden getötet, noch mehr unter Zwang getauft. Die große Zahl der Neuchristen (Conversos) wird zur Ursache neuer Konflikte im 15. Jahrhundert.
+  regions: [iberische-halbinsel]
+  themes: [gewalt-genozid, religion]
+  places: [sevilla, toledo, valencia]
+  polities: [krone-kastilien, krone-aragon]
+- id: gruendung-spanische-inquisition
+  title: Gründung der Spanischen Inquisition
+  date: "1478-11-01"
+  dateNote: Päpstliche Bulle Sixtus' IV.; die ersten Inquisitoren nahmen 1480 in Sevilla die Arbeit auf.
+  certainty: gesichert
+  weight: 2
+  kind: gesetz
+  summary: Papst Sixtus IV. gestattet den Katholischen Königen, eigene Inquisitoren einzusetzen; die unter königlicher Kontrolle stehende Inquisition richtet sich zunächst gegen Conversos, die heimlich am Judentum festhalten sollen, später auch gegen Morisken und Protestanten.
+  regions: [iberische-halbinsel]
+  themes: [religion, verfassung-recht, gewalt-genozid]
+  persons: [isabella-i-von-kastilien, ferdinand-ii-von-aragon, tomas-de-torquemada]
+  polities: [krone-kastilien, krone-aragon]
+- id: kapitulation-von-granada
+  title: Kapitulationsvertrag von Granada
+  date: "1491-11-25"
+  certainty: gesichert
+  weight: 2
+  kind: vertrag
+  summary: Muhammad XII. (Boabdil) vereinbart die Übergabe Granadas; den Muslimen werden Religion, Moscheen, eigene Richter und Besitz garantiert. Die Zusagen werden ab 1499 mit Zwangstaufen gebrochen.
+  regions: [iberische-halbinsel]
+  themes: [verfassung-recht, politik, religion]
+  places: [granada]
+  persons: [muhammad-xii-von-granada, isabella-i-von-kastilien, ferdinand-ii-von-aragon]
+  polities: [emirat-granada, krone-kastilien]
+- id: zwangsbekehrung-der-mudejares
+  title: Zwangsbekehrung der Muslime in Kastilien und Aragón
+  start: "1499"
+  end: "1526"
+  certainty: gesichert
+  weight: 2
+  kind: gesetz
+  summary: Nach Massentaufen in Granada 1499 und einem ersten Aufstand in den Alpujarras stellt Kastilien 1502 die Muslime vor die Wahl zwischen Taufe und Auswanderung; in der Krone Aragón folgen 1525/26 entsprechende Erlasse. Aus den Mudéjares werden offiziell christliche Morisken.
+  regions: [iberische-halbinsel]
+  themes: [religion, gewalt-genozid, verfassung-recht]
+  places: [granada, valencia]
+  polities: [krone-kastilien, krone-aragon]
+- id: aufstand-der-alpujarras
+  title: Aufstand der Morisken in den Alpujarras
+  start: "1568-12"
+  end: "1571"
+  certainty: gesichert
+  weight: 2
+  kind: krieg
+  summary: Gegen ein Verbot ihrer Sprache, Kleidung und Bräuche erheben sich die Morisken im Bergland südlich von Granada; nach blutigem Krieg werden rund 80.000 von ihnen über Kastilien verteilt – die Zahl ist eine Schätzung.
+  regions: [iberische-halbinsel]
+  themes: [krieg-militaer, religion, migration]
+  places: [granada]
+  polities: [krone-kastilien]
+- id: vertreibung-der-morisken
+  title: Vertreibung der Morisken
+  start: "1609-09-22"
+  end: "1614"
+  certainty: gesichert
+  weight: 1
+  kind: ereignis
+  summary: Philipp III. lässt die Morisken zuerst aus dem Königreich Valencia, dann aus den übrigen Reichen ausweisen; meist werden rund 300.000 Menschen genannt, die vor allem nach Nordafrika gebracht werden. Viele kommen auf dem Weg ums Leben.
+  regions: [iberische-halbinsel, nordafrika]
+  themes: [migration, religion, gewalt-genozid]
+  places: [valencia]
+  persons: [philipp-iii-von-spanien]

@@ -1,0 +1,214 @@
+# Quellen und Literatur: Al-Andalus und die Reconquista
+
+# --- Forschung ---
+- id: kennedy-1996
+  kind: sekundaer
+  authors: ["Kennedy, Hugh"]
+  title: Muslim Spain and Portugal
+  subtitle: A Political History of al-Andalus
+  place: London und New York
+  publisher: Longman
+  year: 1996
+- id: fletcher-1992
+  kind: sekundaer
+  authors: ["Fletcher, Richard"]
+  title: Moorish Spain
+  place: London
+  publisher: Weidenfeld & Nicolson
+  year: 1992
+- id: fletcher-1989
+  kind: sekundaer
+  authors: ["Fletcher, Richard"]
+  title: The Quest for El Cid
+  place: London
+  publisher: Hutchinson
+  year: 1989
+- id: collins-1989
+  kind: sekundaer
+  authors: ["Collins, Roger"]
+  title: The Arab Conquest of Spain, 710–797
+  place: Oxford
+  publisher: Blackwell
+  year: 1989
+- id: wasserstein-1985
+  kind: sekundaer
+  authors: ["Wasserstein, David"]
+  title: The Rise and Fall of the Party-Kings
+  subtitle: Politics and Society in Islamic Spain, 1002–1086
+  place: Princeton
+  publisher: Princeton University Press
+  year: 1985
+- id: glick-1979
+  kind: sekundaer
+  authors: ["Glick, Thomas F."]
+  title: Islamic and Christian Spain in the Early Middle Ages
+  place: Princeton
+  publisher: Princeton University Press
+  year: 1979
+- id: bossong-2007
+  kind: sekundaer
+  authors: ["Bossong, Georg"]
+  title: Das maurische Spanien
+  subtitle: Geschichte und Kultur
+  place: München
+  publisher: C. H. Beck
+  year: 2007
+- id: herbers-2006
+  kind: sekundaer
+  authors: ["Herbers, Klaus"]
+  title: Geschichte Spaniens im Mittelalter
+  subtitle: Vom Westgotenreich bis zum Ende des 15. Jahrhunderts
+  place: Stuttgart
+  publisher: Kohlhammer
+  year: 2006
+- id: ocallaghan-2003
+  kind: sekundaer
+  authors: ["O'Callaghan, Joseph F."]
+  title: Reconquest and Crusade in Medieval Spain
+  place: Philadelphia
+  publisher: University of Pennsylvania Press
+  year: 2003
+- id: catlos-2014
+  kind: sekundaer
+  authors: ["Catlos, Brian A."]
+  title: Infidel Kings and Unholy Warriors
+  subtitle: Faith, Power, and Violence in the Age of Crusade and Jihad
+  place: New York
+  publisher: Farrar, Straus and Giroux
+  year: 2014
+- id: catlos-2018
+  kind: sekundaer
+  authors: ["Catlos, Brian A."]
+  title: Kingdoms of Faith
+  subtitle: A New History of Islamic Spain
+  place: New York
+  publisher: Basic Books
+  year: 2018
+- id: harvey-1990
+  kind: sekundaer
+  authors: ["Harvey, L. P."]
+  title: Islamic Spain, 1250 to 1500
+  place: Chicago
+  publisher: University of Chicago Press
+  year: 1990
+- id: harvey-2005
+  kind: sekundaer
+  authors: ["Harvey, L. P."]
+  title: Muslims in Spain, 1500 to 1614
+  place: Chicago
+  publisher: University of Chicago Press
+  year: 2005
+- id: menocal-2002
+  kind: sekundaer
+  authors: ["Menocal, María Rosa"]
+  title: The Ornament of the World
+  subtitle: How Muslims, Jews, and Christians Created a Culture of Tolerance in Medieval Spain
+  place: Boston
+  publisher: Little, Brown
+  year: 2002
+- id: fernandez-morera-2016
+  kind: sekundaer
+  authors: ["Fernández-Morera, Darío"]
+  title: The Myth of the Andalusian Paradise
+  subtitle: Muslims, Christians, and Jews under Islamic Rule in Medieval Spain
+  place: Wilmington, Del.
+  publisher: ISI Books
+  year: 2016
+- id: nirenberg-1996
+  kind: sekundaer
+  authors: ["Nirenberg, David"]
+  title: Communities of Violence
+  subtitle: Persecution of Minorities in the Middle Ages
+  place: Princeton
+  publisher: Princeton University Press
+  year: 1996
+- id: soifer-2009
+  kind: sekundaer
+  authors: ["Soifer, Maya"]
+  title: Beyond convivencia
+  subtitle: Critical Reflections on the Historiography of Interfaith Relations in Christian Spain
+  container: Journal of Medieval Iberian Studies
+  volume: 1
+  pages: "19–35"
+  year: 2009
+- id: castro-1948
+  kind: sekundaer
+  authors: ["Castro, Américo"]
+  title: España en su historia
+  subtitle: Cristianos, moros y judíos
+  place: Buenos Aires
+  publisher: Losada
+  year: 1948
+- id: sanchez-albornoz-1956
+  kind: sekundaer
+  authors: ["Sánchez-Albornoz, Claudio"]
+  title: España, un enigma histórico
+  place: Buenos Aires
+  publisher: Editorial Sudamericana
+  year: 1956
+- id: kamen-1997
+  kind: sekundaer
+  authors: ["Kamen, Henry"]
+  title: The Spanish Inquisition
+  subtitle: A Historical Revision
+  place: London
+  publisher: Weidenfeld & Nicolson
+  year: 1997
+- id: rios-saloma-2011
+  kind: sekundaer
+  authors: ["Ríos Saloma, Martín F."]
+  title: La Reconquista
+  subtitle: Una construcción historiográfica (siglos XVI–XIX)
+  place: Madrid
+  publisher: Marcial Pons
+  year: 2011
+
+# --- Primärquellen ---
+- id: q-chronik-754
+  kind: primaer
+  authors: ["Anonymus"]
+  title: Chronik von 754 (Mozarabische Chronik)
+  written: al-Andalus, um 754
+  note: Lateinische Chronik eines unter muslimischer Herrschaft lebenden Christen, der früheste ausführliche Bericht über den Untergang des Westgotenreichs und die ersten Jahrzehnte von al-Andalus.
+- id: q-chronik-alfons-iii
+  kind: primaer
+  authors: ["Anonymus"]
+  title: Chronik Alfons' III.
+  written: Königreich Asturien, um 880–910
+  note: Am asturischen Hof entstandene Chronik, die das Königreich als Fortsetzung des Westgotenreichs darstellt und die Schlacht von Covadonga als Beginn der Befreiung Hispaniens schildert.
+- id: q-ibn-hazm-halsband
+  kind: primaer
+  authors: ["Ibn Hazm"]
+  title: Das Halsband der Taube (Tauq al-hamama)
+  written: Játiva (Xàtiva), um 1022
+  note: Abhandlung über die Liebe mit zahlreichen Erinnerungen des Autors an das Córdoba der späten Kalifatszeit und dessen Zerstörung im Bürgerkrieg nach 1009.
+- id: q-cantar-de-mio-cid
+  kind: primaer
+  authors: ["Anonymus"]
+  title: Cantar de mio Cid
+  written: Kastilien, um 1200; einzige Handschrift aus dem 14. Jahrhundert mit einem Kolophon des Schreibers Per Abbat
+  note: Altspanisches Heldenepos über Rodrigo Díaz, das ihn als treuen Vasallen und Eroberer Valencias idealisiert; Abfassungszeit und Verfasser sind umstritten.
+- id: q-kapitulation-granada
+  kind: primaer
+  authors: ["Ferdinand II. von Aragon", "Isabella I. von Kastilien", "Muhammad XII. (Boabdil)"]
+  title: Kapitulationen von Granada
+  written: Santa Fe bei Granada, 25. November 1491
+  note: Übergabevertrag, der den Muslimen Granadas Religionsausübung, eigene Richter, Besitz und das Recht auf Auswanderung zusicherte; die Zusagen wurden ab 1499 gebrochen.
+- id: q-alhambra-edikt
+  kind: primaer
+  authors: ["Ferdinand II. von Aragon", "Isabella I. von Kastilien"]
+  title: Edikt über die Ausweisung der Juden (Alhambra-Edikt)
+  written: Granada, 31. März 1492
+  note: Erlass, der allen Juden in Kastilien und Aragon befahl, binnen vier Monaten zum Christentum überzutreten oder das Land zu verlassen; begründet wird er mit dem angeblichen Einfluss der Juden auf die Conversos.
+- id: q-bando-expulsion-1609
+  kind: primaer
+  authors: ["Philipp III. von Spanien"]
+  title: Ausweisungsdekret gegen die Morisken des Königreichs Valencia
+  written: Valencia, verkündet 22. September 1609
+  note: Erste der Verordnungen, mit denen die spanische Krone 1609–1614 die Morisken der einzelnen Königreiche des Landes verwies.
+- id: q-maqqari
+  kind: primaer
+  authors: ["al-Maqqari"]
+  title: Nafh at-tib
+  written: Kairo, um 1630
+  note: Späte, umfangreiche Kompilation des aus Tlemcen stammenden Gelehrten über Geschichte, Literatur und Gelehrte von al-Andalus, die viele verlorene ältere Texte bewahrt.

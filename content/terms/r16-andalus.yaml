@@ -1,0 +1,46 @@
+# Begriffe: Al-Andalus und die Reconquista
+- id: al-andalus
+  name: Al-Andalus
+  aliases: [Andalus, Islamisches Spanien, Maurisches Spanien]
+  definition: Arabischer Name für die jeweils unter muslimischer Herrschaft stehenden Teile der Iberischen Halbinsel von 711 bis 1492; das Gebiet schrumpfte von fast der ganzen Halbinsel bis auf das Emirat Granada. Die Herkunft des Namens ist ungeklärt.
+  themes: [politik, religion, kultur-kunst]
+- id: convivencia
+  name: Convivencia
+  aliases: [Zusammenleben, Convivência]
+  definition: Spanisch für Zusammenleben – von Américo Castro geprägter, später popularisierter Begriff für das Neben- und Miteinander von Muslimen, Christen und Juden im mittelalterlichen Spanien. In der Forschung umstritten, weil er Ungleichheit, Abgaben und Gewalt verdecken kann; heute meist als Bezeichnung für eine geregelte, ungleiche Koexistenz verwendet.
+  themes: [gesellschaft, religion, geschichtsschreibung]
+- id: taifa-reiche
+  name: Taifa-Reiche
+  aliases: [Taifas, Muluk at-tawaif, Kleinkönigreiche, Party Kings]
+  definition: Die rund zwei Dutzend muslimischen Kleinkönigreiche (von arabisch taifa, Partei, Gruppe), in die al-Andalus nach dem Ende des Kalifats von Córdoba 1031 zerfiel, etwa Sevilla, Toledo, Saragossa, Badajoz und Granada; ein zweites und drittes Mal entstanden Taifas beim Niedergang der Almoraviden und Almohaden.
+  themes: [politik, kultur-kunst]
+- id: mozaraber
+  name: Mozaraber
+  aliases: [Mozárabes, Mozarabisch]
+  definition: Christen, die unter muslimischer Herrschaft in al-Andalus lebten und sich die arabische Sprache und Kultur weitgehend aneigneten; nach Eroberungen wie der Toledos lebten sie mit eigenem Ritus im christlichen Reich fort.
+  themes: [religion, gesellschaft]
+- id: mudejares
+  name: Mudéjares
+  aliases: [Mudejaren, Mudéjar, Mudéjar-Stil]
+  definition: Muslime, die nach der christlichen Eroberung als Untertanen christlicher Könige auf der Iberischen Halbinsel blieben, mit eigener Gemeinde und eigenem Recht, aber minderem Status; nach ihnen ist auch der Mudéjar-Stil benannt, eine Bau- und Schmuckkunst mit islamischen Formen im christlichen Spanien.
+  themes: [religion, gesellschaft, kultur-kunst]
+- id: morisken
+  name: Morisken
+  aliases: [Moriscos, Morisco]
+  definition: Getaufte Muslime und ihre Nachkommen in Spanien nach den Zwangsbekehrungen von 1499 bis 1526; viele hielten heimlich am Islam, an Sprache und Bräuchen fest. Sie standen unter dem Verdacht der Inquisition und wurden 1609–1614 ausgewiesen.
+  themes: [religion, migration, gesellschaft]
+- id: conversos
+  name: Conversos
+  aliases: [Neuchristen, Cristianos nuevos, Marranen]
+  definition: Zum Christentum übergetretene Juden und ihre Nachkommen in Spanien und Portugal, vor allem nach den Pogromen von 1391 und dem Edikt von 1492; die abwertende Bezeichnung Marranen unterstellte heimliches Judentum. Gegen sie richteten sich die Spanische Inquisition und die Statuten über die Reinheit des Blutes.
+  themes: [religion, gesellschaft]
+- id: sepharden
+  name: Sepharden
+  aliases: [Sephardim, Sefarad, sephardische Juden]
+  definition: Nach dem hebräischen Namen Sefarad für die Iberische Halbinsel benannte Juden iberischer Herkunft und ihre Nachkommen, die nach den Vertreibungen von 1492 und 1497 vor allem im Osmanischen Reich, in Nordafrika, Italien und später in Amsterdam lebten und teils das Judenspanische (Ladino) bewahrten.
+  themes: [religion, migration]
+- id: spanische-inquisition
+  name: Spanische Inquisition
+  aliases: [Santo Oficio, Heiliges Offizium]
+  definition: 1478 mit päpstlicher Erlaubnis gegründetes, der spanischen Krone unterstelltes Glaubensgericht, das zunächst Conversos, später Morisken, Protestanten und andere verfolgte; es urteilte in öffentlichen Glaubensakten (autos de fe) und bestand bis 1834.
+  themes: [religion, verfassung-recht, gewalt-genozid]

@@ -1,0 +1,95 @@
+# Orte: Die Seldschuken (r16-seldsch)
+- id: konya
+  name: Konya
+  aliases: [Ikonion, Iconium, Qunya]
+  coords: [32.4846, 37.8746]
+  categories: [stadt, hauptstadt, kulturzentrum]
+  modernName: Konya (Türkei)
+  summary: Antike Stadt Ikonion in Zentralanatolien, ab dem frühen 12. Jahrhundert Hauptresidenz der Rum-Seldschuken; hier lebte und starb Dschalal ad-Din Rumi, dessen Grabmal heute Museum ist.
+  regions: [anatolien]
+  themes: [imperien, religion, kultur-kunst]
+- id: isfahan
+  name: Isfahan
+  aliases: [Esfahan, Ispahan]
+  coords: [51.6776, 32.6546]
+  categories: [stadt, hauptstadt]
+  modernName: Isfahan (Iran)
+  summary: Stadt im zentralen Iran, unter Malik Schah wichtigste Residenz der Großseldschuken; die damals ausgebaute Freitagsmoschee mit zwei Kuppelbauten der 1080er-Jahre ist erhalten.
+  regions: [iran]
+  themes: [imperien, kultur-kunst, religion]
+- id: nischapur
+  name: Nischapur
+  aliases: [Nishapur, Neyshabur, Nīšāpūr]
+  coords: [58.7958, 36.2133]
+  categories: [stadt, kulturzentrum]
+  modernName: Neyschabur (Iran)
+  summary: Große Handels- und Gelehrtenstadt in Chorasan, in der Tughril Beg 1038 erstmals als Herrscher ausgerufen wurde; Heimat Omar Chayyams und Sitz einer frühen Nizamiyya.
+  regions: [iran]
+  themes: [wirtschaft-handel, religion, wissenschaft-technik]
+- id: rayy
+  name: Rayy
+  aliases: [Ray, Rey, Rhagai]
+  coords: [51.4359, 35.5886]
+  location: ungefaehr
+  categories: [stadt, hauptstadt]
+  modernName: Schahr-e Rey, Stadtteil von Teheran (Iran)
+  summary: Alte Stadt südlich des heutigen Teheran, unter Tughril Beg Hauptresidenz der Seldschuken; 1220 von den Mongolen zerstört.
+  regions: [iran]
+  themes: [imperien]
+- id: alamut
+  name: Alamut
+  aliases: [Burg Alamut, Alamūt]
+  coords: [50.5862, 36.4447]
+  categories: [fundstaette]
+  modernName: Burgruine bei Gazor Khan, Provinz Qazvin (Iran)
+  summary: Felsenburg im Elburs-Gebirge, die Hasan-i Sabbah 1090 einnahm; bis zur Übergabe an die Mongolen 1256 Zentrum des nizaritischen Ismailitenstaates.
+  regions: [iran]
+  themes: [religion, krieg-militaer]
+- id: alanya
+  name: Alanya
+  aliases: [Alaiye, Kalonoros, Candelore]
+  coords: [31.9950, 36.5440]
+  categories: [stadt, hafen]
+  modernName: Alanya (Türkei)
+  summary: Hafenstadt an der Südküste Anatoliens, 1221 von Kai Kubad I. gewonnen und nach ihm Alaiye genannt; Burg, Werft (Tersane) und Roter Turm stammen aus seldschukischer Zeit.
+  regions: [anatolien, mittelmeer]
+  themes: [handelsnetze, krieg-militaer]
+- id: sultanhani
+  name: Sultan Han (Aksaray)
+  aliases: [Sultanhanı, Karawanserei Sultan Han]
+  coords: [33.5463, 38.2483]
+  location: ungefaehr
+  categories: [fundstaette]
+  modernName: Sultanhanı, Provinz Aksaray (Türkei)
+  summary: Große seldschukische Karawanserei an der Straße von Konya nach Aksaray, 1229 unter Kai Kubad I. errichtet; mit Hof, Moscheekiosk und überwölbter Halle eines der bekanntesten Beispiele ihrer Art.
+  regions: [anatolien]
+  themes: [handelsnetze, kultur-kunst]
+- id: koese-dag
+  name: Köse Dağ
+  aliases: [Kösedağ]
+  coords: [38.6000, 40.0500]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Bergland zwischen Sivas und Erzincan (Türkei)
+  summary: Gebirgszug in Nordostanatolien, bei dem 1243 ein mongolisches Heer die Rum-Seldschuken schlug; die genaue Lage des Schlachtfelds ist nicht gesichert.
+  regions: [anatolien]
+  themes: [krieg-militaer]
+- id: dorylaion
+  name: Dorylaion
+  aliases: [Dorylaeum, Eskişehir]
+  coords: [30.5200, 39.7800]
+  location: ungefaehr
+  categories: [stadt, schlachtfeld]
+  modernName: bei Eskişehir (Türkei)
+  summary: Byzantinische Stadt in Nordwestanatolien, in deren Nähe die Kreuzfahrer 1097 Kılıç Arslan I. besiegten.
+  regions: [anatolien]
+  themes: [krieg-militaer]
+- id: ani
+  name: Ani
+  aliases: [Anı]
+  coords: [43.5725, 40.5075]
+  categories: [fundstaette, stadt]
+  modernName: Ruinenstadt bei Kars (Türkei), an der Grenze zu Armenien
+  summary: Ehemalige Hauptstadt des armenischen Königreichs der Bagratiden, 1045 byzantinisch, 1064 von Alp Arslan erobert; die Ruinen zahlreicher Kirchen sind erhalten.
+  regions: [anatolien]
+  themes: [religion, krieg-militaer]

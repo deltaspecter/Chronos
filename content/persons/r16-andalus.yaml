@@ -1,0 +1,231 @@
+# Personen: Al-Andalus und die Reconquista
+- id: tariq-ibn-ziyad
+  name: Tariq ibn Ziyad
+  aliases: [Tarik, Tāriq ibn Ziyād]
+  died: "~720?"
+  roles: [Feldherr, Statthalter]
+  summary: Wahrscheinlich berberischer Feldherr im Dienst des Statthalters Musa ibn Nusair, der 711 mit einem überwiegend berberischen Heer bei Gibraltar übersetzte und den Westgotenkönig Roderich besiegte; der Name Gibraltar (Dschabal Tariq, Berg des Tariq) erinnert an ihn. Über sein späteres Leben ist kaum etwas bekannt.
+  regions: [nordafrika, iberische-halbinsel]
+  themes: [krieg-militaer, imperien]
+  places: [gibraltar, guadalete, toledo]
+- id: musa-ibn-nusair
+  name: Musa ibn Nusair
+  aliases: [Mūsā ibn Nuṣayr]
+  born: "~640"
+  died: "~716"
+  roles: [Statthalter, Feldherr]
+  summary: Umayyadischer Statthalter von Ifriqiya, der 712 selbst auf die Iberische Halbinsel übersetzte, Sevilla und Mérida einnahm und um 714 nach Damaskus zurückgerufen wurde, wo er in Ungnade fiel.
+  regions: [nordafrika, iberische-halbinsel, levante]
+  themes: [krieg-militaer, imperien]
+  places: [toledo, damaskus]
+- id: roderich
+  name: Roderich
+  aliases: [Rodrigo, Roderic, Ludhriq]
+  died: "~711"
+  roles: [König der Westgoten]
+  summary: Letzter König des Westgotenreichs (ab etwa 710), dessen Thronerhebung umstritten war; er fiel oder verschwand in der Schlacht gegen das Heer Tariqs 711. Spätere Legenden machten aus seinem Untergang eine Strafe für Sünden.
+  regions: [iberische-halbinsel]
+  themes: [politik, krieg-militaer]
+  places: [toledo, guadalete]
+- id: pelayo
+  name: Pelayo
+  aliases: [Pelagius]
+  died: "737"
+  roles: [Fürst von Asturien]
+  summary: Anführer im Norden der Halbinsel, nach asturischen Chroniken ein westgotischer Adliger, der um 722 bei Covadonga eine muslimische Truppe zurückschlug und als Begründer des Königreichs Asturien gilt; die Überlieferung ist erst über 150 Jahre jünger und stark legendarisch.
+  regions: [iberische-halbinsel]
+  themes: [politik, krieg-militaer]
+  places: [covadonga]
+- id: abd-ar-rahman-i
+  name: Abd ar-Rahman I.
+  aliases: [ad-Dakhil, der Eingewanderte]
+  born: "731"
+  died: "788"
+  roles: [Emir von Córdoba]
+  summary: Enkel des Umayyadenkalifen Hischam, der dem Massaker an seiner Familie durch die Abbasiden entkam, 755 in al-Andalus landete und sich 756 in Córdoba zum Emir machte; Begründer der umayyadischen Herrschaft in al-Andalus und der Großen Moschee von Córdoba.
+  regions: [iberische-halbinsel, levante, nordafrika]
+  themes: [politik, religion]
+  places: [cordoba, damaskus]
+- id: abd-ar-rahman-iii
+  name: Abd ar-Rahman III.
+  aliases: [an-Nasir li-din Allah]
+  born: "891"
+  died: "961-10-15"
+  roles: [Emir von Córdoba, Kalif]
+  summary: Umayyadischer Herrscher (912–961), der die zerfallende Herrschaft in al-Andalus wieder einte, sich 929 zum Kalifen erklärte – auch gegen die Fatimiden in Nordafrika – und die Palaststadt Madinat az-Zahra errichten ließ.
+  regions: [iberische-halbinsel]
+  themes: [politik, religion, kultur-kunst]
+  places: [cordoba, madinat-az-zahra]
+- id: al-hakam-ii
+  name: Al-Hakam II.
+  born: "915"
+  died: "976"
+  roles: [Kalif]
+  summary: Kalif von Córdoba (961–976), Sohn Abd ar-Rahmans III., berühmt als Gelehrter und Büchersammler; er ließ die Große Moschee prachtvoll erweitern. Seine Bibliothek soll nach späteren Angaben Hunderttausende Bände umfasst haben, was als übertrieben gilt.
+  regions: [iberische-halbinsel]
+  themes: [kultur-kunst, wissenschaft-technik, politik]
+  places: [cordoba]
+- id: almansor
+  name: Almansor
+  aliases: [al-Mansur ibn Abi Amir, Muhammad ibn Abi Amir, Almanzor]
+  born: "~938"
+  died: "1002"
+  roles: [Hadschib, Feldherr]
+  summary: Hofbeamter, der nach 976 für den jungen Kalifen Hischam II. die Macht in Córdoba übernahm und mit über fünfzig Feldzügen die christlichen Reiche bedrängte, 997 auch Santiago de Compostela plünderte; nicht zu verwechseln mit dem Abbasidenkalifen al-Mansur.
+  regions: [iberische-halbinsel]
+  themes: [politik, krieg-militaer]
+  places: [cordoba, santiago-de-compostela]
+- id: hasdai-ibn-schaprut
+  name: Hasdai ibn Schaprut
+  aliases: [Hasdai ibn Shaprut, Chisdai ibn Schaprut]
+  born: "~915"
+  died: "~970"
+  roles: [Arzt, Diplomat, Förderer jüdischer Gelehrsamkeit]
+  summary: Jüdischer Arzt und Diplomat am Hof Abd ar-Rahmans III. in Córdoba, der Gesandtschaften aus Byzanz und dem ostfränkischen Reich empfing und hebräische Dichtung und Gelehrsamkeit förderte; Symbolfigur des jüdischen goldenen Zeitalters in al-Andalus.
+  regions: [iberische-halbinsel]
+  themes: [wissenschaft-technik, religion, politik]
+  places: [cordoba]
+- id: ibn-hazm
+  name: Ibn Hazm
+  aliases: [Abu Muhammad Ali ibn Hazm]
+  born: "994"
+  died: "1064"
+  roles: [Gelehrter, Rechtsgelehrter, Dichter]
+  summary: Andalusischer Universalgelehrter aus Córdoba, Verfasser des Liebestraktats Das Halsband der Taube, einer großen Religionsgeschichte und zahlreicher Rechtsschriften; er erlebte den Untergang des Kalifats als Augenzeuge.
+  regions: [iberische-halbinsel]
+  themes: [kultur-kunst, religion, wissenschaft-technik]
+  places: [cordoba]
+- id: al-mutamid
+  name: Al-Mu'tamid
+  aliases: [al-Mu'tamid ibn Abbad]
+  born: "1040"
+  died: "1095"
+  roles: [Taifa-König, Dichter]
+  summary: Letzter Herrscher der Abbadiden-Dynastie von Sevilla (1069–1091) und gefeierter Dichter, der 1086 die Almoraviden zu Hilfe rief; 1091 setzten diese ihn ab und verbannten ihn nach Aghmat bei Marrakesch, wo er starb.
+  regions: [iberische-halbinsel, nordafrika]
+  themes: [politik, kultur-kunst]
+  places: [sevilla, marrakesch]
+- id: alfons-vi-von-kastilien
+  name: Alfons VI. von Kastilien
+  aliases: [Alfonso VI, Alfons VI. von León]
+  born: "~1040"
+  died: "1109-07-01"
+  roles: [König von León und Kastilien]
+  summary: König von León (ab 1065) und Kastilien (ab 1072), der von den Taifa-Reichen Tribute erzwang und 1085 Toledo einnahm; ein Jahr später unterlag er den Almoraviden bei Sagrajas (az-Zallaqa).
+  regions: [iberische-halbinsel]
+  themes: [politik, krieg-militaer]
+  places: [toledo, sagrajas]
+- id: el-cid
+  name: El Cid
+  aliases: [Rodrigo Díaz de Vivar, El Campeador, Cid Campeador]
+  born: "~1043"
+  died: "1099-07-10"
+  roles: [Heerführer, Herr von Valencia]
+  summary: Kastilischer Adliger, der nach seiner Verbannung durch Alfons VI. auch muslimischen Herrschern von Saragossa diente und 1094 Valencia eroberte, das er bis zu seinem Tod beherrschte. Der Beiname geht wohl auf arabisch sayyid (Herr) zurück; das Epos Cantar de mio Cid machte ihn zum Nationalhelden.
+  regions: [iberische-halbinsel]
+  themes: [krieg-militaer, politik]
+  places: [valencia]
+- id: yusuf-ibn-taschfin
+  name: Yusuf ibn Taschfin
+  aliases: [Yūsuf ibn Tāshfīn]
+  died: "1106"
+  roles: [Emir der Almoraviden]
+  summary: Herrscher der berberischen Almoraviden, der um 1070 Marrakesch gründete, 1086 auf Hilfeersuchen der Taifa-Könige nach al-Andalus übersetzte, Alfons VI. bei Sagrajas schlug und ab 1090 die Taifa-Reiche selbst unterwarf.
+  regions: [nordafrika, iberische-halbinsel]
+  themes: [politik, krieg-militaer, religion]
+  places: [marrakesch, sagrajas]
+- id: ibn-tumart
+  name: Ibn Tumart
+  died: "~1130"
+  roles: [Religiöser Reformer, Mahdi]
+  summary: Berberischer Gelehrter aus dem Atlas, der eine strenge Lehre von der Einheit Gottes (tauhid) predigte, sich zum Mahdi erklären ließ und die Bewegung der Almohaden begründete; sein Nachfolger Abd al-Mu'min schuf das Almohadenreich.
+  regions: [nordafrika]
+  themes: [religion, politik]
+  places: [marrakesch]
+- id: ibn-rushd
+  name: Ibn Ruschd
+  aliases: [Averroes, Ibn Rushd]
+  born: "1126"
+  died: "1198"
+  roles: [Philosoph, Arzt, Richter]
+  summary: Philosoph und Richter aus Córdoba im Dienst der Almohaden, dessen Kommentare zu Aristoteles in lateinischer Übersetzung das Denken der europäischen Universitäten prägten; im lateinischen Westen hieß er schlicht der Kommentator.
+  regions: [iberische-halbinsel, nordafrika]
+  themes: [wissenschaft-technik, religion]
+  places: [cordoba, sevilla, marrakesch]
+- id: maimonides
+  name: Moses Maimonides
+  aliases: [Rambam, Moses ben Maimon, Musa ibn Maimun]
+  born: "1138"
+  died: "1204-12-13"
+  roles: [Philosoph, Rechtsgelehrter, Arzt]
+  summary: Jüdischer Gelehrter aus Córdoba, dessen Familie unter dem Druck der Almohaden die Stadt verließ; in Kairo wurde er Arzt am Hof Saladins und verfasste den Gesetzeskodex Mischne Tora und den arabisch geschriebenen Führer der Unschlüssigen.
+  regions: [iberische-halbinsel, nordafrika, aegypten]
+  themes: [religion, wissenschaft-technik]
+  places: [cordoba, kairo]
+- id: alfons-viii-von-kastilien
+  name: Alfons VIII. von Kastilien
+  aliases: [Alfonso VIII]
+  born: "1155-11-11"
+  died: "1214-10-05"
+  roles: [König von Kastilien]
+  summary: König von Kastilien (ab 1158), der 1195 bei Alarcos gegen die Almohaden unterlag und 1212 mit Aragon, Navarra und Kreuzfahrern den Sieg von Las Navas de Tolosa errang.
+  regions: [iberische-halbinsel]
+  themes: [politik, krieg-militaer]
+  places: [las-navas-de-tolosa, toledo]
+- id: ferdinand-iii-von-kastilien
+  name: Ferdinand III. von Kastilien
+  aliases: [Fernando III el Santo, Ferdinand der Heilige]
+  born: "~1199"
+  died: "1252-05-30"
+  roles: [König von Kastilien und León]
+  summary: König von Kastilien (ab 1217) und León (ab 1230), der beide Reiche endgültig vereinte und Córdoba (1236), Jaén (1246) und Sevilla (1248) eroberte; 1671 heiliggesprochen. Nicht zu verwechseln mit dem gleichnamigen Kaiser des 17. Jahrhunderts.
+  regions: [iberische-halbinsel]
+  themes: [politik, krieg-militaer, religion]
+  places: [cordoba, sevilla]
+- id: jakob-i-von-aragon
+  name: Jakob I. von Aragón
+  aliases: [Jaume I, Jaime I, der Eroberer, el Conqueridor]
+  born: "1208-02-02"
+  died: "1276-07-27"
+  roles: [König von Aragón]
+  summary: König von Aragón und Graf von Barcelona (ab 1213), der Mallorca (1229) und Valencia (1238) eroberte; unter ihm entstand eine in katalanischer Sprache verfasste Selbstdarstellung seiner Taten, das Llibre dels fets.
+  regions: [iberische-halbinsel]
+  themes: [politik, krieg-militaer]
+  places: [valencia]
+- id: afonso-henriques
+  name: Afonso Henriques
+  aliases: [Alfons I. von Portugal, Afonso I]
+  born: "~1109"
+  died: "1185-12-06"
+  roles: [König von Portugal]
+  summary: Erster König von Portugal, der sich ab 1139 König nannte und 1147 mit Hilfe von Kreuzfahrern auf dem Weg ins Heilige Land Lissabon eroberte; 1179 erkannte ihn der Papst als König an.
+  regions: [iberische-halbinsel]
+  themes: [politik, krieg-militaer]
+  places: [lissabon]
+- id: muhammad-i-von-granada
+  name: Muhammad I. von Granada
+  aliases: [Ibn al-Ahmar, Muhammad ibn Yusuf ibn Nasr]
+  born: "1195"
+  died: "1273"
+  roles: [Emir von Granada]
+  summary: Begründer der Nasriden-Dynastie, der sich 1232 in Arjona erhob, 1238 Granada in Besitz nahm und als Vasall Kastiliens – er half 1248 sogar bei der Eroberung Sevillas – das letzte muslimische Reich der Halbinsel sicherte; unter ihm begann der Ausbau der Alhambra.
+  regions: [iberische-halbinsel]
+  themes: [politik]
+  places: [granada, alhambra]
+- id: tomas-de-torquemada
+  name: Tomás de Torquemada
+  born: "1420"
+  died: "1498-09-16"
+  roles: [Dominikaner, Generalinquisitor]
+  summary: Dominikaner und Beichtvater Isabellas, seit 1483 erster Generalinquisitor der Spanischen Inquisition; er drängte auf die Ausweisung der Juden 1492 und wurde zur Symbolfigur der Inquisition.
+  regions: [iberische-halbinsel]
+  themes: [religion, gewalt-genozid]
+- id: philipp-iii-von-spanien
+  name: Philipp III. von Spanien
+  aliases: [Felipe III]
+  born: "1578-04-14"
+  died: "1621-03-31"
+  roles: [König von Spanien und Portugal]
+  summary: König von Spanien (ab 1598), unter dem und seinem Günstling, dem Herzog von Lerma, 1609 die Ausweisung der Morisken beschlossen wurde.
+  regions: [iberische-halbinsel]
+  themes: [politik, religion, migration]
