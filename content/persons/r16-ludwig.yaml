@@ -1,0 +1,223 @@
+# Personen: Ludwig XIV. und der Absolutismus
+- id: ludwig-xiv
+  name: Ludwig XIV.
+  aliases: [Louis XIV, Sonnenkönig, Roi-Soleil, Louis le Grand]
+  born: "1638-09-05"
+  died: "1715-09-01"
+  roles: [König von Frankreich und Navarra]
+  summary: Seit 1643 König, nach dem Tod Mazarins 1661 Alleinherrscher ohne leitenden Minister; machte Versailles zum Zentrum von Hof und Regierung, führte fast ununterbrochen Kriege um die Vormachtstellung in Europa, widerrief 1685 das Edikt von Nantes und gilt als Inbegriff des absolutistischen Monarchen. Mit 72 Jahren Regierungszeit der am längsten regierende König Frankreichs.
+  regions: [frankreich, westeuropa]
+  themes: [politik, krieg-militaer, kultur-kunst, religion]
+  places: [saint-germain-en-laye, paris, versailles, fontainebleau]
+  related: [jules-mazarin, anna-von-oesterreich, jean-baptiste-colbert, madame-de-maintenon]
+- id: ludwig-xiii
+  name: Ludwig XIII.
+  aliases: [Louis XIII]
+  born: "1601-09-27"
+  died: "1643-05-14"
+  roles: [König von Frankreich und Navarra]
+  summary: Sohn Heinrichs IV., König ab 1610; regierte seit 1624 gemeinsam mit seinem leitenden Minister Richelieu, schlug hugenottische Aufstände nieder und führte Frankreich 1635 in den Krieg gegen Spanien. Er ließ in Versailles das Jagdschloss errichten, aus dem sein Sohn Ludwig XIV. die große Residenz machte.
+  regions: [frankreich]
+  themes: [politik, krieg-militaer]
+  places: [paris, versailles, saint-germain-en-laye]
+  related: [kardinal-richelieu, heinrich-iv, ludwig-xiv]
+- id: anna-von-oesterreich
+  name: Anna von Österreich
+  aliases: [Anne d'Autriche, Ana de Austria]
+  born: "1601-09-22"
+  died: "1666-01-20"
+  roles: [Königin von Frankreich, Regentin]
+  summary: Spanische Habsburgerin, Gemahlin Ludwigs XIII. und Mutter Ludwigs XIV.; führte 1643–1651 die Regentschaft für ihren minderjährigen Sohn und stützte sich dabei auf Kardinal Mazarin, den sie gegen die Fronde hielt.
+  regions: [frankreich, iberische-halbinsel]
+  themes: [politik]
+  places: [paris]
+  related: [jules-mazarin, ludwig-xiv]
+- id: jean-baptiste-colbert
+  name: Jean-Baptiste Colbert
+  aliases: [Colbert]
+  born: "1619-08-29"
+  died: "1683-09-06"
+  roles: [Contrôleur général des finances, Staatssekretär der Marine]
+  summary: Aus einer Kaufmannsfamilie in Reims stammender Mitarbeiter Mazarins, der nach dem Sturz Fouquets die Finanzen leitete (ab 1665 als Generalkontrolleur), Manufakturen, Handelskompanien, Schutzzölle, Kriegsflotte und Akademien förderte und mit seinem Namen eine Spielart des Merkantilismus (Colbertismus) verband.
+  regions: [frankreich]
+  themes: [wirtschaft-handel, politik]
+  places: [paris, versailles]
+  related: [ludwig-xiv, nicolas-fouquet]
+- id: nicolas-fouquet
+  name: Nicolas Fouquet
+  aliases: [Foucquet]
+  born: "1615-01-27"
+  died: "1680-03-23"
+  roles: [Surintendant des finances]
+  summary: Oberintendant der Finanzen unter Mazarin, der sich mit dem Schloss Vaux-le-Vicomte eine prachtvolle Residenz schuf; im September 1661 auf Befehl Ludwigs XIV. verhaftet, in einem langen Prozess wegen Unterschlagung verurteilt und bis zu seinem Tod in der Festung Pignerol gefangen gehalten.
+  regions: [frankreich]
+  themes: [politik, wirtschaft-handel]
+  places: [vaux-le-vicomte, nantes]
+  related: [jean-baptiste-colbert, ludwig-xiv]
+- id: louvois
+  name: Louvois
+  aliases: [François Michel Le Tellier, Marquis de Louvois]
+  born: "1641-01-18"
+  died: "1691-07-16"
+  roles: [Staatssekretär des Krieges]
+  summary: Sohn des Kriegsministers Michel Le Tellier und seit den 1660er Jahren dessen Nachfolger; baute das stehende Heer mit Magazinen, Uniformierung, Inspektoren und Invalidenhaus aus und trug Verantwortung für die Dragonaden und die Verwüstung der Pfalz.
+  regions: [frankreich]
+  themes: [krieg-militaer, politik]
+  places: [paris, versailles]
+  related: [ludwig-xiv, jean-baptiste-colbert]
+- id: grosser-conde
+  name: Louis II. de Bourbon, Prinz von Condé
+  aliases: [Der Große Condé, Le Grand Condé, Herzog von Enghien]
+  born: "1621-09-08"
+  died: "1686-12-11"
+  roles: [Feldherr, Prinz von Geblüt]
+  summary: Sieger von Rocroi (1643) und einer der bedeutendsten Feldherren seiner Zeit; Anführer der Fronde der Prinzen, danach in spanischen Diensten gegen Frankreich, nach dem Pyrenäenfrieden 1659 begnadigt und im Holländischen Krieg wieder Heerführer Ludwigs XIV.
+  regions: [frankreich]
+  themes: [krieg-militaer, politik]
+  places: [paris]
+  related: [jules-mazarin, ludwig-xiv]
+- id: vauban
+  name: Sébastien Le Prestre de Vauban
+  aliases: [Vauban]
+  born: "1633-05-15"
+  died: "1707-03-30"
+  roles: [Festungsbaumeister, Marschall von Frankreich]
+  summary: Militäringenieur, der Dutzende Festungen an den Grenzen Frankreichs anlegte oder umbaute (den „Pré carré“) und die Belagerungstechnik systematisierte; kritisierte in seiner Schrift über eine königliche Zehntsteuer 1707 offen das Steuersystem.
+  regions: [frankreich]
+  themes: [krieg-militaer, wissenschaft-technik]
+  places: [lille, strassburg]
+  related: [ludwig-xiv, louvois]
+- id: madame-de-maintenon
+  name: Madame de Maintenon
+  aliases: [Françoise d'Aubigné, Marquise de Maintenon]
+  born: "1635-11-27"
+  died: "1719-04-15"
+  roles: [Erzieherin, Gemahlin Ludwigs XIV.]
+  summary: Enkelin eines hugenottischen Dichters, katholisch erzogen; zunächst Erzieherin der Kinder des Königs mit Madame de Montespan, nach dem Tod der Königin 1683 wohl im Herbst 1683 heimlich mit Ludwig XIV. verheiratet; gründete 1686 das Mädchenstift Saint-Cyr. Ihr Einfluss auf die Politik ist umstritten.
+  regions: [frankreich]
+  themes: [politik, religion, gesellschaft]
+  places: [versailles]
+  related: [ludwig-xiv]
+- id: maria-theresia-von-spanien
+  name: Maria Theresia von Spanien
+  aliases: [Marie-Thérèse d'Autriche, María Teresa]
+  born: "1638-09-10"
+  died: "1683-07-30"
+  roles: [Königin von Frankreich]
+  summary: Tochter König Philipps IV. von Spanien, 1660 im Zuge des Pyrenäenfriedens mit Ludwig XIV. verheiratet; ihr Verzicht auf das spanische Erbe war an eine nie gezahlte Mitgift geknüpft, worauf Ludwig später Erbansprüche gründete.
+  regions: [frankreich, iberische-halbinsel]
+  themes: [politik]
+  places: [versailles, madrid]
+  related: [ludwig-xiv]
+- id: wilhelm-iii-von-oranien
+  name: Wilhelm III. von Oranien
+  aliases: [Willem III, William III]
+  born: "1650-11-14"
+  died: "1702-03-19"
+  roles: [Statthalter der Niederlande, König von England, Schottland und Irland]
+  summary: Seit 1672 Statthalter der Republik der Vereinigten Niederlande und Organisator des Widerstands gegen Ludwig XIV.; nach der Glorious Revolution 1689 König von England, Schottland und Irland und führender Kopf der Großen Allianz im Pfälzischen Erbfolgekrieg.
+  regions: [westeuropa, britische-inseln]
+  themes: [politik, krieg-militaer]
+  places: [den-haag, london]
+- id: liselotte-von-der-pfalz
+  name: Liselotte von der Pfalz
+  aliases: [Elisabeth Charlotte von Orléans, Madame Palatine, Elisabeth Charlotte von der Pfalz]
+  born: "1652-05-27"
+  died: "1722-12-08"
+  roles: [Herzogin von Orléans, Briefschreiberin]
+  summary: Tochter des pfälzischen Kurfürsten Karl Ludwig, 1671 mit Philippe von Orléans, dem Bruder Ludwigs XIV., verheiratet; ihre Erbansprüche dienten 1688 als Vorwand für den Pfälzischen Erbfolgekrieg. Ihre tausende, oft derben Briefe sind eine Hauptquelle zum Hof von Versailles.
+  regions: [frankreich, deutschland]
+  themes: [politik, gesellschaft, schrift-medien]
+  places: [heidelberg, versailles]
+- id: bossuet
+  name: Jacques-Bénigne Bossuet
+  aliases: [Bossuet]
+  born: "1627-09-27"
+  died: "1704-04-12"
+  roles: [Bischof von Meaux, Prediger, Prinzenerzieher]
+  summary: Berühmter Kanzelredner und Erzieher des Dauphins, der in seiner Politik aus der Heiligen Schrift das Gottesgnadentum der Könige begründete, 1682 die Erklärung der gallikanischen Freiheiten formulierte und gegen die Protestanten schrieb.
+  regions: [frankreich]
+  themes: [religion, politik]
+  places: [paris, versailles]
+- id: moliere
+  name: Molière
+  aliases: [Jean-Baptiste Poquelin]
+  born: "1622-01-15"
+  died: "1673-02-17"
+  roles: [Dramatiker, Schauspieler]
+  summary: Komödiendichter und Theaterunternehmer, dessen Truppe der König förderte; Stücke wie „Tartuffe“, das auf Druck frommer Kreise jahrelang verboten blieb, entstanden teils für Feste am Hof. Getauft am 15. Januar 1622; das genaue Geburtsdatum ist unbekannt.
+  regions: [frankreich]
+  themes: [kultur-kunst]
+  places: [paris, versailles]
+- id: karl-ii-von-spanien
+  name: Karl II. von Spanien
+  aliases: [Carlos II, „el Hechizado“]
+  born: "1661-11-06"
+  died: "1700-11-01"
+  roles: [König von Spanien]
+  summary: Letzter spanischer König aus dem Haus Habsburg, kränklich und kinderlos; setzte in seinem Testament Philipp von Anjou, einen Enkel Ludwigs XIV., als Erben der gesamten spanischen Monarchie ein und löste damit den Spanischen Erbfolgekrieg aus.
+  regions: [iberische-halbinsel]
+  themes: [politik]
+  places: [madrid]
+- id: philipp-v-von-spanien
+  name: Philipp V. von Spanien
+  aliases: [Philippe d'Anjou, Felipe V]
+  born: "1683-12-19"
+  died: "1746-07-09"
+  roles: [König von Spanien]
+  summary: Enkel Ludwigs XIV., als Herzog von Anjou 1700 von Karl II. zum Erben eingesetzt; behauptete sich im Spanischen Erbfolgekrieg als König von Spanien, musste aber im Frieden von Utrecht auf seine Rechte am französischen Thron verzichten. Begründer der spanischen Bourbonen.
+  regions: [iberische-halbinsel, frankreich]
+  themes: [politik, krieg-militaer]
+  places: [madrid, versailles]
+  related: [ludwig-xiv, karl-ii-von-spanien]
+- id: friedrich-wilhelm-von-brandenburg
+  name: Friedrich Wilhelm von Brandenburg
+  aliases: [Der Große Kurfürst]
+  born: "1620-02-16"
+  died: "1688-05-09"
+  roles: [Kurfürst von Brandenburg, Herzog in Preußen]
+  summary: Seit 1640 Kurfürst von Brandenburg; baute ein stehendes Heer und eine zentrale Verwaltung auf und lud 1685 mit dem Edikt von Potsdam die aus Frankreich vertriebenen Hugenotten in sein Land ein.
+  regions: [deutschland, mitteleuropa]
+  themes: [politik, migration]
+  places: [potsdam, berlin]
+- id: ludwig-xv
+  name: Ludwig XV.
+  aliases: [Louis XV, le Bien-Aimé]
+  born: "1710-02-15"
+  died: "1774-05-10"
+  roles: [König von Frankreich und Navarra]
+  summary: Urenkel Ludwigs XIV., dessen Großvater (1711) und Vater (1712) vor dem alten König starben, sodass er 1715 mit fünf Jahren den Thron bestieg; bis 1723 regierte für ihn Philippe von Orléans als Regent. In seine Regierungszeit fallen der Österreichische Erbfolgekrieg und der Siebenjährige Krieg.
+  regions: [frankreich]
+  themes: [politik]
+  places: [versailles, paris]
+  related: [ludwig-xiv, ludwig-xvi]
+- id: saint-simon
+  name: Louis de Rouvroy, Herzog von Saint-Simon
+  aliases: [Saint-Simon, Duc de Saint-Simon]
+  born: "1675-01-16"
+  died: "1755-03-02"
+  roles: [Höfling, Memoirenschreiber]
+  summary: Herzog und Pair, der als junger Mann am Hof von Versailles lebte und später in seinen Memoiren ein glänzend geschriebenes, aber vom Groll des Hochadels gegen den König und seine bürgerlichen Minister geprägtes Bild der Epoche zeichnete. Nicht zu verwechseln mit dem Frühsozialisten Henri de Saint-Simon.
+  regions: [frankreich]
+  themes: [schrift-medien, geschichtsschreibung]
+  places: [versailles]
+- id: marlborough
+  name: John Churchill, Herzog von Marlborough
+  aliases: [Marlborough, Duke of Marlborough]
+  born: "1650-05-26"
+  died: "1722-06-16"
+  roles: [Feldherr, Diplomat]
+  summary: Englischer General und Oberbefehlshaber der englisch-niederländischen Truppen im Spanischen Erbfolgekrieg, der zusammen mit Prinz Eugen 1704 bei Höchstädt (Blenheim) siegte; 1711 nach dem Regierungswechsel in London abberufen. Daten nach dem damals in England geltenden julianischen Kalender.
+  regions: [britische-inseln, westeuropa]
+  themes: [krieg-militaer, politik]
+  places: [hoechstaedt, malplaquet, london]
+- id: eugen-von-savoyen
+  name: Prinz Eugen von Savoyen
+  aliases: [Prinz Eugen, Eugène de Savoie-Carignan]
+  born: "1663-10-18"
+  died: "1736-04-21"
+  roles: [Feldherr, Präsident des Hofkriegsrats]
+  summary: In Paris geborener Prinz, dem Ludwig XIV. eine Offizierslaufbahn verweigerte und der daraufhin in habsburgische Dienste trat; siegte gegen die Osmanen (Zenta 1697) und im Spanischen Erbfolgekrieg mit Marlborough bei Höchstädt und Malplaquet; verhandelte 1714 den Frieden von Rastatt.
+  regions: [mitteleuropa, westeuropa]
+  themes: [krieg-militaer, politik]
+  places: [paris, wien, hoechstaedt, malplaquet, rastatt]

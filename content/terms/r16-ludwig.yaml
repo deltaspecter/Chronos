@@ -1,0 +1,51 @@
+# Begriffe: Ludwig XIV. und der Absolutismus
+- id: absolutismus
+  name: Absolutismus
+  aliases: [Absolute Monarchie, Monarchie absolue, Absolutisme]
+  definition: Erst um 1800 aufgekommener, rückblickender Begriff für Monarchien des 17. und 18. Jahrhunderts, deren Herrscher sich als von den Gesetzen gelöst (legibus solutus) und nur Gott verantwortlich verstanden und ohne Mitwirkung der Stände regierten. Seit den 1990er Jahren ist umstritten, wie weit die Herrschaftspraxis diesem Anspruch entsprach.
+  themes: [politik, verfassung-recht, geschichtsschreibung]
+- id: merkantilismus
+  name: Merkantilismus
+  aliases: [Colbertismus, Kameralismus]
+  definition: Spätere Sammelbezeichnung für wirtschaftspolitische Lehren und Praktiken der Frühen Neuzeit, die den Reichtum des Staates durch eine positive Handelsbilanz, Förderung heimischer Gewerbe, Schutzzölle, Kolonien und Handelskompanien mehren wollten; in Frankreich nach Colbert auch Colbertismus genannt.
+  themes: [wirtschaft-handel, politik]
+- id: intendant
+  name: Intendant
+  aliases: [Intendants, Commissaire départi]
+  definition: Vom französischen König ernannter und jederzeit abberufbarer Kommissar, der in einer Provinz (Generalität) Justiz, Polizei und Finanzen überwachte; unter Ludwig XIV. zum ständigen Bindeglied zwischen Zentrale und Provinz, das jedoch stets mit örtlichen Eliten verhandeln musste.
+  themes: [politik, verfassung-recht]
+- id: hugenotten
+  name: Hugenotten
+  aliases: [Reformierte Frankreichs, Religion prétendue réformée, Huguenots]
+  definition: Bezeichnung für die calvinistischen Protestanten Frankreichs; nach dem Widerruf des Edikts von Nantes 1685 flohen viele von ihnen in den „Refuge“ – vor allem in die Niederlande, nach England, in die Schweiz und nach Brandenburg-Preußen, aber auch nach Nordamerika und Südafrika.
+  themes: [religion, migration]
+- id: dragonaden
+  name: Dragonaden
+  aliases: [Dragonnades]
+  definition: Von 1681 an praktizierte Zwangseinquartierung von Dragonern bei reformierten Familien in Frankreich, die durch Plünderung, Misshandlung und Erniedrigung Massenübertritte zum Katholizismus erzwingen sollte.
+  themes: [religion, gewalt-genozid]
+- id: hofgesellschaft
+  name: Hofgesellschaft
+  aliases: [Höfische Gesellschaft, Société de cour]
+  definition: Die um einen Fürstenhof versammelte Gemeinschaft von Adligen, Amtsträgern und Bediensteten mit eigener Etikette und Rangordnung; von Norbert Elias als Figuration gedeutet, in der der König den Adel durch Konkurrenz um Gunst und Rang band.
+  themes: [gesellschaft, politik, kultur-kunst]
+- id: gottesgnadentum
+  name: Gottesgnadentum
+  aliases: [Dei gratia, Droit divin, Göttliches Recht der Könige]
+  definition: Lehre, dass ein Monarch seine Herrschaft unmittelbar von Gott empfangen habe und nur ihm Rechenschaft schulde; in Frankreich unter anderem durch Salbung und Krönung in Reims sowie durch Bossuet begründet.
+  themes: [politik, religion]
+- id: gallikanismus
+  name: Gallikanismus
+  aliases: [Gallikanische Freiheiten, Libertés gallicanes]
+  definition: Lehre und Praxis einer weitgehenden Eigenständigkeit der katholischen Kirche Frankreichs gegenüber dem Papst, verbunden mit einem starken Einfluss des Königs auf Bischofsernennungen und Kirchengut; 1682 in vier Artikeln zusammengefasst.
+  themes: [religion, verfassung-recht]
+- id: parlement
+  name: Parlement
+  aliases: [Parlements, Parlement de Paris]
+  definition: Oberster Gerichtshof im vorrevolutionären Frankreich (das Pariser und mehrere Provinzparlements), dessen Mitglieder ihre Ämter gekauft hatten; Parlements mussten königliche Gesetze registrieren und konnten durch Remonstranzen Einspruch erheben – nicht zu verwechseln mit einem gewählten Parlament.
+  themes: [verfassung-recht, politik]
+- id: stehendes-heer
+  name: Stehendes Heer
+  aliases: [Miles perpetuus]
+  definition: Auch in Friedenszeiten unterhaltene, vom Fürsten besoldete und verwaltete Armee, die im 17. Jahrhundert die nur für einen Feldzug angeworbenen Söldnertruppen ablöste und einen Ausbau von Steuern und Verwaltung erforderte.
+  themes: [krieg-militaer, politik]

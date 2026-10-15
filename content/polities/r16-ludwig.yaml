@@ -1,0 +1,24 @@
+# Staaten: Ludwig XIV. und der Absolutismus
+- id: spanische-monarchie
+  name: Spanische Monarchie
+  aliases: [Monarquía Hispánica, Königreich Spanien, Spanien]
+  start: "1479"
+  spanNote: Als Beginn gilt die Personalunion der Kronen Kastilien und Aragón 1479; die Monarchie blieb ein Verbund mehrerer Königreiche und Länder, zu dem bis 1713/14 auch die Spanischen Niederlande, Mailand, Neapel und Sizilien gehörten. Hier ohne festes Ende geführt.
+  capital: madrid
+  summary: Unter den Habsburgern (1516–1700) die größte Ländermasse Europas mit einem weltweiten Kolonialreich; das Aussterben der spanischen Habsburger 1700 löste den Spanischen Erbfolgekrieg aus, aus dem die Bourbonen als neue Dynastie hervorgingen.
+  regions: [iberische-halbinsel, europa]
+  themes: [politik, imperien]
+  predecessors: [krone-kastilien]
+  weight: 2
+- id: brandenburg-preussen
+  name: Brandenburg-Preußen
+  aliases: [Kurbrandenburg]
+  start: "1618"
+  end: "1701-01-18"
+  spanNote: Die Personalunion der Mark Brandenburg mit dem Herzogtum Preußen entstand 1618; mit der Königskrönung 1701 ging sie im Königreich Preußen auf.
+  capital: berlin
+  summary: Herrschaftsverbund der Hohenzollern aus Kurbrandenburg, dem Herzogtum Preußen und westdeutschen Besitzungen, den der Große Kurfürst mit stehendem Heer und Steuerverwaltung ausbaute; nahm nach 1685 schätzungsweise 15.000 bis 20.000 Hugenotten auf.
+  regions: [deutschland, mitteleuropa]
+  themes: [politik, migration]
+  successors: [koenigreich-preussen]
+  weight: 3

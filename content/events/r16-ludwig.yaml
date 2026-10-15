@@ -1,0 +1,313 @@
+# Ereignisse: Ludwig XIV. und der Absolutismus
+- id: edikt-von-nantes
+  title: Edikt von Nantes
+  date: "1598-04-13"
+  weight: 2
+  kind: gesetz
+  summary: Heinrich IV. beendet die Religionskriege, indem er den Reformierten Gewissensfreiheit, begrenzte Kultfreiheit, Zugang zu Ämtern und befristet Sicherheitsplätze gewährt; der Katholizismus bleibt Staatsreligion.
+  regions: [frankreich]
+  themes: [religion, verfassung-recht]
+  places: [nantes]
+  persons: [heinrich-iv]
+  polities: [koenigreich-frankreich]
+- id: fronde
+  title: Fronde
+  start: "1648"
+  end: "1653"
+  weight: 2
+  kind: revolution
+  summary: Aufstände gegen die Regentschaft Annas von Österreich und Kardinal Mazarins, zunächst getragen vom Pariser Parlement (1648/49), dann von Hochadligen um den Prinzen von Condé (1650–1653); der Hof muss im Januar 1649 aus Paris fliehen. Das Scheitern der zerstrittenen Gegner stärkte langfristig die Krone.
+  regions: [frankreich]
+  themes: [politik, revolutionen]
+  places: [paris, saint-germain-en-laye]
+  persons: [anna-von-oesterreich, jules-mazarin, grosser-conde, ludwig-xiv]
+  polities: [koenigreich-frankreich]
+- id: pyrenaeenfrieden
+  title: Pyrenäenfrieden
+  date: "1659-11-07"
+  weight: 2
+  kind: vertrag
+  summary: Frankreich und Spanien beenden auf der Fasaneninsel im Grenzfluss Bidassoa ihren seit 1635 andauernden Krieg; Frankreich gewinnt das Roussillon und das Artois, Ludwig XIV. heiratet 1660 die Infantin Maria Theresia.
+  regions: [frankreich, iberische-halbinsel]
+  themes: [politik, krieg-militaer]
+  persons: [jules-mazarin, ludwig-xiv, maria-theresia-von-spanien]
+  polities: [koenigreich-frankreich, spanische-monarchie]
+- id: herrschaftsantritt-ludwig-xiv-1661
+  title: Beginn der Selbstregierung Ludwigs XIV.
+  date: "1661-03-10"
+  weight: 2
+  kind: herrschaft
+  summary: Am Tag nach dem Tod Mazarins erklärt der 22-jährige König seinen Ministern, er werde künftig selbst regieren und keinen leitenden Minister mehr ernennen.
+  regions: [frankreich]
+  themes: [politik]
+  places: [paris]
+  persons: [ludwig-xiv, jules-mazarin]
+  polities: [koenigreich-frankreich]
+- id: verhaftung-fouquets-1661
+  title: Verhaftung Nicolas Fouquets
+  date: "1661-09-05"
+  weight: 3
+  kind: ereignis
+  summary: Der Oberintendant der Finanzen wird in Nantes auf Befehl des Königs festgenommen; der folgende Prozess endet 1664 mit Verbannung, die der König in lebenslange Haft umwandelt. Colbert übernimmt die Leitung der Finanzen.
+  regions: [frankreich]
+  themes: [politik, wirtschaft-handel]
+  places: [nantes, vaux-le-vicomte]
+  persons: [nicolas-fouquet, jean-baptiste-colbert, ludwig-xiv]
+  polities: [koenigreich-frankreich]
+- id: compagnie-des-indes-orientales-1664
+  title: Gründung der Französischen Ostindienkompanie
+  date: "1664"
+  weight: 3
+  kind: gruendung
+  summary: Auf Betreiben Colberts entsteht eine privilegierte Handelsgesellschaft für den Asienhandel nach niederländischem Vorbild; im selben Jahr wird auch eine Westindienkompanie für den Atlantikhandel gegründet.
+  regions: [frankreich, indischer-ozean]
+  themes: [wirtschaft-handel, handelsnetze]
+  persons: [jean-baptiste-colbert]
+  polities: [koenigreich-frankreich]
+- id: devolutionskrieg
+  title: Devolutionskrieg
+  start: "1667-05"
+  end: "1668-05-02"
+  weight: 2
+  kind: krieg
+  summary: Unter Berufung auf ein brabantisches Erbrecht zugunsten seiner Frau Maria Theresia fällt Ludwig XIV. in die Spanischen Niederlande ein; eine Allianz der Niederlande, Englands und Schwedens drängt zum Frieden.
+  regions: [westeuropa]
+  themes: [krieg-militaer, politik]
+  places: [lille]
+  persons: [ludwig-xiv, maria-theresia-von-spanien]
+  polities: [koenigreich-frankreich, spanische-monarchie]
+- id: frieden-von-aachen-1668
+  title: Frieden von Aachen (1668)
+  date: "1668-05-02"
+  weight: 3
+  kind: vertrag
+  summary: Spanien tritt im Frieden zum Devolutionskrieg zwölf flandrische Städte und Festungen, darunter Lille, an Frankreich ab; die Franche-Comté erhält es zurück.
+  regions: [westeuropa]
+  themes: [politik]
+  places: [aachen, lille]
+  polities: [koenigreich-frankreich, spanische-monarchie]
+- id: hollaendischer-krieg
+  title: Holländischer Krieg
+  start: "1672-04"
+  end: "1679"
+  weight: 2
+  kind: krieg
+  summary: Frankreich greift im Bund mit England, Köln und Münster die Republik der Vereinigten Niederlande an; die Niederländer öffnen die Deiche, Wilhelm III. von Oranien wird Statthalter, und Kaiser, Spanien und Brandenburg treten auf ihrer Seite in den Krieg ein.
+  regions: [westeuropa, mitteleuropa]
+  themes: [krieg-militaer, politik]
+  persons: [ludwig-xiv, wilhelm-iii-von-oranien, grosser-conde, louvois]
+  polities: [koenigreich-frankreich, republik-der-vereinigten-niederlande, spanische-monarchie, heiliges-roemisches-reich, brandenburg-preussen]
+- id: frieden-von-nimwegen
+  title: Frieden von Nimwegen
+  start: "1678-08-10"
+  end: "1679-02-05"
+  weight: 3
+  kind: vertrag
+  summary: Eine Reihe von Verträgen beendet den Holländischen Krieg; die Niederlande verlieren kein Gebiet, Spanien tritt die Franche-Comté und weitere Grenzorte an Frankreich ab.
+  regions: [westeuropa]
+  themes: [politik]
+  places: [nimwegen]
+  polities: [koenigreich-frankreich, republik-der-vereinigten-niederlande, spanische-monarchie, heiliges-roemisches-reich]
+- id: reunionen
+  title: Reunionen
+  start: "1679"
+  end: "1684-08-15"
+  weight: 2
+  kind: ereignis
+  summary: Eigens eingerichtete Kammern in Metz, Breisach und Besançon erklären Gebiete, die einst von Orten unter französischer Herrschaft abhängig gewesen waren, für französisch; Truppen besetzen sie. Der Regensburger Stillstand von 1684 erkennt die Erwerbungen vorläufig für 20 Jahre an.
+  regions: [frankreich, deutschland]
+  themes: [politik, verfassung-recht]
+  places: [strassburg]
+  persons: [ludwig-xiv]
+  polities: [koenigreich-frankreich, heiliges-roemisches-reich]
+- id: besetzung-strassburgs-1681
+  title: Besetzung Straßburgs
+  date: "1681-09-30"
+  weight: 3
+  kind: ereignis
+  summary: Französische Truppen zwingen die Reichsstadt Straßburg zur Kapitulation; der Münster wird dem katholischen Kult zurückgegeben, Vauban baut die Stadt zur Festung aus.
+  regions: [frankreich, deutschland]
+  themes: [politik, krieg-militaer]
+  places: [strassburg]
+  persons: [ludwig-xiv, louvois, vauban]
+  polities: [koenigreich-frankreich, heiliges-roemisches-reich]
+- id: gallikanische-artikel-1682
+  title: Gallikanische Artikel
+  date: "1682-03-19"
+  weight: 3
+  kind: gesetz
+  summary: Eine Versammlung des französischen Klerus erklärt in vier von Bossuet formulierten Artikeln, der König sei in weltlichen Dingen dem Papst nicht unterworfen und die Gewalt des Papstes durch Konzilien und die Gewohnheiten der gallikanischen Kirche begrenzt.
+  regions: [frankreich, italien]
+  themes: [religion, verfassung-recht]
+  places: [paris]
+  persons: [bossuet, ludwig-xiv]
+  polities: [koenigreich-frankreich]
+- id: hof-in-versailles-1682
+  title: Übersiedlung des Hofes nach Versailles
+  date: "1682-05-06"
+  weight: 2
+  kind: ereignis
+  summary: Ludwig XIV. verlegt Hof und Regierung dauerhaft in das ausgebaute Schloss Versailles, das bis 1789 Sitz der französischen Monarchie bleibt.
+  regions: [frankreich]
+  themes: [politik, kultur-kunst]
+  places: [versailles, paris]
+  persons: [ludwig-xiv]
+  polities: [koenigreich-frankreich]
+- id: edikt-von-fontainebleau
+  title: Edikt von Fontainebleau
+  aliases: [Widerruf des Edikts von Nantes, Revokation]
+  date: "1685-10-18"
+  weight: 1
+  kind: gesetz
+  summary: Ludwig XIV. widerruft das Edikt von Nantes, verbietet den reformierten Gottesdienst, lässt die Kirchen zerstören und weist die Pfarrer aus; den übrigen Reformierten wird die Auswanderung verboten. Dennoch fliehen in den folgenden Jahren schätzungsweise 150.000 bis 200.000 Menschen.
+  regions: [frankreich, europa]
+  themes: [religion, migration, verfassung-recht]
+  places: [fontainebleau]
+  persons: [ludwig-xiv, louvois]
+  polities: [koenigreich-frankreich]
+- id: potsdamer-edikt-1685
+  title: Edikt von Potsdam
+  date: "1685-11-08"
+  weight: 2
+  kind: gesetz
+  summary: Kurfürst Friedrich Wilhelm von Brandenburg bietet den aus Frankreich geflohenen Reformierten Aufnahme, Steuerfreiheit, Hilfen beim Aufbau von Gewerben und eigene Gemeinden an (nach damaligem julianischem Kalender 29. Oktober).
+  regions: [deutschland, frankreich]
+  themes: [migration, religion]
+  places: [potsdam, berlin]
+  persons: [friedrich-wilhelm-von-brandenburg]
+  polities: [brandenburg-preussen]
+- id: pfaelzischer-erbfolgekrieg
+  title: Pfälzischer Erbfolgekrieg
+  aliases: [Neunjähriger Krieg, Krieg der Großen Allianz, Orléans'scher Krieg]
+  start: "1688-09"
+  end: "1697"
+  weight: 2
+  kind: krieg
+  summary: Mit Erbansprüchen Liselottes von der Pfalz als Vorwand rücken französische Truppen ins Reich ein; gegen Frankreich steht bald eine Große Allianz aus Kaiser, Reichsständen, den Niederlanden, England, Spanien und Savoyen. Der Krieg wird in Europa, auf See und in den Kolonien geführt.
+  regions: [mitteleuropa, westeuropa, deutschland]
+  themes: [krieg-militaer, politik]
+  places: [heidelberg, mannheim, speyer, worms]
+  persons: [ludwig-xiv, louvois, wilhelm-iii-von-oranien, liselotte-von-der-pfalz]
+  polities: [koenigreich-frankreich, heiliges-roemisches-reich, kurpfalz, republik-der-vereinigten-niederlande, koenigreich-england, spanische-monarchie]
+- id: verwuestung-der-pfalz
+  title: Verwüstung der Pfalz
+  start: "1688-12"
+  end: "1693"
+  weight: 2
+  kind: ereignis
+  summary: Um eine Sperrzone vor der Grenze zu schaffen, lassen französische Heerführer auf Befehl aus Versailles Städte und Dörfer in Pfalz und Baden niederbrennen, darunter 1689 Mannheim, Heidelberg, Speyer und Worms; Heidelberg und sein Schloss werden 1693 erneut zerstört.
+  regions: [deutschland]
+  themes: [krieg-militaer, gewalt-genozid]
+  places: [heidelberg, mannheim, speyer, worms]
+  persons: [louvois, ludwig-xiv]
+  polities: [koenigreich-frankreich, kurpfalz]
+- id: hungerkrise-1693-1694
+  title: Hungerkrise 1693/94
+  start: "1693"
+  end: "1694"
+  weight: 2
+  kind: katastrophe
+  summary: Nach Missernten infolge eines kalten und nassen Jahres steigen die Getreidepreise drastisch; Hunger und Seuchen töten in Frankreich nach Schätzungen über eine Million Menschen, oft wird eine Zahl um 1,3 Millionen genannt.
+  regions: [frankreich]
+  themes: [umwelt-klima, gesellschaft, landwirtschaft]
+  polities: [koenigreich-frankreich]
+- id: frieden-von-rijswijk
+  title: Frieden von Rijswijk
+  date: "1697-09-20"
+  weight: 3
+  kind: vertrag
+  summary: Frankreich schließt Frieden mit den Niederlanden, England und Spanien, im Oktober auch mit dem Kaiser; es gibt die meisten Reunionen heraus, behält aber Straßburg und erkennt Wilhelm III. als König von England an. Der Westteil Hispaniolas (Saint-Domingue) bleibt faktisch französisch.
+  regions: [westeuropa, mitteleuropa]
+  themes: [politik]
+  places: [rijswijk, strassburg]
+  persons: [ludwig-xiv, wilhelm-iii-von-oranien]
+  polities: [koenigreich-frankreich, republik-der-vereinigten-niederlande, koenigreich-england, spanische-monarchie, heiliges-roemisches-reich, saint-domingue]
+- id: spanischer-erbfolgekrieg
+  title: Spanischer Erbfolgekrieg
+  start: "1701"
+  end: "1714"
+  weight: 1
+  kind: krieg
+  summary: Nach dem Tod Karls II. von Spanien kämpfen Frankreich und das bourbonische Spanien gegen eine Allianz aus Kaiser, England und den Niederlanden, die einen Habsburger auf den spanischen Thron bringen will; trotz schwerer Niederlagen bleibt Philipp V. König von Spanien.
+  regions: [europa, iberische-halbinsel, westeuropa, mitteleuropa, amerika]
+  themes: [krieg-militaer, politik, imperien]
+  places: [hoechstaedt, malplaquet, madrid]
+  persons: [ludwig-xiv, philipp-v-von-spanien, karl-ii-von-spanien, marlborough, eugen-von-savoyen]
+  polities: [koenigreich-frankreich, spanische-monarchie, habsburgermonarchie, koenigreich-england, koenigreich-grossbritannien, republik-der-vereinigten-niederlande]
+- id: kamisardenkrieg
+  title: Aufstand der Kamisarden
+  start: "1702-07"
+  end: "1704"
+  spanNote: Einzelne Gruppen kämpften bis um 1710 weiter.
+  weight: 3
+  kind: krieg
+  summary: Reformierte Bauern und Handwerker in den Cevennen erheben sich, getragen von prophetischen Bewegungen, gegen die Verfolgung; königliche Truppen schlagen den Aufstand mit Zerstörung ganzer Dörfer nieder.
+  regions: [frankreich]
+  themes: [religion, krieg-militaer, gewalt-genozid]
+  places: [cevennen]
+  polities: [koenigreich-frankreich]
+- id: schlacht-bei-hoechstaedt-1704
+  title: Schlacht bei Höchstädt (Blenheim)
+  date: "1704-08-13"
+  weight: 2
+  kind: schlacht
+  summary: Marlborough und Prinz Eugen vernichten ein französisch-bayerisches Heer an der Donau; Bayern fällt als Verbündeter Frankreichs aus, der Nimbus der französischen Armee ist gebrochen.
+  regions: [deutschland]
+  themes: [krieg-militaer]
+  places: [hoechstaedt]
+  persons: [marlborough, eugen-von-savoyen]
+  polities: [koenigreich-frankreich, habsburgermonarchie, koenigreich-england]
+- id: grosser-winter-1709
+  title: Großer Winter 1709
+  start: "1709-01"
+  end: "1710"
+  weight: 2
+  kind: katastrophe
+  summary: Ein außergewöhnlich strenger Frost im Januar und Februar 1709 vernichtet Wintersaat, Obstbäume und Weinstöcke; die folgende Teuerung und Hungersnot fordert in Frankreich nach Schätzungen rund 600.000 zusätzliche Todesopfer.
+  regions: [frankreich, europa]
+  themes: [umwelt-klima, gesellschaft, landwirtschaft]
+  polities: [koenigreich-frankreich]
+- id: schlacht-bei-malplaquet
+  title: Schlacht bei Malplaquet
+  date: "1709-09-11"
+  weight: 3
+  kind: schlacht
+  summary: Die Alliierten unter Marlborough und Prinz Eugen erzwingen den Rückzug des französischen Heeres unter Villars, erleiden dabei aber so hohe Verluste, dass sie den Vormarsch nach Frankreich nicht fortsetzen können.
+  regions: [frankreich, westeuropa]
+  themes: [krieg-militaer]
+  places: [malplaquet]
+  persons: [marlborough, eugen-von-savoyen]
+  polities: [koenigreich-frankreich, habsburgermonarchie, koenigreich-grossbritannien, republik-der-vereinigten-niederlande]
+- id: frieden-von-utrecht
+  title: Frieden von Utrecht
+  date: "1713-04-11"
+  weight: 1
+  kind: vertrag
+  summary: Frankreich und Spanien schließen mit Großbritannien, den Niederlanden und weiteren Mächten Frieden; Philipp V. bleibt König von Spanien, verzichtet aber auf den französischen Thron, Großbritannien erhält Gibraltar, Menorca, Gebiete in Nordamerika und das Asiento, das Recht zur Lieferung versklavter Afrikaner nach Spanisch-Amerika.
+  regions: [europa, amerika, atlantik]
+  themes: [politik, sklaverei-unfreiheit, imperien]
+  places: [utrecht]
+  persons: [ludwig-xiv, philipp-v-von-spanien]
+  polities: [koenigreich-frankreich, spanische-monarchie, koenigreich-grossbritannien, republik-der-vereinigten-niederlande]
+- id: frieden-von-rastatt
+  title: Frieden von Rastatt
+  date: "1714-03-07"
+  weight: 3
+  kind: vertrag
+  summary: Prinz Eugen und Marschall Villars beenden den Krieg zwischen Kaiser und Frankreich; der Kaiser erhält die Spanischen Niederlande, Mailand, Neapel und Sardinien, Frankreich behält Straßburg. Der Friede mit dem Reich folgt im September in Baden (Aargau).
+  regions: [mitteleuropa, westeuropa]
+  themes: [politik]
+  places: [rastatt]
+  persons: [eugen-von-savoyen]
+  polities: [koenigreich-frankreich, habsburgermonarchie, heiliges-roemisches-reich]
+- id: tod-ludwigs-xiv
+  title: Tod Ludwigs XIV.
+  date: "1715-09-01"
+  weight: 2
+  kind: herrschaft
+  summary: Der König stirbt nach 72 Jahren auf dem Thron in Versailles an Wundbrand; Nachfolger wird sein fünfjähriger Urenkel Ludwig XV., für den Philippe von Orléans die Regentschaft übernimmt, nachdem das Pariser Parlement das Testament des Königs aufgehoben hat.
+  regions: [frankreich]
+  themes: [politik]
+  places: [versailles, saint-denis]
+  persons: [ludwig-xiv, ludwig-xv, madame-de-maintenon]
+  polities: [koenigreich-frankreich]

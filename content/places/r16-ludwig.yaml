@@ -1,0 +1,89 @@
+# Orte: Ludwig XIV. und der Absolutismus
+- id: saint-germain-en-laye
+  name: Saint-Germain-en-Laye
+  coords: [2.0944, 48.8989]
+  categories: [stadt]
+  modernName: Saint-Germain-en-Laye (Département Yvelines, Frankreich)
+  summary: Königliches Schloss westlich von Paris, Geburtsort Ludwigs XIV. 1638 und bis zur Übersiedlung nach Versailles 1682 eine seiner Hauptresidenzen; danach Exil des gestürzten englischen Königs Jakob II.
+  regions: [frankreich]
+  themes: [politik, kultur-kunst]
+- id: fontainebleau
+  name: Fontainebleau
+  coords: [2.6984, 48.4020]
+  categories: [stadt]
+  modernName: Fontainebleau (Département Seine-et-Marne, Frankreich)
+  summary: Königliches Schloss südöstlich von Paris, das der Hof regelmäßig im Herbst aufsuchte; hier unterzeichnete Ludwig XIV. im Oktober 1685 den Widerruf des Edikts von Nantes.
+  regions: [frankreich]
+  themes: [politik, religion, kultur-kunst]
+- id: vaux-le-vicomte
+  name: Vaux-le-Vicomte
+  coords: [2.7139, 48.5656]
+  categories: [kulturzentrum]
+  modernName: Schloss Vaux-le-Vicomte bei Maincy (Département Seine-et-Marne, Frankreich)
+  summary: Schloss des Finanzministers Nicolas Fouquet, von Le Vau, Le Brun und Le Nôtre gestaltet; nach einem prunkvollen Fest für den König im August 1661 wurde Fouquet verhaftet, und dieselben Künstler arbeiteten danach für Versailles.
+  regions: [frankreich]
+  themes: [kultur-kunst, politik]
+- id: lille
+  name: Lille
+  aliases: [Rijsel]
+  coords: [3.0573, 50.6292]
+  categories: [stadt]
+  modernName: Lille (Département Nord, Frankreich)
+  summary: Flandrische Handelsstadt, die Ludwig XIV. im Devolutionskrieg 1667 eroberte und im Frieden von Aachen 1668 behielt; Vauban baute ihre Zitadelle. 1708 von den Alliierten eingenommen, 1713 zurückgegeben.
+  regions: [frankreich, westeuropa]
+  themes: [krieg-militaer, wirtschaft-handel]
+- id: nimwegen
+  name: Nimwegen
+  aliases: [Nijmegen]
+  coords: [5.8528, 51.8126]
+  categories: [stadt]
+  modernName: Nijmegen (Niederlande)
+  summary: Stadt an der Waal, in der 1678/79 die Friedensverträge geschlossen wurden, die den Holländischen Krieg beendeten.
+  regions: [westeuropa]
+  themes: [politik]
+- id: rijswijk
+  name: Rijswijk
+  aliases: [Ryswick]
+  coords: [4.3250, 52.0367]
+  categories: [stadt]
+  modernName: Rijswijk bei Den Haag (Niederlande)
+  summary: Ort bei Den Haag, wo 1697 im Schloss Huis ter Nieuburg der Frieden geschlossen wurde, der den Pfälzischen Erbfolgekrieg beendete.
+  regions: [westeuropa]
+  themes: [politik]
+- id: utrecht
+  name: Utrecht
+  coords: [5.1214, 52.0907]
+  categories: [stadt]
+  modernName: Utrecht (Niederlande)
+  summary: Niederländische Bischofs- und Universitätsstadt, Ort der Friedensverträge von 1713, die den Spanischen Erbfolgekrieg für die meisten Mächte beendeten.
+  regions: [westeuropa]
+  themes: [politik, religion]
+- id: hoechstaedt
+  name: Höchstädt an der Donau
+  aliases: [Blindheim, Blenheim]
+  coords: [10.6000, 48.6250]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Höchstädt und Blindheim (Landkreis Dillingen, Bayern)
+  summary: Gegend an der Donau, in der am 13. August 1704 Marlborough und Prinz Eugen das französisch-bayerische Heer schlugen; im Englischen nach dem Dorf Blindheim „Battle of Blenheim“ genannt.
+  regions: [deutschland]
+  themes: [krieg-militaer]
+- id: malplaquet
+  name: Malplaquet
+  coords: [3.8600, 50.3300]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Taisnières-sur-Hon (Département Nord, Frankreich)
+  summary: Weiler an der heutigen französisch-belgischen Grenze, bei dem am 11. September 1709 die verlustreichste Schlacht des Spanischen Erbfolgekriegs stattfand.
+  regions: [frankreich, westeuropa]
+  themes: [krieg-militaer]
+- id: cevennen
+  name: Cevennen
+  aliases: [Cévennes]
+  coords: [3.7000, 44.2000]
+  location: ungefaehr
+  categories: [region]
+  modernName: Cevennen (Südfrankreich)
+  summary: Bergland im Süden des Zentralmassivs mit starker reformierter Bevölkerung, wo sich 1702 die Kamisarden gegen die erzwungene Katholisierung erhoben.
+  regions: [frankreich]
+  themes: [religion, gewalt-genozid]

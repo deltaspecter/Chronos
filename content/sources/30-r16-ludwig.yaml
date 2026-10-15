@@ -1,0 +1,171 @@
+# Quellen und Literatur: Ludwig XIV. und der Absolutismus
+
+# --- Primärquellen ---
+- id: q-ludwig-xiv-memoires
+  kind: primaer
+  authors: ["Ludwig XIV."]
+  title: Mémoires pour l'instruction du Dauphin
+  written: Frankreich, 1660er Jahre (unter Mitarbeit von Sekretären)
+  note: Für den Thronfolger bestimmte Aufzeichnungen, in denen der König seine Regierungsübernahme 1661 und seine Auffassung vom Königsamt darstellt.
+- id: q-edikt-fontainebleau
+  kind: primaer
+  title: Edikt von Fontainebleau (Édit portant révocation de l'Édit de Nantes)
+  written: Fontainebleau, Oktober 1685
+  note: Königliches Edikt, das das Edikt von Nantes von 1598 widerrief, den reformierten Gottesdienst verbot und den Pfarrern die Ausreise befahl, den übrigen Hugenotten aber die Auswanderung untersagte.
+- id: q-potsdamer-edikt
+  kind: primaer
+  authors: ["Friedrich Wilhelm von Brandenburg"]
+  title: Edikt von Potsdam
+  written: Potsdam, 29. Oktober 1685 (julianischer Kalender)
+  note: Edikt des Großen Kurfürsten, das französischen Glaubensflüchtlingen Aufnahme, Steuerfreiheiten und eigene Gemeinden in Brandenburg-Preußen zusicherte.
+- id: q-bossuet-politique
+  kind: primaer
+  authors: ["Bossuet, Jacques-Bénigne"]
+  title: Politique tirée des propres paroles de l'Écriture sainte
+  written: Frankreich, begonnen um 1679, gedruckt 1709
+  note: Für den Dauphin verfasste Lehre vom Königtum, die die Herrschaft des Königs aus der Bibel ableitet und als heilig, väterlich und absolut, aber an Vernunft und göttliches Gesetz gebunden beschreibt.
+- id: q-saint-simon-memoires
+  kind: primaer
+  authors: ["Saint-Simon, Louis de Rouvroy, duc de"]
+  title: Mémoires
+  written: Frankreich, niedergeschrieben vor allem 1739–1749
+  note: Umfangreiche, parteiische Erinnerungen eines Herzogs über den Hof der späten Regierungszeit Ludwigs XIV. und die Régence; wichtigste, aber von Abneigung gegen den König geprägte Quelle zum Leben in Versailles.
+- id: q-liselotte-briefe
+  kind: primaer
+  authors: ["Elisabeth Charlotte von Orléans"]
+  title: Briefe
+  written: Versailles, Saint-Cloud und Paris, 1672–1722
+  note: Tausende Briefe der pfälzischen Prinzessin und Schwägerin des Königs, meist an Verwandte in Deutschland, mit drastischen Schilderungen des Hoflebens und Klagen über die Verwüstung der Pfalz.
+- id: q-fenelon-lettre
+  kind: primaer
+  authors: ["Fénelon, François de Salignac de La Mothe-"]
+  title: Lettre à Louis XIV
+  written: Frankreich, um 1693/94
+  note: Anonymer, vermutlich nie überreichter Mahnbrief des Erzbischofs, der dem König Kriegslust, Ruhmsucht und das Elend des Volkes vorhält; Verfasserschaft und Datierung gelten als weitgehend gesichert.
+- id: q-vauban-dime
+  kind: primaer
+  authors: ["Vauban, Sébastien Le Prestre de"]
+  title: Projet d'une dîme royale
+  written: Frankreich, gedruckt 1707
+  note: Reformschrift des Festungsbaumeisters, die die Armut der Bevölkerung beschreibt und eine einheitliche, alle Stände treffende Steuer vorschlägt; vom Rat des Königs verboten.
+
+# --- Forschung ---
+- id: goubert-1966
+  kind: sekundaer
+  authors: ["Goubert, Pierre"]
+  title: Louis XIV et vingt millions de Français
+  place: Paris
+  publisher: Fayard
+  year: 1966
+- id: bluche-1986
+  kind: sekundaer
+  authors: ["Bluche, François"]
+  title: Louis XIV
+  place: Paris
+  publisher: Fayard
+  year: 1986
+- id: elias-1969
+  kind: sekundaer
+  authors: ["Elias, Norbert"]
+  title: Die höfische Gesellschaft
+  subtitle: Untersuchungen zur Soziologie des Königtums und der höfischen Aristokratie
+  place: Neuwied / Berlin
+  publisher: Luchterhand
+  year: 1969
+- id: duindam-1995
+  kind: sekundaer
+  authors: ["Duindam, Jeroen"]
+  title: Myths of Power
+  subtitle: Norbert Elias and the Early Modern European Court
+  place: Amsterdam
+  publisher: Amsterdam University Press
+  year: 1995
+- id: burke-1992
+  kind: sekundaer
+  authors: ["Burke, Peter"]
+  title: The Fabrication of Louis XIV
+  place: New Haven / London
+  publisher: Yale University Press
+  year: 1992
+- id: henshall-1992
+  kind: sekundaer
+  authors: ["Henshall, Nicholas"]
+  title: The Myth of Absolutism
+  subtitle: Change and Continuity in Early Modern European Monarchy
+  place: London / New York
+  publisher: Longman
+  year: 1992
+- id: beik-1985
+  kind: sekundaer
+  authors: ["Beik, William"]
+  title: Absolutism and Society in Seventeenth-Century France
+  subtitle: State Power and Provincial Aristocracy in Languedoc
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1985
+- id: beik-2005
+  kind: sekundaer
+  authors: ["Beik, William"]
+  title: The Absolutism of Louis XIV as Social Collaboration
+  container: Past & Present
+  volume: 188
+  year: 2005
+- id: duchhardt-1989
+  kind: sekundaer
+  authors: ["Duchhardt, Heinz"]
+  title: Das Zeitalter des Absolutismus
+  series: Oldenbourg Grundriss der Geschichte 11
+  place: München
+  publisher: Oldenbourg
+  year: 1989
+- id: asch-duchhardt-1996
+  kind: sekundaer
+  editors: ["Asch, Ronald G.", "Duchhardt, Heinz"]
+  title: Der Absolutismus – ein Mythos?
+  subtitle: Strukturwandel monarchischer Herrschaft in West- und Mitteleuropa (ca. 1550–1700)
+  place: Köln / Weimar / Wien
+  publisher: Böhlau
+  year: 1996
+- id: mettam-1988
+  kind: sekundaer
+  authors: ["Mettam, Roger"]
+  title: Power and Faction in Louis XIV's France
+  place: Oxford
+  publisher: Blackwell
+  year: 1988
+- id: dessert-1984
+  kind: sekundaer
+  authors: ["Dessert, Daniel"]
+  title: Argent, pouvoir et société au Grand Siècle
+  place: Paris
+  publisher: Fayard
+  year: 1984
+- id: lynn-1999
+  kind: sekundaer
+  authors: ["Lynn, John A."]
+  title: The Wars of Louis XIV, 1667–1714
+  place: London / New York
+  publisher: Longman
+  year: 1999
+- id: lachiver-1991
+  kind: sekundaer
+  authors: ["Lachiver, Marcel"]
+  title: Les années de misère
+  subtitle: La famine au temps du Grand Roi, 1680–1720
+  place: Paris
+  publisher: Fayard
+  year: 1991
+- id: sala-molins-1987
+  kind: sekundaer
+  authors: ["Sala-Molins, Louis"]
+  title: Le Code noir ou le calvaire de Canaan
+  place: Paris
+  publisher: Presses Universitaires de France
+  year: 1987
+- id: niggemann-2011
+  kind: sekundaer
+  authors: ["Niggemann, Ulrich"]
+  title: Hugenotten
+  place: Köln / Weimar / Wien
+  publisher: Böhlau (UTB)
+  year: 2011
