@@ -1,0 +1,244 @@
+# Ereignisse: Apartheid in Südafrika (Runde 17)
+- id: suedafrikanischer-krieg
+  title: Südafrikanischer Krieg (Zweiter Burenkrieg)
+  start: "1899-10-11"
+  end: "1902-05-31"
+  weight: 2
+  kind: krieg
+  summary: Großbritannien erobert die Burenrepubliken Transvaal und Oranje-Freistaat; im Guerillakrieg brennt die britische Armee Farmen nieder und interniert Buren wie Schwarze in Lagern, in denen Zehntausende sterben. Der Frieden von Vereeniging verschiebt die Frage des Wahlrechts für Schwarze auf später.
+  regions: [suedliches-afrika, britische-inseln]
+  themes: [krieg-militaer, imperien]
+  places: [pretoria]
+  persons: [jan-smuts]
+  polities: [vereinigtes-koenigreich]
+- id: gruendung-suedafrikanische-union
+  title: Gründung der Südafrikanischen Union
+  date: "1910-05-31"
+  weight: 3
+  kind: gruendung
+  summary: Die vier britischen Kolonien im südlichen Afrika werden zu einem Dominion vereinigt; die schwarze Bevölkerungsmehrheit bleibt politisch fast völlig ausgeschlossen, was 1912 zur Gründung des späteren African National Congress beiträgt.
+  regions: [suedliches-afrika]
+  themes: [politik, verfassung-recht]
+  places: [kapstadt, pretoria]
+  polities: [suedafrikanische-union, vereinigtes-koenigreich]
+- id: natives-land-act-1913
+  title: Natives Land Act
+  date: "1913-06-19"
+  weight: 2
+  kind: gesetz
+  summary: Das Gesetz verbietet Afrikanern, außerhalb festgelegter Reservate – rund sieben Prozent der Landesfläche – Land zu kaufen oder zu pachten; 1936 wird die Reservatsfläche auf etwa 13 Prozent erweitert. Es bildet die territoriale Grundlage der späteren Homelands.
+  regions: [suedliches-afrika]
+  themes: [verfassung-recht, landwirtschaft]
+  polities: [suedafrikanische-union]
+- id: wahlsieg-national-party-1948
+  title: Wahlsieg der National Party
+  date: "1948-05-26"
+  weight: 2
+  kind: ereignis
+  summary: Die National Party unter D. F. Malan gewinnt mit ihrem Bündnispartner, der Afrikaner Party, die Parlamentswahl gegen Jan Smuts' United Party – mit einer Mehrheit der Sitze, aber einer Minderheit der Stimmen – und beginnt mit dem Aufbau der Apartheid.
+  regions: [suedliches-afrika]
+  themes: [politik]
+  persons: [daniel-malan, jan-smuts]
+  polities: [suedafrikanische-union]
+- id: population-registration-act
+  title: Population Registration Act
+  date: "1950"
+  weight: 3
+  kind: gesetz
+  summary: Das Gesetz teilt jeden Einwohner Südafrikas einer „Rasse“ zu – Weiße, „Coloureds“, „Natives“ (später Bantu oder Schwarze), ab 1959 zusätzlich „Asians“ – und macht diese Einstufung zur Grundlage aller übrigen Apartheidgesetze; 1991 aufgehoben.
+  regions: [suedliches-afrika]
+  themes: [verfassung-recht, gesellschaft]
+  persons: [daniel-malan]
+  polities: [suedafrikanische-union]
+- id: group-areas-act
+  title: Group Areas Act
+  date: "1950"
+  weight: 3
+  kind: gesetz
+  summary: Das Gesetz erlaubt es, städtische Wohn- und Geschäftsgebiete einzelnen „Rassengruppen“ vorzubehalten; auf seiner Grundlage werden Hunderttausende, vor allem „Coloureds“ und Inder, aus ihren Vierteln vertrieben. 1991 aufgehoben.
+  regions: [suedliches-afrika]
+  themes: [verfassung-recht, gesellschaft, migration]
+  places: [district-six]
+  polities: [suedafrikanische-union]
+- id: defiance-campaign
+  title: Defiance Campaign
+  start: "1952-06-26"
+  end: "1952-12"
+  weight: 3
+  kind: ereignis
+  summary: ANC und South African Indian Congress rufen zur gewaltfreien Übertretung von Apartheidgesetzen auf; über 8000 Freiwillige lassen sich verhaften. Die Kampagne macht den ANC zur Massenorganisation.
+  regions: [suedliches-afrika]
+  themes: [politik]
+  persons: [nelson-mandela, walter-sisulu]
+- id: bantu-education-act
+  title: Bantu Education Act
+  date: "1953"
+  weight: 3
+  kind: gesetz
+  summary: Das Gesetz unterstellt die Schulbildung schwarzer Kinder dem Ministerium für Eingeborenenangelegenheiten unter Verwoerd und drängt die Missionsschulen zurück; die Lehrpläne sollen Schwarze auf untergeordnete Arbeit vorbereiten.
+  regions: [suedliches-afrika]
+  themes: [gesellschaft, verfassung-recht]
+  persons: [hendrik-verwoerd]
+  polities: [suedafrikanische-union]
+- id: freedom-charter
+  title: Freiheitscharta
+  start: "1955-06-25"
+  end: "1955-06-26"
+  weight: 2
+  kind: ereignis
+  summary: Rund 3000 Delegierte des Volkskongresses verabschieden in Kliptown die Freiheitscharta, die gleiche Rechte für alle fordert und erklärt, Südafrika gehöre allen, die darin leben; die Polizei löst die Versammlung am zweiten Tag auf.
+  regions: [suedliches-afrika]
+  themes: [politik, verfassung-recht]
+  places: [kliptown]
+- id: frauenmarsch-1956
+  title: Frauenmarsch auf die Union Buildings
+  date: "1956-08-09"
+  weight: 3
+  kind: ereignis
+  summary: Rund 20.000 Frauen aller Bevölkerungsgruppen ziehen in Pretoria vor den Regierungssitz, um gegen die Ausdehnung der Passpflicht auf Frauen zu protestieren; der 9. August ist heute Nationaler Frauentag.
+  regions: [suedliches-afrika]
+  themes: [politik, gesellschaft]
+  places: [union-buildings, pretoria]
+  persons: [lilian-ngoyi, helen-joseph]
+- id: sharpeville-massaker
+  title: Massaker von Sharpeville
+  date: "1960-03-21"
+  weight: 2
+  kind: katastrophe
+  summary: Die Polizei schießt in eine Menge, die auf Aufruf des Pan Africanist Congress ohne Pass vor der Polizeistation erschienen war; 69 Menschen sterben, viele in den Rücken getroffen. Die Regierung verhängt den Ausnahmezustand und verbietet ANC und PAC.
+  regions: [suedliches-afrika]
+  themes: [gewalt-genozid, politik]
+  places: [sharpeville]
+  persons: [robert-sobukwe, hendrik-verwoerd]
+  polities: [suedafrikanische-union]
+- id: gruendung-umkhonto-we-sizwe
+  title: Gründung von Umkhonto we Sizwe
+  date: "1961-12-16"
+  weight: 3
+  kind: gruendung
+  summary: Mit Bombenanschlägen auf Regierungseinrichtungen tritt der bewaffnete Arm von ANC und Kommunistischer Partei, „Speer der Nation“, an die Öffentlichkeit; Ziel ist zunächst Sabotage unter Schonung von Menschenleben.
+  regions: [suedliches-afrika]
+  themes: [politik, krieg-militaer]
+  persons: [nelson-mandela]
+  polities: [republik-suedafrika]
+- id: rivonia-prozess
+  title: Rivonia-Prozess
+  start: "1963-10-09"
+  end: "1964-06-12"
+  weight: 2
+  kind: ereignis
+  summary: Nach der Razzia auf der Liliesleaf Farm werden Mandela, Sisulu, Govan Mbeki und weitere Führer von Umkhonto we Sizwe wegen Sabotage angeklagt; acht Angeklagte erhalten lebenslange Haft, die meisten werden nach Robben Island gebracht.
+  regions: [suedliches-afrika]
+  themes: [politik, verfassung-recht]
+  places: [pretoria, liliesleaf, robben-island]
+  persons: [nelson-mandela, walter-sisulu]
+  polities: [republik-suedafrika]
+- id: zwangsraeumung-district-six
+  title: District Six wird zum „weißen Gebiet“ erklärt
+  date: "1966-02-11"
+  weight: 3
+  kind: ereignis
+  summary: Die Regierung erklärt das Kapstädter Viertel District Six nach dem Group Areas Act zum Wohngebiet für Weiße; bis Anfang der 1980er-Jahre werden rund 60.000 Bewohner in die Cape Flats umgesiedelt und fast alle Häuser abgerissen.
+  regions: [suedliches-afrika]
+  themes: [gesellschaft, migration]
+  places: [district-six, kapstadt]
+  polities: [republik-suedafrika]
+- id: soweto-aufstand
+  title: Soweto-Aufstand
+  start: "1976-06-16"
+  end: "1977"
+  weight: 2
+  kind: revolution
+  summary: Schüler in Soweto demonstrieren gegen Afrikaans als Unterrichtssprache; die Polizei schießt, unter den ersten Toten ist Hector Pieterson. Die Unruhen erfassen das ganze Land; die Zahl der Toten wird offiziell mit 176 für die ersten Tage, in Schätzungen für die folgenden Monate mit mehreren Hundert bis über 700 angegeben.
+  regions: [suedliches-afrika]
+  themes: [politik, gesellschaft]
+  places: [soweto]
+  persons: [hector-pieterson]
+  polities: [republik-suedafrika]
+- id: tod-steve-biko
+  title: Tod Steve Bikos in Polizeihaft
+  date: "1977-09-12"
+  weight: 3
+  kind: ereignis
+  summary: Der im August verhaftete Black-Consciousness-Führer stirbt in Pretoria an Hirnverletzungen nach Verhören in Port Elizabeth; der Justizminister erklärt den Tod zunächst mit einem Hungerstreik. Der Fall löst weltweite Empörung aus.
+  regions: [suedliches-afrika]
+  themes: [gewalt-genozid, politik]
+  places: [pretoria]
+  persons: [steve-biko]
+  polities: [republik-suedafrika]
+- id: un-waffenembargo-suedafrika
+  title: Verbindliches UN-Waffenembargo gegen Südafrika
+  date: "1977-11-04"
+  weight: 2
+  kind: ereignis
+  summary: Der UN-Sicherheitsrat beschließt mit Resolution 418 erstmals ein verbindliches Waffenembargo gegen ein Mitgliedsland; Südafrika baut daraufhin seine eigene Rüstungsindustrie aus.
+  regions: [welt, suedliches-afrika]
+  themes: [politik, krieg-militaer]
+  polities: [vereinte-nationen, republik-suedafrika]
+- id: ausnahmezustand-suedafrika
+  title: Ausnahmezustände der 1980er-Jahre
+  start: "1985-07-21"
+  end: "1990-06-08"
+  weight: 2
+  kind: ereignis
+  summary: Gegen Township-Aufstände und die United Democratic Front verhängt die Regierung Botha 1985 einen regionalen, 1986 einen landesweiten Ausnahmezustand; Zehntausende werden ohne Anklage inhaftiert, darunter viele Jugendliche. Mit Ausnahme Natals wird er im Juni 1990 aufgehoben.
+  regions: [suedliches-afrika]
+  themes: [politik, gewalt-genozid]
+  persons: [pieter-willem-botha]
+  polities: [republik-suedafrika]
+- id: comprehensive-anti-apartheid-act
+  title: Comprehensive Anti-Apartheid Act
+  date: "1986"
+  weight: 3
+  kind: gesetz
+  summary: Der Kongress der USA beschließt gegen das Veto Präsident Reagans umfassende Wirtschaftssanktionen gegen Südafrika, darunter ein Verbot neuer Investitionen und von Importen etwa von Kohle, Eisen und Stahl.
+  regions: [nordamerika, suedliches-afrika]
+  themes: [politik, wirtschaft-handel]
+  persons: [ronald-reagan]
+  polities: [vereinigte-staaten]
+- id: unabhaengigkeit-namibias
+  title: Unabhängigkeit Namibias
+  date: "1990-03-21"
+  weight: 2
+  kind: gruendung
+  summary: Nach Abkommen zwischen Südafrika, Angola und Kuba vom Dezember 1988 und UN-überwachten Wahlen wird das seit 1915 von Südafrika beherrschte frühere Deutsch-Südwestafrika unabhängig; erster Präsident wird SWAPO-Führer Sam Nujoma.
+  regions: [suedliches-afrika]
+  themes: [politik]
+  places: [windhuk]
+  polities: [namibia, republik-suedafrika, kuba, vereinte-nationen]
+- id: freilassung-mandelas
+  title: Freilassung Nelson Mandelas
+  date: "1990-02-11"
+  weight: 1
+  kind: ereignis
+  summary: Neun Tage nachdem Präsident de Klerk die Aufhebung des Verbots von ANC, PAC und Kommunistischer Partei verkündet hat, verlässt Mandela nach 27 Jahren Haft das Victor-Verster-Gefängnis bei Paarl und spricht am Abend vor dem Rathaus von Kapstadt.
+  regions: [suedliches-afrika]
+  themes: [politik]
+  places: [kapstadt]
+  persons: [nelson-mandela, frederik-de-klerk]
+  polities: [republik-suedafrika]
+- id: wahlen-suedafrika-1994
+  title: Erste demokratische Wahlen in Südafrika
+  start: "1994-04-26"
+  end: "1994-04-29"
+  weight: 1
+  kind: ereignis
+  summary: Erstmals wählen alle erwachsenen Südafrikaner; der ANC erhält knapp 63 Prozent der Stimmen. Am 10. Mai wird Nelson Mandela in Pretoria als Präsident einer Regierung der Nationalen Einheit vereidigt.
+  regions: [suedliches-afrika]
+  themes: [politik, verfassung-recht]
+  places: [pretoria, union-buildings]
+  persons: [nelson-mandela, frederik-de-klerk]
+  polities: [republik-suedafrika]
+- id: wahrheits-und-versoehnungskommission
+  title: Wahrheits- und Versöhnungskommission
+  start: "1995-12-16"
+  end: "1998-10-29"
+  dateNote: Die Amnestieverfahren liefen bis 2001; die abschließenden Berichtsbände erschienen 2003.
+  weight: 2
+  kind: ereignis
+  summary: Unter Vorsitz Desmond Tutus untersucht eine Kommission die schweren Menschenrechtsverletzungen von 1960 bis 1994, hört in öffentlichen Sitzungen Tausende Opfer und kann Tätern bei vollständigem Geständnis politisch motivierter Taten Amnestie gewähren.
+  regions: [suedliches-afrika]
+  themes: [verfassung-recht, politik, geschichtsschreibung]
+  places: [kapstadt]
+  persons: [desmond-tutu]
+  polities: [republik-suedafrika]

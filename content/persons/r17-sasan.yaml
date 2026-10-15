@@ -1,0 +1,172 @@
+# Personen: Das Sasanidenreich (224–651)
+- id: artabanos-iv
+  name: Artabanos IV.
+  aliases: [Artabanos V., Ardawan, Artabanus]
+  died: "224"
+  roles: [König des Partherreichs]
+  summary: Letzter bedeutender Arsakidenkönig; fiel 224 in der Schlacht gegen den Aufsteiger Ardaschir aus der Persis. In der neueren Zählung wird er meist als Artabanos V. geführt.
+  regions: [iran, mesopotamien]
+  themes: [imperien, krieg-militaer]
+- id: ardaschir-i
+  name: Ardaschir I.
+  aliases: [Ardašir, Ardashir, Artaxerxes]
+  died: "~242"
+  roles: [Begründer des Sasanidenreichs, König der Könige]
+  summary: Lokaler Herrscher aus der Persis, der 224 den letzten Partherkönig besiegte und das Sasanidenreich begründete; nahm den Titel „König der Könige von Eran“ an und regierte bis um 240.
+  regions: [iran, mesopotamien]
+  themes: [imperien, politik]
+  places: [firuzabad, ktesiphon, naqsch-e-rostam]
+- id: schapur-i
+  name: Schapur I.
+  aliases: [Šābuhr I., Shapur I, Sapor]
+  died: "~270"
+  roles: [König der Könige]
+  summary: Sohn Ardaschirs (reg. um 240–270/272), der drei römische Kaiser besiegte und 260 Valerian gefangen nahm; ließ seine Taten in der dreisprachigen Inschrift an der Ka'ba-ye Zardoscht und in Felsreliefs verewigen und empfing den Religionsstifter Mani.
+  regions: [iran, mesopotamien, anatolien]
+  themes: [imperien, krieg-militaer]
+  places: [naqsch-e-rostam, bischapur, gundischapur]
+  related: [valerian, mani-religionsstifter, kirdir]
+- id: valerian
+  name: Valerian
+  aliases: [Publius Licinius Valerianus, Valerianus]
+  roles: [Römischer Kaiser]
+  summary: Römischer Kaiser (253–260), der 260 bei Edessa mit seinem Heer in die Gefangenschaft Schapurs I. geriet und in Persien starb – als erster römischer Kaiser in der Gefangenschaft eines äußeren Feindes.
+  regions: [anatolien, mesopotamien, italien]
+  themes: [imperien, krieg-militaer]
+  places: [edessa]
+  related: [schapur-i]
+- id: kirdir
+  name: Kirdir
+  aliases: [Kartir, Kerdir]
+  roles: [Zoroastrischer Priester, Hofbeamter]
+  summary: Zoroastrischer Priester, der unter Schapur I. und seinen Nachfolgern im späten 3. Jahrhundert zum mächtigsten Geistlichen des Reiches aufstieg; rühmt sich in eigenen Felsinschriften der Gründung von Feuerheiligtümern und der Verfolgung von Juden, Christen, Buddhisten und Manichäern.
+  regions: [iran]
+  themes: [religion]
+  places: [naqsch-e-rostam]
+  related: [schapur-i, bahram-i, mani-religionsstifter]
+- id: bahram-i
+  name: Bahram I.
+  aliases: [Wahram I., Varahran I.]
+  died: "~276"
+  roles: [König der Könige]
+  summary: Sohn Schapurs I. und König der Könige (um 271/273–276), unter dem Mani in Gefangenschaft starb; die Verfolgung der Manichäer wird mit dem Einfluss Kirdirs verbunden.
+  regions: [iran]
+  themes: [religion, politik]
+  related: [mani-religionsstifter, kirdir]
+- id: schapur-ii
+  name: Schapur II.
+  aliases: [Šābuhr II., Shapur II]
+  born: "309"
+  died: "379"
+  roles: [König der Könige]
+  summary: König der Könige (309–379), der schon als Kind gekrönt worden sein soll; führte lange Kriege gegen Rom, wehrte 363 den Feldzug Julians ab, gewann Nisibis zurück und verfolgte die Christen seines Reiches.
+  regions: [iran, mesopotamien]
+  themes: [imperien, krieg-militaer, religion]
+  places: [nisibis, ktesiphon]
+  related: [julian-apostata]
+- id: julian-apostata
+  name: Julian
+  aliases: [Julian Apostata, Flavius Claudius Iulianus, Julianus]
+  born: "331"
+  died: "363-06-26"
+  roles: [Römischer Kaiser]
+  summary: Römischer Kaiser (361–363), der sich vom Christentum abwandte; zog 363 mit einem großen Heer bis vor Ktesiphon, starb auf dem Rückzug an einer Verwundung. Sein Nachfolger Jovian musste Nisibis an die Perser abtreten.
+  regions: [mesopotamien, italien, anatolien]
+  themes: [imperien, krieg-militaer, religion]
+  places: [ktesiphon, nisibis]
+  related: [schapur-ii, ammianus-marcellinus]
+- id: ammianus-marcellinus
+  name: Ammianus Marcellinus
+  aliases: [Ammian]
+  born: "~330"
+  roles: [Offizier, Geschichtsschreiber]
+  summary: Römischer Offizier aus Antiochia, der die Belagerung Amidas 359 und den Perserfeldzug Julians 363 miterlebte und darüber in seinen lateinischen Res gestae berichtete; starb nach 391.
+  regions: [levante, mesopotamien, italien]
+  themes: [geschichtsschreibung]
+  places: [antiochia]
+  related: [julian-apostata]
+- id: peroz-i
+  name: Peroz I.
+  aliases: [Pērōz, Firuz]
+  died: "484"
+  roles: [König der Könige]
+  summary: König der Könige (459–484), der mehrfach gegen die Hephthaliten im Osten kämpfte, zeitweise in ihre Gefangenschaft geriet und 484 mit großen Teilen seines Heeres gegen sie fiel.
+  regions: [iran, zentralasien]
+  themes: [krieg-militaer, imperien]
+- id: kavadh-i
+  name: Kavadh I.
+  aliases: [Kawad I., Qobad, Kobad]
+  died: "531"
+  roles: [König der Könige]
+  summary: König der Könige (488–496 und 498/499–531), der mit dem Prediger Mazdak in Verbindung gebracht wird; abgesetzt, kehrte er mit hephthalitischer Hilfe zurück und führte ab 502 wieder Krieg gegen Ostrom.
+  regions: [iran, mesopotamien]
+  themes: [politik, religion]
+  related: [mazdak, chosrau-i]
+- id: mazdak
+  name: Mazdak
+  died: "~528"
+  certainty: unsicher
+  roles: [Religiöser Reformer]
+  summary: Zoroastrischer Prediger unter Kavadh I., dessen Bewegung nach den feindseligen späteren Quellen Gütergemeinschaft lehrte; er und seine Anhänger wurden um 528/531 auf Betreiben des Prinzen Chosrau hingerichtet. Lebensdaten und Lehre sind nur aus gegnerischer Überlieferung bekannt.
+  regions: [iran, mesopotamien]
+  themes: [religion, gesellschaft]
+  related: [kavadh-i, chosrau-i]
+- id: chosrau-ii
+  name: Chosrau II.
+  aliases: [Chosrau Parwez, Khosrow II, Xusrō II.]
+  died: "628"
+  roles: [König der Könige]
+  summary: König der Könige (590–628), der mit oströmischer Hilfe auf den Thron kam und nach der Ermordung des Kaisers Maurikios 602 einen Krieg begann, in dem die Perser Syrien, Jerusalem und Ägypten eroberten; nach der Niederlage gegen Herakleios 628 von seinem Sohn gestürzt und getötet.
+  regions: [iran, mesopotamien, levante]
+  themes: [imperien, krieg-militaer]
+  places: [ktesiphon, jerusalem]
+  related: [herakleios, maurikios]
+- id: maurikios
+  name: Maurikios
+  aliases: [Mauricius, Maurice]
+  born: "539"
+  died: "602-11-27"
+  roles: [Oströmischer Kaiser]
+  summary: Oströmischer Kaiser (582–602), der Chosrau II. 591 wieder auf den Thron verhalf und dafür große Teile Armeniens erhielt; 602 von meuternden Truppen gestürzt und mit seinen Söhnen hingerichtet.
+  regions: [anatolien, suedosteuropa]
+  themes: [imperien, krieg-militaer]
+  places: [istanbul]
+  related: [chosrau-ii]
+- id: yazdegerd-iii
+  name: Yazdegerd III.
+  aliases: [Yazdgird III., Jezdegerd III.]
+  born: "~624"
+  died: "651"
+  roles: [König der Könige]
+  summary: Letzter sasanidischer König der Könige (632–651), der als Jugendlicher auf den Thron kam; floh nach den Niederlagen gegen die arabischen Heere nach Osten und wurde 651 bei Merw getötet.
+  regions: [iran, zentralasien]
+  themes: [imperien]
+  places: [ktesiphon, merw]
+- id: rustam-farrochzad
+  name: Rostam Farrochzad
+  aliases: [Rustam, Rostam-e Farrochzad]
+  died: "~636"
+  roles: [Feldherr]
+  summary: Iranischer Adliger und Feldherr, der in den Jahren nach 630 die Regierung für die jungen Könige führte und als Oberbefehlshaber in der Schlacht von al-Qadisiyya fiel.
+  regions: [iran, mesopotamien]
+  themes: [krieg-militaer]
+  places: [qadisiyya]
+- id: sad-ibn-abi-waqqas
+  name: Sa'd ibn Abi Waqqas
+  aliases: [Saad ibn Abi Waqqas]
+  died: "~674"
+  roles: [Feldherr, Gefährte Muhammads]
+  summary: Früher Anhänger Muhammads aus Mekka und Befehlshaber der arabischen Truppen bei al-Qadisiyya und der Einnahme Ktesiphons; Gründer und erster Statthalter von Kufa.
+  regions: [arabische-halbinsel, mesopotamien]
+  themes: [krieg-militaer]
+  places: [qadisiyya, ktesiphon, kufa]
+  related: [umar-ibn-al-chattab]
+- id: firdausi
+  name: Firdausi
+  aliases: [Ferdousi, Ferdowsi, Abu'l-Qasem Ferdousi]
+  born: "~940"
+  died: "~1020"
+  roles: [Dichter]
+  summary: Persischer Dichter aus Tus in Chorasan, der um 1010 das Schahname vollendete, das Nationalepos Irans, das die Geschichte der iranischen Könige bis zum Ende der Sasaniden in neupersischen Versen erzählt.
+  regions: [iran, zentralasien]
+  themes: [kultur-kunst, geschichtsschreibung]

@@ -1,0 +1,162 @@
+# Personen: Apartheid in Südafrika (Runde 17)
+- id: nelson-mandela
+  name: Nelson Mandela
+  aliases: [Nelson Rolihlahla Mandela, Madiba]
+  born: "1918-07-18"
+  died: "2013-12-05"
+  roles: [Rechtsanwalt, ANC-Führer, Präsident Südafrikas]
+  summary: Jurist aus dem Ostkap, Mitbegründer der ANC-Jugendliga und 1961 von Umkhonto we Sizwe; im Rivonia-Prozess 1964 zu lebenslanger Haft verurteilt, 27 Jahre in Gefangenschaft, 1990 freigelassen, 1993 Friedensnobelpreis gemeinsam mit F. W. de Klerk, 1994–1999 erster demokratisch gewählter Präsident Südafrikas.
+  regions: [suedliches-afrika]
+  themes: [politik, verfassung-recht]
+  places: [johannesburg, robben-island, pretoria, liliesleaf]
+- id: steve-biko
+  name: Steve Biko
+  aliases: [Stephen Bantu Biko, Frank Talk]
+  born: "1946-12-18"
+  died: "1977-09-12"
+  roles: [Medizinstudent, Aktivist der Black-Consciousness-Bewegung]
+  summary: Mitbegründer der schwarzen Studentenorganisation SASO (1968/69) und wichtigster Denker der Black-Consciousness-Bewegung; 1973 mit einem Bann belegt, starb er im September 1977 an Kopfverletzungen, die ihm Sicherheitspolizisten in Haft zugefügt hatten.
+  regions: [suedliches-afrika]
+  themes: [politik, gesellschaft]
+  places: [pretoria]
+- id: desmond-tutu
+  name: Desmond Tutu
+  born: "1931-10-07"
+  died: "2021-12-26"
+  roles: [Anglikanischer Erzbischof von Kapstadt, Vorsitzender der Wahrheits- und Versöhnungskommission]
+  summary: Anglikanischer Geistlicher, der sich in den 1980er-Jahren gewaltfrei gegen die Apartheid und für Sanktionen einsetzte, 1984 den Friedensnobelpreis erhielt und 1995–1998 die Wahrheits- und Versöhnungskommission leitete.
+  regions: [suedliches-afrika]
+  themes: [religion, politik]
+  places: [kapstadt, johannesburg]
+- id: frederik-de-klerk
+  name: F. W. de Klerk
+  aliases: [Frederik Willem de Klerk]
+  born: "1936-03-18"
+  died: "2021-11-11"
+  roles: [Staatspräsident Südafrikas]
+  summary: Politiker der National Party, der 1989 P. W. Botha als Staatspräsident ablöste, im Februar 1990 die Aufhebung des Verbots von ANC und anderen Organisationen verkündete und mit Mandela den Übergang zur Demokratie aushandelte; 1993 Friedensnobelpreis, 1994–1996 stellvertretender Präsident.
+  regions: [suedliches-afrika]
+  themes: [politik]
+  places: [kapstadt, pretoria]
+- id: hendrik-verwoerd
+  name: Hendrik Verwoerd
+  aliases: [Hendrik Frensch Verwoerd]
+  born: "1901-09-08"
+  died: "1966-09-06"
+  roles: [Minister für Eingeborenenangelegenheiten, Premierminister Südafrikas]
+  summary: In Amsterdam geborener Soziologe und Publizist, als Minister (1950–1958) Architekt der Bantu-Erziehung und der Homeland-Politik, als Premierminister (1958–1966) verantwortlich für die Repression nach Sharpeville und die Ausrufung der Republik 1961; im Parlament in Kapstadt ermordet.
+  regions: [suedliches-afrika]
+  themes: [politik, gesellschaft]
+  places: [kapstadt]
+- id: daniel-malan
+  name: Daniel François Malan
+  aliases: [D. F. Malan]
+  born: "1874-05-22"
+  died: "1959-02-07"
+  roles: [Pfarrer der Niederländisch-Reformierten Kirche, Premierminister Südafrikas]
+  summary: Führer der „gereinigten“ National Party, der 1948 mit dem Programm der Apartheid die Wahl gewann und als Premierminister (1948–1954) die ersten Apartheidgesetze durchsetzte.
+  regions: [suedliches-afrika]
+  themes: [politik]
+  places: [kapstadt]
+- id: pieter-willem-botha
+  name: P. W. Botha
+  aliases: [Pieter Willem Botha]
+  born: "1916-01-12"
+  died: "2006-10-31"
+  roles: [Verteidigungsminister, Premierminister, Staatspräsident Südafrikas]
+  summary: Langjähriger Verteidigungsminister, 1978–1984 Premierminister und 1984–1989 Staatspräsident; verband begrenzte Reformen wie das Dreikammerparlament mit einer „totalen Strategie“ der Militarisierung, Ausnahmezuständen und Interventionen in den Nachbarstaaten.
+  regions: [suedliches-afrika]
+  themes: [politik, krieg-militaer]
+  places: [kapstadt]
+- id: oliver-tambo
+  name: Oliver Tambo
+  born: "1917-10-27"
+  died: "1993-04-24"
+  roles: [Rechtsanwalt, Präsident des ANC]
+  summary: Mitbegründer der ANC-Jugendliga und Kanzleipartner Mandelas in Johannesburg; ging 1960 ins Exil und hielt den verbotenen ANC von London und Lusaka aus als Präsident (1967–1991) zusammen.
+  regions: [suedliches-afrika]
+  themes: [politik]
+  places: [johannesburg]
+- id: walter-sisulu
+  name: Walter Sisulu
+  born: "1912-05-18"
+  died: "2003-05-05"
+  roles: [Generalsekretär des ANC]
+  summary: ANC-Politiker und Mentor Mandelas, Mitorganisator der Defiance Campaign 1952; im Rivonia-Prozess zu lebenslanger Haft verurteilt und 1989 freigelassen.
+  regions: [suedliches-afrika]
+  themes: [politik]
+  places: [johannesburg, robben-island]
+- id: albert-luthuli
+  name: Albert Luthuli
+  aliases: [Albert John Lutuli]
+  died: "1967-07-21"
+  roles: [Chief, Präsident des ANC]
+  summary: Lehrer, Christ und gewählter Chief in Natal, 1952–1967 Präsident des ANC und Verfechter des gewaltfreien Widerstands; erhielt 1961 den Friedensnobelpreis für 1960 als erster Afrikaner. Sein Geburtsjahr wird meist mit um 1898 angegeben.
+  regions: [suedliches-afrika]
+  themes: [politik, religion]
+- id: lilian-ngoyi
+  name: Lilian Ngoyi
+  born: "1911-09-25"
+  died: "1980-03-13"
+  roles: [Gewerkschafterin, Präsidentin der ANC-Frauenliga]
+  summary: Textilarbeiterin und Gewerkschafterin, die als Präsidentin der ANC-Frauenliga und der Federation of South African Women am 9. August 1956 gemeinsam mit Helen Joseph, Rahima Moosa und Sophia Williams den Frauenmarsch zu den Union Buildings anführte.
+  regions: [suedliches-afrika]
+  themes: [politik, gesellschaft]
+  places: [union-buildings, johannesburg]
+- id: helen-joseph
+  name: Helen Joseph
+  born: "1905-04-08"
+  died: "1992-12-25"
+  roles: [Sozialarbeiterin, Aktivistin]
+  summary: In England geborene weiße Aktivistin des Congress of Democrats und der Federation of South African Women, Mitanführerin des Frauenmarsches 1956 und Angeklagte im Hochverratsprozess; 1962 als erste Person in Südafrika unter Hausarrest gestellt.
+  regions: [suedliches-afrika]
+  themes: [politik, gesellschaft]
+  places: [union-buildings, johannesburg]
+- id: robert-sobukwe
+  name: Robert Sobukwe
+  aliases: [Robert Mangaliso Sobukwe]
+  born: "1924-12-05"
+  died: "1978-02-27"
+  roles: [Dozent, Präsident des Pan Africanist Congress]
+  summary: Afrikanistischer Politiker, der 1959 den Pan Africanist Congress (PAC) gründete und im März 1960 die Kampagne gegen die Passgesetze ausrief, die in Sharpeville endete; nach Ablauf seiner Haftstrafe durch eine eigens geschaffene Klausel jahrelang auf Robben Island festgehalten.
+  regions: [suedliches-afrika]
+  themes: [politik]
+  places: [sharpeville, robben-island]
+- id: hector-pieterson
+  name: Hector Pieterson
+  aliases: [Hector Pietersen, Zolile Hector Pieterson]
+  died: "1976-06-16"
+  roles: [Schüler]
+  summary: Zwölfjähriger Schüler, der am ersten Tag des Soweto-Aufstands von der Polizei erschossen wurde; das Foto Sam Nzimas, auf dem ein Jugendlicher den sterbenden Jungen trägt, wurde zu einem weltweit bekannten Bild der Apartheid.
+  regions: [suedliches-afrika]
+  themes: [gesellschaft, gewalt-genozid]
+  places: [soweto]
+- id: chris-hani
+  name: Chris Hani
+  aliases: [Martin Thembisile Hani]
+  born: "1942-06-28"
+  died: "1993-04-10"
+  roles: [Stabschef von Umkhonto we Sizwe, Generalsekretär der Kommunistischen Partei]
+  summary: Populärer Führer von Umkhonto we Sizwe und der South African Communist Party, dessen Ermordung durch einen rechtsextremen Attentäter im April 1993 das Land an den Rand des Bürgerkriegs brachte und den Wahltermin 1994 beschleunigte.
+  regions: [suedliches-afrika]
+  themes: [politik, krieg-militaer]
+- id: jan-smuts
+  name: Jan Smuts
+  aliases: [Jan Christiaan Smuts]
+  born: "1870-05-24"
+  died: "1950-09-11"
+  roles: [Burengeneral, Premierminister der Südafrikanischen Union]
+  summary: General der Buren im Südafrikanischen Krieg, später Verfechter der Aussöhnung mit Großbritannien, Premierminister 1919–1924 und 1939–1948, Mitgestalter des Völkerbunds und der UN-Charta; seine United Party unterlag 1948 der National Party.
+  regions: [suedliches-afrika, britische-inseln]
+  themes: [politik, krieg-militaer]
+  places: [pretoria]
+- id: winnie-madikizela-mandela
+  name: Winnie Madikizela-Mandela
+  aliases: [Winnie Mandela, Nomzamo Winifred Madikizela]
+  born: "1936-09-26"
+  died: "2018-04-02"
+  roles: [Sozialarbeiterin, Aktivistin, Politikerin]
+  summary: Sozialarbeiterin und 1958–1996 Ehefrau Nelson Mandelas, die während seiner Haft trotz Bann, Verbannung und Inhaftierung zu einer Symbolfigur des Widerstands wurde; die Wahrheitskommission machte sie Ende der 1980er-Jahre für Gewalttaten ihres Umfelds mitverantwortlich.
+  regions: [suedliches-afrika]
+  themes: [politik, gesellschaft]
+  places: [soweto]

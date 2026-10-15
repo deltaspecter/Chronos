@@ -1,0 +1,78 @@
+# Orte: Das Sasanidenreich (224–651)
+- id: firuzabad
+  name: Firuzabad (Ardaschir-Chwarrah)
+  aliases: [Gor, Ardašīr-Xwarrah, Ardashir-Khwarrah]
+  coords: [52.5300, 28.8500]
+  location: ungefaehr
+  categories: [stadt, fundstaette]
+  modernName: bei Firuzabad (Provinz Fars, Iran)
+  summary: Von Ardaschir I. in der Persis gegründete Rundstadt mit Palast und Felsreliefs, die seinen Sieg über den letzten Partherkönig zeigen.
+  regions: [iran]
+  themes: [imperien, archaeologie]
+- id: bischapur
+  name: Bischapur
+  aliases: [Bishapur, Bēšābuhr]
+  coords: [51.5700, 29.7800]
+  location: ungefaehr
+  categories: [stadt, fundstaette]
+  modernName: bei Kazerun (Provinz Fars, Iran)
+  summary: Von Schapur I. gegründete Residenzstadt in der Persis, nach antiken Angaben auch mit römischen Kriegsgefangenen erbaut; in der nahen Schlucht feiern Felsreliefs die Siege über die römischen Kaiser.
+  regions: [iran]
+  themes: [imperien, archaeologie, kultur-kunst]
+- id: gundischapur
+  name: Gundischapur
+  aliases: [Gondeschapur, Jundaysabur, Bet Lapat, Weh-Andiyog-Šābuhr]
+  coords: [48.5200, 32.2800]
+  location: ungefaehr
+  categories: [stadt, kulturzentrum]
+  modernName: Ruinen bei Shahabad nahe Dezful (Provinz Chuzestan, Iran)
+  summary: Stadt in Chuzestan, unter Schapur I. mit verschleppten Bewohnern aus dem römischen Antiochia neu besiedelt; Ort von Manis Tod, Bischofssitz der Kirche des Ostens und später berühmt für seine christlichen Ärzte.
+  regions: [iran]
+  themes: [wissenschaft-technik, religion]
+- id: nisibis
+  name: Nisibis
+  aliases: [Nusaybin, Nṣībīn]
+  coords: [41.2200, 37.0700]
+  categories: [stadt, kulturzentrum]
+  modernName: Nusaybin (Provinz Mardin, Türkei)
+  summary: Grenzstadt in Obermesopotamien, lange zwischen Rom und Persien umkämpft; 363 an die Sasaniden abgetreten, danach Sitz einer bedeutenden ostsyrischen theologischen Schule.
+  regions: [mesopotamien, anatolien]
+  themes: [krieg-militaer, religion]
+- id: takht-e-soleyman
+  name: Tacht-e Soleyman
+  aliases: [Takht-e Soleyman, Adur Gušnasp, Schiz]
+  coords: [47.2350, 36.6040]
+  categories: [heiligtum, fundstaette]
+  modernName: Provinz West-Aserbaidschan (Iran)
+  summary: Ruinen des großen Feuerheiligtums Adur Gušnasp an einem Kratersee in Aserbaidschan, eines der höchsten Heiligtümer des sasanidischen Zoroastrismus; 624 von Herakleios zerstört.
+  regions: [iran]
+  themes: [religion, archaeologie]
+- id: hira
+  name: al-Hira
+  aliases: [Hira, Hirta]
+  coords: [44.3700, 31.9800]
+  location: ungefaehr
+  categories: [stadt, hauptstadt]
+  modernName: bei Kufa (Irak)
+  summary: Hauptort der arabischen Lachmiden-Fürsten am Rand der Wüste westlich des Euphrat, Vorposten der Sasaniden gegen die Arabische Halbinsel und Zentrum des ostsyrischen Christentums.
+  regions: [mesopotamien]
+  themes: [politik, religion]
+- id: qadisiyya
+  name: al-Qadisiyya
+  aliases: [Qadisiya, Kadesia]
+  coords: [44.4000, 31.7000]
+  location: umstritten
+  categories: [schlachtfeld]
+  modernName: südwestlich von Kufa (Irak)
+  summary: Ort am Wüstenrand südwestlich von al-Hira, bei dem arabische Truppen in den 630er-Jahren das sasanidische Hauptheer schlugen; die genaue Lage ist nicht gesichert.
+  regions: [mesopotamien]
+  themes: [krieg-militaer]
+- id: nihawand
+  name: Nihawand
+  aliases: [Nahavand, Nehawand]
+  coords: [48.3700, 34.1900]
+  categories: [stadt, schlachtfeld]
+  modernName: Nahavand (Provinz Hamadan, Iran)
+  summary: Stadt im Zagros-Gebirge, bei der arabische Truppen um 642 das letzte große sasanidische Aufgebot besiegten.
+  regions: [iran]
+  themes: [krieg-militaer]

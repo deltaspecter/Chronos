@@ -1,0 +1,34 @@
+# Staaten: Apartheid in Südafrika (Runde 17)
+- id: suedafrikanische-union
+  name: Südafrikanische Union
+  aliases: [Union of South Africa, Unie van Suid-Afrika]
+  start: "1910-05-31"
+  end: "1961-05-31"
+  capital: pretoria
+  spanNote: Pretoria war Regierungssitz, Kapstadt Sitz des Parlaments, Bloemfontein Sitz des Obersten Gerichts.
+  summary: Aus der Kapkolonie, Natal, Transvaal und der Oranjerivier-Kolonie gebildeter Staat mit Dominion-Status im Britischen Empire; das Wahlrecht blieb mit Ausnahme der Kapprovinz Weißen vorbehalten.
+  regions: [suedliches-afrika]
+  themes: [politik, imperien]
+  successors: [republik-suedafrika]
+  weight: 2
+- id: republik-suedafrika
+  name: Republik Südafrika
+  aliases: [Südafrika, Republic of South Africa, Republiek van Suid-Afrika]
+  start: "1961-05-31"
+  capital: pretoria
+  spanNote: Nach einem Referendum der weißen Wähler 1960 Republik und Austritt aus dem Commonwealth; seit 1994 demokratischer Verfassungsstaat.
+  summary: Nachfolgestaat der Südafrikanischen Union, bis 1994 Apartheidstaat unter Herrschaft der National Party, seit den Wahlen vom April 1994 eine parlamentarische Demokratie mit gleichen Rechten für alle.
+  regions: [suedliches-afrika]
+  themes: [politik]
+  predecessors: [suedafrikanische-union]
+  weight: 2
+- id: transkei
+  name: Transkei
+  start: "1976-10-26"
+  end: "1994-04-27"
+  spanNote: Seit 1963 Selbstverwaltung; die „Unabhängigkeit“ von 1976 erkannte außer Südafrika (und den anderen Homelands) kein Staat an.
+  summary: Erstes der vier formal „unabhängigen“ Homelands der Apartheid, bestimmt für Xhosa-Sprecher im Ostkap; 1994 wieder in Südafrika eingegliedert.
+  regions: [suedliches-afrika]
+  themes: [politik]
+  successors: [republik-suedafrika]
+  weight: 3

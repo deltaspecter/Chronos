@@ -1,0 +1,41 @@
+# Begriffe: Apartheid in Südafrika (Runde 17)
+- id: apartheid
+  name: Apartheid
+  aliases: [Getrennte Entwicklung, Separate Development, Rassentrennung in Südafrika]
+  definition: Afrikaans für „Getrenntheit“; das 1948–1994 von der National Party in Südafrika errichtete System gesetzlich festgeschriebener Rassentrennung und weißer Vorherrschaft, das alle Menschen einer „Rasse“ zuordnete und Wohnort, Arbeit, Bildung, Ehe und politische Rechte danach regelte. Die UN-Generalversammlung erklärte Apartheid 1973 zu einem Verbrechen gegen die Menschlichkeit.
+  themes: [verfassung-recht, gesellschaft, politik]
+- id: homeland
+  name: Homeland
+  aliases: [Bantustan, Bantustans, Heimatland]
+  definition: Von der Apartheidregierung auf den Reservaten von 1913/1936 gebildete, zersplitterte Gebiete für einzelne afrikanische „Völker“, in denen Schwarze ihre Bürgerrechte ausüben sollten; Transkei, Bophuthatswana, Venda und Ciskei wurden 1976–1981 formal „unabhängig“, international aber nie anerkannt. 1994 wurden alle wieder eingegliedert.
+  themes: [politik, verfassung-recht]
+- id: passgesetze
+  name: Passgesetze
+  aliases: [Pass Laws, Passbuch, Dompas, Reference Book]
+  definition: Vorschriften, die schwarze Männer und ab den 1950er-Jahren auch Frauen verpflichteten, ein Passbuch mit Angaben zu Wohnrecht und Arbeitsstelle mitzuführen; sie dienten der Kontrolle der Wanderarbeit und des Zuzugs in die Städte. Millionen wurden wegen Verstößen verhaftet, 1986 wurden die Gesetze aufgehoben.
+  themes: [verfassung-recht, migration, sklaverei-unfreiheit]
+- id: black-consciousness
+  name: Black Consciousness
+  aliases: [Schwarzes Bewusstsein, Black Consciousness Movement]
+  definition: Um 1970 vor allem von Steve Biko geprägte Bewegung, die die psychische Befreiung der Unterdrückten von Minderwertigkeitsgefühlen zur Voraussetzung politischer Befreiung erklärte; „schwarz“ schloss Afrikaner, Inder und „Coloureds“ ein, weiße Liberale sollten die Führung nicht übernehmen.
+  themes: [politik, gesellschaft]
+- id: afrikaner
+  name: Afrikaner
+  aliases: [Buren, Boers, Afrikaaner]
+  definition: Afrikaans sprechende weiße Südafrikaner, überwiegend Nachfahren niederländischer, deutscher und französischer Siedler seit dem 17. Jahrhundert; ihr im 20. Jahrhundert organisierter Nationalismus trug die National Party und die Apartheid.
+  themes: [gesellschaft, politik]
+- id: zwangsumsiedlung
+  name: Zwangsumsiedlung
+  aliases: [Forced Removals, Umsiedlung]
+  definition: Unter der Apartheid die erzwungene Verlegung von Menschen aus „weißen“ Gebieten in Townships oder Homelands, etwa nach dem Group Areas Act oder bei der Räumung sogenannter „schwarzer Flecken“ auf dem Land; das Surplus People Project schätzte die Zahl der Betroffenen 1960–1983 auf rund 3,5 Millionen.
+  themes: [migration, gesellschaft, gewalt-genozid]
+- id: anti-apartheid-bewegung
+  name: Anti-Apartheid-Bewegung
+  aliases: [Anti-Apartheid Movement, Boykottbewegung]
+  definition: Ab 1959 von Großbritannien ausgehende, weltweite zivilgesellschaftliche Bewegung gegen die Apartheid, die Konsum-, Sport- und Kulturboykotte, den Abzug von Investitionen (Divestment) und staatliche Sanktionen forderte.
+  themes: [politik, wirtschaft-handel]
+- id: wahrheitskommission
+  name: Wahrheitskommission
+  aliases: [Truth Commission, Wahrheits- und Versöhnungskommission]
+  definition: Nicht-gerichtliches Gremium, das nach Diktatur oder Bürgerkrieg Menschenrechtsverbrechen untersucht, Opfer anhört und einen öffentlichen Bericht vorlegt; die südafrikanische Kommission (1995–1998) verband dies erstmals mit individueller Amnestie gegen Geständnis und wurde weltweit zum Vorbild.
+  themes: [verfassung-recht, geschichtsschreibung]

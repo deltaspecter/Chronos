@@ -1,0 +1,35 @@
+# Staaten: Das Sasanidenreich (224–651)
+- id: partherreich
+  name: Partherreich
+  aliases: [Arsakidenreich, Arsakiden, Parther]
+  start: "~-247"
+  end: "224"
+  spanNote: Der Beginn wird traditionell mit dem Jahr 247 v. Chr. angesetzt, von dem an die arsakidische Ära zählt; das Reich entstand allmählich aus dem Zerfall der seleukidischen Herrschaft im Osten.
+  capital: ktesiphon
+  summary: Von der Dynastie der Arsakiden beherrschtes Reich zwischen Euphrat und Zentralasien, ein lockerer Verbund von Königtümern und Adelshäusern; über zwei Jahrhunderte Gegner Roms, 224 von dem Sasaniden Ardaschir I. abgelöst.
+  regions: [iran, mesopotamien, zentralasien]
+  themes: [imperien]
+  predecessors: [seleukidenreich]
+  successors: [sasanidenreich]
+  weight: 2
+- id: hephthaliten
+  name: Reich der Hephthaliten
+  aliases: [Hephthaliten, Weiße Hunnen, Hephthalites]
+  start: "~450"
+  end: "~560"
+  spanNote: Anfang und Ende sind nur ungefähr bestimmbar; nach der Niederlage gegen Sasaniden und Türken um 560 bestanden hephthalitische Fürstentümer lokal weiter.
+  summary: Herrschaftsverband in Baktrien und Transoxanien, der dem Sasanidenreich im späten 5. Jahrhundert schwere Niederlagen beibrachte und Tribute erzwang; um 560 von Chosrau I. und den Türken zerschlagen.
+  regions: [zentralasien, suedasien]
+  themes: [imperien, krieg-militaer]
+  weight: 3
+- id: lachmiden
+  name: Lachmiden
+  aliases: [Lakhmiden, Nasriden von al-Hira]
+  start: "~300"
+  end: "602"
+  spanNote: Die Anfänge der Dynastie liegen im Dunkeln; 602 setzte Chosrau II. den letzten Lachmidenkönig ab.
+  capital: hira
+  summary: Arabische Fürstendynastie in al-Hira, die als Verbündete der Sasaniden die Wüstengrenze gegen Arabien und das oströmische Syrien sicherte; ihre Absetzung 602 schwächte die persische Grenze vor den arabischen Eroberungen.
+  regions: [mesopotamien, arabische-halbinsel]
+  themes: [politik, krieg-militaer]
+  weight: 3

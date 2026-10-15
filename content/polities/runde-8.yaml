@@ -31,6 +31,7 @@
   summary: Persisches Großreich mit der Hauptstadt Ktesiphon am Tigris, über vier Jahrhunderte der große Rivale Roms und Ostroms; den arabisch-islamischen Eroberungen erlegen.
   regions: [iran, mesopotamien, zentralasien]
   themes: [imperien, religion]
+  predecessors: [partherreich]
   successors: [umayyaden-kalifat]
   weight: 2
 # Staaten: Aufklärung

@@ -1,0 +1,175 @@
+# Ereignisse: Das Sasanidenreich (224–651)
+- id: schlacht-bei-hormozgan
+  title: Schlacht bei Hormozgan
+  aliases: [Schlacht von Hormizdagan]
+  date: "224"
+  certainty: wahrscheinlich
+  dateNote: Spätere Überlieferung nennt den 28. April 224; Ort und Tag sind nicht sicher.
+  weight: 2
+  kind: schlacht
+  summary: Ardaschir aus der Persis besiegt den Partherkönig Artabanos IV., der in der Schlacht fällt; damit endet die Herrschaft der Arsakiden, und die Sasaniden übernehmen das Reich.
+  regions: [iran]
+  themes: [krieg-militaer, imperien]
+  persons: [ardaschir-i, artabanos-iv]
+  polities: [partherreich, sasanidenreich]
+- id: gefangennahme-valerians
+  title: Gefangennahme Kaiser Valerians
+  date: "260"
+  weight: 2
+  kind: schlacht
+  summary: Schapur I. schlägt bei Edessa ein römisches Heer und nimmt Kaiser Valerian mit seinen Truppen gefangen; die Gefangenen werden in Persien angesiedelt, der Kaiser stirbt in Gefangenschaft.
+  regions: [mesopotamien, anatolien]
+  themes: [krieg-militaer, imperien]
+  places: [edessa]
+  persons: [schapur-i, valerian]
+  polities: [sasanidenreich, roemisches-kaiserreich]
+- id: tod-manis
+  title: Tod Manis in Gefangenschaft
+  date: "~276"
+  certainty: wahrscheinlich
+  dateNote: Die Datierungen schwanken zwischen 274 und 277.
+  weight: 3
+  kind: ereignis
+  summary: Unter König Bahram I. wird der Religionsstifter Mani in Gundischapur eingekerkert und stirbt in Ketten; seine Anhänger werden verfolgt.
+  regions: [iran]
+  themes: [religion]
+  places: [gundischapur]
+  persons: [mani-religionsstifter, bahram-i, kirdir]
+  polities: [sasanidenreich]
+- id: perserfeldzug-julians
+  title: Perserfeldzug Julians
+  date: "363"
+  weight: 2
+  kind: krieg
+  summary: Kaiser Julian dringt mit einem großen Heer bis vor Ktesiphon vor, muss aber umkehren und stirbt auf dem Rückzug; sein Nachfolger Jovian tritt Nisibis und Gebiete östlich des Tigris an Schapur II. ab.
+  regions: [mesopotamien]
+  themes: [krieg-militaer]
+  places: [ktesiphon, nisibis]
+  persons: [julian-apostata, schapur-ii, ammianus-marcellinus]
+  polities: [roemisches-kaiserreich, sasanidenreich]
+- id: synode-von-seleukia-ktesiphon-410
+  title: Synode von Seleukia-Ktesiphon
+  date: "410"
+  weight: 3
+  kind: ereignis
+  summary: Mit Billigung König Yazdegerds I. ordnen die Bischöfe des Sasanidenreichs ihre Kirche unter dem Bischof der Hauptstadt und übernehmen die Beschlüsse von Nikaia; Beginn der Kirche des Ostens als eigener Organisation.
+  regions: [mesopotamien]
+  themes: [religion]
+  places: [ktesiphon]
+  polities: [sasanidenreich]
+- id: niederlage-peroz-484
+  title: Niederlage und Tod Peroz' I. gegen die Hephthaliten
+  date: "484"
+  weight: 3
+  kind: schlacht
+  summary: König Peroz I. fällt mit großen Teilen seines Heeres im Kampf gegen die Hephthaliten; das Reich muss für Jahrzehnte Tribut zahlen.
+  regions: [zentralasien, iran]
+  themes: [krieg-militaer]
+  persons: [peroz-i]
+  polities: [sasanidenreich, hephthaliten]
+- id: mazdakitenbewegung
+  title: Mazdakitenbewegung
+  start: "~490"
+  end: "~531"
+  certainty: umstritten
+  dateNote: Anfang und Ende sind ungenau überliefert; die Hinrichtung der Mazdakiten wird zwischen 524 und 531 datiert.
+  weight: 3
+  kind: entwicklung
+  summary: Unter Kavadh I. gewinnt der Prediger Mazdak Einfluss; spätere Quellen berichten von Forderungen nach Gütergemeinschaft und Unruhen gegen Adel und Priester. Der Kronprinz Chosrau lässt die Anhänger schließlich hinrichten.
+  regions: [iran, mesopotamien]
+  themes: [religion, gesellschaft]
+  persons: [mazdak, kavadh-i, chosrau-i]
+  polities: [sasanidenreich]
+- id: reformen-chosraus-i
+  title: Reformen Chosraus I.
+  start: "~531"
+  end: "579"
+  certainty: wahrscheinlich
+  weight: 2
+  kind: entwicklung
+  summary: Chosrau I. ordnet die Grundsteuer nach Landvermessung neu, führt eine Kopfsteuer ein, teilt das Heer unter vier Oberbefehlshaber und stützt sich auf den landbesitzenden Kleinadel; Umfang und Zeitpunkt der Maßnahmen sind nur aus späteren Quellen bekannt.
+  regions: [iran, mesopotamien]
+  themes: [verfassung-recht, wirtschaft-handel, krieg-militaer]
+  persons: [chosrau-i]
+  polities: [sasanidenreich]
+- id: persisch-byzantinischer-krieg-602-628
+  title: Persisch-oströmischer Krieg 602–628
+  aliases: [Letzter großer Krieg der Antike]
+  start: "602"
+  end: "628"
+  weight: 1
+  kind: krieg
+  summary: Nach der Ermordung des Kaisers Maurikios beginnt Chosrau II. einen Krieg, in dem die Perser Syrien, Palästina und Ägypten erobern und bis an den Bosporus vordringen; ab 622 wendet Herakleios das Blatt, 628 wird Chosrau gestürzt. Beide Reiche gehen erschöpft aus dem Krieg hervor.
+  regions: [mesopotamien, levante, anatolien, aegypten]
+  themes: [krieg-militaer, imperien]
+  persons: [chosrau-ii, herakleios, maurikios]
+  polities: [sasanidenreich, byzantinisches-reich]
+- id: persische-eroberung-jerusalems-614
+  title: Persische Eroberung Jerusalems
+  date: "614"
+  weight: 2
+  kind: schlacht
+  summary: Persische Truppen nehmen Jerusalem nach kurzer Belagerung ein; viele Einwohner werden getötet oder verschleppt, das Kreuzesreliquiar wird nach Ktesiphon gebracht.
+  regions: [levante]
+  themes: [krieg-militaer, religion]
+  places: [jerusalem]
+  persons: [chosrau-ii]
+  polities: [sasanidenreich, byzantinisches-reich]
+- id: belagerung-konstantinopels-626
+  title: Belagerung Konstantinopels 626
+  date: "626"
+  weight: 2
+  kind: schlacht
+  summary: Awaren und Slawen belagern Konstantinopel von Westen, während ein persisches Heer am asiatischen Ufer steht; die Stadt hält stand, weil die Verbündeten den Bosporus nicht überwinden.
+  regions: [suedosteuropa, anatolien]
+  themes: [krieg-militaer]
+  places: [istanbul]
+  polities: [sasanidenreich, byzantinisches-reich]
+- id: schlacht-bei-ninive-627
+  title: Schlacht bei Ninive
+  date: "627-12-12"
+  weight: 2
+  kind: schlacht
+  summary: Herakleios schlägt nahe den Ruinen von Ninive ein persisches Heer und zieht weiter in Richtung Ktesiphon; wenige Wochen später wird Chosrau II. von seinem Sohn gestürzt.
+  regions: [mesopotamien]
+  themes: [krieg-militaer]
+  places: [ninive]
+  persons: [herakleios, chosrau-ii]
+  polities: [byzantinisches-reich, sasanidenreich]
+- id: schlacht-von-qadisiyya
+  title: Schlacht von al-Qadisiyya
+  date: "~636"
+  certainty: umstritten
+  dateNote: Die arabischen Überlieferungen datieren die Schlacht zwischen 635 und 638; meist wird 636 angenommen.
+  weight: 1
+  kind: schlacht
+  summary: Arabische Truppen unter Sa'd ibn Abi Waqqas besiegen das sasanidische Hauptheer unter Rostam Farrochzad, der fällt; der Weg nach Ktesiphon ist frei.
+  regions: [mesopotamien]
+  themes: [krieg-militaer]
+  places: [qadisiyya]
+  persons: [sad-ibn-abi-waqqas, rustam-farrochzad, yazdegerd-iii]
+  polities: [kalifat-der-rechtgeleiteten, sasanidenreich]
+- id: schlacht-bei-nihawand
+  title: Schlacht bei Nihawand
+  date: "~642"
+  certainty: wahrscheinlich
+  dateNote: Die Überlieferung schwankt zwischen 641 und 642.
+  weight: 2
+  kind: schlacht
+  summary: Arabische Truppen schlagen im Zagros das letzte große Aufgebot Yazdegerds III.; die arabische Tradition nennt sie den „Sieg der Siege“, danach fallen die iranischen Provinzen nacheinander.
+  regions: [iran]
+  themes: [krieg-militaer]
+  places: [nihawand]
+  persons: [yazdegerd-iii, umar-ibn-al-chattab]
+  polities: [kalifat-der-rechtgeleiteten, sasanidenreich]
+- id: tod-yazdegerds-iii
+  title: Tod Yazdegerds III.
+  date: "651"
+  weight: 2
+  kind: ereignis
+  summary: Der letzte Sasanidenkönig wird auf der Flucht in der Gegend von Merw getötet, nach der Überlieferung von einem Müller, bei dem er Zuflucht gesucht hatte; das Sasanidenreich endet.
+  regions: [zentralasien]
+  themes: [imperien]
+  places: [merw]
+  persons: [yazdegerd-iii]
+  polities: [sasanidenreich]

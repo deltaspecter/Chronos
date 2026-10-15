@@ -1,0 +1,36 @@
+# Begriffe: Das Sasanidenreich (224–651)
+- id: zoroastrismus
+  name: Zoroastrismus
+  aliases: [Zarathustrismus, Mazdaismus, Mazdayasna, Parsismus]
+  definition: Auf den iranischen Propheten Zarathustra zurückgeführte Religion, die den weisen Herrn Ahura Mazda verehrt und einen Kampf zwischen guten und bösen Mächten lehrt; im Sasanidenreich die Religion des Königshauses, mit Feuerkult und einer mächtigen Priesterschaft. Heute leben ihre Anhänger vor allem in Iran und als Parsen in Indien.
+  themes: [religion]
+- id: feuertempel
+  name: Feuerheiligtum
+  aliases: [Feuertempel, Atesch, Ātaxš]
+  definition: Zoroastrischer Kultbau, in dem ein geweihtes Feuer ständig unterhalten wird; die Sasaniden stifteten Feuer für das Seelenheil von Königen, und die großen Reichsfeuer galten als Mittelpunkte von Herrschaft und Religion.
+  themes: [religion]
+- id: eranschahr
+  name: Eranschahr
+  aliases: [Ērānšahr, Eran, Iranschahr, Eran und Aneran]
+  definition: Mittelpersische Bezeichnung für das „Reich der Iraner“, mit der die Sasaniden ihr Herrschaftsgebiet als politische und religiöse Einheit fassten; der Königstitel „König der Könige von Eran und Aneran“ stellte daneben die Herrschaft über Nicht-Iraner.
+  themes: [politik, imperien]
+- id: mittelpersisch
+  name: Mittelpersisch
+  aliases: [Pahlavi, Pehlevi]
+  definition: Iranische Sprache der Sasanidenzeit und Amtssprache des Reiches, geschrieben in einer aus dem Aramäischen abgeleiteten Schrift; überliefert in Inschriften, auf Münzen und in zoroastrischen Büchern. Aus ihr ging das Neupersische hervor.
+  themes: [schrift-medien]
+- id: kirche-des-ostens
+  name: Kirche des Ostens
+  aliases: [Ostsyrische Kirche, Persische Kirche, Nestorianer]
+  definition: Christliche Kirche im Sasanidenreich mit dem Bischof von Seleukia-Ktesiphon an der Spitze, ab 410 als eigene Kirchenorganisation verfasst und mit syrischer Kirchensprache; im Westen oft abwertend als „nestorianisch“ bezeichnet. Ihre Mission reichte bis Indien und China.
+  themes: [religion]
+- id: mazdakiten
+  name: Mazdakiten
+  aliases: [Mazdakismus, Mazdakitenbewegung]
+  definition: Religiös-soziale Bewegung um den Prediger Mazdak im späten 5. und frühen 6. Jahrhundert, der nach späteren, feindlichen Quellen eine Gleichverteilung von Besitz und Frauen forderte; um 528/531 blutig unterdrückt. Lehre und Umfang sind umstritten.
+  themes: [religion, gesellschaft]
+- id: dihqan
+  name: Dihqan
+  aliases: [Dehqan, Dehgan, Dihkan]
+  definition: Angehöriger des landbesitzenden Kleinadels im späten Sasanidenreich, der in den Dörfern Steuern einzog und Krieger stellte; die Dihqane blieben nach der arabischen Eroberung lange Träger der iranischen Überlieferung.
+  themes: [gesellschaft, wirtschaft-handel]

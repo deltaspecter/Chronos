@@ -1,0 +1,185 @@
+# Quellen und Literatur: Das Sasanidenreich (224–651)
+
+# --- Primärquellen ---
+- id: q-schapur-kaaba-zardoscht
+  kind: primaer
+  authors: ["Schapur I."]
+  title: Inschrift Schapurs I. an der Ka'ba-ye Zardoscht (ŠKZ, „Res gestae divi Saporis“)
+  written: Naqsch-e Rostam (Persis), um 260–270
+  note: Dreisprachiger Tatenbericht (Mittelpersisch, Parthisch, Griechisch) an einem turmartigen Bau bei Naqsch-e Rostam; schildert die Siege über Gordian III., Philippus Arabs und Valerian, zählt die Provinzen des Reiches auf und stiftet Feuer für die Seelen der Königsfamilie.
+- id: q-kirdir-inschriften
+  kind: primaer
+  authors: ["Kirdir"]
+  title: Inschriften des Kirdir
+  written: Persis, spätes 3. Jahrhundert
+  note: Vier mittelpersische Felsinschriften des zoroastrischen Priesters (u. a. an der Ka'ba-ye Zardoscht und in Sar Maschhad), die seinen Aufstieg unter mehreren Königen, die Gründung von Feuerheiligtümern und die Bekämpfung anderer Religionen schildern.
+- id: q-sasanidische-muenzen
+  kind: primaer
+  title: Sasanidische Münzprägung
+  written: 3.–7. Jahrhundert, Münzstätten im ganzen Reich
+  note: Vor allem Silberdrachmen mit Königsbild, Namen und Titel in mittelpersischer Schrift auf der Vorderseite und einem Feueraltar auf der Rückseite; ab dem späten 5. Jahrhundert mit Münzstätten- und Jahresangaben.
+- id: q-sebeos
+  kind: primaer
+  authors: ["Sebeos (zugeschrieben)"]
+  title: Armenische Geschichte
+  written: Armenien, um 660
+  note: Armenisches Geschichtswerk eines Zeitgenossen über die Kriege zwischen Persern und Römern vom späten 6. Jahrhundert bis zu den arabischen Eroberungen; die Zuschreibung an einen Bischof Sebeos ist unsicher.
+- id: q-schahname
+  kind: primaer
+  authors: ["Firdausi"]
+  title: Schahname (Buch der Könige)
+  written: Tus (Chorasan), abgeschlossen um 1010
+  note: Neupersisches Epos von rund 50.000 Doppelversen über die iranischen Könige von der Urzeit bis Yazdegerd III.; für die Sasanidenzeit keine zeitgenössische Quelle, sondern Bearbeitung einer späten, höfisch geprägten Überlieferung.
+
+# --- Editionen und Übersetzungen ---
+- id: huyse-1999
+  kind: edition
+  authors: ["Huyse, Philip"]
+  title: Die dreisprachige Inschrift Šābuhrs I. an der Ka'ba-i Zardušt (ŠKZ)
+  place: London
+  publisher: School of Oriental and African Studies
+  year: 1999
+  note: 2 Bände, Corpus Inscriptionum Iranicarum III, 1, 1.
+- id: noeldeke-1879
+  kind: edition
+  authors: ["Nöldeke, Theodor"]
+  title: Geschichte der Perser und Araber zur Zeit der Sasaniden
+  subtitle: Aus der arabischen Chronik des Tabari übersetzt und mit ausführlichen Erläuterungen und Ergänzungen versehen
+  place: Leiden
+  publisher: Brill
+  year: 1879
+- id: bosworth-1999
+  kind: edition
+  authors: ["Bosworth, C. E."]
+  title: The History of al-Ṭabarī, Volume V
+  subtitle: The Sāsānids, the Byzantines, the Lakhmids, and Yemen
+  place: Albany
+  publisher: State University of New York Press
+  year: 1999
+- id: greatrex-lieu-2002
+  kind: edition
+  authors: ["Greatrex, Geoffrey", "Lieu, Samuel N. C."]
+  title: The Roman Eastern Frontier and the Persian Wars, Part II, AD 363–630
+  subtitle: A Narrative Sourcebook
+  place: London / New York
+  publisher: Routledge
+  year: 2002
+- id: thomson-howard-johnston-1999
+  kind: edition
+  authors: ["Thomson, Robert W.", "Howard-Johnston, James"]
+  title: The Armenian History Attributed to Sebeos
+  place: Liverpool
+  publisher: Liverpool University Press
+  year: 1999
+  note: 2 Teile, Translated Texts for Historians 31.
+
+# --- Forschung ---
+- id: daryaee-2009
+  kind: sekundaer
+  authors: ["Daryaee, Touraj"]
+  title: Sasanian Persia
+  subtitle: The Rise and Fall of an Empire
+  place: London / New York
+  publisher: I. B. Tauris
+  year: 2009
+- id: schippmann-1990
+  kind: sekundaer
+  authors: ["Schippmann, Klaus"]
+  title: Grundzüge der Geschichte des sasanidischen Reiches
+  place: Darmstadt
+  publisher: Wissenschaftliche Buchgesellschaft
+  year: 1990
+- id: christensen-1936
+  kind: sekundaer
+  authors: ["Christensen, Arthur"]
+  title: L'Iran sous les Sassanides
+  place: Kopenhagen
+  publisher: Levin & Munksgaard
+  year: 1936
+  note: Zweite, erweiterte Auflage 1944.
+- id: pourshariati-2008
+  kind: sekundaer
+  authors: ["Pourshariati, Parvaneh"]
+  title: Decline and Fall of the Sasanian Empire
+  subtitle: The Sasanian-Parthian Confederacy and the Arab Conquest of Iran
+  place: London / New York
+  publisher: I. B. Tauris
+  year: 2008
+- id: canepa-2009
+  kind: sekundaer
+  authors: ["Canepa, Matthew P."]
+  title: The Two Eyes of the Earth
+  subtitle: Art and Ritual of Kingship between Rome and Sasanian Iran
+  place: Berkeley
+  publisher: University of California Press
+  year: 2009
+- id: dignas-winter-2007
+  kind: sekundaer
+  authors: ["Dignas, Beate", "Winter, Engelbert"]
+  title: Rome and Persia in Late Antiquity
+  subtitle: Neighbours and Rivals
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2007
+- id: howard-johnston-2010
+  kind: sekundaer
+  authors: ["Howard-Johnston, James"]
+  title: Witnesses to a World Crisis
+  subtitle: Historians and Histories of the Middle East in the Seventh Century
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2010
+- id: kaegi-2003
+  kind: sekundaer
+  authors: ["Kaegi, Walter E."]
+  title: Heraclius, Emperor of Byzantium
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2003
+- id: payne-2015
+  kind: sekundaer
+  authors: ["Payne, Richard E."]
+  title: A State of Mixture
+  subtitle: Christians, Zoroastrians, and Iranian Political Culture in Late Antiquity
+  place: Oakland
+  publisher: University of California Press
+  year: 2015
+- id: boyce-1979
+  kind: sekundaer
+  authors: ["Boyce, Mary"]
+  title: Zoroastrians
+  subtitle: Their Religious Beliefs and Practices
+  place: London
+  publisher: Routledge & Kegan Paul
+  year: 1979
+- id: crone-2012
+  kind: sekundaer
+  authors: ["Crone, Patricia"]
+  title: The Nativist Prophets of Early Islamic Iran
+  subtitle: Rural Revolt and Local Zoroastrianism
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2012
+- id: rezakhani-2017
+  kind: sekundaer
+  authors: ["Rezakhani, Khodadad"]
+  title: ReOrienting the Sasanians
+  subtitle: East Iran in Late Antiquity
+  place: Edinburgh
+  publisher: Edinburgh University Press
+  year: 2017
+- id: kennedy-2007
+  kind: sekundaer
+  authors: ["Kennedy, Hugh"]
+  title: The Great Arab Conquests
+  subtitle: How the Spread of Islam Changed the World We Live In
+  place: London
+  publisher: Weidenfeld & Nicolson
+  year: 2007
+- id: goebl-1968
+  kind: sekundaer
+  authors: ["Göbl, Robert"]
+  title: Sasanidische Numismatik
+  place: Braunschweig
+  publisher: Klinkhardt & Biermann
+  year: 1968

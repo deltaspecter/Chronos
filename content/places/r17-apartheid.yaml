@@ -1,0 +1,82 @@
+# Orte: Apartheid in Südafrika (Runde 17)
+- id: johannesburg
+  name: Johannesburg
+  aliases: [Egoli, Jo'burg]
+  coords: [28.0473, -26.2041]
+  categories: [stadt]
+  modernName: Johannesburg (Südafrika)
+  summary: Nach den Goldfunden am Witwatersrand 1886 gegründete Bergbaustadt, rasch die größte Stadt und das wirtschaftliche Zentrum Südafrikas; Ziel der Arbeitsmigration aus dem ganzen südlichen Afrika.
+  regions: [suedliches-afrika]
+  themes: [wirtschaft-handel, migration]
+- id: pretoria
+  name: Pretoria
+  aliases: [Tshwane]
+  coords: [28.1881, -25.7461]
+  categories: [stadt, hauptstadt]
+  modernName: Pretoria (Stadtgemeinde Tshwane, Südafrika)
+  summary: 1855 gegründete Hauptstadt der Südafrikanischen Republik (Transvaal), seit 1910 Regierungssitz der Südafrikanischen Union; Ort des Rivonia-Prozesses und der Amtseinführung Mandelas 1994.
+  regions: [suedliches-afrika]
+  themes: [politik]
+- id: union-buildings
+  name: Union Buildings
+  coords: [28.2120, -25.7403]
+  categories: [hauptstadt]
+  modernName: Union Buildings, Pretoria
+  summary: 1913 fertiggestellter Regierungssitz in Pretoria nach Plänen Herbert Bakers; Ziel des Frauenmarsches vom 9. August 1956 und Schauplatz der Amtseinführung Nelson Mandelas am 10. Mai 1994.
+  regions: [suedliches-afrika]
+  themes: [politik]
+- id: soweto
+  name: Soweto
+  aliases: [South Western Townships]
+  coords: [27.8546, -26.2485]
+  categories: [stadt]
+  modernName: Soweto, Johannesburg
+  summary: Aus mehreren Townships südwestlich von Johannesburg zusammengewachsenes, für Schwarze bestimmtes Wohngebiet, 1963 nach seiner englischen Abkürzung benannt; Ausgangspunkt des Schüleraufstands vom 16. Juni 1976.
+  regions: [suedliches-afrika]
+  themes: [gesellschaft, politik]
+- id: sharpeville
+  name: Sharpeville
+  coords: [27.8700, -26.6870]
+  location: ungefaehr
+  categories: [stadt]
+  modernName: Sharpeville bei Vereeniging (Südafrika)
+  summary: Township bei Vereeniging südlich von Johannesburg, in dem die Polizei am 21. März 1960 auf eine Demonstration gegen die Passgesetze schoss; der Jahrestag ist heute in Südafrika der Tag der Menschenrechte.
+  regions: [suedliches-afrika]
+  themes: [gewalt-genozid, politik]
+- id: district-six
+  name: District Six
+  aliases: [Distrik Ses]
+  coords: [18.4300, -33.9310]
+  location: ungefaehr
+  categories: [stadt]
+  modernName: District Six, Kapstadt
+  summary: Innenstadtnahes, gemischt besiedeltes Viertel Kapstadts, das 1966 zum weißen Wohngebiet erklärt wurde; bis in die 1980er-Jahre wurden rund 60.000 Bewohner vertrieben und die Häuser abgerissen. Das District Six Museum erinnert daran.
+  regions: [suedliches-afrika]
+  themes: [gesellschaft, migration]
+- id: robben-island
+  name: Robben Island
+  coords: [18.3667, -33.8067]
+  categories: [fundstaette]
+  modernName: Robben Island (Südafrika), UNESCO-Welterbe
+  summary: Insel in der Tafelbucht vor Kapstadt, seit dem 17. Jahrhundert Verbannungs- und Gefängnisort, 1961–1991 Hochsicherheitsgefängnis für politische Gefangene, darunter Nelson Mandela; heute Museum.
+  regions: [suedliches-afrika]
+  themes: [politik, sklaverei-unfreiheit]
+- id: kliptown
+  name: Kliptown
+  coords: [27.8900, -26.2770]
+  location: ungefaehr
+  categories: [stadt]
+  modernName: Kliptown, Soweto
+  summary: Siedlung im heutigen Soweto, auf deren Platz am 25. und 26. Juni 1955 der Volkskongress die Freiheitscharta verabschiedete.
+  regions: [suedliches-afrika]
+  themes: [politik]
+- id: liliesleaf
+  name: Liliesleaf Farm
+  aliases: [Liliesleaf, Rivonia]
+  coords: [28.0560, -26.0450]
+  location: ungefaehr
+  categories: [fundstaette]
+  modernName: Liliesleaf, Rivonia (Johannesburg)
+  summary: Farm im damaligen Vorort Rivonia, die der Führung von Umkhonto we Sizwe als geheimes Hauptquartier diente; die Polizeirazzia vom 11. Juli 1963 führte zum Rivonia-Prozess.
+  regions: [suedliches-afrika]
+  themes: [politik]

@@ -1,0 +1,157 @@
+# Quellen und Literatur: Apartheid in Südafrika (Runde 17)
+
+# --- Forschung ---
+- id: thompson-2001
+  kind: sekundaer
+  authors: ["Thompson, Leonard"]
+  title: A History of South Africa
+  edition: 3. Aufl.
+  place: New Haven
+  publisher: Yale University Press
+  year: 2001
+- id: worden-2012
+  kind: sekundaer
+  authors: ["Worden, Nigel"]
+  title: The Making of Modern South Africa
+  subtitle: Conquest, Apartheid, Democracy
+  edition: 5. Aufl.
+  place: Chichester
+  publisher: Wiley-Blackwell
+  year: 2012
+- id: clark-worger-2016
+  kind: sekundaer
+  authors: ["Clark, Nancy L.", "Worger, William H."]
+  title: South Africa
+  subtitle: The Rise and Fall of Apartheid
+  edition: 3. Aufl.
+  place: London
+  publisher: Routledge
+  year: 2016
+- id: giliomee-2003
+  kind: sekundaer
+  authors: ["Giliomee, Hermann"]
+  title: The Afrikaners
+  subtitle: Biography of a People
+  place: Charlottesville
+  publisher: University of Virginia Press
+  year: 2003
+- id: beinart-2001
+  kind: sekundaer
+  authors: ["Beinart, William"]
+  title: Twentieth-Century South Africa
+  edition: 2. Aufl.
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2001
+- id: lodge-1983
+  kind: sekundaer
+  authors: ["Lodge, Tom"]
+  title: Black Politics in South Africa since 1945
+  place: London
+  publisher: Longman
+  year: 1983
+- id: posel-1991
+  kind: sekundaer
+  authors: ["Posel, Deborah"]
+  title: The Making of Apartheid, 1948–1961
+  subtitle: Conflict and Compromise
+  place: Oxford
+  publisher: Clarendon Press
+  year: 1991
+- id: dubow-2014
+  kind: sekundaer
+  authors: ["Dubow, Saul"]
+  title: Apartheid, 1948–1994
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2014
+- id: ross-2008
+  kind: sekundaer
+  authors: ["Ross, Robert"]
+  title: A Concise History of South Africa
+  edition: 2. Aufl.
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 2008
+- id: marx-2012
+  kind: sekundaer
+  authors: ["Marx, Christoph"]
+  title: Südafrika
+  subtitle: Geschichte und Gegenwart
+  place: Stuttgart
+  publisher: Kohlhammer
+  year: 2012
+- id: mamdani-1996
+  kind: sekundaer
+  authors: ["Mamdani, Mahmood"]
+  title: Citizen and Subject
+  subtitle: Contemporary Africa and the Legacy of Late Colonialism
+  place: Princeton
+  publisher: Princeton University Press
+  year: 1996
+- id: wolpe-1972
+  kind: sekundaer
+  authors: ["Wolpe, Harold"]
+  title: "Capitalism and Cheap Labour-Power in South Africa – From Segregation to Apartheid"
+  container: Economy and Society
+  volume: "1"
+  pages: 425–456
+  year: 1972
+- id: lipton-1985
+  kind: sekundaer
+  authors: ["Lipton, Merle"]
+  title: Capitalism and Apartheid
+  subtitle: South Africa, 1910–84
+  place: Aldershot
+  publisher: Gower
+  year: 1985
+
+# --- Primärquellen ---
+- id: q-freedom-charter-1955
+  kind: primaer
+  authors: ["Congress of the People"]
+  title: The Freedom Charter
+  written: Kliptown bei Johannesburg, 26. Juni 1955
+  note: Programm, das der vom ANC und seinen Verbündeten einberufene Volkskongress verabschiedete; es fordert gleiche Rechte für alle Bewohner Südafrikas und wurde zur Grundlage der Politik des ANC.
+- id: q-mandela-1964
+  kind: primaer
+  authors: ["Mandela, Nelson"]
+  title: Erklärung von der Anklagebank im Rivonia-Prozess („I am prepared to die“)
+  written: Pretoria, Oberster Gerichtshof, 20. April 1964
+  note: Mehrstündige Verteidigungsrede, in der Mandela den Übergang des ANC zur Sabotage begründete und sein Ideal einer demokratischen, freien Gesellschaft darlegte.
+- id: q-mandela-1994
+  kind: primaer
+  authors: ["Mandela, Nelson"]
+  title: Long Walk to Freedom
+  subtitle: The Autobiography of Nelson Mandela
+  place: Boston
+  publisher: Little, Brown
+  year: 1994
+  note: Autobiografie, zum Teil heimlich auf Robben Island entworfen; wichtige, aber rückblickend gestaltete Selbstdarstellung.
+- id: q-biko-1978
+  kind: primaer
+  authors: ["Biko, Steve"]
+  editors: ["Stubbs, Aelred"]
+  title: I Write What I Like
+  place: London
+  publisher: Bowerdean Press
+  year: 1978
+  note: Postum veröffentlichte Sammlung von Aufsätzen, die Biko großenteils unter dem Pseudonym „Frank Talk“ im Rundbrief der Studentenorganisation SASO schrieb, ergänzt um Interviews und Prozessaussagen.
+- id: q-trc-1998
+  kind: primaer
+  authors: ["Truth and Reconciliation Commission of South Africa"]
+  title: Truth and Reconciliation Commission of South Africa Report
+  volume: 1–5
+  place: Kapstadt
+  publisher: Juta
+  year: 1998
+  written: Kapstadt, 1998 (Bände 6 und 7 folgten 2003)
+  note: Abschlussbericht der Wahrheits- und Versöhnungskommission mit Analysen der schweren Menschenrechtsverletzungen 1960–1994 und Zusammenfassungen von Opferaussagen.
+- id: tutu-1999
+  kind: primaer
+  authors: ["Tutu, Desmond"]
+  title: No Future without Forgiveness
+  place: London
+  publisher: Rider
+  year: 1999
+  note: Rückblick des Vorsitzenden der Wahrheits- und Versöhnungskommission auf deren Arbeit und ihre theologisch begründete Idee der Versöhnung.
