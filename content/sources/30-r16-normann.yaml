@@ -1,0 +1,232 @@
+# Quellen und Literatur: Die normannische Eroberung Englands 1066
+
+# --- Primärquellen ---
+- id: q-teppich-von-bayeux
+  kind: primaer
+  title: Teppich von Bayeux (Bayeux Tapestry)
+  written: Wahrscheinlich England (Canterbury?), um 1070–1080, im Auftrag Bischof Odos von Bayeux
+  note: Rund 68 Meter langer und etwa einen halben Meter hoher, mit Wollfäden bestickter Leinenstreifen mit lateinischen Beischriften, der die Vorgeschichte und den Verlauf der Eroberung bis zur Schlacht bei Hastings erzählt; das Ende ist verloren.
+- id: q-gesta-guillelmi
+  kind: primaer
+  authors: ["Wilhelm von Poitiers"]
+  title: Gesta Guillelmi ducis Normannorum et regis Anglorum
+  written: Normandie, um 1071–1077
+  note: Lobschrift eines Kaplans Herzog Wilhelms, der dessen Thronanspruch und Feldzug ausführlich rechtfertigt; nur unvollständig überliefert, der Schluss fehlt.
+- id: q-gesta-normannorum-ducum
+  kind: primaer
+  authors: ["Wilhelm von Jumièges"]
+  title: Gesta Normannorum ducum
+  written: Normandie, um 1050–1070, später von Ordericus Vitalis und Robert von Torigni erweitert
+  note: Geschichte der Herzöge der Normandie von Rollo bis Wilhelm, deren letzter Teil die Eroberung Englands kurz und aus normannischer Sicht schildert.
+- id: q-orderic-historia-ecclesiastica
+  kind: primaer
+  authors: ["Ordericus Vitalis"]
+  title: Historia ecclesiastica
+  written: Kloster Saint-Évroult (Normandie), um 1114–1141
+  note: Umfangreiche Kirchen- und Weltgeschichte eines in England geborenen Mönchs mit englischer Mutter und normannischem Vater, der die Härte der Eroberung, besonders die Verheerung des Nordens, scharf kritisiert.
+- id: q-domesday-book
+  kind: primaer
+  title: Domesday Book
+  written: England, 1086–um 1087, auf Grundlage der Erhebung Wilhelms I.
+  note: Ergebnis einer landesweiten Erhebung über Grundbesitz, Abgabenpflicht, Ressourcen und Bevölkerung Englands, in zwei Bänden (Great und Little Domesday) überliefert; der Name Domesday ist erst im 12. Jahrhundert belegt.
+
+# --- Editionen und Übersetzungen ---
+- id: davis-chibnall-1998
+  kind: edition
+  editors: ["Davis, R. H. C.", "Chibnall, Marjorie"]
+  title: The Gesta Guillelmi of William of Poitiers
+  place: Oxford
+  publisher: Clarendon Press
+  year: 1998
+- id: van-houts-1992
+  kind: edition
+  editors: ["Houts, Elisabeth M. C. van"]
+  title: The Gesta Normannorum Ducum of William of Jumièges, Orderic Vitalis, and Robert of Torigni
+  volume: 2 Bde.
+  place: Oxford
+  publisher: Clarendon Press
+  year: 1992–1995
+- id: chibnall-1969
+  kind: edition
+  editors: ["Chibnall, Marjorie"]
+  title: The Ecclesiastical History of Orderic Vitalis
+  volume: 6 Bde.
+  place: Oxford
+  publisher: Clarendon Press
+  year: 1969–1980
+- id: williams-martin-2003
+  kind: edition
+  editors: ["Williams, Ann", "Martin, G. H."]
+  title: Domesday Book. A Complete Translation
+  place: London
+  publisher: Penguin
+  year: 2003
+
+# --- Forschung ---
+- id: stenton-1971
+  kind: sekundaer
+  authors: ["Stenton, Frank M."]
+  title: Anglo-Saxon England
+  edition: 3. Aufl.
+  place: Oxford
+  publisher: Clarendon Press
+  year: 1971
+- id: barlow-1970
+  kind: sekundaer
+  authors: ["Barlow, Frank"]
+  title: Edward the Confessor
+  place: London
+  publisher: Eyre & Spottiswoode
+  year: 1970
+- id: douglas-1964
+  kind: sekundaer
+  authors: ["Douglas, David C."]
+  title: William the Conqueror
+  subtitle: The Norman Impact upon England
+  place: London
+  publisher: Eyre & Spottiswoode
+  year: 1964
+- id: bates-2016
+  kind: sekundaer
+  authors: ["Bates, David"]
+  title: William the Conqueror
+  place: New Haven
+  publisher: Yale University Press
+  year: 2016
+- id: lawson-2002
+  kind: sekundaer
+  authors: ["Lawson, M. K."]
+  title: The Battle of Hastings 1066
+  place: Stroud
+  publisher: Tempus
+  year: 2002
+- id: wilson-1985
+  kind: sekundaer
+  authors: ["Wilson, David M."]
+  title: The Bayeux Tapestry
+  place: London
+  publisher: Thames and Hudson
+  year: 1985
+- id: hicks-2006
+  kind: sekundaer
+  authors: ["Hicks, Carola"]
+  title: The Bayeux Tapestry
+  subtitle: The Life Story of a Masterpiece
+  place: London
+  publisher: Chatto & Windus
+  year: 2006
+- id: kapelle-1979
+  kind: sekundaer
+  authors: ["Kapelle, William E."]
+  title: The Norman Conquest of the North
+  subtitle: The Region and Its Transformation, 1000–1135
+  place: Chapel Hill
+  publisher: University of North Carolina Press
+  year: 1979
+- id: williams-1995
+  kind: sekundaer
+  authors: ["Williams, Ann"]
+  title: The English and the Norman Conquest
+  place: Woodbridge
+  publisher: Boydell Press
+  year: 1995
+- id: fleming-1991
+  kind: sekundaer
+  authors: ["Fleming, Robin"]
+  title: Kings and Lords in Conquest England
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1991
+- id: garnett-2007
+  kind: sekundaer
+  authors: ["Garnett, George"]
+  title: Conquered England
+  subtitle: Kingship, Succession, and Tenure 1066–1166
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2007
+- id: liddiard-2005
+  kind: sekundaer
+  authors: ["Liddiard, Robert"]
+  title: Castles in Context
+  subtitle: Power, Symbolism and Landscape, 1066 to 1500
+  place: Macclesfield
+  publisher: Windgather Press
+  year: 2005
+- id: roffe-2000
+  kind: sekundaer
+  authors: ["Roffe, David"]
+  title: Domesday
+  subtitle: The Inquest and the Book
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2000
+- id: clanchy-1979
+  kind: sekundaer
+  authors: ["Clanchy, M. T."]
+  title: From Memory to Written Record
+  subtitle: England 1066–1307
+  place: London
+  publisher: Edward Arnold
+  year: 1979
+- id: bartlett-2000
+  kind: sekundaer
+  authors: ["Bartlett, Robert"]
+  title: England under the Norman and Angevin Kings, 1075–1225
+  place: Oxford
+  publisher: Clarendon Press
+  year: 2000
+- id: thomas-2003
+  kind: sekundaer
+  authors: ["Thomas, Hugh M."]
+  title: The English and the Normans
+  subtitle: Ethnic Hostility, Assimilation, and Identity 1066–c. 1220
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2003
+- id: campbell-2000
+  kind: sekundaer
+  authors: ["Campbell, James"]
+  title: The Anglo-Saxon State
+  place: London
+  publisher: Hambledon and London
+  year: 2000
+- id: freeman-1867
+  kind: sekundaer
+  authors: ["Freeman, Edward A."]
+  title: The History of the Norman Conquest of England
+  subtitle: Its Causes and Its Results
+  volume: 6 Bde.
+  place: Oxford
+  publisher: Clarendon Press
+  year: 1867–1879
+- id: round-1895
+  kind: sekundaer
+  authors: ["Round, J. Horace"]
+  title: Feudal England
+  subtitle: Historical Studies on the Eleventh and Twelfth Centuries
+  place: London
+  publisher: Swan Sonnenschein
+  year: 1895
+- id: hill-1958
+  kind: sekundaer
+  authors: ["Hill, Christopher"]
+  title: The Norman Yoke
+  container: Puritanism and Revolution. Studies in Interpretation of the English Revolution of the 17th Century
+  place: London
+  publisher: Secker & Warburg
+  year: 1958
+- id: chibnall-1999
+  kind: sekundaer
+  authors: ["Chibnall, Marjorie"]
+  title: The Debate on the Norman Conquest
+  place: Manchester
+  publisher: Manchester University Press
+  year: 1999
+- id: morris-2012
+  kind: sekundaer
+  authors: ["Morris, Marc"]
+  title: The Norman Conquest
+  place: London
+  publisher: Hutchinson
+  year: 2012

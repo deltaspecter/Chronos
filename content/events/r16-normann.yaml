@@ -1,0 +1,182 @@
+# Ereignisse: Die normannische Eroberung Englands 1066
+- id: herrschaft-eduards-des-bekenners
+  title: Herrschaft Eduards des Bekenners
+  start: "1042"
+  end: "1066-01-05"
+  weight: 2
+  kind: herrschaft
+  summary: Nach dem Tod Harthaknuts wird der aus dem normannischen Exil zurückgekehrte Eduard König von England; seine Regierung ist geprägt vom Ringen mit der Familie Godwins, von normannischen Beratern am Hof und von der ungelösten Nachfolgefrage, da seine Ehe kinderlos bleibt.
+  regions: [britische-inseln]
+  themes: [politik]
+  persons: [eduard-der-bekenner, godwin-von-wessex, harold-godwinson]
+  polities: [koenigreich-england]
+- id: verbannung-godwins-1051
+  title: Verbannung und Rückkehr der Godwins
+  start: "1051"
+  end: "1052"
+  weight: 3
+  kind: ereignis
+  summary: Eduard verbannt Earl Godwin und seine Söhne und verstößt die Königin Edith; normannische Quellen datieren in diese Zeit Eduards Versprechen, Wilhelm solle sein Nachfolger werden. 1052 kehren die Godwins mit einer Flotte zurück und erzwingen ihre Wiedereinsetzung, der normannische Erzbischof Robert von Jumièges flieht.
+  regions: [britische-inseln]
+  themes: [politik]
+  persons: [eduard-der-bekenner, godwin-von-wessex, harold-godwinson, wilhelm-der-eroberer]
+  polities: [koenigreich-england]
+- id: harolds-reise-in-die-normandie
+  title: Harolds Reise in die Normandie und sein Eid
+  date: "~1064"
+  certainty: unsicher
+  dateNote: Die Reise wird meist auf 1064, gelegentlich auf 1065 datiert; Zweck und Inhalt des Eides sind nur aus normannischer Sicht überliefert.
+  weight: 2
+  kind: ereignis
+  summary: Harold Godwinson gerät nach normannischer Darstellung an der Küste von Ponthieu in Gefangenschaft, wird von Wilhelm befreit, begleitet ihn auf einem Feldzug in die Bretagne und schwört ihm auf Reliquien Treue und Unterstützung seines Thronanspruchs. Englische Quellen schweigen dazu oder deuten den Vorgang anders.
+  regions: [frankreich, britische-inseln]
+  themes: [politik]
+  places: [bayeux]
+  persons: [harold-godwinson, wilhelm-der-eroberer]
+  polities: [herzogtum-normandie]
+- id: aufstand-in-northumbrien-1065
+  title: Aufstand in Northumbrien
+  date: "1065-10"
+  weight: 3
+  kind: ereignis
+  summary: Die Thegns Northumbriens erheben sich gegen Earl Tostig, töten seine Gefolgsleute in York und wählen Morcar zum Earl; Harold vermittelt und stimmt Tostigs Absetzung zu, der darauf ins Exil geht und zu seinem Gegner wird.
+  regions: [britische-inseln]
+  themes: [politik]
+  places: [york]
+  persons: [tostig-godwinson, morcar-von-northumbrien, harold-godwinson]
+  polities: [koenigreich-england]
+- id: kroenung-harold-godwinson
+  title: Krönung Harold Godwinsons
+  date: "1066-01-06"
+  weight: 2
+  kind: herrschaft
+  summary: Am Tag nach dem Tod Eduards des Bekenners und am Tag seiner Bestattung wird Harold Godwinson zum König gekrönt, nach englischen Quellen, weil Eduard ihn auf dem Sterbebett zum Nachfolger bestimmt habe. Normannische Quellen werten die Krönung als Eidbruch und Usurpation.
+  regions: [britische-inseln]
+  themes: [politik]
+  places: [westminster-abbey]
+  persons: [harold-godwinson, eduard-der-bekenner]
+  polities: [koenigreich-england]
+- id: schlacht-von-fulford
+  title: Schlacht von Fulford
+  date: "1066-09-20"
+  weight: 3
+  kind: schlacht
+  summary: Das in Yorkshire gelandete Heer Harald Hardradas und Tostigs besiegt die Earls Edwin und Morcar südlich von York; die Stadt unterwirft sich den Norwegern.
+  regions: [britische-inseln, nordeuropa]
+  themes: [krieg-militaer]
+  places: [fulford, york]
+  persons: [harald-hardrada, tostig-godwinson, edwin-von-mercia, morcar-von-northumbrien]
+  polities: [koenigreich-norwegen-mittelalter, koenigreich-england]
+- id: landung-in-pevensey
+  title: Landung Wilhelms in Pevensey
+  date: "1066-09-28"
+  weight: 2
+  kind: ereignis
+  summary: Nach wochenlangem Warten auf günstigen Wind setzt Wilhelms Flotte von Saint-Valery-sur-Somme über und landet ohne Widerstand in Pevensey; das Heer verlegt bald nach Hastings und verwüstet die Umgebung, während Harold noch im Norden steht.
+  regions: [britische-inseln, frankreich]
+  themes: [krieg-militaer]
+  places: [saint-valery-sur-somme, pevensey]
+  persons: [wilhelm-der-eroberer]
+  polities: [herzogtum-normandie]
+- id: kroenung-wilhelms-des-eroberers
+  title: Krönung Wilhelms des Eroberers
+  date: "1066-12-25"
+  weight: 2
+  kind: herrschaft
+  summary: Nach der Unterwerfung Edgar Æthelings und der englischen Großen in Berkhamsted krönt Erzbischof Ealdred von York Wilhelm in Westminster Abbey. Nach Ordericus Vitalis legten die normannischen Wachen beim Jubel der Versammelten Feuer an umliegende Häuser, weil sie einen Angriff fürchteten.
+  regions: [britische-inseln]
+  themes: [politik]
+  places: [westminster-abbey]
+  persons: [wilhelm-der-eroberer, ealdred-von-york, edgar-aetheling]
+  polities: [koenigreich-england, anglo-normannisches-reich]
+- id: belagerung-von-exeter-1068
+  title: Belagerung von Exeter
+  date: "1068"
+  weight: 3
+  kind: schlacht
+  summary: Die Bürger von Exeter, wo sich Harolds Mutter Gytha aufhielt, verweigern Wilhelm die Unterwerfung; nach einer Belagerung von etwa 18 Tagen kapituliert die Stadt und erhält eine königliche Burg.
+  regions: [britische-inseln]
+  themes: [krieg-militaer]
+  places: [exeter]
+  persons: [wilhelm-der-eroberer]
+  polities: [anglo-normannisches-reich]
+- id: verheerung-des-nordens
+  title: Verheerung des Nordens (Harrying of the North)
+  aliases: [Harrying of the North]
+  start: "1069"
+  end: "1070"
+  weight: 1
+  kind: katastrophe
+  summary: Nach einem Aufstand im Norden, der mit dänischer Hilfe zur Einnahme Yorks führt, lässt Wilhelm im Winter 1069/70 Dörfer, Vorräte und Vieh zwischen Humber und Tees systematisch vernichten. Ordericus Vitalis spricht von über 100.000 Verhungerten; die Zahl ist nicht überprüfbar, doch Domesday verzeichnet in Yorkshire noch 1086 viele Orte als wüst.
+  regions: [britische-inseln]
+  themes: [gewalt-genozid, krieg-militaer]
+  places: [york, durham]
+  persons: [wilhelm-der-eroberer, sven-estridsson, edgar-aetheling, waltheof, ordericus-vitalis]
+  polities: [anglo-normannisches-reich, koenigreich-daenemark-mittelalter]
+- id: konzil-von-winchester-1070
+  title: Absetzung Stigands und Berufung Lanfrancs
+  date: "1070"
+  weight: 3
+  kind: ereignis
+  summary: Auf einer Synode in Winchester unter Leitung päpstlicher Legaten wird Erzbischof Stigand abgesetzt; Wilhelm beruft Lanfranc nach Canterbury. Damit beginnt die Ersetzung der englischen Bischöfe und Äbte durch Geistliche vom Kontinent.
+  regions: [britische-inseln]
+  themes: [religion, politik]
+  places: [winchester, canterbury]
+  persons: [stigand, lanfranc, alexander-ii-papst, wilhelm-der-eroberer]
+  polities: [anglo-normannisches-reich]
+- id: aufstand-von-ely
+  title: Widerstand in Ely
+  start: "1070"
+  end: "1071"
+  weight: 3
+  kind: krieg
+  summary: Englische Aufständische unter Hereward, später verstärkt durch Morcar, halten sich mit zeitweiliger dänischer Unterstützung auf der Insel Ely in den Fens, bis Wilhelm sie 1071 einnimmt; es ist der letzte größere englische Aufstand.
+  regions: [britische-inseln]
+  themes: [krieg-militaer]
+  places: [ely]
+  persons: [hereward, morcar-von-northumbrien, wilhelm-der-eroberer]
+  polities: [anglo-normannisches-reich]
+- id: aufstand-der-earls-1075
+  title: Aufstand der Earls
+  date: "1075"
+  weight: 3
+  kind: ereignis
+  summary: Die Earls Roger von Hereford und Ralph von Norfolk erheben sich gegen den abwesenden Wilhelm, werden aber rasch besiegt; Waltheof, der von der Verschwörung wusste, wird 1076 hingerichtet. Eine zu spät eintreffende dänische Flotte plündert York.
+  regions: [britische-inseln]
+  themes: [politik]
+  persons: [waltheof, lanfranc, wilhelm-der-eroberer]
+  polities: [anglo-normannisches-reich]
+- id: domesday-erhebung
+  title: Domesday-Erhebung
+  start: "1085-12"
+  end: "1086"
+  weight: 2
+  kind: entwicklung
+  summary: Zu Weihnachten 1085 beschließt Wilhelm in Gloucester eine Erhebung über ganz England; königliche Beauftragte befragen 1086 in den Grafschaften Geschworene über Besitzer, Steuerveranlagung, Pflüge, Menschen und Wert jedes Guts. Das Ergebnis ist das Domesday Book.
+  regions: [britische-inseln]
+  themes: [verfassung-recht, wirtschaft-handel, schrift-medien]
+  places: [gloucester, winchester]
+  persons: [wilhelm-der-eroberer]
+  polities: [anglo-normannisches-reich]
+- id: eid-von-salisbury
+  title: Eid von Salisbury
+  date: "1086-08-01"
+  weight: 3
+  kind: ereignis
+  summary: Nach der Angelsächsischen Chronik lässt Wilhelm an Lammas 1086 in Salisbury alle Grundbesitzer von Rang, gleich wessen Vasallen sie waren, ihm Treue schwören; das Verhältnis zur gleichzeitigen Domesday-Erhebung wird diskutiert.
+  regions: [britische-inseln]
+  themes: [verfassung-recht, politik]
+  places: [old-sarum]
+  persons: [wilhelm-der-eroberer]
+  polities: [anglo-normannisches-reich]
+- id: tod-wilhelms-des-eroberers
+  title: Tod Wilhelms des Eroberers
+  date: "1087-09-09"
+  weight: 3
+  kind: herrschaft
+  summary: Wilhelm stirbt bei Rouen an den Folgen einer Verletzung während eines Feldzugs gegen Mantes und wird in Saint-Étienne in Caen bestattet; die Normandie erhält sein ältester Sohn Robert Kurzhose, England sein Sohn Wilhelm II. Rufus.
+  regions: [frankreich, britische-inseln]
+  themes: [politik]
+  places: [rouen, caen]
+  persons: [wilhelm-der-eroberer]
+  polities: [anglo-normannisches-reich, herzogtum-normandie]

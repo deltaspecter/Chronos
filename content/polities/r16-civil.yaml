@@ -1,0 +1,28 @@
+# Organisationen: Die Bürgerrechtsbewegung in den USA (r16-civil)
+- id: naacp
+  name: NAACP
+  aliases: [National Association for the Advancement of Colored People]
+  start: "1909"
+  spanNote: Der Gründungsaufruf erschien im Februar 1909; den heutigen Namen nahm die Organisation 1910 an.
+  summary: Von Schwarzen und weißen Reformern, darunter W. E. B. Du Bois und Ida B. Wells, gegründete Bürgerrechtsorganisation, die vor allem mit Prozessen, Lobbyarbeit und Öffentlichkeitskampagnen gegen Lynchjustiz und Rassentrennung vorging; ihr Rechtshilfefonds erstritt 1954 das Urteil Brown v. Board of Education.
+  regions: [nordamerika]
+  themes: [gesellschaft, verfassung-recht]
+  weight: 2
+- id: sclc
+  name: Southern Christian Leadership Conference
+  aliases: [SCLC]
+  start: "1957-01"
+  summary: Nach dem Busboykott von Montgomery gegründeter Zusammenschluss Schwarzer Pfarrer aus den Südstaaten mit Sitz in Atlanta und Martin Luther King als Präsidenten; organisierte die Kampagnen von Birmingham 1963 und Selma 1965.
+  regions: [nordamerika]
+  themes: [gesellschaft, religion]
+  weight: 3
+- id: sncc
+  name: Student Nonviolent Coordinating Committee
+  aliases: [SNCC, Snick]
+  start: "1960-04"
+  end: "~1970"
+  spanNote: Das SNCC verlor nach 1968 rasch an Bedeutung und löste sich in den frühen 1970er-Jahren faktisch auf; ein genaues Enddatum gibt es nicht.
+  summary: Auf Anregung Ella Bakers nach den Sit-ins gegründete Studentenorganisation, die in Mississippi, Alabama und Georgia Wählerregistrierung an der Basis betrieb und sich ab 1966 unter Stokely Carmichael der Black-Power-Bewegung zuwandte.
+  regions: [nordamerika]
+  themes: [gesellschaft, politik]
+  weight: 3

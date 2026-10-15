@@ -1,0 +1,126 @@
+# Orte: Die normannische Eroberung Englands 1066
+- id: westminster-abbey
+  name: Westminster Abbey
+  aliases: [Westminster, Abtei Westminster]
+  coords: [-0.1273, 51.4994]
+  categories: [heiligtum]
+  modernName: Westminster, London (England)
+  summary: Von Eduard dem Bekenner neu erbaute Abteikirche westlich von London, Ende Dezember 1065 geweiht; hier wurde Eduard im Januar 1066 bestattet, und hier wurden Harold Godwinson und am Weihnachtstag 1066 Wilhelm der Eroberer gekrönt.
+  regions: [britische-inseln]
+  themes: [religion, politik]
+- id: fulford
+  name: Fulford
+  aliases: [Gate Fulford]
+  coords: [-1.0750, 53.9350]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Fulford bei York (England)
+  summary: Ort südlich von York, bei dem das norwegische Heer Harald Hardradas am 20. September 1066 die Earls Edwin und Morcar besiegte; die genaue Lage des Schlachtfelds ist umstritten.
+  regions: [britische-inseln]
+  themes: [krieg-militaer]
+- id: pevensey
+  name: Pevensey
+  aliases: [Anderitum, Pevenesel]
+  coords: [0.3340, 50.8190]
+  categories: [hafen, fundstaette]
+  modernName: Pevensey, East Sussex (England)
+  summary: Küstenort mit einem spätrömischen Kastell, an dem Wilhelms Heer am 28. September 1066 landete; die Normannen errichteten im Inneren der römischen Mauern eine erste Befestigung.
+  regions: [britische-inseln]
+  themes: [krieg-militaer]
+- id: dives-sur-mer
+  name: Dives-sur-Mer
+  aliases: [Dives]
+  coords: [-0.1000, 49.2870]
+  location: ungefaehr
+  categories: [hafen]
+  modernName: Dives-sur-Mer, Calvados (Frankreich)
+  summary: Ort an der Mündung der Dives, an dem Herzog Wilhelm im Sommer 1066 seine Flotte und sein Heer sammelte, bevor er nach Saint-Valery-sur-Somme verlegte.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+- id: saint-valery-sur-somme
+  name: Saint-Valery-sur-Somme
+  coords: [1.6340, 50.1840]
+  categories: [hafen]
+  modernName: Saint-Valery-sur-Somme, Somme (Frankreich)
+  summary: Hafen an der Sommemündung, von dem aus Wilhelms Flotte in der Nacht vom 27. auf den 28. September 1066 nach England übersetzte.
+  regions: [frankreich]
+  themes: [krieg-militaer]
+- id: bayeux
+  name: Bayeux
+  aliases: [Augustodurum]
+  coords: [-0.7020, 49.2765]
+  categories: [stadt, heiligtum]
+  modernName: Bayeux, Calvados (Frankreich)
+  summary: Bischofsstadt in der Normandie, deren Bischof Odo, Halbbruder Wilhelms, 1077 die neue Kathedrale weihte; hier wird seit dem Mittelalter der Teppich von Bayeux aufbewahrt, auf dem Harold seinen Eid in Bayeux leistet.
+  regions: [frankreich]
+  themes: [religion, kultur-kunst]
+- id: caen
+  name: Caen
+  coords: [-0.3707, 49.1829]
+  categories: [stadt]
+  modernName: Caen, Calvados (Frankreich)
+  summary: Von Herzog Wilhelm ausgebaute Stadt mit den beiden von ihm und seiner Frau Mathilde gestifteten Klöstern Saint-Étienne (Abbaye aux Hommes) und Sainte-Trinité (Abbaye aux Dames); Lanfranc war erster Abt von Saint-Étienne, wo Wilhelm 1087 bestattet wurde.
+  regions: [frankreich]
+  themes: [religion, politik]
+- id: ely
+  name: Ely
+  aliases: [Isle of Ely]
+  coords: [0.2627, 52.3990]
+  categories: [stadt, heiligtum]
+  modernName: Ely, Cambridgeshire (England)
+  summary: Kloster auf einer Insel in den Sumpfgebieten der Fens, in dem 1070–1071 Hereward, Morcar und andere englische Aufständische Widerstand leisteten, bis Wilhelm den Ort einnahm.
+  regions: [britische-inseln]
+  themes: [religion, krieg-militaer]
+- id: exeter
+  name: Exeter
+  aliases: [Isca Dumnoniorum]
+  coords: [-3.5339, 50.7184]
+  categories: [stadt]
+  modernName: Exeter, Devon (England)
+  summary: Stadt im Südwesten Englands, die sich 1068 Wilhelm widersetzte, nach einer Belagerung von etwa 18 Tagen kapitulierte und eine normannische Burg erhielt.
+  regions: [britische-inseln]
+  themes: [krieg-militaer]
+- id: winchester
+  name: Winchester
+  aliases: [Venta Belgarum, Wintanceaster]
+  coords: [-1.3080, 51.0632]
+  categories: [stadt, hauptstadt]
+  modernName: Winchester, Hampshire (England)
+  summary: Alte Hauptstadt von Wessex und Sitz des königlichen Schatzes, in dem auch das Domesday Book zunächst verwahrt wurde; 1070 wurde hier Erzbischof Stigand abgesetzt, und ab 1079 entstand eine neue romanische Kathedrale.
+  regions: [britische-inseln]
+  themes: [politik, religion]
+- id: durham
+  name: Durham
+  coords: [-1.5755, 54.7735]
+  categories: [stadt, heiligtum]
+  modernName: Durham (England)
+  summary: Bischofssitz mit dem Grab des heiligen Cuthbert, wo Aufständische Anfang 1069 den normannischen Earl Robert de Comines töteten; die 1093 begonnene Kathedrale neben der Burg gilt als Hauptwerk der anglonormannischen Romanik.
+  regions: [britische-inseln]
+  themes: [religion, kultur-kunst]
+- id: tower-of-london
+  name: Tower of London
+  aliases: [White Tower, Tower]
+  coords: [-0.0759, 51.5081]
+  categories: [hauptstadt]
+  modernName: London (England)
+  summary: Burg am Ostrand der Stadt London, deren großer steinerner Wohnturm, der White Tower, unter Wilhelm dem Eroberer wahrscheinlich in den 1070er Jahren begonnen wurde – ein weithin sichtbares Zeichen normannischer Herrschaft über die größte Stadt Englands.
+  regions: [britische-inseln]
+  themes: [politik, krieg-militaer]
+- id: old-sarum
+  name: Old Sarum
+  aliases: [Salisbury, Searesbyrig, Sorviodunum]
+  coords: [-1.8041, 51.0934]
+  categories: [fundstaette]
+  modernName: Old Sarum bei Salisbury, Wiltshire (England)
+  summary: Eisenzeitlicher Burgwall bei Salisbury mit normannischer Burg und Kathedrale; hier ließ Wilhelm im August 1086 die Grundherren Englands einen Treueid leisten.
+  regions: [britische-inseln]
+  themes: [politik]
+- id: gloucester
+  name: Gloucester
+  aliases: [Glevum]
+  coords: [-2.2431, 51.8642]
+  categories: [stadt]
+  modernName: Gloucester (England)
+  summary: Stadt am Severn, in der Wilhelm zu Weihnachten 1085 mit seinen Ratgebern die Erhebung beschloss, aus der das Domesday Book hervorging.
+  regions: [britische-inseln]
+  themes: [politik]

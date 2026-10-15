@@ -1,0 +1,46 @@
+# Begriffe: Die normannische Eroberung Englands 1066
+- id: earl
+  name: Earl
+  aliases: [Ealdorman, Jarl, Graf]
+  definition: Titel der höchsten weltlichen Amtsträger im spätangelsächsischen England, die im Auftrag des Königs große Regionen wie Wessex, Mercia oder Northumbrien verwalteten; das Wort geht auf das skandinavische jarl zurück und verdrängte unter Knut dem Großen das ältere ealdorman. Nach 1066 wurde es zu einem Adelstitel, der einer Grafschaft zugeordnet war.
+  themes: [politik, gesellschaft]
+- id: thegn
+  name: Thegn
+  aliases: [Thane, Þegn]
+  definition: Angehöriger der adligen Grundbesitzerschicht im angelsächsischen England, der dem König oder einem großen Herrn diente und dafür Land hielt; die Thegns stellten den Kern des Heeres. Ihre Schicht wurde nach 1066 weitgehend durch normannische Herren ersetzt.
+  themes: [gesellschaft, krieg-militaer]
+- id: witan
+  name: Witan
+  aliases: [Witenagemot, Rat der Weisen]
+  definition: Versammlung von Bischöfen, Äbten, Earls und Thegns, die angelsächsische Könige berieten, an Gesetzgebung und Königserhebungen mitwirkten; ob es sich um eine feste Institution oder um wechselnde Ratsversammlungen handelte, ist in der Forschung umstritten.
+  themes: [politik, verfassung-recht]
+- id: huscarl
+  name: Huscarl
+  aliases: [Huskarl, Housecarl, húskarl]
+  definition: Aus dem Skandinavischen stammende Bezeichnung für bewaffnete Gefolgsleute eines Königs oder Earls; unter Knut dem Großen und seinen Nachfolgern bildeten Huscarls eine Elitetruppe, die 1066 den Kern von Harolds Heer stellte.
+  themes: [krieg-militaer]
+- id: motte-and-bailey
+  name: Motte-and-Bailey-Burg
+  aliases: [Motte, Turmhügelburg, Mottenburg]
+  definition: Burgtyp aus einem aufgeschütteten Erdhügel (Motte) mit hölzernem, später oft steinernem Turm und einem oder mehreren angrenzenden, mit Wall, Graben und Palisade gesicherten Vorhöfen (Bailey). Solche Burgen ließen sich mit erzwungener Arbeit binnen Wochen errichten und prägten die normannische Herrschaftssicherung in England.
+  themes: [krieg-militaer, wissenschaft-technik]
+- id: domesday-book
+  name: Domesday Book
+  aliases: [Domesday, Buch des Jüngsten Gerichts, Liber de Wintonia]
+  definition: Ergebnis der 1086 von Wilhelm dem Eroberer angeordneten Erhebung über Grundbesitz, Steuerwert und Ressourcen in England, überliefert in den Bänden Great Domesday und Little Domesday. Der Name, in Anspielung auf das Jüngste Gericht, gegen dessen Urteil es keine Berufung gibt, ist erst im 12. Jahrhundert belegt.
+  themes: [verfassung-recht, wirtschaft-handel, schrift-medien]
+- id: lehnswesen
+  name: Lehnswesen
+  aliases: [Feudalismus, Lehnsrecht, feudalism]
+  definition: Moderne Sammelbezeichnung für eine Ordnung, in der ein Herr einem Vasallen Land oder Rechte (ein Lehen) gegen Treue, Rat und militärischen Dienst überlässt. Ob und wie weit es ein geschlossenes System war, ist umstritten; für England wird diskutiert, ob die Normannen es 1066 einführten oder an ältere angelsächsische Formen anknüpften.
+  themes: [gesellschaft, verfassung-recht]
+- id: norman-yoke
+  name: Norman Yoke
+  aliases: [Normannisches Joch]
+  definition: Seit dem 17. Jahrhundert verbreitete politische Deutung, nach der die Normannen 1066 die Freiheiten und Rechte der angelsächsischen Engländer durch eine fremde Königs- und Adelsherrschaft ersetzt hätten; Levellers, Diggers und später radikale Reformer beriefen sich darauf, um Reformen als Rückgewinnung alter Rechte zu begründen.
+  themes: [geschichtsschreibung, politik]
+- id: anglonormannisch
+  name: Anglonormannisch
+  aliases: [Anglo-Norman, Anglofranzösisch, Anglo-French]
+  definition: Die in England nach 1066 gesprochene und geschriebene Form des Altfranzösischen, Sprache des Hofes, des Adels und später auch von Recht und Verwaltung; über sie gelangten Tausende französische Lehnwörter ins Englische.
+  themes: [kultur-kunst, schrift-medien]

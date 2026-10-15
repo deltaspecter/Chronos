@@ -1,0 +1,75 @@
+# Orte: Die Bürgerrechtsbewegung in den USA (r16-civil)
+- id: montgomery
+  name: Montgomery
+  coords: [-86.3000, 32.3668]
+  categories: [stadt, hauptstadt]
+  modernName: Montgomery, Alabama (USA)
+  summary: Hauptstadt Alabamas und 1861 erste Hauptstadt der Konföderierten Staaten; 1955/56 Schauplatz des Busboykotts und 1965 Ziel des Marschs von Selma.
+  regions: [nordamerika]
+  themes: [politik, gesellschaft]
+- id: birmingham-alabama
+  name: Birmingham (Alabama)
+  aliases: [Birmingham]
+  coords: [-86.8025, 33.5207]
+  categories: [stadt]
+  modernName: Birmingham, Alabama (USA)
+  summary: Stahl- und Industriestadt im Süden der USA, wegen zahlreicher Bombenanschläge auf Schwarze Familien „Bombingham“ genannt; 1963 Schauplatz der Kampagne der SCLC und des Anschlags auf die 16th Street Baptist Church.
+  regions: [nordamerika]
+  themes: [gesellschaft, gewalt-genozid]
+- id: selma
+  name: Selma
+  coords: [-87.0211, 32.4074]
+  categories: [stadt]
+  modernName: Selma, Alabama (USA)
+  summary: Kleinstadt im „Black Belt“ Alabamas, in der 1965 nur ein winziger Teil der Schwarzen Bevölkerung als Wähler eingetragen war; an der Edmund-Pettus-Brücke griff die Polizei am 7. März 1965 Demonstrierende an.
+  regions: [nordamerika]
+  themes: [politik, gesellschaft]
+- id: little-rock
+  name: Little Rock
+  coords: [-92.2896, 34.7465]
+  categories: [stadt, hauptstadt]
+  modernName: Little Rock, Arkansas (USA)
+  summary: Hauptstadt von Arkansas, in der 1957 Bundestruppen neun Schwarze Jugendliche in die Central High School begleiten mussten.
+  regions: [nordamerika]
+  themes: [politik, gesellschaft]
+- id: greensboro
+  name: Greensboro
+  coords: [-79.7920, 36.0726]
+  categories: [stadt]
+  modernName: Greensboro, North Carolina (USA)
+  summary: Stadt in North Carolina, in der am 1. Februar 1960 vier Studenten an der Imbisstheke eines Woolworth-Kaufhauses die Welle der Sit-ins auslösten.
+  regions: [nordamerika]
+  themes: [gesellschaft]
+- id: memphis-tennessee
+  name: Memphis (Tennessee)
+  coords: [-90.0490, 35.1495]
+  categories: [stadt, hafen]
+  modernName: Memphis, Tennessee (USA)
+  summary: Stadt am Mississippi, in der Ida B. Wells 1892 ihre Kampagne gegen Lynchmorde begann und Martin Luther King am 4. April 1968 auf dem Balkon des Lorraine Motel erschossen wurde, als er streikende Müllarbeiter unterstützte.
+  regions: [nordamerika]
+  themes: [gesellschaft, gewalt-genozid]
+- id: money-mississippi
+  name: Money (Mississippi)
+  coords: [-90.2034, 33.6496]
+  location: ungefaehr
+  categories: [stadt]
+  modernName: Money, Mississippi (USA)
+  summary: Weiler im Mississippi-Delta, in dessen Gemischtwarenladen Emmett Till im August 1955 der weißen Ladeninhaberin begegnete; wenige Tage später wurde er entführt und ermordet.
+  regions: [nordamerika]
+  themes: [gewalt-genozid]
+- id: chicago
+  name: Chicago
+  coords: [-87.6298, 41.8781]
+  categories: [stadt, hafen]
+  modernName: Chicago, Illinois (USA)
+  summary: Industriemetropole am Michigansee und eines der Hauptziele der Great Migration; die Schwarze Bevölkerung wuchs hier im 20. Jahrhundert stark, zugleich blieben Wohnviertel scharf getrennt.
+  regions: [nordamerika]
+  themes: [migration, gesellschaft]
+- id: topeka
+  name: Topeka
+  coords: [-95.6890, 39.0558]
+  categories: [stadt, hauptstadt]
+  modernName: Topeka, Kansas (USA)
+  summary: Hauptstadt von Kansas, nach deren Schulbehörde der 1954 entschiedene Fall Brown v. Board of Education benannt ist.
+  regions: [nordamerika]
+  themes: [verfassung-recht]

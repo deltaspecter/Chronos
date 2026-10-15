@@ -1,0 +1,234 @@
+# Ereignisse: Die Bürgerrechtsbewegung in den USA (r16-civil)
+- id: plessy-v-ferguson
+  title: Urteil Plessy v. Ferguson
+  date: "1896-05-18"
+  weight: 2
+  kind: gesetz
+  summary: Der Supreme Court erklärt mit sieben zu einer Stimme ein Gesetz Louisianas über getrennte Eisenbahnwagen für verfassungsgemäß; die Formel „getrennt, aber gleich“ deckt fortan die Rassentrennung im Süden.
+  regions: [nordamerika]
+  themes: [verfassung-recht, gesellschaft]
+  places: [washington]
+  polities: [vereinigte-staaten]
+- id: great-migration
+  title: Great Migration
+  aliases: [Große Wanderung, Große Migration]
+  start: "~1910"
+  end: "~1970"
+  certainty: wahrscheinlich
+  dateNote: Die Abgrenzung ist eine Konvention der Forschung; meist wird zwischen einer ersten (bis 1940) und einer zweiten Welle unterschieden.
+  weight: 2
+  kind: entwicklung
+  summary: Rund sechs Millionen Afroamerikaner verlassen den ländlichen Süden und ziehen in die Industriestädte des Nordens und Westens, etwa nach Chicago, Detroit, New York und Los Angeles – auf der Flucht vor Jim Crow, Gewalt und Armut und auf der Suche nach Arbeit.
+  regions: [nordamerika]
+  themes: [migration, gesellschaft]
+  places: [chicago, new-york]
+- id: gruendung-der-naacp
+  title: Gründung der NAACP
+  date: "1909-02-12"
+  dateNote: Am 12. Februar 1909, Lincolns 100. Geburtstag, erschien der Gründungsaufruf; die Organisation erhielt 1910 ihren Namen.
+  weight: 3
+  kind: gruendung
+  summary: Nach einem Pogrom in Springfield (Illinois) rufen Schwarze und weiße Reformer zur Gründung einer Organisation für die Rechte der Afroamerikaner auf; W. E. B. Du Bois wird Herausgeber ihrer Zeitschrift „The Crisis“.
+  regions: [nordamerika]
+  themes: [gesellschaft]
+  places: [new-york]
+  persons: [w-e-b-du-bois, ida-b-wells]
+  polities: [naacp]
+- id: executive-order-9981
+  title: Aufhebung der Rassentrennung in den Streitkräften
+  aliases: [Executive Order 9981]
+  date: "1948-07-26"
+  weight: 3
+  kind: gesetz
+  summary: Präsident Truman ordnet die Gleichbehandlung aller Angehörigen der Streitkräfte ohne Rücksicht auf Rasse an; die tatsächliche Integration der Einheiten zieht sich bis in den Koreakrieg.
+  regions: [nordamerika]
+  themes: [krieg-militaer, verfassung-recht]
+  places: [washington]
+  persons: [harry-s-truman, a-philip-randolph]
+  polities: [vereinigte-staaten]
+- id: brown-v-board-of-education
+  title: Urteil Brown v. Board of Education
+  date: "1954-05-17"
+  weight: 1
+  kind: gesetz
+  summary: Der Supreme Court erklärt einstimmig die Rassentrennung an öffentlichen Schulen für verfassungswidrig und hebt damit für das Bildungswesen die Doktrin „getrennt, aber gleich“ auf; ein Folgeurteil von 1955 verlangt die Umsetzung jedoch nur „mit aller gebotenen Eile“.
+  regions: [nordamerika]
+  themes: [verfassung-recht, gesellschaft]
+  places: [washington, topeka]
+  persons: [thurgood-marshall, earl-warren]
+  polities: [naacp, vereinigte-staaten]
+- id: mord-an-emmett-till
+  title: Mord an Emmett Till
+  date: "1955-08-28"
+  weight: 2
+  kind: ereignis
+  summary: Der vierzehnjährige Emmett Till aus Chicago wird im Mississippi-Delta entführt und ermordet; ein rein weißes Geschworenengericht spricht die beiden Täter im September frei, die die Tat später gegen Bezahlung einem Magazin gestehen.
+  regions: [nordamerika]
+  themes: [gewalt-genozid, gesellschaft]
+  places: [money-mississippi, chicago]
+  persons: [emmett-till, mamie-till-mobley, medgar-evers]
+- id: montgomery-busboykott
+  title: Busboykott von Montgomery
+  start: "1955-12-05"
+  end: "1956-12-20"
+  weight: 1
+  kind: ereignis
+  summary: Nach der Festnahme Rosa Parks’ meiden die Schwarzen Einwohner Montgomerys über ein Jahr lang die städtischen Busse; der Boykott endet, nachdem der Supreme Court die Rassentrennung in den Bussen für verfassungswidrig erklärt hat, und macht Martin Luther King landesweit bekannt.
+  regions: [nordamerika]
+  themes: [gesellschaft, verfassung-recht]
+  places: [montgomery]
+  persons: [rosa-parks, martin-luther-king, bayard-rustin]
+- id: little-rock-krise
+  title: Krise von Little Rock
+  start: "1957-09-04"
+  end: "1957-09-25"
+  weight: 2
+  kind: ereignis
+  summary: Gouverneur Faubus lässt die Nationalgarde neun Schwarze Jugendliche am Betreten der Central High School hindern; nach Ausschreitungen eines weißen Mobs schickt Präsident Eisenhower Fallschirmjäger, die die „Little Rock Nine“ am 25. September in die Schule geleiten.
+  regions: [nordamerika]
+  themes: [politik, gesellschaft]
+  places: [little-rock]
+  persons: [orval-faubus, dwight-d-eisenhower]
+  polities: [vereinigte-staaten]
+- id: sit-in-greensboro
+  title: Sit-in von Greensboro
+  date: "1960-02-01"
+  weight: 2
+  kind: ereignis
+  summary: Vier Studenten eines Schwarzen Colleges setzen sich an die Weißen vorbehaltene Imbisstheke eines Woolworth-Kaufhauses; innerhalb weniger Wochen breiten sich Sit-ins in Dutzende Städte des Südens aus.
+  regions: [nordamerika]
+  themes: [gesellschaft]
+  places: [greensboro]
+- id: gruendung-des-sncc
+  title: Gründung des SNCC
+  start: "1960-04-15"
+  end: "1960-04-17"
+  weight: 3
+  kind: gruendung
+  summary: Auf einer von Ella Baker einberufenen Konferenz an der Shaw University in Raleigh (North Carolina) gründen Studierende der Sit-in-Bewegung eine eigene, von den älteren Organisationen unabhängige Vereinigung.
+  regions: [nordamerika]
+  themes: [gesellschaft]
+  persons: [ella-baker, diane-nash, john-lewis]
+  polities: [sncc]
+- id: freedom-rides
+  title: Freedom Rides
+  start: "1961-05-04"
+  end: "1961-11-01"
+  dateNote: Ende hier mit dem Inkrafttreten der Anordnung der Bundesverkehrsbehörde (ICC), die die Trennung im Fernbusverkehr untersagte.
+  weight: 2
+  kind: ereignis
+  summary: Gemischte Gruppen fahren in Fernbussen durch den Süden, um die Aufhebung der Rassentrennung in Bussen und Busbahnhöfen zu prüfen; in Alabama wird ein Bus in Brand gesetzt, in Birmingham und Montgomery schlagen weiße Mobs die Fahrenden zusammen.
+  regions: [nordamerika]
+  themes: [gesellschaft, gewalt-genozid]
+  places: [birmingham-alabama, montgomery]
+  persons: [john-lewis, diane-nash, bull-connor, robert-f-kennedy]
+- id: birmingham-kampagne-1963
+  title: Kampagne von Birmingham
+  start: "1963-04-03"
+  end: "1963-05-10"
+  weight: 1
+  kind: ereignis
+  summary: Die SCLC organisiert Boykotte und Demonstrationen gegen die Rassentrennung in Birmingham; King schreibt im Gefängnis seinen „Brief“, im Mai lässt Bull Connor Hunde und Wasserwerfer gegen demonstrierende Kinder einsetzen, und die Bilder erzwingen ein Abkommen mit der lokalen Geschäftswelt.
+  regions: [nordamerika]
+  themes: [gesellschaft, gewalt-genozid]
+  places: [birmingham-alabama]
+  persons: [martin-luther-king, bull-connor]
+  polities: [sclc]
+- id: marsch-auf-washington
+  title: Marsch auf Washington für Arbeit und Freiheit
+  aliases: [March on Washington]
+  date: "1963-08-28"
+  weight: 1
+  kind: ereignis
+  summary: Rund 250.000 Menschen demonstrieren in Washington für Bürgerrechte und Arbeitsplätze; am Lincoln Memorial hält Martin Luther King seine Rede „I Have a Dream“.
+  regions: [nordamerika]
+  themes: [gesellschaft, politik]
+  places: [washington]
+  persons: [martin-luther-king, a-philip-randolph, bayard-rustin, john-lewis]
+- id: anschlag-16th-street-baptist-church
+  title: Bombenanschlag auf die 16th Street Baptist Church
+  date: "1963-09-15"
+  weight: 3
+  kind: ereignis
+  summary: Mitglieder des Ku-Klux-Klans zünden eine Bombe an einer Schwarzen Kirche in Birmingham, die vier Mädchen tötet.
+  regions: [nordamerika]
+  themes: [gewalt-genozid]
+  places: [birmingham-alabama]
+- id: freedom-summer
+  title: Freedom Summer
+  aliases: [Mississippi Summer Project]
+  start: "1964-06"
+  end: "1964-08"
+  weight: 2
+  kind: ereignis
+  summary: Hunderte meist weiße Studierende aus dem Norden helfen in Mississippi bei der Wählerregistrierung und in „Freiheitsschulen“; drei Aktivisten – James Chaney, Andrew Goodman und Michael Schwerner – werden im Juni ermordet, im August fordert die Mississippi Freedom Democratic Party vergeblich die Sitze der rein weißen Delegation auf dem Parteitag der Demokraten.
+  regions: [nordamerika]
+  themes: [gesellschaft, politik]
+  persons: [fannie-lou-hamer, lyndon-b-johnson]
+  polities: [sncc]
+- id: civil-rights-act-1964
+  title: Civil Rights Act
+  aliases: [Bürgerrechtsgesetz von 1964]
+  date: "1964-07-02"
+  weight: 1
+  kind: gesetz
+  summary: Präsident Johnson unterzeichnet nach dem längsten Filibuster in der Geschichte des Senats das Gesetz, das Rassentrennung in öffentlichen Einrichtungen und Diskriminierung am Arbeitsplatz verbietet.
+  regions: [nordamerika]
+  themes: [verfassung-recht, gesellschaft]
+  places: [washington]
+  persons: [lyndon-b-johnson]
+  polities: [vereinigte-staaten]
+- id: ermordung-malcolm-x
+  title: Ermordung von Malcolm X
+  date: "1965-02-21"
+  weight: 3
+  kind: ereignis
+  summary: Malcolm X wird bei einer Rede im Audubon Ballroom in New York von Mitgliedern der Nation of Islam erschossen; die Verurteilung zweier Männer wurde 2021 aufgehoben.
+  regions: [nordamerika]
+  themes: [gewalt-genozid, politik]
+  places: [new-york]
+  persons: [malcolm-x]
+- id: bloody-sunday-selma
+  title: "„Bloody Sunday“ von Selma"
+  date: "1965-03-07"
+  weight: 2
+  kind: ereignis
+  summary: Staatspolizisten und Hilfssheriffs greifen an der Edmund-Pettus-Brücke rund 600 Demonstrierende an, die nach Montgomery marschieren wollen; die Fernsehbilder lösen landesweite Empörung aus.
+  regions: [nordamerika]
+  themes: [gewalt-genozid, politik]
+  places: [selma]
+  persons: [john-lewis, george-wallace]
+- id: marsch-selma-montgomery
+  title: Marsch von Selma nach Montgomery
+  start: "1965-03-21"
+  end: "1965-03-25"
+  weight: 2
+  kind: ereignis
+  summary: Unter dem Schutz von Bundestruppen ziehen Demonstrierende in fünf Tagen nach Montgomery, wo am Ende rund 25.000 Menschen vor dem Kapitol Alabamas stehen.
+  regions: [nordamerika]
+  themes: [politik, gesellschaft]
+  places: [selma, montgomery]
+  persons: [martin-luther-king, john-lewis]
+  polities: [sclc]
+- id: voting-rights-act-1965
+  title: Voting Rights Act
+  aliases: [Wahlrechtsgesetz von 1965]
+  date: "1965-08-06"
+  weight: 1
+  kind: gesetz
+  summary: Das Wahlrechtsgesetz verbietet Lese- und Schreibtests und stellt Bezirke mit niedriger Wahlbeteiligung unter Bundesaufsicht; in den folgenden Jahren steigt die Zahl der registrierten Schwarzen Wähler im Süden stark an.
+  regions: [nordamerika]
+  themes: [verfassung-recht, politik]
+  places: [washington]
+  persons: [lyndon-b-johnson]
+  polities: [vereinigte-staaten]
+- id: ermordung-martin-luther-king
+  title: Ermordung Martin Luther Kings
+  date: "1968-04-04"
+  weight: 1
+  kind: ereignis
+  summary: Martin Luther King wird in Memphis, wo er streikende Müllarbeiter unterstützt, von James Earl Ray erschossen; in über hundert Städten kommt es zu Unruhen, eine Woche später unterzeichnet Johnson ein Gesetz gegen Diskriminierung auf dem Wohnungsmarkt.
+  regions: [nordamerika]
+  themes: [gewalt-genozid, politik]
+  places: [memphis-tennessee]
+  persons: [martin-luther-king, lyndon-b-johnson]

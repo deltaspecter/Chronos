@@ -1,0 +1,231 @@
+# Quellen und Literatur: Die Bürgerrechtsbewegung in den USA (r16-civil)
+
+# --- Primärquellen ---
+- id: q-plessy-1896
+  kind: primaer
+  authors: ["Supreme Court of the United States"]
+  title: Plessy v. Ferguson, 163 U.S. 537
+  written: Washington, D.C., 18. Mai 1896
+  note: Urteil des Obersten Gerichtshofs, das die Rassentrennung in Eisenbahnwagen Louisianas für verfassungsgemäß erklärte, sofern die Einrichtungen „gleichwertig“ seien – Grundlage der Doktrin „separate but equal“.
+- id: q-wells-1892
+  kind: primaer
+  authors: ["Wells, Ida B."]
+  title: Southern Horrors
+  subtitle: Lynch Law in All Its Phases
+  place: New York
+  year: 1892
+  written: New York, 1892
+  note: Flugschrift der Journalistin Ida B. Wells, die anhand von Zeitungsberichten zeigte, dass Lynchmorde in den Südstaaten meist mit erfundenen Vergewaltigungsvorwürfen gerechtfertigt wurden.
+- id: q-du-bois-1903
+  kind: primaer
+  authors: ["Du Bois, W. E. B."]
+  title: The Souls of Black Folk
+  subtitle: Essays and Sketches
+  place: Chicago
+  publisher: A. C. McClurg
+  year: 1903
+  written: Atlanta, 1897–1903
+  note: Essaysammlung des Soziologen W. E. B. Du Bois, die das „doppelte Bewusstsein“ Schwarzer Amerikaner beschrieb und die Anpassungsstrategie Booker T. Washingtons kritisierte.
+- id: q-brown-1954
+  kind: primaer
+  authors: ["Supreme Court of the United States"]
+  title: Brown v. Board of Education of Topeka, 347 U.S. 483
+  written: Washington, D.C., 17. Mai 1954
+  note: Einstimmiges Urteil unter dem Vorsitz von Earl Warren, das die Rassentrennung an öffentlichen Schulen für verfassungswidrig erklärte.
+- id: q-king-birmingham-1963
+  kind: primaer
+  authors: ["King, Martin Luther, Jr."]
+  title: Letter from Birmingham Jail
+  written: Birmingham, Alabama, 16. April 1963
+  note: Im Gefängnis verfasster offener Brief, in dem King auf die Kritik weißer Geistlicher antwortete und gewaltfreie direkte Aktionen sowie das Brechen ungerechter Gesetze rechtfertigte.
+- id: q-king-1963
+  kind: primaer
+  authors: ["King, Martin Luther, Jr."]
+  title: I Have a Dream
+  written: Washington, D.C., Lincoln Memorial, 28. August 1963
+  note: Rede zum Abschluss des Marschs auf Washington für Arbeit und Freiheit.
+- id: q-civil-rights-act-1964
+  kind: primaer
+  authors: ["Congress of the United States"]
+  title: Civil Rights Act of 1964
+  written: Washington, D.C., unterzeichnet am 2. Juli 1964
+  note: Bundesgesetz, das Diskriminierung nach Rasse, Hautfarbe, Religion, Geschlecht oder nationaler Herkunft in öffentlichen Einrichtungen und im Arbeitsleben verbot.
+- id: q-hamer-1964
+  kind: primaer
+  authors: ["Hamer, Fannie Lou"]
+  title: Aussage vor dem Beglaubigungsausschuss des Parteitags der Demokraten
+  written: Atlantic City, 22. August 1964
+  note: Im Fernsehen übertragene Schilderung, wie Hamer nach ihrem Versuch, sich als Wählerin registrieren zu lassen, ihre Arbeit verlor und im Gefängnis von Winona (Mississippi) schwer misshandelt wurde.
+- id: q-malcolm-x-1965
+  kind: primaer
+  authors: ["Malcolm X", "Haley, Alex"]
+  title: The Autobiography of Malcolm X
+  place: New York
+  publisher: Grove Press
+  year: 1965
+  written: New York, 1963–1965
+  note: Gemeinsam mit dem Journalisten Alex Haley verfasste Lebensgeschichte, kurz nach Malcolm X’ Ermordung erschienen; ein vielgelesenes, aber stark stilisiertes Selbstzeugnis.
+- id: q-johnson-1965
+  kind: primaer
+  authors: ["Johnson, Lyndon B."]
+  title: Special Message to the Congress – The American Promise
+  written: Washington, D.C., 15. März 1965
+  note: Fernsehansprache vor beiden Kammern des Kongresses nach dem „Bloody Sunday“ von Selma, in der Johnson ein Wahlrechtsgesetz forderte und die Worte „We shall overcome“ aufgriff.
+- id: q-voting-rights-act-1965
+  kind: primaer
+  authors: ["Congress of the United States"]
+  title: Voting Rights Act of 1965
+  written: Washington, D.C., unterzeichnet am 6. August 1965
+  note: Bundesgesetz, das Lese- und Schreibtests als Wahlvoraussetzung verbot und Bezirke mit niedriger Wahlbeteiligung der Aufsicht des Bundes unterstellte.
+
+# --- Forschung ---
+- id: woodward-1955
+  kind: sekundaer
+  authors: ["Woodward, C. Vann"]
+  title: The Strange Career of Jim Crow
+  place: New York
+  publisher: Oxford University Press
+  year: 1955
+- id: wilkerson-2010
+  kind: sekundaer
+  authors: ["Wilkerson, Isabel"]
+  title: The Warmth of Other Suns
+  subtitle: The Epic Story of America's Great Migration
+  place: New York
+  publisher: Random House
+  year: 2010
+- id: klarman-2004
+  kind: sekundaer
+  authors: ["Klarman, Michael J."]
+  title: From Jim Crow to Civil Rights
+  subtitle: The Supreme Court and the Struggle for Racial Equality
+  place: New York
+  publisher: Oxford University Press
+  year: 2004
+- id: patterson-2001
+  kind: sekundaer
+  authors: ["Patterson, James T."]
+  title: Brown v. Board of Education
+  subtitle: A Civil Rights Milestone and Its Troubled Legacy
+  place: New York
+  publisher: Oxford University Press
+  year: 2001
+- id: tyson-2017
+  kind: sekundaer
+  authors: ["Tyson, Timothy B."]
+  title: The Blood of Emmett Till
+  place: New York
+  publisher: Simon & Schuster
+  year: 2017
+- id: branch-1988
+  kind: sekundaer
+  authors: ["Branch, Taylor"]
+  title: Parting the Waters
+  subtitle: America in the King Years, 1954–63
+  place: New York
+  publisher: Simon & Schuster
+  year: 1988
+- id: garrow-1986
+  kind: sekundaer
+  authors: ["Garrow, David J."]
+  title: Bearing the Cross
+  subtitle: Martin Luther King, Jr., and the Southern Christian Leadership Conference
+  place: New York
+  publisher: William Morrow
+  year: 1986
+- id: morris-1984
+  kind: sekundaer
+  authors: ["Morris, Aldon D."]
+  title: The Origins of the Civil Rights Movement
+  subtitle: Black Communities Organizing for Change
+  place: New York
+  publisher: Free Press
+  year: 1984
+- id: theoharis-2013
+  kind: sekundaer
+  authors: ["Theoharis, Jeanne"]
+  title: The Rebellious Life of Mrs. Rosa Parks
+  place: Boston
+  publisher: Beacon Press
+  year: 2013
+- id: carson-1981
+  kind: sekundaer
+  authors: ["Carson, Clayborne"]
+  title: In Struggle
+  subtitle: SNCC and the Black Awakening of the 1960s
+  place: Cambridge, Mass.
+  publisher: Harvard University Press
+  year: 1981
+- id: arsenault-2006
+  kind: sekundaer
+  authors: ["Arsenault, Raymond"]
+  title: Freedom Riders
+  subtitle: 1961 and the Struggle for Racial Justice
+  place: New York
+  publisher: Oxford University Press
+  year: 2006
+- id: payne-1995
+  kind: sekundaer
+  authors: ["Payne, Charles M."]
+  title: I've Got the Light of Freedom
+  subtitle: The Organizing Tradition and the Mississippi Freedom Struggle
+  place: Berkeley
+  publisher: University of California Press
+  year: 1995
+- id: dittmer-1994
+  kind: sekundaer
+  authors: ["Dittmer, John"]
+  title: Local People
+  subtitle: The Struggle for Civil Rights in Mississippi
+  place: Urbana
+  publisher: University of Illinois Press
+  year: 1994
+- id: ransby-2003
+  kind: sekundaer
+  authors: ["Ransby, Barbara"]
+  title: Ella Baker and the Black Freedom Movement
+  subtitle: A Radical Democratic Vision
+  place: Chapel Hill
+  publisher: University of North Carolina Press
+  year: 2003
+- id: dudziak-2000
+  kind: sekundaer
+  authors: ["Dudziak, Mary L."]
+  title: Cold War Civil Rights
+  subtitle: Race and the Image of American Democracy
+  place: Princeton
+  publisher: Princeton University Press
+  year: 2000
+- id: marable-2011
+  kind: sekundaer
+  authors: ["Marable, Manning"]
+  title: Malcolm X
+  subtitle: A Life of Reinvention
+  place: New York
+  publisher: Viking
+  year: 2011
+- id: joseph-2006
+  kind: sekundaer
+  authors: ["Joseph, Peniel E."]
+  title: Waiting 'Til the Midnight Hour
+  subtitle: A Narrative History of Black Power in America
+  place: New York
+  publisher: Henry Holt
+  year: 2006
+- id: hall-2005
+  kind: sekundaer
+  authors: ["Hall, Jacquelyn Dowd"]
+  title: The Long Civil Rights Movement and the Political Uses of the Past
+  container: Journal of American History
+  volume: 91
+  pages: 1233–1263
+  year: 2005
+- id: cha-jua-lang-2007
+  kind: sekundaer
+  authors: ["Cha-Jua, Sundiata Keita", "Lang, Clarence"]
+  title: The „Long Movement“ as Vampire
+  subtitle: Temporal and Spatial Fallacies in Recent Black Freedom Studies
+  container: Journal of African American History
+  volume: 92
+  pages: 265–288
+  year: 2007

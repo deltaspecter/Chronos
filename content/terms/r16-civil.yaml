@@ -1,0 +1,35 @@
+# Begriffe: Die Bürgerrechtsbewegung in den USA (r16-civil)
+- id: lynchjustiz
+  name: Lynchjustiz
+  aliases: [Lynching, Lynchmord]
+  definition: Öffentliche, außergerichtliche Tötung eines angeblichen Täters durch eine Menschenmenge; in den Südstaaten der USA zwischen etwa 1880 und 1940 ein Mittel des rassistischen Terrors, dem nach gängigen Zählungen mehrere Tausend Afroamerikaner zum Opfer fielen.
+  themes: [gewalt-genozid, gesellschaft]
+- id: separate-but-equal
+  name: "„Separate but equal“"
+  aliases: ["Getrennt, aber gleich"]
+  definition: Rechtsformel aus dem Urteil Plessy v. Ferguson (1896), nach der getrennte Einrichtungen für Schwarze und Weiße verfassungsgemäß seien, wenn sie gleichwertig seien; in der Praxis waren die Einrichtungen für Schwarze fast immer schlechter. Für Schulen 1954 durch Brown v. Board of Education aufgehoben.
+  themes: [verfassung-recht]
+- id: wahlrechtsentzug
+  name: Wahlrechtsentzug im Süden
+  aliases: [Disenfranchisement, Wahlsteuer, Poll Tax, Lesetest]
+  definition: Bündel formal „farbenblinder“ Vorschriften wie Wahlsteuern, Lese- und Verfassungstests, Großvaterklauseln und Vorwahlen nur für Weiße, mit denen die Südstaaten seit den 1890er-Jahren Afroamerikaner trotz des 15. Verfassungszusatzes vom Wählen ausschlossen.
+  themes: [verfassung-recht, politik]
+- id: gewaltfreie-direkte-aktion
+  name: Gewaltfreie direkte Aktion
+  aliases: [Nonviolent direct action, ziviler Ungehorsam]
+  definition: Methode der Bürgerrechtsbewegung, mit Boykotts, Sit-ins, Märschen und bewusster Übertretung ungerechter Gesetze ohne Gegengewalt eine Krise herbeizuführen, die Verhandlungen erzwingt; angelehnt an Gandhis Satyagraha und an christliche Traditionen.
+  themes: [gesellschaft, politik]
+- id: sit-in
+  name: Sit-in
+  aliases: [Sitzstreik]
+  definition: Protestform, bei der Demonstrierende sich in Einrichtungen setzen, die ihnen verwehrt sind – etwa an die Weißen vorbehaltenen Imbisstheken – und dort bleiben, bis sie bedient oder festgenommen werden.
+  themes: [gesellschaft]
+- id: black-power
+  name: Black Power
+  definition: Ab 1966 durch Stokely Carmichael populär gewordene Parole und Strömung, die politische und wirtschaftliche Selbstbestimmung Schwarzer Gemeinschaften, Schwarzen Stolz und das Recht auf Selbstverteidigung betonte und der Integration durch weiße Verbündete misstraute.
+  themes: [politik, gesellschaft]
+- id: long-civil-rights-movement
+  name: Long Civil Rights Movement
+  aliases: [Lange Bürgerrechtsbewegung]
+  definition: Von der Historikerin Jacquelyn Dowd Hall 2005 programmatisch formulierte Deutung, die die Bürgerrechtsbewegung nicht auf die Jahre 1954–1965 im Süden beschränkt, sondern bis in die 1930er-Jahre zurückführt, den Norden einbezieht und Fragen von Arbeit und Wirtschaft betont.
+  themes: [geschichtsschreibung]

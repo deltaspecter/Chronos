@@ -1,0 +1,181 @@
+# Personen: Die normannische Eroberung Englands 1066
+- id: eduard-der-bekenner
+  name: Eduard der Bekenner
+  aliases: [Edward the Confessor, Eadweard, Eduard III.]
+  born: "~1004"
+  died: "1066-01-05"
+  roles: [König von England]
+  summary: Sohn Æthelreds II. und Emmas von der Normandie, der während der dänischen Herrschaft über England rund 25 Jahre im Exil, vor allem in der Normandie, lebte und 1042 König wurde. Seine Ehe mit Edith, der Tochter Godwins, blieb kinderlos; sein Tod im Januar 1066 löste die Thronfolgekrise aus. 1161 wurde er heiliggesprochen.
+  regions: [britische-inseln, frankreich]
+  themes: [politik, religion]
+  places: [westminster-abbey]
+  related: [emma-von-der-normandie, godwin-von-wessex, harold-godwinson, wilhelm-der-eroberer]
+- id: emma-von-der-normandie
+  name: Emma von der Normandie
+  aliases: [Ælfgifu, Emma of Normandy]
+  born: "~985"
+  died: "1052"
+  roles: [Königin von England]
+  summary: Tochter Herzog Richards I. der Normandie, nacheinander mit Æthelred II. und Knut dem Großen verheiratet und Mutter der Könige Harthaknut und Eduard des Bekenners; über sie war das englische Königshaus mit den normannischen Herzögen verwandt, worauf Wilhelm später seinen Anspruch stützte. Die Schrift Encomium Emmae Reginae entstand in ihrem Auftrag.
+  regions: [britische-inseln, frankreich]
+  themes: [politik]
+  related: [eduard-der-bekenner, knut-der-grosse]
+- id: godwin-von-wessex
+  name: Godwin von Wessex
+  aliases: [Godwine, Earl Godwin]
+  died: "1053"
+  roles: [Earl von Wessex]
+  summary: Unter Knut dem Großen aufgestiegener Earl von Wessex, der mächtigste Mann Englands unter Eduard dem Bekenner und Vater Harolds, Tostigs und der Königin Edith. 1051 wurde er mit seiner Familie verbannt, kehrte 1052 mit Waffengewalt zurück und erzwang seine Wiedereinsetzung.
+  regions: [britische-inseln]
+  themes: [politik]
+  related: [harold-godwinson, tostig-godwinson, eduard-der-bekenner]
+- id: tostig-godwinson
+  name: Tostig Godwinson
+  aliases: [Tostig]
+  died: "1066-09-25"
+  roles: [Earl von Northumbrien]
+  summary: Bruder Harold Godwinsons, seit 1055 Earl von Northumbrien; ein Aufstand der Northumbrier vertrieb ihn 1065, und Harold stimmte seiner Absetzung zu. Er verbündete sich mit Harald Hardrada und fiel mit ihm bei Stamford Bridge.
+  regions: [britische-inseln]
+  themes: [politik, krieg-militaer]
+  places: [stamford-bridge]
+  related: [harold-godwinson, harald-hardrada]
+- id: edwin-von-mercia
+  name: Edwin von Mercia
+  aliases: [Eadwine]
+  died: "1071"
+  roles: [Earl von Mercia]
+  summary: Seit 1062 Earl von Mercia und Bruder Morcars; beide unterlagen am 20. September 1066 bei Fulford dem norwegischen Heer. Nach Hastings unterwarf er sich Wilhelm, rebellierte aber 1068 und erneut 1071 und wurde auf der Flucht von eigenen Gefolgsleuten getötet.
+  regions: [britische-inseln]
+  themes: [politik, krieg-militaer]
+  places: [fulford]
+  related: [morcar-von-northumbrien]
+- id: morcar-von-northumbrien
+  name: Morcar von Northumbrien
+  aliases: [Morcar]
+  roles: [Earl von Northumbrien]
+  summary: Bruder Edwins von Mercia, den die aufständischen Northumbrier 1065 an Stelle Tostigs zum Earl wählten. Nach der Eroberung schloss er sich 1071 dem Widerstand in Ely an, geriet in Gefangenschaft und blieb bis zum Tod Wilhelms 1087 in Haft; sein Todesjahr ist unbekannt.
+  regions: [britische-inseln]
+  themes: [politik]
+  places: [ely]
+  related: [edwin-von-mercia, hereward]
+- id: edgar-aetheling
+  name: Edgar Ætheling
+  aliases: [Edgar Atheling, Eadgar]
+  born: "~1052"
+  roles: [Thronprätendent]
+  summary: Großneffe Eduards des Bekenners und letzter männlicher Angehöriger des westsächsischen Königshauses; nach Hastings von den Großen in London zum König ausgerufen, unterwarf er sich jedoch Wilhelm. Er beteiligte sich an den Aufständen von 1069 und lebte bis weit ins 12. Jahrhundert; sein Todesjahr ist nicht sicher bekannt.
+  regions: [britische-inseln]
+  themes: [politik]
+  places: [london]
+  related: [eduard-der-bekenner, wilhelm-der-eroberer]
+- id: odo-von-bayeux
+  name: Odo von Bayeux
+  aliases: [Odo of Bayeux, Odo von Conteville]
+  born: "~1035?"
+  died: "1097"
+  roles: [Bischof von Bayeux, Earl von Kent]
+  summary: Halbbruder Wilhelms des Eroberers, seit etwa 1049 Bischof von Bayeux, Teilnehmer der Schlacht bei Hastings und danach Earl von Kent und einer der reichsten Grundherren Englands. Er gilt als wahrscheinlicher Auftraggeber des Teppichs von Bayeux. 1082 ließ Wilhelm ihn verhaften; er starb auf dem Weg zum Ersten Kreuzzug in Palermo.
+  regions: [frankreich, britische-inseln]
+  themes: [politik, religion, kultur-kunst]
+  places: [bayeux]
+  related: [wilhelm-der-eroberer]
+- id: alexander-ii-papst
+  name: Alexander II.
+  aliases: [Anselm von Lucca (der Ältere), Papst Alexander II.]
+  died: "1073-04-21"
+  roles: [Papst]
+  summary: Reformpapst von 1061 bis 1073, der nach Wilhelm von Poitiers den Feldzug Wilhelms gegen England mit einem geweihten Banner billigte; 1070 setzten seine Legaten in England Erzbischof Stigand ab.
+  regions: [italien]
+  themes: [religion, politik]
+  places: [rom]
+  related: [wilhelm-der-eroberer, stigand, lanfranc]
+- id: stigand
+  name: Stigand
+  aliases: [Stigand von Canterbury]
+  died: "1072"
+  roles: [Erzbischof von Canterbury, Bischof von Winchester]
+  summary: Seit 1052 Erzbischof von Canterbury, ohne dass sein vertriebener normannischer Vorgänger Robert von Jumièges abgesetzt worden war, und zugleich Bischof von Winchester; das Reformpapsttum erkannte ihn nicht an. 1070 wurde er von päpstlichen Legaten abgesetzt und starb in Haft.
+  regions: [britische-inseln]
+  themes: [religion]
+  places: [canterbury, winchester]
+  related: [lanfranc, alexander-ii-papst]
+- id: lanfranc
+  name: Lanfranc von Bec
+  aliases: [Lanfranc von Canterbury, Lanfranc von Pavia]
+  born: "~1010"
+  died: "1089"
+  roles: [Erzbischof von Canterbury, Abt, Theologe]
+  summary: Aus Pavia stammender Rechtsgelehrter und Mönch, Lehrer in Bec und erster Abt von Saint-Étienne in Caen, seit 1070 Erzbischof von Canterbury. Als engster kirchlicher Berater Wilhelms reorganisierte er die englische Kirche, setzte den Vorrang Canterburys über York durch und begann den Neubau der Kathedrale.
+  regions: [italien, frankreich, britische-inseln]
+  themes: [religion, politik]
+  places: [canterbury, caen]
+  related: [wilhelm-der-eroberer, stigand, anselm-von-canterbury]
+- id: ealdred-von-york
+  name: Ealdred von York
+  aliases: [Aldred]
+  died: "1069-09-11"
+  roles: [Erzbischof von York]
+  summary: Seit 1061 Erzbischof von York und erfahrener Diplomat; er krönte am Weihnachtstag 1066 in Westminster Wilhelm zum König, da Stigand als Erzbischof von Canterbury nicht allgemein anerkannt war.
+  regions: [britische-inseln]
+  themes: [religion, politik]
+  places: [york, westminster-abbey]
+  related: [wilhelm-der-eroberer]
+- id: wulfstan-von-worcester
+  name: Wulfstan von Worcester
+  aliases: [Wulfstan II., Saint Wulfstan]
+  born: "~1008"
+  died: "1095-01-20"
+  roles: [Bischof von Worcester]
+  summary: Seit 1062 Bischof von Worcester und nach dem Tod der übrigen englischen Bischöfe bald der einzige Engländer im Episkopat; er arbeitete mit den normannischen Königen zusammen und galt schon zu Lebzeiten als heiligmäßig.
+  regions: [britische-inseln]
+  themes: [religion]
+  related: [lanfranc]
+- id: sven-estridsson
+  name: Sven Estridsson
+  aliases: [Svend Estridsen, Sweyn Estrithson]
+  born: "~1019"
+  died: "~1074?"
+  roles: [König von Dänemark]
+  summary: Neffe Knuts des Großen und seit 1047 König von Dänemark, der selbst Ansprüche auf England erhob; 1069 schickte er eine Flotte, die mit englischen Aufständischen York einnahm, sich aber 1070 gegen Zahlung zurückzog. Sein Todesjahr wird mit 1074 oder 1076 angegeben.
+  regions: [nordeuropa, britische-inseln]
+  themes: [politik, krieg-militaer]
+  related: [knut-der-grosse, wilhelm-der-eroberer]
+- id: hereward
+  name: Hereward
+  aliases: [Hereward the Wake, Hereward der Wachsame]
+  roles: [Anführer des Widerstands]
+  summary: Englischer Grundbesitzer aus dem Gebiet der Fens, der 1070 mit dänischen Kriegern Peterborough plünderte und 1070–1071 auf der Insel Ely den Widerstand gegen Wilhelm anführte. Sein weiteres Schicksal ist unbekannt; der Beiname „the Wake“ ist erst spät belegt, und um ihn rankten sich bald Legenden.
+  regions: [britische-inseln]
+  themes: [krieg-militaer]
+  places: [ely]
+  related: [morcar-von-northumbrien]
+- id: waltheof
+  name: Waltheof
+  aliases: [Waltheof von Northumbrien, Waltheof of Huntingdon]
+  died: "1076-05-31"
+  roles: [Earl von Northumbrien, Earl von Huntingdon]
+  summary: Sohn des Earls Siward von Northumbrien, der sich nach Hastings Wilhelm unterwarf, 1069 die Aufständischen und Dänen bei York unterstützte und danach erneut in Gnade aufgenommen wurde. Wegen seiner Mitwisserschaft am Aufstand der Earls 1075 wurde er 1076 in Winchester enthauptet – als einziger englischer Earl, den Wilhelm hinrichten ließ.
+  regions: [britische-inseln]
+  themes: [politik]
+  places: [winchester]
+  related: [wilhelm-der-eroberer]
+- id: wilhelm-von-poitiers
+  name: Wilhelm von Poitiers
+  aliases: [William of Poitiers, Guillaume de Poitiers]
+  born: "~1020"
+  died: "~1090"
+  roles: [Geschichtsschreiber, Kaplan]
+  summary: Normannischer Adliger, ehemaliger Ritter und Kaplan Herzog Wilhelms, der um die Mitte der 1070er Jahre die Gesta Guillelmi verfasste, eine an antiken Vorbildern geschulte Rechtfertigung der Eroberung.
+  regions: [frankreich]
+  themes: [geschichtsschreibung]
+  related: [wilhelm-der-eroberer]
+- id: ordericus-vitalis
+  name: Ordericus Vitalis
+  aliases: [Orderic Vitalis, Orderich]
+  born: "1075"
+  died: "~1142"
+  roles: [Mönch, Geschichtsschreiber]
+  summary: In Shropshire als Sohn eines normannischen Priesters und einer englischen Mutter geboren, mit zehn Jahren in das normannische Kloster Saint-Évroult gegeben; seine Historia ecclesiastica ist die ausführlichste Darstellung der Eroberung und ihrer Folgen und verurteilt die Härte Wilhelms gegenüber den Engländern.
+  regions: [britische-inseln, frankreich]
+  themes: [geschichtsschreibung, religion]
+  related: [wilhelm-der-eroberer]

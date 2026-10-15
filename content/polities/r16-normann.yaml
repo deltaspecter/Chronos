@@ -1,0 +1,13 @@
+# Staaten: Die normannische Eroberung Englands 1066
+- id: anglo-normannisches-reich
+  name: Anglonormannisches Reich
+  aliases: [Anglo-Norman realm, Normannisches England, Anglonormannische Monarchie]
+  start: "1066"
+  end: "1154"
+  spanNote: Moderne Bezeichnung für die Verbindung des Königreichs England mit dem Herzogtum Normandie unter Wilhelm dem Eroberer und seinen Söhnen; 1087–1096 und 1100–1106 hatten beide Länder verschiedene Herrscher. 1154 ging die Herrschaft an Heinrich II. aus dem Haus Anjou über.
+  capital: winchester
+  summary: Herrschaftsverband beiderseits des Ärmelkanals, in dem die normannischen Könige von England zugleich Herzöge der Normandie waren; eine neue französischsprachige Adels- und Kirchenelite hielt Besitz in beiden Ländern.
+  regions: [britische-inseln, frankreich]
+  themes: [politik, imperien]
+  predecessors: [koenigreich-england, herzogtum-normandie]
+  weight: 2

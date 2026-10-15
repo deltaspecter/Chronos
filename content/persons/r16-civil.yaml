@@ -1,0 +1,178 @@
+# Personen: Die Bürgerrechtsbewegung in den USA (r16-civil)
+- id: ida-b-wells
+  name: Ida B. Wells
+  aliases: [Ida B. Wells-Barnett]
+  born: "1862-07-16"
+  died: "1931-03-25"
+  roles: [Journalistin, Bürgerrechtlerin]
+  summary: In Mississippi in der Sklaverei geborene Journalistin, die nach einem Lynchmord an drei Bekannten in Memphis 1892 eine Kampagne gegen die Lynchjustiz begann und zu den Gründungsmitgliedern der NAACP gehörte.
+  regions: [nordamerika]
+  themes: [gesellschaft, schrift-medien, gewalt-genozid]
+  places: [memphis-tennessee, chicago]
+- id: w-e-b-du-bois
+  name: W. E. B. Du Bois
+  aliases: [William Edward Burghardt Du Bois]
+  born: "1868-02-23"
+  died: "1963-08-27"
+  roles: [Soziologe, Historiker, Bürgerrechtler]
+  summary: Erster Schwarzer mit einem Doktortitel der Harvard University, Mitbegründer der NAACP und lange Herausgeber ihrer Zeitschrift „The Crisis“; Vordenker des Panafrikanismus, starb in Ghana am Vorabend des Marschs auf Washington.
+  regions: [nordamerika, westafrika]
+  themes: [gesellschaft, geschichtsschreibung, politik]
+  places: [atlanta]
+- id: a-philip-randolph
+  name: A. Philip Randolph
+  aliases: [Asa Philip Randolph]
+  born: "1889-04-15"
+  died: "1979-05-16"
+  roles: [Gewerkschafter, Bürgerrechtler]
+  summary: Gründer der Gewerkschaft der Schlafwagenschaffner (Brotherhood of Sleeping Car Porters), der 1941 mit einem angedrohten Marsch auf Washington ein Diskriminierungsverbot in der Rüstungsindustrie erzwang und 1963 den Marsch auf Washington leitete.
+  regions: [nordamerika]
+  themes: [gesellschaft, wirtschaft-handel]
+  places: [new-york, washington]
+- id: thurgood-marshall
+  name: Thurgood Marshall
+  born: "1908-07-02"
+  died: "1993-01-24"
+  roles: [Jurist, Richter am Supreme Court]
+  summary: Leitender Anwalt des Legal Defense Fund der NAACP, der den Fall Brown v. Board of Education vor dem Obersten Gerichtshof vertrat; 1967 von Lyndon B. Johnson als erster Afroamerikaner zum Richter am Supreme Court ernannt.
+  regions: [nordamerika]
+  themes: [verfassung-recht]
+  places: [washington]
+- id: earl-warren
+  name: Earl Warren
+  born: "1891-03-19"
+  died: "1974-07-09"
+  roles: [Gouverneur von Kalifornien, Oberster Richter der USA]
+  summary: Republikanischer Politiker, den Eisenhower 1953 zum Vorsitzenden Richter des Supreme Court ernannte; er sorgte 1954 für das einstimmige Urteil im Fall Brown und prägte ein Gericht, das Bürgerrechte stark ausweitete.
+  regions: [nordamerika]
+  themes: [verfassung-recht]
+  places: [washington]
+- id: emmett-till
+  name: Emmett Till
+  born: "1941-07-25"
+  died: "1955-08-28"
+  roles: [Opfer eines rassistischen Mordes]
+  summary: Vierzehnjähriger aus Chicago, der bei Verwandten im Mississippi-Delta von weißen Männern entführt und ermordet wurde, weil er angeblich eine weiße Frau angesprochen hatte; die Bilder seines Leichnams wurden zu einem Fanal der Bewegung.
+  regions: [nordamerika]
+  themes: [gewalt-genozid, gesellschaft]
+  places: [chicago, money-mississippi]
+- id: mamie-till-mobley
+  name: Mamie Till-Mobley
+  aliases: [Mamie Till Bradley]
+  born: "1921-11-23"
+  died: "2003-01-06"
+  roles: [Bürgerrechtlerin]
+  summary: Mutter Emmett Tills, die 1955 auf einem offenen Sarg bestand, damit die Welt sehe, was man ihrem Sohn angetan hatte, und danach jahrzehntelang öffentlich gegen rassistische Gewalt auftrat.
+  regions: [nordamerika]
+  themes: [gesellschaft]
+  places: [chicago]
+- id: rosa-parks
+  name: Rosa Parks
+  aliases: [Rosa Louise McCauley Parks]
+  born: "1913-02-04"
+  died: "2005-10-24"
+  roles: [Bürgerrechtlerin, Sekretärin der NAACP in Montgomery]
+  summary: Langjährige NAACP-Aktivistin aus Montgomery, deren Festnahme am 1. Dezember 1955, weil sie ihren Sitzplatz im Bus nicht räumte, den Busboykott auslöste; zog 1957 nach Detroit und blieb dort politisch aktiv.
+  regions: [nordamerika]
+  themes: [gesellschaft, politik]
+  places: [montgomery]
+- id: orval-faubus
+  name: Orval Faubus
+  born: "1910-01-07"
+  died: "1994-12-14"
+  roles: [Gouverneur von Arkansas]
+  summary: Demokratischer Gouverneur von Arkansas 1955–1967, der im September 1957 die Nationalgarde einsetzte, um neun Schwarze Jugendliche am Betreten der Central High School in Little Rock zu hindern.
+  regions: [nordamerika]
+  themes: [politik]
+  places: [little-rock]
+- id: ella-baker
+  name: Ella Baker
+  aliases: [Ella Josephine Baker]
+  born: "1903-12-13"
+  died: "1986-12-13"
+  roles: [Bürgerrechtlerin, Organisatorin]
+  summary: Organisatorin der NAACP in den Südstaaten, erste Geschäftsführerin der SCLC und Mentorin des SNCC, die gegen das Modell des charismatischen Führers auf die Selbstorganisation einfacher Menschen setzte.
+  regions: [nordamerika]
+  themes: [gesellschaft, politik]
+  places: [new-york, atlanta]
+- id: diane-nash
+  name: Diane Nash
+  born: "1938-05-15"
+  roles: [Studentin, Bürgerrechtlerin]
+  summary: Studentenführerin der Sit-ins von Nashville und Mitbegründerin des SNCC, die 1961 dafür sorgte, dass die Freedom Rides nach dem Angriff in Alabama fortgesetzt wurden.
+  regions: [nordamerika]
+  themes: [gesellschaft]
+  places: [birmingham-alabama, montgomery]
+- id: john-lewis
+  name: John Lewis
+  born: "1940-02-21"
+  died: "2020-07-17"
+  roles: [Bürgerrechtler, Abgeordneter im Repräsentantenhaus]
+  summary: Teilnehmer der Sit-ins und Freedom Rides, 1963–1966 Vorsitzender des SNCC und jüngster Redner beim Marsch auf Washington; am „Bloody Sunday“ 1965 in Selma schwer verletzt, ab 1987 Kongressabgeordneter für Georgia.
+  regions: [nordamerika]
+  themes: [gesellschaft, politik]
+  places: [selma, atlanta]
+- id: bayard-rustin
+  name: Bayard Rustin
+  born: "1912-03-17"
+  died: "1987-08-24"
+  roles: [Bürgerrechtler, Organisator]
+  summary: Pazifist und Kenner gewaltfreier Methoden nach Gandhis Vorbild, der King in Montgomery beriet und den Marsch auf Washington 1963 organisierte; wegen seiner Homosexualität und früheren kommunistischen Kontakte oft im Hintergrund gehalten.
+  regions: [nordamerika]
+  themes: [gesellschaft, politik]
+  places: [new-york, washington]
+- id: bull-connor
+  name: Eugene „Bull“ Connor
+  aliases: [Bull Connor, Theophilus Eugene Connor]
+  born: "1897-07-11"
+  died: "1973-03-10"
+  roles: [Polizeikommissar von Birmingham]
+  summary: Für Polizei und Feuerwehr zuständiger Stadtkommissar von Birmingham (Alabama), der 1961 die Angriffe auf die Freedom Riders duldete und im Mai 1963 Hunde und Wasserwerfer gegen demonstrierende Kinder und Jugendliche einsetzen ließ.
+  regions: [nordamerika]
+  themes: [politik, gewalt-genozid]
+  places: [birmingham-alabama]
+- id: medgar-evers
+  name: Medgar Evers
+  born: "1925-07-02"
+  died: "1963-06-12"
+  roles: [Bürgerrechtler, Feldsekretär der NAACP]
+  summary: Weltkriegsveteran und erster Feldsekretär der NAACP in Mississippi, der Morde wie den an Emmett Till untersuchte und im Juni 1963 vor seinem Haus in Jackson erschossen wurde.
+  regions: [nordamerika]
+  themes: [gesellschaft, politik]
+- id: george-wallace
+  name: George Wallace
+  aliases: [George C. Wallace]
+  born: "1919-08-25"
+  died: "1998-09-13"
+  roles: [Gouverneur von Alabama, Präsidentschaftskandidat]
+  summary: Gouverneur von Alabama, der 1963 „Rassentrennung für immer“ versprach, sich im Juni 1963 symbolisch der Aufnahme Schwarzer Studenten an der Universität von Alabama widersetzte und 1968 als Kandidat einer Drittpartei antrat.
+  regions: [nordamerika]
+  themes: [politik]
+  places: [montgomery, selma]
+- id: fannie-lou-hamer
+  name: Fannie Lou Hamer
+  born: "1917-10-06"
+  died: "1977-03-14"
+  roles: [Landarbeiterin, Bürgerrechtlerin]
+  summary: Pächterin aus dem Mississippi-Delta, die 1962 ihre Arbeit verlor, weil sie sich als Wählerin registrieren lassen wollte, und 1964 als Sprecherin der Mississippi Freedom Democratic Party landesweit bekannt wurde.
+  regions: [nordamerika]
+  themes: [gesellschaft, politik]
+- id: malcolm-x
+  name: Malcolm X
+  aliases: [Malcolm Little, El-Hajj Malik El-Shabazz]
+  born: "1925-05-19"
+  died: "1965-02-21"
+  roles: [Prediger, Bürgerrechtler]
+  summary: Bekanntester Prediger der Nation of Islam, der Integration und Gewaltfreiheit als Ziel und Methode kritisierte und Selbstverteidigung sowie Schwarzen Stolz propagierte; nach dem Bruch mit der Organisation 1964 und einer Pilgerfahrt nach Mekka 1965 in New York ermordet.
+  regions: [nordamerika, westafrika, arabische-halbinsel]
+  themes: [religion, politik, gesellschaft]
+  places: [new-york]
+- id: stokely-carmichael
+  name: Stokely Carmichael
+  aliases: [Kwame Ture]
+  born: "1941-06-29"
+  died: "1998-11-15"
+  roles: [Bürgerrechtler, Vorsitzender des SNCC]
+  summary: In Trinidad geborener Aktivist des SNCC, der 1966 als dessen Vorsitzender die Parole „Black Power“ populär machte, später in Guinea lebte und den Namen Kwame Ture annahm.
+  regions: [nordamerika, karibik, westafrika]
+  themes: [politik, gesellschaft]
