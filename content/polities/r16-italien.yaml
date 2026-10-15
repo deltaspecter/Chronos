@@ -1,0 +1,38 @@
+# Staaten: Die Einigung Italiens (Risorgimento)
+- id: koenigreich-beider-sizilien
+  name: Königreich beider Sizilien
+  aliases: [Regno delle Due Sicilie, Königreich Neapel-Sizilien]
+  start: "1816-12-08"
+  end: "1861-02-13"
+  spanNote: 1816 aus der Vereinigung der Königreiche Neapel und Sizilien gebildet; mit der Kapitulation von Gaeta am 13. Februar 1861 endete die bourbonische Herrschaft faktisch, das Gebiet war schon durch die Volksabstimmung vom Oktober 1860 an Sardinien-Piemont angeschlossen worden.
+  capital: neapel
+  summary: Größter Staat der italienischen Halbinsel vor der Einigung, von einer Linie der spanischen Bourbonen regiert; Aufstände in Neapel und Sizilien 1820, 1848 und 1860 erschütterten ihn, bis Garibaldis Zug der Tausend ihn 1860 zum Einsturz brachte.
+  regions: [italien, mittelmeer]
+  themes: [politik]
+  successors: [koenigreich-italien]
+  weight: 2
+- id: lombardo-venetien
+  name: Königreich Lombardo-Venetien
+  aliases: [Regno Lombardo-Veneto, Lombardo-Venetien]
+  start: "1815"
+  end: "1866"
+  spanNote: Auf dem Wiener Kongress geschaffenes Kronland der Habsburgermonarchie; die Lombardei ging 1859 an Sardinien-Piemont verloren, Venetien 1866 an das Königreich Italien.
+  capital: mailand
+  summary: Von einem Vizekönig verwaltetes habsburgisches Königreich in Norditalien mit Mailand und Venedig als Zentren; Kern der österreichischen Vorherrschaft in Italien und Schauplatz der Kriege von 1848, 1859 und 1866.
+  regions: [italien]
+  themes: [politik, imperien]
+  predecessors: []
+  successors: [koenigreich-italien]
+  weight: 3
+- id: grossherzogtum-toskana
+  name: Großherzogtum Toskana
+  aliases: [Granducato di Toscana]
+  start: "1569"
+  end: "1860"
+  spanNote: 1569 für die Medici errichtet, ab 1737 von einer Nebenlinie der Habsburg-Lothringer regiert; nach der Flucht des Großherzogs im April 1859 und der Volksabstimmung vom März 1860 an Sardinien-Piemont angeschlossen.
+  capital: florenz
+  summary: Vergleichsweise liberal regiertes Fürstentum in Mittelitalien unter habsburgischer Nebenlinie, das 1859/60 ohne Krieg im entstehenden Nationalstaat aufging.
+  regions: [italien]
+  themes: [politik]
+  successors: [koenigreich-italien]
+  weight: 3

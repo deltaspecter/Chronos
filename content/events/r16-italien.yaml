@@ -1,0 +1,345 @@
+# Ereignisse: Die Einigung Italiens (Risorgimento)
+- id: aufstaende-1820-1821
+  title: Revolutionen in Neapel und Piemont
+  aliases: [Carbonari-Aufstände 1820/21, Moti del 1820-21]
+  start: "1820-07"
+  end: "1821-04"
+  weight: 3
+  kind: revolution
+  summary: Von Offizieren und Carbonari getragene Erhebungen erzwingen im Königreich beider Sizilien und kurz darauf in Piemont Verfassungen nach spanischem Vorbild; österreichische Truppen schlagen beide Bewegungen 1821 im Auftrag der Heiligen Allianz nieder.
+  regions: [italien]
+  themes: [revolutionen, verfassung-recht]
+  places: [neapel, turin]
+  polities: [koenigreich-beider-sizilien, koenigreich-sardinien, habsburgermonarchie]
+- id: aufstaende-1831-italien
+  title: Aufstände in Mittelitalien 1831
+  aliases: [Moti del 1831]
+  date: "1831-02"
+  weight: 3
+  kind: revolution
+  summary: Nach der Pariser Julirevolution erheben sich Modena, Parma und die päpstlichen Legationen der Romagna; österreichische Truppen stellen die alten Herrscher binnen Wochen wieder her. Das Scheitern bewegt Mazzini zur Gründung des Jungen Italien.
+  regions: [italien]
+  themes: [revolutionen]
+  polities: [kirchenstaat, habsburgermonarchie]
+- id: gruendung-giovine-italia
+  title: Gründung des „Jungen Italien“
+  aliases: [Giovine Italia]
+  date: "1831"
+  weight: 2
+  kind: gruendung
+  summary: Giuseppe Mazzini gründet im Exil in Marseille den Geheimbund Giovine Italia, der ein einiges, unabhängiges und republikanisches Italien anstrebt und auf Volkserziehung und Aufstand setzt; seine Erhebungsversuche der 1830er-Jahre scheitern blutig.
+  regions: [italien, frankreich]
+  themes: [politik, revolutionen]
+  persons: [giuseppe-mazzini]
+- id: krimkrieg
+  title: Krimkrieg
+  aliases: [Orientkrieg]
+  start: "1853-10"
+  end: "1856-03-30"
+  weight: 2
+  kind: krieg
+  summary: Krieg des Osmanischen Reichs, Großbritanniens und Frankreichs gegen Russland, der vor allem um die Festung Sewastopol auf der Krim geführt wird; Sardinien-Piemont tritt 1855 mit einem Expeditionskorps bei und erhält dadurch einen Platz auf dem Pariser Friedenskongress 1856.
+  regions: [russland, suedosteuropa, europa]
+  themes: [krieg-militaer, politik]
+  persons: [napoleon-iii, camillo-benso-di-cavour]
+  polities: [russisches-kaiserreich, osmanisches-reich, vereinigtes-koenigreich, zweites-franzoesisches-kaiserreich, koenigreich-sardinien]
+- id: expedition-von-sapri
+  title: Expedition von Sapri
+  date: "1857-07"
+  weight: 3
+  kind: ereignis
+  summary: Carlo Pisacane landet mit einigen Hundert Mann – darunter in Ponza befreite Häftlinge – bei Sapri, um im Königreich beider Sizilien einen Bauernaufstand auszulösen; die Bauern stellen sich gegen die Eindringlinge, Pisacane kommt bei Sanza ums Leben.
+  regions: [italien]
+  themes: [revolutionen]
+  persons: [carlo-pisacane]
+  polities: [koenigreich-beider-sizilien]
+- id: attentat-orsini
+  title: Attentat Orsinis auf Napoleon III.
+  date: "1858-01-14"
+  weight: 3
+  kind: ereignis
+  summary: Felice Orsini und Mitverschwörer werfen in Paris vor der Oper Bomben auf die Kutsche Napoleons III.; der Kaiser bleibt unverletzt, mehrere Menschen sterben. Orsinis Appell zur Befreiung Italiens trägt dazu bei, Napoleon für ein Bündnis mit Piemont zu gewinnen.
+  regions: [frankreich]
+  themes: [politik, gewalt-genozid]
+  places: [paris]
+  persons: [felice-orsini, napoleon-iii]
+- id: abkommen-von-plombieres
+  title: Abkommen von Plombières
+  date: "1858-07-21"
+  weight: 2
+  kind: vertrag
+  summary: Napoleon III. und Cavour vereinbaren mündlich und geheim einen Krieg gegen Österreich, falls dieses angreift; Piemont soll ein oberitalienisches Königreich bilden, Frankreich Savoyen und vermutlich Nizza erhalten, Italien ein Staatenbund unter dem Ehrenvorsitz des Papstes werden. Im Januar 1859 folgt ein schriftlicher Bündnisvertrag.
+  regions: [frankreich, italien]
+  themes: [politik]
+  places: [plombieres]
+  persons: [napoleon-iii, camillo-benso-di-cavour]
+  polities: [zweites-franzoesisches-kaiserreich, koenigreich-sardinien]
+- id: sardinischer-krieg-1859
+  title: Sardinischer Krieg 1859
+  aliases: [Zweiter italienischer Unabhängigkeitskrieg, Franco-österreichischer Krieg, Italienischer Krieg 1859]
+  start: "1859-04-29"
+  end: "1859-07-12"
+  weight: 2
+  kind: krieg
+  summary: Nach einem österreichischen Ultimatum an Piemont kämpfen Frankreich und Sardinien-Piemont gegen Österreich; nach den Siegen bei Magenta und Solferino schließt Napoleon III. überraschend den Vorfrieden von Villafranca, der die Lombardei an Piemont bringt, Venetien aber bei Österreich lässt.
+  regions: [italien]
+  themes: [krieg-militaer]
+  places: [magenta, solferino]
+  persons: [napoleon-iii, vittorio-emanuele-ii, franz-joseph-i, camillo-benso-di-cavour, giuseppe-garibaldi]
+  polities: [koenigreich-sardinien, zweites-franzoesisches-kaiserreich, habsburgermonarchie, lombardo-venetien]
+- id: schlacht-bei-magenta
+  title: Schlacht bei Magenta
+  date: "1859-06-04"
+  weight: 3
+  kind: schlacht
+  summary: Französische und piemontesische Truppen besiegen die Österreicher westlich von Mailand; die Österreicher räumen daraufhin Mailand, wo Napoleon III. und Viktor Emanuel II. am 8. Juni einziehen.
+  regions: [italien]
+  themes: [krieg-militaer]
+  places: [magenta, mailand]
+  persons: [napoleon-iii, vittorio-emanuele-ii]
+  polities: [zweites-franzoesisches-kaiserreich, koenigreich-sardinien, habsburgermonarchie]
+- id: schlacht-bei-solferino
+  title: Schlacht bei Solferino
+  aliases: [Schlacht bei Solferino und San Martino]
+  date: "1859-06-24"
+  weight: 2
+  kind: schlacht
+  summary: In einer der verlustreichsten Schlachten des Jahrhunderts mit zusammen weit über 200.000 Soldaten besiegen Franzosen und Piemontesen die von Kaiser Franz Joseph selbst geführte österreichische Armee; die Zehntausende Toten und Verwundeten veranlassen Henry Dunant zu seinem Buch und zur Idee des Roten Kreuzes.
+  regions: [italien]
+  themes: [krieg-militaer]
+  places: [solferino]
+  persons: [napoleon-iii, vittorio-emanuele-ii, franz-joseph-i, henry-dunant]
+  polities: [zweites-franzoesisches-kaiserreich, koenigreich-sardinien, habsburgermonarchie]
+- id: waffenstillstand-von-villafranca
+  title: Vorfrieden von Villafranca
+  date: "1859-07-11"
+  weight: 3
+  kind: vertrag
+  summary: Napoleon III. und Franz Joseph einigen sich ohne Piemont auf die Abtretung der Lombardei und die Rückkehr der vertriebenen mittelitalienischen Fürsten; Cavour tritt aus Protest zurück. Der Frieden von Zürich bestätigt die Regelung im November 1859.
+  regions: [italien]
+  themes: [politik]
+  persons: [napoleon-iii, franz-joseph-i, camillo-benso-di-cavour]
+  polities: [zweites-franzoesisches-kaiserreich, habsburgermonarchie, koenigreich-sardinien]
+- id: volksabstimmungen-1860
+  title: Volksabstimmungen in Mittelitalien
+  aliases: [Plebiszite 1860, Plebiszite in der Toskana und der Emilia]
+  start: "1860-03-11"
+  end: "1860-03-12"
+  weight: 3
+  kind: ereignis
+  summary: Die männliche Bevölkerung der Toskana und der Emilia (Parma, Modena, Romagna) stimmt mit überwältigenden Mehrheiten für den Anschluss an Sardinien-Piemont; als Gegenleistung für die französische Zustimmung tritt Piemont Savoyen und Nizza ab.
+  regions: [italien]
+  themes: [politik]
+  places: [florenz]
+  persons: [camillo-benso-di-cavour]
+  polities: [grossherzogtum-toskana, kirchenstaat, koenigreich-sardinien]
+- id: vertrag-von-turin-1860
+  title: Vertrag von Turin
+  date: "1860-03-24"
+  weight: 3
+  kind: vertrag
+  summary: Sardinien-Piemont tritt Savoyen und die Grafschaft Nizza an Frankreich ab, was im April 1860 durch Volksabstimmungen bestätigt wird; der gebürtige Nizzarde Garibaldi empfindet die Abtretung als Verrat.
+  regions: [italien, frankreich]
+  themes: [politik]
+  places: [turin]
+  persons: [camillo-benso-di-cavour, napoleon-iii, giuseppe-garibaldi]
+  polities: [koenigreich-sardinien, zweites-franzoesisches-kaiserreich]
+- id: zug-der-tausend
+  title: Zug der Tausend
+  aliases: [Spedizione dei Mille, Expedition der Tausend]
+  start: "1860-05-05"
+  end: "1860-10-26"
+  weight: 1
+  kind: krieg
+  summary: Rund tausend Freiwillige unter Garibaldi brechen bei Genua auf, landen in Marsala, erobern mit Unterstützung aufständischer Sizilianer die Insel und dann das süditalienische Festland; am 7. September zieht Garibaldi in Neapel ein, nach dem Sieg am Volturno übergibt er den Süden in Teano an Viktor Emanuel II.
+  regions: [italien, mittelmeer]
+  themes: [krieg-militaer, revolutionen]
+  places: [quarto-dei-mille, marsala, calatafimi, palermo, neapel, teano]
+  persons: [giuseppe-garibaldi, francesco-crispi, franz-ii-beider-sizilien, vittorio-emanuele-ii, camillo-benso-di-cavour]
+  polities: [koenigreich-beider-sizilien, koenigreich-sardinien]
+- id: schlacht-bei-calatafimi
+  title: Gefecht bei Calatafimi
+  date: "1860-05-15"
+  weight: 3
+  kind: schlacht
+  summary: Garibaldis Freiwillige drängen auf dem Hügel Pianto Romano eine bourbonische Abteilung zurück; der militärisch kleine, psychologisch große Erfolg öffnet den Weg nach Palermo, das Ende Mai/Anfang Juni fällt.
+  regions: [italien]
+  themes: [krieg-militaer]
+  places: [calatafimi]
+  persons: [giuseppe-garibaldi]
+  polities: [koenigreich-beider-sizilien]
+- id: schlacht-bei-castelfidardo
+  title: Schlacht bei Castelfidardo
+  date: "1860-09-18"
+  weight: 3
+  kind: schlacht
+  summary: Piemontesische Truppen, die ohne Kriegserklärung in den Kirchenstaat einmarschiert sind, schlagen das päpstliche Heer; Marken und Umbrien fallen an Piemont, und Cavour kann Garibaldi im Süden zuvorkommen, Rom selbst bleibt unter französischem Schutz.
+  regions: [italien]
+  themes: [krieg-militaer]
+  places: [castelfidardo]
+  persons: [pius-ix, camillo-benso-di-cavour]
+  polities: [koenigreich-sardinien, kirchenstaat]
+- id: schlacht-am-volturno
+  title: Schlacht am Volturno
+  start: "1860-10-01"
+  end: "1860-10-02"
+  weight: 3
+  kind: schlacht
+  summary: Garibaldis Südarmee wehrt am Fluss Volturno bei Capua den letzten großen Angriff der bourbonischen Armee ab; König Franz II. zieht sich in die Festung Gaeta zurück.
+  regions: [italien]
+  themes: [krieg-militaer]
+  persons: [giuseppe-garibaldi, franz-ii-beider-sizilien]
+  polities: [koenigreich-beider-sizilien]
+- id: treffen-von-teano
+  title: Treffen von Teano
+  date: "1860-10-26"
+  weight: 3
+  kind: ereignis
+  summary: Garibaldi begrüßt Viktor Emanuel II. in der Gegend von Teano als König von Italien und überlässt ihm damit die Herrschaft über den Süden; wenige Tage zuvor hatten Volksabstimmungen in Neapel und Sizilien den Anschluss gebilligt.
+  regions: [italien]
+  themes: [politik]
+  places: [teano]
+  persons: [giuseppe-garibaldi, vittorio-emanuele-ii]
+  polities: [koenigreich-sardinien]
+- id: proklamation-koenigreich-italien
+  title: Ausrufung des Königreichs Italien
+  date: "1861-03-17"
+  weight: 1
+  kind: gruendung
+  summary: Das in Turin tagende erste gesamtitalienische Parlament verleiht Viktor Emanuel II. den Titel „König von Italien“; der neue Staat übernimmt Verfassung, Verwaltung und Gesetze Sardinien-Piemonts, Venetien und Rom gehören noch nicht dazu.
+  regions: [italien]
+  themes: [politik, verfassung-recht]
+  places: [turin]
+  persons: [vittorio-emanuele-ii, camillo-benso-di-cavour]
+  polities: [koenigreich-sardinien, koenigreich-italien]
+- id: brigantenkrieg
+  title: Brigantenkrieg im Süden
+  aliases: [Brigantaggio postunitario, Großes Brigantentum]
+  start: "1861"
+  end: "1865"
+  certainty: wahrscheinlich
+  dateNote: Die Hochphase lag 1861–1865; einzelne Banden hielten sich bis gegen Ende des Jahrzehnts.
+  weight: 2
+  kind: krieg
+  summary: Bewaffneter Widerstand von Bauern, ehemaligen bourbonischen Soldaten, Deserteuren und Banditen gegen den neuen Staat auf dem süditalienischen Festland, teils von den Bourbonen und dem Klerus unterstützt; die Armee schlägt ihn mit zeitweise rund 100.000 Soldaten, Ausnahmerecht und Massenhinrichtungen nieder.
+  regions: [italien]
+  themes: [krieg-militaer, gesellschaft, gewalt-genozid]
+  persons: [franz-ii-beider-sizilien]
+  polities: [koenigreich-italien]
+- id: legge-pica
+  title: Legge Pica
+  date: "1863-08-15"
+  weight: 3
+  kind: gesetz
+  summary: Ausnahmegesetz, das in den für „vom Brigantentum befallen“ erklärten Provinzen Militärgerichte für Briganten und ihre Helfer einführt und Zwangsaufenthalt für Verdächtige erlaubt; bis Ende 1865 in Kraft.
+  regions: [italien]
+  themes: [verfassung-recht, gewalt-genozid]
+  polities: [koenigreich-italien]
+- id: schlacht-am-aspromonte
+  title: Gefecht am Aspromonte
+  date: "1862-08-29"
+  weight: 3
+  kind: schlacht
+  summary: Italienische Regierungstruppen halten Garibaldi, der mit Freiwilligen unter dem Ruf „Rom oder Tod“ von Sizilien aus nach Rom ziehen will, in Kalabrien auf; Garibaldi wird verwundet und gefangen genommen.
+  regions: [italien]
+  themes: [krieg-militaer]
+  places: [aspromonte]
+  persons: [giuseppe-garibaldi]
+  polities: [koenigreich-italien]
+- id: septemberkonvention
+  title: Septemberkonvention
+  date: "1864-09-15"
+  weight: 3
+  kind: vertrag
+  summary: Italien verpflichtet sich gegenüber Frankreich, das verbliebene päpstliche Gebiet nicht anzugreifen, Frankreich sagt den Abzug seiner Garnison aus Rom zu; als Zeichen des Verzichts verlegt Italien 1865 die Hauptstadt von Turin nach Florenz.
+  regions: [italien, frankreich]
+  themes: [politik]
+  places: [turin, florenz, rom]
+  persons: [napoleon-iii]
+  polities: [koenigreich-italien, zweites-franzoesisches-kaiserreich, kirchenstaat]
+- id: schlacht-bei-custozza-1866
+  title: Schlacht bei Custozza (1866)
+  date: "1866-06-24"
+  weight: 3
+  kind: schlacht
+  summary: Im Deutschen Krieg schlägt die österreichische Südarmee unter Erzherzog Albrecht die zahlenmäßig überlegene, schlecht geführte italienische Armee südwestlich von Verona.
+  regions: [italien]
+  themes: [krieg-militaer]
+  places: [custozza]
+  polities: [koenigreich-italien, habsburgermonarchie]
+- id: seeschlacht-von-lissa
+  title: Seeschlacht von Lissa
+  date: "1866-07-20"
+  weight: 3
+  kind: schlacht
+  summary: Die österreichische Flotte unter Wilhelm von Tegetthoff besiegt vor der dalmatinischen Insel Lissa (Vis) die größere italienische Flotte; trotz der Niederlagen erhält Italien nach Preußens Sieg Venetien.
+  regions: [suedosteuropa, mittelmeer]
+  themes: [krieg-militaer]
+  polities: [koenigreich-italien, habsburgermonarchie]
+- id: anschluss-venetiens-1866
+  title: Anschluss Venetiens
+  date: "1866-10"
+  weight: 2
+  kind: vertrag
+  summary: Im Frieden von Wien vom 3. Oktober 1866 tritt Österreich Venetien über Frankreich an Italien ab; eine Volksabstimmung am 21./22. Oktober bestätigt den Anschluss mit überwältigender Mehrheit.
+  regions: [italien]
+  themes: [politik]
+  places: [venedig]
+  persons: [napoleon-iii, vittorio-emanuele-ii]
+  polities: [koenigreich-italien, habsburgermonarchie, lombardo-venetien]
+- id: schlacht-bei-mentana
+  title: Gefecht bei Mentana
+  date: "1867-11-03"
+  weight: 3
+  kind: schlacht
+  summary: Päpstliche Truppen und ein französisches Hilfskorps mit modernen Chassepot-Gewehren schlagen Garibaldis Freiwillige, die in den Kirchenstaat eingedrungen sind; die französische Garnison bleibt bis 1870 in Rom.
+  regions: [italien]
+  themes: [krieg-militaer]
+  places: [mentana]
+  persons: [giuseppe-garibaldi, pius-ix, napoleon-iii]
+  polities: [kirchenstaat, zweites-franzoesisches-kaiserreich]
+- id: einnahme-roms-1870
+  title: Einnahme Roms
+  aliases: [Breccia di Porta Pia, Presa di Roma]
+  date: "1870-09-20"
+  weight: 1
+  kind: ereignis
+  summary: Nach dem Abzug der Franzosen im Deutsch-Französischen Krieg schießen italienische Truppen eine Bresche in die Stadtmauer bei der Porta Pia und besetzen Rom; eine Volksabstimmung am 2. Oktober billigt den Anschluss, 1871 wird Rom Hauptstadt. Pius IX. erkennt den Verlust nicht an.
+  regions: [italien]
+  themes: [politik, religion, krieg-militaer]
+  places: [rom]
+  persons: [pius-ix, vittorio-emanuele-ii]
+  polities: [koenigreich-italien, kirchenstaat]
+- id: garantiegesetz-1871
+  title: Garantiegesetz
+  aliases: [Legge delle guarentigie]
+  date: "1871-05-13"
+  weight: 3
+  kind: gesetz
+  summary: Einseitig vom italienischen Parlament beschlossenes Gesetz, das dem Papst persönliche Unverletzlichkeit, die Nutzung von Vatikan und Lateran und eine jährliche Dotation zusichert; Pius IX. lehnt es ab, die Römische Frage bleibt bis zu den Lateranverträgen 1929 offen.
+  regions: [italien]
+  themes: [verfassung-recht, religion]
+  places: [rom]
+  persons: [pius-ix]
+  polities: [koenigreich-italien]
+- id: gruendung-rotes-kreuz
+  title: Gründung des Roten Kreuzes
+  aliases: [Gründung des Internationalen Komitees vom Roten Kreuz, Fünferkomitee]
+  date: "1863-02-17"
+  weight: 2
+  kind: gruendung
+  summary: In Genf bilden Henry Dunant, Gustave Moynier, Guillaume-Henri Dufour und zwei Ärzte ein Komitee zur Umsetzung von Dunants Vorschlägen; es nennt sich später Internationales Komitee vom Roten Kreuz.
+  regions: [mitteleuropa, europa]
+  themes: [gesellschaft, krieg-militaer]
+  places: [genf]
+  persons: [henry-dunant]
+- id: genfer-konvention-1864
+  title: Erste Genfer Konvention
+  date: "1864-08-22"
+  weight: 2
+  kind: vertrag
+  summary: Zwölf Staaten unterzeichnen in Genf das Abkommen zur Verbesserung des Loses der verwundeten Soldaten im Feld, das Lazarette und Sanitätspersonal unter dem Zeichen des roten Kreuzes auf weißem Grund für neutral erklärt; Grundstein des humanitären Völkerrechts.
+  regions: [europa, mitteleuropa]
+  themes: [verfassung-recht, krieg-militaer]
+  places: [genf]
+  persons: [henry-dunant]

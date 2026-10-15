@@ -1,0 +1,132 @@
+# Orte: Die Einigung Italiens (Risorgimento)
+- id: turin
+  name: Turin
+  aliases: [Torino]
+  coords: [7.6869, 45.0703]
+  categories: [stadt, hauptstadt]
+  modernName: Turin (Piemont)
+  summary: Residenz des Hauses Savoyen und Hauptstadt des Königreichs Sardinien-Piemont, 1861–1865 erste Hauptstadt des Königreichs Italien.
+  regions: [italien]
+  themes: [politik]
+- id: neapel
+  name: Neapel
+  aliases: [Napoli, Naples]
+  coords: [14.2681, 40.8518]
+  categories: [stadt, hauptstadt, hafen]
+  modernName: Neapel (Kampanien)
+  summary: Größte Stadt Italiens im frühen 19. Jahrhundert und Hauptstadt des bourbonischen Königreichs beider Sizilien; Garibaldi zog am 7. September 1860 ein.
+  regions: [italien, mittelmeer]
+  themes: [politik]
+- id: magenta
+  name: Magenta
+  coords: [8.8840, 45.4650]
+  categories: [stadt, schlachtfeld]
+  modernName: Magenta (Lombardei)
+  summary: Kleinstadt westlich von Mailand, bei der französische und piemontesische Truppen am 4. Juni 1859 die Österreicher besiegten; nach ihr ist der Farbton Magenta benannt.
+  regions: [italien]
+  themes: [krieg-militaer]
+- id: solferino
+  name: Solferino
+  coords: [10.5667, 45.3722]
+  categories: [schlachtfeld]
+  modernName: Solferino (Lombardei)
+  summary: Dorf südlich des Gardasees, Schauplatz der großen Schlacht vom 24. Juni 1859; die Not der Verwundeten veranlasste Henry Dunant zur Gründung des Roten Kreuzes.
+  regions: [italien]
+  themes: [krieg-militaer]
+- id: plombieres
+  name: Plombières-les-Bains
+  aliases: [Plombières]
+  coords: [6.4589, 47.9631]
+  categories: [stadt]
+  modernName: Plombières-les-Bains (Vogesen, Frankreich)
+  summary: Kurort in den Vogesen, in dem Napoleon III. und Cavour im Juli 1858 geheim einen gemeinsamen Krieg gegen Österreich verabredeten.
+  regions: [frankreich]
+  themes: [politik]
+- id: quarto-dei-mille
+  name: Quarto
+  aliases: [Quarto dei Mille, Quarto al Mare]
+  coords: [9.0060, 44.3920]
+  location: ungefaehr
+  categories: [hafen]
+  modernName: Quarto dei Mille (Stadtteil von Genua)
+  summary: Küstenort östlich von Genua, von dem aus Garibaldis Freiwillige in der Nacht vom 5. auf den 6. Mai 1860 nach Sizilien aufbrachen.
+  regions: [italien]
+  themes: [krieg-militaer]
+- id: marsala
+  name: Marsala
+  coords: [12.4372, 37.7980]
+  categories: [stadt, hafen]
+  modernName: Marsala (Sizilien)
+  summary: Hafenstadt im Westen Siziliens, in der die „Tausend“ Garibaldis am 11. Mai 1860 landeten.
+  regions: [italien, mittelmeer]
+  themes: [krieg-militaer]
+- id: calatafimi
+  name: Calatafimi
+  aliases: [Calatafimi-Segesta, Pianto Romano]
+  coords: [12.8640, 37.9150]
+  location: ungefaehr
+  categories: [schlachtfeld]
+  modernName: Calatafimi-Segesta (Sizilien)
+  summary: Ort im Westen Siziliens, bei dem Garibaldis Freiwillige am 15. Mai 1860 auf dem Hügel Pianto Romano bourbonische Truppen zurückdrängten.
+  regions: [italien]
+  themes: [krieg-militaer]
+- id: teano
+  name: Teano
+  coords: [14.0650, 41.2510]
+  location: ungefaehr
+  categories: [stadt]
+  modernName: Teano (Kampanien)
+  summary: Kleinstadt nördlich von Neapel, in deren Umgebung Garibaldi am 26. Oktober 1860 König Viktor Emanuel II. begrüßte und ihm damit den eroberten Süden überließ; der genaue Ort des Treffens ist umstritten.
+  regions: [italien]
+  themes: [politik]
+- id: gaeta
+  name: Gaeta
+  coords: [13.5710, 41.2130]
+  categories: [stadt, hafen]
+  modernName: Gaeta (Latium)
+  summary: Festungsstadt am Tyrrhenischen Meer, 1848/49 Zuflucht Pius' IX. und 1860/61 letzte Bastion Franz' II. von Neapel-Sizilien, die am 13. Februar 1861 kapitulierte.
+  regions: [italien]
+  themes: [krieg-militaer]
+- id: caprera
+  name: Caprera
+  coords: [9.4630, 41.2160]
+  categories: [region]
+  modernName: Caprera (Sardinien)
+  summary: Kleine Insel vor der Nordostküste Sardiniens, auf die sich Garibaldi seit den 1850er-Jahren zurückzog und wo er 1882 starb.
+  regions: [italien, mittelmeer]
+  themes: [politik]
+- id: aspromonte
+  name: Aspromonte
+  coords: [15.9200, 38.1600]
+  location: ungefaehr
+  categories: [region, schlachtfeld]
+  modernName: Aspromonte (Kalabrien)
+  summary: Gebirgsmassiv an der Südspitze Kalabriens, wo italienische Truppen am 29. August 1862 Garibaldis Freiwillige auf dem Weg nach Rom aufhielten und Garibaldi verwundet wurde.
+  regions: [italien]
+  themes: [krieg-militaer]
+- id: mentana
+  name: Mentana
+  coords: [12.6420, 42.0350]
+  categories: [stadt, schlachtfeld]
+  modernName: Mentana (Latium)
+  summary: Ort nordöstlich von Rom, bei dem päpstliche und französische Truppen am 3. November 1867 Garibaldis Freiwillige besiegten.
+  regions: [italien]
+  themes: [krieg-militaer]
+- id: custozza
+  name: Custozza
+  aliases: [Custoza]
+  coords: [10.7960, 45.3780]
+  categories: [schlachtfeld]
+  modernName: Custoza (Venetien)
+  summary: Dorf südwestlich von Verona, bei dem Österreich die piemontesische Armee 1848 und die italienische Armee 1866 besiegte.
+  regions: [italien]
+  themes: [krieg-militaer]
+- id: castelfidardo
+  name: Castelfidardo
+  coords: [13.5470, 43.4640]
+  location: ungefaehr
+  categories: [stadt, schlachtfeld]
+  modernName: Castelfidardo (Marken)
+  summary: Ort in den Marken, bei dem piemontesische Truppen am 18. September 1860 die päpstliche Armee schlugen und so den Landweg nach Süden öffneten.
+  regions: [italien]
+  themes: [krieg-militaer]

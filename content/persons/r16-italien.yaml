@@ -1,0 +1,119 @@
+# Personen: Die Einigung Italiens (Risorgimento)
+- id: camillo-benso-di-cavour
+  name: Camillo Benso di Cavour
+  aliases: [Cavour, Graf Cavour, Camillo Cavour]
+  born: "1810-08-10"
+  died: "1861-06-06"
+  roles: [Ministerpräsident von Sardinien-Piemont, erster Ministerpräsident Italiens]
+  summary: Piemontesischer Adliger, Agrarunternehmer und liberaler Politiker, ab 1852 Ministerpräsident Sardinien-Piemonts; modernisierte Staat und Wirtschaft, gewann mit dem Abkommen von Plombières Frankreich als Verbündeten gegen Österreich und lenkte die Einigung 1859–1861 im Sinn der Monarchie; starb wenige Wochen nach der Ausrufung des Königreichs Italien.
+  regions: [italien]
+  themes: [politik]
+  places: [turin, plombieres]
+  related: [vittorio-emanuele-ii, napoleon-iii, giuseppe-garibaldi]
+- id: vittorio-emanuele-ii
+  name: Viktor Emanuel II.
+  aliases: [Vittorio Emanuele II, Viktor Emanuel II. von Sardinien, Re galantuomo]
+  born: "1820-03-14"
+  died: "1878-01-09"
+  roles: [König von Sardinien-Piemont, König von Italien]
+  summary: Sohn Karl Alberts, nach der Niederlage von Novara 1849 König von Sardinien-Piemont, behielt die Verfassung bei und wurde 1861 erster König von Italien; traf am 26. Oktober 1860 bei Teano mit Garibaldi zusammen, der ihm den eroberten Süden übergab.
+  regions: [italien]
+  themes: [politik]
+  places: [turin, teano, rom]
+  related: [karl-albert-sardinien, camillo-benso-di-cavour]
+- id: pius-ix
+  name: Pius IX.
+  aliases: [Giovanni Maria Mastai-Ferretti, Pio Nono]
+  born: "1792-05-13"
+  died: "1878-02-07"
+  roles: [Papst]
+  summary: Papst 1846–1878, zunächst als reformbereit gefeiert, nach seiner Flucht aus Rom 1848 und der Römischen Republik ein entschiedener Gegner von Liberalismus und Nationalstaat; verlor 1860 den größten Teil und 1870 den Rest des Kirchenstaats und betrachtete sich fortan als „Gefangener im Vatikan“.
+  regions: [italien]
+  themes: [religion, politik]
+  places: [rom, gaeta]
+- id: henry-dunant
+  name: Henry Dunant
+  aliases: [Jean-Henri Dunant]
+  born: "1828-05-08"
+  died: "1910-10-30"
+  roles: [Kaufmann, Gründer des Roten Kreuzes]
+  summary: Genfer Geschäftsmann, der nach der Schlacht von Solferino 1859 in Castiglione delle Stiviere Verwundete versorgen half und mit seinem Buch „Eine Erinnerung an Solferino“ (1862) den Anstoß zum Internationalen Komitee vom Roten Kreuz und zur Genfer Konvention gab; 1901 erster Träger des Friedensnobelpreises (zusammen mit Frédéric Passy).
+  regions: [mitteleuropa, italien]
+  themes: [krieg-militaer, gesellschaft]
+  places: [genf, solferino]
+- id: francesco-crispi
+  name: Francesco Crispi
+  born: "1818-10-04"
+  died: "1901-08-11"
+  roles: [Revolutionär, Ministerpräsident Italiens]
+  summary: Sizilianischer Anwalt und Demokrat, der den Aufstand auf Sizilien 1860 mit vorbereitete, Garibaldi zum Zug der Tausend drängte und mit ihm segelte; später Monarchist und 1887–1891 sowie 1893–1896 autoritär regierender Ministerpräsident Italiens.
+  regions: [italien]
+  themes: [politik]
+  places: [palermo, marsala]
+- id: franz-ii-beider-sizilien
+  name: Franz II. von Neapel-Sizilien
+  aliases: [Francesco II di Borbone, Franz II. beider Sizilien, Franceschiello]
+  born: "1836-01-16"
+  died: "1894-12-27"
+  roles: [König beider Sizilien]
+  summary: Letzter bourbonischer König beider Sizilien (1859–1861), der vor Garibaldi aus Neapel nach Gaeta auswich; nach der Kapitulation der Festung im Februar 1861 lebte er im römischen und später im europäischen Exil und unterstützte anfangs den Widerstand der Briganten.
+  regions: [italien]
+  themes: [politik]
+  places: [neapel, gaeta, rom]
+- id: felice-orsini
+  name: Felice Orsini
+  born: "1819-12-10"
+  died: "1858-03-13"
+  roles: [Revolutionär]
+  summary: Republikanischer Verschwörer aus der Romagna, der am 14. Januar 1858 in Paris mit Bomben ein Attentat auf Napoleon III. verübte, bei dem mehrere Menschen starben; sein Appell an den Kaiser, Italien zu befreien, wurde vor seiner Hinrichtung veröffentlicht.
+  regions: [italien, frankreich]
+  themes: [revolutionen, gewalt-genozid]
+  places: [paris]
+- id: carlo-pisacane
+  name: Carlo Pisacane
+  born: "1818-08-22"
+  died: "1857-07-02"
+  roles: [Revolutionär, Theoretiker]
+  summary: Neapolitanischer Offizier und Sozialist, Verteidiger der Römischen Republik 1849, der 1857 mit wenigen Gefährten bei Sapri landete, um die Bauern des Südens zum Aufstand zu bewegen; die Expedition scheiterte, Pisacane kam ums Leben.
+  regions: [italien]
+  themes: [revolutionen]
+  places: [neapel]
+- id: vincenzo-gioberti
+  name: Vincenzo Gioberti
+  born: "1801-04-05"
+  died: "1852-10-26"
+  roles: [Priester, Philosoph, Ministerpräsident von Sardinien-Piemont]
+  summary: Turiner Priester und Philosoph, dessen Schrift „Del primato morale e civile degli Italiani“ (1843) einen Staatenbund unter Führung des Papstes vorschlug und den Neoguelfismus begründete; 1848/49 kurz Ministerpräsident Piemonts.
+  regions: [italien]
+  themes: [politik, religion]
+  places: [turin]
+- id: daniele-manin
+  name: Daniele Manin
+  born: "1804-05-13"
+  died: "1857-09-22"
+  roles: [Anwalt, Präsident der Republik San Marco]
+  summary: Venezianischer Anwalt, der 1848/49 an der Spitze der wiederhergestellten Republik San Marco stand, bis Venedig im August 1849 kapitulierte; im Pariser Exil warb er seit 1856 für eine Einigung unter Führung des Hauses Savoyen.
+  regions: [italien]
+  themes: [politik, revolutionen]
+  places: [venedig, paris]
+- id: anita-garibaldi
+  name: Anita Garibaldi
+  aliases: [Ana Maria de Jesus Ribeiro]
+  born: "1821"
+  died: "1849-08-04"
+  roles: [Kämpferin]
+  summary: In Südbrasilien geborene Gefährtin und Ehefrau Giuseppe Garibaldis, die mit ihm in Südamerika und 1849 bei der Verteidigung Roms kämpfte; sie starb schwanger und erschöpft auf dem Rückzug in den Sümpfen bei Ravenna und wurde zur Heldin der Risorgimento-Erinnerung.
+  regions: [suedamerika, italien]
+  themes: [krieg-militaer, revolutionen]
+  places: [rom]
+  related: [giuseppe-garibaldi]
+- id: cristina-trivulzio-di-belgiojoso
+  name: Cristina Trivulzio di Belgiojoso
+  aliases: [Cristina di Belgiojoso]
+  born: "1808-06-28"
+  died: "1871-07-05"
+  roles: [Publizistin, Patriotin]
+  summary: Mailänder Adlige, Publizistin und Salonnière im Pariser Exil, die 1848 eine Freiwilligentruppe nach Mailand führte und 1849 in Rom die Lazarette der Römischen Republik organisierte; eine der bekanntesten Frauen des Risorgimento.
+  regions: [italien, frankreich]
+  themes: [politik, gesellschaft]
+  places: [mailand, rom, paris]

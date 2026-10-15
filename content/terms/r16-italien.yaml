@@ -1,0 +1,55 @@
+# Begriffe: Die Einigung Italiens (Risorgimento)
+- id: risorgimento
+  name: Risorgimento
+  aliases: [Wiedererstehung, Wiedergeburt]
+  definition: Italienisch für „Wiedererstehen“; Bezeichnung für die politische und kulturelle Bewegung und den Prozess, der zwischen dem Wiener Kongress (oder schon der napoleonischen Zeit) und 1870/71 zum italienischen Nationalstaat führte. Der Begriff selbst trägt die nationalistische Deutung in sich, Italien sei eine alte Nation, die nur wiedererweckt werden müsse.
+  themes: [politik, geschichtsschreibung]
+- id: carbonari
+  name: Carbonari
+  aliases: [Carboneria, Köhler]
+  definition: „Köhler“; in den napoleonischen Jahren in Süditalien entstandener, nach Logen und Ritualen organisierter Geheimbund, der Verfassungen und die Befreiung von Fremdherrschaft forderte; trug die Revolutionen von 1820/21 und 1831, verlor danach an Bedeutung.
+  themes: [politik, revolutionen]
+- id: giovine-italia
+  name: Junges Italien
+  aliases: [Giovine Italia]
+  definition: 1831 von Giuseppe Mazzini gegründete politische Vereinigung, die im Unterschied zu den Carbonari offen für eine einige, unabhängige, demokratische Republik warb, ihre Mitglieder auf Erziehung und Opferbereitschaft verpflichtete und Vorbild für ähnliche Bewegungen in anderen Ländern („Junges Europa“) wurde.
+  themes: [politik, revolutionen]
+- id: neoguelfismus
+  name: Neoguelfismus
+  aliases: [Neoguelfen, Neoguelfi]
+  definition: Nach den mittelalterlichen papsttreuen Guelfen benannte Strömung der 1840er-Jahre, die mit Vincenzo Gioberti einen Staatenbund der italienischen Fürsten unter dem Vorsitz des Papstes anstrebte; sie brach zusammen, als Pius IX. sich 1848 vom Krieg gegen Österreich distanzierte.
+  themes: [politik, religion]
+- id: statuto-albertino
+  name: Statuto Albertino
+  definition: Von König Karl Albert am 4. März 1848 gewährte Verfassung Sardinien-Piemonts mit Zweikammerparlament und Grundrechten; als einzige Verfassung von 1848 in Italien überdauerte sie die Gegenrevolution und wurde zur Verfassung des Königreichs Italien.
+  themes: [verfassung-recht]
+- id: roemische-frage
+  name: Römische Frage
+  aliases: [Questione romana]
+  definition: Ungelöster Konflikt zwischen dem Königreich Italien und dem Papsttum über Rom und die weltliche Herrschaft des Papstes; nach der Einnahme Roms 1870 verweigerte Pius IX. die Anerkennung des Staates und untersagte Katholiken die Teilnahme an nationalen Wahlen („Non expedit“). Erst die Lateranverträge von 1929 legten den Streit bei.
+  themes: [politik, religion]
+- id: brigantaggio
+  name: Brigantaggio
+  aliases: [Brigantentum, Briganten]
+  definition: Bewaffnetes Bandenwesen auf dem Land; im engeren Sinn der Aufstand im ehemaligen Königreich beider Sizilien nach 1860, in dem sich soziale Proteste von Bauern, bourbonisch-klerikale Loyalität, Wehrdienstverweigerung und gewöhnliche Kriminalität vermischten. Ob er eher Bauernkrieg, Bürgerkrieg oder Banditentum war, ist umstritten.
+  themes: [gesellschaft, gewalt-genozid]
+- id: mezzogiorno
+  name: Mezzogiorno
+  aliases: [Süditalien, Meridione]
+  definition: „Mittag“; Sammelbezeichnung für das festländische Süditalien und die Inseln Sizilien und Sardinien, weitgehend das Gebiet des früheren Königreichs beider Sizilien.
+  themes: [gesellschaft, wirtschaft-handel]
+- id: questione-meridionale
+  name: Questione meridionale
+  aliases: [Südfrage, Süditalienische Frage, Southern Question]
+  definition: Seit den 1870er-Jahren (Pasquale Villari, Leopoldo Franchetti, Sidney Sonnino) diskutierte Frage nach Ursachen und Abhilfe für den wirtschaftlichen und sozialen Rückstand des Mezzogiorno gegenüber dem Norden; Erklärungen reichen von alten Strukturen (Großgrundbesitz, Klientelismus) über die Politik des Einheitsstaates bis zu rassistischen Stereotypen über den Süden.
+  themes: [gesellschaft, wirtschaft-handel, geschichtsschreibung]
+- id: passive-revolution
+  name: Passive Revolution
+  aliases: [Rivoluzione passiva]
+  definition: Von Antonio Gramsci in den „Gefängnisheften“ verwendeter Begriff für eine Umwälzung von oben, bei der gemäßigte Eliten einen neuen Staat schaffen, ohne die breiten Massen – im italienischen Fall vor allem die Bauern – zu mobilisieren und ohne die Sozialstruktur grundlegend zu ändern.
+  themes: [geschichtsschreibung, politik]
+- id: irredentismus
+  name: Irredentismus
+  aliases: [Irredenta, Italia irredenta]
+  definition: Von „Italia irredenta“ (unerlöstes Italien) abgeleitete Bewegung, die nach 1866 den Anschluss italienischsprachiger Gebiete unter österreichischer Herrschaft wie Trient und Triest forderte; der Begriff wird heute allgemein für Forderungen nach Gebieten mit „eigener“ Bevölkerung jenseits der Staatsgrenze gebraucht.
+  themes: [politik]

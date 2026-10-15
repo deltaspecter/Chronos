@@ -1,0 +1,158 @@
+# Quellen und Literatur: Die Einigung Italiens (Risorgimento)
+
+# --- Primärquellen ---
+- id: q-mazzini-istruzione-1831
+  kind: primaer
+  authors: ["Mazzini, Giuseppe"]
+  title: Istruzione generale per gli affratellati nella Giovine Italia
+  written: Marseille, 1831
+  note: Gründungsprogramm des Geheimbunds „Junges Italien“, das ein einiges, unabhängiges und republikanisches Italien als Ziel nennt und Erziehung und Aufstand als Mittel bestimmt.
+- id: q-statuto-albertino
+  kind: primaer
+  authors: ["Karl Albert von Sardinien"]
+  title: Statuto Albertino
+  subtitle: Statuto fondamentale della Monarchia di Savoia
+  written: Turin, 4. März 1848
+  note: Von König Karl Albert gewährte Verfassung des Königreichs Sardinien-Piemont, die nach 1861 als Verfassung des Königreichs Italien bis 1946/48 in Kraft blieb.
+- id: q-dunant-1862
+  kind: primaer
+  authors: ["Dunant, Henry"]
+  title: Un souvenir de Solférino
+  place: Genf
+  publisher: Imprimerie Jules-Guillaume Fick
+  year: 1862
+  written: Genf, 1862 (Erlebnisse vom Juni 1859)
+  note: Bericht des Genfer Kaufmanns über das Leiden der Verwundeten nach der Schlacht von Solferino, mit dem Vorschlag freiwilliger Hilfsgesellschaften und eines internationalen Abkommens – Ausgangspunkt des Roten Kreuzes.
+- id: q-cavour-rede-1861
+  kind: primaer
+  authors: ["Cavour, Camillo Benso di"]
+  title: Rede in der Abgeordnetenkammer über Rom als Hauptstadt
+  written: Turin, 25. und 27. März 1861
+  note: Parlamentsreden, in denen Cavour Rom zur künftigen Hauptstadt Italiens erklärte und dem Papst Unabhängigkeit nach der Formel „freie Kirche im freien Staat“ anbot.
+- id: q-gramsci-quaderni
+  kind: primaer
+  authors: ["Gramsci, Antonio"]
+  editors: ["Gerratana, Valentino"]
+  title: Quaderni del carcere
+  subtitle: Edizione critica dell'Istituto Gramsci
+  volume: 4 Bde.
+  place: Turin
+  publisher: Einaudi
+  year: 1975
+  written: Haft in Turi und Formia, 1929–1935
+  note: Im Gefängnis verfasste Notizhefte Gramscis; das Heft 19 über das Risorgimento enthält seine Deutung der Einigung als „passive Revolution“ und die Kritik an der Aktionspartei.
+
+# --- Forschung ---
+- id: riall-2009
+  kind: sekundaer
+  authors: ["Riall, Lucy"]
+  title: Risorgimento
+  subtitle: The History of Italy from Napoleon to Nation-State
+  place: Basingstoke
+  publisher: Palgrave Macmillan
+  year: 2009
+- id: riall-2007
+  kind: sekundaer
+  authors: ["Riall, Lucy"]
+  title: Garibaldi
+  subtitle: Invention of a Hero
+  place: New Haven/London
+  publisher: Yale University Press
+  year: 2007
+- id: beales-biagini-2002
+  kind: sekundaer
+  authors: ["Beales, Derek", "Biagini, Eugenio F."]
+  title: The Risorgimento and the Unification of Italy
+  edition: 2. Aufl.
+  place: Harlow
+  publisher: Longman
+  year: 2002
+- id: hearder-1983
+  kind: sekundaer
+  authors: ["Hearder, Harry"]
+  title: Italy in the Age of the Risorgimento 1790–1870
+  place: London
+  publisher: Longman
+  year: 1983
+- id: mack-smith-1954
+  kind: sekundaer
+  authors: ["Mack Smith, Denis"]
+  title: Cavour and Garibaldi 1860
+  subtitle: A Study in Political Conflict
+  place: Cambridge
+  publisher: Cambridge University Press
+  year: 1954
+- id: mack-smith-1985
+  kind: sekundaer
+  authors: ["Mack Smith, Denis"]
+  title: Cavour
+  place: London
+  publisher: Weidenfeld & Nicolson
+  year: 1985
+- id: mack-smith-1994
+  kind: sekundaer
+  authors: ["Mack Smith, Denis"]
+  title: Mazzini
+  place: New Haven/London
+  publisher: Yale University Press
+  year: 1994
+- id: davis-2000
+  kind: sekundaer
+  editors: ["Davis, John A."]
+  title: Italy in the Nineteenth Century 1796–1900
+  place: Oxford
+  publisher: Oxford University Press
+  year: 2000
+- id: duggan-2007
+  kind: sekundaer
+  authors: ["Duggan, Christopher"]
+  title: The Force of Destiny
+  subtitle: A History of Italy since 1796
+  place: London
+  publisher: Allen Lane
+  year: 2007
+- id: lill-1980
+  kind: sekundaer
+  authors: ["Lill, Rudolf"]
+  title: Geschichte Italiens in der Neuzeit
+  place: Darmstadt
+  publisher: Wissenschaftliche Buchgesellschaft
+  year: 1980
+- id: banti-2000
+  kind: sekundaer
+  authors: ["Banti, Alberto Mario"]
+  title: La nazione del Risorgimento
+  subtitle: Parentela, santità e onore alle origini dell'Italia unita
+  place: Turin
+  publisher: Einaudi
+  year: 2000
+- id: romeo-1959
+  kind: sekundaer
+  authors: ["Romeo, Rosario"]
+  title: Risorgimento e capitalismo
+  place: Bari
+  publisher: Laterza
+  year: 1959
+- id: molfese-1964
+  kind: sekundaer
+  authors: ["Molfese, Franco"]
+  title: Storia del brigantaggio dopo l'Unità
+  place: Mailand
+  publisher: Feltrinelli
+  year: 1964
+- id: dickie-1999
+  kind: sekundaer
+  authors: ["Dickie, John"]
+  title: Darkest Italy
+  subtitle: The Nation and Stereotypes of the Mezzogiorno, 1860–1900
+  place: Basingstoke
+  publisher: Macmillan
+  year: 1999
+- id: moe-2002
+  kind: sekundaer
+  authors: ["Moe, Nelson"]
+  title: The View from Vesuvius
+  subtitle: Italian Culture and the Southern Question
+  place: Berkeley
+  publisher: University of California Press
+  year: 2002
